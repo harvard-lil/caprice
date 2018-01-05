@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0085" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Edwards v. Edwards">Lydia A. Edwards, Appellant, v. W. Scott Edwards, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 457</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00238_0" MIMETYPE="image/tiff" CHECKSUM="9d72e40f0e78edff763d479a18c2f77b" CHECKSUMTYPE="MD5" SIZE="45844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_0.tif"/>
+      </file>
+      <file ID="tiff_00238_1" MIMETYPE="image/tiff" CHECKSUM="964082e75f30d9ac654f1be644532d0e" CHECKSUMTYPE="MD5" SIZE="47246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_1.tif"/>
+      </file>
+      <file ID="tiff_00239_0" MIMETYPE="image/tiff" CHECKSUM="1ce8b197748fa71d99a28a5cb189859b" CHECKSUMTYPE="MD5" SIZE="52664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_0.tif"/>
+      </file>
+      <file ID="tiff_00239_1" MIMETYPE="image/tiff" CHECKSUM="6423f1b21f8807e5721da900329b855b" CHECKSUMTYPE="MD5" SIZE="42890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00238_0" MIMETYPE="image/jp2" CHECKSUM="85343be0f667466b1fe1b3a0890465c5" CHECKSUMTYPE="MD5" SIZE="2425471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_0.jp2"/>
+      </file>
+      <file ID="jp2_00238_1" MIMETYPE="image/jp2" CHECKSUM="6ac7f2926854799b68e1ab79d91784ae" CHECKSUMTYPE="MD5" SIZE="2360309">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_1.jp2"/>
+      </file>
+      <file ID="jp2_00239_0" MIMETYPE="image/jp2" CHECKSUM="723187a8c843dbc12b1dcfb2196ffae0" CHECKSUMTYPE="MD5" SIZE="2477532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_0.jp2"/>
+      </file>
+      <file ID="jp2_00239_1" MIMETYPE="image/jp2" CHECKSUM="cad76c909e30ea7d4eb729c1f72953ab" CHECKSUMTYPE="MD5" SIZE="2367640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00238_0" MIMETYPE="text/xml" CHECKSUM="840b7ef3f8a5e0e9a49177eca385af05" CHECKSUMTYPE="MD5" SIZE="80131">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00238_0.xml"/>
+      </file>
+      <file ID="alto_00238_1" MIMETYPE="text/xml" CHECKSUM="74b589b757cb0e90f52ef210b88490fa" CHECKSUMTYPE="MD5" SIZE="84867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00238_1.xml"/>
+      </file>
+      <file ID="alto_00239_0" MIMETYPE="text/xml" CHECKSUM="bffcd60130942b24f2849eedc072ca03" CHECKSUMTYPE="MD5" SIZE="87814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00239_0.xml"/>
+      </file>
+      <file ID="alto_00239_1" MIMETYPE="text/xml" CHECKSUM="263f5971d5c5add1acca8d0999d874e9" CHECKSUMTYPE="MD5" SIZE="71619">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00239_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0085" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="460" firstpage="457">
+              <parties id="b475-7" pgmap="475">Lydia A. Edwards, Appellant, v. W. Scott Edwards, Appellee.</parties>
+              <decisiondate id="A97" pgmap="476">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b476-7" pgmap="476">Marvin T. Robison and Charles F. Robison, for ap­pellant.</attorneys>
+              <attorneys id="b476-8" pgmap="476">W. Scott Edwards and Harry M. Waggoner, for ap­pellee.</attorneys>
+              <summary id="b476-6" pgmap="476">Petition for letters of administration. Appeal from the Circuit Court of Fulton county; the Hon. George W. Thompson, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aeo" pgmap="476">Affirmed.</disposition>
+              <headnotes id="b475-9" pgmap="475">1. Repeal—when not effected by implication. A repeal by im­plication is not favored in the law, and a later statute will never be held to repeal an earlier one, unless they cannot be reconciled. It is the duty of the court to construe them so as to avoid a repeal, if such a construction can be given, and a statute will never be held to be repealed by implication if it can be avoided by any reasonable .hypothesis.</headnotes>
+              <headnotes id="b476-4" pgmap="476">2. Repeat.—when general law does not affect special. A subse­quent law which is general does not repeal a former one which is special and intended to operate on a particular subject, unless it is impossible that both should be enforced. The one does not repeal the other, if both may exist together, and the court will seek for such a construction as to reconcile them, and thus give effect to the legislative will as expressed in each act.</headnotes>
+              <headnotes id="b476-5" pgmap="476">3. Administration of estates—when next of Join not entitled to. Section 9 of chapter 86, pertaining to idiots, drunkards and spend­thrifts, is not repealed by section 18 of the Administration' Act, and the conservator of the deceased, rather than the next of kin, is entitled to administer.</headnotes>
+              <opinion type="majority">
+                <author id="b476-9" pgmap="476">Mr. Presiding Justice Puterbaugh</author>
+                <p id="ADrt" pgmap="476">delivered the opinion of the court.</p>
+                <p id="b476-10" pgmap="476(144) 477(135)">This is an appeal by Lydia A. Edwards from a judgment of the Circuit Court setting aside an order of the County Court by which she had theretofore been appointed administratrix of the estate of her deceased husband, Samuel Edwards, and appointing appellee, W. Scott Edwards, who was acting as conservator of said Samuel Edwards at the time of his death, to ad­minister said estate. The appellee predicated his right to administer upon section 9 of chapter 86 of the statutes, which provides that “Whenever any lunatic, idiot, drunkard or spendthrift shall die seized or pos­sessed of any real or personal estate, then such con­servator shall have full power and authority under the letters issued to him or her, to make full settlement of the estate of said deceased ward, without further letters of administration, in such time and manner as is required by law of administrators of the estates of deceased persons. Provided this shall not apply to non-resident conservators.” Rev. Stat. 1905, p. 1347. Appellant claims the right, as widow of said decedent, by virtue of section 18 of the Administration Act, which as amended, provides for the grant of letters of administration of the estates of all persons dying intestate, by certain persons as therein named, giving preference to the surviving husband or wife, if any. Rev. Stat. 1905, p. 107. It is contended by appellant that inasmuch as the latter section was enacted, as amended, subsequently to the adoption of the former section, it repealed the former by implication. The cause having been submitted to the court upon an agreed statement of facts this is the only question pre­sented for determination.</p>
+                <p id="b477-5" pgmap="477">It is well settled that a repeal by implication is not favored in the law, and a later -statute will never be held to repeal an earlier one, unless they cannot be reconciled. It is the duty of the court to construe them so as to avoid a repeal, if such a construction can be given, and a statute will never be held to be repealed by implication if it can be avoided by any reasonable hypothesis. It is also the rule that a subsequent law which is general does not repeal a former one which is special and intended to operate on a particular sub­ject, unless it is impossible that both should be en­forced. The one does not repeal the other, if both may exist together, and the court will seek for such a construction as to reconcile them, and thus give effect to the legislative will as expressed in each act. Village of Ridgway v. Gallatin Co., 181 Ill. 521; Fowler v. Pirkins, 77 Ill. 271; Trausch v. County of Cook, 147 Ill. 534; Lang v. Friesenecker, 213 Ill. 598. Unless, therefore, the statutes in question can be said to be so directly and positively inconsistent with and repug­nant to each other that under no reasonable hypoth­esis can both be enforced, the contention is without force. Lang v. Friesenecker, supra.</p>
+                <p id="b478-4" pgmap="478">The former section is special in that it operates upon a particular subject, that of the administration of the estates of incompetent persons upon whose con­servators are conferred unusual powers.. We perceive no reason why the respective sections cannot be fairly reconciled and each be consistently enforced independ­ently of the other. The effect of such construction would be to preserve the preferences conferred by the latter section, except in the special case mentioned in the former. No violence would thus be done to the terms of the respective acts, nor, as we believe, would the legislative intent as expressed in each act, be thereby defeated. The purpose of the former sec­tion, which was evidently to save the expense of ad­ministering upon the estates of deceased persons whose estates were already under the control of con­servators and undergoing settlement by the latter (Lang v. Friesenecker, supra), is thus recognized and kept effective.</p>
+                <p id="b478-5" pgmap="478">It is further contended by appellant that in the ab­sence of any proof by appellee that he was a resident conservator his appointment was invalid. If he was disqualified to act for the reason stated, it was the duty of appellant to have established such fact upon the de novo hearing upon the petition in the circuit court.</p>
+                <p id="b478-6" pgmap="478">The judgment will be affirmed.</p>
+                <p id="b478-7" pgmap="478">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="475" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00238_0"/>
+        <fptr FILEID="jp2_00238_0"/>
+        <fptr FILEID="alto_00238_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.3" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.2" BETYPE="IDREF" FILEID="alto_00238_0"/>
+              <area BEGIN="BL_475.4" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="476" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00238_1"/>
+        <fptr FILEID="jp2_00238_1"/>
+        <fptr FILEID="alto_00238_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_476.1" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_476.2" BETYPE="IDREF" FILEID="alto_00238_1"/>
+              <area BEGIN="BL_476.3" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="477" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00239_0"/>
+        <fptr FILEID="jp2_00239_0"/>
+        <fptr FILEID="alto_00239_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_477.3" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_477.2" BETYPE="IDREF" FILEID="alto_00239_0"/>
+              <area BEGIN="BL_477.4" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="478" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00239_1"/>
+        <fptr FILEID="jp2_00239_1"/>
+        <fptr FILEID="alto_00239_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.1" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.2" BETYPE="IDREF" FILEID="alto_00239_1"/>
+              <area BEGIN="BL_478.3" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.4" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.8" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADrt" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.13" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            <area BEGIN="BL_476.14" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.5" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.7" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.7" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeo" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.8" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.10" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.6" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            <area BEGIN="BL_476.7" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.5" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A97" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.9" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.6" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.5" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-10" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.15" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            <area BEGIN="BL_477.1" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.4" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.12" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.11" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

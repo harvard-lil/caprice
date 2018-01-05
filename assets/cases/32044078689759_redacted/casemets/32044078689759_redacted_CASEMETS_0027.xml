@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0027" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Balsewicz v. Chicago, Burlington &amp; Quincy Railway Co.">Dominick Balsewicz, Sr., Administrator, Appellee, v. Chicago, Burlington &amp; Quincy Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 4,917</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 219</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="9884d76d318ebb453399475a4587f3ea" CHECKSUMTYPE="MD5" SIZE="41158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_0.tif"/>
+      </file>
+      <file ID="tiff_00118_1" MIMETYPE="image/tiff" CHECKSUM="8c4fa4fcc058a51dceb417edb5a6befb" CHECKSUMTYPE="MD5" SIZE="52040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_1.tif"/>
+      </file>
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="bb0e7d74afb6824606e2e9fcafa2963d" CHECKSUMTYPE="MD5" SIZE="54406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00119_0.tif"/>
+      </file>
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="3478366068f41b900e0718d12115030f" CHECKSUMTYPE="MD5" SIZE="53276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="f8e506768575e8f950dd963879540321" CHECKSUMTYPE="MD5" SIZE="52690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="0e77b444c5b054365c352bc4da7f2230" CHECKSUMTYPE="MD5" SIZE="54178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="5adf436a433a2601b4fd882c46a4fc87" CHECKSUMTYPE="MD5" SIZE="44234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00121_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="81d93101683aa65cc0489788b0acc2da" CHECKSUMTYPE="MD5" SIZE="2302880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_0.jp2"/>
+      </file>
+      <file ID="jp2_00118_1" MIMETYPE="image/jp2" CHECKSUM="41b753317e28b52a054c653478a2b0e3" CHECKSUMTYPE="MD5" SIZE="2370305">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_1.jp2"/>
+      </file>
+      <file ID="jp2_00119_0" MIMETYPE="image/jp2" CHECKSUM="0d799907e49b4c70bb690c9eea786028" CHECKSUMTYPE="MD5" SIZE="2423610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00119_0.jp2"/>
+      </file>
+      <file ID="jp2_00119_1" MIMETYPE="image/jp2" CHECKSUM="826055ec20dd9c2cb3a36bd872428456" CHECKSUMTYPE="MD5" SIZE="2366796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00119_1.jp2"/>
+      </file>
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="e3bdc05a96b4a04fdccef351036342e7" CHECKSUMTYPE="MD5" SIZE="2390713">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00120_0.jp2"/>
+      </file>
+      <file ID="jp2_00120_1" MIMETYPE="image/jp2" CHECKSUM="20f32a0ffe9e8a8b3e5ad181c9d9d2fe" CHECKSUMTYPE="MD5" SIZE="2381314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00120_1.jp2"/>
+      </file>
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="bf70a72cf208c98c01e6e809a426ea89" CHECKSUMTYPE="MD5" SIZE="2322220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00121_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="56d0400302a35ea3331176914c8bda76" CHECKSUMTYPE="MD5" SIZE="74012">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00118_0.xml"/>
+      </file>
+      <file ID="alto_00118_1" MIMETYPE="text/xml" CHECKSUM="3daf225bf54aa6050d519f364894140e" CHECKSUMTYPE="MD5" SIZE="90598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00118_1.xml"/>
+      </file>
+      <file ID="alto_00119_0" MIMETYPE="text/xml" CHECKSUM="96e6d578cc350b7c5aedfaf7be7c54dd" CHECKSUMTYPE="MD5" SIZE="89533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00119_0.xml"/>
+      </file>
+      <file ID="alto_00119_1" MIMETYPE="text/xml" CHECKSUM="3780cd1a71d67ca2c0c2b3a36acde327" CHECKSUMTYPE="MD5" SIZE="91572">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00119_1.xml"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="9fcd27a922223b236cad9cca458c4b3c" CHECKSUMTYPE="MD5" SIZE="89438">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00120_0.xml"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml" CHECKSUM="c3fce3c9ccda6a78ce5a825024b431de" CHECKSUMTYPE="MD5" SIZE="91878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00120_1.xml"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="fa1c95895664153884397ca97106dc02" CHECKSUMTYPE="MD5" SIZE="74093">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00121_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="225" firstpage="219">
+              <docketnumber pgmap="235" id="Ayi">Gen. No. 4,917.</docketnumber>
+              <parties pgmap="235" id="b235-7">Dominick Balsewicz, Sr., Administrator, Appellee, v. Chicago, Burlington &amp; Quincy Railway Company, Appellant.</parties>
+              <decisiondate pgmap="235" id="Ayi8">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="235" id="AO8">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="235" id="A6e">Rehearing denied October 13, 1908, and opinion modified.</otherdate>
+              <attorneys pgmap="235" id="b235-17">Cairo A. Trimble, for appellant; Chester M. Dawes and J. A. Connell, of counsel.</attorneys>
+              <attorneys pgmap="235" id="b235-18">Pomeroy &amp; Demerath and John L. Murphy, for ap­pellee.</attorneys>
+              <summary pgmap="235" id="b235-16">Action in case for death caused by alleged wrongful act. Ap­peal from the Circuit Court of Bureau county; the Hon. Samuel C. Stougii, Judge, presiding.</summary>
+              <disposition pgmap="235" id="ARCz">Affirmed.</disposition>
+              <headnotes pgmap="235" id="b235-11">1. Trespasser—when person crossing upon right of way not. A person who leaves a street crossing and passes around upon the right of. way because of cars blocking the street passage, does not become a trespasser as a matter of law.</headnotes>
+              <headnotes pgmap="235" id="b235-12">2. Release—when by administrator void. A release of liability for negligently causing death made by an administrator who ob­tained letters without authority is void.</headnotes>
+              <headnotes pgmap="235" id="b235-13">3. Pleading—what essential to question authority of adminis­trator. The representative capacity of an administrator suing for negligently causing the death of his intestate can only be ques­tioned by special plea.</headnotes>
+              <headnotes pgmap="235" id="b235-14">4. Evidence—what may establish wilfulness. Failure to observe a speed ordinance may establish wilfulness; and an instruction in the negative of this proposition, disapproved.</headnotes>
+              <headnotes pgmap="235" id="b235-15">5. Assignments of error—when deemed waived. Assignments of error not argued are deemed waived.</headnotes>
+              <opinion type="majority">
+                <author pgmap="236" id="b236-4">Mr. Justice Willis</author>
+                <p pgmap="236" id="A-c">delivered the opinion of the court.</p>
+                <p pgmap="236(357) 237(363) 238(87)" id="b236-5">Main street in Kewanee runs north and south and is crossed nearly at right angles by the tracks of ap­pellant, the Chicago, Burlington and Quincy Railway Company. South of the railroad, and east of Main street, are the works of the Western Tube Company. On April 29, 1905, there were about 420 people em­ployed at the Tube Works who were let out at ten minutes to twelve, and at twelve m., many going north across these tracks to their dinner. South of the main tracks were two passing tracks and next to the Tube Company buildings, a switch, track, all parallel with the main tracks. Some little distance farther south were two tracks running diagonally from the railway into the Tube Company plant. North of all these tracks and south of the last of these diagonal tracks were gates across Main street. There was a twenty foot space in which there was a sidewalk north and south on each side of Main street. There was an arm of the gate closing the west sidewalk of Main street when the gates were down on the south side of the tracks, but the corresponding arm on the east side of the street, south of the railroad tracks, was gone, and there was no gate protection for the east twenty feet of the street south of the tracks, including the side­walk. These gates were operated from a tower situ­ated sixteen feet west of the west line of the street. Just before 12 o’clock on April 29, 1905, a switch en­gine with several cars attached was across Main street on the south one of the tracks that are parallel. There was proof that said engine and cars were standing still upon and over the crossing, and other proof that they were moving slowly. If the jury found that they were standing still upon the street crossing, this court would not be justified in disturbing that conclusion after it has been approved by the trial judge who also-­saw the witnesses. At about noon a west-bound pas­senger train came in on the north main track and stopped at the depot two blocks west of Main street. About this time, Dominick Balsewicz, the deceased, came out of the Tube Works where he was employed, went north on the east sidewalk of Main street, and passed the place where the south gates were. At that time the gates were not down, but were lowered be­fore a man behind Turn reached them. When deceased reached the switch train, he turned west, ran around the west end of the switch engine, and then north­easterly towards the street on the opposite side. The tower man called to him to stop, and another railroad man caught hold of him and tried to stop him. De­ceased did not understand English, and appears to have been frightened. He ran in front of the approach­ing passenger train and was struck by the pilot or pilot beam, and thrown to a point sixty feet west of the street, dying almost instantly. July 27,1905, letters of administration on the estate of the deceased were is­sued by the County Court of Bureau county to Domi­nick Balsewicz, appellee, who instituted this suit against appellant, the Chicago, Burlington and Quincy Bailway Company, in the Circuit Court of said county to recover for the loss to the next of kin of the de­ceased, who were appellee, the father, and the mother, with numerous brothers and sisters. The declaration contained eight counts, and alleged illegal blocking of the crossing by a switch train; violation of an ordi­nance of the city of Kewanee prohibiting railroad com­panies from blocking crossings by stopping engines or cars thereon longer than five minutes unless absolutely necessary, and in no case longer than ten minutes; wantonness in running at a high rate of speed, to wit: forty miles per hour; violation of an ordinance of the city of Kewanee prohibiting the speed of freight trains at more than six miles, and passenger trains at more than ten miles per hour; failure of defendant to warn persons using crossing of the approach of trains, and failure to maintain gates or effective system of signals of danger at crossings. Each count averred that de­ceased was in the exercise of due care for his own safety. The allegation in regard to blocking a cross­ing for more than ten minutes was dismissed. Appel­lant filed a plea of not guilty. A trial was had result­ing in a verdict for $1,500 for appellee. A motion for a new trial was denied, judgment was entered on the verdict for $1,500 and $33.55 interest which accrued because of the delay in hearing the motion for a new trial. The company prosecuted this appeal.</p>
+                <p pgmap="238" id="b238-5">Appellant’s proof is, that the switch train was mov­ing west and continued to move west after the acci­dent. Appellee’s testimony is that it went back east after the accident and cleared the street. There was as much evidence tending to show that it went east as that it went west. Deceased was a boy of but eighteen years and had been in this country but one year, and did not speak or understand English, and may not have understood the well-meaning efforts of the rail­way men to warn him and may have been confused and frightened by them. The evidence is conflicting as to whether he ran east or west of the tower. If he ran east, he did not go far beyond the street line. This was a public street crossing, the only crossing for two blocks, and was used by many people at this time of day. Appellee’s proof shows that the train was run­ning at the rate of twenty-five to forty miles per hour as it crossed Main street, and appellant’s proof shows that it was running from fifteen to twenty miles per hour. The fact as shown by the evidence, that deceased was thrown a distance of sixty feet indicates that the speed was great. It was running in violation of the ordinance declared on and the gates afforded him no warning.</p>
+                <p pgmap="238(55) 239(49)" id="b238-6">Whether the crossing was obstructed in violation of the ordinance or not, and whether, the train was being driven by appellant’s servants at a reckless and wan­ton rate of speed, as charged in the declaration, and whether deceased was in the exercise of ordinary care for his own safety, were contested questions of fact for the determination of the jury. These, they found in favor of appellee and their finding, which in our opinion is supported by a preponderance of the evi­dence, should not be disturbed except for some ma­terial error of law by which they may have been mis­led.</p>
+                <p pgmap="239" id="b239-5">It is contended that deceased became a trespasser when he left the street, and having been struck west on the right of way, no recovery can be had unless appellant was guilty of wanton conduct, and that there is no ground for that holding. In Chicago Junction Co. v. McGrath, 107 Ill. App. 100, a case in which the deceased stepped off a street crossing upon the right of way of the railway company to go around cars standing upon the crossing, and was struck by cars suddenly kicked back, receiving injuries from which he died, the court held that a private individual is not by law compelled to stop and wait at a railroad crossing until the railroad company has removed cars which partly blockade it and that he has .the right to pass around the end of the cars, and in so doing does not be­come a trespasser, nor put himself outside the protection of the law if he steps over the line of the street onto the railroad yards. This case was appealed to the Su­preme Court where it was held that the question whether deceased was guilty of negligence was prop­erly submitted to the jury. 203 Ill. 511.</p>
+                <p pgmap="239(109) 240(229)" id="b239-6">Appellant introduced in evidence over appellee’s objection, letters of administration dated June 5, 1905, issued by the Probate Court of Cook county on the estate of deceased to one Joseph T. Wachowski, and a receipt for $100 received from appellant signed by said Wachowski as administrator of the estate of de­ceased in consideration of which he released all his claim as administrator, and that of next of kin of de­ceased, growing out of the death of said deceased on account of said accident. Appellant asked the court to give an instruction to the effect that such release barred a recovery, which the court refused to do, which ruling appellant contends was error. The proof is un­disputed that the father, mother, brothers, and sisters of deceased lived in Bureau county at the time that letters were issued by the Probate Court of Cook county, and that deceased was a minor and had lived with his parents until about three weeks before the accident, when he went to Kewanee to secure work. Deceased had never lived in Cook county, had no prop­erty in that county, none of his next of kin lived in that county, and none had consented that letters of ad­ministration should be granted to Wachowski, and just how he broke into the administration is not ap­parent, and his good faith may reasonably be ques­tioned. The parents and next of kin of deceased were entitled by law to the exclusive privilege of taking out letters of administration during the first sixty days after the death of deceased, and the Cook county let­ters issued within that time usurped the rights of next of kin of deceased and were void. Moreover, appel­lee’s representative capacity could only be attacked by special plea. Union Railway &amp; Transit Co. v. Shack­let, 119 Ill. 232; C. &amp; A. R. R. Co. v. Smith, 180 Ill. 453. Hence there was no error in the refusal of the instruc­tions that the release barred a recovery.</p>
+                <p pgmap="240" id="b240-5">Complaint is made of appellee’s third instruction which reads as follows:</p>
+                <blockquote pgmap="240(133) 241(18)" id="b240-6">“If you believe from the evidence that at the time and place in question Dominick Balsewicz, Jr., while walking northward on the street in question, arrived at the crossing in question and found it blocked by a locomotive engine attached to some cars of defendant, standing across the street there, and that thereupon he went a short distance across the west line of said street onto the private lands of said defendant and proceeded around the west end of said train of cars and engine, with a view to resume his journey along said street after passing said train so standing there, and that while so doing, he was exercising ordinary care for his safety, under all circumstances, then you are in-' structed that in so going around the end of said train he did not pnt himself outside of the protection of the law nor become a trespasser. ’ ’</blockquote>
+                <p pgmap="241" id="b241-5">In view of what we have already suggested, and the holding in Chicago Junction Ry. v. McGrath, supra¡ we are of the opinion that there was no error in this instruction.</p>
+                <p pgmap="241" id="b241-6">Complaint is made of the refusal of an instruction which read as follows:</p>
+                <blockquote pgmap="241" id="b241-7">“You are further instructed, that wilfulness or wantonness, in the infliction of an injury, is not charge­able against a Railroad Company merely by reason of the failure of a Railroad Company to comply with the ordinance of the City, as to the limit of speed of its trains, within the corporate limits where such injury may occur.”</blockquote>
+                <p pgmap="241" id="b241-8">It is not true that a failure to comply with an ordi­nance cannot establish wilfulness and wantonness against a railroad company. It may or may not prove wantonness, and wilfulness. For example, if it had appeared from the evidence that the train that killed the deceased had run at a speed of sixty miles per hour over this crossing, it would have shown wil­fulness and wantonness. There was no error in the refusal of this instruction.</p>
+                <p pgmap="241" id="b241-9">Appellant complains of the refusal of other instruc­tions, but these are the only ones argued, and the er­rors as to the others are therefore waived. We will add, however, that they are all addressed to the prop­osition that deceased necessarily became a trespasser when he went upon appellant’s right of way in order to pass around the switch train, and this position is untenable, as we have already held.</p>
+                <p pgmap="241" id="b241-10">Finding no reversible error in the record, the judg­ment of the trial court is affirmed.</p>
+                <p pgmap="241" id="b241-11">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="235" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.2" BETYPE="IDREF" FILEID="alto_00118_0"/>
+              <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="236" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00118_1"/>
+        <fptr FILEID="jp2_00118_1"/>
+        <fptr FILEID="alto_00118_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.1" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.2" BETYPE="IDREF" FILEID="alto_00118_1"/>
+              <area BEGIN="BL_236.3" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="237" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jp2_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.3" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.2" BETYPE="IDREF" FILEID="alto_00119_0"/>
+              <area BEGIN="BL_237.4" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="238" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jp2_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.2" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.3" BETYPE="IDREF" FILEID="alto_00119_1"/>
+              <area BEGIN="BL_238.4" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.4" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.2" BETYPE="IDREF" FILEID="alto_00120_0"/>
+              <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="224" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jp2_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.2" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.3" BETYPE="IDREF" FILEID="alto_00120_1"/>
+              <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.2" BETYPE="IDREF" FILEID="alto_00121_0"/>
+              <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+              <area BEGIN="BL_241.12" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.6" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_240.1" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.5" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.11" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.16" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_235.17" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.6" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_239.1" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.5" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayi8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.19" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARCz" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.18" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-14" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.12" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6e" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.20" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_235.21" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.5" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-18" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.23" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.11" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.10" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.9" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-17" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.22" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-16" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.14" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            <area BEGIN="BL_235.15" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-15" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.13" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.5" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.10" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.7" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.7" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.6" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_241.1" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-c" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.5" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            <area BEGIN="BL_236.6" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.6" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.8" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.9" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.4" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.7" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            <area BEGIN="BL_237.1" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_238.1" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayi" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.8" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

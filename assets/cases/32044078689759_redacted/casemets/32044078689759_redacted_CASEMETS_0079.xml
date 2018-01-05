@@ -1,0 +1,689 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0079" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Seith v. Commonwealth Electric Co.">Albert Seith, Appellee, v. Commonwealth Electric Company, Appellant</name>
+          <docketnumber>Gen. No. 14,001</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 612</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00314_1" MIMETYPE="image/tiff" CHECKSUM="b2b5e670e5c86cca9f697d88629a9611" CHECKSUMTYPE="MD5" SIZE="45394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_1.tif"/>
+      </file>
+      <file ID="tiff_00315_0" MIMETYPE="image/tiff" CHECKSUM="fbea7f26f4d30cde2c341b5c0773f1eb" CHECKSUMTYPE="MD5" SIZE="47462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00315_0.tif"/>
+      </file>
+      <file ID="tiff_00315_1" MIMETYPE="image/tiff" CHECKSUM="25812da5437feaca00d64fa48df46e6b" CHECKSUMTYPE="MD5" SIZE="53542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00315_1.tif"/>
+      </file>
+      <file ID="tiff_00316_0" MIMETYPE="image/tiff" CHECKSUM="5f5c2fc55cbe6c289dea87a66bf8c689" CHECKSUMTYPE="MD5" SIZE="56444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00316_0.tif"/>
+      </file>
+      <file ID="tiff_00316_1" MIMETYPE="image/tiff" CHECKSUM="1a6520c47faa290fa782ece8c83411f1" CHECKSUMTYPE="MD5" SIZE="52902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00316_1.tif"/>
+      </file>
+      <file ID="tiff_00317_0" MIMETYPE="image/tiff" CHECKSUM="c0be28ea91bb677b1493be68107799b3" CHECKSUMTYPE="MD5" SIZE="53106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00317_0.tif"/>
+      </file>
+      <file ID="tiff_00317_1" MIMETYPE="image/tiff" CHECKSUM="6a68d8fe7a8109399e456f94dad29a52" CHECKSUMTYPE="MD5" SIZE="53246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00317_1.tif"/>
+      </file>
+      <file ID="tiff_00318_0" MIMETYPE="image/tiff" CHECKSUM="54a312b1051278a285f8f1aaf80a558f" CHECKSUMTYPE="MD5" SIZE="52342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00318_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00314_1" MIMETYPE="image/jp2" CHECKSUM="89c082399ccbb9245d6056e90d2dcb8b" CHECKSUMTYPE="MD5" SIZE="2286087">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_1.jp2"/>
+      </file>
+      <file ID="jp2_00315_0" MIMETYPE="image/jp2" CHECKSUM="543fa37e723e64a204129d6bf39ae5b4" CHECKSUMTYPE="MD5" SIZE="2309145">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00315_0.jp2"/>
+      </file>
+      <file ID="jp2_00315_1" MIMETYPE="image/jp2" CHECKSUM="0be58fa48c7109822fe376aa89d42bf3" CHECKSUMTYPE="MD5" SIZE="2346163">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00315_1.jp2"/>
+      </file>
+      <file ID="jp2_00316_0" MIMETYPE="image/jp2" CHECKSUM="854958295bb619c31a190a7a609ae6a0" CHECKSUMTYPE="MD5" SIZE="2383905">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00316_0.jp2"/>
+      </file>
+      <file ID="jp2_00316_1" MIMETYPE="image/jp2" CHECKSUM="a0f2ae17cd85790349957d3ec040bdac" CHECKSUMTYPE="MD5" SIZE="2331621">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00316_1.jp2"/>
+      </file>
+      <file ID="jp2_00317_0" MIMETYPE="image/jp2" CHECKSUM="0787bd8bc96f5f4183fd06c758c05e4a" CHECKSUMTYPE="MD5" SIZE="2379129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00317_0.jp2"/>
+      </file>
+      <file ID="jp2_00317_1" MIMETYPE="image/jp2" CHECKSUM="d9c435954bef60748e35fcb6c6ca83eb" CHECKSUMTYPE="MD5" SIZE="2334031">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00317_1.jp2"/>
+      </file>
+      <file ID="jp2_00318_0" MIMETYPE="image/jp2" CHECKSUM="80bd57fa7526df23b667b7430983e349" CHECKSUMTYPE="MD5" SIZE="2349754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00318_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00314_1" MIMETYPE="text/xml" CHECKSUM="8caa82d9f346114743fe77277e3534ca" CHECKSUMTYPE="MD5" SIZE="69702">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00314_1.xml"/>
+      </file>
+      <file ID="alto_00315_0" MIMETYPE="text/xml" CHECKSUM="0c2111071a5ae320e9ec5b4665cea2cf" CHECKSUMTYPE="MD5" SIZE="84908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00315_0.xml"/>
+      </file>
+      <file ID="alto_00315_1" MIMETYPE="text/xml" CHECKSUM="ddd346a70b50629f571018888dff55d0" CHECKSUMTYPE="MD5" SIZE="86005">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00315_1.xml"/>
+      </file>
+      <file ID="alto_00316_0" MIMETYPE="text/xml" CHECKSUM="dc187f6964e7675081f66183519a3fdc" CHECKSUMTYPE="MD5" SIZE="89717">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00316_0.xml"/>
+      </file>
+      <file ID="alto_00316_1" MIMETYPE="text/xml" CHECKSUM="6e97b3f85c83fc81539054aed385b8cc" CHECKSUMTYPE="MD5" SIZE="90124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00316_1.xml"/>
+      </file>
+      <file ID="alto_00317_0" MIMETYPE="text/xml" CHECKSUM="358bbe792d1b5edb3ca8c5914bb0d162" CHECKSUMTYPE="MD5" SIZE="85710">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00317_0.xml"/>
+      </file>
+      <file ID="alto_00317_1" MIMETYPE="text/xml" CHECKSUM="2dd856cb711e0bd4cdc43726b4a3fa97" CHECKSUMTYPE="MD5" SIZE="86177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00317_1.xml"/>
+      </file>
+      <file ID="alto_00318_0" MIMETYPE="text/xml" CHECKSUM="137938e6c46aae6d54fa3b63e5ef37c5" CHECKSUMTYPE="MD5" SIZE="84142">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00318_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0079" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="619" firstpage="612">
+              <docketnumber pgmap="628" id="b628-10">Gen. No. 14,001.</docketnumber>
+              <parties pgmap="628" id="b628-9">Albert Seith, Appellee, v. Commonwealth Electric Company, Appellant.</parties>
+              <decisiondate pgmap="629" id="AGt">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="629" id="A1Rq">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="629" id="A7i">Rehearing denied November 30, 1908.</otherdate>
+              <attorneys pgmap="629" id="b629-7">F. M. Cox, F. J. Canty and J. C. M. Clow, for ap­pellant.</attorneys>
+              <attorneys pgmap="629" id="b629-8">Morse Ives, for appellee.</attorneys>
+              <summary pgmap="629" id="b629-6">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Richard W. Clifford, Judge, pre­siding.</summary>
+              <disposition pgmap="629" id="AMm">Affirmed.</disposition>
+              <headnotes pgmap="628(43) 629(29)" id="b628-11">1. Verdict—what considered in support of. The Appellate Court in determining whether the verdict of the jury will be disturbed will take into consideration the fact that the jury saw the wit­nesses and were able to observe their manner of testifying, their frankness or prejudice, their interest or lack of interest in the cause or the parties, and were able' therefrom to say who were en­titled to the greater credence.</headnotes>
+              <headnotes pgmap="629" id="b629-4">2. Negligence—when evidence sustains charge of, where injury results from live wire. Held, that the evidence justified the ver­dict of the jury upon the question as to whether the defendant electric light company was negligent in connection with the injury resulting from coming in contact with a live wire.</headnotes>
+              <headnotes pgmap="629" id="b629-5">3. Electricity—when failure to obey ordinance negligence. It is the duty of an electric light company which has accepted an ordinance to comply with its provisions enacted to protect the public from lurking dangers and a failure so to do resulting in injury to an individual constitutes actionable negligence.</headnotes>
+              <opinion type="majority">
+                <author pgmap="629" id="b629-9">Mb. Justice Holdom</author>
+                <p pgmap="629" id="AY3">delivered the opinion of the court.</p>
+                <p pgmap="629" id="b629-10">The plaintiff was injured by coining in physical con­tact with a live electrical wire, the property of defend­ant, while said wire was upon the ground, having broken and fallen upon the public highway upon which plaintiff was travelling, as he lawfully might, when injured. A trial in the Circuit Court resulted in a verdict for $4,000, upon which, after the overruling of motions for a new trial and in arrest of judgment, the trial court gave judgment. To these actions of the court defendant made objections and preserved exceptions.</p>
+                <p pgmap="629(42) 630(10)" id="b629-11">While twenty-three assignments of error appear upon the record, the efforts of counsel in argument are mainly confined to the contention that the verdict and judgment are unsupported by the evidence and con­trary to its preponderating force, and that the evi­dence fails to disclose any actionable negligence of de­fendant.</p>
+                <p pgmap="630" id="b630-5">There is a line of poles on Noble street, one of which is near the intersection of Grand avenue. On these poles are four cross arms. On the top cross arm the wires of defendant were strung. They were charged with a high voltage of electricity used in electric light­ing. On the three other cross arms were strung tele­phone wires. The poles near the intersection of Noble street and Grand avenue are about 100 feet from each other. Plaintiff lived in a flat building, the first floor of which was occupied as a saloon on the southwest corner of Grand avenue and Noble street. On the 19th day of August, 1903, plaintiff left his flat by the out­side back stairs and while walking on the west side of Noble street was struck in the breast with the live wire of defendant, which had previously broken and fallen to the ground. A policeman struck the wire with his club, causing the wire to strike plaintiff in the breast, whereupon plaintiff grabbed the wire with both his hands and was seriously burned with the escaping electric fluid. • It appears that plaintiff was unconscious of his peril or the fact of the wire being upon the ground until it struck Mm in the breast. The electric wires of defendant at the point of the accident were not guarded or protected in any way.</p>
+                <p pgmap="630" id="b630-6">Plaintiff declared upon section 6 of an ordinance of the city of Chicago granting an operative franchise to defendant .passed June 28, 1897, and which reads.: “The conductors and wires owned and operated by the said company under the provisions of this ordi­nance shall be properly insulated and all overhead con­ductors used by said company shall be protected by guard wires or other suitable mechanical device or devices”.</p>
+                <p pgmap="630(35) 631(127)" id="b630-7">Defendant contends that the wires were thoroughly insulated and in perfect condition; that they had been strung new less than nine months previous to the acci­dent; that the breaking and consequent falling of the wire could only be accounted for upon the theory that a kite, known to have been caught on the wires, and produced in evidence, became so entangled in defend­ant’s wires that two of them were brought together, short-circuiting them so that the wire in question was burned out, broke arid fell to the ground. Defendant further contends that the injuring of plaintiff was brought about as a result of his own carelessness; that he and a policeman discussed the condition of the fal­len wire, the policeman insisting that it was alive and dangerous and plaintiff maintaining that it was dead and harmless; that plaintiff, in spite of the command of the policeman not to touch the wire, stooped and picked it up, with resulting injury.</p>
+                <p pgmap="631" id="b631-4">From these facts it is claimed that there is no ac­tionable negligence imputable to defendant. We must not lose sight of the fact, in arriving at our conclusion, that there is a sharp conflict in the evidence. This conflict it was the burden of the jury to reconcile. They saw the witnesses, whom we cannot see, and were able to observe their manner of testifying, their frank­ness or prejudice, which ever was apparent, their in­terest or lack of interest in the cause or the parties, if any, and were able therefrom to say who was entitled to the greater credence. The witnesses were from various walks in life and of much disparity in age. Two little girls thirteen years old, eye witnesses of the accident, were put upon the stand by plaintiff, and two policemen and a young man, who testified that he was a teacher in the T. M. C. A. and also acted as barkeeper for his father, testified for defendant. The candor of immature youth may have rendered the testi­of the two little girls more trustworthy and convinc­ing to the minds of the jury than the evidence of the policeman found in a saloon, and that of the young man whom the jury may have regarded as engaged in irreconcilable and incompatible employments.</p>
+                <p pgmap="631(18) 632(169)" id="b631-5">What in fact, caused the wire to break is largely a matter of conjecture. Defendant’s theory that two wires were short-circuited by the kite, made of a part of a Daily News, being upon the wires, is entirely lack­ing direct proof. It is in evidence that another kite, made of pink paper, had rested upon these wires be­tween two and three weeks prior to the accident. If the breaking of the wires can be attributed to the interposition of a kite, then it was for the jury to say which kite was the proximate cause of the wires break­ing. If they concluded the pink kite was the cause, they may have regarded it as negligence in defendant in permitting the pink kite to remain upon the wires so long a space of time, and not removing it. They may have concluded that defendant was negligent in permitting a live electric wire to be upon the ground at any time, and that the evidence of defendant fell short of rebutting the presumption of negligence thus arising. There is authority of law to support this proposition.</p>
+                <p pgmap="632(199) 633(143)" id="b632-5">In affirming the judgment of the trial court it was said in Denver Consolidated Electric Company v; Simpson, 21 Colo. 371: “In substance the court in­structed the jury that if they found that the defend­ant’s wire was so charged with electricity as to be­come dangerous to persons coming in contact with it, and that the wire had been disconnected or detached from its fastenings and hung down in a public alley, so as to endanger public travel, that of itself was prima facie evidence of negligence on the part of the defendant”. And it was held in Larson v. Central Ry. Co., 56 Ill. App. 263, that proof of an injury occur­ring as the proximate result of an act which under ordinary circumstances would not, if done with due care, have injured any one, is enough to make out a presumption of negligence. That permitting a broken electric wire to hang loose in the streets, with proof of a resulting injury, makes out a prima facie case of negligence. The jury were warranted from the evi­dence, we think, in concluding that the broken wire was not sufficiently insulated, for if it had been it might not have short-circuited from the intervention of either kite. Again, defendant contends that the wires were strung upon the arms of the poles in the ordinary and usual way; but even so, this is not suf­ficient to exculpate defendant from the negligence im­putable to it from the falling of the wire. The ordi­nance which was pleaded and proven directed certain precautions to be taken by defendant in the stringing of its wires. This ordinance was accepted by defend­ant and was binding upon it. The witness, E. W. Leese, testified that guard wires were strung parallel and underneath the electrically charged wires with short wires strung crosswise every few feet to keep the charged wires from falling. It is admitted that no such guard wires were used or any other mechanical device to arrest the falling of the wires.</p>
+                <p pgmap="633" id="b633-4">The ordinance supra was before the Supreme Court in Commonwealth Electric Co. v. Rose, 214 Ill. 545, and it was there held that the defendant was estopped from repudiating its conditions; that having advan­taged of its benefits, it could not escape the liability imposed by it. Furthermore, that an ordinance grant­ing the right to an electric company to erect poles and wires, and requiring the company to properly insulate the overhead wires and to protect them by guard wires “or other suitable mechanical device or devices” has the force of a statute, the violation of which, after acceptance and availing of its benefits, is prima facie evidence of negligence.</p>
+                <p pgmap="633(94) 634(14)" id="b633-5">In case supra the Branch Appellate Court, by Mr. Justice Baker, said in 114 Ill. App. 181: “The defend­ant made no attempt to protect its overhead conduc­tor, charged as it was, with an amount of electric current dangerous to human life, by guard wire or any mechanical device whatever. It is no answer to say that the ordinance did not provide whether the guard wire should be placed above or below the conductor. At this street crossing the telephone wires were above the conductor, and the guard wire to protect the con­ductor from contact with the telephone wire must necessarily be placed above the conductor”.</p>
+                <p pgmap="634" id="b634-5">The modern use of electricity, uncontrolled, is fraught with peril to human life. The ordinance was' enacted to protect the public from such lurking dan­gers, and it was the duty of defendant to comply with the ordinance in such a way that its wires, highly charged with electric fluid, should not fall and be a menace to the life and limb of the public lawfully travelling upon the highway in their vicinity.</p>
+                <p pgmap="634" id="b634-6">We think the jury were justified in finding from the evidence that defendant was guilty of the negligence charged and proven as proximately causing the in­juries from which plaintiff suffered. •</p>
+                <p pgmap="634(230) 635(184)" id="b634-7">The two little girls, Gladys Leader and Dora Jen­sen, saw the wire in the street and, young as they were, realized the danger its continuance in the street was to passers by. They immediately entered Bach­rach’s saloon to notify him of the trouble and found two policemen there resting themselves. Their testi­mony in its material parts is corroborated by plaintiff, Albert Johnson and defendant’s witness, Thomas Ableseth. They support plaintiff’s statement that the wire came in contact with his person by one of the policemen striking the wire with his club.. Opposed to this is the testimony of officer Megary that officer King hollered to plaintiff not to touch the wire and to get away from it; that plaintiff answered that it was a dead wire, and that King said, “Dead or alive, leave it alone”, but that in spite of this warning plaintiff stooped and picked up the wire and in so doing was injured. Officer King testified in substance corrobo­rating officer Megary. Defendant’s own witness, Able­seth, flatly contradicts the two officers when he says that plaintiff did not stoop down and pick up the wire; that he caught the wire standing up, and that he did not hear either of the officers say anything. Philip Murphy, a police officer connected with the Chicago &amp; Northwestern Bailway, testified that he was in a saloor on the southwest corner of Grand avenue and Noble street, and ordered a glass of beer, and saw through the bar mirror plaintiff pick up the wire. Under the circumstances we are not surprised that the jury were loath to place much credence in this evidence. It is not natural and challenges credulity somewhat to place reliance upon it. The remainder of Murphy’s testi­mony is largely as to what took place after plaintiff was felled to the earth by the shock after coming in contact with the wire, and is unimportant. A good deal of Bachrach’s testimony sustains the account of the two little girls, the only material variance being that plantiff stooped down and picked up the wire. The jury had the right to disbelieve the testimony of this witness where it was in conflict with plaintiff’s proof, if, from the manner and bearing of the witness, they concluded he was prejudiced or in any way unfair in this part of his evidence. The reliability of his testimony as a whole and the weight to be accorded it was for the jury.</p>
+                <p pgmap="635" id="b635-4">James Kraemer, a blacksmith, testified for defend­ant that he saw the wire “bust and fall down” and plaintiff stoop down and pick up the wire and pull it through his hand until he came to the broken end, when he uncovered part of the wire. Kramer admits that when approached after the accident by two men, he told them he did not know anything about the ac­cident and did not want to. The jury may have be­lieved the latter and not the former statement of Kraemer. The whole evidence considered, we are in accord with the finding of the jury. The verdict is clearly sustained by a preponderance of the proofs. No question is made of the nature and extent of plaint­iff’s injuries, therefore there is no controversy here challenging the justness of the damages awarded.</p>
+                <p pgmap="635" id="b635-5">Finding no reversible error in this record, the judg­ment of the Circuit Court is affirmed.</p>
+                <p pgmap="635" id="b635-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="628" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00314_1"/>
+        <fptr FILEID="jp2_00314_1"/>
+        <fptr FILEID="alto_00314_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.2" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.3" BETYPE="IDREF" FILEID="alto_00314_1"/>
+              <area BEGIN="BL_628.4" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="629" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00315_0"/>
+        <fptr FILEID="jp2_00315_0"/>
+        <fptr FILEID="alto_00315_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.2" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.3" BETYPE="IDREF" FILEID="alto_00315_0"/>
+              <area BEGIN="BL_629.4" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="630" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00315_1"/>
+        <fptr FILEID="jp2_00315_1"/>
+        <fptr FILEID="alto_00315_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_630.2" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_630.3" BETYPE="IDREF" FILEID="alto_00315_1"/>
+              <area BEGIN="BL_630.4" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="631" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00316_0"/>
+        <fptr FILEID="jp2_00316_0"/>
+        <fptr FILEID="alto_00316_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_631.2" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_631.3" BETYPE="IDREF" FILEID="alto_00316_0"/>
+              <area BEGIN="BL_631.4" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="632" ORDERLABEL="616" TYPE="page">
+        <fptr FILEID="tiff_00316_1"/>
+        <fptr FILEID="jp2_00316_1"/>
+        <fptr FILEID="alto_00316_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_632.2" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_632.3" BETYPE="IDREF" FILEID="alto_00316_1"/>
+              <area BEGIN="BL_632.4" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="633" ORDERLABEL="617" TYPE="page">
+        <fptr FILEID="tiff_00317_0"/>
+        <fptr FILEID="jp2_00317_0"/>
+        <fptr FILEID="alto_00317_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.2" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.3" BETYPE="IDREF" FILEID="alto_00317_0"/>
+              <area BEGIN="BL_633.4" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="634" ORDERLABEL="618" TYPE="page">
+        <fptr FILEID="tiff_00317_1"/>
+        <fptr FILEID="jp2_00317_1"/>
+        <fptr FILEID="alto_00317_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.2" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.3" BETYPE="IDREF" FILEID="alto_00317_1"/>
+              <area BEGIN="BL_634.4" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="635" ORDERLABEL="619" TYPE="page">
+        <fptr FILEID="tiff_00318_0"/>
+        <fptr FILEID="jp2_00318_0"/>
+        <fptr FILEID="alto_00318_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.2" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.3" BETYPE="IDREF" FILEID="alto_00318_0"/>
+              <area BEGIN="BL_635.4" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.7" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.6" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-4" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.5" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY3" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.17" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            <area BEGIN="BL_629.18" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-10" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.19" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-11" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.20" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            <area BEGIN="BL_630.1" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGt" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.11" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMm" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.10" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-11" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.11" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            <area BEGIN="BL_629.1" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-10" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.10" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7i" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.12" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            <area BEGIN="BL_629.13" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b631-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_631.6" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            <area BEGIN="BL_632.1" BETYPE="IDREF" FILEID="alto_00316_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b631-4" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_631.5" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.6" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            <area BEGIN="BL_634.1" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-4" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.5" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b632-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_632.5" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            <area BEGIN="BL_633.1" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.6" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.7" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            <area BEGIN="BL_631.1" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.5" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.6" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.7" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_635.1" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.5" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-8" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.15" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.16" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.9" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.14" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-4" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.5" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.6" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.7" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            <area BEGIN="BL_629.8" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1Rq" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.9" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

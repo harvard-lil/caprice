@@ -1,0 +1,646 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0002" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hinrichs v. Consolidated Adjustment Co.">Gerhard H. Hinrichs, Executor, Appellee, v. Consolidated Adjustment Company, Appellant</name>
+          <docketnumber>Gen. No. 13,945</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 8</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00013_1" MIMETYPE="image/tiff" CHECKSUM="49c66b287c2606408384151d32e5b2c4" CHECKSUMTYPE="MD5" SIZE="35242">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00013_1.tif"/>
+      </file>
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="4157376734894388e444274c0fc4eac8" CHECKSUMTYPE="MD5" SIZE="49216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="b578bfc8d100865d806eaf0306f40f13" CHECKSUMTYPE="MD5" SIZE="52756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="550003e714140031dd3453be35184a77" CHECKSUMTYPE="MD5" SIZE="44722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00015_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00013_1" MIMETYPE="image/jp2" CHECKSUM="100a606e587ee0aa6b6db0fc240e2b6c" CHECKSUMTYPE="MD5" SIZE="2291318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00013_1.jp2"/>
+      </file>
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="cc15750560987c8f2fcebcf0a4052fef" CHECKSUMTYPE="MD5" SIZE="2450782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="2f27ff2592b09cb93bc6a50032081839" CHECKSUMTYPE="MD5" SIZE="2449825">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="5eb14f523723330d3df71de94697eea4" CHECKSUMTYPE="MD5" SIZE="2408305">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00015_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00013_1" MIMETYPE="text/xml" CHECKSUM="6d869bdab7f00ac05f2142c5edd1c560" CHECKSUMTYPE="MD5" SIZE="60522">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00013_1.xml"/>
+      </file>
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="16c00d0e63cf252c1af6863ff4a779ce" CHECKSUMTYPE="MD5" SIZE="79778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="e5f997e88e459308f1a5e6c3c77a3087" CHECKSUMTYPE="MD5" SIZE="84792">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="1266ca222d8822b3c2c3a7f59772285e" CHECKSUMTYPE="MD5" SIZE="78831">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00015_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="11" firstpage="8">
+              <docketnumber id="b26-5" pgmap="26">Gen. No. 13,945.</docketnumber>
+              <parties id="b26-4" pgmap="26">Gerhard H. Hinrichs, Executor, Appellee, v. Consoli­dated Adjustment Company, Appellant.</parties>
+              <decisiondate id="AAW" pgmap="26">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b26-8" pgmap="26">Delavan B. Cole, for appellant.</attorneys>
+              <attorneys id="b26-9" pgmap="26">Rosenthal, Kurz &amp; Hirschl, for appellee.</attorneys>
+              <summary id="b26-7" pgmap="26">Assumpsit. Appeal from the Circuit Court of Cook county; the Hon. George A. Carpenter, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="AFe" pgmap="26">Reversed with finding of facts.</disposition>
+              <headnotes id="b26-6" pgmap="26">Contracts—when consideration does not fail. The consideration for a contract does not fail so that it may be recovered back if the contract in question is in force and may ultimately be fulfilled by the party from whom such consideration is sought to be recovered.</headnotes>
+              <opinion type="majority">
+                <author id="b26-10" pgmap="26">Mr. Presiding Justice Smith</author>
+                <p id="AQa" pgmap="26">delivered the opinion of the court.</p>
+                <p id="b26-11" pgmap="26">February 23, 1907, a judgment in assumpsit was re­covered in the Circuit Court by appellee Alice L. Hin­richs against appellant for $187.97. The action was brought on the following contract:</p>
+                <p id="b26-12" pgmap="26">“Series AA. No. 17400.</p>
+                <p id="b26-13" pgmap="26">Consolidated Adjustment Co. (Incorporated.)</p>
+                <p id="b26-15" pgmap="26">Commission Rates:</p>
+                <p id="b26-16" pgmap="26">On adjustments of over $100.00, 10 per cent.</p>
+                <p id="b26-17" pgmap="26">On adjustments of over $25.00 to $100, in­clusive, 15 per cent.</p>
+                <p id="AtA" pgmap="26">Adjusters of claims of Every Description Everywhere.</p>
+                <p id="b26-19" pgmap="26">On adjustments of $25.00 or less, 25 per cent.</p>
+                <p id="b26-20" pgmap="26">Law Loans and Adjustments, 79 Dearborn St., Chicago.</p>
+                <p id="b26-22" pgmap="26(15) 27(50)">This certifies that. G. H. Hendricks, Agt. of Los Angeles, California, paid the Consolidated Adjustment Co. $187.97 for a three year servitude from this date, with all benefits and privileges of its business system in its various departments, and The Consolidated Ad­justment Co. agrees to promptly and faithfully prose­cute any and all claims listed with it for adjustment under terms of this contract.</p>
+                <p id="b27-4" pgmap="27">Guarantee.</p>
+                <p id="b27-5" pgmap="27">This company agrees to recover in cash or secured net settlements from the claims of the above client at least $497.92 within and under the terms of the above contract; or to refund the full initial fee paid, reserv­ing the right to cancel the contract, refund the initial fee and surrender the claims of the above client, at any time after six months from this date; or to continue such service beyond the term first in this instrument mentioned, and until said last mentioned sum shall have been so recovered, without additional cost to the above client, except commissions on adjustments ef­fected, on said claims or any additional claims in favor of said client, which may be forwarded.</p>
+                <p id="b27-6" pgmap="27">Received of G. H. Hendricks ($187.97) One Hundred Eighty-seven 97/100 Dollars as payment in full on a three year $497.92 contract and guarantee from Aug. 8, 1903, to Aug 8, 1906.</p>
+                <p id="b27-7" pgmap="27">Dated August 1, 1903.</p>
+                <p id="b27-8" pgmap="27">Consolidated Adjustment Co.</p>
+                <p id="b27-9" pgmap="27">By J. A. Patten, Agent.</p>
+                <p id="b27-10" pgmap="27">Note. This contract to be valid must have a coupon attached at time of issue which must correspond in every particular with terms of contract and guarantee to be signed by client and mailed direct to Chicago Office.</p>
+                <p id="b27-11" pgmap="27">(The printed terms and conditions of this contract are not subject to any change or modification what­ever.)</p>
+                <p id="b27-12" pgmap="27">This company agrees to at all times confine its pro­cess within the limits of the law.</p>
+                <p id="b27-13" pgmap="27">This contract to be issued for a period of not less than three years.”</p>
+                <p id="b27-14" pgmap="27(17) 28(45)">The record shows that some time after the contract was executed, appellant received for collection a mem­orandum of a note against Frank M. Bradshaw for $9,000. Bradshaw was a brother-in-law of appellee and had borrowed from her that amount of money and had given his note therefor. The original note was re­tained by appellee and was never given to appellant.</p>
+                <p id="b28-5" pgmap="28">After some effort appellant located Bradshaw in New York, and placed the claim in the hands of its at­torneys there for collection. They reported that Brad­shaw was of doubtful financial standing, and they had been unable to learn anything definite concerning his business. They advised placing the claim in judgment and asked a remittance of $25 to cover costs. They also advised that it would be necessary to procure a bond in the sum of $250 as security for costs. Appel­lee was notified of these facts, and that inasmuch as the claim would soon outlaw, it would be advisable to put the same in judgment, and appellant requested appellee to forward costs and send the original note to appel­lant and arrange for cost bond.</p>
+                <p id="b28-6" pgmap="28">Appellee replied to appellant’s letter that she did not care to place the note in judgment, and refused to forward the original note to appellant. She requested appellant to cancel the contract upon payment for services rendered. Appellant refused to cancel the contract and insisted upon reducing the claim to judg­ment.</p>
+                <p id="b28-7" pgmap="28(122) 29(68)">On June 10, 1905, appellant again wrote to appellee, urging her to forward the note and provide for plac­ing the claim in judgment, and that if appellee would assist in that regard it expected ultimately to recover at least the amount of the guaranty, mentioned in the contract. Before anything further could be done Brad­shaw left New York and went to Mexico, where appel­lant succeeded in locating him. A letter from Brad­shaw to appellant states that he was located at the city of Juanajuato, and that he expected to realize large profits from a mining deal in which he was in­terested. No other claims were filed with appellant; and appellant being unable to make any progress in collecting the note during the three year period noti­fied appellee of its election to continue the service under the contract beyond the three year period. Ap­pellant has continued its service since the expiration of three years, and was actively engaged in the prose­cution of the claim when this suit was brought to re­cover the initial fee of $187.97 paid by appellee to ap­pellant.</p>
+                <p id="b29-4" pgmap="29">Upon a consideration of the evidence in the record we are of opinion that it fails to show a breach of the agreement on the part of appellant, and therefore fails to show a right of recovery by appellee. The evidence shows that the appellant exercised' the op­tion “to continue such service beyond the term first in this instrument mentioned, and until said last men­tioned sum (497.92) shall have been recovered, without additional cost to the above client, except commis­sions on adjustments effected”, etc. The contract is therefore in full force and appellee is not entitled to recover the initial fee paid by her to appellant.</p>
+                <p id="b29-5" pgmap="29">The judgment of the Circuit Court is reversed with a finding of facts.</p>
+                <p id="b29-6" pgmap="29">Reversed with finding of facts.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="26" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00013_1"/>
+        <fptr FILEID="jp2_00013_1"/>
+        <fptr FILEID="alto_00013_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.1" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.2" BETYPE="IDREF" FILEID="alto_00013_1"/>
+              <area BEGIN="BL_26.3" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="27" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.2" BETYPE="IDREF" FILEID="alto_00014_0"/>
+              <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.2" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.3" BETYPE="IDREF" FILEID="alto_00014_1"/>
+              <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.3" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.2" BETYPE="IDREF" FILEID="alto_00015_0"/>
+              <area BEGIN="BL_29.4" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.7" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.5" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.6" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-22" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.26" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_27.1" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.10" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.17" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.14" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtA" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.23" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.18" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-15" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.20" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-17" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.22" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-16" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.21" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-19" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.24" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAW" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.11" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQa" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.15" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_26.16" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.7" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_29.1" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.13" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.9" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.19" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.5" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.4" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.7" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_26.8" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.6" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFe" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.9" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_26.10" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.12" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.15" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.13" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-20" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.25" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.14" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.11" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.12" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

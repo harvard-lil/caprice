@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0063" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Pittsburgh &amp; Indiana Coal Co. v. Harder’s Fireproof Storage &amp; Van Co.">Pittsburgh &amp; Indiana Coal Company, Appellant, v. Harder’s Fireproof Storage &amp; Van Company, Ap­pellee</name>
+          <docketnumber>Gen. No. 15,090</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 486</citation>
+          <decisiondate>1908-11-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="da626aaef0515d5b8a99e4e801781047" CHECKSUMTYPE="MD5" SIZE="42248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00251_1.tif"/>
+      </file>
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="29f30755018cf2967767c3bc49c6534c" CHECKSUMTYPE="MD5" SIZE="46790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00252_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00251_1" MIMETYPE="image/jp2" CHECKSUM="bbd7e1918ed8ab3b7df1c15b82d63e2d" CHECKSUMTYPE="MD5" SIZE="2279988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00251_1.jp2"/>
+      </file>
+      <file ID="jp2_00252_0" MIMETYPE="image/jp2" CHECKSUM="4516868c7544b66ab908adec19965c24" CHECKSUMTYPE="MD5" SIZE="2361020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00252_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00251_1" MIMETYPE="text/xml" CHECKSUM="1c69067b101bc731762c7581f4b26863" CHECKSUMTYPE="MD5" SIZE="78616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00251_1.xml"/>
+      </file>
+      <file ID="alto_00252_0" MIMETYPE="text/xml" CHECKSUM="8fd331ca9bc685aa998886e8bbb91792" CHECKSUMTYPE="MD5" SIZE="82198">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00252_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0063" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="487" firstpage="486">
+              <docketnumber pgmap="502" id="b502-5">Gen. No. 15,090.</docketnumber>
+              <parties pgmap="502" id="b502-4">Pittsburgh &amp; Indiana Coal Company, Appellant, v. Harder’s Fireproof Storage &amp; Van Company, Ap­pellee.</parties>
+              <decisiondate pgmap="502" id="AJ2">Opinion filed November 6, 1908.</decisiondate>
+              <otherdate pgmap="502" id="A8J">Heard in the Branch Appellate Court at the October term, 1908.</otherdate>
+              <attorneys pgmap="502" id="b502-9">Winkler, Baker &amp; Holder, for appellant.</attorneys>
+              <attorneys pgmap="502" id="b502-10">Dunn &amp; Hayes, for appellee.</attorneys>
+              <summary pgmap="502" id="b502-8">Appeal from the Municipal Court of Chicago; the Hon. Edwin K. Walker, Judge, presiding.</summary>
+              <disposition pgmap="502" id="AG4">Record stricken and appeal dismissed.</disposition>
+              <headnotes pgmap="502" id="b502-6">1. Appeals and erbobs—when MU of exceptions not part of rec­ord. A bill of exceptions though signed and sealed is not part of the record unless filed with the clerk.</headnotes>
+              <headnotes pgmap="502" id="b502-7">2. Appeals and errors—within what time transcript from Munic­ipal Court must he filed. The transcript upon an appeal from a judgment of the Municipal Court must be filed in the Appellate Court within forty days, after the date of the judgment unless an order has been entered by the Municipal Court within such forty days granting further time for the filing of such record.</headnotes>
+              <opinion type="majority">
+                <author pgmap="502" id="b502-11">Mr. Presiding Justice Smith</author>
+                <p pgmap="502" id="ADr">delivered the opinion of the court.</p>
+                <p pgmap="502" id="b502-12">Motions are made by the appellee that the hill of exceptions purporting to be a part of the record be stricken from the files; second, that the record of the Municipal Court filed in this cause be stricken from the files; and third, that the judgment of the Munici­pal Court be affirmed.</p>
+                <p pgmap="502(73) 503(71)" id="b502-13">It appears from the record that on June 6, 1908, final judgment was entered in the Municipal Court against appellant, Pittsburgh &amp; Indiana Coal Com­pany, in favor of appellee, Harder’s Fireproof Stor­age &amp; Van Company. On June 30, 1908, an appeal bond was approved by the trial court.. July 14, 1908, the trial court entered an order extending the time for filing a bill of exceptions “thirty days from date of statutory period, to wit, July 16, 1908”. On August 12, 1908, the court ordered that time to file bill of exceptions be extended twenty days from Aug’ust 16, 1908. September 4,1908, a bill of exceptions was pre­sented to and signed by the trial judge; and on Sep­tember 18, 1908, it was filed with the clerk of the Municipal Court. The record was filed in this court October 7, 1908.</p>
+                <p pgmap="503" id="b503-4">In Hall v. Royal Neighbors, 231 Ill. 185, it is held that a bill of exceptions, though signed and sealed by the judge, does not become a part of the record unless it is filed. Under this ruling the bill of exceptions did not become a part of the record of the Municipal Court within the time fixed by the court by the order of August 12, 1908, for it was not filed with the clerk until September 18, 1908. It is possible (though the question is not before us, and we express no opinion thereon), that this defect in the record might be cured by a nunc pro tunc order directing the bill of excep­tions to be filed as of September 4, 1908, but even though such an order should be procured and the bill of exceptions were to be filed as of that date, there is an insuperable objection to the jurisdiction of this; court to hear and determine this appeal, because of the fact that the record of the Municipal Court was not filed in this court within forty days after the date of the judgment as provided by section 22 of the Municipal Court Act, and no order was entered within the forty days granting further time for filing the record. Arthur v. Doyle, 141 Ill. App. 432.</p>
+                <p pgmap="503" id="b503-5">The motion to affirm the judgment of the Municipal Court is denied. The motion to strike the record from the files is allowed and the appeal is dismissed.</p>
+                <p pgmap="503" id="b503-6">Record stricken and appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="502" ORDERLABEL="486" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jp2_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.1" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.2" BETYPE="IDREF" FILEID="alto_00251_1"/>
+              <area BEGIN="BL_502.3" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="503" ORDERLABEL="487" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jp2_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.2" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.3" BETYPE="IDREF" FILEID="alto_00252_0"/>
+              <area BEGIN="BL_503.4" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.7" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.8" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_502.9" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.14" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-11" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.16" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.6" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.6" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.7" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.4" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.5" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-10" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.15" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.12" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADr" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.17" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_502.18" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-12" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.19" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.5" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJ2" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.13" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8J" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.10" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_502.11" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-13" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.20" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_503.1" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

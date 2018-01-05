@@ -1,0 +1,628 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0081" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Watson v. Cudney">George N. Watson, Appellant, v. Ralph Cudney, Ap­pellee</name>
+          <docketnumber>Gen. No. 14,967</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 624</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="ac869db8678c8f0715f910c4325452f8" CHECKSUMTYPE="MD5" SIZE="40172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00320_1.tif"/>
+      </file>
+      <file ID="tiff_00321_0" MIMETYPE="image/tiff" CHECKSUM="fa4b6c617540a24279a5afa03fbdbc58" CHECKSUMTYPE="MD5" SIZE="53882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00321_0.tif"/>
+      </file>
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="5a9eb2b81ff91ea728599b88f4d54915" CHECKSUMTYPE="MD5" SIZE="51288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00321_1.tif"/>
+      </file>
+      <file ID="tiff_00322_0" MIMETYPE="image/tiff" CHECKSUM="66215bc1d33f2d499e011e270a4b2aea" CHECKSUMTYPE="MD5" SIZE="54070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00322_0.tif"/>
+      </file>
+      <file ID="tiff_00322_1" MIMETYPE="image/tiff" CHECKSUM="959def15bd7dc41f10ecafe89dc3f068" CHECKSUMTYPE="MD5" SIZE="50186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00322_1.tif"/>
+      </file>
+      <file ID="tiff_00323_0" MIMETYPE="image/tiff" CHECKSUM="dd9f9e3ee91826ce07f6739351f4ebb9" CHECKSUMTYPE="MD5" SIZE="54762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_0.tif"/>
+      </file>
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="84a658f8a52b95a9c8b43167848f17b5" CHECKSUMTYPE="MD5" SIZE="36226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00320_1" MIMETYPE="image/jp2" CHECKSUM="c94e3c5f7d01d37b19668c1277cb972c" CHECKSUMTYPE="MD5" SIZE="2216100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00320_1.jp2"/>
+      </file>
+      <file ID="jp2_00321_0" MIMETYPE="image/jp2" CHECKSUM="9baae0fcdfe18ca1924ddf140256550f" CHECKSUMTYPE="MD5" SIZE="2396645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00321_0.jp2"/>
+      </file>
+      <file ID="jp2_00321_1" MIMETYPE="image/jp2" CHECKSUM="28b37bd0114baac4f01b71ff00f62fde" CHECKSUMTYPE="MD5" SIZE="2319922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00321_1.jp2"/>
+      </file>
+      <file ID="jp2_00322_0" MIMETYPE="image/jp2" CHECKSUM="b6eab9286e700f56a786a701ed740adc" CHECKSUMTYPE="MD5" SIZE="2384744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00322_0.jp2"/>
+      </file>
+      <file ID="jp2_00322_1" MIMETYPE="image/jp2" CHECKSUM="41533b3f05a342b5a49d799fededc2bf" CHECKSUMTYPE="MD5" SIZE="2325563">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00322_1.jp2"/>
+      </file>
+      <file ID="jp2_00323_0" MIMETYPE="image/jp2" CHECKSUM="7d8f21956dd99bd03bd4a248de4a4a1f" CHECKSUMTYPE="MD5" SIZE="2392806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_0.jp2"/>
+      </file>
+      <file ID="jp2_00323_1" MIMETYPE="image/jp2" CHECKSUM="2c678420c75cf41d770567b686fbc51e" CHECKSUMTYPE="MD5" SIZE="2219724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00320_1" MIMETYPE="text/xml" CHECKSUM="8cd52d8264336945620a3e22d12c2713" CHECKSUMTYPE="MD5" SIZE="78541">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00320_1.xml"/>
+      </file>
+      <file ID="alto_00321_0" MIMETYPE="text/xml" CHECKSUM="bffcc2ea7d01ff45b9b2b8215bfe2678" CHECKSUMTYPE="MD5" SIZE="88500">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00321_0.xml"/>
+      </file>
+      <file ID="alto_00321_1" MIMETYPE="text/xml" CHECKSUM="6920d9dd7e23bf8f9765d43197bb2e76" CHECKSUMTYPE="MD5" SIZE="85940">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00321_1.xml"/>
+      </file>
+      <file ID="alto_00322_0" MIMETYPE="text/xml" CHECKSUM="6f61be5b50d5dfc81fa9e4ea40879b3d" CHECKSUMTYPE="MD5" SIZE="86921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00322_0.xml"/>
+      </file>
+      <file ID="alto_00322_1" MIMETYPE="text/xml" CHECKSUM="5882e7dd41c4b6ce5799f09c4ba7001a" CHECKSUMTYPE="MD5" SIZE="85781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00322_1.xml"/>
+      </file>
+      <file ID="alto_00323_0" MIMETYPE="text/xml" CHECKSUM="dea0e960ee290e420eea6eb702fa4835" CHECKSUMTYPE="MD5" SIZE="88707">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00323_0.xml"/>
+      </file>
+      <file ID="alto_00323_1" MIMETYPE="text/xml" CHECKSUM="4f3fdee5c6274e6653584babd0fe999b" CHECKSUMTYPE="MD5" SIZE="65647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00323_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0081" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="630" firstpage="624">
+              <docketnumber pgmap="640" id="b640-5">Gen. No. 14,967.</docketnumber>
+              <parties pgmap="640" id="b640-4">George N. Watson, Appellant, v. Ralph Cudney, Ap­pellee.</parties>
+              <decisiondate pgmap="640" id="AnHu">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="640" id="A2S">Heard in this court at the October term, 1908.</otherdate>
+              <attorneys pgmap="640" id="b640-11">Joseph W. Latimer, for appellant; Blum &amp; Blum, of counsel.</attorneys>
+              <attorneys pgmap="640" id="b640-12">Eugene E. Prussing, for appellee.</attorneys>
+              <summary pgmap="640" id="b640-10">Bill to • foreclose. Appeal from the Superior Court of Cook county; the Hon. George A. Dupmr, Judge, presiding.</summary>
+              <disposition pgmap="640" id="AmN">Reversed.</disposition>
+              <headnotes pgmap="640" id="b640-6">1. Chattel mortgages—what essential to justify foreclosure under insecurity clause. In order to justify the foreclosure of a chattel mortgage under an insecurity clause and the appointment of a receiver, facts must he stated upon which the mind of the court can be attuned to the conclusion that the security was im­periled; such facts must arise from the acts of the parties or changes in values occurring subsequent to the execution of the mortgage.</headnotes>
+              <headnotes pgmap="640" id="b640-7">2. Receiverships—who disqualified to act. A receiver should be an impartial and indifferent person. Neither a party to a suit nor a trustee, whose business it is to watch a receiver, should be appointed. These rules however relax in the interests of all the parties and are therefore not without exception.</headnotes>
+              <headnotes pgmap="640" id="b640-8">3. Receiverships—what essential to appointment. Either the bond required by statute should be given or the court should find upon notice and a full hearing that the bond required by statute shall be dispensed with in order that a receiver may properly be permitted to act.</headnotes>
+              <headnotes pgmap="640" id="b640-9">4. Receiverships—when order of appointment indefinite. Held, that the order appointing the receiver in this cause was indefinite and did not cover all of the contingencies which should be pro­vided for by such an order.</headnotes>
+              <opinion type="majority">
+                <author pgmap="640" id="b640-13">Mr. Justice Holdom</author>
+                <p pgmap="640" id="ATQa">delivered the opinion of the court.</p>
+                <p pgmap="640(26) 641(358) 642(80)" id="b640-14">Appellant, on July 1, 1908, made and delivered to appellee a chattel mortgage conveying certain per­sonal property used in the conduct of a restaurant at 194 North State street, Chicago, and the interest of appellant in the leasehold of that place, to secure his note of even date for $400, payable to appellee or or­der on or before one year after date. The bill in this record was filed to foreclose the mortgage and subject the chattels and the leasehold interest of appellant to the payment of the sum of $367, due appellee on the note. The bill alleges that on August 13, 1908, appel­lee, feeling “himself unsafe and insecure in said in­debtedness”, took possession of all the mortgaged property he could discover, including the leasehold in­terest of appellant in the premises atr194 North State street, and still held such possession; that appellee advertised the mortgage property for sale at 11 o ’clock a. m. of August 24, 1908, at which time the sale was adjourned by proclamation until August 31st follow­ing, at the same hour; that one Hall, through whom appellant derived his leasehold title, claims as lessee of the owner, to be the owner of the leasehold, and denies having at any time parted with the same to appellant or any other person, and that Hall, by a subterfuge, obtained entrance into the leasehold prem­ises, and by force continues; and that said Hall threatens to announce at the sale under the chattel mortgage, that he is the owner of the leasehold, and that appellee has neither right, title nor interest therein, and that said announcement will tend greatly to reduce the amount which appellee, but for said as­serted claim, would derive at such foreclosure sale; that one Bortef, the landlord of the leasehold prem­ises, refuses to recognize appellee’s rights as assignee of the leasehold, but on the contrary maintains the claim of said Hall; that Borter threatens to announce at a sale that purchasers will be required to remove chattels purchased from the leasehold premises, for the reason that appellee has no title or valid claim thereto. The bill also avers that the leasehold inter­est is the most valuable asset as security for the in­debtedness of appellant, prays for an ascertainment of the rights of the different claimants, the establish­ing of the lien of the chattel mortgage to appellee on the property therein described, including the lease­hold, the ascertaining of tile amount due appellee, or­dering its payment, and, in default of such payment, directing a sale of the mortgaged property freed from the claims of the several claimants, and also prays for an injunction restraining the several claimants from molesting appellee’s possession and for a re­ceiver, etc.</p>
+                <p pgmap="642" id="b642-5">On the day the bill was filed appellee also filed his petition for the appointment of a receiver, and repre­sented inter alia that “in order to protect his security and until the rights 'of the parties hereto shall be fixed and determined * * * is willing and does hereby offer to open up the restaurant * * * and conduct the same without expense to any of the parties hereto, and at the hazard and risk of petitioner, and will pay and discharge the rent to ac­crue for the use of said premises, * * * that in that regard your orator will give such bond in the premises as the court may think reasonable and proper; that your petitioner is willing to act as such receiver without compensation therefor, and will give such bond in that behalf as to the court may seem just; provided, however, that should your petitioner be able to make any profit in the conduct of such res­taurant, the said profits shall be the property of your petitioner”.</p>
+                <p pgmap="642(95) 643(70)" id="b642-9">On September 2, 1908, a certain injunctional order was entered, and also an order appointing appellee receiver on giving bond in the penalty of $1,000. The latter order is in the following terms: ‘ ‘ That Ralph Cudney be and he is hereby appointed receiver of all the goods and chattels and leasehold estate constituting the restaurant business in the premises at 194 North State street * * *; that he take possession thereof with the power of receivers in like cases, and insure the same for the benefit of whom it may concern; that he is hereby authorized at his own risk and hazard to re-open and conduct the said restaurant business conducted on said premises, using said goods and chattels for such purpose, and that any profits that may be made by said Balpli Cudney shall be retained by him for his compensation; that while he so con­ducts the business he shall pay the rent of said prem­ises. * * *”</p>
+                <p pgmap="643" id="b643-4">Appellant seeks by this appeal to reverse the order appointing appellee receiver.</p>
+                <p pgmap="643(273) 644(31)" id="b643-5">The appointment of a receiver pendente lite is un­doubtedly a matter resting in the sound discretion of the chancellor, but it is never to be arbitrarily exer­cised. While, in the light of the disputed ownership of the leasehold interest and the dual claim of posses­sion by appellee as a mortgagee in possession, and Hall actually in possession, claiming ownership of the leasehold, and his threats and that of the landlord to do acts which tend to endanger the value of appellee’s security, might in themselves create such a condition as would authorize the appointment of a receiver, still there was something antecedent to all this which must exist to constitute a foundation for the court to exer­cise its power to appoint a receiver. Such antecedent condition was a showing of a right to foreclose the mortgage. The mortgage, by its covenants, gave the mortgagee the right to foreclose the same in the event óf his feeling that his security was unsafe or insecure. Appellee averred in his bill that he took possession of the mortgaged property because he felt unsafe and insecure “in said indebtedness and security”. This is clearly a conclusion without reason or instance to sup­port. It is insufficient to support a right to take pos­session, much less to form the basis of an order so far-­reaching as the appointment of a receiver. It is not sufficient to state conclusions; facts must he stated upon which the mind of the court can be attuned to the conclusion that the security was imperiled. Such facts must arise from the acts of the parties or changes in values occurring subsequent to the execution of the mortgage. Furlong v. Cox, 77 Ill. 293; Roy v. Goings, 96 Ill. 361; Slingo v. Steele Wedeles Co., 82 Ill. App. 139.</p>
+                <p pgmap="644" id="b644-5">The contention that averments of such facts were not essential because appellee was a mortgagee in possession at the time of filing the bill is without force. He appealed to a court of conscience and it behooved him to establish that he had proceeded equitably in all he had done in the matter of his claim.</p>
+                <p pgmap="644" id="b644-6">The power to appoint receivers is the prerogative of a court of equity, but that power is subordinate to legislative action, wherever a statute exists in any wise limiting or defining the power. It is seldom exer­cised in cases where other legal remedies are adequate to protect the moving parties’ rights. Nor will a party to the action be appointed, except upon an agreement of the parties in interest, and seldom, if ever, against their protest. Benneson v. Bill, 62 Ill. 410.</p>
+                <p pgmap="644" id="b644-7">A receiver should be an impartial and indifferent person. High on Receivers, sec. 63.</p>
+                <p pgmap="644" id="b644-8">Neither a party to a suit nor a trustee, whose busi­ness it is to watch a receiver, should be appointed. Kerr on Receivers, 126. The interests of all parties, however, should be considered, so that these rules are not without exceptions. Taylor v. Life Association of America, 3 Fed. R. 465.</p>
+                <p pgmap="644(113) 645(229)" id="b644-9">The appointment of receivers is in some respects controlled, as applied to the case at bar, by the stat­ute. See Session Laws of 1903, title Beceivers. By section 2 the chancellor may, in his discretion, in lieu of appointing a receiver, permit the party in posses­sion to retain such possession on giving bond. The appointment in this case was the appointment of ap­pellee as receiver, and therefore not under the section of the statute supra. Section 1 of the Act supra pro­vides “that before any receiver shall be appointed, the party making' the application shall give bond to the adverse party in such penalty as the court or judge may order, and with security to be approved by the court or judge, conditioned to pay * * * provided that bond need not be required when for good cause shown and upon notice and full hearing, the court is of opinion that a receiver ought to be appointed without such bond.” The record fails to disclose that the applicant gave the bond required by the foregoing section. Neither can we find from the record that the court upon notice and a full hearing was of the opinion that the bond called for by the statute should be dispensed with. The record conveys no intimation of the opin­ion of the court upon this subject. To entitle appellee to the appointment of a receiver, he must as a sine qua non to the enforcement of that right give the bond re­quired by the statute, unless it is the opinion of the court that a receiver ought to be appointed without bond, and then the court’s opinion must affirmatively appear in the order making the appointment. The statutory requirement in this regard cannot be dis­pensed with. It was evidently enacted for the pur­pose of making liable the moving party in a receiver­ship proceeding, for such damages as might result from the improvidence of his act in bringing about a receivership where none should have been asked.</p>
+                <p pgmap="645(135) 646(34)" id="b645-4">The order allowing compensation to appellee as re­ceiver of all the profits he might make in operating the restaurant, "with the mortgaged property, is so in­definite in its ultimate operation as to be erroneous. All appellee was entitled to receive was the amount due him on his debt. When this was accomplished, in whatever way, appellant, the mortgagor, was entitled to receive, upon demand, the mortgaged chattels. Ap­pellee seems to have proceeded upon the assumption that but little or no profit would result from the opera­tion of the restaurant. This assumption we cannot adopt, in the absence of proof. Neither can we as­sume that appellee would desire to run the restaurant unless there was a reasonable expectation of profit to be realized from so doing. If appellee was entitled to any compensation as receiver, a limitation of the amount should have been fixed in the order. The er­ror seems to lie in the assumption of appellee that he was appointed receiver without compensation.</p>
+                <p pgmap="646" id="b646-5">The interlocutory order of the Superior Court ap­pointing a receiver is reversed.</p>
+                <p pgmap="646" id="b646-6">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="640" ORDERLABEL="624" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jp2_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.1" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.2" BETYPE="IDREF" FILEID="alto_00320_1"/>
+              <area BEGIN="BL_640.3" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="641" ORDERLABEL="625" TYPE="page">
+        <fptr FILEID="tiff_00321_0"/>
+        <fptr FILEID="jp2_00321_0"/>
+        <fptr FILEID="alto_00321_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.2" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.3" BETYPE="IDREF" FILEID="alto_00321_0"/>
+              <area BEGIN="BL_641.4" BETYPE="IDREF" FILEID="alto_00321_0"/>
+              <area BEGIN="BL_641.5" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="642" ORDERLABEL="626" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jp2_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.2" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.3" BETYPE="IDREF" FILEID="alto_00321_1"/>
+              <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="643" ORDERLABEL="627" TYPE="page">
+        <fptr FILEID="tiff_00322_0"/>
+        <fptr FILEID="jp2_00322_0"/>
+        <fptr FILEID="alto_00322_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.2" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.3" BETYPE="IDREF" FILEID="alto_00322_0"/>
+              <area BEGIN="BL_643.4" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="644" ORDERLABEL="628" TYPE="page">
+        <fptr FILEID="tiff_00322_1"/>
+        <fptr FILEID="jp2_00322_1"/>
+        <fptr FILEID="alto_00322_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.2" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.3" BETYPE="IDREF" FILEID="alto_00322_1"/>
+              <area BEGIN="BL_644.4" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="645" ORDERLABEL="629" TYPE="page">
+        <fptr FILEID="tiff_00323_0"/>
+        <fptr FILEID="jp2_00323_0"/>
+        <fptr FILEID="alto_00323_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.2" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.3" BETYPE="IDREF" FILEID="alto_00323_0"/>
+              <area BEGIN="BL_645.4" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="646" ORDERLABEL="630" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jp2_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.2" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.3" BETYPE="IDREF" FILEID="alto_00323_1"/>
+              <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-6" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.6" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.5" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnHu" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.15" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_640.16" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-8" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.8" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2S" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.12" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_640.13" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-4" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.5" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            <area BEGIN="BL_646.1" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-12" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.18" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-13" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.19" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-9" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.6" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_643.1" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-11" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.17" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-10" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.10" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_640.11" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-14" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.22" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_641.1" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_642.1" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATQa" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.20" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_640.21" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-7" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.7" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-6" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.6" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.5" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-4" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.4" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.5" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-6" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.6" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.5" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-8" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.8" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-4" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.5" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-5" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.6" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            <area BEGIN="BL_644.1" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-9" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.9" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_645.1" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-7" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.7" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-9" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.9" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmN" BETYPE="IDREF" FILEID="casebody_0081"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.14" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

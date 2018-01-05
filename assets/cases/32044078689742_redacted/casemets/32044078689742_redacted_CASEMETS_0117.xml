@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0117" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Patchin v. Crossland">Fred B. Patchin, Appellee, v. Lewis Crossland et al., Appellants</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 589</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00304_0" MIMETYPE="image/tiff" CHECKSUM="79d48158a9a05ec62ac94102b81e8619" CHECKSUMTYPE="MD5" SIZE="40500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00304_0.tif"/>
+      </file>
+      <file ID="tiff_00304_1" MIMETYPE="image/tiff" CHECKSUM="ecc64574cbdfb266f3dfc339edbc2c50" CHECKSUMTYPE="MD5" SIZE="53328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00304_1.tif"/>
+      </file>
+      <file ID="tiff_00305_0" MIMETYPE="image/tiff" CHECKSUM="04bd1cbff55202f595dee33c0ccf463c" CHECKSUMTYPE="MD5" SIZE="53268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00305_0.tif"/>
+      </file>
+      <file ID="tiff_00305_1" MIMETYPE="image/tiff" CHECKSUM="a9b8580425aa578a508612e66b2b5c4b" CHECKSUMTYPE="MD5" SIZE="52782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00305_1.tif"/>
+      </file>
+      <file ID="tiff_00306_0" MIMETYPE="image/tiff" CHECKSUM="4c1a233ee09a55c5fe419632d388c608" CHECKSUMTYPE="MD5" SIZE="52304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00306_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00304_0" MIMETYPE="image/jp2" CHECKSUM="a90bc13aeb33477d86e3d80c4c2f49e5" CHECKSUMTYPE="MD5" SIZE="2356097">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00304_0.jp2"/>
+      </file>
+      <file ID="jp2_00304_1" MIMETYPE="image/jp2" CHECKSUM="e59d32e81dc770576b306aba6c2866f8" CHECKSUMTYPE="MD5" SIZE="2419386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00304_1.jp2"/>
+      </file>
+      <file ID="jp2_00305_0" MIMETYPE="image/jp2" CHECKSUM="8a087385f6976368a38d3ab5ca0d7b77" CHECKSUMTYPE="MD5" SIZE="2465881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00305_0.jp2"/>
+      </file>
+      <file ID="jp2_00305_1" MIMETYPE="image/jp2" CHECKSUM="1e2c03def8bcb8385e43840e97991d9a" CHECKSUMTYPE="MD5" SIZE="2403621">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00305_1.jp2"/>
+      </file>
+      <file ID="jp2_00306_0" MIMETYPE="image/jp2" CHECKSUM="816d227176b815c0f0b0f25d78d60f27" CHECKSUMTYPE="MD5" SIZE="2449569">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00306_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00304_0" MIMETYPE="text/xml" CHECKSUM="6c3ebff4bd02d35ac79ebfc7b2c553f7" CHECKSUMTYPE="MD5" SIZE="74068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00304_0.xml"/>
+      </file>
+      <file ID="alto_00304_1" MIMETYPE="text/xml" CHECKSUM="06f2f9aae6132e495f1ceb4de79ceb41" CHECKSUMTYPE="MD5" SIZE="86635">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00304_1.xml"/>
+      </file>
+      <file ID="alto_00305_0" MIMETYPE="text/xml" CHECKSUM="0e067110a88d48e6e3eb818b7912e2cc" CHECKSUMTYPE="MD5" SIZE="85138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00305_0.xml"/>
+      </file>
+      <file ID="alto_00305_1" MIMETYPE="text/xml" CHECKSUM="7ab06a26bac404cc8ae3c9fbb6d06c9b" CHECKSUMTYPE="MD5" SIZE="87019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00305_1.xml"/>
+      </file>
+      <file ID="alto_00306_0" MIMETYPE="text/xml" CHECKSUM="c274be3b668e0d82ebf29928365a6a86" CHECKSUMTYPE="MD5" SIZE="85508">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00306_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0117" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="593" firstpage="589">
+              <parties id="b607-4" pgmap="607">Fred B. Patchin, Appellee, v. Lewis Crossland et al., Appellants.</parties>
+              <decisiondate id="AdY" pgmap="607">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b607-11" pgmap="607">S. L. McCrory and William H. Hartzell, for appel­lants.</attorneys>
+              <attorneys id="b607-12" pgmap="607">Edwin S. Coombs and Apollos W. O ’Harra, for ap­pellee.</attorneys>
+              <summary id="b607-10" pgmap="607">Replevin. Appeal from the Circuit Court of Hancock county; the Hon. George W. Thompson, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A7c" pgmap="607">Affirmed.</disposition>
+              <headnotes id="b607-6" pgmap="607">1. Chattel mortgages—when unrecorded, valid. An unrecorded chattel mortgage is valid as between the parties and likewise as between the mortgagee and one unlawfully taking possession from the mortgagor.</headnotes>
+              <headnotes id="b607-7" pgmap="607">2. Chattel mortgages—when parol evidence not competent to aid. In the absence of a latent ambiguity in the description of the property mentioned in a chattel mortgage, parol evidence is not admissible for the purpose of showing that other property not answering such description was intended to be included in such mortgage.</headnotes>
+              <headnotes id="b607-8" pgmap="607">3. Verdict—when not disturbed as against the evidence. A ver­dict will not be set aside on review as against the evidence unless clearly and manifestly so.</headnotes>
+              <headnotes id="b607-9" pgmap="607">4. Instructions—when containing abstract proposition of law will not reverse. An instruction which contains a correct abstract proposition of law will not reverse unless misleading.</headnotes>
+              <opinion type="majority">
+                <author id="b607-13" pgmap="607">Mr. Justice Baume</author>
+                <p id="AYv" pgmap="607">delivered the opinion of the court.</p>
+                <p id="b607-14" pgmap="607">This is a suit in replevin by Fred B. Patchin, appel­lee, against Lewis Crossland and Albert Naegelin, ap­pellants, to recover possession of one sorrel horse, about eleven years of age, blind in one eye, having solid light sorrel color, and one chestnut sorrel mare about twelve years of age, having a white left hind foot, with gray strip in face. A trial in the circuit court of Hancock county resulted in a verdict and judgment in favor of appellee.</p>
+                <p id="b608-4" pgmap="608">On April 9, 1906, one F. A. Bachman purchased of appellee two horses answering the description of the horses in controversy, and in payment therefor exe­cuted to appellee a note for $208, payable January 1, 1907, and to secure the payment of said note, also ex­ecuted a chattel mortgage upon said horses by the same description. On April 13, 1906, the said Bachman and wife gave to the Basco Bank, conducted by appellants and others, as partners, their note for $640 payable January 1, 1907, and to secure the payment of said note executed their chattel mortgage covering certain horses, as follows: “One span of gray mares, eight and nine years old, respectively, in foal, weight about twenty-eight hundred pounds; one bay horse nine years old, weight about eleven hundred pounds, white streak in face; one black mare eight years old, weight about eleven hundred pounds, in foal; one bay team (one mare, one horse) four and five years old, respectively, weight about twenty-eight hundred pounds; one brown mare seven years old, in foal. ’’</p>
+                <p id="b608-5" pgmap="608">On June 20, 1906, for some reason not disclosed by the evidence, the bank determined to foreclose its mort­gage, and Bachman, in order to save the expense of such foreclosure, was induced to execute to the bank a hill of sale of the property therein described, and by the like description. Upon the same day appellants acting for the hank went to the home of Bachman for the purpose of taking possession of the property de­scribed in the bill of sale and there took possession of the two horses described in the chattel mortgage to ap­pellee. On the day following, appellee filed his chattel mortgage for record and thereafter instituted this suit in replevin, claiming the horses in controversy un­der and by virtue of his said mortgage.</p>
+                <p id="b608-6" pgmap="608(46) 609(34)">Appellants acting for the bank assert their right to the possession of the property upon two grounds: First, that Bachman in fact intended that the two horses in question should be included in the chattel mortgage and bill of sale to the bank, and were so included therein, although improperly described; and second, that Bachman voluntarily surrendered the said horses to appellants under the bill of sale in payment of his indebtedness to the bank secured by the chattel mortgage.</p>
+                <p id="b609-5" pgmap="609">The chattel mortgage of appellee as between him­self and the mortgagor, Bachman, constituted a valid lien upon the property therein described, although it was not filed for record, but it had no validity as against a third party asserting a rightful claim thereto through or under the mortgagor. The mortgage being valid as between appellee and Bachman it was likewise valid as between appellee and one taking the property from Bachman unlawfully.</p>
+                <p id="b609-6" pgmap="609">There is no latent ambiguity in the description of the property mentioned in the chattel mortgage and bill of sale given by Bachman to the bank, and parol evidence was not admissible for the purpose of showing that other property not answering such description was intended to be included in said mortgage and bill of sale. Hutton v. Arnett, 51 Ill. 198.</p>
+                <p id="b609-7" pgmap="609">Upon the issue as to whether or not Bachman volun­tarily surrendered the property to appellants under the bill of sale in payment of his indebtedness to the bank, the evidence is sharply conflicting. While a con­sideration of such evidence as it appears in the record inclines us to the conclusion that it would better sup­port a verdict in favor of appellants, we are not pre­pared to hold that the verdict as returned is so mani­festly against the weight of the evidence as to justify us in setting it aside. Bachman and his wife both tes­tified that they informed appellants that the horses in question were mortgaged to appellee, and that appel­lants could not take them, while several persons called as witnesses on behalf of appellants testified that Bach-­man, in answer to inquiries as to whether the horses in question were to be taken with the other property de­scribed in the bill of sale, said that they were, and that he turned them over to appellants to be so taken.</p>
+                <p id="b610-4" pgmap="610">The first, second and third instructions given at the instance of appellee informed the jury in varying phra­seology that if the two horses in question were not in­cluded in the chattel mortgage and bill of sale given by Bachman to the bank, and were taken by appellants from the possession of Bachman without his consent and against his will, that then the failure of appellee to file his mortgage for record prior to the taking of said horses by appellants would not affect the right of appellee to take said horses under his mortgage.</p>
+                <p id="b610-5" pgmap="610">It is urged in criticism of these instructions that they ignore the right of appellants to take said horses under the mortgage and bill of sale to the bank, if it was the intention of Bachman and the bank that said horses should be described and included therein. What we have heretofore said as to the admissibility of parol evidence offered for the purpose of showing that other property not answering the description of the property embraced in the chattel mortgage and bill of sale, was intended to be included therein, is a sufficient answer to the objection urged against said instructions. The fact that the fifth and sixth instructions given on be­half of appellee made reference to the intention of Bachman and the bank that said horses. should be in­cluded in the mortgage and bill of sale cannot avail appellants anything because said instructions stated the law more favorably for appellants in that respect than they were entitled to.</p>
+                <p id="b610-6" pgmap="610">The reference in the second instruction to the un­disputed fact that the chattel mortgage to appellee was given by Bachman to secure the payment of the pur­chase price of the horses in question did not in any way prejudice appellants. The instruction did not suggest that appellee acquired any superior right under his chattel mortgage by virtue of the fact that it was given to secure the payment of the purchase price of said horses.</p>
+                <p id="b610-7" pgmap="610(21) 611(178)">The fact that the bill of sale from Bachman to the bank was a transaction intended to operate as a pay­ment of the note to the bank secured by a chattel mort­gage covering the same property was shown by the evidence offered on behalf of appellants, and a mere reference to such fact in the seventh instruction given at the instance of appellee cannot be complained of by appellants. The right which the bank asserted to the property was acquired by virtue of the bill of sale, and appellants were not authorized to take any prop­erty other than that described, in the bill of sale or voluntarily turned over to them by Bachman as being embraced within its terms. The property described in the bill of sale having been given by Bachman and ac­cepted by the bank, in full payment of the indebtedness to the bank, it follows that any property other than that covered by the bill of sale turned over by Bachman to appellant, was so turned over without any considera­tion. "What we have here said answers the objections urged to the eighth and ninth instructions given at the instance of appellee.</p>
+                <p id="b611-5" pgmap="611">It is conceded that the twelfth instruction given on behalf of appellee states a correct principle of law, but it is urged that because it is abstract in form and ig­nores the unexpressed intention of Bachman and the bank, as to what property should be described in the mortgage and bill of sale, it operated to mislead the jury. The unexpressed intention of said parties in the respect above indicated had no proper place in the case, and the instruction could not, therefore, have mis­led the jury.</p>
+                <p id="b611-6" pgmap="611">The modification by the court of appellant’s fifth in­struction was in consonance with the views heretofore expressed by us and was proper. The modification by the court of appellants’ eighth instruction is admitted by appellants to have made it conform to their theory of the case and they cannot, therefore, complain of such modification.</p>
+                <p id="b611-7" pgmap="611">There is no error in the record prejudical to appel­lants and the judgment of the Circuit Court will be affirmed. Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="607" ORDERLABEL="589" TYPE="page">
+        <fptr FILEID="tiff_00304_0"/>
+        <fptr FILEID="jp2_00304_0"/>
+        <fptr FILEID="alto_00304_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_607.2" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_607.1" BETYPE="IDREF" FILEID="alto_00304_0"/>
+              <area BEGIN="BL_607.3" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="608" ORDERLABEL="590" TYPE="page">
+        <fptr FILEID="tiff_00304_1"/>
+        <fptr FILEID="jp2_00304_1"/>
+        <fptr FILEID="alto_00304_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_608.1" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_608.2" BETYPE="IDREF" FILEID="alto_00304_1"/>
+              <area BEGIN="BL_608.3" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="609" ORDERLABEL="591" TYPE="page">
+        <fptr FILEID="tiff_00305_0"/>
+        <fptr FILEID="jp2_00305_0"/>
+        <fptr FILEID="alto_00305_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_609.3" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_609.2" BETYPE="IDREF" FILEID="alto_00305_0"/>
+              <area BEGIN="BL_609.4" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="610" ORDERLABEL="592" TYPE="page">
+        <fptr FILEID="tiff_00305_1"/>
+        <fptr FILEID="jp2_00305_1"/>
+        <fptr FILEID="alto_00305_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_610.1" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_610.2" BETYPE="IDREF" FILEID="alto_00305_1"/>
+              <area BEGIN="BL_610.3" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="611" ORDERLABEL="593" TYPE="page">
+        <fptr FILEID="tiff_00306_0"/>
+        <fptr FILEID="jp2_00306_0"/>
+        <fptr FILEID="alto_00306_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_611.3" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_611.2" BETYPE="IDREF" FILEID="alto_00306_0"/>
+              <area BEGIN="BL_611.4" BETYPE="IDREF" FILEID="alto_00306_0"/>
+              <area BEGIN="BL_611.8" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.7" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-9" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.8" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-8" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.7" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7c" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.11" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.6" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.5" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.6" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            <area BEGIN="BL_609.1" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.5" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-4" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.4" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.5" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.6" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.5" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-11" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.14" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-10" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.9" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            <area BEGIN="BL_607.10" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-13" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.16" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-12" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.15" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.5" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-14" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.19" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.7" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            <area BEGIN="BL_611.1" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.6" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYv" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.17" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            <area BEGIN="BL_607.18" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-4" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.4" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.7" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-6" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.6" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdY" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.12" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            <area BEGIN="BL_607.13" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-4" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.4" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

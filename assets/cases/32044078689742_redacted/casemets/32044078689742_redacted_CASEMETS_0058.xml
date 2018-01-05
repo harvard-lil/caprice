@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0058" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hilton v. Slater">Riley Hilton, Appellee, v. Otis Slater, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 398</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00208_1" MIMETYPE="image/tiff" CHECKSUM="28682333ec905a1914cc7342818c4345" CHECKSUMTYPE="MD5" SIZE="27120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00208_1" MIMETYPE="image/jp2" CHECKSUM="3aad2ef5859841149aa3c448944e5a6a" CHECKSUMTYPE="MD5" SIZE="2233981">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00208_1" MIMETYPE="text/xml" CHECKSUM="5f61128d9f7d400d93fb6965322e75ba" CHECKSUMTYPE="MD5" SIZE="49493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00208_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0058" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="398" firstpage="398">
+              <parties id="b416-7" pgmap="416">Riley Hilton, Appellee, v. Otis Slater, Appellant.</parties>
+              <decisiondate id="ANy" pgmap="416">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b416-10" pgmap="416">Chafee &amp; Chew, for appellant.</attorneys>
+              <attorneys id="b416-11" pgmap="416">No appearance by appellee.</attorneys>
+              <summary id="b416-9" pgmap="416">Action commenced before justice of the peace. Appeal from the County Court of Shelby county; the Hon. Calvin Green, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AOC" pgmap="416">Reversed and remanded.</disposition>
+              <headnotes id="b416-8" pgmap="416">Appeals and errors—when pro forma reversal will he entered. A reversal will be pro forma entered where the appellee fails to file a brief in compliance with the rules.</headnotes>
+              <opinion type="majority">
+                <author id="b416-12" pgmap="416">Per Curiam.</author>
+                <p id="A_S" pgmap="416">Appellee has filed no brief in com­pliance with the rules of this court'and accordingly the judgment is reversed pro forma and the cause is re- ' manded.</p>
+                <p id="b416-13" pgmap="416">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="416" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00208_1"/>
+        <fptr FILEID="jp2_00208_1"/>
+        <fptr FILEID="alto_00208_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.17" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.1" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.4" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            <area BEGIN="BL_416.5" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOC" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.6" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            <area BEGIN="BL_416.7" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-13" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.14" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_S" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.12" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            <area BEGIN="BL_416.13" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.3" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANy" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.8" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.10" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.9" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.2" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-12" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.11" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

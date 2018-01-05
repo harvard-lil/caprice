@@ -1,0 +1,637 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0031" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Langan v. Chicago City Railway Co.">Cora M. Langan, Defendant in Error, v. Chicago City Railway Company, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,230</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 249</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="287a2efa23d2cd28f68ab7b2db1473c0" CHECKSUMTYPE="MD5" SIZE="45976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="2340058210c72dba5ddb52cf7579a39e" CHECKSUMTYPE="MD5" SIZE="47902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="8dd14ed9ff4247f1aff26a276267f79b" CHECKSUMTYPE="MD5" SIZE="51362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="b44730af3ed3ccab18d373667cc007b8" CHECKSUMTYPE="MD5" SIZE="53226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="4a74860bafd99ba7644e00a5fcb4d949" CHECKSUMTYPE="MD5" SIZE="49354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="1377391ee643b75429dc56e60095d983" CHECKSUMTYPE="MD5" SIZE="42088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00136_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="3142344e0722e67382694a2239f7867a" CHECKSUMTYPE="MD5" SIZE="2425831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_0.jp2"/>
+      </file>
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="1d6971dc6ccd46ec0817a3190639c6d2" CHECKSUMTYPE="MD5" SIZE="2358645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="fb979cf39933012593ae60ba087089a6" CHECKSUMTYPE="MD5" SIZE="2434310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="44a42a8748299253ba8f7da38c6cf6c1" CHECKSUMTYPE="MD5" SIZE="2423896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00135_1.jp2"/>
+      </file>
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="7ccd89fbc4e049c29b6bc67f53c7988d" CHECKSUMTYPE="MD5" SIZE="2432746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00136_0.jp2"/>
+      </file>
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="4ba2db8bf2cf89dbb82ce73389fd6200" CHECKSUMTYPE="MD5" SIZE="2317668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00136_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="de31bef173d296c9f31823e9e963bfc5" CHECKSUMTYPE="MD5" SIZE="80272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00134_0.xml"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="1e437dada3225ce76b8fda7e971363c5" CHECKSUMTYPE="MD5" SIZE="92769">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="a09f616c218c72b4dad4826648a93649" CHECKSUMTYPE="MD5" SIZE="85762">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="2f54e28c9e9f3cb858c2e65cdb5b1dc9" CHECKSUMTYPE="MD5" SIZE="93789">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00135_1.xml"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="790e61430f0ab7d05cf4ca925aee4ccb" CHECKSUMTYPE="MD5" SIZE="85536">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00136_0.xml"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="a0cf2b661727098dcbc5f82fb939a96b" CHECKSUMTYPE="MD5" SIZE="73695">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00136_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="254" firstpage="249">
+              <docketnumber id="b267-8" pgmap="267">Gen. No. 14,230.</docketnumber>
+              <parties id="b267-7" pgmap="267">Cora M. Langan, Defendant in Error, v. Chicago City Railway Company, Plaintiff in Error.</parties>
+              <decisiondate id="AFl" pgmap="268">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b268-9" pgmap="268">Edward C. Higgins and Ferdinand Goss, for plaint­iff in error; John R. Harrington, of counsel.</attorneys>
+              <attorneys id="b268-10" pgmap="268">Johnson &amp; Lowenthal and Josiah Burnham, for defendant in error.</attorneys>
+              <summary id="b268-8" pgmap="268">Action in case for personal injuries. Error to the Municipal Court of Chicago; the Hon. Freeman K. Blake, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="AbF" pgmap="268">Reversed and remanded.</disposition>
+              <headnotes id="b267-9" pgmap="267">1. Instructions—when as to preponderance of evidence errone­ous "beyond cure. An instruction which tells the jury that they “are not to he supposed, furthermore, to consider at all the greater number, of witnesses,” is erroneous and cannot be cured by any other language contained in the charge.</headnotes>
+              <headnotes id="b268-4" pgmap="268">2. Instructions—when as to credibility of witnesses erroneous. Held, that the charge of the court in this case was erroneous in the comparison made between the credibility given to the testi­mony of the lesser and the greater number of witnesses.</headnotes>
+              <headnotes id="b268-5" pgmap="268">3. Instructions—when error to refuse, upon interest of plaintiff. Where the defendant is a corporation, it is error to refuse an in­struction as follows:</headnotes>
+              <headnotes id="b268-6" pgmap="268">“The jury are instructed that while the law permits a plaint­iff in a case to testify in her own behalf, nevertheless the jury have the right in weighing her evidence, of determining how much credence is to he given to it, to take into consideration the fact that she is the plaintiff, and that she is interested in the result of the suit.”</headnotes>
+              <headnotes id="b268-7" pgmap="268">4. Instructions—what not essential to right of jury to con­sider interest of plaintiff. It is not necessary in order that the jury may consider the interest of the plaintiff as affecting credi­bility that the jury first find that such plaintiff was swayed or influenced in giving his or her testimony by his or her interest in the result of the suit.</headnotes>
+              <opinion type="majority">
+                <author id="b268-11" pgmap="268">Mr. Presiding Justice Smith</author>
+                <p id="AuJ" pgmap="268">delivered the opinion of the court.</p>
+                <p id="b268-12" pgmap="268">Cora M. Langan brought an action in the Municipal Court of Chicago against the plaintiff in error, Chi­cago City Eailway Company, to recover damages for injuries claimed to have been sustained by her by be­ing pushed from the street car of the company by another woman, a passenger on the same car at the time. The date of the occurrence was September 4, 1906, at about four o’clock in the afternoon.</p>
+                <p id="b268-13" pgmap="268(27) 269(202)">The plaintiff, Mrs. Langan, was a passenger on a south-bound Halsted street car of the defendant and had notified the conductor that she wished to leave the car at Seventy-seventh street, and pursuant to her re­quest the conductor gave the signal to stop when the car was midway between Seventy-sixth and Seventy-­seventh streets. In obedience to the signal the speed of the car began to diminish, and when the rear or north end of the car had about reached the north cross­walk of Seventy-seventh street and the car was going at the rate of one or two miles an hour preparatory to stopping at the south line of Seventy-seventh street, the plaintiff either stepped off the car and fell back­wards to the ground, or was pushed off by another woman. According to the plaintiff’s theory, when she reached the rear platform of the car she found the con­ductor standing at the rear of the platform holding out of the center window of the vestible a bunch of lighted paper. The checking of the speed of the car caused the flames to reach his hand and he sprang backward against a large woman, who was standing behind the plaintiff, knocking her against the plaintiff, so that both the large woman and the plaintiff fell off the car together, the large woman falling upon the plaintiff.</p>
+                <p id="b269-4" pgmap="269">The theory of the defendant is that the incident of the lighting of a piece of paper had nothing whatever to do with the accident; that the paper had burned down to the conductor’s hand when the car was a short distance south of Seventy-sixth street and was there thrown away, and that there was no other wo­man besides the plaintiff on the rear platform at the time, and that no other woman fell from the car with the plaintiff; that the plaintiff stepped off the car at the north crossing while the car was moving and fell backwards or sideways upon the ground.</p>
+                <p id="b269-5" pgmap="269">The trial of the cause resulted in a judgment in favor of the plaintiff against the defendant, the plaint­iff in error here, which seeks to reverse the judgment by this proceeding.</p>
+                <p id="b269-6" pgmap="269(9) 270(17)">Plaintiff in error contends that the charge to the jury was highly prejudicial to it, and that it was er­roneous in various of its parts.</p>
+                <p id="b270-5" pgmap="270">In charging the jury on the question of preponder­ance of the evidence the court said:</p>
+                <p id="b270-6" pgmap="270">“The preponderance of the evidence does not mean alone the number of witnesses testifying to a given point, but relates more particularly to the credibility of the witnesses testifying on a given state of facts rel­ative to a given point. The jury are not to be sup­posed, furthermore, to consider at all the greater num­ber of witnesses. This may be considered along with other facts relating to the evidence. If the jury find from the evidence that a lesser number of witnesses testifying to a given point are entitled to more credit than a large number of witnesses testifying to the con­trary of a given point, then it would be the province of the jury to find the greater weight of the evidence in favor of that side having the lesser number of wit­nesses, but if the jury find that the witnesses testify­ing upon that side having the greater number of wit­nesses are equally credible and that their testimony, taken in connection with all the testimony in the case, and the facts and circumstances material to the case, are entitled to greater credibility and that their testi­mohy outweighs the testimony of the lesser number of witnesses, then it would be the duty of the jury to find the issues in favor of that side having the greater number of witnesses”.</p>
+                <p id="b270-7" pgmap="270(122) 271(14)">The positive and peremptory statement that “The jury are not to be supposed, furthermore, to consider at all the greater number of witnesses”, is not a cor­rect statement of the law. Hays v. Johnson, 92 Ill. App. 80, 83; Eastman v. Street Ry., 79 Ill. App. 585, 589. We do not think the above language is in any way modified by what precedes it or follows it in the charge; but if it was modified and the correct rule stated in another part of the charge on that subject it would not cure the error; for the jury would then have been left at liberty to select and act upon either instruction as it might appear to them to be most proper. C., B. &amp; Q. R. R. Co. v. Harwood, 80 Ill. 88, 91.</p>
+                <p id="b271-4" pgmap="271">The charge of the court upon this point is also ob­jectionable in the unusual and extraordinary compari­sons between the credit to be given to the testimony of the lesser and the greater number of witnesses. This portion of the charge tends to emphasize the objec­tionable portion of the charge first above adverted to. There was a sharp conflict in the evidence on the ma­terial facts, and it was, therefore, important that the jury should be accurately instructed as to the law.' The larger number of witnesses to these facts testi­fied for the defendant. There was no evidence before the jury justifying any inference that this greater number of witnesses was not credible. We think the charge was highly prejudicial to the defendant, and contained reversible error.</p>
+                <p id="b271-5" pgmap="271">The defendant requested the court to instruct the jury as follows:</p>
+                <p id="b271-6" pgmap="271">“The jury are instructed that while the law per­mits a plaintiff in a case to testify in her own behalf, nevertheless the jury have the right in weighing her evidence, of determining how much credence is to be given to it, to take into consideration the fact that she is the plaintiff, and that she is interested in the result of the suit”.</p>
+                <p id="b271-7" pgmap="271">This instruction in substance, though in better Eng­lish, has been approved. West C. St. Ry. Co. v. Dougherty, 170 Ill. 379; C. &amp; E. I. R. R. Co. v. Bur-­ridge, 211 id. 9, 13. The court refused to give it. It should have been given.</p>
+                <p id="b271-8" pgmap="271(79) 272(130)">Furthermore, the court in its charge on this sub­ject of weighing the plaintiff’s testimony, after tell­ing the jury that they were entitled to take into con­sideration the fact that she is the plaintiff and inter­ested in the result of the suit, further stated that “if the jury find from the evidence that the plaintiff in giving her testimony was swayed or influenced by her interest in the result of the suit, then you should give that fact such weight as in their judgment it is en­titled to and give her whole testimony only such weight and consideration as it is entitled to, considering the fact that she was swayed or influenced in giving her testimony by her interest in the case; on the other hand, if you find that the plaintiff in giving her testi­mony was not swayed or influenced by reason of any interest which she has in the outcome of the case, then you would not be warranted in giving the mere fact that she is the plaintiff in the case any weight what­ever, but you would weigh her testimony by the same standard and test it by the same tests as you would the testimony of any other witness”.</p>
+                <p id="b272-5" pgmap="272">The statute removing the disqualification, as wit­nesses in civil actions, of persons by reason of their interest in the event of the suit, as parties or other­wise, provides that such interest may be shown for the purpose of affecting the credibility of such witness, but the statute does not provide that the jury must first find that the plaintiff was swayed or influenced in giving his or her testimony by his or her interest in the result of the suit before the jury can consider his or her interest as affecting the testimony of such plaint­iff, as the charge plainly informed them. It was ma­terial error, in our opinion, to refuse the instruction requested, and to give the charge to the jury as it was given.</p>
+                <p id="b272-6" pgmap="272">Inasmuch as there must be a retrial of the case, we refrain from discussing the evidence in the record.</p>
+                <p id="b272-7" pgmap="272">For the errors indicated the judgment is reversed and the cause is remanded.</p>
+                <p id="b272-8" pgmap="272">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="267" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.2" BETYPE="IDREF" FILEID="alto_00134_0"/>
+              <area BEGIN="BL_267.4" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.2" BETYPE="IDREF" FILEID="alto_00134_1"/>
+              <area BEGIN="BL_268.3" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+              <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.3" BETYPE="IDREF" FILEID="alto_00135_1"/>
+              <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="253" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.2" BETYPE="IDREF" FILEID="alto_00136_0"/>
+              <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="254" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.3" BETYPE="IDREF" FILEID="alto_00136_1"/>
+              <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.7" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.8" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuJ" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.14" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.15" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.9" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.6" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.7" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.7" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            <area BEGIN="BL_271.1" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.8" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.11" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbF" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.9" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFl" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.10" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.10" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.9" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.16" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-13" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.17" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_269.1" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.12" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.13" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.8" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.8" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

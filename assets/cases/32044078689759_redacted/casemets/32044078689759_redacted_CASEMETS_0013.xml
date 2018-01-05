@@ -1,0 +1,798 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0013" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Whittemore v. Coleman">In the Matter of the Estate of Nellie German, deceased; Myron W. Whittemore, Appellant, v. William Coleman et al., Appellees</name>
+          <docketnumber>Gen. No. 14,009</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 109</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="b23fea14634b7b3d2e7d723ffa87ed1e" CHECKSUMTYPE="MD5" SIZE="49726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="4852ff2d60b3c2ea1a7451ee54adac72" CHECKSUMTYPE="MD5" SIZE="46544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_1.tif"/>
+      </file>
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="dd7e51bab8c94da43b12979991de13f3" CHECKSUMTYPE="MD5" SIZE="52508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="2d36809311ac7752d908a1bffbd91bd3" CHECKSUMTYPE="MD5" SIZE="50966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="12b97c895da9b4c9edaf739fff026cc7" CHECKSUMTYPE="MD5" SIZE="48762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="94725eb1d10f5f6b4fb6c17bfe6e1543" CHECKSUMTYPE="MD5" SIZE="52976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="015d9d0203da592126105f8e26375807" CHECKSUMTYPE="MD5" SIZE="52368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_0.tif"/>
+      </file>
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="ab5b60bda1ecbc2890714a9b0e69e03f" CHECKSUMTYPE="MD5" SIZE="44592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="6395cf386400fc0c9d057c885e740310" CHECKSUMTYPE="MD5" SIZE="2351519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="360e0b3dd93d52ce917c2e52b12ed202" CHECKSUMTYPE="MD5" SIZE="2287256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_1.jp2"/>
+      </file>
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="a1c581c7ba504a1f2b2b4a826b227bba" CHECKSUMTYPE="MD5" SIZE="2376518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="4b2b526939b477007042773f4d91ff45" CHECKSUMTYPE="MD5" SIZE="2327937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="a3f3586541232e2ba5fd4f24eaa19209" CHECKSUMTYPE="MD5" SIZE="2356541">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="29a229fa62ff6987786137d46e504356" CHECKSUMTYPE="MD5" SIZE="2344663">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00065_1.jp2"/>
+      </file>
+      <file ID="jp2_00066_0" MIMETYPE="image/jp2" CHECKSUM="d989fad714b4dba4279121983f2e2184" CHECKSUMTYPE="MD5" SIZE="2402504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_0.jp2"/>
+      </file>
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="f9bbf9846d11a65cc6de9bd3250a463d" CHECKSUMTYPE="MD5" SIZE="2276214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="f216a6fcd0e6db379d32d322f2cf37bd" CHECKSUMTYPE="MD5" SIZE="91912">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="6267e7b224cb3ad7435b6fd598cca3a8" CHECKSUMTYPE="MD5" SIZE="78326">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00063_1.xml"/>
+      </file>
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="3b16b00b4dd4fedd59ed90bb339b887f" CHECKSUMTYPE="MD5" SIZE="84597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="ee8de788a818efc7afc5d76ca482df18" CHECKSUMTYPE="MD5" SIZE="85405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="885c986d8ae3419e2d4189387a29e29c" CHECKSUMTYPE="MD5" SIZE="78276">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="a978c176c386997640db195f7137fdfe" CHECKSUMTYPE="MD5" SIZE="89664">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00065_1.xml"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml" CHECKSUM="e03b64a60c0116ce730817f7b290e932" CHECKSUMTYPE="MD5" SIZE="85258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00066_0.xml"/>
+      </file>
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="ae0f9aba4719a8a0f3f8ceac125662fb" CHECKSUMTYPE="MD5" SIZE="81814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00066_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="116" firstpage="109">
+              <docketnumber pgmap="125" id="b125-6">Gen. No. 14,009.</docketnumber>
+              <parties pgmap="125" id="b125-5">In the Matter of the Estate of Nellie German, deceased. Myron W. Whittemore, Appellant, v. William Coleman et al., Appellees.</parties>
+              <decisiondate pgmap="126" id="A5T">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="126" id="AKor">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="126" id="b126-5">W. H. Richardson, for appellant.</attorneys>
+              <attorneys pgmap="126" id="b126-6">Williams, Lawrence, Welsh &amp; Green, Ashcraft &amp; Ashcraft and Andrew L. Winters, for appellees; J. D. Welsh and Raymond M. Ashcraft, of counsel.</attorneys>
+              <summary pgmap="126" id="b126-4">Objections to administrator’s report. Appeal from the Circuit Court of Cook County; the Hon. Thomas G. Wishes, Judge, presid­ing.</summary>
+              <disposition pgmap="126" id="AE2">Affirmed.</disposition>
+              <headnotes pgmap="125" id="b125-7">1. Laches—when heirs not guilty of. The time for heirs to object to the acts and doings of an administrator is when such an adminis­trator renders his final account; the delay intervening the time for filing such account does not constitute laches.</headnotes>
+              <headnotes pgmap="125" id="b125-8">2. Administration of estates—when allowance of claim does not justify payment by administrator. While an administrator will be protected, even as against the heirs, in the payment of a claim duly allowed and ordered paid in due course of administration, though it subsequently develops that such claim was not proper to be allowed for payment, yet this rule is restricted to such claims allowed and paid in good faith and without fraudulent connivance of an adminis­trator having knowledge at the time of payment that such claim should not have been allowed.</headnotes>
+              <headnotes pgmap="125" id="b125-9">3. Administration of estates—when attorney’s fees not allowed administrator. Upon final settlement attorney’s fees will not be al­lowed to the administrator who is himself an attorney, nor another claiming to have acted as attorney for such administrator, in the absence of proof of services rendered.</headnotes>
+              <headnotes pgmap="125" id="b125-10">4. Administration of estates—when compensation denied admin­istrator. Compensation should be denied to an administrator who wrongfully permits a waste or illegal diversion of estate assets.</headnotes>
+              <headnotes pgmap="125" id="b125-11">5. Judgments—when court of probate may vacate. The Probate Court has jurisdiction to vacate a judgment rendered upon a claim at any time during the administration of the estate upon and after the discovery of fraud in virtue of which it was caused to be en­tered.</headnotes>
+              <headnotes pgmap="125" id="b125-12">6. Jurisdiction—of courts of probate in administration of estates. Courts exercising probate jurisdiction in this state possess all the powers of a court of equity in the settlement of final accounts of any of its administrative officers, and may vacate judgments or any other order fraudulently or collusively procured to be entered.</headnotes>
+              <opinion type="majority">
+                <author pgmap="126" id="b126-7">Mr. Justice Holdom</author>
+                <p pgmap="126" id="AA1">delivered the opinion of the court.</p>
+                <p pgmap="126" id="b126-8">The descent of the property involved in this estate embraced two generations of illegitimates, but with these peculiar and infrequent conditions, notwithstand­ing they have been provocative of considerable litiga­tion, we are not concerned on this appeal. The ques­tions before us are encompassed within the final ac­count of appellant as administrator of the estate of Nellie German, deceased, one of the illegitimates, and the objections filed thereto by those persons who have been solemnly adjudged by the Probate Court to be her heirs at law, the correctness of which adjudica­tion, while once disturbed at nisi prius, has been twice affirmed on review and is now settled beyond contro­versy. Coleman v. Swick, 120 Ill. App. 381; Swick v. Coleman, 218 Ill. 33.</p>
+                <p pgmap="126" id="b126-9">The evidence given and received in support of the account as rendered and that of the objectors against it, constitute all the matters involved in this review. It remains for this court to determine whether, under these proofs and the law governing and controlling it, the Probate and Circuit Courts of Cook county have rendered correct judgments.</p>
+                <p pgmap="126(49) 127(95)" id="b126-10">At the threshold of our review we are confronted with a record which discloses that the questions of fact have been decided by both the Probate and Cir­cuit Courts contrary to the contentions of the appel­lant. In the absence of any error of law it is incum­bent upon ns to affirm the decree of the Circuit Court unless we can say that such decree is manifestly con­trary to the greater weight of the evidence. It is the settled law that the finding of fact by the trial court shall upon review have the same force and effect as the verdict of a jury. A careful perusal and a thought­ful weighing of the evidence have resulted in bring­ing our minds to the conclusion that the proof is ample to sustain the findings reached by the Probate and Circuit Courts.</p>
+                <p pgmap="127" id="b127-4">The errors assigned and urged upon us in argu­ment resolve themselves into the following: That the administrator’s account should not have been sur­charged with the following items: The amount paid claim of Jennie Swick; the amount charged as child’s award; the credits asked for administrator’s and so­licitor’s fees.</p>
+                <p pgmap="127" id="b127-5">The claim of laches made by appellant as against appellees as heirs at law is not well taken. It is the theory of the law that an administrator in a measure represents in his official capacity all parties interested in the assets of the estate, both creditors and heirs, during the period of administration. Until the time comes for the rendition of the final account of the administrator, the law does not require the heirs to take notice of the doings of the administrator. Their right to object is at the time when such administrator, through his final account, discloses his actions and dealings with, the estate. The burden is upon him to maintain by proof the items entering into his account, as being just and proper, whenever the heirs, after notice of its filing, shall in apt time file objections thereto. The final account was filed March 10, 1906. The objections of appellees were filed thereto and a final order adjudicating the matters involved in such objections was entered on April 10, 1906. From the foregoing it is clear that appellees acted promptly in objecting when the time for so doing arrived, and consequently are not chargeable with laches.</p>
+                <p pgmap="128" id="b128-4">While an administrator will be protected, even against the heirs, in the payment of a claim duly al­lowed and ordered paid in due course of administra­tion, though it subsequently develops that such claim was not proper to be allowed for payment, yet this rule is restricted to such claims allowed and paid in good faith and without fraudulent connivance of an administrator having knowledge at the time of pay­ment that such claim should not have been allowed. It is likewise the law that the Probate Court is with­out jurisdiction to vacate a judgment at a term sub­sequent to the one at which it was rendered, except for fraud, and then at any time during the adminis­tration of the estate after the discovery of the fraud in virtue of which it was caused to be entered. But appellant argues that if he was guilty of fraud in the allowance and payment of the Swick claim, such con­duct could only be impeached in a court of equity, and cites Anderson v. Anderson, 178 Ill. 160, to sustain such contention. But the bill in the Anderson case was filed after the settlement of the estate, although the same matters sought to be impeached in the equity suit had been unsuccessfully urged in the estate mat­ter in the County Court.</p>
+                <p pgmap="128" id="b128-5">Courts exercising probate jurisdiction in this state possess all the powers of a court of equity in the settle­ment of final accounts of any of its administrative officers, and may vacate judgments or any other order fraudulently or eollusively procured to be entered. Schlink v. Maxton, 153 Ill. 447.</p>
+                <p pgmap="128(75) 129(13)" id="b128-6">It is not open to doubt but that the Probate Court has jurisdiction to do all things necessary or essential to the end that justice may be done between the heirs and the administrator upon the settlement of a final account, and full equitable powers are vested in the Probate Court for the accomplishment of that pur­pose. Wherever the right has been challenged in this state, the courts have conceded the possession of the power. In re Corrington, 124 Ill. 362; Whitney v. Peddicord, 63 ibid. 249.</p>
+                <p pgmap="129" id="b129-4">The case of Marshall v. Coleman, 187 Ill. 556, is very instructive on every important and controlling feature of the case at bar. It is conclusive both on fact and legal principle, and is as near in all its per­tinent features to the present case as one case .ordi­narily can be to another. Both the Probate and Cir­cuit Courts proceeded in accordance with its rulings, and their conclusions ought not to be disturbed if the facts in the record support such conclusions.</p>
+                <p pgmap="129" id="b129-5">The Probate, Court in the first instance and the Cir­cuit Court on appeal recast appellant’s final account by eliminating therefrom the following items:</p>
+                <blockquote pgmap="129" id="b129-6">First. The amount paid Jennie Swick on her claim proved and allowed by the</blockquote>
+                <blockquote pgmap="129" id="b129-7">Probate Court ............................................. $1078.13</blockquote>
+                <blockquote pgmap="129" id="b129-8">Second. Amount credited as payment to himself as guardian of Myrtle J. Ger­man for minor’s award.............„................ 550.00</blockquote>
+                <blockquote pgmap="129" id="b129-9">Third. Amount credited as paid Arthur</blockquote>
+                <blockquote pgmap="129" id="b129-10">W. Fulton for legal services...................... 600.00</blockquote>
+                <blockquote pgmap="129" id="b129-11">Fourth: Amount retained by appellant</blockquote>
+                <blockquote pgmap="129" id="b129-12">for Administrator’s commission.............. 568.00</blockquote>
+                <p pgmap="129" id="b129-13">The evidence conclusively demonstrates to our minds that appellant sought fraudulently to make an unlawful personal profit and gain to himself from the assets of the estate he was charged in law prudently to conserve, and out of which he could make no profit to himself except such fees for his services, permitted by law, to be fixed by the court.</p>
+                <p pgmap="129(68) 130(311)" id="b129-15">The testimony of the widow of Dr. Gibbs, that ap­pellant and her husband stated that after they had satisfied Jennie Swick with a home, they would divide the estate between them, is indicative of an intention of appellant to unlawfully acquire for himself a part of the estate entrusted to his keeping and to divert the remainder to a person not entitled to any of it. When Jennie Swick presented her claim for the support of Myrtle J. German in a sum less than $100, appellant, in pursuance of the purpose so formed to illegally acquire for himself a part of the estate, induced Jen­nie Swick to swell the amount of her claim to $1,078.13, and in fraud of the rights of the heirs and contrary to his duty, procured the claim for the latter amount to be allowed by the Probate Court. If the judge of the Probate Court had been apprised of the facts in relation to that claim, it would not have been allowed for the sum demanded. The claim in its increased amount was allowed with the written consent of ap­pellant. There was clearly fraud and collusion on the part of appellant in securing such allowance, and not­withstanding there was a formal order, made by the court on him to pay it, nevertheless he must be held to have known that if at the time of the application for that order he had informed the court of the truth as to the way in which the claim was concocted, and of the proper amount in fact due Jennie Swick, the court would not have ordered appellant to pay it. Ap­pellant was guilty of fraud in suggesting an increase of the amount of the claim and in consenting to its allowance for the increased amount, and likewise guilty of fraudulent conniving in its payment at the time he paid it. For although the claim had been fraudulently allowed, it could not have been paid but for appellant’s unlawfully conniving to have the order entered directing him to pay it. Such order so fraud­ulently procured will not protect appellant in making the payment. He must be held to the responsibility which the law casts upon him consequent upon these fraudulent actions.</p>
+                <p pgmap="130(58) 131(266)" id="b130-5">The retention by appellant of $550 out of the estate for minor’s award as guardian of the estate of Myrtle J. German was a gross fraud. In the first place, the judge of the Probate Court was imposed upon when the allowance of a minor’s award was made. Myrtle J. German died September 22, 1898; the award was not allowed until May 29, 1899, and charged in the final account as of the day of its allowance. While it is the fact that the present heirs would not suffer any loss—with the exception of a small sum for com­missions to appellant—by reason of the allowance and payment of the minor’s award, still that fact does not relieve appellant from the consequences of his fraudu­lently imposing upon the Probate Court in procuring the award to be made. However, his conduct in this matter becomes significant as one of a number of ac­tions, all unlawful, as showing an intent on appellant’s part to impose upon the Probate Court in procuring orders and allowances which would not have been per­mitted had appellant disclosed the true condition of affairs to the court. This fraudulent conduct was in­tended to result in his personal profit out of the assets of the estate. Appellant is an attorney and, lacking proof to the contrary, it will be presumed that he per­formed all services of a legal nature in the estate of which he was guardian and administrator. The ab­stract discloses that Arthur W. Fulton was an attor­ney occupying the same office as appellant. There is no evidence that Fulton ever rendered any legal ser­vice for appellant in his official capacity in connection with the German estate. The disallowance of the charge of $600 in the final account, for legal services stated to have been rendered by Fulton, was, in view of the absence of proof that any such service was ren­dered, proper.</p>
+                <p pgmap="131(86) 132(66)" id="b131-4">Compensation, within the statutory rate, is allowed administrators for the faithful discharge of their du­ties. When it appears, as in this case, that the ad­ministrator has fraudulently diverted the assets of the estate and, with third parties, sought to deprive those entitled to share in the estate of a considerable portion of their inheritance, it is but the exercise of a sound discretion reposed in Probate Courts to deny a defaulting administrator, or an administrator who wrongfully permits a waste or illegal diversion of estate assets, any compensation or remuneration what­ever. Askew v. Hudgens, 99 Ill. 468. Appellant also unduly, and we think unnecessarily, delayed making his final account to the Prohate Court. Letters were granted to appellant nearly eight years before he filed this account. There is nothing in the record excus­ing such delay, nor is any reason urged in argument in an attempt to justify it.</p>
+                <p pgmap="132" id="b132-5">The Probate Court was right in the exercise of its judicial discretion in denying appellant the allowance requested for services as administrator, and in refus­ing to make any allowance at all, and the Circuit Court did not err in following the same ruling and disallow­ing the claim made for administrator’s services. In re Estate of George Wincox, 186 Ill. 445.</p>
+                <p pgmap="132" id="b132-6">The decree of the Circuit Court is without error, and it is therefore affirmed.</p>
+                <p pgmap="132" id="b132-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="125" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+              <area BEGIN="BL_125.3" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+              <area BEGIN="BL_126.3" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="127" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.2" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+              <area BEGIN="BL_127.4" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.2" BETYPE="IDREF" FILEID="alto_00064_1"/>
+              <area BEGIN="BL_128.3" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.2" BETYPE="IDREF" FILEID="alto_00065_0"/>
+              <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+              <area BEGIN="BL_129.16" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.3" BETYPE="IDREF" FILEID="alto_00065_1"/>
+              <area BEGIN="BL_130.4" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jp2_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.4" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.2" BETYPE="IDREF" FILEID="alto_00066_0"/>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="132" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.2" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+              <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.13" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.12" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.10" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.9" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-15" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.15" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.5" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.8" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.13" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.12" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.11" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE2" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.8" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.11" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.12" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.17" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKor" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.7" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.4" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.15" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.16" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA1" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.13" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_126.14" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.6" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-13" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.14" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.7" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.5" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.10" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5T" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.9" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.8" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.7" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.6" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.9" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.5" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            <area BEGIN="BL_131.1" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.11" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.10" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.7" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

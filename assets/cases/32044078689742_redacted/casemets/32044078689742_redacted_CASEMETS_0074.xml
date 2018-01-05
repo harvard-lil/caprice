@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0074" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Miller v. C., C., C. &amp; St. L. Ry. Co.">James R. Miller, Appellant, v. C., C., C. &amp; St. L. Ry. Co., Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 431</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="cbde6f931cd2b9e2968f642725ba9d4e" CHECKSUMTYPE="MD5" SIZE="43020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00225_0.tif"/>
+      </file>
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="6e6c1ed6caae6dc7cdb93e1860e68276" CHECKSUMTYPE="MD5" SIZE="53090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00225_1.tif"/>
+      </file>
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="bf493d536c7b5f64bef3ff1ff7ef72ed" CHECKSUMTYPE="MD5" SIZE="49712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00226_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="42d0e3342a618e44c6d79db2b43d755e" CHECKSUMTYPE="MD5" SIZE="2407636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00225_0.jp2"/>
+      </file>
+      <file ID="jp2_00225_1" MIMETYPE="image/jp2" CHECKSUM="4e3ff04023cee311fb95a522a440595c" CHECKSUMTYPE="MD5" SIZE="2425420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00225_1.jp2"/>
+      </file>
+      <file ID="jp2_00226_0" MIMETYPE="image/jp2" CHECKSUM="25405f60486e68092deb584af6fdd4fd" CHECKSUMTYPE="MD5" SIZE="2434951">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00226_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="569e8852d03a2f477ecc8555721be209" CHECKSUMTYPE="MD5" SIZE="78261">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00225_0.xml"/>
+      </file>
+      <file ID="alto_00225_1" MIMETYPE="text/xml" CHECKSUM="292728f8aaa9f3552887626e5a600292" CHECKSUMTYPE="MD5" SIZE="94356">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00225_1.xml"/>
+      </file>
+      <file ID="alto_00226_0" MIMETYPE="text/xml" CHECKSUM="80df9f993754fbb8106f6d60cd4292ee" CHECKSUMTYPE="MD5" SIZE="82317">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00226_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0074" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="433" firstpage="431">
+              <parties id="b449-3" pgmap="449">James R. Miller, Appellant, v. C., C., C. &amp; St. L. Ry. Co., Appellee.</parties>
+              <decisiondate id="A1F" pgmap="449">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b449-8" pgmap="449">Chafee &amp; Chew, for appellant.</attorneys>
+              <attorneys id="b449-9" pgmap="449">George B. Gillespie, for appellee; L. J. Hackney, Hamlin, Gillespie &amp; Fitzgerald and W. C. Kelly, of counsel.</attorneys>
+              <summary id="b449-7" pgmap="449">Action in case for personal injuries. Appeal from the Circuit Court of Shelby county; the Hon. Albert M. Rose, Judge, presiding. Heard in the court at the May term, 1908.</summary>
+              <disposition id="AhL" pgmap="449">Reversed and remanded.</disposition>
+              <headnotes id="b449-5" pgmap="449">1. Contributory negligence—how question to he determined. Whether a plaintiff has been guilty- of contributory negligence which resulted in his injury, is a question of fact, where the evi­dence is conflicting, to be determined by the jury.</headnotes>
+              <headnotes id="b449-6" pgmap="449">2. Instructions—must he predicated upon the evidence. An in­struction which is unsupported upon any hypothesis of evidence should not be given.</headnotes>
+              <opinion type="majority">
+                <author id="b449-10" pgmap="449">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AqY" pgmap="449">delivered the opinion of the court.</p>
+                <p id="b449-11" pgmap="449(154) 450(297)">In an action by appellant against appellee for the recovery of damages for personal injuries alleged to have been sustained by him through the negligence of appellee, while he was a passenger upon one of its trains, judgment was rendered upon the verdict of a jury, in favor of the defendant and in bar of the ac­tion. The negligence charged in the first count of the declaration is that after the train upon which the plaintiff was a passenger had reached the station of Shelbyville and had stopped, he went upon the plat­form of the coach in which he had been riding intend­ing to alight, and that just as he had reached the plat­form, the defendant caused the train to be suddenly and violently moved forward, and that the plaintiff in attempting to avoid falling had his fingers caught by the closing of the door of said coach, whereby they were cut and injured. It is further charged in the sec­ond count that the defendant negligently caused the door of the coach in question to be opened and in no wise securely fastened. Appellant testified that he re­ceived the injury for which he seeks to recover under the following circumstances: “When we reached Shelbyville the conductor and brakeman both went through the train. The brakeman called the station, opened the door, went out, and then closed it. After that the train came to a standstill, and I got up and with my grip in my right hand opened the door with my left hand and stepped out on the platform. Just as I did so the coach made a lurch forward for some cause. There was no one on the platform beside my­self. There was nothing said about the train starting. I grabbed for something to keep me from falling and caught the door and it came onto these two fingers and I had to set my valise down and push the door off of them. At the time I set my valise down my fingers were between the door and the facing. I would have fallen to the floor had I not caught the door. My rec­ollection is that I took hold of the door and swung it back and then stepped out. The door swung back on the inside of the car and I was outside of the door standing right even with it. When the ear moved it threw me off my feet. I might possibly have staggered against the door. The door did not lock. My fingers were caught on the opposite side from the hinges. The train was going east and the door opened back to the north.”</p>
+                <p id="b450-6" pgmap="450(86) 451(216)">The main contested question in the case was whether or not appellant at the time he received the injury, was in the exercise of due care under all the surrounding circumstances. This was a question of fact exclusively for the determination of the jury, and had they been accurately advised as to the law, we would not be dis­posed to disturb their finding. The court instructed the jury at the request of the appellee, that although they believed from the evidence “that the plaintiff was injured, while alighting or attempting to alight from a passenger train of the defendant company, and that the company was guilty of negligence in causing his injury, yet that fact alone would not entitle him to recover;” and if they believed from the evidence “that at the time he was injured he was attempting to alight from a moving train, or from a train before it had arrived at the platform, or before said train had ar­rived at the usual place of discharging passengers,” it was proper for them to take into consideration such facts in connection with the other circumstances sur­rounding the plaintiff, at the time, in determining whether he was in the exercise of due care for his own safety; and that if they determined “that at the time he was injured the plaintiff was not in the exer­cise of due care and caution for Ms own safety but voluntarily put himself in a place of danger or know­ingly attempted to alight from the train while it was moving, or at a time when he knew it was about to be moved, and that in so doing he did not exercise under the circumstances reasonable care and caution for his own safety,” then they should find the defendant not guilty.</p>
+                <p id="b451-5" pgmap="451">The court erred in giving the foregoing instruction for the reason that it was not based upon the evi­dence. There was no evidence tending to show that appellant was attempting to alight from a moving train at the time he received his injury. The word “alight” in its ordinary acceptation means to get down from or descend. The evidence shows that appellant had when injured but arrived at the platform prepara­tory to alighting. We are not satisfied that the jury were not misled to the prejudice of appellant. The judgment of the Circuit Court will therefore be re­versed and the cause remanded.</p>
+                <p id="b451-6" pgmap="451">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="449" ORDERLABEL="431" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.2" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="450" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jp2_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.3" BETYPE="IDREF" FILEID="alto_00225_1"/>
+              <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="451" ORDERLABEL="433" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jp2_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.3" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.2" BETYPE="IDREF" FILEID="alto_00226_0"/>
+              <area BEGIN="BL_451.4" BETYPE="IDREF" FILEID="alto_00226_0"/>
+              <area BEGIN="BL_451.7" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.12" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-8" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.11" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.5" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            <area BEGIN="BL_451.1" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.16" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_450.1" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.13" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-7" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.7" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_449.8" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.6" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-3" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.6" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1F" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.10" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhL" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.9" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.5" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqY" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.14" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_449.15" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

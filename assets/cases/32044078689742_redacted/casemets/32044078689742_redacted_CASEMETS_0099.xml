@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0099" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Bacon v. Peoria &amp; Eastern Railway Co.">Emeline Bacon et al., Appellees, v. The Peoria &amp; Eastern Railway Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 502</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="3b5b9de8f0d503fb16b8cdfd3ad55578" CHECKSUMTYPE="MD5" SIZE="43292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_1.tif"/>
+      </file>
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="d6e17f6bc6eb0352576a18bc0f939d22" CHECKSUMTYPE="MD5" SIZE="52694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00261_0.tif"/>
+      </file>
+      <file ID="tiff_00261_1" MIMETYPE="image/tiff" CHECKSUM="5124ebbf5dd5a2f47c814dcce454afd1" CHECKSUMTYPE="MD5" SIZE="52416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00261_1.tif"/>
+      </file>
+      <file ID="tiff_00262_0" MIMETYPE="image/tiff" CHECKSUM="61c87b749add3f94f959f555ca9a887d" CHECKSUMTYPE="MD5" SIZE="50854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_0.tif"/>
+      </file>
+      <file ID="tiff_00262_1" MIMETYPE="image/tiff" CHECKSUM="47d3741895e2aa09929be894f9ce0f49" CHECKSUMTYPE="MD5" SIZE="44990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="72caa0dd11614afd21b01c3865701348" CHECKSUMTYPE="MD5" SIZE="2339171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_1.jp2"/>
+      </file>
+      <file ID="jp2_00261_0" MIMETYPE="image/jp2" CHECKSUM="5f015b94be35c37e6301dd168ff3d18f" CHECKSUMTYPE="MD5" SIZE="2439756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00261_0.jp2"/>
+      </file>
+      <file ID="jp2_00261_1" MIMETYPE="image/jp2" CHECKSUM="634091ca6324bb40e8fc1e7411544380" CHECKSUMTYPE="MD5" SIZE="2430026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00261_1.jp2"/>
+      </file>
+      <file ID="jp2_00262_0" MIMETYPE="image/jp2" CHECKSUM="82ddca03ec8fa747b7f62a3125ffa160" CHECKSUMTYPE="MD5" SIZE="2457243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_0.jp2"/>
+      </file>
+      <file ID="jp2_00262_1" MIMETYPE="image/jp2" CHECKSUM="dc04ff2a3a2d6e7205444286e74774f2" CHECKSUMTYPE="MD5" SIZE="2333356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="e7fce68ab22a914e8b40e4ed06b88e2d" CHECKSUMTYPE="MD5" SIZE="76277">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00260_1.xml"/>
+      </file>
+      <file ID="alto_00261_0" MIMETYPE="text/xml" CHECKSUM="63757629338bd7b784dcb7f0cf298711" CHECKSUMTYPE="MD5" SIZE="77954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00261_0.xml"/>
+      </file>
+      <file ID="alto_00261_1" MIMETYPE="text/xml" CHECKSUM="178f4a088ff8e915a7db1ed2ef9b407e" CHECKSUMTYPE="MD5" SIZE="83765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00261_1.xml"/>
+      </file>
+      <file ID="alto_00262_0" MIMETYPE="text/xml" CHECKSUM="b2f83399f8ba633c820f3717d8b484d8" CHECKSUMTYPE="MD5" SIZE="82381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00262_0.xml"/>
+      </file>
+      <file ID="alto_00262_1" MIMETYPE="text/xml" CHECKSUM="e52799b1746b798a77ee76f3baf5ceb3" CHECKSUMTYPE="MD5" SIZE="92050">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00262_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0099" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="506" firstpage="502">
+              <parties id="b520-6" pgmap="520">Emeline Bacon et al., Appellees, v. The Peoria &amp; Eastern Railway Company, Appellant.</parties>
+              <decisiondate id="AdT" pgmap="520">Opinion filed November 17, 1908.</decisiondate>
+              <otherdate id="Adgg" pgmap="520">Rehearing denied and opinion modified December 17, 1908.</otherdate>
+              <attorneys id="b520-10" pgmap="520">George B. Gillespie, for appellant; L. J. Hackney, Hamlin, Gillespie &amp; Fitzgerald, and Prettyman, Velde &amp; Prettyman, of counsel.</attorneys>
+              <attorneys id="b521-4" pgmap="521">W. R. Curran and Wm. A. Potts, for appellees.</attorneys>
+              <summary id="b520-9" pgmap="520">Action on the case. Appeal from the Circuit Court of Tazewell county; the Hon. Theodore N. Greer, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AMq" pgmap="520">Reversed and remanded.</disposition>
+              <headnotes id="b520-7" pgmap="520">1. Amendments and jeofails—when granting leave after verdict not error. Permitting an amendment alter verdict and before judgment, by which a cause is discontinued as to one party, is not error if the original cause of action remains unchanged and the amendment is in furtherance of justice.</headnotes>
+              <headnotes id="b520-8" pgmap="520">2. Evidence—when will incompetent to prove ownership. A will devising particular property is not competent to prove owner­ship thereof in the beneficiaries in the absence of proof of probate.</headnotes>
+              <opinion type="majority">
+                <author id="b521-5" pgmap="521">Mr. Justice Baume</author>
+                <p id="AZ9" pgmap="521">delivered the opinion of the court.</p>
+                <p id="b521-6" pgmap="521">This suit was originally instituted by Emeline Bacon, executrix of the last will and testament of Ed­ward H. Bacon, deceased, against the Peoria &amp; East­ern Eailway Company, appellant, to recover damages occasioned by the alleged negligence of appellant or its lessee or licensee, the Cleveland, Cincinnati, Chi­cago &amp; St. Louis Eailway Company, in permitting sparks to escape from a locomotive whereby certain property consisting of a grain elevator, engine, ma­chinery, scales and office was destroyed by fire. Be­fore the trial the original plaintiff was permitted to amend the pleadings by making Emeline Bacon and Edward Harrison Bacon, by Emeline Bacon, his next friend, additional parties plaintiff. Thereafter the cause proceeded to verdict but before the rendition of judgment thereon the plaintiffs were permitted to discontinue the suit as to Emeline Bacon, executrix as aforesaid, and judgment was then entered upon the verdict in favor of Emeline Bacon and Edward Har­rison Bacon, by Emeline Bacon his next friend, against appellant for $2,250.</p>
+                <p id="b521-7" pgmap="521(123) 522(41)">The declaration consists of the first original count and six additional counts which allege in varying phraseology the ownership and possession by ap­pellees or by their tenant of certain described real estate together with the buildings, machinery, etc., situated thereon; that appellant, or its lessee or licensee was operating a certain locomotive engine upon the railroad located near said premises and that it became the duty of appellant and its lessee or li­censee to provide said locomotive with the most ap­proved appliances to prevent the escape of fire and to keep the same in suitable order and repair and to so use said locomotive that fire would not be liable to escape therefrom; that appellant, or its said lessee or licensee wholly failed to perform said duty and so neg­ligently and carelessly operated said locomotive that sparks and brands of fire were thrown therefrom to and upon the said premises of appellees whereby the said buildings, machinery, etc., were destroyed.</p>
+                <p id="b522-5" pgmap="522">That the fire which destroyed the elevator and prop­erty in question originated from a spark which was thrown from a locomotive of appellant, or of the Cleveland, Cincinnati, Chicago &amp; St. Louis Eailway Company operating a train upon the railroad of ap­pellant as its lessee or licensee, does not admit of any doubt under the evidence in this record. By a special verdict submitted at the instance of appellant the jury found that the spark arrester in the locomotive was defective and further found that the engineer and fireman who operated said engine were competent, but no special finding was made upon the issue as to whether or not said locomotive was operated with rea­sonable care and skill.</p>
+                <p id="b522-6" pgmap="522">The finding of the jury that the spark arrester was defective is sustained not alone by the fact that the engine emitted unusual and considerable quantities of live sparks, but by the testimony of Charles A. Brom­ley, a witness called on behalf of appellant who in­spected the engine on the night following the day upon which the fire occurred, to the effect that there were some small holes between the plates around the steam pipes and the smoke arch.</p>
+                <p id="b522-7" pgmap="522">As to the manner in which the locomotive was oper­ated the evidence tends to show that the effort of the engineer was more particularly directed in an attempt to make up lost time than to the reasonably careful operation of the engine with reference to emitting sparks therefrom.</p>
+                <p id="b522-8" pgmap="522(44) 523(11)">The court did not err in permitting an amend­ment after verdict and before judgment whereby the suit was discontinued by Emeline Bacon, executrix of the last will and testament of Edward H. Bacon, de­ceased, as plaintiff. The original cause of action re­mained unchanged and the amendment was in the furtherance of justice.</p>
+                <p id="b523-4" pgmap="523">To sustain their right to recover as owners of the property in question appellees introduced in evidence a paper purporting to he the last will and testament of Lilly Bacon, deceased, a daughter, by a former wife, of Edward H. Bacon, whereby the real estate upon which the property was located was devised to said Edward H. Bacon. Appellees offered no record of the probate of the said paper as the last will and testa­ment of Lilly Bacon, and appellant interposed an ob­jection to the introduction of said paper in evidence upon the ground that no proper foundation had been laid therefor. This objection was overruled and the paper was admitted in evidence. The objection was sufficiently specific and it was error to admit the paper in evidence over such objection without proper proof of its probate as the last will and testament of the alleged testatrix. Hicks v. Deemer, 187 Ill. 164.</p>
+                <p id="b523-5" pgmap="523">Upon the back of the paper appears an endorse­ment in writing as follows: “This will duly proven, admitted to probate and recorded this 7th day of Au­gust, 1905, Jesse Black, Jr., Judge.” Even if this en­dorsement constitutes proof of the probate of the in­strument, it was not offered in evidence. For the error in the ruling of the court admitting the said paper in evidence the judgment must be reversed and the cause remanded for another trial.</p>
+                <p id="b523-6" pgmap="523(83) 524(13)">Among other errors assigned by appellant is that relating to certain alleged insufficiencies in the proof as to the status of the Cleveland, Cincinnati, Chicago &amp; St. Louis Railway Company as the lessee or licensee of appellant, which was put in issue by the pleadings. Upon another trial appellees will doubtless be able to lay a proper foundation for the admission of second­ary evidence as to the true status of said railway company and it is not necessary to prolong this opin­ion by further discussion of the assignment of error relating to that question.</p>
+                <p id="b524-5" pgmap="524">The judgment of the circuit court is reversed and the cause remanded.</p>
+                <p id="b524-6" pgmap="524">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="520" ORDERLABEL="502" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.2" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.3" BETYPE="IDREF" FILEID="alto_00260_1"/>
+              <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="521" ORDERLABEL="503" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jp2_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.2" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.1" BETYPE="IDREF" FILEID="alto_00261_0"/>
+              <area BEGIN="BL_521.3" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="522" ORDERLABEL="504" TYPE="page">
+        <fptr FILEID="tiff_00261_1"/>
+        <fptr FILEID="jp2_00261_1"/>
+        <fptr FILEID="alto_00261_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.2" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_522.3" BETYPE="IDREF" FILEID="alto_00261_1"/>
+              <area BEGIN="BL_522.4" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="523" ORDERLABEL="505" TYPE="page">
+        <fptr FILEID="tiff_00262_0"/>
+        <fptr FILEID="jp2_00262_0"/>
+        <fptr FILEID="alto_00262_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.3" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_523.2" BETYPE="IDREF" FILEID="alto_00262_0"/>
+              <area BEGIN="BL_523.4" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="524" ORDERLABEL="506" TYPE="page">
+        <fptr FILEID="tiff_00262_1"/>
+        <fptr FILEID="jp2_00262_1"/>
+        <fptr FILEID="alto_00262_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_524.2" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_524.3" BETYPE="IDREF" FILEID="alto_00262_1"/>
+              <area BEGIN="BL_524.4" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.6" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.5" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adgg" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.15" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.16" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.8" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.9" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_522.1" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-4" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.4" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.5" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMq" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.12" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-10" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.17" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-9" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.10" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.11" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.9" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-4" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.5" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-8" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.8" BETYPE="IDREF" FILEID="alto_00261_1"/>
+            <area BEGIN="BL_523.1" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.7" BETYPE="IDREF" FILEID="alto_00262_0"/>
+            <area BEGIN="BL_524.1" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdT" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.13" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.14" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.5" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.7" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b522-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_522.6" BETYPE="IDREF" FILEID="alto_00261_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-7" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.8" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-6" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.7" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b523-5" BETYPE="IDREF" FILEID="casebody_0099"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_523.6" BETYPE="IDREF" FILEID="alto_00262_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

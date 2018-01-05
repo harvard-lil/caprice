@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0069" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Metzger v. Manlove">Henry G. Metzger, Appellant, v. William B. Manlove, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 419</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="afa2b92b30684e1abfcf75edecee4f9b" CHECKSUMTYPE="MD5" SIZE="39938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_0.tif"/>
+      </file>
+      <file ID="tiff_00219_1" MIMETYPE="image/tiff" CHECKSUM="e39fa0d140075fec29ef61b165e639b2" CHECKSUMTYPE="MD5" SIZE="52284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_1.tif"/>
+      </file>
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="d5b82856b15807476a1c648d0459e0e6" CHECKSUMTYPE="MD5" SIZE="39370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="6b05a3a83d446c030b71112d4053a68b" CHECKSUMTYPE="MD5" SIZE="2392566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_0.jp2"/>
+      </file>
+      <file ID="jp2_00219_1" MIMETYPE="image/jp2" CHECKSUM="1a09a31b32d6dfbd1e59504da0f296ac" CHECKSUMTYPE="MD5" SIZE="2410052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_1.jp2"/>
+      </file>
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="54045299bf2be168d677a3aed56e21ca" CHECKSUMTYPE="MD5" SIZE="2368409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="9fc645cee311b0c51d3c66f4760eea14" CHECKSUMTYPE="MD5" SIZE="68647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00219_0.xml"/>
+      </file>
+      <file ID="alto_00219_1" MIMETYPE="text/xml" CHECKSUM="f969151bded1808aa418b058fa631b14" CHECKSUMTYPE="MD5" SIZE="86192">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00219_1.xml"/>
+      </file>
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="c7bd6beab8045963d77e013bb3487dcf" CHECKSUMTYPE="MD5" SIZE="69233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00220_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0069" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="421" firstpage="419">
+              <parties id="b437-7" pgmap="437">Henry G. Metzger, Appellant, v. William B. Manlove, Appellee.</parties>
+              <decisiondate id="AO_" pgmap="437">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b437-11" pgmap="437">Charles J. Scofield and Apollos W. O’Harra, for appellant.</attorneys>
+              <attorneys id="b437-12" pgmap="437">J. N. Carter, T. B. Pape, Vose &amp; Creel, J. W. Will­lams and S. P. Lemmon, for appellee.</attorneys>
+              <summary id="b437-10" pgmap="437">Assumpsit. Appeal from the Circuit Court of Hancock county; the Hon. Robert J. Grier, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="At_" pgmap="437">Affirmed.</disposition>
+              <headnotes id="b437-9" pgmap="437">Trial—when improper remarles will not reverse. Improper re­marks of counsel made in argument will not reverse where the ver­dict is clearly right.</headnotes>
+              <opinion type="majority">
+                <author id="b438-4" pgmap="438">Mr. Presidiug Justice Puterbaugh</author>
+                <p id="ARL" pgmap="438">delivered the opinion of the court.</p>
+                <p id="b438-5" pgmap="438">A former judgment in this case in favor of the plaintiff was reversed by this court, for errors of the trial court, in admitting incompetent evidence in be­half of the plaintiff. In the opinion then filed (Man­love v. Metzger, 124 Ill. App. 383) the nature of the ac­tion and the pleadings are sufficiently stated. Upon a second trial, which resulted in a verdict and judg­ment for the defendant, there was additional evidence adduced by appellant which tended to show acts and conduct on the part of appellee which would have war­ranted the belief by the public that he was jointly in­terested with his son Joseph E. Manlove in the busi­ness in question.</p>
+                <p id="b438-6" pgmap="438">In our former opinion, to which we now adhere, it was held that before a person can be held liable for the debt of another by reason of holding himself out as a partner when he is not a partner in fact, such holding out must be brought to the knowledge of the party extending the credit, at or before the time the credit is extended. The evidence in the present rec­ord fails to establish such knowledge on the part of appellant. While there is some evidence tending to show that appellee had knowingly permitted himself to be held out as such by his son, the same is clearly insufficient to warrant a finding that appellee had knowledge that he was being so advertised.</p>
+                <p id="b438-7" pgmap="438">The instructions asked by appellant indicate that the liability of appellee was sought to be predicated upon the theory that an actual partnership existed be­tween the parties. We are unable to say that the greater weight of the evidence upon the issue was so manifestly with appellant that the finding of the jury thereon should he disturbed.</p>
+                <p id="b438-8" pgmap="438(37) 439(36)">Serious complaint is made of remarks made by one of counsel for appellant during the trial in the presence of the jury. Certain of the remarks in question were highly improper and would necessitate a reversal of the judgment in á close case. In the present case, how­ever, the verdict was so clearly in accordance with the evidence that we are satisfied that the rights of appel­lant were not prejudiced thereby.</p>
+                <p id="b439-4" pgmap="439">It is further insisted that the court erred in the rulings upon the instructions. We have carefully con­sidered the objections urged and are of opinion that the given instructions fully stated the law applicable with substantial accuracy, and that there was no er­ror in this respect. The same may be said as to the rulings upon the admissibility of evidence offered.</p>
+                <p id="b439-5" pgmap="439">The judgment of the Circuit Court is affirmed.</p>
+                <p id="b439-6" pgmap="439">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="437" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.2" BETYPE="IDREF" FILEID="alto_00219_0"/>
+              <area BEGIN="BL_437.4" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="438" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00219_1"/>
+        <fptr FILEID="jp2_00219_1"/>
+        <fptr FILEID="alto_00219_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.1" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.2" BETYPE="IDREF" FILEID="alto_00219_1"/>
+              <area BEGIN="BL_438.3" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="439" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.2" BETYPE="IDREF" FILEID="alto_00220_0"/>
+              <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.10" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_439.1" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At_" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.11" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-9" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.8" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.5" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.7" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.7" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.7" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.4" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.9" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.8" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-10" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.9" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_437.10" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARL" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.5" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_438.6" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-12" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.14" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.6" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO_" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.12" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-11" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.13" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

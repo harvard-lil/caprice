@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0057" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Billingheimer v. Scott">Carrie J. Billingheimer, Appellee, v. William F. Scott et al., Appellants</name>
+          <docketnumber>Gen. No. 14,107</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 395</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00207_0" MIMETYPE="image/tiff" CHECKSUM="30393737e98e7fa8b048487073d9e691" CHECKSUMTYPE="MD5" SIZE="41848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00207_0.tif"/>
+      </file>
+      <file ID="tiff_00207_1" MIMETYPE="image/tiff" CHECKSUM="900b7e15c4de77468ae7b19469f79f3d" CHECKSUMTYPE="MD5" SIZE="51742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00207_1.tif"/>
+      </file>
+      <file ID="tiff_00208_0" MIMETYPE="image/tiff" CHECKSUM="e5df2b290da75aaf67a32c863bcf887f" CHECKSUMTYPE="MD5" SIZE="47260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00207_0" MIMETYPE="image/jp2" CHECKSUM="50716d5abeced699376bf7659cf7da29" CHECKSUMTYPE="MD5" SIZE="2399151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00207_0.jp2"/>
+      </file>
+      <file ID="jp2_00207_1" MIMETYPE="image/jp2" CHECKSUM="a1882677d3a094e22b5fcfaa281ae7ef" CHECKSUMTYPE="MD5" SIZE="2427862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00207_1.jp2"/>
+      </file>
+      <file ID="jp2_00208_0" MIMETYPE="image/jp2" CHECKSUM="7f2f5616dcf15081e55eb6391472f001" CHECKSUMTYPE="MD5" SIZE="2425787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00207_0" MIMETYPE="text/xml" CHECKSUM="0ea79e745e396ded164a988da5bdeb17" CHECKSUMTYPE="MD5" SIZE="72982">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00207_0.xml"/>
+      </file>
+      <file ID="alto_00207_1" MIMETYPE="text/xml" CHECKSUM="205bbb64d2e214d48fabf3291376be33" CHECKSUMTYPE="MD5" SIZE="87031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00207_1.xml"/>
+      </file>
+      <file ID="alto_00208_0" MIMETYPE="text/xml" CHECKSUM="78735e5a2b5b86adf45cd9d922bcd2ab" CHECKSUMTYPE="MD5" SIZE="77524">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00208_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0057" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="397" firstpage="395">
+              <docketnumber id="b413-4" pgmap="413">Gen. No. 14,107.</docketnumber>
+              <parties id="b413-3" pgmap="413">Carrie J. Billingheimer, Appellee, v. William F. Scott et al., Appellants.</parties>
+              <decisiondate id="ARp_" pgmap="413">Opinion filed Decem­ber 21, 1908.</decisiondate>
+              <attorneys id="b413-7" pgmap="413">William P. Shockey, Orlando W. Keatley and Benjamin McWilliams, for appellants.</attorneys>
+              <attorneys id="b413-8" pgmap="413">Parker &amp; Hagan, for appellee.</attorneys>
+              <summary id="b413-6" pgmap="413">Assumpsit. Appeal from the Circuit Court of Cook county; the Hon. John Gibbons, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AFx" pgmap="413">Affirmed on remittitur.</disposition>
+              <headnotes id="b413-5" pgmap="413">Interest—what not unreasonable and vexatious delay of pay­ment. It is not an unreasonable and vexatious delay of payment to refuse to satisfy a claim where there is an honest and reason­able dispute with respect to its validity and propriety.</headnotes>
+              <opinion type="majority">
+                <author id="b413-9" pgmap="413">Mr. Justice Holdom</author>
+                <p id="AxM" pgmap="413">delivered the opinion of the court.</p>
+                <p id="b413-10" pgmap="413(168) 414(210)">The plaintiff, and the defendant William F. Scott, at the time of the occurrences resulting in the conten­tions appearing in this record, sustained the relation­ship to each other of patient and doctor. Dr. Scott attended the plaintiff when she suffered from a mis­carriage. Just prior to this time Dr. Scott’s wife, his co-defendant, had been delivered of a living child. In the case of these two mothers nature seemed to work at cross purposes. The mother of the immature and lifeless child had an abundant supply of nature’s in­fant nourishment, while through the lacteal ducts of the mother of the living child no needed nourishment flowed. Dr. Scott’s child was puny, in consequence, and so ill nourished that its life was threatened with early extinction. In his perplexity and anxiety for the life of his child, Dr. Scott appealed to the plaint­iff to suckle it and to give the child of the abundance of nourishment which she had and of which the child stood in sore need to save its life. Plaintiff took the child and nursed it, so that it became strong and healthy from the maternal sustenance which it ex­tracted from her. Now the plaintiff claims that she cared in this way for the child of defendants under an express agreement that she should be paid $15 per week for such services. On the other hand, Dr. Scott denies that any such agreement was made, but insists that plaintiff agreed to accept as a requite­ment for her services his professional attendance and care and the relinquishment of a claim for borrowed money which Dr. Scott had against her husband. The cause was tried at nisi prius with a jury, and a judg­ment of $762.08 entered against defendants on the ver­dict of the jury. The common counts and a plea of non assumpsit embrace all the pleadings in the case. It is contended that defendants should have been per­mitted to recoup the amount due for Dr. Scott’s serv­ices under the plea of the general issue; that the judg­ment is contrary to the preponderating force of the evidence; and that the court erred in its rulings upon the evidence and in its instructions to the jury.</p>
+                <p id="b414-5" pgmap="414(147) 415(18)">Whether defendants could recoup or put in evi­dence a set-off or counter claim under their plea of non assumpsit against the claim set up by plaintiff, we are not called upon to decide, for the reason, clearly apparent, that there is naught in the record which calls for such ruling. The abstract of the record fails to disclose that any evidence was proffered of any counter claim by defendants, either by way of recoup­ment or set-off. The cause was defended upon the theory that the agreement to pay plaintiff for her services $15 per week was never made, and all the evidence of defendants tends in that direction. A reading of the evidence fails to disclose any ruling of the learned trial judge upon the evidence which in­juriously affected the rights of defendants or curtailed the defense which they sought to interpose. An exam­ination of the instructions fails to disclose any. in­firmity of law necessitating a re-trial of the case.</p>
+                <p id="b415-4" pgmap="415">The judgment appealed from was entered on the second trial of the cause. On the first trial plaintiff recovered and that judgment was by the Branch Court reversed and a new trial awarded because of im­proper remarks of plaintiff’s counsel in his address to the jury. See case General Number 10767, opin­ion by Mr. Justice Baker, filed March 1, 1904, and not reported. In this opinion it is intimated that the amount of the judgment was excessive, as the jury awarded compensation at the rate of $25 per week in the face of the testimony of plaintiff that she was to receive the lesser sum of $15 per week for her services. We are of the opinion that the judgment appealed from is also excessive in that it includes interest upon the amount of plaintiff’s- claim on the basis of $15 per week. The evidence fails to show that defendants unreason­ably or vexatiously withheld the amount due plaintiff. We gather from the proofs that the disagreement be­tween the parties is an honest one, and in view of the evidence in this record and the first verdict rendered in the case, we cannot say that the defendants vexa­tiously or unreasonably witheld payment. Plaintiff nursed the child of defendants from June 25, 1896, to February 22, 1897, a period of thirty-four weeks lack­ing one day. Plaintiff is consequently limited in her right to recover to that time. At $15 per week the amount due would be in round numbers $508.</p>
+                <p id="b415-5" pgmap="415">The judgment of the Circuit Court will therefore be affirmed on a remittitur from the amount of the judgment of $254.08 within five days; otherwise the judgment will be reversed and the cause remanded for a new trial.</p>
+                <p id="b415-6" pgmap="415">Affirmed on remittitur.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="413" ORDERLABEL="395" TYPE="page">
+        <fptr FILEID="tiff_00207_0"/>
+        <fptr FILEID="jp2_00207_0"/>
+        <fptr FILEID="alto_00207_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_413.2" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_413.1" BETYPE="IDREF" FILEID="alto_00207_0"/>
+              <area BEGIN="BL_413.3" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="414" ORDERLABEL="396" TYPE="page">
+        <fptr FILEID="tiff_00207_1"/>
+        <fptr FILEID="jp2_00207_1"/>
+        <fptr FILEID="alto_00207_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_414.2" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_414.3" BETYPE="IDREF" FILEID="alto_00207_1"/>
+              <area BEGIN="BL_414.4" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="415" ORDERLABEL="397" TYPE="page">
+        <fptr FILEID="tiff_00208_0"/>
+        <fptr FILEID="jp2_00208_0"/>
+        <fptr FILEID="alto_00208_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.3" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_415.2" BETYPE="IDREF" FILEID="alto_00208_0"/>
+              <area BEGIN="BL_415.4" BETYPE="IDREF" FILEID="alto_00208_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b414-5" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_414.5" BETYPE="IDREF" FILEID="alto_00207_1"/>
+            <area BEGIN="BL_415.1" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARp_" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.10" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_413.11" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxM" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.15" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_413.16" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-5" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.6" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-3" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.4" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-4" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.5" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-5" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.6" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-6" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.7" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_413.8" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-7" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.12" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-8" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.13" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-9" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.14" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-4" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.5" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b413-10" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.17" BETYPE="IDREF" FILEID="alto_00207_0"/>
+            <area BEGIN="BL_414.1" BETYPE="IDREF" FILEID="alto_00207_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b415-6" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_415.7" BETYPE="IDREF" FILEID="alto_00208_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFx" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_413.9" BETYPE="IDREF" FILEID="alto_00207_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

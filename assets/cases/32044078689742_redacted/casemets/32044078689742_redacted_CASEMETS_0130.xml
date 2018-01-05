@@ -1,0 +1,719 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0130" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Carter v. Cairo, Vincennes &amp; Chicago Railway Co.">F. R. Carter et al., Appellees, v. Cairo, Vincennes &amp; Chicago Railway Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 653</citation>
+          <decisiondate>1908-11-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00336_0" MIMETYPE="image/tiff" CHECKSUM="fb6b7029fef917d53bb973a2916f30b1" CHECKSUMTYPE="MD5" SIZE="41682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_0.tif"/>
+      </file>
+      <file ID="tiff_00336_1" MIMETYPE="image/tiff" CHECKSUM="26fde4c370ad3a42f53368f1aa223f68" CHECKSUMTYPE="MD5" SIZE="50016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_1.tif"/>
+      </file>
+      <file ID="tiff_00337_0" MIMETYPE="image/tiff" CHECKSUM="3ead58c8b93048d9c6a67c00249897df" CHECKSUMTYPE="MD5" SIZE="53036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00337_0.tif"/>
+      </file>
+      <file ID="tiff_00337_1" MIMETYPE="image/tiff" CHECKSUM="2b5fec5938a45857b294ad48f9281fd3" CHECKSUMTYPE="MD5" SIZE="53320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00337_1.tif"/>
+      </file>
+      <file ID="tiff_00338_0" MIMETYPE="image/tiff" CHECKSUM="044b6839213390bcdfb4443d834eb11c" CHECKSUMTYPE="MD5" SIZE="50394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00338_0.tif"/>
+      </file>
+      <file ID="tiff_00338_1" MIMETYPE="image/tiff" CHECKSUM="a3419fbde92d71939089e89462bb4faa" CHECKSUMTYPE="MD5" SIZE="52718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00338_1.tif"/>
+      </file>
+      <file ID="tiff_00339_0" MIMETYPE="image/tiff" CHECKSUM="ff2f48f6f8768159e1888e2c6b4e061d" CHECKSUMTYPE="MD5" SIZE="54066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00339_0.tif"/>
+      </file>
+      <file ID="tiff_00339_1" MIMETYPE="image/tiff" CHECKSUM="71e0e76a493ca1024d46d48529e271d2" CHECKSUMTYPE="MD5" SIZE="53608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00339_1.tif"/>
+      </file>
+      <file ID="tiff_00340_0" MIMETYPE="image/tiff" CHECKSUM="509b94551026321c6450dbf8b798d875" CHECKSUMTYPE="MD5" SIZE="9420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00340_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00336_0" MIMETYPE="image/jp2" CHECKSUM="a36d9c1905f6f9d23afe07c681807cac" CHECKSUMTYPE="MD5" SIZE="2359847">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_0.jp2"/>
+      </file>
+      <file ID="jp2_00336_1" MIMETYPE="image/jp2" CHECKSUM="71599eaa6e39a746b15ace0a1d374902" CHECKSUMTYPE="MD5" SIZE="2404601">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_1.jp2"/>
+      </file>
+      <file ID="jp2_00337_0" MIMETYPE="image/jp2" CHECKSUM="d9c2bbe054a8e026f28c5c188531415c" CHECKSUMTYPE="MD5" SIZE="2455206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00337_0.jp2"/>
+      </file>
+      <file ID="jp2_00337_1" MIMETYPE="image/jp2" CHECKSUM="1c4e26ffdbc8fdc4c14a4b538181ca62" CHECKSUMTYPE="MD5" SIZE="2397302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00337_1.jp2"/>
+      </file>
+      <file ID="jp2_00338_0" MIMETYPE="image/jp2" CHECKSUM="99b0960efe91ce6edc42c4b7606c82e4" CHECKSUMTYPE="MD5" SIZE="2461713">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00338_0.jp2"/>
+      </file>
+      <file ID="jp2_00338_1" MIMETYPE="image/jp2" CHECKSUM="240140c1cd2cf67b80b940e108b31f1c" CHECKSUMTYPE="MD5" SIZE="2429061">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00338_1.jp2"/>
+      </file>
+      <file ID="jp2_00339_0" MIMETYPE="image/jp2" CHECKSUM="322dde2478625d7b8f37440b1bfad303" CHECKSUMTYPE="MD5" SIZE="2483052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00339_0.jp2"/>
+      </file>
+      <file ID="jp2_00339_1" MIMETYPE="image/jp2" CHECKSUM="90cb4e8b5bf65b10d5016df89ec5c975" CHECKSUMTYPE="MD5" SIZE="2444858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00339_1.jp2"/>
+      </file>
+      <file ID="jp2_00340_0" MIMETYPE="image/jp2" CHECKSUM="c9a914bc495eaf13578ea0fe69122043" CHECKSUMTYPE="MD5" SIZE="2140528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00340_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00336_0" MIMETYPE="text/xml" CHECKSUM="a8f13d8d6359e62b3cc054e5e8814ad9" CHECKSUMTYPE="MD5" SIZE="85515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00336_0.xml"/>
+      </file>
+      <file ID="alto_00336_1" MIMETYPE="text/xml" CHECKSUM="ca38c24983165ac0b456e16e08d0a24f" CHECKSUMTYPE="MD5" SIZE="81361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00336_1.xml"/>
+      </file>
+      <file ID="alto_00337_0" MIMETYPE="text/xml" CHECKSUM="c36bca04ddb66fcdc9f4b633f133300e" CHECKSUMTYPE="MD5" SIZE="92300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00337_0.xml"/>
+      </file>
+      <file ID="alto_00337_1" MIMETYPE="text/xml" CHECKSUM="a915d8ef9446bd7821b153e33d94ca6a" CHECKSUMTYPE="MD5" SIZE="91444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00337_1.xml"/>
+      </file>
+      <file ID="alto_00338_0" MIMETYPE="text/xml" CHECKSUM="682a8b2067c45794fb15517e1a63f733" CHECKSUMTYPE="MD5" SIZE="89987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00338_0.xml"/>
+      </file>
+      <file ID="alto_00338_1" MIMETYPE="text/xml" CHECKSUM="f2d89f2c0da4464a80e94f515b6aea86" CHECKSUMTYPE="MD5" SIZE="87429">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00338_1.xml"/>
+      </file>
+      <file ID="alto_00339_0" MIMETYPE="text/xml" CHECKSUM="da1915f52356c47e9e12d27004244d4b" CHECKSUMTYPE="MD5" SIZE="94224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00339_0.xml"/>
+      </file>
+      <file ID="alto_00339_1" MIMETYPE="text/xml" CHECKSUM="46e333106ce075894221be4a60974f81" CHECKSUMTYPE="MD5" SIZE="91923">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00339_1.xml"/>
+      </file>
+      <file ID="alto_00340_0" MIMETYPE="text/xml" CHECKSUM="c72672417b03ac8c048087a269e58607" CHECKSUMTYPE="MD5" SIZE="15186">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00340_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0130" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="661" firstpage="653">
+              <parties id="b671-6" pgmap="671">F. R. Carter et al., Appellees, v. Cairo, Vincennes &amp; Chicago Railway Company, Appellant.</parties>
+              <decisiondate id="Aip" pgmap="671">Opinion filed November 24, 1908.</decisiondate>
+              <attorneys id="b671-11" pgmap="671">James Vause, Jr., and Rearick &amp; Meeks, for ap­pellant.</attorneys>
+              <attorneys id="b672-4" pgmap="672">O. M. Jones and Lindley, Penwell &amp; Lindley, for appellees.</attorneys>
+              <summary id="b671-10" pgmap="671">Assumpsit. Appeal from the Circuit Court of Vermilion county; the Hon. E. R. E. Kimbrough, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aqb" pgmap="671">Affirmed.</disposition>
+              <headnotes id="b671-7" pgmap="671">1. Measure of damages—in action for failure to drain pursuant to contract. In an action by the owner of a leasehold interest in a mine to recover damages for the failure to drain pursuant to contract so that such mine was flooded, the correct measure of damages is the cost of the restoration of the mine to its condition before it was flooded, providing such cost does not exceed the fair cash market value of the plaintiff’s leasehold right for the unexpired term, antj in the event that such cost of restoring such mine to its condition before the breach of the contract exceeds the fair cash market value of the plaintiff’s leasehold right at the time of such breach, the plaintiff is only entitled to recover the fair cash market value of his leasehold right.</headnotes>
+              <headnotes id="b671-8" pgmap="671">2. Evidence—when witness competent to estimate cost of repairs. Meld, that the witnesses in this case had sufficiently qualified to justify the court in permitting them to give their opinions as to the proper cost of restoring a mine to its condition prior to its being flooded.</headnotes>
+              <headnotes id="b671-9" pgmap="671">3. Evidence—when profits may he shown. It is competent to permit evidence of profits earned in the conduct of a mine under a leasehold interest where such evidence is limited to the purpose of showing merely that the leasehold interest had some value.</headnotes>
+              <opinion type="majority">
+                <author id="b672-5" pgmap="672">Mr. Justice Baume</author>
+                <p id="A2E" pgmap="672">delivered the opinion of the court.</p>
+                <p id="b672-6" pgmap="672">This is a suit in assumpsit by appellees against ap­pellant to recover damages for the alleged breach of a contract entered into between the parties on July 8, 1905. The said contract recites that, whereas, ap­pellees hold a lease of certain coal lands in Vermilion county, Illinois, of the Danville Consumers Coal Com­pany; and, whereas, appellant desires to locate its right of way over and across said lands and to con­struct and operate its railroad thereon; and, whereas, each of said parties will be benefited by the location of said right of way by appellant and the construction and operation of said railroad; and, whereas, said parties mutually desire to make an amicable settle­ment of all matters pertaining thereto, and in consid­eration of the payment by appellant to appellees of the sum of $1,350 cash in hand, it is mutually agreed in substance, as follows:</p>
+                <p id="b672-7" pgmap="672">1. That appellant shall have the right to enter im­mediately upon said lands for the purpose of con­structing its said railroad.</p>
+                <p id="b672-8" pgmap="672">2. That appellant shall provide and maintain a per­manent drain extending from the south of the present entry to the mine of appellees on the premises,' east­erly to the limits of the embankment of appellant, and also provide and maintain a ten-inch tile drain extend­ing from the east end of said cast iron pipe, northerly along the bed of the new ditch to be constructed by appellant, to a point opposite Wilkinson’s scale house.</p>
+                <p id="b672-9" pgmap="672(51) 673(75)">3. That appellant shall remove from its right of way the blacksmith shop, scale and scale house, tipple track, brick from the air shaft and other movable property thereon belonging to appellees to some convenient, practicable point to be designated by appellees. The declaration alleges preformance of the contract on the part of appellees and that appellant has not provided and maintained a permanent drain consisting of a ten-­inch cast-iron pipe and a ten-inch drain tile as required by clause 2 of said contract, and that in con­sequence of such breach of said contract by appellant the mine of appellees on said premises has not been drained but has been flooded and rendered wholly un­tenantable and unusable to the damage of appellees, etc.</p>
+                <p id="b673-4" pgmap="673">A trial by jury in the circuit court of Vermilion county resulted in a verdict and judgment against ap­pellant for $1,500.</p>
+                <p id="b673-5" pgmap="673(277) 674(110)">When the contract in question was made appellees were operating a coal mine by means of a drift or slope which extends into a bluff from the east side thereof. The main drift or entry ran into the bluff in a westerly direction a distance of 700 to 800 feet and from said main entry or drift two lateral entries or drifts were driven in a southerly direction a distance of about 300 feet. The mouth of the main entry or drift was on the east side of the bluff and the mine was drained by gravity by means of the tile drains and open ditches to the mouth of said main entry and thence east and north into one or more ravines. The construction of appellant’s railroad required the building of an em­bankment from 30 to 50 feet in height immediately above or adjacent to the mouth of the main entry, and the contract required appellant to provide and main­tain a permanent drain, consisting of a ten-inch cast-­iron pipe, to extend from the mouth of the said entry easterly through the said embankment of appellant, and a ten-inch tile drain to extend from the east end of said cast-iron pipe northerly along the bed of a new ditch to be constructed by appellant, whereby the water in appellees ’ mine might continue to be drained by gravity. Shortly after making the said contract appellant commenced the construction of its railroad and caused a trench about 2½ feet in depth to be dug from a point some distance from the mouth of the mine entry westward to the mouth of the said entry, in which trench were laid six or seven lengths of ten-inch cast-iron pipe. Thereafter appellant made the fill for its said embankment which embankment, when com­pleted, entirely covered up the east end of said cast-­iron pipe to a depth of from 15 to 20 feet. No further effort was made by appellant to comply with the pro­visions of said contract with reference to providing a drain until after the commencement of the suit in July, 1907. As to the character and efficiency of the work then done by appellant in an effort to comply with the requirements of said contract there is a sharp conflict in the evidence.</p>
+                <p id="b674-5" pgmap="674">The evidence offered on behalf of appellant tends to show that upon complaint made to it by one of the ap­pellees that the drain tile had not been laid and con­nected with the cast-iron pipe as required by the con­tract, it sank test holes into the embankment for the purpose of locating the east end of the cast iron pipe; that after the same was located, it laid the ten-inch drain tile from Wilkinson’s scale house to the end of said cast-iron pipe and connected said pipe and said drain tile by means of a large wooden box.</p>
+                <p id="b674-6" pgmap="674(161) 675(78)">The evidence introduced on behalf of appellees tends to show that the tile drain which was then laid by ap­pellant was not in fact connected with the cast-iron pipe which had been laid by appellant in the first in­stance and covered by the embankment, but that said drain tile was connected with the cast-­iron pipe which was subsequently laid by appellant some distance east of the end of the pipe which was covered by the embankment; and that the joint of cast-­iron pipe last laid by appellant was connected, if at all, at its west end with an old tile drain which had for­merly served to drain appellees’ mine. However this may be, it is uncontroverted that the water in appel­lees’ mine ceased to drain therefrom after the con­struction of appellant’s embankment and that said mine was then thereby flooded and has since so con­tinued to be flooded. Some time after the construction of appellant’s railroad appellees drove a new entry into the side of the bluff a distance of about 50 yards north of the mouth of the old entry and mined coal therein until January, 1908, when a shot fired in said new entry blew a hole through into the old entry and the water therefrom ran into said new entry. No dam­ages were claimed or allowed to appellees for any in­jury resulting to the new entry.</p>
+                <p id="b675-4" pgmap="675">In proof of their tenure appellees introduced in evi­dence, together with the indorsements thereon, a writ­ten lease dated September 5, 1903, of the real estate upon which said mine was located from the Consoli­dated Coal Company of St. Louis, the then owner of the fee, to the appellees, F. R. and W. B. Carter, for the term of twelve months beginning October 1, 1903, whereby said lessees were given the right to dig, mine, remove and dispose of the coal in the seam known as the Danville Seam, from a drift-working located in the west side of a ravine, west of the old Paris and Danville Railroad grading and south of the drift then worked by one Wilkinson. Said lease further provided that the lessees should pay to lessor as rent or royalty on or before the fifth day of each month, 11¼ cents per ton on each and every ton of mine run coal, mined during the preceding calendar month, and that in no case should any payment be less than $15 for each of the months from September to April inclusive, and $7.50 for each of the months from May to August in­clusive, whether the actual coal mined during the said months at the said rate should equal such amount or not.</p>
+                <p id="b675-5" pgmap="675(65) 676(78)">Appellees also offered in evidence the record of a deed bearing date January 1, 1904, from the Consoli­dated Coal Company to one L. E. Fischer, conveying the real estate described in said lease, and also offered in evidence a deed to said premises dated October 12, 1904, from Louis E. Fischer and wife to the Danville Consumers Coal Company. The said lease bore a written indorsement signed by L. E. Fischer, renewing the same for a period of five years from the date of its expiration, and also a further written indorsement un­der date of September 1, 1904, whereby the appellees, W. B. and F. R. Carter, assigned a one-third interest therein to the appellee, J. M. Carter, and thereby des­ignated said lease and all interest therein as the prop­erty of Carter Brothers, a co-partnership consisting of the appellees.</p>
+                <p id="b676-5" pgmap="676">It is not controverted by appellant that there was a breach by it of that provision of the contract which required it to provide and maintain the iron pipe and tile drain, whereby the mine operated by appellees might be drained, but it is insisted that a clear pre­ponderance of the evidence tends to show that a per­formance of the said contract in that particular was waived by the appellee, J. M. Carter. The evidence bearing upon this issue is conflicting and might reason­ably support a finding for either party, but we are unable to say that appellant established a waiver as claimed by a clear preponderance of the evidence. Upon this issue the verdict of the jury must be held in this case to be decisive.</p>
+                <p id="b676-6" pgmap="676">Conceding, for the sake of the argument, that the record of the deed from the Consolidated Coal Com­pany to L. E. Fischer was improperly. admitted in evidence, because no proper foundation was laid for the admission of said record as secondary evidence, its admission was not harmful to appellant. It ap­pears from the evidence that the Danville Consumers Coal Company at the time it purchased the real estate from Fischer had actual knowledge of the terms of the lease of said premises by the Consolidated Coal Com­pany to appellees and of the extension of such lease by Fischer, and had collected from appellees the roy­alties and rents under the said lease.</p>
+                <p id="b676-7" pgmap="676(30) 677(40)">The Danville Consumers Coal Company was, there­fore, bound by the terms of the said lease and the re­cital in the contract sued on, that the appellees held a lease of the premises from the Danville Consumers Coal Company operates to estop appellant from deny­ing that the said lease was binding upon the Danville Consumers Coal Company and from contesting the rights of the appellees under said lease.</p>
+                <p id="b677-5" pgmap="677">By the terms of the lease appellees had a certain fixed tenure of the premises. They were bound to pay a certain royalty upon all coal mined, and in any event they were bound to pay a certain monthly rental dur­ing the term of the lease. The trial court- determined the correct measure of damages for the breach of the contract to be the cost of the restoration of the mine to its condition before it was flooded, providing the cost of such restoration did not exceed the fair cash mar­ket value of appellees’ leasehold right, for the unex­pired term, and in the event that the cost of restoring-­said mine to its condition before the breach of the con­tract exceeded the fair cash market value of appellees’ leasehold right at the time of such breach, that appel­lees were only entitled to recover the fair cash market value of their said leasehold right. The rule so an­nounced by the trial court as to the proper measure of damages in the case at bar was correct. Kankakee &amp; Seneca R. R. Co. v. Horan, 22 Ill. App. 145; Kelly­ville Coal Co. v. O ’Connell, 134 Ill. App. 311.</p>
+                <p id="b677-6" pgmap="677(141) 678(17)">It is urged that the witnesses John M. Carter and John O’Connell were not qualified to testify to the probable cost of restoring the mine to its former con­dition, or to the fair cash market value of appellees’ leasehold right in the mine. Carter testified that he had been engaged in the business of coal mining- for ten years; that after the breach of the contract by ap­pellant there was no means by which the mine could be drained except by installing- a pump of large capacity; that he was familiar with the price of mining- pumps and the cost of operating the same; that he was famil­iar with the method of timbering required to properly support the roof of a mine which had been flooded with water and with the cost of such timbering, and that he was familiar with the fair cash market value of coal lands and of leaseholds in coal lands.</p>
+                <p id="b678-5" pgmap="678">The witness O’Connell testified that he had been a coal mine operator since 1891; that he knew the mine in question and had examined it; that he was ac­quainted with the value of coal lands and with the fair cash market value of leasehold interests in coal lands in the vicinity of the mine in question. It was estab­lished by the testimony of these witnesses that the probable cost of restoring the mine to its former con­dition was from six to ten thousand dollars, and that the fair cash market value of the leasehold interest of appellees in said mine was from $4,000 to $10,000. The witnesses appear to have been qualified to testify in respect to the matters inquired of and the court did not err in permitting them to so testify. ' The weight to be given their testimony was a question for the jury. As to the cost of restoring the mine to its former condition and as to the fair cash market value of ap­pellees’ leasehold interest in said mine appellant in­troduced no countervailing evidence.</p>
+                <p id="b678-6" pgmap="678">It is urged that the witness Carter was improperly permitted to state that the profit on the coal mined by appellees during the time the mine in question was operated by them was 75 cents per ton. This testi­mony was expressly limited by the court to stand as tending to show that the leasehold interest of appellees in the mine had some value. Appellees did not attempt to show the quantity of coal which had been mined by them or the probable amount of coal then in place in the mine, and the limited purpose for which the evi­dence complained of was admitted could not have operated to the prejudice of appellant.</p>
+                <p id="b678-7" pgmap="678(57) 679(17)">The instructions given by the court, taken as a se­ries, state the law applicable to the case with substan­tial accuracy, and the instructions given at its instance are as favorable to appellant as the most liberal con­struction of the rules invoked by them would permit. The amount of damages awarded to appellees by the jury is clearly within the range of the competent evi­dence in the record upon that issue.</p>
+                <p id="b679-4" pgmap="679">There is- no error in the record prejudicial to ap­pellant and the judgment of the circuit court will be affirmed. Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="671" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00336_0"/>
+        <fptr FILEID="jp2_00336_0"/>
+        <fptr FILEID="alto_00336_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.3" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.2" BETYPE="IDREF" FILEID="alto_00336_0"/>
+              <area BEGIN="BL_671.4" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="672" ORDERLABEL="654" TYPE="page">
+        <fptr FILEID="tiff_00336_1"/>
+        <fptr FILEID="jp2_00336_1"/>
+        <fptr FILEID="alto_00336_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_672.1" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_672.2" BETYPE="IDREF" FILEID="alto_00336_1"/>
+              <area BEGIN="BL_672.3" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="673" ORDERLABEL="655" TYPE="page">
+        <fptr FILEID="tiff_00337_0"/>
+        <fptr FILEID="jp2_00337_0"/>
+        <fptr FILEID="alto_00337_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_673.3" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_673.2" BETYPE="IDREF" FILEID="alto_00337_0"/>
+              <area BEGIN="BL_673.4" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="674" ORDERLABEL="656" TYPE="page">
+        <fptr FILEID="tiff_00337_1"/>
+        <fptr FILEID="jp2_00337_1"/>
+        <fptr FILEID="alto_00337_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_674.2" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_674.3" BETYPE="IDREF" FILEID="alto_00337_1"/>
+              <area BEGIN="BL_674.4" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="675" ORDERLABEL="657" TYPE="page">
+        <fptr FILEID="tiff_00338_0"/>
+        <fptr FILEID="jp2_00338_0"/>
+        <fptr FILEID="alto_00338_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.3" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.2" BETYPE="IDREF" FILEID="alto_00338_0"/>
+              <area BEGIN="BL_675.4" BETYPE="IDREF" FILEID="alto_00338_0"/>
+              <area BEGIN="BL_675.7" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="676" ORDERLABEL="658" TYPE="page">
+        <fptr FILEID="tiff_00338_1"/>
+        <fptr FILEID="jp2_00338_1"/>
+        <fptr FILEID="alto_00338_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_676.2" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_676.3" BETYPE="IDREF" FILEID="alto_00338_1"/>
+              <area BEGIN="BL_676.4" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="677" ORDERLABEL="659" TYPE="page">
+        <fptr FILEID="tiff_00339_0"/>
+        <fptr FILEID="jp2_00339_0"/>
+        <fptr FILEID="alto_00339_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.3" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.2" BETYPE="IDREF" FILEID="alto_00339_0"/>
+              <area BEGIN="BL_677.4" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="678" ORDERLABEL="660" TYPE="page">
+        <fptr FILEID="tiff_00339_1"/>
+        <fptr FILEID="jp2_00339_1"/>
+        <fptr FILEID="alto_00339_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.2" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.3" BETYPE="IDREF" FILEID="alto_00339_1"/>
+              <area BEGIN="BL_678.4" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="679" ORDERLABEL="661" TYPE="page">
+        <fptr FILEID="tiff_00340_0"/>
+        <fptr FILEID="jp2_00340_0"/>
+        <fptr FILEID="alto_00340_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_679.3" BETYPE="IDREF" FILEID="alto_00340_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_679.2" BETYPE="IDREF" FILEID="alto_00340_0"/>
+              <area BEGIN="BL_679.4" BETYPE="IDREF" FILEID="alto_00340_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-7" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.7" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            <area BEGIN="BL_679.1" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.5" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.5" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aip" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.14" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            <area BEGIN="BL_671.15" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.5" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.6" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b679-4" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_679.5" BETYPE="IDREF" FILEID="alto_00340_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-4" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.5" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.6" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            <area BEGIN="BL_676.1" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2E" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.6" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            <area BEGIN="BL_672.7" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.5" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.6" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            <area BEGIN="BL_678.1" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.6" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            <area BEGIN="BL_675.1" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-4" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.5" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.6" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            <area BEGIN="BL_674.1" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-7" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.7" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            <area BEGIN="BL_677.1" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.6" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-5" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.5" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-4" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.4" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-7" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.9" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.8" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-10" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.11" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            <area BEGIN="BL_671.12" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-11" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.16" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-9" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.11" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            <area BEGIN="BL_673.1" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-8" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.9" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-9" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.10" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-8" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.10" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-6" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.7" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-7" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.8" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqb" BETYPE="IDREF" FILEID="casebody_0130"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.13" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

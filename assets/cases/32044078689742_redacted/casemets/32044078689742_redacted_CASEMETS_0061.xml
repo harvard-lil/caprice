@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0061" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Rockwell v. Martens-Leary Co.">Elick Rockwell et al., Plaintiffs in Error, v. Martens-Leary Co., Defendant in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 403</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00211_0" MIMETYPE="image/tiff" CHECKSUM="41a0010e1b7659b175b4ad4f3f6a343d" CHECKSUMTYPE="MD5" SIZE="38778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_0.tif"/>
+      </file>
+      <file ID="tiff_00211_1" MIMETYPE="image/tiff" CHECKSUM="16db59a6ee30b21487311d2c50435b68" CHECKSUMTYPE="MD5" SIZE="53942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_1.tif"/>
+      </file>
+      <file ID="tiff_00212_0" MIMETYPE="image/tiff" CHECKSUM="29a4f67233f9b8ba260e737bf600bb96" CHECKSUMTYPE="MD5" SIZE="42846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00212_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00211_0" MIMETYPE="image/jp2" CHECKSUM="c547d2ade68253687e8974c0fe1ad72a" CHECKSUMTYPE="MD5" SIZE="2371158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_0.jp2"/>
+      </file>
+      <file ID="jp2_00211_1" MIMETYPE="image/jp2" CHECKSUM="8a404f250fac8869ea989907ddf3f743" CHECKSUMTYPE="MD5" SIZE="2445027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_1.jp2"/>
+      </file>
+      <file ID="jp2_00212_0" MIMETYPE="image/jp2" CHECKSUM="b2ba8a4f18a440669d2035d58d02223b" CHECKSUMTYPE="MD5" SIZE="2399627">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00212_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00211_0" MIMETYPE="text/xml" CHECKSUM="90d0911504d20791dae31e88b6ba6f98" CHECKSUMTYPE="MD5" SIZE="68521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00211_0.xml"/>
+      </file>
+      <file ID="alto_00211_1" MIMETYPE="text/xml" CHECKSUM="557c58272318248bfa97fdf214fd04bc" CHECKSUMTYPE="MD5" SIZE="84388">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00211_1.xml"/>
+      </file>
+      <file ID="alto_00212_0" MIMETYPE="text/xml" CHECKSUM="374d6378a6f189c29988a47f70b45f92" CHECKSUMTYPE="MD5" SIZE="73049">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00212_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0061" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="405" firstpage="403">
+              <parties id="b421-6" pgmap="421">Elick Rockwell et al., Plaintiffs in Error, v. Martens-­Leary Co., Defendant in Error.</parties>
+              <decisiondate id="AsX" pgmap="421">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b421-9" pgmap="421">Welty, Steeling &amp; Whitmore, for plaintiffs in error.</attorneys>
+              <attorneys id="b421-10" pgmap="421">Charles I. Will and Barry &amp; Morrissey, for de­fendant in error.</attorneys>
+              <summary id="b421-8" pgmap="421">Assumpsit. Error to the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AsP4" pgmap="421">Affirmed.</disposition>
+              <headnotes id="b421-7" pgmap="421">Sales—what not competent to affect bill of sale. In the absence of ambiguity or uncertainty, parol evidence is inadmissible for the purpose of showing that other property not answering the descrip­tion in the bill of sale was included or intended to be included therein.</headnotes>
+              <opinion type="majority">
+                <author id="b421-11" pgmap="421">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AKP" pgmap="421">delivered the opinion of the court.</p>
+                <p id="b421-12" pgmap="421">This is an action in assumpsit by plaintiffs in error against defendant in error, for the recovery of dam­ages resulting from an alleged breach of warranty of the title to certain chattel property purchased by them from the defendant in error.</p>
+                <p id="b421-13" pgmap="421(30) 422(95)">The first count of the declaration alleges the execu­tion by the defendant to the plaintiff of a bill of sale conveying “One (1) saw mill complete with all belts and attachments being the same saw mill with belts and attachments that formerly belonged to one John Aspel”; that thereafter one John Aspel replevied from them a vise, post drill, blacksmith forge, block and tackle with rope and pulleys, two chains, a log wagon, etc.; that after the commencement of the replevin suit by Aspel the plaintiff served notice upon the de­fendant to defend said suit; that the same was finally decided against the plaintiffs, whereby they lost the property in question, and in addition thereto were compelled to pay attorney’s fees and costs.</p>
+                <p id="b422-5" pgmap="422">The second count alleges in addition, that at the time of the execution of said bill of sale, the defendant then and there represented to the plaintiffs that the property therein described comprised and included the property replevied. The defendant by its special plea averred that the question as to what was included in the description employed in the bill of sale was liti­gated upon the trial of the replevin suit, and deter­mined adversely to the contention of the plaintiffs and that judgment was rendered therein in favor of Aspel, which judgment was still in full force and effect. To such plea the plaintiffs replied that at the time of the execution of the bill of sale the defendant was asked what property was comprised in and included in the description quoted, and that the plaintiffs then and there answered that the property afterwards re­plevied was included therein, and that by reason of the premises the defendant should be estopped to assert the contrary. A demurrer was sustained to said rep­lication, and the plaintiffs having elected to abide thereby, judgment was rendered against them in bar of action and for costs. They thereupon sued out this writ of error.</p>
+                <p id="b422-6" pgmap="422(45) 423(64)">Waiving the question whether there was an estoppel by verdict in the replevin suit, we are of opinion that the demurrer to the replication was properly sus­tained, for the reason that parol evidence was inad­missible for the purpose of showing that other prop­erty not answering the description in the bill of sale was included or intended to be included therein. All verbal agreements made before or at the time of the execution of a written contract, concerning the subject-­matter thereof, are conclusively merged into the writ­ten contract and cannot be added to or changed by parol evidence. Hill v. Hatfield, 72 Ill. App. 534.</p>
+                <p id="b423-5" pgmap="423">Plaintiffs in error deny in argument that they are seeking to vary or enlarge the terms of the bill of sale, and assert that they seek merely to put the same con­struction upon its general terms as the parties them­selves did at the time of the execution of the instru­ment. The words employed in the present contract are neither ambiguous, doubtful nor uncertain. It is clear that the property replevied could not under any reasonable construction be held to be included therein. The rule that where the terms of a contract are uncer­tain, and the parties have by their conduct placed a reasonable construction thereon, such construction will be adopted by the courts, is therefore inapplicable. The judgment of the circuit court is affirmed.</p>
+                <p id="b423-6" pgmap="423">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="421" ORDERLABEL="403" TYPE="page">
+        <fptr FILEID="tiff_00211_0"/>
+        <fptr FILEID="jp2_00211_0"/>
+        <fptr FILEID="alto_00211_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.3" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.2" BETYPE="IDREF" FILEID="alto_00211_0"/>
+              <area BEGIN="BL_421.4" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="422" ORDERLABEL="404" TYPE="page">
+        <fptr FILEID="tiff_00211_1"/>
+        <fptr FILEID="jp2_00211_1"/>
+        <fptr FILEID="alto_00211_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.2" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_422.3" BETYPE="IDREF" FILEID="alto_00211_1"/>
+              <area BEGIN="BL_422.4" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="423" ORDERLABEL="405" TYPE="page">
+        <fptr FILEID="tiff_00212_0"/>
+        <fptr FILEID="jp2_00212_0"/>
+        <fptr FILEID="alto_00212_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.3" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_423.2" BETYPE="IDREF" FILEID="alto_00212_0"/>
+              <area BEGIN="BL_423.4" BETYPE="IDREF" FILEID="alto_00212_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-13" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.18" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            <area BEGIN="BL_422.1" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-12" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.17" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-11" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.14" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsP4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.10" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.13" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsX" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.11" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.5" BETYPE="IDREF" FILEID="alto_00211_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b422-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_422.6" BETYPE="IDREF" FILEID="alto_00211_1"/>
+            <area BEGIN="BL_423.1" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.5" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.12" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.8" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            <area BEGIN="BL_421.9" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.7" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.6" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b423-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_423.6" BETYPE="IDREF" FILEID="alto_00212_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKP" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.15" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            <area BEGIN="BL_421.16" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

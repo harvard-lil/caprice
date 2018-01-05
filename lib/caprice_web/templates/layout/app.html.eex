@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Caprice Caselaw Chat</title>
+    <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.css">
+  </head>
+
+  <body>
+    <nav class="navbar ">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="http://bulma.io">
+          <img src="<%= static_path(@conn, "/images/caprice.png") %>" alt="Logo Graphic: Caprice Case Chat" height="100">
+        </a>
+
+        <div class="navbar-burger burger" data-target="navMenubd-example">
+          <span>Case Viewer</span>
+          <span>Chat</span>
+          <span>About</span>
+        </div>
+      </div>
+
+      <div id="navMenubd" class="navbar-menu">
+        <div class="navbar-start">
+        </div>
+        <div class="navbar-end">
+          <%= if @conn.request_path |> String.starts_with?("/viewer") do %>
+            <div class="navbar-item">
+              <button id="chat_button" class="fa fa-comments-o">
+            </div>
+          <% end %>
+        </div>
+      </div>
+    </nav>
+
+    <div class="columns is-fullheight">
+      <div id="sidemenu" class="column is-2 is-sidebar-menu is-hidden-mobile">
+        <aside class="menu">
+          <ul class="menu-list">
+
+            <%= cond do %>
+              <% @conn.request_path |> String.starts_with?("/chat") -> %>
+                <li><%= link("Home", to: page_path(@conn, :index)) %></li>
+                <li><%= link("Case Viewer", to: page_path(@conn, :viewer)) %></li>
+                <li><%= link("Chat", to: page_path(@conn, :chat), class: "is-active") %></li>
+              <% @conn.request_path |> String.starts_with?("/viewer")  -> %>
+                <li><%= link("Home", to: page_path(@conn, :index)) %></li>
+                <li><%= link("Case Viewer", to: page_path(@conn, :viewer), class: "is-active") %></li>
+                <li><%= link("Chat", to: page_path(@conn, :chat)) %></li>
+              <% true -> %>
+                <li><%= link("Home", to: page_path(@conn, :index), class: "is-active") %></li>
+                <li><%= link("Case Viewer", to: page_path(@conn, :viewer)) %></li>
+                <li><%= link("Chat", to: page_path(@conn, :chat)) %></li>
+            <% end %>
+
+          </ul>
+          <p class="menu-label">
+            External Links
+          </p>
+          <ul>
+            <li><a>Capapi</a></li>
+            <li><a>CAP Project</a></li>
+            <li><a>LIL Website</a></li>
+          </ul>
+        </aside>
+      </div>
+      <div class="column is-main-content">
+
+          <div class="container">
+            <%= if get_flash(@conn, :info) do %>
+              <div class="notification is-info" role="alert"><%= get_flash(@conn, :info) %></div>
+            <% end %>
+            <%= if get_flash(@conn, :error) do %>
+              <div class="notification is-danger" role="alert"><%= get_flash(@conn, :error) %></div>
+            <% end %>
+          </div>
+
+          <main role="main">
+
+            <%= render @view_module, @view_template, assigns %>
+          
+          </main>
+      </div>
+    </div>
+    <%= if @conn.request_path |> String.starts_with?("/viewer") do %>
+      <section id="bottom_chatbox">
+        <ul>
+          <li><%=  %></li>
+          <li><b>1337 Esquire</b>: Word.</li>
+          <li><b>andy</b>: Howdy?</li>
+          <li><b>amazingperson99</b>: Hey guys. I've got some bullshit. So there. </li>
+          <li><b>I_Hate_Things</b>: This case was bullshit</li>
+          <li><b>Yikes!</b>: Yikes?</li>
+          <li><b>amazingperson</b>: Woka Woka Woka!</li>
+         </ul>
+      </section>
+    <% end %>
+    <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
+  </body>
+</html>

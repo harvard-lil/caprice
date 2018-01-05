@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0071" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Anderson v. Hultberg">Frideborg A. Anderson, Appellant, v. Nels O. Hultberg et al., Appellees</name>
+          <docketnumber>Gen. No. 14,710</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 529</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00273_0" MIMETYPE="image/tiff" CHECKSUM="c7309d9285406b11b27513349d981f78" CHECKSUMTYPE="MD5" SIZE="45566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00273_0.tif"/>
+      </file>
+      <file ID="tiff_00273_1" MIMETYPE="image/tiff" CHECKSUM="7492acc764f3a74ab138048c55222e3f" CHECKSUMTYPE="MD5" SIZE="51722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00273_1.tif"/>
+      </file>
+      <file ID="tiff_00274_0" MIMETYPE="image/tiff" CHECKSUM="4a832121471796191d19d9be2dbd3845" CHECKSUMTYPE="MD5" SIZE="55644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00274_0.tif"/>
+      </file>
+      <file ID="tiff_00274_1" MIMETYPE="image/tiff" CHECKSUM="64bdbe142e3f8e5c23be347fa2180957" CHECKSUMTYPE="MD5" SIZE="53732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00274_1.tif"/>
+      </file>
+      <file ID="tiff_00275_0" MIMETYPE="image/tiff" CHECKSUM="a89c1521064a4f03a7a370f1ea071fa1" CHECKSUMTYPE="MD5" SIZE="46710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00275_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00273_0" MIMETYPE="image/jp2" CHECKSUM="4af0cb8b7c829869e04012872a40481c" CHECKSUMTYPE="MD5" SIZE="2316699">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00273_0.jp2"/>
+      </file>
+      <file ID="jp2_00273_1" MIMETYPE="image/jp2" CHECKSUM="573cb60c2a5a74570f9bb685deb16bbc" CHECKSUMTYPE="MD5" SIZE="2350265">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00273_1.jp2"/>
+      </file>
+      <file ID="jp2_00274_0" MIMETYPE="image/jp2" CHECKSUM="70552eb77680b251836cc8b8b22a9135" CHECKSUMTYPE="MD5" SIZE="2427493">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00274_0.jp2"/>
+      </file>
+      <file ID="jp2_00274_1" MIMETYPE="image/jp2" CHECKSUM="cd969692ae6d6f5140a9c3dfc97c4084" CHECKSUMTYPE="MD5" SIZE="2350708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00274_1.jp2"/>
+      </file>
+      <file ID="jp2_00275_0" MIMETYPE="image/jp2" CHECKSUM="c0f14edda7c91fcb2bd563dfec51a007" CHECKSUMTYPE="MD5" SIZE="2347564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00275_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00273_0" MIMETYPE="text/xml" CHECKSUM="1264060600a7072bca5c1a5961db3f2d" CHECKSUMTYPE="MD5" SIZE="72796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00273_0.xml"/>
+      </file>
+      <file ID="alto_00273_1" MIMETYPE="text/xml" CHECKSUM="98828a1a9c0a347d0286b482fbb9d703" CHECKSUMTYPE="MD5" SIZE="79176">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00273_1.xml"/>
+      </file>
+      <file ID="alto_00274_0" MIMETYPE="text/xml" CHECKSUM="76dd763f106639bba1d74d15087fe1f0" CHECKSUMTYPE="MD5" SIZE="83976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00274_0.xml"/>
+      </file>
+      <file ID="alto_00274_1" MIMETYPE="text/xml" CHECKSUM="018a9ef7ec0c373a40d33abdf14f1c85" CHECKSUMTYPE="MD5" SIZE="86180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00274_1.xml"/>
+      </file>
+      <file ID="alto_00275_0" MIMETYPE="text/xml" CHECKSUM="a619ecf63914307c5737541833729f7b" CHECKSUMTYPE="MD5" SIZE="83424">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00275_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="533" firstpage="529">
+              <docketnumber pgmap="545" id="b545-4">Gen. No. 14,710.</docketnumber>
+              <parties pgmap="545" id="b545-3">Frideborg A. Anderson, Appellant, v. Nels O. Hultberg et al., Appellees.</parties>
+              <decisiondate pgmap="545" id="Ag_">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="545" id="ATXX">Heard in this court at the March term, 1908.</otherdate>
+              <otherdate pgmap="545" id="AMx">Rehearing denied November 30, 1908.</otherdate>
+              <attorneys pgmap="545" id="b545-7">E. Allen Frost, for appellant; John J. Healy, of counsel.</attorneys>
+              <attorneys pgmap="545" id="b545-8">Winston, Payne, Strawn &amp; Shaw and Harris F. Williams, for appellee.</attorneys>
+              <summary pgmap="545" id="b545-6">Bill for injunction. Appeal from the Circuit Court of Cook county; the Hon. Charles M. Walker, Judge, presiding.</summary>
+              <disposition pgmap="545" id="AEz1">Appeal dismissed.</disposition>
+              <headnotes pgmap="545" id="b545-5">Ihuukctions—when appeal does not lie. An appeal does not lie from an order granting an injunction upon compliance with a condition specified in the order.</headnotes>
+              <opinion type="majority">
+                <author pgmap="545" id="b545-9">Mr. Presiding Justice Adams</author>
+                <p pgmap="545" id="AuM">delivered the opinion of the court.</p>
+                <p pgmap="545" id="b545-10">This is an appeal from an interlocutory order grant­ing an injunction. Appellant is defendant to a cred­itor’s bill, which she answered, and filed a cross-bill, praying, among other things, that the appellees be re­strained and enjoined from further prosecuting a bill in equity in the Circuit Court of the United States for the District of Kansas, until after the hearing of the original bill filed in the Circuit Court of Cook county. The motion of the appellant for a temporary injunc­tion, as prayed, was referred to a master, who states, in his report, substantially correctly, as we find from the pleadings, the alleged facts on which the motion is based, which statement is as follows:</p>
+                <blockquote pgmap="545(44) 546(84)" id="b545-11">“The original hill herein, which was filed July 1, 1904, is a creditor’s hill based on a money decree re­covered by the original complainants against Peter H. Anderson, while indebted to the complainant. Among other things, it charges that said Peter H. Anderson, while indebted to the complainants, and with moneys which in equity belonged to them, purchased and caused to be conveyed to his wife certain specifically described lands situate in Dickinson county, Kansas, which conveyance was made to hinder and delay said Anderson’s creditors. The bill seeks to have said land in Dickinson county, Kansas, subjected to the payment of said decree. Upon said bill an injunction was issued, restraining Mrs. Anderson from selling, assign­ing and conveying said Kansas land or any portion thereof.</blockquote>
+                <blockquote pgmap="546" id="b546-5">“During the month of September, 1907, and during the pendency of the original bill filed in this court, Neis O. Hultberg, one of the original complainants herein, having meanwhile as trustee for said Covenant, obtained a judgment in a state court in Kansas upon the basis of said decree against Peter H. Anderson, filed a creditors’ bill in the Circuit Court of the United States for the District of Kansas, First Division. This bill named Mrs. Anderson, the cross-complainant here, as a defendant, and made substantially the same al­legations and prayers regarding said land in Dickin­son county. Neither Mrs. Anderson nor her husband has been served with process in said creditors’ bill pending in Kansas, nor has either of them entered an appearance therein, but notice has been published re-, quiring Mrs. Anderson to appear in said cause, in de­fault of which a decree pro confesso would be entered against her in said cause on the first Monday in March, 1908.</blockquote>
+                <blockquote pgmap="546" id="b546-6">“Mrs. Anderson’s cross-bill further alleges that her defenses to said bill pending in Kansas are the same as her defenses to the original bill in this cause, and that to defend both suits would subject her to double expense.”</blockquote>
+                <p pgmap="546" id="b546-7">The court, in accordance with the recommendation of the master, entered an order in reference to the prayer for a temporary injunction as follows:</p>
+                <blockquote pgmap="546(8) 547(288)" id="b546-8">“And further, in accordance with the recommend a­tions of said master’s report, it is hereby ordered that the motion of the cross-complainant, Frideborg A. Anderson, for a temporary injunction as prayed in her cross-bill be and the same is hereby conditionally granted, to the extent only that the defendants in said cross-bill be and they are hereby conditionally en­joined from further prosecuting only so much of that certain bill in equity pending in the United States Cir­cuit Court in Kansas more particularly described in said cross-bill, as involves the lands in Dickinson county, Kansas, described in said cross-bill; provided, however, that the injunction hereby granted shall be vacated, annulled and wholly for naught esteemed un­less said Frideborg A. Anderson shall at or before 10 o’clock a. m. of Wednesday, March 18, 1908, deliver to Chicago Title and Trust Company, an Illinois corpora­tion, a deed properly executed and acknowledged by herself and Peter H. Anderson, her husband, conveying to said Chicago Title and Trust Company, as trustee, said lands situate in Dickinson county, Kansas, and specifically described in said cross-bill, in trust, to hold the title to said lands subject to such disposition thereof as may be made by the final decree of this court upon the original bill herein; such deed also to contain the further provision that in case such final decree upon the original bill herein should direct said Chicago Title and Trust Company to convey said lands to the complainants in the original bill herein or their assigns, such conveyance shall stand in satisfaction of so much of the money decree on which the original bill herein is founded as this court by its said final de­cree may determine the then value of said lands to be.”</blockquote>
+                <p pgmap="547" id="b547-4">This is the order appealed from. The appellees moved to dismiss the appeal, on the ground that the order is not appealable, which motion was reserved till the hearing.</p>
+                <p pgmap="547(25) 548(102)" id="b547-5">Appeals from interlocutory orders granting in­junctions can only be taken by virtue of the statute entitled “An act to provide for appeals from inter­locutory orders granting injunctions or appointing receivers”, in force July 1,1887. Section 1 of that act provides, “That whenever an interlocutory order or decree is entered in any suit pending in any court in this State* granting an injunction, or overruling a motion to dissolve the same, or enlarging the scope of an injunction orde'r, or appointing a receiver, or giving-­other or further powers or property to a receiver al­ready appointed, an appeal may be taken from such interlocutory order or decree to the Appellate Court of the district wherein is situated the court granting-­such interlocutory order or decree.”</p>
+                <p pgmap="548" id="b548-5">Appellant’s complaint is that the court did not grant an absolute order as prayed, but only on the conditions specified in the order. It is manifest from the language of the statute, quoted supra, that no ap­peal is allowed or can be taken from an order refus­ing an injunction. If an appeal is not allowed from an order refusing altogether an injunction as prayed, it necessarily follows that an order refusing in part an injunction as prayed, as is the case here, is not ap­pealable. Appellant prayed an absolute preliminary injunction, which the court refused, in effect, but granted the injunction in part and on the conditions prescribed in the injunction order. The statute, sec­tion 1, also provides: “The force and effect of such order or decree, and the proceedings in the court below, shall not be stayed during the pendency of the appeal”. This provision is in favor of the party on whose motion the injunction order is granted, and clearly contemplates only an appeal by the party against whom' the order runs. We are of opinion that the appeal from the injunction order by appellant is not within the statute and does not lie.</p>
+                <p pgmap="548(50) 549(144)" id="b548-6">By the conditional part of the appeal bond, the ap­peal purports to be not only from the injunction order, but also from an order taxing against appellant the sum of $200 as the master’s fees. No appeal was prayed or allowed from this order. Assuming the order as to the master’s fees to be a final order and appealable, in respect to which any expression of opinion is unnec­essary, an appeal could only be taken from it on an allowance of an appeal by the court, and the filing of an appeal bond in such penalty and within such time as the court should, by order, prescribe, and with se­curity approved by the court, or by the clerk, if the court should so order, which the court did not. This course was not pursued. The only appeal bond in the transcript of the record, which is certified to be com­plete, is a bond approved by the clerk, as provided by the statute in case of an appeal from an interlocutory order. Therefore, no question as to the order that ap­pellant should pay $200 as master’s fees is before us.</p>
+                <p pgmap="549" id="b549-4">Appellees’ motion to dismiss the appeal is sustained, and the appeal will be dismissed.</p>
+                <p pgmap="549" id="b549-5">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="545" ORDERLABEL="529" TYPE="page">
+        <fptr FILEID="tiff_00273_0"/>
+        <fptr FILEID="jp2_00273_0"/>
+        <fptr FILEID="alto_00273_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.1" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.2" BETYPE="IDREF" FILEID="alto_00273_0"/>
+              <area BEGIN="BL_545.3" BETYPE="IDREF" FILEID="alto_00273_0"/>
+              <area BEGIN="BL_545.22" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="546" ORDERLABEL="530" TYPE="page">
+        <fptr FILEID="tiff_00273_1"/>
+        <fptr FILEID="jp2_00273_1"/>
+        <fptr FILEID="alto_00273_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_546.2" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_546.3" BETYPE="IDREF" FILEID="alto_00273_1"/>
+              <area BEGIN="BL_546.4" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="547" ORDERLABEL="531" TYPE="page">
+        <fptr FILEID="tiff_00274_0"/>
+        <fptr FILEID="jp2_00274_0"/>
+        <fptr FILEID="alto_00274_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_547.2" BETYPE="IDREF" FILEID="alto_00274_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_547.3" BETYPE="IDREF" FILEID="alto_00274_0"/>
+              <area BEGIN="BL_547.4" BETYPE="IDREF" FILEID="alto_00274_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="548" ORDERLABEL="532" TYPE="page">
+        <fptr FILEID="tiff_00274_1"/>
+        <fptr FILEID="jp2_00274_1"/>
+        <fptr FILEID="alto_00274_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_548.2" BETYPE="IDREF" FILEID="alto_00274_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_548.3" BETYPE="IDREF" FILEID="alto_00274_1"/>
+              <area BEGIN="BL_548.4" BETYPE="IDREF" FILEID="alto_00274_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="549" ORDERLABEL="533" TYPE="page">
+        <fptr FILEID="tiff_00275_0"/>
+        <fptr FILEID="jp2_00275_0"/>
+        <fptr FILEID="alto_00275_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_549.2" BETYPE="IDREF" FILEID="alto_00275_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_549.3" BETYPE="IDREF" FILEID="alto_00275_0"/>
+              <area BEGIN="BL_549.4" BETYPE="IDREF" FILEID="alto_00275_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMx" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.14" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-11" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.21" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_546.1" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.20" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag_" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.12" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_545.13" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-3" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.4" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.5" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.6" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b549-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_549.5" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEz1" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.11" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.6" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.7" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b548-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_548.6" BETYPE="IDREF" FILEID="alto_00274_1"/>
+            <area BEGIN="BL_549.1" BETYPE="IDREF" FILEID="alto_00275_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.5" BETYPE="IDREF" FILEID="alto_00273_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b546-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_546.8" BETYPE="IDREF" FILEID="alto_00273_1"/>
+            <area BEGIN="BL_547.1" BETYPE="IDREF" FILEID="alto_00274_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATXX" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.9" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_545.10" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.17" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.16" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.15" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b547-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_547.6" BETYPE="IDREF" FILEID="alto_00274_0"/>
+            <area BEGIN="BL_548.1" BETYPE="IDREF" FILEID="alto_00274_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b547-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_547.5" BETYPE="IDREF" FILEID="alto_00274_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.6" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.5" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuM" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.18" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_545.19" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.7" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_545.8" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

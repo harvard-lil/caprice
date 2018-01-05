@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0045" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Devine v. National Safe Deposit Co.">John F. Devine, Administrator, Appellee, v. National Safe Deposit Company, Appellant</name>
+          <docketnumber>Gen. No. 14,099</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 322</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00170_1" MIMETYPE="image/tiff" CHECKSUM="d4fe4ace39719498beb019b9678b3512" CHECKSUMTYPE="MD5" SIZE="44356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00170_1.tif"/>
+      </file>
+      <file ID="tiff_00171_0" MIMETYPE="image/tiff" CHECKSUM="a928783c8e919d8efd80a92279004cc9" CHECKSUMTYPE="MD5" SIZE="56038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00171_0.tif"/>
+      </file>
+      <file ID="tiff_00171_1" MIMETYPE="image/tiff" CHECKSUM="8e0cd92c81a91e14a33652b5f00c686c" CHECKSUMTYPE="MD5" SIZE="52968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00171_1.tif"/>
+      </file>
+      <file ID="tiff_00172_0" MIMETYPE="image/tiff" CHECKSUM="17872c74fd6e9b4a0da7f2caddc94874" CHECKSUMTYPE="MD5" SIZE="54534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00172_0.tif"/>
+      </file>
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="ba39fe0f54db0f94d4c40b4123c63651" CHECKSUMTYPE="MD5" SIZE="51148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="0ee2a2dabcce7159e96d76d96f822fa8" CHECKSUMTYPE="MD5" SIZE="54438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="5e5882676e91798265e4d20c4d1d9c2f" CHECKSUMTYPE="MD5" SIZE="54514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00173_1.tif"/>
+      </file>
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="d3f3ed0de80be713209c014036203491" CHECKSUMTYPE="MD5" SIZE="38210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00170_1" MIMETYPE="image/jp2" CHECKSUM="9b570daa7938e891d1bf64f550dc88f5" CHECKSUMTYPE="MD5" SIZE="2320284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00170_1.jp2"/>
+      </file>
+      <file ID="jp2_00171_0" MIMETYPE="image/jp2" CHECKSUM="502e232b534db3b1de13bee1c4128d82" CHECKSUMTYPE="MD5" SIZE="2483077">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00171_0.jp2"/>
+      </file>
+      <file ID="jp2_00171_1" MIMETYPE="image/jp2" CHECKSUM="2a769810d06329da321f7c7f83bba1c8" CHECKSUMTYPE="MD5" SIZE="2424054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00171_1.jp2"/>
+      </file>
+      <file ID="jp2_00172_0" MIMETYPE="image/jp2" CHECKSUM="f4ed6d3d44cf6164b923ffe363223273" CHECKSUMTYPE="MD5" SIZE="2475112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00172_0.jp2"/>
+      </file>
+      <file ID="jp2_00172_1" MIMETYPE="image/jp2" CHECKSUM="3a013efeafdc4acdca72922c957e1ae3" CHECKSUMTYPE="MD5" SIZE="2413575">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00172_1.jp2"/>
+      </file>
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="cfd64ca193f06a5a7732d3c78f28d177" CHECKSUMTYPE="MD5" SIZE="2457191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00173_0.jp2"/>
+      </file>
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="ded7a5cc6e592b63bc2b0c2eb1bfb7b9" CHECKSUMTYPE="MD5" SIZE="2418696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00173_1.jp2"/>
+      </file>
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="c4d4ed9fb0d9f924a8b8ae2c9c407cfd" CHECKSUMTYPE="MD5" SIZE="2328174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00170_1" MIMETYPE="text/xml" CHECKSUM="b56c7d75b41ee69d28227d3e40bde8f6" CHECKSUMTYPE="MD5" SIZE="84290">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00170_1.xml"/>
+      </file>
+      <file ID="alto_00171_0" MIMETYPE="text/xml" CHECKSUM="e2b412ee8e421f87446bcc565eacae8a" CHECKSUMTYPE="MD5" SIZE="100763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00171_0.xml"/>
+      </file>
+      <file ID="alto_00171_1" MIMETYPE="text/xml" CHECKSUM="0493bf2eb0a1a86b965c0c5575066c66" CHECKSUMTYPE="MD5" SIZE="92432">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00171_1.xml"/>
+      </file>
+      <file ID="alto_00172_0" MIMETYPE="text/xml" CHECKSUM="0395c8eb0e0eb089d3ee698d25751c24" CHECKSUMTYPE="MD5" SIZE="91110">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00172_0.xml"/>
+      </file>
+      <file ID="alto_00172_1" MIMETYPE="text/xml" CHECKSUM="d5b9733bf6c54615e24da31476ebf811" CHECKSUMTYPE="MD5" SIZE="88873">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00172_1.xml"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="123c36783c5557617cb4a08139659e03" CHECKSUMTYPE="MD5" SIZE="93135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00173_0.xml"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="0612371d4b78db62240b230299634ffa" CHECKSUMTYPE="MD5" SIZE="90019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00173_1.xml"/>
+      </file>
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="1bd24cc8b10ca6e61f9fe356288eff4d" CHECKSUMTYPE="MD5" SIZE="63890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00174_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0045" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="329" firstpage="322">
+              <docketnumber id="b340-5" pgmap="340">Gen. No. 14,099.</docketnumber>
+              <parties id="b340-4" pgmap="340">John F. Devine, Administrator, Appellee, v. National Safe Deposit Company, Appellant.</parties>
+              <decisiondate id="AqW" pgmap="340">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b340-11" pgmap="340">Horton, Brown &amp; Miller, for appellant.</attorneys>
+              <attorneys id="b340-12" pgmap="340">James C. McShane, for appellee.</attorneys>
+              <summary id="b340-10" pgmap="340">Action in case for death caused by alleged wrongful act. Appeal from the Superior Court of Cook county; the Hon. Homer Abbott, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AhF" pgmap="340">Affirmed.</disposition>
+              <headnotes id="b340-6" pgmap="340">1. Presumptions—against suicide. With respect to a man well-­conditioned in life, the presumption is against his having com­mitted suicide.</headnotes>
+              <headnotes id="b340-7" pgmap="340">2. Ordinary care—what evidence of, in absence of eye witness. Where there was no eye witness to an accident resulting in death, the testimony of those who had known the deceased, to the effect that he was careful, steady and industrious, is evidence tending to prove the exercise of ordinary care by such deceased at the time of his death.</headnotes>
+              <headnotes id="b340-8" pgmap="340">3. Contributory negligence—effect of proof of knowledge of danger. Prior knowledge of a defect, as in this case that a door to a platform was open and the opening unguarded, is not, as a matter of law, conclusive that a person having such knowledge was not in the exercise of ordinary care.</headnotes>
+              <headnotes id="b340-9" pgmap="340">4. Licensees—who not mere. A person in the employ of another to whom a portion of premises has been demised, in going upon such premises in connection with the performance of his duties as such an employe, is not a mere licensee to whom the person in control of such premises owes no duty.</headnotes>
+              <opinion type="majority">
+                <author id="b340-13" pgmap="340">Mr. Presiding Justice Adams</author>
+                <p id="AGh" pgmap="340">delivered the opinion of the court.</p>
+                <p id="b340-14" pgmap="340">Appellee, claiming that the death of his intestate, William Thomas Daly, was caused by the negligence of the appellant, sued appellant in case. The jury ren­dered a verdict finding the defendant guilty and as­sessed the plaintiff’s damages at the sum of $6,000. The court overruled the motions by the defendant for a new trial and in arrest of judgment, and rendered judgment on the verdict.</p>
+                <p id="b341-3" pgmap="341(417) 342(208)">The defendant, the National Safe Deposit Com­pany, owns and controls an office building, known as the First National Bank building, situated at the northwest corner of Monroe and Dearborn streets, in the city of Chicago. The building is eighteen stories in height, and extends along Monroe street, an east and west street, 232 feet, and north along Dearborn street, a north and south street, 191 feet to an alley. The alley extends west from the west line of Dearborn street and-next to and adjoining the north wall of the building. The east 83 feet of the west end of the alley is 13 feet wide, and the part of it west of said 83 feet is 28 feet wide. The south 1-0 feet and 10 inches of the alley abuts on a cement plat­form, the surface of which is about two feet above the surface of the alley, and is level and smooth. The platform is 23 feet, 9 inches long from east to west, and 10 feet, 10 inches wide from south to north. About 14 feet, 6 inches (as appears from the scale of a plat in evidence) from the east line of the platform, there is an opening in it. The south line of this opening is next to the north wall of the building, and the open­ing is 6 feet, 3 inches from south to north and 4 feet, 5 inches from east to west. The opening has a double iron door, one side of which is hinged on the north and one on the south side of the opening. When the door is open its south side leans against the north wall of the building and its north side against a garbage box, which is on the platform. The door when closed is on a level with the surface of the platform and forms, substantially, a part of it. Defendant had provided a wooden bar 2 by 4 inches in dimensions, to protect the east side of the opening when the door is open. The bar is fastened to the north wall and rests, when up, on a garbage box at the north side of the opening, where a 2 by 6 is nailed, and is about 2 feet above the platform floor. For an hour before the accident the door of the space was open and the space unguarded. The opening is for the operation of an elevator, from the platform down to the basement, where the engine room is and vice versa. About 3 feet, 2 inches east of the east side of the opening there is a steel rolling door in the north wall of the building, 8 feet, 9 inches wide, and 9 feet, 2 inches high, which opens into a corridor 10 feet wide, which extends south into the building about 114 feet, 6 inches, at the south end of which there is a freight elevator, used for the purpose of hoisting articles to the floors above and vice versa. The door to the corridor is the only entrance to the building at its rear or north side. The platform, door, corridor and freight elevator are used by the tenants' of the building in removing things to and from the building. The number of tenants in the building runs up into the thousands. The defendant leased to the Amberg File &amp; Index Co. a room on the 14th floor of the building, for a term commencing May 1, 1905, and ending April 30, 1906. This room the Amberg Co. used as a show room for its letter-file goods. The company had a factory or plant at 435 Fulton street, in the city of Chicago, about 2 1/2 miles from defend­ant’s building.</p>
+                <p id="b342-5" pgmap="342">Plaintiff’s intestate had been in the employ of the Amberg Co. about two years. His business in the winter was to run the heating plant at the factory, and during the remainder of the year he acted as out­side janitor. He locked up the company’s building at night, and, in the summer, he looked after the com­pany’s yards and lawns at its plant. The company paid him ten dollars per week and house rent, and furnished him a flat and heat and light. He was thirty-seven years of age at the time of his death, and left surviving him his widow and three children, who, at the time of his death, were aged, respectively, one, eight and eleven years.</p>
+                <p id="b342-6" pgmap="342(49) 343(329)">On the morning of May 9, 1905, the Amberg Co. sent from its factory, by wagon, a load of goods to the defendant’s building, to be placed in its show room. Daly, plaintiff's intestate, Elmer E. Sisson, in the em­ploy of the company, and Daly’s little boy, Johnnie, then about eight years old, accompanied the driver of the wagon, August Axelman. When the wagon was driven into the alley there was a team standing in the narrow part of the alley and several grocery wagons further west, and a large wagon was backed against the platform, from which a safe was being unloaded, so that the Amberg Company’s men were prevented from reaching the platform for about an hour. When the men who were unloading the safe got it off the wagon, they took it south through the corridor to the freight elevator, leaving their team at the plat­form, and then Sisson directed Axelman, the team­ster, to get on the wagon, saying that he, Sisson, would lead the team, attached to the wagon, from which the safe had been unloaded, out of the way. At that time Daly and Sisson were on the platform, and there was a plank 2 by 10 or 12 inches and 12 or 14 feet long, the west end of which rested on the platform and the east end on the alley. This plank was in such a posi­tion that the wagon could not, unless it should be removed, be placed alongside the platform, where it was desired to place it for unloading. Sisson walked down this plank to lead the team at the platform out of the way, and as he was walking down the plank, Daly, who was on the platform, said, "I will pull in the plank”. Sisson led the other team east, out of the way, and then the wagon driven by Axelman was backed in alongside the platform, and when Sisson went onto the platform to help unload, he discovered that Daly and the plank had disappeared. The other men then unloaded the wagon and took the load up to their employer’s room, and Daly was subsequently discovered on the basement floor, to which he had fallen, and when brought up he was dead.</p>
+                <p id="b343-4" pgmap="343(44) 344(315)">The defendant introduced no evidence. The conten­tions of its counsel are (1) that Daly, at the time of the accident, was not exercising ordinary care; (2) that the accident resulted from an obvious defect, known to the deceased; and (3) that the deceased was a mere licensee, and the law does not impose on the owner of premises the duty of providing a safe place to work, for persons going on the premises for their own purposes. There was no witness of the accident. Defendant’s counsel claim that Daly’s little eight-year-old boy, Johnnie, saw it; but this claim is not sustained by the evidence. The presumption is against suicide, and especially so in the case of the deceased. He was only thirty-seven years old at the time of his death; he had a good place, good wages, was well taken care of by his employer, and had a wife and three young children dependent on him. That he was attached to his children is evident from the fact that he took his little boy along with him to the build­ing. Mr. Patterson, superintendent of the Amberg File &amp; Index Co., who hired Daly, and Sisson, Daly’s fellow workman, who had known him for two years, both testified that he was a careful, steady and in­dustrious man. Mr. Patterson also testified that Daly was trusted to lock the factory building every night. This is evidence that the deceased was exercising ordinary care at and about the time of the accident. C. &amp; E. I. R. R. Co. v. Beaver, Adm’r., 199 Ill. 34; C. &amp; A. By. Co. v. Wilson, Adm’r., 225 ib. 50. In the last case the court say: “Due care may be shown by circumstances as well as by direct testimony, and the fact that the deceased, at the time of the accident, was not guilty of negligence may be shown by her habits, and by what are known to be the instincts of self-preservation, in persons possessed of their na­tural faculties, and who are ordinarily sober and care­ful of their personal safety”. Numerous other cases are to the same effect. -</p>
+                <p id="b344-5" pgmap="344">The evidence that the deceased was careful, steady and industrious was proof, prima facie, that he was exercising ordinary care at the time of the accident, and, in the absence of evidence to the contrary, is sufficient to warrant a finding that he was exercising ordinary care.</p>
+                <p id="b345-3" pgmap="345">Defendant’s counsel, however, contend that the de­ceased knew, before the accident, that the doors of the space in the platform were open and the open space unguarded. The evidence shows that during the hour before the accident the door of the space was open and the space unguarded by the bar. Daly was there on the 8th day of May, the day next before the day of the accident, with Sisson, and saw that the door in the platform was open, and the bar not up, and Sisson said to him, that “it would be a fine place for a fel­low to fall down and break his neck”, and Daly said, “Yes, it would be”. Also, on the day of the accident, and before the accident, while the men were waiting for an opportunity to unload the wagon, Daly was on and around the platform, and could not, as we think, have failed to observe that the space in the platform was open and unguarded. Counsel for defendant rely on this prior knowledge of the deceased as overcom­ing the evidence that he was a careful, steady and industrious man. There are numerous authorities that prior knowledge of a defect, which caused an in­jury, is not, as matter of law, conclusive that the per­son injured was guilty of contributory negligence, or did not exercise ordinary care; but that the question is one of fact, to be passed on by the jury. Bond v. Smith, 44 Hun 219, 223; Atkinson v. Abraham, 45 Hun 238; Cassidy v. Angell, 12 R. I. 447; Bassett v. Fish, 75 N. Y. 303; City of Streator v. Chrisman, 182 Ill. 215, 217; Weed v. Village of Ballston Spa, 76 N. Y. 329; Looney v. McLean, 129 Mass. 33; Udwin v. Sperkel, 136 Ill. App. 155, 159; and cases cited.</p>
+                <p id="b345-4" pgmap="345(75) 346(72)">Defendant’s counsel rely on E. St. L. etc. Co. v. Crow, 155 Ill. 74, in support of the proposition that the deceased did not exercise ordinary care. But that case is clearly distinguishable from the present, in respect to the question of ordinary care. In that case there was absolutely no evidence that the plaintiff, Crow, was exercising care at the time of the accident, as the court in the opinion say, using this language: “Appellant insists that there was no evidence before the jury fairly tending to prove due care, on the part of the plaintiff, to avoid the injury for which he sues, and for that reason its request to instruct them to find for the defendant should have been given. We have carefully examined all the evidence in this rec­ord, and are unable to deduce from it a satisfactory answer to this contention”.</p>
+                <p id="b346-5" pgmap="346">In the present case there is evidence proving prima facie the exercise of ordinary care by the deceased.</p>
+                <p id="b346-6" pgmap="346(276) 347(96)">The 2nd and 3rd propositions of defendant’s coun­sel, which we can hardly think are advanced seriously, that the deceased was a mere licensee, and there was no duty incumbent on the defendant to keep the place where the accident occurred in a reasonably safe con­dition, we will consider briefly and together. The de­fendant leased to the employer of the deceased, the Amberg File &amp; Index Co., a room on the fourteenth floor of its building; the only way in which that com­pany could take its goods to that room was by un­loading them on the platform, taking them through the corridor, south to the freight elevator, and hoist­ing them by means of the elevator. Therefore, the de­fendant, in executing the lease to the Amberg Co., authorized the use by the company of that way. Had the defendant prevented such use, it would have been to prevent the enjoyment of the premises by the Am-­berg Co., and an eviction. The defendant had the di­rect and exclusive control of the platform, corridor and freight elevator, and, therefore, it was its duty to exercise reasonable care to keep them in reason­ably safe condition for the purpose for which they were intended. If the owner of a building leases dif­ferent apartments in the second story of the building to different tenants, for residence purposes, the sole means of approach to which is by a flight of stairs, in the sole control of the owner, can it be said that the tenants are mere licensees, that the owner owes no duty to keep the stairs in a reasonably safe condition, and that if, by reason of a dangerous defect in the stairs, one of the tenants is injured, while using ordi­nary care, there can be no recovery? The law is other­wise. Shoninger Co. v. Mann, 219 Ill. 242, 245, and cases cited. Counsel for defendant do not, in their argument, contend that the defendant was not guilty of negligence, and it is plain from the evidence that it was negligent in not guarding the space in the platform, when the door was open, by means of the bar provided for that purpose, or otherwise.</p>
+                <p id="b347-4" pgmap="347">The judgment will be affirmed.</p>
+                <p id="b347-5" pgmap="347">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="340" ORDERLABEL="322" TYPE="page">
+        <fptr FILEID="tiff_00170_1"/>
+        <fptr FILEID="jp2_00170_1"/>
+        <fptr FILEID="alto_00170_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.1" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.2" BETYPE="IDREF" FILEID="alto_00170_1"/>
+              <area BEGIN="BL_340.3" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="341" ORDERLABEL="323" TYPE="page">
+        <fptr FILEID="tiff_00171_0"/>
+        <fptr FILEID="jp2_00171_0"/>
+        <fptr FILEID="alto_00171_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.2" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.1" BETYPE="IDREF" FILEID="alto_00171_0"/>
+              <area BEGIN="BL_341.3" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="342" ORDERLABEL="324" TYPE="page">
+        <fptr FILEID="tiff_00171_1"/>
+        <fptr FILEID="jp2_00171_1"/>
+        <fptr FILEID="alto_00171_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_342.2" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_342.3" BETYPE="IDREF" FILEID="alto_00171_1"/>
+              <area BEGIN="BL_342.4" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="343" ORDERLABEL="325" TYPE="page">
+        <fptr FILEID="tiff_00172_0"/>
+        <fptr FILEID="jp2_00172_0"/>
+        <fptr FILEID="alto_00172_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.3" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.2" BETYPE="IDREF" FILEID="alto_00172_0"/>
+              <area BEGIN="BL_343.4" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="344" ORDERLABEL="326" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jp2_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.2" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.3" BETYPE="IDREF" FILEID="alto_00172_1"/>
+              <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="327" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.2" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="328" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.2" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.3" BETYPE="IDREF" FILEID="alto_00173_1"/>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="347" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.3" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.2" BETYPE="IDREF" FILEID="alto_00174_0"/>
+              <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-14" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.18" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-13" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.15" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-12" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.14" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.13" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.10" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.5" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqW" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.12" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.5" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-3" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.6" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.5" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            <area BEGIN="BL_344.1" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.6" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_347.1" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b342-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_342.5" BETYPE="IDREF" FILEID="alto_00171_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.9" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b342-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_342.6" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            <area BEGIN="BL_343.1" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.7" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.6" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.5" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.4" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.5" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.8" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.5" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b341-3" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_341.4" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            <area BEGIN="BL_342.1" BETYPE="IDREF" FILEID="alto_00171_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhF" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.11" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGh" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.16" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_340.17" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,1413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0002" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Doyle v. Dunne">Mary Doyle, Appellant, v. John E. Dunne et al., Ap­pellees</name>
+          <docketnumber>Gen. No. 13,992</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 14</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00015_1" MIMETYPE="image/tiff" CHECKSUM="12f66cae340d8e6035f69fb49ceb3f12" CHECKSUMTYPE="MD5" SIZE="43044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00015_1.tif"/>
+      </file>
+      <file ID="tiff_00016_0" MIMETYPE="image/tiff" CHECKSUM="2f5cee2519e1a5b0858ba1c2be8e2f69" CHECKSUMTYPE="MD5" SIZE="46938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00016_0.tif"/>
+      </file>
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="4c75643195331cfcf703c71c612b92e6" CHECKSUMTYPE="MD5" SIZE="50760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00016_1.tif"/>
+      </file>
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="694ac2722333d730d0e00342b01b8c6c" CHECKSUMTYPE="MD5" SIZE="44532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="30f33b319e20b4a7dc96b491cd074bcd" CHECKSUMTYPE="MD5" SIZE="37484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="a6c67ce8601155197f004f0dba70cf7e" CHECKSUMTYPE="MD5" SIZE="49426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00018_0.tif"/>
+      </file>
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="bfcaf6b63c2878625b5a7469c2885aef" CHECKSUMTYPE="MD5" SIZE="48520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="fa24bdd38d0c4df5f07344094590f9e8" CHECKSUMTYPE="MD5" SIZE="52808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="c680fa901367728050726d9faa371503" CHECKSUMTYPE="MD5" SIZE="52712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="bb1e68a5268e6b1461296f07603aa371" CHECKSUMTYPE="MD5" SIZE="52496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00020_0.tif"/>
+      </file>
+      <file ID="tiff_00020_1" MIMETYPE="image/tiff" CHECKSUM="7c40be92fcdcc0ec294d7ab87bf710dd" CHECKSUMTYPE="MD5" SIZE="51564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00020_1.tif"/>
+      </file>
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="a3902e73f3406436d8dab4c263e6ebde" CHECKSUMTYPE="MD5" SIZE="48160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00021_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00015_1" MIMETYPE="image/jp2" CHECKSUM="a5cefebe5ab9a96e4be629e9a0921639" CHECKSUMTYPE="MD5" SIZE="2270854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00015_1.jp2"/>
+      </file>
+      <file ID="jp2_00016_0" MIMETYPE="image/jp2" CHECKSUM="ff0b539a4d1f1016f7f3f90920e40f35" CHECKSUMTYPE="MD5" SIZE="2351377">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00016_0.jp2"/>
+      </file>
+      <file ID="jp2_00016_1" MIMETYPE="image/jp2" CHECKSUM="b280b6e581b76988a4007746c0472bec" CHECKSUMTYPE="MD5" SIZE="2323984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00016_1.jp2"/>
+      </file>
+      <file ID="jp2_00017_0" MIMETYPE="image/jp2" CHECKSUM="0565658732246125383ca03d16007a60" CHECKSUMTYPE="MD5" SIZE="2363672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00017_0.jp2"/>
+      </file>
+      <file ID="jp2_00017_1" MIMETYPE="image/jp2" CHECKSUM="3f24aa76f72909956fef9d048a4e1dd2" CHECKSUMTYPE="MD5" SIZE="2232771">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00017_1.jp2"/>
+      </file>
+      <file ID="jp2_00018_0" MIMETYPE="image/jp2" CHECKSUM="4bd4b47248eb28448b53904fe700befe" CHECKSUMTYPE="MD5" SIZE="2372142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00018_0.jp2"/>
+      </file>
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="aa562662fe9f6466544581423f526945" CHECKSUMTYPE="MD5" SIZE="2332150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00018_1.jp2"/>
+      </file>
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="09a77f93121a5f44f4f9e8396e92d2b5" CHECKSUMTYPE="MD5" SIZE="2404135">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="57056cb446657733344ea6569bffb1fa" CHECKSUMTYPE="MD5" SIZE="2339729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00019_1.jp2"/>
+      </file>
+      <file ID="jp2_00020_0" MIMETYPE="image/jp2" CHECKSUM="dad9aca9f72d9559bdda8ec412e42a4c" CHECKSUMTYPE="MD5" SIZE="2400050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00020_0.jp2"/>
+      </file>
+      <file ID="jp2_00020_1" MIMETYPE="image/jp2" CHECKSUM="dc270313209a7545d1ed267f2d53d2f0" CHECKSUMTYPE="MD5" SIZE="2370317">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00020_1.jp2"/>
+      </file>
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="38e60fb328695d66f71d6c82b1e7ac5c" CHECKSUMTYPE="MD5" SIZE="2373996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00021_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00015_1" MIMETYPE="text/xml" CHECKSUM="f8e1fd0798bfffc1b7ac7f2d05fd2bf2" CHECKSUMTYPE="MD5" SIZE="82489">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00015_1.xml"/>
+      </file>
+      <file ID="alto_00016_0" MIMETYPE="text/xml" CHECKSUM="a04938f2129ae950f04b3d2cace4f27b" CHECKSUMTYPE="MD5" SIZE="82109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00016_0.xml"/>
+      </file>
+      <file ID="alto_00016_1" MIMETYPE="text/xml" CHECKSUM="4a0e93c7bf74529555e432d5e55281c7" CHECKSUMTYPE="MD5" SIZE="86450">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00016_1.xml"/>
+      </file>
+      <file ID="alto_00017_0" MIMETYPE="text/xml" CHECKSUM="3bb40682d6d9cc0bf8651d16462f5355" CHECKSUMTYPE="MD5" SIZE="78711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00017_0.xml"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml" CHECKSUM="61ae6b0c491de8c837d447efd694687b" CHECKSUMTYPE="MD5" SIZE="69981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00017_1.xml"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml" CHECKSUM="7b33fcb0168bb7fdf67dc0a08042d74e" CHECKSUMTYPE="MD5" SIZE="81050">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00018_0.xml"/>
+      </file>
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="242dba0470f8037a8f7e3b0aead8d385" CHECKSUMTYPE="MD5" SIZE="79491">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00018_1.xml"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="bba3d48e07f2699c9ffae77ac0c1f40a" CHECKSUMTYPE="MD5" SIZE="89245">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="d3a8ae9732bf3ffea034054e1f468fdb" CHECKSUMTYPE="MD5" SIZE="88004">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00019_1.xml"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml" CHECKSUM="dc3d66617756f2b1ce5ee441e7704183" CHECKSUMTYPE="MD5" SIZE="87918">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00020_0.xml"/>
+      </file>
+      <file ID="alto_00020_1" MIMETYPE="text/xml" CHECKSUM="06bbd97b3e6befb7093ff6fa50d20ebe" CHECKSUMTYPE="MD5" SIZE="85014">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00020_1.xml"/>
+      </file>
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="c103fe8cffb48b343ab6e2d138e78de6" CHECKSUMTYPE="MD5" SIZE="84920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00021_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="25" firstpage="14">
+              <docketnumber pgmap="30" id="b30-9">Gen. No. 13,992.</docketnumber>
+              <parties pgmap="30" id="b30-8">Mary Doyle, Appellant, v. John E. Dunne et al., Ap­pellees.</parties>
+              <decisiondate pgmap="31" id="A8C">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="31" id="Az">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="31" id="b31-4">Alexander Sullivan and Burtt &amp; Kriete, for ap­pellant.</attorneys>
+              <attorneys pgmap="31" id="b31-5">Loesch, Scofield &amp; Loesch, Newton Wyeth and H. W. McEwen, for appellees.</attorneys>
+              <summary pgmap="31" id="b31-3">Action of debt. Appeal from the Circuit Court of Cook county; the Hon. Gbobqb A. Carpenter, Judge, presiding.</summary>
+              <disposition pgmap="31" id="AHm">Affirmed.</disposition>
+              <headnotes pgmap="30" id="b30-10">1. Landlord and tenant—eifeef of signature of third party to lease with those of lessor and lessee. A third party who opposite a seal affixes his signature following those of the lessor and lessee, does not become a party to the lease if not mentioned therein, nor does such third party assume the obligations thereof or become surety with respect thereto, and parol evidence is not admissible to show a collateral undertaking.</headnotes>
+              <headnotes pgmap="30" id="b30-11">2. Landlord and tenant—effect of parol reduction of rent. A parol agreement to reduce rent entered into by a lessor without con­sideration is a mere nudum pactum, not binding, and while the lease remains executory is not susceptible of being enforced, but a reduc­tion accomplished periodically as the rent accrues, by accepting a sum less than the stipulated rent for such period, is valid and con­stitutes an executed gift.</headnotes>
+              <opinion type="majority">
+                <author pgmap="31" id="b31-6">Mr. Justice Brown</author>
+                <p pgmap="31" id="ATa">delivered the opinion of the court.</p>
+                <p pgmap="31" id="b31-7">This appeal is by the plaintiff in an action of debt in the Circuit Court of Cook county, against whom there was a judgment of nil capiat and for costs in favor of one of the defendants to the suit, the Independent Brewing Company, and in favor of whom there was a judgment for only $134.45 against the other defend­ant, John E. Dunne, although a much larger sum was claimed by the plaintiff against both defendants.</p>
+                <p pgmap="31" id="b31-8">The suit was upon a lease under seal, wherein ap­pellant was lessor and the appellee, John E. Dunne, lessee, and the name of the Independent Brewing Com­pany appears as a signature below the signature of the parties, Mary Doyle and John E. Dunne, who were alone mentioned in the body of the lease as parties thereto.</p>
+                <p pgmap="31(128) 32(27)" id="b31-9">The lease (which was received in evidence) was of certain real estate, from the first day of May, 1893, until the 30th day of April, 1903, for the aggregate sum of $9,000, payable in quarterly instalments of $225 in advance on the first days of May, August, No­vember and February in each year. The lease also provided that the lessee should pay all taxes and as­sessments that might be laid, charged or assessed on said demised premises pending the existence of the lease, and that if at any time after any tax should have become due or payable the lessee should neglect to pay the same, it should be lawful for the lessor to pay the same at any time thereafter, and the amount of any and all such payments so made by the lessor should be deemed and taken and were declared to be so much additional rent for the demised premises.</p>
+                <p pgmap="32" id="b32-5">The claim of the appellant was for $134.45 taxes and special assessments -which she proved she paid in Au­gust, 1903, after the expiration of the term of the lease, but which were levied and assessed in 1902 and $715, balance of rent, being a sum of $15 which it is claimed was in arrears on and after July 13, 1897, and which sum in arrears increased under the terms of the lease by $40 during the quarter beginning August 1, 1897, and $30 each quarter thereafter during the continu­ance of the lease.</p>
+                <p pgmap="32" id="b32-6">This calculation of rent due is made this way: Prior to July, 1897, it became the practice of the appel­lee Dunne to pay monthly, during the respective months of the quarter, one-third of the quarter’s rent, being $75. After that date for seventy months he paid but $65 each month, leaving, as appellant claims, $700 due in addition to the fifteen dollars which was not paid up on July 13, 1897.</p>
+                <p pgmap="32" id="b32-7">This $15 does not seem accounted for by the evi­dence either oral or documentary which was offered, but we do not think it material that it should be ex­plained, because the distinct admission was made by the counsel for the plaintiff during the hearing below, that if the position of the appellee Dunne concerning the $65 monthly payments was correct, that is, if the rent of the seventy months during which Dunne paid $65 a month, was settled by these payments, there was nothing due the plaintiff but the $134.75 paid for taxes and assessments, for which she recovered judgment. (Eec. p. 96.)</p>
+                <p pgmap="32(60) 33(79)" id="b32-8">The evidence showed that in July, 1897, appellee Dunne met the appellant, Mary Doyle, and asked her to reduce his rent from $75 a month to $50 a month, to which, after some talk, she replied, “No, I won’t make it $50 a month, but I will make it $65 a month.” Thereafter Dunne paid $65 during each month while the lease continued, and gave up the premises to the appellant a few days before its expiration. He re­ceived a receipt each time he made a payment, and the receipts were produced in evidence by him. No fur­ther conversation concerning rents appears by the rec­ord ever to have taken place between the parties, but on February 29, 1904, ten months after the lease had expired and the premises been surrendered, the pres­ent suit was begun.</p>
+                <p pgmap="33" id="b33-4">The receipts which were taken by Dunne varied somewhat in form. That of July 30, 1897, which Dunne said was the first one after the reduction was assented to by appellant, was as follows:</p>
+                <blockquote pgmap="33" id="b33-5">“Chicago, July 30, 1897.</blockquote>
+                <blockquote pgmap="33" id="b33-6">Deceived of John E. Dunne July 29,/97, Seventy-five and no/100 Dollars as follows—Cash $65.00. Allow­ance for July $10, for Bent of No. 172 Michigan St. from June 30, 1897, to July 31, 1897.</blockquote>
+                <blockquote pgmap="33" id="b33-7">$75.00. Maddeh Bros., Agts.,</blockquote>
+                <blockquote pgmap="33" id="b33-8">Per Armel.”</blockquote>
+                <blockquote pgmap="33" id="b33-9">The next one on September 9, 1897, was substan­tially in the same form. The third was:</blockquote>
+                <blockquote pgmap="33" id="b33-10">“Chicago, Oct. 1, 1897.</blockquote>
+                <blockquote pgmap="33" id="b33-11">Beceived of John E. Dunne Sixty-five and no/100 dollars for Bent of store No. 172 Michigan St. from Aug. 30, 1897, to September 30, 1897.</blockquote>
+                <blockquote pgmap="33" id="b33-12">$65.00. Maddeh Bros. Agts.,</blockquote>
+                <blockquote pgmap="33" id="b33-13">Per E. H. Doherty.”</blockquote>
+                <p pgmap="33" id="b33-14">Beceipts dated December 24, 1897, and December 31, 1897, were each expressed to be for ‘ ‘ $75—$10 allowed, ’ ’ and one was for rent from October 31,1897, to November 30, 1897, and the other from November 30,1897, to De­cember 31, 1897.</p>
+                <p pgmap="33" id="b33-15">Beceipts dated February 2, 1898, March 2, 1898, and April 7, 1898, were expressed to be for $65 each, but a notation of “$10 allowed” was made on them, and they were stated to be in each case for rent for the preceding month.</p>
+                <p pgmap="33(11) 34(13)" id="b33-16">The receipt for the payment of $65 which it is admit­ted was made May 9,1898, is missing. One dated June 8, 1898, reads:</p>
+                <blockquote pgmap="34" id="b34-5">“Chicago, June 8, 1898.</blockquote>
+                <blockquote pgmap="34" id="b34-6">Received of Jno. E. Dunne Sixty-five and no/100</blockquote>
+                <blockquote pgmap="34" id="b34-7">Dollars for acct. Rent of 172 Michigan St. from-</blockquote>
+                <blockquote pgmap="34" id="b34-8">189—- to-of May, 1898.</blockquote>
+                <blockquote pgmap="34" id="b34-9">$65. Madden Bros., Agts.,</blockquote>
+                <blockquote pgmap="34" id="b34-10">Per Armel.”</blockquote>
+                <blockquote pgmap="34" id="b34-11">One dated July 15, 1898, is:</blockquote>
+                <blockquote pgmap="34" id="b34-12">“Chicago, July 15, 1898.</blockquote>
+                <blockquote pgmap="34" id="b34-13">Received of John E. Dunne Sixty-five (65) Dollars for Rent of 172 Michigan St. from June, 1898, to June 30/98.</blockquote>
+                <blockquote pgmap="34" id="b34-14">$65.00 Madden Bros., Agts.,</blockquote>
+                <blockquote pgmap="34" id="b34-15">Per Steve.”</blockquote>
+                <p pgmap="34" id="b34-16">Then follows a series of twelve receipts, each of which is for $65, and one of which was in each month from August, 1898, to July, 1899. The one given in December, 1898, is expressed to be “from Nov. 1, 189— to on acct. Nov. 30, 1898,” and that given in February, 1899, is “from Jan. 1, 189—, to Feb. 1, 189—.” The one dated in July, 1899, also mentions the month of June. They all have somewhere in them the expression “for acct. rent,” or “to on acct.” some date, or simply, “on acct. of rent.”</p>
+                <p pgmap="34" id="b34-17">A receipt dated August 4, 1899, has attached to it the following note:</p>
+                <blockquote pgmap="34" id="b34-18">“Chicago, Aug. 4, 1899.</blockquote>
+                <blockquote pgmap="34" id="b34-19">Mr. Dunne :—•</blockquote>
+                <blockquote pgmap="34" id="b34-20">Mrs. D. wants to go to the country to-morrow and needs the July rent money. Will you please send ck. by hearer and very much oblige us.</blockquote>
+                <blockquote pgmap="34" id="b34-21">Yours, etc.,</blockquote>
+                <blockquote pgmap="34" id="b34-22">Madden Bros.;”</blockquote>
+                <blockquote pgmap="34" id="b34-23">and reads as follows:</blockquote>
+                <blockquote pgmap="34" id="b34-24">“Chicago, Aug. 4, 1899.</blockquote>
+                <blockquote pgmap="34" id="b34-25">Received of Jno. E. Dunne Sixty-five and no/100 Dollars for Rent of 172 Michigan St. Store on account of Rent.</blockquote>
+                <blockquote pgmap="34" id="b34-26">$65.00. Madden Bros., Agents,</blockquote>
+                <blockquote pgmap="34" id="b34-27">Per M.”</blockquote>
+                <p pgmap="35" id="b35-3">Receipts were then produced given in September, 1899, and in each subsequent month up to and includ­ing July, 1902, except in October, 1901, and April,</p>
+                <p pgmap="35" id="b35-4">1902, each for $65, all containing some such expression as “on acct.” or “to on acct.” The receipts for ad­mitted payments of $65 on October 10, 1901, and on April 9, 1902, are missing. The next receipt is:</p>
+                <blockquote pgmap="35" id="b35-5">“Chicago, Aug, 9, 1902.</blockquote>
+                <blockquote pgmap="35" id="b35-6">Received of J. E. Dunne Sixty-five Dollars for Rent of 172 Michigan St. From July 1, 190 to July 31, 190 .</blockquote>
+                <blockquote pgmap="35" id="b35-7">$65.00 Maddest Bros., Agents,</blockquote>
+                <blockquote pgmap="35" id="b35-8">Per M. S. M.”</blockquote>
+                <p pgmap="35" id="b35-9">There follow this a receipt given in September, 1902, for “Sixty-five &amp; no/100 dollars for Rent of 172 Michi­gan St. from Aug. 1st to August 31st,” and similar receipts in October, November, December, 1902, and January, February, March, April and May, 1903, for the rent in each case of the preceding month, none of them containing any expression concerning “acct. of” or “on acct.,” except those given March 7th and May 2, 1903, which say “for month ending Feby. on acct. 190—,” and “for month ending on acct. for April rent 1903, ” respectively.</p>
+                <p pgmap="35(133) 36(24)" id="b35-11">We think that these receipts taken together clearly show that $65 a month was paid by Dunne and re­ceived by Mary Doyle’s agents (it is conceded that Madden Bros, were her authorized agents) for July, 1897, and for each month thereafter separately during the continuance of the lease up to and including April, 1903. We attribute no importance to the expression “on acct.,” “for acct. of,” etc., in the receipts. The expression very commonly means “on the score of,” or merely “for,” and sometimes means nothing. The evident fact, shown by this long series of payments of $65 monthly following the conversation which the record shows concerning a reduction of rent, and unin­terrupted or followed by any complaint or demand for more money until, almost a year after the lease had expired, this suit was brought, is that these payments were respectively made and accepted as the full rent for the months respectively preceding them.</p>
+                <p pgmap="36" id="b36-5">The note to Dunne of August 4, 1899, although no stronger than all the other indications, would be suffi­cient in itself to show the situation.</p>
+                <p pgmap="36" id="b36-6">Under the theory that the $65 payments had only been accepted on account, after the formal statement in the receipts of $10 allowance had ceased—which seems now to be the appellant’s claim—there would have been most of the May rent and all of the June rent in arrears and due, as well as the July rent. But the appellant, by her agents, asks for the “July rent” because she is to leave town.</p>
+                <p pgmap="36" id="b36-7">The plaintiff introduced evidence that before the lease was signed Dunne had talked with the Independ­ent Brewing Association officers with reference to it, and afterward, during the term of the lease, bought the beer for a saloon situated in the premises, from the association. Dunne said the secretary of the associa­tion was a friend of his, and agreed to go on the lease if he would buy the association’s beer, and did go on it. Mr. Madden, the appellant’s agent, testified that he talked with the president of the association and told him that Mr. Dunne wanted to lease the premises.and the owner wanted security, and had been referred by Dunne to the Independent Brewing Association. The president said that Mr. Dunne had spoken to him and they were willing to go on the lease to secure it. After the lease was drawn, after Mr. Dunne signed it and before Mrs. Doyle signed it, the Independent Brewing Association signature under Mary Doyle’s and John B. Dunne’s was.made as follows:</p>
+                <blockquote pgmap="36" id="b36-8">“Independent Brewing Association,</blockquote>
+                <blockquote pgmap="36" id="b36-9">F. C. Lang, Pres.</blockquote>
+                <blockquote pgmap="36" id="b36-10">J. Henby Zilt, Secy.”</blockquote>
+                <p pgmap="36(16) 37(37)" id="b36-11">All this testimony was introduced subject to objec­tion as improper against the Brewing Association, and the lease itself was objected to on the ground that the name of the association does not in any manner ap­pear in it nor is mentioned by it except as it is signed at the bottom.</p>
+                <p pgmap="37" id="b37-4">This being the state of the record, it' was claimed by the plaintiff in the court below, and is claimed here by her as appellant under her assignments of error, that the Independent Brewing Association is a guar­antor or surety on the lease; that the judgment should have been against both defendants for the balance for rent claimed to be due in addition to the sum of $134.45 paid by appellant for taxes; that the provisions of the lease as to the amount of rent accruing are still in force; that the agreement for reduction relied on by the appellees was without consideration—a nudum pactum—and. in violation of the Statute of Frauds; that the provisions of the lease could not be modified by parol, and that the liquidated and undisputed sum due appellant by the terms of the lease could not be satisfied by the payment of a less sum; that therefore this suit was sustainable for the difference between the amount reserved by the lease and the amount paid, and that the Independent Brewing Association, as well as Dunne, was liable for the same, and that the Asso­ciation as surety on the lease had not been released.</p>
+                <p pgmap="37" id="b37-5">We do not think that as applied to this case these contentions can be sustained.</p>
+                <p pgmap="37(118) 38(64)" id="b37-6">The Independent Brewing Association is sued in an action of debt as having undertaken by deed to pay certain money. It has neither signed nor sealed any covenant, contract or deed to do so. It has placed its name under the signatures of the parties to a contract which explicitly and expressly refers to those particu­lar parties and to those particular parties or to one of them, only, in every one of its clauses. It, however, is not pretended that by so placing its name it became either first or second party to the lease—either lessor or lessee. Such a pretention would be absurd and is not made. For aught that appears on the face of the instrument, its signature might be that of a witness. But the contention of the plaintiff amounts to this: That a sealed signature to an instrument may be sup­plemented by parol testimony to show that the signa­ture constituted a deed of covenant entirely different from but collateral to the instrument signed, the terms of which deed can be supplied by the parol testimony.</p>
+                <p pgmap="38" id="b38-5">This is not a case in which the signer is really a party to the deed signed, his name being omitted by mistake; nor a case of ambiguity in the meaning of terms; nor a question of the obligations under the law merchant of a party to a negotiable instrument; and we think the language of the Supreme Court in Lan­caster v. Roberts, 144 Ill. 213, is applicable:</p>
+                <blockquote pgmap="38" id="b38-6">“It would seem * * * upon reason and princi­ple that where a third person merely annexed his name to a contract which in the body of it does not mention him, and which is in itself a complete contract between other parties who sign it and are mentioned in it, such third person does not thereby become a party to the efficient and operative parts of the contract. His sig­nature in such case can only be regarded as an expres­sion of his assent to the act of the parties in making the contract, and may perhaps operate as an estoppel against his assertion in the future of an adverse inter­est in the subject-matter of the agreement.”</blockquote>
+                <p pgmap="38(111) 39(23)" id="b38-8">We think, as against the Independent Brewing Asso­ciation in this action, both the lease and the testimony introduced to explain the signature of the Association to it, were incompetent, and in any event, furnished no ground for holding the Association liable for any part of the claim sued for. Therefore, the judgment, so far as the Independent Brewing Association is concerned, is correct and should be affirmed. But in our view of the matter, this is important only as relieving this defendant from the liability found by the court below to rest on John E. Dunne to repay Mrs. Doyle the amount of the taxes and assessments levied in 1902, but paid by her in 1903. For we think, as did the court below, that this is all for which Dunne is liable.</p>
+                <p pgmap="39" id="b39-4">We do not think it necessary to discuss the question whether, had the Independent Brewing Association been originally liable in an action of debt as surety on the lease, the subsequent action of the parties to it would have released it, for the conditional hypothesis seems to us plainly against the fact.</p>
+                <p pgmap="39" id="b39-5">That Dunne is liable in this action for the difference between the amount he has paid and the amount re­served by the lease, is deduced by the plaintiff’s coun­sel from the doctrine of such cases as Loach v. Far­num, 90 Ill. 368, and Goldsbrough v. Gable, 140 Ill. 269, which hold that a parol agreement to reduce rent, entered into by a lessor without consideration, is a mere nudum pactum, not binding, and not susceptible of being enforced; from such cases as Chapman v. McGrew, 20 Ill. 101; Alschuler v. Schiff, 164 Ill. 298, and Ryan v. Cooke, 172 Ill. 302, which hold that an instrument under seal cannot be modified by parol, and from those cases which hold that the payment of a less sum where a greater liquidated and undisputed sum is due, is not a satisfaction of the greater sum.</p>
+                <p pgmap="39" id="b39-6">But as the Supreme Court noted in Snow v. Gries­heimer, 220 Ill. 106, the rules of law thus laid down, even in executory contracts, defeat the intention of the parties and should not be unduly extended.</p>
+                <p pgmap="39(106) 40(14)" id="Acy">And in the cases cited on leases the doctrine is sim­ply that so long as the contract contained in the lease under seal remained executory, the plaintiff had a right to repudiate the parol agreement and claim the full amount of rent contracted for, while in the Snow case the converse is explicitly recognized, that “If the parties have executed the contract as modified, so that nothing remains to be done by either party, it is no longer executory and the contract as executed will -not be disturbed.” The court in Snow v. Griesheimer fol­lows the words just quoted with a statement which, if we substitute “1903” for “1.898,” exactly conforms to our view of the situation here:</p>
+                <blockquote pgmap="40" id="b40-5">“The lease expired April 30, 1898, before suit was brought, and the evidence tended to show that it had been fully performed on both sides. The fact that it had been so performed could be shown in defense of the suit.”</blockquote>
+                <p pgmap="40" id="b40-6">Counsel for plaintiff seek to distinguish Snow v. Griesheimer from the case at bar, on the ground that the testimony in Snow v._ Greisheimer tended to show a consideration for the reduction of rent, while in the present case no such consideration was even claimed. But the whole tenor of the opinion in Snow v. Greis­heimer shows that this was not the test applied. It was the difference between an executed and executory contract which was insisted on. And the opinion in Goldsbrough v. Gable (supra) suggests the difference between that case and the present one, and the ground on which the finality of the settlement of rent charges between the parties in the case at bar should be sus­tained, when it says: “Nor can it be held that the agreement has the effect of an executed gift as to the difference between the $50 and the $70 per month, because there was executed no receipt or release for the amount, and there was no proof of any action equivalent thereto.”</p>
+                <p pgmap="40(123) 41(162)" id="b40-7">In Goldsbrough v. Gable it would appear that the amounts paid were paid at random on account, the dif-* ference between the parties being that the defendant claimed that they were paid on account of the reduced amount which he said had been agreed on; the plaint­iff that they were paid on account of the original amount reserved by the lease. The question thus was, whether the executory agreement could be supported as a gift—not, as in this case, whether the settlements made, as we have indicated the evidence clearly shows, we think, they were made each month for the rent of the preceding month, involved each month an executed valid gift of the ten dollars “deficit,” if so it may be called. Such a gift was clearly expressed iu each of the receipts dated respectively July 30th, September 9th, November 1st, December 24th, December 31st, 1897, February 2nd, March 2nd, and April 7th, 1898, and we cannot doubt, from the whole course of the dealings, was clearly involved and implied in the inter­vening one of October 1st, 1897, and all those subse­quent to April 1, 1898. It is the actual executed waiver and release of the difference in the rents, not the “agreement” made without consideration, which was thus sustained as a gift by the trial judge when he declined in a suit begun almost a year after the con­tract of lease had terminated and expired by its terms, and the accordant surrender of the premises, to hold the lessee liable for money from the payment of which the evident intention and understanding of the parties —as understood by both of them—was that he should be and had been released.</p>
+                <p pgmap="41" id="b41-4">We think the decision was correct, and the judgment of the Circuit Court is affirmed.</p>
+                <p pgmap="41" id="b41-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="30" ORDERLABEL="14" TYPE="page">
+        <fptr FILEID="tiff_00015_1"/>
+        <fptr FILEID="jp2_00015_1"/>
+        <fptr FILEID="alto_00015_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.2" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.3" BETYPE="IDREF" FILEID="alto_00015_1"/>
+              <area BEGIN="BL_30.4" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="31" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00016_0"/>
+        <fptr FILEID="jp2_00016_0"/>
+        <fptr FILEID="alto_00016_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_31.1" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_31.2" BETYPE="IDREF" FILEID="alto_00016_0"/>
+              <area BEGIN="BL_31.3" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="32" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jp2_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.2" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.3" BETYPE="IDREF" FILEID="alto_00016_1"/>
+              <area BEGIN="BL_32.4" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="33" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jp2_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.2" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.3" BETYPE="IDREF" FILEID="alto_00017_0"/>
+              <area BEGIN="BL_33.4" BETYPE="IDREF" FILEID="alto_00017_0"/>
+              <area BEGIN="BL_33.18" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jp2_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.2" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.3" BETYPE="IDREF" FILEID="alto_00017_1"/>
+              <area BEGIN="BL_34.4" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jp2_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.1" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.2" BETYPE="IDREF" FILEID="alto_00018_0"/>
+              <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="36" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.3" BETYPE="IDREF" FILEID="alto_00018_1"/>
+              <area BEGIN="BL_36.4" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.2" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.3" BETYPE="IDREF" FILEID="alto_00019_0"/>
+              <area BEGIN="BL_37.4" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="22" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.3" BETYPE="IDREF" FILEID="alto_00019_1"/>
+              <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jp2_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.2" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+              <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="40" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00020_1"/>
+        <fptr FILEID="jp2_00020_1"/>
+        <fptr FILEID="alto_00020_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_40.2" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_40.3" BETYPE="IDREF" FILEID="alto_00020_1"/>
+              <area BEGIN="BL_40.4" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="41" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.2" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+              <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.7" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.9" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.5" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.16" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.7" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.6" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.13" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.14" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.11" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.12" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-16" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.17" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.15" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-15" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.16" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.12" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.9" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.8" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.5" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.6" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.7" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.17" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            <area BEGIN="BL_32.1" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.9" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.15" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.10" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.11" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-3" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.4" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            <area BEGIN="BL_31.5" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.10" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-27" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.27" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acy" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.8" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            <area BEGIN="BL_40.1" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHm" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.8" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.6" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            <area BEGIN="BL_31.7" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-26" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.26" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATa" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.13" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            <area BEGIN="BL_31.14" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-24" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.24" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-25" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.25" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-22" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.22" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-23" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.23" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-20" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.20" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-21" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.21" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.11" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            <area BEGIN="BL_37.1" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.10" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.11" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            <area BEGIN="BL_36.1" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.7" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.6" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.5" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.6" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.6" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.7" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.6" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.7" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            <area BEGIN="BL_41.1" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.9" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.8" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.9" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.10" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8C" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.9" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.5" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-3" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.4" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.7" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.5" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.7" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.8" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.6" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.5" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.7" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.6" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.8" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.6" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.8" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.11" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.10" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.8" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            <area BEGIN="BL_33.1" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.6" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.5" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-19" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.19" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-18" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.18" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-17" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.17" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-16" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.16" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-15" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.15" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.14" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.13" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.12" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.11" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.10" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

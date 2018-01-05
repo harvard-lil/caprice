@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0048" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Walters v. City of Ottawa">Lillian Walters, Appellee, v. City of Ottawa, Appellant</name>
+          <docketnumber>Gen. No. 5,020</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 379</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00198_0" MIMETYPE="image/tiff" CHECKSUM="48cc5cda0267e8499c718783bb6f117d" CHECKSUMTYPE="MD5" SIZE="43114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00198_0.tif"/>
+      </file>
+      <file ID="tiff_00198_1" MIMETYPE="image/tiff" CHECKSUM="7dafb1499496c8839bc4cc8792233395" CHECKSUMTYPE="MD5" SIZE="51402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00198_1.tif"/>
+      </file>
+      <file ID="tiff_00199_0" MIMETYPE="image/tiff" CHECKSUM="bb51b2a9483efe1d2c6b3da719c6e59a" CHECKSUMTYPE="MD5" SIZE="54584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00199_0.tif"/>
+      </file>
+      <file ID="tiff_00199_1" MIMETYPE="image/tiff" CHECKSUM="ee6e9ff58266d52116bfe35746fa4fb6" CHECKSUMTYPE="MD5" SIZE="51816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00199_1.tif"/>
+      </file>
+      <file ID="tiff_00200_0" MIMETYPE="image/tiff" CHECKSUM="6bde1c573167e21c036fda353ad95d31" CHECKSUMTYPE="MD5" SIZE="52362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_0.tif"/>
+      </file>
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="0092686b702e154ae07bb2d6b1612b2a" CHECKSUMTYPE="MD5" SIZE="43566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00198_0" MIMETYPE="image/jp2" CHECKSUM="a2718da4b9cfc7d634aeee3f2d3489d9" CHECKSUMTYPE="MD5" SIZE="2333524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00198_0.jp2"/>
+      </file>
+      <file ID="jp2_00198_1" MIMETYPE="image/jp2" CHECKSUM="02031a51a391dc715d2c61e3462ceacd" CHECKSUMTYPE="MD5" SIZE="2375153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00198_1.jp2"/>
+      </file>
+      <file ID="jp2_00199_0" MIMETYPE="image/jp2" CHECKSUM="03cb0db514c004a5b86d395d8df76fdd" CHECKSUMTYPE="MD5" SIZE="2396992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00199_0.jp2"/>
+      </file>
+      <file ID="jp2_00199_1" MIMETYPE="image/jp2" CHECKSUM="57c3f59235052c39daf5f42d7ec616eb" CHECKSUMTYPE="MD5" SIZE="2357975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00199_1.jp2"/>
+      </file>
+      <file ID="jp2_00200_0" MIMETYPE="image/jp2" CHECKSUM="bf0d8f2319b8583db9991d27d2c60497" CHECKSUMTYPE="MD5" SIZE="2397454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_0.jp2"/>
+      </file>
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="9a9df31ff18b1139a6a442f265c44ab5" CHECKSUMTYPE="MD5" SIZE="2275508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00198_0" MIMETYPE="text/xml" CHECKSUM="a6f0fecc9f5f4ca79f1083f202dc89f2" CHECKSUMTYPE="MD5" SIZE="80900">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00198_0.xml"/>
+      </file>
+      <file ID="alto_00198_1" MIMETYPE="text/xml" CHECKSUM="276bc7b7304d2deae3d6d0b35903f11f" CHECKSUMTYPE="MD5" SIZE="82951">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00198_1.xml"/>
+      </file>
+      <file ID="alto_00199_0" MIMETYPE="text/xml" CHECKSUM="59ea7c5abc9fd6a62f0e3b32d6f6710c" CHECKSUMTYPE="MD5" SIZE="91788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00199_0.xml"/>
+      </file>
+      <file ID="alto_00199_1" MIMETYPE="text/xml" CHECKSUM="21aae30cb06cfd77a7c9ba806914d34a" CHECKSUMTYPE="MD5" SIZE="91810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00199_1.xml"/>
+      </file>
+      <file ID="alto_00200_0" MIMETYPE="text/xml" CHECKSUM="b012f438fc124c3b086d5b4f1e7d3f02" CHECKSUMTYPE="MD5" SIZE="87394">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00200_0.xml"/>
+      </file>
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="2ffcca147eeba3943b4a3d4654939fdd" CHECKSUMTYPE="MD5" SIZE="80645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00200_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0048" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="384" firstpage="379">
+              <docketnumber pgmap="395" id="AUI">Gen. No. 5,020.</docketnumber>
+              <parties pgmap="395" id="b395-5">Lillian Walters, Appellee, v. City of Ottawa, Appellant.</parties>
+              <decisiondate pgmap="395" id="ATt">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="395" id="AUa">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="395" id="b395-11">J. L. Ferguson, for appellant; Butters, Armstrong &amp; Ferguson, of counsel.</attorneys>
+              <attorneys pgmap="396" id="b396-4">Browne &amp; Wiley, for appellee.</attorneys>
+              <summary pgmap="395" id="b395-10">Action in case for personal injuries. Appeal from the Circuit Court of LaSalle county; the Hon. Edgar Eldbedge, Judge, pre­siding.</summary>
+              <disposition pgmap="395" id="AQv">Affirmed.</disposition>
+              <headnotes pgmap="395" id="b395-6">1. Statute of limitations—when declaration does not state new cause of action. An amended declaration filed in an action against a city for a sidewalk injury does not state a new cause of action where it differs from the original in that it sets up the statutory notice while the original declaration made no reference thereto.</headnotes>
+              <headnotes pgmap="395" id="b395-7">2. Verdict—when not disturbed as against the evidence. A verdict based upon conflicting evidence will not be disturbed on re­view if the evidence was sufficient to sustain the jury’s finding.</headnotes>
+              <headnotes pgmap="395" id="b395-8">3. Verdict—when not excessive. A verdict of $1,000 in an action on the case for personal injuries is not so excessive as to call for remittitur by the appellate court where a serious injury to the ankle has been shown.</headnotes>
+              <headnotes pgmap="395" id="b395-9">4. Trial—when argument of counsel will not reverse. Improper remarks in opening and in argument will not reverse unless re­sulting prejudice appears.</headnotes>
+              <opinion type="majority">
+                <author pgmap="396" id="b396-5">Mb. Justice Dibell</author>
+                <p pgmap="396" id="Aq_R">delivered the opinion of the court.</p>
+                <p pgmap="396" id="b396-6">The city of Ottawa maintains a cinder sidewalk on the west side of Poplar street between Jefferson and Jackson streets. On August 28, 1906, Mrs. Lillian Walters, the appellee, was walking along thereon in the evening and stepped into a hole or depression therein, and she claims that she was thereby severely and permanently injured and that the small bone of her ankle was broken. She gave notice thereof to the city attorney and to the city clerk in full compliance with the act of 1905 in regard to suits against cities for personal injuries. Hurd’s R. S. 1905, 1153, 1154. These notices were given on September 15 and 18, 1906. On September 25, 1906, she brought this suit and filed a copy of said notices with the clerk of the Circuit Court in this cause on that day. She filed a declaration in every respect sufficient, except that she made no allegation concerning the giv­ing of such notices as the statute requires. To this the city filed a plea of the general issue. The statute referred to limits the time within which a suit for such an injury may be brought against a city to one year. On November 29, 1907, after that year had elapsed, the city withdrew its plea of the general issue by leave of court and filed a demurrer to the declaration, which was sustained because of the failure to allege said notice. Thereafter appellee filed an amended declara­tion in all other respects sufficient and which alleged the giving of sufficient notice in a sufficient manner within the time fixed.by statute. Appellant pleaded the general issue and said one year limitation. The court sustained a demurrer to the plea of the Statute of Limitations and appellant elected to abide by that plea. There was a trial and a verdict for appellee for $1,000, upon which appellee had judgment, and the city appeals.</p>
+                <p pgmap="397" id="b397-4">It is contended, first, that the court erred in sus­taining the demurrer to the plea of the Statute of Limitations. To this there are, we think, two sufficient answers.</p>
+                <p pgmap="397(346) 398(223)" id="b397-5">1. The notice to the city attorney and to the city clerk is not a part of the cause of action, and there­fore the amended declaration did not state a new cause of action. This appears from considering what is the cause of action in such a case. The cause of action here is that there was a cinder sidewalk upon which the city invited foot passengers to travel; that in said walk was a deep hole or depression, dangerous to foot passengers, especially to those walking there in the night time; that it had been in that condition for a long time, and for so long a time that the officers of the city chargeable with the care of its streets and sidewalks would have known of this dangerous hole in time to have repaired it before plaintiff was hurt, if they had exercised ordinary care; that plaintiff was passing along that walk in the evening after dark and had never passed there before and was ignorant of the existence of the hole, and was exercising due and ordinary care for her personal safety, and while so doing she accidently stepped into said hole and was thereby injured. If those facts are established by a preponderance of the evidence, then plaintiff has shown that when plaintiff left that place that night a cause of action had arisen in her behalf against the city; that the city was guilty of negligence which had caused her an injury while she was exercising due care, for which injury the city was liable to her. The subsequent notice to the officers of the city did not add anything to the cause of action in any proper sense. It did not establish any greater degree of responsi­bility on the part of the city, nor tend to show any more care by plaintiff for her personal safety. It re­lated to the remedy for the injury and not to the cause of action therefor. The statute merely required that such notice should be given the city within a specified time after the injury, in default of which the injured party should not be permitted to maintain a suit against the city for that cause of action. This is im­plied in the statute itself. It requires, in express terms, that the notice shall be given within six months from the date “when the cause of action accrued,” and also that the notice shall state “the name of the person to whom such cause of action had accrued.” This means that that which the statute treats as the cause of action has already accrued before the notice is given or can be given, and not that the giving of the notice is a part of the cause of action. Erford v. City of Peoria, 229 Ill. 546, relied upon by appellant is in harmony with this view. In that case the stat­utory notice was neither alleged nor proved. In the statement preceding that opinion the court said: “It is not contended that the declaration failed to show a right of action nor is it contended that appellant failed to make out a good cause of action on the trial.” That is equivalent to saying that a good cause of action was alleged and proven though the notice was neither alleged nor proven, for want of which the action could not be maintained.</p>
+                <p pgmap="398" id="b398-5">2. A defective statement of a right of action may be cured by amendment regardless of the Statute of Limitations.</p>
+                <p pgmap="398(133) 399(254)" id="b398-6">It is clear that under the decision in Erford v. City of Peoria, supra, and under cases cited by appellant from other states, it was necessary that the giving of the notice required by the statute should be alleged in the declaration. Reinig v. City of Buffalo, 102 N. Y. 308; Thrall v. Village of Cuba, 88 N. Y. App. Div. 410; Wentworth v. Town of Summit, 60 Wis. 281; Dorsey v. City of Racine, 60 Wis. 292; Sowle v. City of Tomah, 81 Wis. 349; Pardey v. Mechanicsville, 101 Iowa 266; City of Lincoln v. Grant, 38 Neb. 369. In some of these cases the notice is treated as if a part of the cause of action. In none of these cases is it intimated that that which was imperfectly stated by reason of the omission of the allegation of the stat­utory notice may not be amended. In some of them there is an «intimation that the declaration or com­plaint could have been amended. “The Statute of Limitations does not apply to mere matters of plead­ing and it should not be given that effect indirectly by holding that an imperfect statement of a cause of action is no statement of it.” No. Chicago Ry. Co. v. Aufman, 221 Ill. 614; Chicago City Ry. Co. v. Hack­endahl, 188 Ill. 300. In Chicago City Ry. Co. v. Cooney, 196 Ill. 466, the original declaration failed to allege that plaintiff had exercised due care, and that was a necessary and material allegation. After the Statute of Limitations had run an amended dec­laration was filed which contained that allegation. A plea of the Statute of Limitations was filed thereto and a demurrer was sustained to said plea. It was held that the original declaration stated a cause of action, though defectively, and that the amendment did not state, a new cause of action. We are of opinion that if it should he held that the notice was a part of the cause of action, still the original declaration was but a defective statement of the cause of action, and that the amended declaration did not state a new cause of action, but merely remedied the previous de­fective statement. For these reasons the demurrer to the plea of the Statute of Limitations was properly sustained.</p>
+                <p pgmap="399(103) 400(30)" id="b399-5">The size and extent of the hole or depression in the cinder walk and whether it was inside of the limits of the street, and whether it had formed almost immedi­ately prior to the injury or had existed for months and for so long a time that the city authorities in the exercise of ordinary care should have ascertained and remedied the defect, were questions of fact upon which the evidence was conflicting. There was evidence in the record sufficient to sustain appellee’s allegation in these respects. The jury decided these controverted questions in favor of appellee and the trial judge ap­proved their finding. The state of the evidence is not such that we would be justified in reversing the ver­dict and judgment for lack of evidence to support it.</p>
+                <p pgmap="400" id="b400-5">It is argued that the damages are excessive. We would have been satisfied with a smaller allowance, but if the testimony of appellee and of the physician who examined her ankle shortly before the trial is true, her injuries were sufficiently serious so that a review­ing court would not be justified in disturbing a verdict for $1,000.</p>
+                <p pgmap="400" id="b400-6">Complaint is made of language used by counsel for appellee in his statement of appellee’s case at the opening and in his subsequent argument to the jury. We do not approve of one or two things which he said, but we do not feel warranted in reversing the judgment on that account. We find no reversible error in the record. The judgment is therefore affirmed.</p>
+                <p pgmap="400" id="b400-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="395" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00198_0"/>
+        <fptr FILEID="jp2_00198_0"/>
+        <fptr FILEID="alto_00198_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.3" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.2" BETYPE="IDREF" FILEID="alto_00198_0"/>
+              <area BEGIN="BL_395.4" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="396" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00198_1"/>
+        <fptr FILEID="jp2_00198_1"/>
+        <fptr FILEID="alto_00198_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.1" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.2" BETYPE="IDREF" FILEID="alto_00198_1"/>
+              <area BEGIN="BL_396.3" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="397" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00199_0"/>
+        <fptr FILEID="jp2_00199_0"/>
+        <fptr FILEID="alto_00199_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.2" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.1" BETYPE="IDREF" FILEID="alto_00199_0"/>
+              <area BEGIN="BL_397.3" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="398" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00199_1"/>
+        <fptr FILEID="jp2_00199_1"/>
+        <fptr FILEID="alto_00199_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.2" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.3" BETYPE="IDREF" FILEID="alto_00199_1"/>
+              <area BEGIN="BL_398.4" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="399" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00200_0"/>
+        <fptr FILEID="jp2_00200_0"/>
+        <fptr FILEID="alto_00200_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.3" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.2" BETYPE="IDREF" FILEID="alto_00200_0"/>
+              <area BEGIN="BL_399.4" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="400" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.3" BETYPE="IDREF" FILEID="alto_00200_1"/>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-10" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.11" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            <area BEGIN="BL_395.12" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-11" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.16" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.5" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.5" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.7" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.6" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            <area BEGIN="BL_399.1" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.5" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_400.1" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.4" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.5" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            <area BEGIN="BL_398.1" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUI" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.6" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.9" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.10" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATt" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.15" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQv" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.14" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.5" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.4" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.5" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.7" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.6" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUa" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.13" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.8" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.8" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq_R" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.6" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            <area BEGIN="BL_396.7" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

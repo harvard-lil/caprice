@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0042" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Brophy v. Illinois Steel Co.">Edward Brophy, Appellee, v. Illinois steel Company, Appellant</name>
+          <docketnumber>Gen. No. 5,017</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 309</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="934a082ca007717edb059466244bcdbf" CHECKSUMTYPE="MD5" SIZE="38292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00163_0.tif"/>
+      </file>
+      <file ID="tiff_00163_1" MIMETYPE="image/tiff" CHECKSUM="129690a9351ee6d021eb27abfd156b98" CHECKSUMTYPE="MD5" SIZE="50944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00163_1.tif"/>
+      </file>
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="8f15dabbc3a19f6cbe504ceea1df8fa9" CHECKSUMTYPE="MD5" SIZE="52214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="6c50b76f383c59165601d173d7deb3bf" CHECKSUMTYPE="MD5" SIZE="53270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="43140a441701d5c79a696d729c06891e" CHECKSUMTYPE="MD5" SIZE="52234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="50f18de63a375ead76fc5965cb210a51" CHECKSUMTYPE="MD5" SIZE="51376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00165_1.tif"/>
+      </file>
+      <file ID="tiff_00166_0" MIMETYPE="image/tiff" CHECKSUM="f7a52be71313fdfc31ac7bf687687e89" CHECKSUMTYPE="MD5" SIZE="45232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00166_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00163_0" MIMETYPE="image/jp2" CHECKSUM="5e9768295f5cb382f1e2cb0f3c66ecba" CHECKSUMTYPE="MD5" SIZE="2292634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00163_0.jp2"/>
+      </file>
+      <file ID="jp2_00163_1" MIMETYPE="image/jp2" CHECKSUM="5fecc1701c7a62dd17f45cb78028e82c" CHECKSUMTYPE="MD5" SIZE="2368233">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00163_1.jp2"/>
+      </file>
+      <file ID="jp2_00164_0" MIMETYPE="image/jp2" CHECKSUM="38dd5441783ebed33e0cffb882d2fe20" CHECKSUMTYPE="MD5" SIZE="2405516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00164_0.jp2"/>
+      </file>
+      <file ID="jp2_00164_1" MIMETYPE="image/jp2" CHECKSUM="173bea4857fff79a55994d36f67b6bcb" CHECKSUMTYPE="MD5" SIZE="2339101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00164_1.jp2"/>
+      </file>
+      <file ID="jp2_00165_0" MIMETYPE="image/jp2" CHECKSUM="e586ee94adacc2a5d6c041598827c475" CHECKSUMTYPE="MD5" SIZE="2390993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00165_0.jp2"/>
+      </file>
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="b0634589340f596412b758f902ebb9ea" CHECKSUMTYPE="MD5" SIZE="2358533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00165_1.jp2"/>
+      </file>
+      <file ID="jp2_00166_0" MIMETYPE="image/jp2" CHECKSUM="584476cb517b0eeee677bb084558d1f4" CHECKSUMTYPE="MD5" SIZE="2354917">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00166_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00163_0" MIMETYPE="text/xml" CHECKSUM="2a59e29b6415b2d9f57610f07ddc19a8" CHECKSUMTYPE="MD5" SIZE="69827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00163_0.xml"/>
+      </file>
+      <file ID="alto_00163_1" MIMETYPE="text/xml" CHECKSUM="5f62533cd994b52abbad6815a815ad61" CHECKSUMTYPE="MD5" SIZE="83316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00163_1.xml"/>
+      </file>
+      <file ID="alto_00164_0" MIMETYPE="text/xml" CHECKSUM="b60c6ad3289a3a73838991ec4375c784" CHECKSUMTYPE="MD5" SIZE="90602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00164_0.xml"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml" CHECKSUM="888f9424321d1894bd8897968b114814" CHECKSUMTYPE="MD5" SIZE="93399">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00164_1.xml"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml" CHECKSUM="8e7cfc34f553e003a1657ed488c8dcb8" CHECKSUMTYPE="MD5" SIZE="90508">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00165_0.xml"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="27b85b20bca929a06713a523fc9cafc3" CHECKSUMTYPE="MD5" SIZE="91904">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00165_1.xml"/>
+      </file>
+      <file ID="alto_00166_0" MIMETYPE="text/xml" CHECKSUM="5d70701b5b625fd856b320bf3dc07d66" CHECKSUMTYPE="MD5" SIZE="74605">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00166_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="315" firstpage="309">
+              <docketnumber pgmap="325" id="b325-20">Gen. No. 5,017.</docketnumber>
+              <parties pgmap="325" id="b325-18">Edward Brophy, Appellee, v. Illinois steel Company, Appellant.</parties>
+              <decisiondate pgmap="325" id="b325-32">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="325" id="AED">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="325" id="b325-33">Garnsey &amp; Wood, for appellant; Knapp, Haynie &amp; Cambell, of counsel.</attorneys>
+              <attorneys pgmap="325" id="b325-35">J. W. D 'Arcy, for appellee.</attorneys>
+              <summary pgmap="325" id="b325-29">Action in case for personal injuries. Appeal from the Cir­cuit Court of will county; the Hon. Douusucu DIBSLL, Judge, pre­siding.</summary>
+              <disposition pgmap="325" id="AaYb">Affirmed.</disposition>
+              <headnotes pgmap="325" id="b325-21">• 1. vaaDIcT-when not disturbed as against the evidence, where there is evidence upon which a verdict may be sustained, it will not be set aside on review as against the evidence unless passion, prejudice or other undue influence has entered into the verdict.</headnotes>
+              <headnotes pgmap="325" id="b325-25">2. Vasnsc~-when not excessive. In an action for personal in­juries, a verdict for $5,000 is not excessive where the injuries were to a boy of the age of 16 years and consiscea, In addition to suffering, in the loss of a leg.</headnotes>
+              <opinion type="majority">
+                <author pgmap="326" id="b326-4">Mb. Presiding Justice Thompson</author>
+                <p pgmap="326" id="AjM">delivered the opin­ion of the court.</p>
+                <p pgmap="326" id="b326-5">Edward Brophy, appellee, brought suit and recov­ered a verdict and judgment for $5000 damages against the Illinois Steel Company, appellant, for personal in­juries. The declaration contains three counts. The first count charges the defendant company with negli­gence in failing to provide a reasonably safe place, appliances and machinery, in and around which the plaintiff, then and there an employe of defendant of the age of sixteen years, could work in the performance of his duties as a switchman, and that by reason of the unsafe place and appliances plaintiff was injured by a heavy mould of defendant’s falling from an elevated crane without notice or warning to plaintiff, whereby, etc. The second count alleges negligence in permitting an elevated crane and machinery belonging thereto to become worn, defective, impaired and unsafe for the conveyance of certain moulds weighing, to wit, ten tons, etc., whereby, etc. The third count alleges negli­gence in failing to inspect and repair and in permitting its elevated crane to become defective and unsafe, etc. Each count avers that plaintiff was in the exercise of due care, and that the injury was not caused through the negligence of a fellow-servant or from an assumed risk. It is contended that there is no proof sustaining the third count, and that the court should have directed a verdict for the defendant on that count. The record does not show that any such instruction was asked, and shows that only a general instruction to find for the defendant was requested at the close of all the evi­dence. If there is evidence on which the verdict can be sustained on any count then there was no error in refusing that instruction.</p>
+                <p pgmap="326(38) 327(341)" id="b326-6">The proof shows that on Sunday, September 16, 1906, the date of the accident, the appellee was a boy sixteen years of age working as a switchman in the yards of appellant company at Joliet where he had been employed three or four months; that appellee had only worked at the place where he was injured upon one occasion before the day of the injury, and that the accident happened in the convertor mill of appellant while appellee, acting as such switchman, was en­deavoring to get upon the foot-board of a small loco­motive engine. This engine is used in the steel mills and is so small that only the engineer can ride on it, and he acts as engineer and fireman. The engine moved small cars called buggies for transporting moulds on a narrow gauge track two feet and eight inches wide. The cars are about four feet long, there feet wide and two feet high. Three of these mould cars with a “push-car” and engine make a train. Each mould car is supposed to carry two moulds, but a train only car­ries five moulds. Between the engine and the train is a small “push-car” with a steel top of the same size as the others. The “push-car” between the engine and train contains the coupler for attaching the mould cars to the engine. The couplers are operated by levers on the push-car; a lever is on each side of the push-car so that a man standing on the foot-board of the engine can operate the coupler from either side. The moulds are made of cast iron, and are about two feet square at the bottom and six feet high, and each weighs two tons. The moulds are lifted on and off the cars by a crane with .a chain and hooks; two hooks catch into lugs near the top of each mould. The crane is an electric crane with a universal motion by which heavy weights can be moved in any direction. The craneman manages the crane from a cage about thirty-five feet above the tracks. These small trains are operated by two men, the engineer, and a switchman whose duty it is to turn switches and couple and uncouple the cars from the “push-car.”</p>
+                <p pgmap="327(30) 328(384) 329(78)" id="b327-5">The mills were closed on the day of the accident, with the exception that moulds were being carried on these small trains to and from what is called the clean­ing platform where the moulds and buggies were cleaned. Sometimes these moulds were lifted with the crane off the buggies at the platform to get the scrap off the buggies. After being cleaned the moulds were carried on the buggies to other parts of the mills. The cleaning platform is four or five feet wide, fifteen feet long and six feet high. On the south side of this plat­form is a track running in a curve, while on the north side is a straight track; the curved track unites with the straight track about forty feet from either end of the platform, and there is some three or four feet of space on each side between the tracks and the plat­form. The engine runs in with a train of cars on the track on one side of the platform, leaves the train by the platform, then runs upon a switch and runs back on the other track and takes the cars with the moulds which have been cleaned from the other side of the platform and so the work goes on, there having been about two hundred moulds cleaned that day. At the time of the injury a train of cars with moulds was standing, being cleaned on the south track at the south­east corner of the platform. The engine came into the convertor mill with a train from the east, and was moving on the straight track on the north, towards the platform. The appellee threw the switch, which was on the south side of the track behind the train, and then ran on the south side of the train, which was moving slower than a walk, to get on the foot-board ahead of the push-car to uncouple the train when it got to the platform. The crane had picked up two moulds at the east end of the platform between the tracks, and had raised them about two feet from the ground between four and five feet south of the north track as the engine cleared the moulds by about four feet. The evidence does not disclose whether. these moulds were being put on or off the buggies on the south track. Some other employes called to the en­gineer to stop as they saw the moulds being raised close to where the engine would pass, but the engineer did not hear them and appellee ran between the moulds which were being raised and the train. The craneman undertook to stop the moulds and keep them suspended while the train passed, but the brake slipped and the moulds fell to the ground and one of them toppled over upon the push-car catching appellee and breaking his leg below the knee so that it had to be amputated.</p>
+                <p pgmap="329" id="b329-4">There are but two questions involved: first, was the appellee at the time of the injury in the exercise of ordinary care, or did his acts contribute to the injury, and second, was the defendant company negligent in the care of the crane?</p>
+                <p pgmap="329(250) 330(14)" id="b329-5">The proof shows that appellant had actual notice that the crane had a defective brake, which had been slipping more or less for about two months. The craneman testified that he had complained about the brakes; that he had asked to have them fixed many times, but they would not fix them; “they all knew the brakes would not hold”; it would not do any good to complain because they would not fix them; that the brake had slipped three weeks before the date of this accident in the presence of the foreman, and that the foreman then said to the craneman, “why don’t you fix it?” and the craneman replied that he could not fix it, and they let it go that way. The evidence is clear that the brake slipped very often, and there is no evi­dence showing that any attempt was made to repair the brake after the foreman- knew about its slipping. The foreman testified he did not remember about the complaint made by the craneman that the brake needed fixing, but would not say the complaint was not made, and said he would not have fixed it anyway; that it was up to the mechanical department to fix it. It is also shown that the appellee had not heard of the brake slipping, that he knew nothing about it and did not know but that it was in perfect order. It is conclusively shown that the -brake was out of repair and the fore­man and craneman knew it, so that the negligence of appellant was clearly proved.</p>
+                <p pgmap="330(363) 331(96)" id="b330-5">Appellant contends that appellee was not •exercising ordinary care for his own safety but that he was negli­gent and contributed to his own injury. The switch that appellee had turned just prior to the time of the injury and from which he was running was on the south side of the train, the side upon which appellee was injured. There is a maze of tracks in the vicinity where the injury occurred. There was a space of four or five feet between the moulds that were suspended on the crane and the train by the side of which he ran to get on the push-car, although some of the evidence tends to show the space was less. It was the duty of the appellee to run and get on the foot-board of the engine to work the coupler on the push-car. The side of the train the switch was on was the side the switch-­man would naturally take to overtake the push-car. There was at least as much space between the sus­pended moulds and the track as there was between the cleaning platform and the track. There was ample room between the moulds and the train for the appellee to pass in safety to reach the push-car if the machinery of the crane had been in proper condition. The ap­pellee had only worked at the place where he was in­jured on one other occasion before the day of the injury, which was the day he became sixteen years of age; he knew nothing about the brake being defective on the crane; he had never seen or heard of it slipping. Appellee did not pass under the mould but by its side, and because of the brake slipping the mould fell and toppled over- against the push-car, crushing his leg. If the brake on the crane had not slipped appellee would not have been injured, and it would not have slipped if it had been in proper condition. There is no proximate connection between the action of the ap­pellee in his attempt, in the performance of his duty, to get on the engine foot-board and his injury. The jury, finding for the appellee, found from the evidence that the appellee was exercising ordinary care and that he was not guilty of contributory negligence. The jury were very fully and particularly instructed that, be­fore appellee could recover, he must prove by a pre­ponderance of the evidence that he was in the exercise of ordinary care and that he was not guilty of negli­gence contributing towards causing his injury. That was a question purely for the jury, and there being-­evidence upon which the verdict can be sustained we should not disturb it.</p>
+                <p pgmap="331" id="b331-5">Appellant argues that the damages awarded are ex­cessive, and states that the loss will be but a slight obstacle to appellee and will help him gravitate to an employment requiring a higher degree of intellect than a switchman, and that the payment of $5000 “into the hands of a young boy often proves his ruin.” Such arguments do not appeal to reason. Appellant is not an eleemosynary corporation, and when it runs its machinery out of repair it is not because it is concerned for the financial betterment or intellectual elevation of its employes. The fact that appellee may secure a cork leg will not relieve him of many of the difficulties in life resulting from the loss of his natural leg. We think the damages awarded are reasonable compensa­tion for the pain, physical suffering, surgical treatment and reduction of his capacity to earn money and pursue the course of life which he might otherwise have done. We think the sum awarded is a cheap price for the leg of a young man. The judgment is affirmed.</p>
+                <p pgmap="331" id="b331-6">Affirmed,.</p>
+                <p pgmap="331" id="b331-7">Mr. Justice Dibell having presided at the trial of this case in the lower court, took no part in its con­sideration here.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="325" ORDERLABEL="309" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jp2_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.2" BETYPE="IDREF" FILEID="alto_00163_0"/>
+              <area BEGIN="BL_325.4" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="326" ORDERLABEL="310" TYPE="page">
+        <fptr FILEID="tiff_00163_1"/>
+        <fptr FILEID="jp2_00163_1"/>
+        <fptr FILEID="alto_00163_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.1" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.2" BETYPE="IDREF" FILEID="alto_00163_1"/>
+              <area BEGIN="BL_326.3" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="327" ORDERLABEL="311" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jp2_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.2" BETYPE="IDREF" FILEID="alto_00164_0"/>
+              <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="312" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jp2_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.2" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.3" BETYPE="IDREF" FILEID="alto_00164_1"/>
+              <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jp2_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.2" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+              <area BEGIN="BL_329.4" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="314" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.3" BETYPE="IDREF" FILEID="alto_00165_1"/>
+              <area BEGIN="BL_330.4" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="331" ORDERLABEL="315" TYPE="page">
+        <fptr FILEID="tiff_00166_0"/>
+        <fptr FILEID="jp2_00166_0"/>
+        <fptr FILEID="alto_00166_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.2" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.3" BETYPE="IDREF" FILEID="alto_00166_0"/>
+              <area BEGIN="BL_331.4" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-33" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.16" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjM" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.5" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            <area BEGIN="BL_326.6" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.6" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-35" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.17" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.7" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AED" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.13" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.6" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.5" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.7" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-20" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.8" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-32" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.15" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.5" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.8" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            <area BEGIN="BL_327.1" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-18" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.7" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-21" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.9" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-29" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.11" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            <area BEGIN="BL_325.12" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaYb" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.14" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.4" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.5" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            <area BEGIN="BL_331.1" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-25" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.10" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

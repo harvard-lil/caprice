@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0028" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Malloy v. Kelly-Atkinson Con­struction Co.">Martin D. Malloy, Appellee, v. Kelly-Atkinson Con­struction Company, Appellant</name>
+          <docketnumber>Gen. No. 4,993</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 226</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="b8f3c5043993fb502c65a9b31dec0410" CHECKSUMTYPE="MD5" SIZE="43662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00121_1.tif"/>
+      </file>
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="6165f573636215dd5aaf22ac8ce7ef5e" CHECKSUMTYPE="MD5" SIZE="54864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00122_0.tif"/>
+      </file>
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="3a306ffbaa6c3676fbed78acb66c1e95" CHECKSUMTYPE="MD5" SIZE="53360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="79a02ff3b157d485236caa035f42d45b" CHECKSUMTYPE="MD5" SIZE="52256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="f6e536d6960ccf73fdc23991436e792a" CHECKSUMTYPE="MD5" SIZE="45078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00121_1" MIMETYPE="image/jp2" CHECKSUM="69712357ff6f1bea64f1800db888730d" CHECKSUMTYPE="MD5" SIZE="2292234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00121_1.jp2"/>
+      </file>
+      <file ID="jp2_00122_0" MIMETYPE="image/jp2" CHECKSUM="8645e7daa0178dee0a786c70f77bbcea" CHECKSUMTYPE="MD5" SIZE="2427313">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00122_0.jp2"/>
+      </file>
+      <file ID="jp2_00122_1" MIMETYPE="image/jp2" CHECKSUM="3bc7199ed8ad8f4b6fcb2dce663f8068" CHECKSUMTYPE="MD5" SIZE="2363660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00122_1.jp2"/>
+      </file>
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="1d60329a07808778730e9c9814f85528" CHECKSUMTYPE="MD5" SIZE="2403770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_0.jp2"/>
+      </file>
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="d8c79a58da0493c94296c053e7b78122" CHECKSUMTYPE="MD5" SIZE="2304936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00121_1" MIMETYPE="text/xml" CHECKSUM="4526ff085d84e4f654239f847310623c" CHECKSUMTYPE="MD5" SIZE="84462">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00121_1.xml"/>
+      </file>
+      <file ID="alto_00122_0" MIMETYPE="text/xml" CHECKSUM="3a7700caf1aff629f923b20aef7a45de" CHECKSUMTYPE="MD5" SIZE="93514">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00122_0.xml"/>
+      </file>
+      <file ID="alto_00122_1" MIMETYPE="text/xml" CHECKSUM="accfd9b96529d5b788222cc30d29b8f8" CHECKSUMTYPE="MD5" SIZE="90140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00122_1.xml"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="de5dec04c01d449f588132eeb8ed6fc2" CHECKSUMTYPE="MD5" SIZE="88583">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00123_0.xml"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="2b6243eac658c33fa46bef4ece2df908" CHECKSUMTYPE="MD5" SIZE="80484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00123_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0028" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="230" firstpage="226">
+              <docketnumber pgmap="242" id="b242-5">Gen. No. 4,993.</docketnumber>
+              <parties pgmap="242" id="b242-4">Martin D. Malloy, Appellee, v. Kelly-Atkinson Con­struction Company, Appellant.</parties>
+              <decisiondate pgmap="242" id="AFu">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="242" id="AnM">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="242" id="b242-11">Kremer &amp; Greenfield, for appellant.</attorneys>
+              <attorneys pgmap="242" id="b242-12">B. J. Wellman and E. J. Conley, for appellee.</attorneys>
+              <summary pgmap="242" id="b242-10">Action in case for personal injuries. Appeal from the Circuit Court of Will county; the Hon. Albert O. Marshall, Judge, pre­siding.</summary>
+              <disposition pgmap="242" id="ALZ">Affirmed.</disposition>
+              <headnotes pgmap="242" id="b242-6">1. Master and servant—how question of fellow-servants to he determined. Where the evidence tends to show that an employe of the master is a vice-principal, the question is one to be deter­mined by the jury; also, if such employe acted in a dual capacity, it is for the jury to say whether a particular act was that of a vice-principal or fellow-servant.</headnotes>
+              <headnotes pgmap="242" id="b242-7">2. Master and servant—what not assumed risk. A servant does not assume a danger of which he has no knowledge or means of knowledge; risk of injury through the negligent order of a foreman is not assumed by the servant.</headnotes>
+              <headnotes pgmap="242" id="b242-8">3. Master and servant—how question of assumed risk deter­mined. Where the evidence is conflicting the question whether the risk is assumed is to be determined by the jury.</headnotes>
+              <headnotes pgmap="242" id="b242-9">4. Verdict—when not excessive. A verdict, of $3,000 rendered in an action for personal injuries is not excessive where it appears that the plaintiff’s arm was broken and his wrist dislocated, that he suffered pain, incurred expense in being treated, lost two months’ time and the use of three fingers of his right hand, it appearing that such plaintiff was a structural iron workman earn­ing $4.85 per day prior to the accident.</headnotes>
+              <opinion type="majority">
+                <author pgmap="242" id="b242-13">Mr. Justice Willis</author>
+                <p pgmap="242" id="AdI">delivered the opinion of the court.</p>
+                <p pgmap="242(51) 243(309)" id="b242-14">In October, 1906, the Kelly-Atkinson Construction Company, appellant, was erecting a steel railroad bridge in the city of Chicago, near which were two railroad tracks running east and west, elevated from six to eight feet. The completion of the bridge neces­sitated the erection of a wooden tower, the timbers for which, were brought on cars and thrown off on the outside of the south track, and when needed were lifted by a line which ran through a pulley fixed to the tower of the bridge about 60 feet above the center of the south track. The line was fastened about the mid­dle of the timber and operated by an engine called a “nigger head,” which stood on a level with the rail­road tracks. The timbers had to be moved from the ground to the tower without obstructing certain trains. On October 26,1906, while appellee and three of appel­lant’s other employes, including Brown the foreman, were removing a timber twelve by twelve and thirty feet long, from the ground to the tower, an approaching train necessitated their placing it between two tracks tem­porarily. The space between the tracks was seven or eight feet wide, in which was a depression of two or three feet, across which a timber three by ten, or four by eight, had been laid, the ends resting upon the earth at the edge of the tracks. In moving the timber over between the tracks it was raised two or three feet. Two men took hold of one end, swung it around be­tween the tracks and rested their end on the deck of the bridge. Appellee took hold of the other end, swung it over between the tracks,, by pushing against it with his hands and breast, when Brown, the foreman signalled “all off” to the man at the “nigger head,” and the machinery was released, and the timber dropped on the cross piece, which broke, and appellee fell into the depression with the end he was breasting in such a way that the weight of his body caused a frac­ture of his left arm and the dislocation of his wrist.</p>
+                <p pgmap="243(75) 244(233)" id="b243-5">On March 26, 1907, he brought this suit in the Cir­cuit Court of Will county to recover damages for such injuries. The original declaration consisted of one count which averred that when appellee was in­jured he was engaged in moving a timber for appellant which had been raised by machinery under the direc­tion of appellant’s foreman and vice principal, and while he ■’was pushing on the timber close to or over a certain excavation the foreman negligently ordered the machinery to be instantly released without warning to appellee, thereby causing the timber to drop, and that by reason of such negligence appellee was injured. The declaration did not allege that the foreman was not a fellow-servant of appellee, and omitted all refer­ence to the cross piece which broke and caused the timber to fall into the depression. There was a plea of not guilty, and a verdict for appellee for $5000. A motion for a new trial was made. Thereafter, by leave of court, over appellant’s objection, appellee filed an additional count which averred that the plank, three by ten, placed over the depression to hold the timbers was of insufficient strength to hold said timber, and that said foreman well knew or should have known it was dangerous and unsafe to drop said timber upon said plank in the position appellee was standing, and that the timber, together with appellee, fell into said excavation, breaking through said plank, and that be­cause of said negligence in ordering said machinery released and said beam to be dropped, appellee was in­jured. On the argument of the motion for a new trial the court required appellee to remit $2000 from the verdict, which was done. The motion for a new trial was denied, judgment was entered on the verdict for $3000 and the company appealed.</p>
+                <p pgmap="244(136) 245(168)" id="b244-5">It is urged that there can be no recovery because Brown, in giving the “all off” signal was not perform­ing the act of a vice principal, but that of a fellow-­servant. All the witnesses testified that he was appel­lee’s foreman, and no objection was made to such testi­mony. The proof shows that he gave orders to ap­pellee and to the man in charge of the “nigger head,” relative to handling the timber, and also that he fre­quently worked with the men in handling the timbers. The question whether Brown at the time of the acci­dent was a vice principal or a fellow-servant was one of fact for the jury. Goldie v. Werner, 151 Ill. 551; C. &amp; E. I. R. R. Co. v. Driscoll, 176 Ill. 330. Although he was acting in a dual character, the question whether the particular act of signalling the man in charge of the nigger head “all off” was the act of a fellow-serv­ant of appellee, was also a question of fact for the jury. Mobile &amp; Ohio Co. v. Massey, 152 Ill. 144, C. &amp; E. I. R. R. Co. v. Driscoll, supra. If the timber was dropped by reason of the authority which Brown exer­cised as vice principal, the fact that he worked with appellee and the other men more or less did not exoner­ate the master from liability for the former’s negli­gence in the exercise of his authority over the others. Chicago &amp; Alton R. R. Co. v. May, 108 Ill. 288; Pitts­burg Bridge Co. v. Walker, 170 Ill. 550; Offutt v. World’s Columbian Exposition, 175 Ill. 472; Metropoli­tan West Side Elevated Railroad Co. v. Skola, 183 Ill. 454; Norton v. Nadebok, 190 Ill. 595; Graver Tank Works v. O’Donnell, 191 Ill. 236.</p>
+                <p pgmap="245" id="b245-5">It is argued that appellee assumed the risk. The evi­dence shows that an “all off” order had never before been given at that place under such circumstances. One of the first principles of the assumption of risk is knowledge of the danger. Appellee could have no knowledge that he would be subjected to danger through a negligent order of the foreman. Whether he assumed the risk or not was also a question of fact for the jury.</p>
+                <p pgmap="245" id="b245-6">The original count averred negligence in giving the order “all off” which meant to let the timber fall in­stantaneously. The additional count was based on the proposition that the plank across the depression was of insufficient strength if the timber dropped thereon sud­denly, and for that reason it was negligence to cause the timber to be suddenly dropped. We are of the opinion that the judgment on the question of appel­lant’s liability can be sustained under the original declaration. If the additional count was necessary to constitute a cause of action its averments were not at variance with the evidence introduced on the trial, and it was proper to permit it to be filed.</p>
+                <p pgmap="246" id="b246-4">It is argued that the damages are excessive even after the remittitur of $2000 ordered by the trial court. The evidence is undisputed that appellee’s arm was broken and wrist dislocated. He suffered pain and in­curred some expense in being treated and lost two months time and had lost the use of three fingers of his right hand. He was a structural iron workman, earning $4.85 per day, previous to the accident. His ability to do portions of his former work must neces­sarily be somewhat impaired. A doctor, after an exam-' ination of appellee at the time of the trial, testified that the condition of the hand might or might not be re­lieved by an operation, and that for any work requir­ing the skilful use of both hands, the injured hand was practically worthless. It is true that the evidence does show that appellee had, at times since the injury, earned nearly as much money as he did before, but it was not at his regular employment.</p>
+                <p pgmap="246" id="b246-5">The judgment is affirmed.</p>
+                <p pgmap="246" id="b246-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="242" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jp2_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.1" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.2" BETYPE="IDREF" FILEID="alto_00121_1"/>
+              <area BEGIN="BL_242.3" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="243" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jp2_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.2" BETYPE="IDREF" FILEID="alto_00122_0"/>
+              <area BEGIN="BL_243.4" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="244" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jp2_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.2" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.3" BETYPE="IDREF" FILEID="alto_00122_1"/>
+              <area BEGIN="BL_244.4" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.2" BETYPE="IDREF" FILEID="alto_00123_0"/>
+              <area BEGIN="BL_245.4" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+              <area BEGIN="BL_246.3" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.9" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.8" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.5" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdI" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.18" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_242.19" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.6" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.5" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.4" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.7" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.6" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.6" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.5" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-14" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.20" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_243.1" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-11" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.15" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.10" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_242.11" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-13" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.17" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFu" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.14" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALZ" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.13" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnM" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.12" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.5" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            <area BEGIN="BL_244.1" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-12" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.16" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

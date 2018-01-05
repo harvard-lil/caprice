@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0023" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Spier v. Douglas Mutual Benefit &amp; Aid Society">Solomon Spier, Appellee, v. Douglas Mutual Benefit &amp; Aid Society, Appellant</name>
+          <docketnumber>Gen. No. 14,138</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 195</citation>
+          <decisiondate>1908-10-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="93d5e9f7f1e75d20197364e5815fdb23" CHECKSUMTYPE="MD5" SIZE="47410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="065a39d6d07e42d1857cb9538edc9b85" CHECKSUMTYPE="MD5" SIZE="52014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="288688a277bb3107b8084599207e3f65" CHECKSUMTYPE="MD5" SIZE="45786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="5b21379100a546ec7e3c11d8d1db77c0" CHECKSUMTYPE="MD5" SIZE="42878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00107_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="f6e351079c064cb2a610383ea718963e" CHECKSUMTYPE="MD5" SIZE="2364649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="b9bd8c514cf8b0c21b7593d08fc2d709" CHECKSUMTYPE="MD5" SIZE="2368074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="0699faad741feef42b04b93f29e69815" CHECKSUMTYPE="MD5" SIZE="2370357">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="03f2f870fdc6f3f8ae1d7c67b4d17b58" CHECKSUMTYPE="MD5" SIZE="2295155">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00107_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="579769f69c149ae7250d2b9a90541ac2" CHECKSUMTYPE="MD5" SIZE="79012">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="ce73120ea60e8ae12e236b24e3b49e24" CHECKSUMTYPE="MD5" SIZE="83327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="9a5211eafc57ac541a809b29e42dc992" CHECKSUMTYPE="MD5" SIZE="77326">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="a6d199150e65f8dca728fc5aa683f10a" CHECKSUMTYPE="MD5" SIZE="73587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00107_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="198" firstpage="195">
+              <docketnumber pgmap="211" id="b211-4">Gen. No. 14,138.</docketnumber>
+              <parties pgmap="211" id="b211-3">Solomon Spier, Appellee, v. Douglas Mutual Benefit &amp; Aid Society, Appellant.</parties>
+              <decisiondate pgmap="211" id="AyK">Opinion filed October 20, 1908.</decisiondate>
+              <otherdate pgmap="211" id="A0J">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <attorneys pgmap="213" id="b213-4">Carl A. Vogel and Millard E. Powers, for appel­lant.</attorneys>
+              <attorneys pgmap="213" id="b213-5">Frank F. Aring, for appellee.</attorneys>
+              <summary pgmap="211" id="b211-6">Mandamus. Appeal from the Circuit Court of Cook county; the Hon. Richaed S. Tuthill, Judge, presiding.</summary>
+              <disposition pgmap="211" id="AfGG">Affirmed.</disposition>
+              <headnotes pgmap="211" id="b211-5">Fraternal, benefit society—when expulsion of member illegal. The expulsion of a memhel- of a fraternal benefit society is illegal if predicated upon the alleged fraud of the member in obtaining money to which he was not entitled where a final judgment estab­lishing his right to the collection of such money has been obtained by him.</headnotes>
+              <p pgmap="211" id="b211-7">Statement by tie Court. Appellee filed in Ms own name a petition against appellant for a writ of man­damus commanding’ appellant to restore Mm to mem­bership in the defendant society. Defendant filed its answer to the petition, to which petitioners demurred. The court sustained the demurrer and ordered that a writ of mandamus issue, and the defendant appealed. The answer avers that the petitioner claimed to be en­titled to sick benefits at the rate of $5 per week during the months of September and October, 1906; sets out the by-laws of the defendant relating to the payment of sick benefits; avers that the petitioner did not comply with the requirements of the by-laws in certain par­ticulars, and avers:</p>
+              <p pgmap="211(89) 212(31)" id="b211-8">“That, notwithstanding the failure of said peti­tioner to submit such reports and his obligation to ■comply with the provisions of the by-laws of the de­fendant, the said petitioner brought suit against the defendant before Bobert L. Campbell, a justice of the peace, having an office at 1159 West North avenue, Chicago, who was publicly known as one of the jus­tices of the peace in Cook county, who always entered judgment in favor of those bringing suits before him; and thereby obtained judgment for fifteen dollars and costs, notwithstanding the attempt made by this de­fendant to obtain a fair hearing upon the merits of said suit, which judgment the defendant was compelled to and did pay immediately.</p>
+              <p pgmap="212" id="b212-5">“That the petitioner, by such procedure, obtained money from the defendant which was not justly due him; and also caused the impression to be created in the minds of the members and the public that the de­fendant did not pay its just obligations, and thereby become amenable to the said by-laws, and the penalties therein prescribed. That on December 12, 1906, the defendant served a notice upon the petitioner, a copy of which is set forth in his petition at pages four and five thereof.</p>
+              <p pgmap="212" id="b212-6">“5. That on the 19th day of December, 1906, a trial was duly had before a Trial Committee of Section 2 of the defendant. That the petitioner was present and made no objection to such trial proceeding, but, on the contrary, attempted to defend against such charges, as alleged in said petition. That said Trial Committee reported to said Section 2, adversely to said petitioner, and the membership of said Section 2 thereupon voted to expel the petitioner from the de­fendant.</p>
+              <p pgmap="212" id="b212-7">“That the petitioner thereupon took an appeal to the Board of Directors of the defendant, which Board ordered said Section to give the petitioner, an oppor­tunity to be heard, or to defend himself, upon said charges, and to thereafter take a vote upon the guilt or innocence of the petitioner and the penalty. That such hearing and vote was had; and'after the peti­tioner had appeared and made his defense, a vote was taken by the members of Section 2 which was for the expulsion of petitioner from defendant. That the pe­titioner did not take any further appeal, or make other objection to the procedure in the defendant society.</p>
+              <p pgmap="212(26) 213(75)" id="b212-8">“6. The defendant avers that said by-laws were enacted, and were enforced against the petitioner, for the protection of the funds of the defendant from un­just claims, and were and are reasonable, and were and are necessary for suck purpose. That the sum of money so obtained by petitioner was not justly due him; and that by resorting to such procedure and ignoring the provisions of the by-laws of the defend­ant, the petitioner was able and did perpetrate a fraud upon the defendant and the membership thereof, and that because thereof the defendant took the action above set forth.”</p>
+              <opinion type="majority">
+                <author pgmap="213" id="b213-6">Mr. Justice Baker</author>
+                <p pgmap="213" id="ACg">delivered the opinion of the court.</p>
+                <p pgmap="213" id="b213-7">No objection to the judgment has been made on the ground that the applicant for the mandamus was made in the name of the petitioner, and not in the name of The People on his relation.</p>
+                <p pgmap="213" id="b213-8">The grounds of reversal urged are: “because appel­lee had not exhausted, by appeal, his remedies within the society; and because it appears by the record that the society had jurisdiction over the person of the ap­pellee, the cause of action against him, viz: obtaining money in violation of the statute under which the so­ciety was incorporated, and the by-laws of the order, and the fair manner in which he was tried.”</p>
+                <p pgmap="213(98) 214(88)" id="b213-9">The petition avers that petitioner was expelled from the defendant society March 6, 1907, by a vote of the members of section 2. Whether he had a right of ap­peal from such action to the board of directors de­pended on whether there was then in force a provision of the constitution or by-laws of the society for such appeal. No such provision of either the constitution or by-laws is set out in the answer, nor is there any averment that any such provision was in force March 6, 1907. The averment in the answer that petitioner appealed from the vote taken hy this section December 19, 1906, expelling him from the society, and that the board of directors took action on such appeal, cannot be held to amount to an averment that there was in force March 6, 1907, a provision of the constitution or by-laws for an appeal from the action of section 2 to the board of directors. The objection that the judg­ment is erroneous because appellee had not exhausted by appeal his remedy within the society cannot be sus­tained.</p>
+                <p pgmap="214" id="b214-5">The judgment of the justice of the peace set out in the answer is an adjudication conclusive upon the defendant that the petitioner was entitled to a sick benefit from the defendant. With that judgment in force we do not think that the defendant society could lawfully expel the petitioner on the ground that hy means of such judgment petitioner had obtained money from the defendant which was not justly due to him.</p>
+                <p pgmap="214" id="b214-6">We think the Circuit Court did not err in sustaining the demurrer to the answer and ordering a writ of mandamus to issue, and the judgment will be affirmed.</p>
+                <p pgmap="214" id="b214-7">Affirmed.</p>
+                <p pgmap="214" id="b214-8">Mr Justice Chytraus took no' part in the decision of this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="211" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.1" BETYPE="IDREF" FILEID="alto_00106_0"/>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.3" BETYPE="IDREF" FILEID="alto_00106_1"/>
+              <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.2" BETYPE="IDREF" FILEID="alto_00107_0"/>
+              <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.3" BETYPE="IDREF" FILEID="alto_00107_1"/>
+              <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.14" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.10" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.7" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.6" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACg" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.8" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_213.9" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.7" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_211.8" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.15" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyK" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.12" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_211.13" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.12" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.11" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfGG" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.11" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-3" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0J" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.9" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_211.10" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.7" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.8" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.6" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.7" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.5" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

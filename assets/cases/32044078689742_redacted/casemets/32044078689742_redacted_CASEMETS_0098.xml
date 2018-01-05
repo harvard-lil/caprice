@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0098" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Wiemer v. Temple">John Wiemer, Defendant in Error, v. George W. Temple, Plaintiff in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 498</citation>
+          <decisiondate>1908-11-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00258_1" MIMETYPE="image/tiff" CHECKSUM="4badb63d55c170f280a65f39773a6fe6" CHECKSUMTYPE="MD5" SIZE="42112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00258_1.tif"/>
+      </file>
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="a3790e2188ad47e5f429c8e88e29de79" CHECKSUMTYPE="MD5" SIZE="54092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="c22ca330bcd45a630c2c1060d6be9fcf" CHECKSUMTYPE="MD5" SIZE="53938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00259_1.tif"/>
+      </file>
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="00a5bdb224bf795cb5a513da543f0755" CHECKSUMTYPE="MD5" SIZE="53624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="3b5b9de8f0d503fb16b8cdfd3ad55578" CHECKSUMTYPE="MD5" SIZE="43292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00258_1" MIMETYPE="image/jp2" CHECKSUM="befde6f96b7f43f24f80a760c9432470" CHECKSUMTYPE="MD5" SIZE="2374845">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00258_1.jp2"/>
+      </file>
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="e226141bf5ba24cea631045b94c437a6" CHECKSUMTYPE="MD5" SIZE="2532856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00259_0.jp2"/>
+      </file>
+      <file ID="jp2_00259_1" MIMETYPE="image/jp2" CHECKSUM="2dda5ab094f67c23e434000b009ced67" CHECKSUMTYPE="MD5" SIZE="2457113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00259_1.jp2"/>
+      </file>
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="877f4e4df41f3f071c75e3ef6077def0" CHECKSUMTYPE="MD5" SIZE="2509705">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_0.jp2"/>
+      </file>
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="72caa0dd11614afd21b01c3865701348" CHECKSUMTYPE="MD5" SIZE="2339171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00260_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00258_1" MIMETYPE="text/xml" CHECKSUM="4165b41c4efd78b6167e3a996061c386" CHECKSUMTYPE="MD5" SIZE="75652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00258_1.xml"/>
+      </file>
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="45aff12b3929384eb819ee54a8387ffb" CHECKSUMTYPE="MD5" SIZE="83327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00259_0.xml"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml" CHECKSUM="d550a212ea053b40dbd4b4f07f94ff26" CHECKSUMTYPE="MD5" SIZE="91625">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00259_1.xml"/>
+      </file>
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="be3e0de1b777cff472c39197df482304" CHECKSUMTYPE="MD5" SIZE="89472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00260_0.xml"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="e7fce68ab22a914e8b40e4ed06b88e2d" CHECKSUMTYPE="MD5" SIZE="76277">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00260_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0098" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="502" firstpage="498">
+              <parties id="b516-4" pgmap="516">John Wiemer, Defendant in Error, v. George W. Temple, Plaintiff in Error.</parties>
+              <decisiondate id="AEe" pgmap="516">Opinion filed November 24, 1908.</decisiondate>
+              <attorneys id="b516-10" pgmap="516">Miles K. Young and Ed Peirce, for plaintiff in error.</attorneys>
+              <attorneys id="b516-11" pgmap="516">Hart &amp; Fleming, for defendant in error.</attorneys>
+              <summary id="b516-9" pgmap="516">Replevin. Error to the County Court of McLean county; the Hon. Rolland A. Russell, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AC9" pgmap="516">Reversed and remanded.</disposition>
+              <headnotes id="b516-6" pgmap="516">1. Replevin—upon what recovery must he predicated. A plaint­iff in replevin can only recover upon the strength of his own title and the burden is upon him to establish his right.</headnotes>
+              <headnotes id="b516-7" pgmap="516">2. Instructions—must not ignore material issue. An instruc­tion which concludes with a direction to find a verdict one way or another, must not exclude from consideration any material issue of the case.</headnotes>
+              <headnotes id="b516-8" pgmap="516">3. Instructions—must he predicated upon the evidence. In­structions are improper where their hypotheses are unsupported by evidence in the cause.</headnotes>
+              <opinion type="majority">
+                <author id="b516-12" pgmap="516">Mr. Presiding Justice Puterbaugh</author>
+                <p id="Ago" pgmap="516">delivered the opinion of the court.</p>
+                <p id="b516-13" pgmap="516">This is an action in replevin by John Wiemer against George W. Temple for the recovery of the pos­session of a lot of household goods and furniture, the title to which is claimed by Weimer by virtue of a bill of sale from one Albert Henninger. A trial by jury resulted in a verdict and judgment in favor of Wie­mer, whereupon Temple sued out this writ of error. The declaration charges the wrongful taking and detention of the property. The pleas upon which issue was joined were of property in the defendant in Albert Henninger and that the chattel-s were held by the de­fendant in pledge.</p>
+                <p id="b516-14" pgmap="516(26) 517(324)">There is evidence tending to show the following facts: One William K. Bracken owned a house and lot in Normal, Illinois, which was subject to mortgages aggregating $3,250, together with certain household furniture used therein. The premises were occupied by Temple and were used as a boarding house under a contract with Bracken by the terms of which Temple was authorized if the opportunity. arose to sell the property, both real and personal, for $6,500. In the event of his being able to do so he was to receive as commissions - the sum of $300. Albert Henninger was a real estate broker and had in his hands for sale a farm of 120 acres in Mason county, Illinois, which he was authorized by the owner, George Henninger, his uncle, to-sell at $75 an acre, his commissions to be $1 an acre. The farm was heavily encumbered by mort­gages and George Henninger was otherwise indebted to practically the full value of the equity of redemp­tion. Negotiations for the exchange of the two prop­erties were begun between Albert Henninger and Temple acting for the respective owners. Such ef­forts were unsuccessful and arrangement was there­upon entered into between all the parties including Temple, whereby George Henninger was to deed his farm to Albert Henninger upon condition that Albert and Temple would furnish such sum as might be necessary to pay the unsecured indebtedness of George Henninger; that upon such conveyance the farm should be .traded to Bracken for the Normal property and furnishings. Temple claimed that it was agreed •between him and Albert Henninger that the property so acquired by them should be owned by them equally; that the title to the Normal real estate was to be con­veyed to and held by Henninger, and that the title to and the possession of the furnishings should remain in Temple until such time as the entire property could be sold to advantage, when upon an accounting be­tween them Temple was to be charged with one-half of the money advanced by Henninger in futherance of the deal.</p>
+                <p id="b517-5" pgmap="517(17) 518(210)">Henninger contends that no such agreement was made but that prior to the consummation of the trade he made a conditional offer of sale to Temple of one-­half interest in the property; that Temple had never accepted the same or made payment for such interest and that after having made repeated efforts to induce Temple to comply with such conditional sale, he sold the property to defendant in error. Be that as it may, the farm was thereafter conveyed to Albert Henninger who exchanged the same with Bracken for the city property. A bill of sale for the furnishings was made to Henninger and delivered to Temple who remained in possession of the property and continued to use the same in connection with the boarding house until the issuance of the writ herein. At the time when the deed and the bill of sale were delivered Temple, who was sick and unable to be present, wrote to Albert Hennin­ger saying: “In regard to the Normal deal I will say that you had better send me a written statement as to my half interest in that property and after the deal is closed you can give me a deed to a half interest in the equity.” In reply Henninger wrote a letter to Temple which was introduced in evidence as “Exhibit A” and reads as follows:</p>
+                <p id="b518-5" pgmap="518">“Mason City, Illinois, June 21, 1906. George W. Temple, Esq., Bloomington, Illinois,</p>
+                <p id="b518-6" pgmap="518">Dear Sir: I hereby acknowledge that you have an undivided one-half interest in the residence property situated at 306 West Ash Street, Normal, Illinois, and in the furnishings within said residence itemized in a certain bill of sale made to me by W. K. Bracken, that I shall execute a warranty deed to you at such time as a settlement is made of such amount as shall be due me in the acquiring of the property above. To fully protect you I shall have deed made out at once to be delivered to you in case of my death upon a proper accounting. Tours very truly, A. E. Henninger.”</p>
+                <p id="A0-" pgmap="518(45) 519(31)">Some time thereafter a settlement was had between Bracken and Temple of their accounts, growing out of the joint operation of the boarding house, in which Bracken allowed Temple credit for $100 upon a bal­ance found to be due him from Temple. On December 1, 1906, Henninger sold the premises and furnishings to Wiemer, the defendant in error. Temple refused to deliver possession either of the house or furnishings, whereupon Wiemer instituted the present action.</p>
+                <p id="b519-5" pgmap="519">It will be seen that the issue as to the title and right to possession of the property replevied at the time of the issuance of the writ was the controlling one in the case, for under Temple’s version of the contract he being at the time the owner of an undivided one-half of the property was a tenant in common with Hennin­ger of the same and his possession was that of both, in which case replevin would not lie even at the suit of Henninger. Cobby on Replevin, sec. 231. It was es­sential under the pleadings that defendant in error should recover on the strength of his own title and the burden was upon him to establish his right. Pease v. Ditto, 189 Ill. 456. His title, if any, was derived solely from Henninger and was no better.</p>
+                <p id="b519-6" pgmap="519(195) 520(119)">Conceding that the original agreement was as con­tended by Henninger, “Exhibit A” tended to show a waiver of the alleged condition that the title was not to pass until the consideration was paid. By the second and third of plaintiff’s instructions the court told the jury that if they believed from the evidence that the terms of the contract were as insisted by Henninger before Temple could claim his goods under such con­tract it was necessary that he should have paid or ten­dered the consideration to Henninger, and unless they believed that he did so pay or tender the consideration, no title passed to him by virtue of said contract and their verdict should be for the plaintiff. Such instruc­tion while directing a verdict ignored the question of waiver and was erroneous. By the 7th and 9th in­structions the court further directed the jury that if Temple without the knowledge of Henninger received or was to receive either directly or indirectly any com­pensation from Bracken for services in the trade, then his claim on the property was illegal and invalid. Bracken testified that he told Temple that the contract between them for commissions did not apply to an exchange of the property and that he would pay no commissions and for Temple to get his compensation from the other party. He further testified that he gave Temple the credit for $100 upon his account vol­untarily and not as commissions; that Temple had lost money and was in debt to him by reason of having operated the boarding house, and that the credit was in the nature of a gift. Temple testified to the same effect and further that he did not expect any commis­sions from Bracken. Under the foregoing evidence the court was not warranted in giving the last mentioned instructions which doubtless misled the jury.</p>
+                <p id="b520-4" pgmap="520">For the errors indicated the judgment of the circuit court must be reversed and the cause remanded.</p>
+                <p id="b520-5" pgmap="520">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="516" ORDERLABEL="498" TYPE="page">
+        <fptr FILEID="tiff_00258_1"/>
+        <fptr FILEID="jp2_00258_1"/>
+        <fptr FILEID="alto_00258_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.1" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.2" BETYPE="IDREF" FILEID="alto_00258_1"/>
+              <area BEGIN="BL_516.3" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="517" ORDERLABEL="499" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.2" BETYPE="IDREF" FILEID="alto_00259_0"/>
+              <area BEGIN="BL_517.4" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="500" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jp2_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.2" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.3" BETYPE="IDREF" FILEID="alto_00259_1"/>
+              <area BEGIN="BL_518.4" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="519" ORDERLABEL="501" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.3" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.2" BETYPE="IDREF" FILEID="alto_00260_0"/>
+              <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="502" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.2" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.3" BETYPE="IDREF" FILEID="alto_00260_1"/>
+              <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-8" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.7" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.8" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_516.9" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.5" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.6" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEe" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.11" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_516.12" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.5" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.6" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_520.1" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.5" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_518.1" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-4" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.4" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0-" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.7" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_519.1" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-6" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.5" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-7" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.6" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-12" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.15" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-13" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.18" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-10" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.13" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-11" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.14" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ago" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.16" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_516.17" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b516-14" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.19" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            <area BEGIN="BL_517.1" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-4" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.5" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-5" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.6" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC9" BETYPE="IDREF" FILEID="casebody_0098"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_516.10" BETYPE="IDREF" FILEID="alto_00258_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

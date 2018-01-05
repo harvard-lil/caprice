@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0060" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Godzicka v. Krolik">Marianna Godzicka, Appellee, v. Thomas Krolik, Ap­pellant</name>
+          <docketnumber>Gen. No. 14,168</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 468</citation>
+          <decisiondate>1908-11-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00242_1" MIMETYPE="image/tiff" CHECKSUM="093ba8acc4f3f4a4c1223a9e47e35917" CHECKSUMTYPE="MD5" SIZE="44996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00242_1.tif"/>
+      </file>
+      <file ID="tiff_00243_0" MIMETYPE="image/tiff" CHECKSUM="399b7ecec99e4b6104b3045b44870716" CHECKSUMTYPE="MD5" SIZE="45826">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00243_0.tif"/>
+      </file>
+      <file ID="tiff_00243_1" MIMETYPE="image/tiff" CHECKSUM="f2e2e9ae47a32d708c41c02ed08d1e32" CHECKSUMTYPE="MD5" SIZE="47872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00243_1.tif"/>
+      </file>
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="635e8dcac010815b1e257165cc34e363" CHECKSUMTYPE="MD5" SIZE="51276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00244_0.tif"/>
+      </file>
+      <file ID="tiff_00244_1" MIMETYPE="image/tiff" CHECKSUM="dce0b66cc754bfab91586e785f3aa43a" CHECKSUMTYPE="MD5" SIZE="44280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00244_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00242_1" MIMETYPE="image/jp2" CHECKSUM="65d7ebaab018426d43a9443dd61f6ca2" CHECKSUMTYPE="MD5" SIZE="2287525">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00242_1.jp2"/>
+      </file>
+      <file ID="jp2_00243_0" MIMETYPE="image/jp2" CHECKSUM="3e3e705688038ee1f8f466e940211aa8" CHECKSUMTYPE="MD5" SIZE="2361745">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00243_0.jp2"/>
+      </file>
+      <file ID="jp2_00243_1" MIMETYPE="image/jp2" CHECKSUM="8ed4284d0504cbd42bf83d64846bf3f0" CHECKSUMTYPE="MD5" SIZE="2333393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00243_1.jp2"/>
+      </file>
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="2ccb9a776445f4f20a10dfe98fc8b766" CHECKSUMTYPE="MD5" SIZE="2400674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00244_0.jp2"/>
+      </file>
+      <file ID="jp2_00244_1" MIMETYPE="image/jp2" CHECKSUM="49b00350856f8726d232f3efa7fd7587" CHECKSUMTYPE="MD5" SIZE="2272274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00244_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00242_1" MIMETYPE="text/xml" CHECKSUM="48da70a71fa9ae9f443cbe89c49e8f1c" CHECKSUMTYPE="MD5" SIZE="75440">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00242_1.xml"/>
+      </file>
+      <file ID="alto_00243_0" MIMETYPE="text/xml" CHECKSUM="d437aae8b314235598584c66a88602cf" CHECKSUMTYPE="MD5" SIZE="79620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00243_0.xml"/>
+      </file>
+      <file ID="alto_00243_1" MIMETYPE="text/xml" CHECKSUM="64670ab6c3806a238705093bfaa6ad11" CHECKSUMTYPE="MD5" SIZE="83200">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00243_1.xml"/>
+      </file>
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="083d6b7406038eab7cb087094b7a2526" CHECKSUMTYPE="MD5" SIZE="85718">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00244_0.xml"/>
+      </file>
+      <file ID="alto_00244_1" MIMETYPE="text/xml" CHECKSUM="cbff5e7bf4db8f4f6420c0b7a2057ddd" CHECKSUMTYPE="MD5" SIZE="83226">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00244_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="472" firstpage="468">
+              <docketnumber pgmap="484" id="b484-8">Gen. No. 14,168.</docketnumber>
+              <parties pgmap="484" id="b484-7">Marianna Godzicka, Appellee, v. Thomas Krolik, Ap­pellant.</parties>
+              <decisiondate pgmap="485" id="ARg">Opinion filed November 6, 1908.</decisiondate>
+              <otherdate pgmap="485" id="ARy">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <attorneys pgmap="485" id="b485-4">Horton, Brown &amp; Miller, for appellant.</attorneys>
+              <attorneys pgmap="485" id="b485-5">R. Wilson More, for appellee.</attorneys>
+              <summary pgmap="485" id="b485-3">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Samuel C. Stough, Judge, presid­ing.</summary>
+              <disposition pgmap="485" id="AqO">Affirmed.</disposition>
+              <headnotes pgmap="484" id="b484-9">1. Verdict—when not disturbed as against the evidence. A ver­dict is final on a question of fact unless it is palpably against the clear weight and preponderance of the evidence.</headnotes>
+              <headnotes pgmap="484" id="b484-10">2. ' Instructions—need not contain repetitions. A correct in­struction may properly be refused if its substance is contained in another given.</headnotes>
+              <opinion type="majority">
+                <author pgmap="485" id="b485-6">Mr. Presiding Justice Smith</author>
+                <p pgmap="485" id="A3M">delivered the opinion of the court.</p>
+                <p pgmap="485" id="b485-7">Appellee, Marianna Godzicka, brought action in the Superior Court against appellant, Krolik, to recover damages for personal injuries sustained by her in falling upon a walk on the premises of appellant, caused, as it is claimed, by the defective condition of the walk. Appellee had judgment for $500 which appellant seeks to reverse on two grounds: first, that the verdict is against the weight of the evidence; and second, the court erred in refusing to give certain instructions re­quested by appellant.</p>
+                <p pgmap="485" id="b485-8">It appears that appellant was in July, 1905, • the owner of premises known as No. 607 Holt avenue, Chicago, which were improved and were rented to divers tenants. Appellee had lived in a rear house on the premises prior to the time of the alleged in­jury about ten months. The only means of ingress and egress which she had to and from the premises occupied by her was over the walk in question. While walking over the walk, a board broke under appellee’s foot and her foot and leg went into the hole to a point just below the knee and she fell upon the walk, injur­ing her leg and hip, and her head struck against the brick wall of the building.</p>
+                <p pgmap="485(46) 486(11)" id="b485-9">Upon a review of the evidence in the record bear­ing on the question of the condition of the sidewalk, we find that seven witnesses, including appellee, tes­tified to its dangerous condition. Appellee testified that a board broke under her and her foot and leg went through; that the boards were loose and some were rotten.</p>
+                <p pgmap="486" id="b486-5">The witness Zwiziak, who lived in the front part of the premises six months and moved from there on May 3, 1905, says that most of the boards from the center of the building to the front were decayed and loose, the heads of the nails being sunk almost through the boards; that he nailed down one of the boards himself some time in April, and that he notified the agent of the condition of the walk.</p>
+                <p pgmap="486" id="b486-6">Antoine 'Maciejewski, who lived in the front part of the premises about six months and used the walk, testified that the walk was rotten and shaky, and that she saw the hole where appellee fell; that the board was broken and was old and rotten, and the hole *was large because the board was wide.</p>
+                <p pgmap="486" id="b486-7">John Godzicka, husband of appellee, testified to sub­stantially the facts just stated above.</p>
+                <p pgmap="486" id="b486-8">Joseph Luzak, who lived in the premises, testified that the boards of the walk were loose and rotten, and that he helped to make repairs on the walk shortly before the accident.</p>
+                <p pgmap="486" id="b486-9">Mary Brzicki testified that she lived in the rear house of the premises nearly two years with her hus­band and family; that there were loose and decayed boards in the walk, and the stringers were decayed, and that the walk had been in that condition a long­time, and that she notified appellant’s agent of the condition of the walk.</p>
+                <p pgmap="486" id="b486-10">Martin Godzicka saw the hole the night of the day of the accident. The board was from four to six inches wide and “it broke right down through”. “It was an old board and rotten on the bottom”.</p>
+                <p pgmap="486" id="b486-11">This was in substance the testimony on behalf of appellee. Appellant called four witnesses as to the condition of the sidewalk. Koristan says he passed over the walk in July, 1905, and did not see any broken or rotten boards.</p>
+                <p pgmap="486(8) 487(170)" id="b486-12">Pallasch, appellant’s agent, says he passed over the walk probably thirty times in June, 1905, and there were no rotten boards. Wroblaski, employed by Palí­asela as a carpenter and repairer, was at the premises a few days after a cement sidewalk was laid in front of the premises in. July, 1905, and did not see any broken or loose boards, or any holes; he did not pay any attention to it. Gwizela, also employed by ap­pellant’s agent as carpenter and repairer, was work­ing on the property six days in July, 1905, and passed over the walk three or four times a day. He says there were no broken or rotten or loose boards; they were all made fast between July 4th and July 20th; that every repair necessary was made. Bessie Schmelcer says the walk was in perfect condition. Valerian Palí­asela, daughter of appellant’s agent, testified that she went over the walk two or three times a month and there were no broken boards and it did not shake as one walked over it.</p>
+                <p pgmap="487" id="b487-4">It is manifest from this testimony that there is a sharp conflict between the witnesses for appellee and those called by appellant. The verdict of the jury must be final on such a question unless it is palpably against the clear weight and preponderance of the evi­dence. We find no ground in this record for holding that the vei'dict is against the weight of the evidence.</p>
+                <p pgmap="487" id="b487-5">In so holding we have not overlooked the contention of appellant that the testimony in support of appel­lee’s case is conflicting; nor have we failed to give due weight to the testimony of the physicians, particularly as to finding no injury upon examinations made by them. But the question of the injury received by ap­pellee, if any, was for the jury to determine, and we cannot say that its verdict is palpably wrong on the evidence.</p>
+                <p pgmap="487" id="b487-6">Errors are assigned upon the refusal of the court to give instructions numbered respectively 15, 22 and 27.</p>
+                <p pgmap="487(18) 488(79)" id="b487-7">The first instruction given at the request of ap­pellant covered the entire case presented by the plead­ings and the evidence. It embraced substantially every rule of law expressed in the refused instructions. The substance of refused instruction No. 15 is con­tained in given instruction No. 1. Refused instruc­tion No. 22 is covered by given instruction No. 1 and by given instruction No. 9. Refused instruction No. 27 is fully covered by given instructions Nos. 1 and 13. We find, therefore, no error in the refusal of the court to give the instructions named.</p>
+                <p pgmap="488" id="b488-5">Finding no error in the record, the judgment is af­firmed.</p>
+                <p pgmap="488" id="b488-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="484" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00242_1"/>
+        <fptr FILEID="jp2_00242_1"/>
+        <fptr FILEID="alto_00242_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.1" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.2" BETYPE="IDREF" FILEID="alto_00242_1"/>
+              <area BEGIN="BL_484.3" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="485" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00243_0"/>
+        <fptr FILEID="jp2_00243_0"/>
+        <fptr FILEID="alto_00243_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.1" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.2" BETYPE="IDREF" FILEID="alto_00243_0"/>
+              <area BEGIN="BL_485.3" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="486" ORDERLABEL="470" TYPE="page">
+        <fptr FILEID="tiff_00243_1"/>
+        <fptr FILEID="jp2_00243_1"/>
+        <fptr FILEID="alto_00243_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.2" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.3" BETYPE="IDREF" FILEID="alto_00243_1"/>
+              <area BEGIN="BL_486.4" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="487" ORDERLABEL="471" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.2" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+              <area BEGIN="BL_487.4" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="488" ORDERLABEL="472" TYPE="page">
+        <fptr FILEID="tiff_00244_1"/>
+        <fptr FILEID="jp2_00244_1"/>
+        <fptr FILEID="alto_00244_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.2" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.3" BETYPE="IDREF" FILEID="alto_00244_1"/>
+              <area BEGIN="BL_488.4" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARg" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.9" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.9" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.4" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.5" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.10" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.11" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.12" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.15" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.16" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.11" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.5" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.6" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3M" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.13" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.14" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.10" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.10" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-12" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.12" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARy" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.6" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.7" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.5" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.8" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_488.1" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqO" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.8" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.12" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.9" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.8" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.17" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_486.1" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-11" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.11" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.6" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.7" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.6" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.5" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

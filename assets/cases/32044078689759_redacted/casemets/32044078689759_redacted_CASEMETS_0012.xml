@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0012" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Duffy v. Frankenberg">Catherine Duffy, Appellee, v. George Frankenberg et al., Appellants</name>
+          <docketnumber>Gen. No. 13,996</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 103</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00060_0" MIMETYPE="image/tiff" CHECKSUM="97ec8e5b5c1410a82a81b91a97c6220f" CHECKSUMTYPE="MD5" SIZE="42464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_0.tif"/>
+      </file>
+      <file ID="tiff_00060_1" MIMETYPE="image/tiff" CHECKSUM="34e3ffe812dee71110ed6999445f2306" CHECKSUMTYPE="MD5" SIZE="45886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_1.tif"/>
+      </file>
+      <file ID="tiff_00061_0" MIMETYPE="image/tiff" CHECKSUM="54f89bec638ff05860127c78d119afd2" CHECKSUMTYPE="MD5" SIZE="54676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00061_0.tif"/>
+      </file>
+      <file ID="tiff_00061_1" MIMETYPE="image/tiff" CHECKSUM="3c9e0f6d466a7422899e1121d9935685" CHECKSUMTYPE="MD5" SIZE="53724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00061_1.tif"/>
+      </file>
+      <file ID="tiff_00062_0" MIMETYPE="image/tiff" CHECKSUM="a9f605f12e84075cbede70422d3f3d8c" CHECKSUMTYPE="MD5" SIZE="51740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00062_0.tif"/>
+      </file>
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="0a78a500c249e80599eb0870f094362a" CHECKSUMTYPE="MD5" SIZE="53112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="b23fea14634b7b3d2e7d723ffa87ed1e" CHECKSUMTYPE="MD5" SIZE="49726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00060_0" MIMETYPE="image/jp2" CHECKSUM="2a8f54d2547207c53bc7c4ae9d010e6e" CHECKSUMTYPE="MD5" SIZE="2311049">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_0.jp2"/>
+      </file>
+      <file ID="jp2_00060_1" MIMETYPE="image/jp2" CHECKSUM="cd317dd4a8abfaac30cf8744fc141515" CHECKSUMTYPE="MD5" SIZE="2274085">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_1.jp2"/>
+      </file>
+      <file ID="jp2_00061_0" MIMETYPE="image/jp2" CHECKSUM="02ea019c6b12cb9f4623aa49196eea1d" CHECKSUMTYPE="MD5" SIZE="2408631">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00061_0.jp2"/>
+      </file>
+      <file ID="jp2_00061_1" MIMETYPE="image/jp2" CHECKSUM="4d72244fd031f7d214385f895f5cf9cf" CHECKSUMTYPE="MD5" SIZE="2338124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00061_1.jp2"/>
+      </file>
+      <file ID="jp2_00062_0" MIMETYPE="image/jp2" CHECKSUM="aaa5fdacf068d5fe49e4a51a93eb3e19" CHECKSUMTYPE="MD5" SIZE="2368530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00062_0.jp2"/>
+      </file>
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="2c7239897c2ed919d98bdc2e0749ba4b" CHECKSUMTYPE="MD5" SIZE="2349332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="6395cf386400fc0c9d057c885e740310" CHECKSUMTYPE="MD5" SIZE="2351519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00063_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00060_0" MIMETYPE="text/xml" CHECKSUM="9d18e29a427cd34b3ba9cd24965a08d1" CHECKSUMTYPE="MD5" SIZE="76629">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00060_0.xml"/>
+      </file>
+      <file ID="alto_00060_1" MIMETYPE="text/xml" CHECKSUM="f749454a66777b43704678d4511a6c15" CHECKSUMTYPE="MD5" SIZE="76563">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00060_1.xml"/>
+      </file>
+      <file ID="alto_00061_0" MIMETYPE="text/xml" CHECKSUM="c0f2eaf0d229e175306dbf63624c35a6" CHECKSUMTYPE="MD5" SIZE="87722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00061_0.xml"/>
+      </file>
+      <file ID="alto_00061_1" MIMETYPE="text/xml" CHECKSUM="8c19d88ca16f95220b3e1d1f8d18d3db" CHECKSUMTYPE="MD5" SIZE="87824">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00061_1.xml"/>
+      </file>
+      <file ID="alto_00062_0" MIMETYPE="text/xml" CHECKSUM="ebb08cdde1d38bd4432bbf1c2e466ac2" CHECKSUMTYPE="MD5" SIZE="82276">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00062_0.xml"/>
+      </file>
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="7912814854fce46a2702770c79619ba9" CHECKSUMTYPE="MD5" SIZE="86888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="f216a6fcd0e6db379d32d322f2cf37bd" CHECKSUMTYPE="MD5" SIZE="91912">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00063_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="109" firstpage="103">
+              <docketnumber pgmap="119" id="b119-9">Gen. No. 13,996.</docketnumber>
+              <parties pgmap="119" id="b119-8">Catherine Duffy, Appellee, v. George Frankenberg et al., Appellants.</parties>
+              <decisiondate pgmap="120" id="AHl">Opinion filed Octo­ber 8, 1908.</decisiondate>
+              <otherdate pgmap="120" id="AG3">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="120" id="b120-7">Walter A. Lantz, for appellants.</attorneys>
+              <attorneys pgmap="120" id="b120-8">George E. Gorman, for appellee.</attorneys>
+              <summary pgmap="120" id="b120-6">Trespass on the case. Appeal from the Superior Court of Cook county; the Hon. Albert C. Barnes, Judge, presiding.</summary>
+              <disposition pgmap="120" id="Amz">Reversed.</disposition>
+              <headnotes pgmap="119" id="b119-10">1. Conspiracy—when, to obtain judgment, not actionable. A judgment not void for want of jurisdiction cannot be collaterally attacked and while such a judgment remains in full force an action charging conspiracy to obtain it does not lie.</headnotes>
+              <headnotes pgmap="119" id="b119-11">2. Conspiracy-—when action at law for, does not lie. A civil action cannot be maintained for a mere conspiracy. Damages of an actual and not punitive character must flow from the conspiracy before the action can be maintained. When actual damage is proven to have been suffered, then punitive damages may also be allowed according to the particular aggravating character of the conspiracy demonstrated by the proofs.</headnotes>
+              <headnotes pgmap="119(10) 120(13)" id="b119-12">3. Damages—when punitive, will not be awarded. In the absence of proof of actual damages, the assessment of punitive damages is not justified.</headnotes>
+              <headnotes pgmap="120" id="b120-5">4. Service of process—when return cannot he impeached. Re­turn of service cannot be impeached by the unsupported testimony of the defendant in the writ, or collaterally by any number of wit­nesses.</headnotes>
+              <opinion type="majority">
+                <author pgmap="120" id="b120-9">Mr. Justice Holdom</author>
+                <p pgmap="120" id="APy">delivered the opinion of the court.</p>
+                <p pgmap="120" id="b120-10">This is an action of trespass on the case brought by the plaintiff against the defendants, George Franken­berg, John E. McDonnell, P. B. Tierney and Willi am J. Buddy, charging them with conspiring together to injure plaintiff by obtaining her property to satisfy a judgment fraudulently obtained against her. Buddy was not served with process and did not appear, so that the cause proceeded to trial against Frankenberg, McDonnell and Tierney, before the court and a jury. The court instructed the jury to find McDonnell not guilty, which they did, and at the same time returned a verdict of guilty against Frankenberg and Tierney, assessing plaintiff’s damages at $1,500. After over­ruling motions for new trial and in arrest of judg­ment, the court entered judgment upon the verdict. Defendants made the usual objections and preserved the customary exceptions to the actions of the court culminating in the judgment, and prayed for, obtained and prosecute this appeal seeking a reversal thereof.</p>
+                <p pgmap="120(34) 121(363) 122(133)" id="b120-11">The material facts, briefly stated, are about as fol­lows: Frankenberg was a loaner of money, mostly to impecunious and unthrifty salaried people. The son of the plaintiff, James P. Duffy, belonged to this class, and in consequence got into the clutches of Frankenberg when he borrowed of him $30, giving his notes for the aggregate sum of $33. These notes were indorsed by one Curley, and young Duffy reciprocated the favor by indorsing Curley’s note to Frankenberg, Curley likewise being of the impecunious class who borrowed from Frankenberg. James P. Duffy after borrowing the $30 removed to New York, and as he was a man of no financial substance, Frankenberg stood in imminent danger of losing the money which he loaned him. Confronted with this threatened loss, he seems to have sought a way out of it by endeavor­ing to get Duffy’s mother, the plaintiff, who was a per­son of some fortune, to pay her son’s debt to him. He testifies that Mrs. Duffy called upon him to ascertain the amount of her son’s indebtedness, and on being informed that it was $33, promised to pay it. As Mrs. Duffy did not pay her son’s debt, Frankenberg brought suit before the defendant McDonnell, a Cook county justice of the peace, whose court was situated in a remote part of Chicago. Tierney was the con­stable who served the summons, although Mrs. Duffy denies both the promise to pay her son’s debt and the service upon her of summons by Tierney in the Frank­enberg suit. While she admits that the constable was at her house and informed her in relation to the pend-­ency of the suit, yet she denies that he served her with process, but on the contrary states that after she had denied her promise to pay and all liability to Tierney, he left, saying, in effect, that there was no case against her. The summons, however, was returned served, and after a continuance, which Frankenberg claimed was granted at the request of Mrs. Duffy by telephone, a judgment by default was taken on her non-appear­ance at the time to which the cause was continued, and Frankenberg then swore out an immediate execution upon the grounds permitted by statute. After judg­ment was entered, and on July 10, 1904, plaintiff left Chicago for New York, from which port four days thereafter she took steamer for Europe to "be gone two months or more. Luddy, a constable, had the execu­tion and called at plaintiff’s residence to demand pay­ment after she had left Chicago. A daughter of Mrs. Duffy, Mrs. Coffey, was in possession of her moth­er’s residence, and to her Luddy said that he had come -to levy on her mother’s furniture under the McDon­nell execution. He then had a wagon and sundry men with him for the purpose, as he stated, of taking away Mrs. Duffy’s furniture if the amount due on the exe­cution was not paid. After consultation with her sis­ter, Mrs. Kerwick, one of them paid the amount de­manded, $39 and some cents, number not appearing from either Mrs. Coffey’s or Mrs. Kerwick’s evidence.</p>
+                <p pgmap="122" id="b122-5">It cannot be controverted on the proof of plaintiff found in this record, that the attack upon the judgment of Frankenberg v. Catherine Duffy obtained in the jus­tice of the peace court of McDonnell is collateral and not direct. Judgments not void for want of jurisdiction are not open to collateral attack in the manner at­tempted in this case, and no recovery of damages can be had for a conspiracy to obtain such a judgment while the same remains in full force and unreversed. As applied to the case at bar, before this action of con­spiracy can be maintained, the judgment before Jus­tice of the Peace McDonnell must in a direct proceed­ing be overcome, vacated and adjudged to be reversed as voidable on account of the fact, if such be the fact, that Tierney’s return of service upon the summons is false. In its present situation the presumptions of the law are in favor of the validity of the judgment, and such presumptions continue until overcome by an adjudication impeaching it in a direct proceeding at­tacking it.</p>
+                <p pgmap="122(44) 123(25)" id="b122-6">A judgment rendered by a court having jurisdiction of the parties and the subject-matter, unless reversed or annulled in some proper proceeding, is not open to contradiction or impeachment in respect to its validity, verity or binding effect, by parties or privies in any collateral action or proceeding. Harris v. Leter, 80 Ill. 307; Kern v. Strasberger, 71 ibid. 303; Kanorow­ski v. The People, 113 Ill. App. 468.</p>
+                <p pgmap="123" id="b123-4">A judgment entered by default, the court having ju­risdiction, as in the case at bar, is as conclusive against collateral attack or impeachment as a judg­ment in any other form. French v. Baker, 21 Ill. App. 432.</p>
+                <p pgmap="123" id="b123-5">The evidence fails to disclose any actual damage suffered by plaintiff flowing from the conspiracies al­leged in the declaration. She paid no money or other thing of value to satisfy the demands of Constable Buddy for payment of the execution upon the .judg­ment obtained in the court of McDonnell, J. P. Neither did she suffer any actual damage by the levy­ing of the execution upon her property, for no levy was made or attempted. The amount due on the execution was paid by the daughters of plaintiff at a time when she was beyond seas. The payment was not made to release a levy, but to forestall one being made. It is therefore clear that the assessment of damages is all of a punitive nature. Without proof of actual damage, vindictive or punitive damages can­not be allowed. This is the trend of all the modern decisions on this subject. Martin v. Leslie, 93 Ill. App. 44.</p>
+                <p pgmap="123" id="b123-6">A civil action cannot be maintained for a mere con­spiracy. Damages of an actual and not punitive char­acter must flow from the conspiracy before the action can be maintained. When actual damage is proven to have been suffered, then punitive damages may also be allowed according to the particular aggravating character of the conspiracy demonstrated by the proofs. Doremus v. Hennessy, 62 Ill. App. 391.</p>
+                <p pgmap="123(46) 124(134)" id="b123-7">There is no evidence in this record tending to show that any of the defendants but Frankenberg had any knowledge of the transaction between the latter and the Duffys. McDonnell had none, so far as the record shows, when he issued the summons. Tierney had no information regarding the matter at the time the sum­mons was delivered to him for service, although he learned Mrs. Duffy’s version of the matter at the time he claimed he served the summons upon her. Luddy, who had the execution for collection, had no knowl­edge of the facts of the transaction between the par­ties to the execution, so far as we can gather from the record, prior to or at the time he proceeded to collect the amount of the execution in the manner usual in such cases, sanctioned by the statute. There being no proof in the record tending in the slightest degree to establish the charge that the defendants conspired to­gether to procure an unlawful or fraudulent judgment against the'plaintiff, the case falls at its very thresh-­hold.</p>
+                <p pgmap="124" id="b124-5">That the defendant Frankenberg attempted to ob­tain an undue advantage of plaintiff in suing her for the debt of her son, which, as he claims, she had prom­ised verbally to pay, and which Frankenberg must be presumed to know was not enforceable, as being a promise to pay the debt of another, and barred by the Statute of Frauds because it was not in writing, ap­pears from his own evidence. That Tierney served the summons upon Mrs. Duffy, we are much inclined to believe from all the evidence of the parties at the time Tierney admittedly attended at Mrs. Duffy’s house for that purpose, for while Tierney, as is nat­ural with men of his Celtic blood, was gracious to the ladies and careful of their feelings and anxious to spare them as much annoyance as possible compatible with the discharge of his official duties, he undoubt­edly was sufficiently careful, in as unostentatious and inoffensive manner as possible, to make legal service of the summons on Mrs. Duffy before he left her house. He has solemnly so certified in his written re­turn of the writ, and such return cannot be impeached by the unsupported testimony of the defendant in that writ, or collaterally by any number of witnesses.</p>
+                <p pgmap="124(8) 125(41)" id="b124-6">Our conclusion is that the plaintiff cannot maintain her action in its present form, and that the judgment is not only manifestly contrary to the weight of the evidence, but finds no support in it. The judgment of the Superior Court is therefore reversed, without re­manding the cause.</p>
+                <p pgmap="125" id="b125-4">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="119" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00060_0"/>
+        <fptr FILEID="jp2_00060_0"/>
+        <fptr FILEID="alto_00060_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.3" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.2" BETYPE="IDREF" FILEID="alto_00060_0"/>
+              <area BEGIN="BL_119.4" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="120" ORDERLABEL="104" TYPE="page">
+        <fptr FILEID="tiff_00060_1"/>
+        <fptr FILEID="jp2_00060_1"/>
+        <fptr FILEID="alto_00060_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.2" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.3" BETYPE="IDREF" FILEID="alto_00060_1"/>
+              <area BEGIN="BL_120.4" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="121" ORDERLABEL="105" TYPE="page">
+        <fptr FILEID="tiff_00061_0"/>
+        <fptr FILEID="jp2_00061_0"/>
+        <fptr FILEID="alto_00061_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.3" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.2" BETYPE="IDREF" FILEID="alto_00061_0"/>
+              <area BEGIN="BL_121.4" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="122" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00061_1"/>
+        <fptr FILEID="jp2_00061_1"/>
+        <fptr FILEID="alto_00061_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.2" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.3" BETYPE="IDREF" FILEID="alto_00061_1"/>
+              <area BEGIN="BL_122.4" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="123" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00062_0"/>
+        <fptr FILEID="jp2_00062_0"/>
+        <fptr FILEID="alto_00062_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.3" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.2" BETYPE="IDREF" FILEID="alto_00062_0"/>
+              <area BEGIN="BL_123.4" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="124" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.2" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.3" BETYPE="IDREF" FILEID="alto_00062_1"/>
+              <area BEGIN="BL_124.4" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+              <area BEGIN="BL_125.3" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.10" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.5" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.6" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_125.1" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.8" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_120.9" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.5" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.11" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.12" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.13" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            <area BEGIN="BL_120.1" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.19" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_121.1" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            <area BEGIN="BL_122.1" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amz" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.10" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.18" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APy" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.16" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_120.17" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.13" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHl" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.11" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_120.12" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.5" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.9" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.7" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.5" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.6" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            <area BEGIN="BL_123.1" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.6" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_120.7" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.6" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.5" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.8" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.14" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.15" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

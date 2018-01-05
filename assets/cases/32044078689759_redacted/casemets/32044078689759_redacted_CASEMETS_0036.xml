@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0036" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kilmer v. Parrish">Jennie Kilmer, Appellant, v. Alonzo Parrish, Appellee</name>
+          <docketnumber>Gen. No. 5,010</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 270</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00143_1" MIMETYPE="image/tiff" CHECKSUM="b2143bee6b632707138e3b435aa08407" CHECKSUMTYPE="MD5" SIZE="47980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00143_1.tif"/>
+      </file>
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="4f8fa7399e204a413d18b70e33f9901f" CHECKSUMTYPE="MD5" SIZE="52852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00144_0.tif"/>
+      </file>
+      <file ID="tiff_00144_1" MIMETYPE="image/tiff" CHECKSUM="b0f23255b6038b838c46dd7ba2865976" CHECKSUMTYPE="MD5" SIZE="50220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00144_1.tif"/>
+      </file>
+      <file ID="tiff_00145_0" MIMETYPE="image/tiff" CHECKSUM="3dc61302b6d7f42133034accbeb87211" CHECKSUMTYPE="MD5" SIZE="53732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00145_0.tif"/>
+      </file>
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="2249f527e07248f96a477a59d26fa91b" CHECKSUMTYPE="MD5" SIZE="51416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00145_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00143_1" MIMETYPE="image/jp2" CHECKSUM="535fbaf9d1210878f4bf455a4f43e944" CHECKSUMTYPE="MD5" SIZE="2316232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00143_1.jp2"/>
+      </file>
+      <file ID="jp2_00144_0" MIMETYPE="image/jp2" CHECKSUM="065bad5bfd4dbacdd3dcf09712aab01c" CHECKSUMTYPE="MD5" SIZE="2399212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00144_0.jp2"/>
+      </file>
+      <file ID="jp2_00144_1" MIMETYPE="image/jp2" CHECKSUM="01140510dfcaa560935997014639fbe4" CHECKSUMTYPE="MD5" SIZE="2341968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00144_1.jp2"/>
+      </file>
+      <file ID="jp2_00145_0" MIMETYPE="image/jp2" CHECKSUM="8df2f122d302bae07b4f43c1691fb290" CHECKSUMTYPE="MD5" SIZE="2409991">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00145_0.jp2"/>
+      </file>
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="89ed8d0fd5d8255693d77278d45084c8" CHECKSUMTYPE="MD5" SIZE="2366108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00145_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00143_1" MIMETYPE="text/xml" CHECKSUM="4d8a7fa728326707937183bca40f46ff" CHECKSUMTYPE="MD5" SIZE="94465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00143_1.xml"/>
+      </file>
+      <file ID="alto_00144_0" MIMETYPE="text/xml" CHECKSUM="faec5eccc8cba99871f68426ffaa09f0" CHECKSUMTYPE="MD5" SIZE="86035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00144_0.xml"/>
+      </file>
+      <file ID="alto_00144_1" MIMETYPE="text/xml" CHECKSUM="69147dfd89d5aad66dcaf40e17e4156d" CHECKSUMTYPE="MD5" SIZE="83305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00144_1.xml"/>
+      </file>
+      <file ID="alto_00145_0" MIMETYPE="text/xml" CHECKSUM="c2f295930cd41f09ea645ac39c540a5e" CHECKSUMTYPE="MD5" SIZE="86979">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00145_0.xml"/>
+      </file>
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="b972379a846ba85630d637b3f199148e" CHECKSUMTYPE="MD5" SIZE="88457">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00145_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0036" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="274" firstpage="270">
+              <docketnumber pgmap="286" id="AQn8">Gen. No. 5,010.</docketnumber>
+              <parties pgmap="286" id="b286-4">Jennie Kilmer, Appellant, v. Alonzo Parrish, Appellee.</parties>
+              <decisiondate pgmap="286" id="Aiy">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="286" id="AcD">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="286" id="AmB">Rehearing denied October 9, 1908.</otherdate>
+              <attorneys pgmap="288" id="b288-4">Browne &amp; Wiley and Lester H. Strawn, for appel­lant.</attorneys>
+              <attorneys pgmap="288" id="b288-5">Butters, Armstrong &amp; Ferguson, for appellee.</attorneys>
+              <summary pgmap="286" id="b286-10">Trespass. Appeal from the Circuit Court of LaSalle county; the Hon. Edgar Eldredge, Judge, presiding.</summary>
+              <disposition pgmap="286" id="AjXF">Reversed and remanded.</disposition>
+              <headnotes pgmap="286" id="b286-5">1. Amendments and jeofails—how ruling denying leave to amend must he preserved. The action of the court in denying leave to amend can only be preserved by bill of exceptions.</headnotes>
+              <headnotes pgmap="286" id="b286-6">2. Amendments and jeofails—when abuse of discretion to deny leave. The court should be liberal in permitting amendments in the interests of justice. After an attachment in aid has been levied, an affidavit may be filed setting up additional grounds for the attachment, even after the trial has begun upon the plea trav­ersing the original affidavit.</headnotes>
+              <headnotes pgmap="286" id="b286-7">3. Amendments and jeofails—what essential to order of amend­ment entered after judgment term. After a case has been disposed of and the term adjourned, the court can only correct clerical mistakes of its officers, upon notice to the parties, so as to make the record conform to the judgment of the court as shown by the memoranda of the court without the aid of affidavits.</headnotes>
+              <headnotes pgmap="286" id="b286-8">4. Appeals and errors—what sufficient prayer for appeal to entitle review of final judgment upon attachment and upon merits. Where a judgment upon the attachment issue and upon the merits follow each other in the record in. immediate succession, an appeal from the “judgment” of the court is sufficient to raise for review the propriety of both judgments.</headnotes>
+              <headnotes pgmap="286" id="b286-9">5. Damages—when new trial may he awarded for inadequacy. At common law new trials were not allowed upon the ground that the damages allowed by the jury in actions for torts were insuffi­cient, but the modern rule is that a new trial may be granted where the verdict is grossly inadequate, for the same reasons as those governing where the verdict is excessive.</headnotes>
+              <p pgmap="286(55) 287(40)" id="b286-11">Statement by the Court. This is an action in tres­pass brought by Jennie Kilmer, appellant, against Alonzo Parrish, appellee, on August 29, 1906, to re­cover for personal injuries • received August 16, 1906, for money paid out for doctor’s bill and in repairing her carriage and for damages to her team. The decía­ration alleges that the defendant, while intoxicated, drove his carriage with great force against the carriage of plaintiff and inflicted the injuries complained of and that the injury was caused by the negligent, wilful and reckless conduct of the defendant.</p>
+              <p pgmap="287" id="b287-5">After the beginning of this suit, the defendant went to Kansas and claims to have purchased land there; he then advertised his farm for sale at auction for November 20th, and also arranged for the sale of his personal property. In November, the plaintiff filed an affidavit that the defendant was about to fraudu­lently conceal and dispose of his property so as to hinder or delay his creditors; a writ of attachment was issued in aid of her suit and levied on 100 acres of the farm advertised for sale. The farm was not sold at the time fixed in the advertisement, but on November 25th the defendant mortgaged it for $8,000 and again on January 29,1907, for $15,000 and on January 17, 1908, he sold it.</p>
+              <p pgmap="287" id="b287-6">In February, 1907, he had a public sale of his per­sonal property, and all that was not sold he afterwards took to Kansas, where he has since resided.</p>
+              <p pgmap="287" id="b287-7">The defendant filed the general issue at the June term, 1907, and on December 20th, at the October term, 1907, filed a plea denying the ground of the attachment. At the January term, 1908, the plaintiff moved for leave to file an amended affidavit alleging additional causes for the attachment. This motion the court overruled but no bill of exception was filed saving this question. Thereafter on a trial before a jury a verdict was rendered by the direction of the court for the defend­ant on the attachment; on the main issue the jury returned a verdict in favor of the plaintiff, and as­sessed her damages at one dollar. The plaintiff made a motion for a new trial, which was overruled and judgment rendered on the verdict in favor of the de­fendant on the attachment, and in favor of the plaintiff on the main issue; from that judgment the plaintiff prosecutes this appeal.</p>
+              <opinion type="majority">
+                <author pgmap="288" id="b288-6">Mr. Presiding Justice Thompson</author>
+                <p pgmap="288" id="Adj">delivered the opin­ion of the court.</p>
+                <p pgmap="288" id="b288-7">It is contended by the plaintiff that the court erred in overruling the motion for leave to amend the at­tachment in aid made before the trial. The ruling of the court upon that motion can only be presented by a bill of exceptions setting forth the affidavit, the ruling and an exception thereto. Motions and affidavits are not a part of a proper common law record: it is not sufficient that the clerk copy them into the transcript but they must be preserved with an exception to the ruling by a bill of exceptions. McFarland v. Claypool, 128 Ill. 397; 8 Ill. Cyc. Dig. 364.</p>
+                <p pgmap="288" id="b288-8">On the trial at the close of plaintiff’s evidence the defendant moved to exclude the evidence in support of the attachment in aid. The plaintiff again moved for leave to amend by adding new grounds for the attach­ment. This motion was overruled, and is contained in the bill of exceptions, with an exception to the ruling. The court should be liberal in permitting amendments in the interests of justice; after an attachment in aid has been levied, an affidavit may be filed setting up additional grounds for the attachment, even after the trial has begun upon the plea traversing the original affidavit. Keith v. Ray, 231 Ill. 213; Bailey v. Valley National Bank, 127 Ill. 332. We are of the opinion that under the facts proven in this case the court should have permitted the amendment.</p>
+                <p pgmap="288(64) 289(278)" id="b288-9">In writing up the judgment, the clerk wrote up the judgment for the defendant upon the attachment in one sentence, and the judgment for the plaintiff on the merits in the next sentence. This is followed by the sentence “thereupon the plaintiff having entered her exceptions herein prays an appeal from the judgment of this court to the Appellate Court in and for the Second District of the state of Dlinois, which said appeal is granted.” At the succeeding term of the court plaintiff moved to amend the judgment by chang­ing “appeal from the judgment of this court” to “ap­peal from the judgments of this court,” and filed an affidavit in support of the motion and produced the original minutes of the judge. This motion the court allowed. The defendant took a bill of exceptions from that order, and has moved this court to strike out the amendment in the record, wherein the word “judg­ments” was substituted “judgment.” After the case was disposed of and the term adjourned the court could only correct clerical mistakes of its officers upon notice to the parties so as to make the record conform to the judgment of the court as shown by the memoranda of the court, without the aid of affidavits. Coughran v. Gucheus, 18 Ill. 390; Gage v. The People, 207 Ill. 377; 1 Black on Judg. 154. The two judgments follow each other in immediate succession and the plaintiff prays an appeal from the judgment. We think the prayer for an appeal raises every question that can properly be raised upon the record and the bill of exceptions. The bill of exceptions properly filed shows an excep­tion to the ruling of the court on the plaintiff’s motion for a new trial, and to the judgment both upon the attachment and upon the merits. The plaintiff in ap­pealing appealed from the entire judgment, treating it as a unit. The amendment is immaterial, and it is unnecessary to determine whether the amended record should be stricken out or not.</p>
+                <p pgmap="289(74) 290(83)" id="b289-5">The évidence shows that the defendant was in Ottawa on the afternoon of the day the defendant received the injuries complained of; that he left Ottawa for his farm eleven miles from Ottawa, where he arrived that night so intoxicated that in driving from the highway through his gate he drove against the gate-post, smash­ing his road wagon and injuring himself; that the plaint­iff was injured about eight o’clock that evening. Wit­nesses testify that the defendant drove his team at a reckless speed on the streets of Ottawa and against the buggy of the plaintiff. The plaintiff was injured, it may be not as seriously as she contends. Her car­riage was damaged and it required several dollars to repair it. The physicians bill for treating her injuries amounts to $88.50. The defense of the appellee is an alibi. He claims that he left Ottawa an hour or two before the accident occurred. ■</p>
+                <p pgmap="290" id="b290-5">The jury in finding for the plaintiff in the sum of one dollar, found that defendant was guilty of inflicting the injuries sued for. If the plaintiff was entitled to recover she was entitled to substantial damages. The damages allowed should be equal to the pecuniary loss sus­tained. There is a fixed measure of damages for the value of physician’s services and for the amount of damages to a carriage and team, of which proof was made. At common law new trials were not allowed upon the ground that the damages allowed by the jury in actions for torts were insufficient. But the modern rule is that a new trial may be granted where the ver­dict is grossly inadequate, for the same reasons as those governing where the verdict is excessive. Paul v. Leyenberger, 17 Ill. App. 167; Hackett v. Pratt, 52 Ill. App. 346; Hamilton v. Pittsburg, C., C. &amp; St. L. Ry., 104 Ill. App. 207; Bourke v. Anglo-American Pro­vision Co., 90 Ill. App. 225; 14 Encye. of Pl. &amp; Pr. 764, and cases cited. A verdict for a grossly inadequate amount stands on no higher ground on legal principles than a verdict for an excessive or extravagant amount. The defendant is either liable or he is not liable. The jury having found he was guilty of the wrongs alleged, we can conceive of no theory upon which the verdict for one dollar can be sustained. The motion for a new trial should have been allowed, and the verdict set aside because of its absurdity. The judgment both on the attachment and on the merits is reversed and the cause remanded.</p>
+                <p pgmap="290" id="b290-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="286" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00143_1"/>
+        <fptr FILEID="jp2_00143_1"/>
+        <fptr FILEID="alto_00143_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.1" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.2" BETYPE="IDREF" FILEID="alto_00143_1"/>
+              <area BEGIN="BL_286.3" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="287" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jp2_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.3" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.2" BETYPE="IDREF" FILEID="alto_00144_0"/>
+              <area BEGIN="BL_287.4" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="288" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00144_1"/>
+        <fptr FILEID="jp2_00144_1"/>
+        <fptr FILEID="alto_00144_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.1" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.2" BETYPE="IDREF" FILEID="alto_00144_1"/>
+              <area BEGIN="BL_288.3" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="289" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00145_0"/>
+        <fptr FILEID="jp2_00145_0"/>
+        <fptr FILEID="alto_00145_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.3" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.2" BETYPE="IDREF" FILEID="alto_00145_0"/>
+              <area BEGIN="BL_289.4" BETYPE="IDREF" FILEID="alto_00145_0"/>
+              <area BEGIN="BL_289.6" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="290" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.2" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.3" BETYPE="IDREF" FILEID="alto_00145_1"/>
+              <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-11" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.19" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_287.1" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcD" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.13" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_286.14" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.9" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmB" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.18" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjXF" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.15" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aiy" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.16" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_286.17" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.11" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            <area BEGIN="BL_289.1" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.9" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.6" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.5" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.4" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adj" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.7" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            <area BEGIN="BL_288.8" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.10" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.5" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.6" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.4" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.8" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.7" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.10" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.5" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.6" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.7" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQn8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.5" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.11" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_286.12" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

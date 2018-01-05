@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0067" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Thrift v. Vandalia Railroad">Samuel M. Thrift, Appellant, v. The Vandalia Railroad Company, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 414</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="903f53f0b688b8590920d48b07f23ba8" CHECKSUMTYPE="MD5" SIZE="43400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00216_1.tif"/>
+      </file>
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="e85fd6d49cd36291d2a2716beca1216e" CHECKSUMTYPE="MD5" SIZE="53802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00217_0.tif"/>
+      </file>
+      <file ID="tiff_00217_1" MIMETYPE="image/tiff" CHECKSUM="c497da1aa5adb3d576c7cc39c1837700" CHECKSUMTYPE="MD5" SIZE="54130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00217_1.tif"/>
+      </file>
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="5fd38f1686305acb8622ddd8d63232c8" CHECKSUMTYPE="MD5" SIZE="44498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="d51061e6cc15404c1ee6ed49faaec2a3" CHECKSUMTYPE="MD5" SIZE="2369594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00216_1.jp2"/>
+      </file>
+      <file ID="jp2_00217_0" MIMETYPE="image/jp2" CHECKSUM="f9121d52afdf7375a378b659ce2e8008" CHECKSUMTYPE="MD5" SIZE="2498377">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00217_0.jp2"/>
+      </file>
+      <file ID="jp2_00217_1" MIMETYPE="image/jp2" CHECKSUM="be194831fd6a7f69cea17a02b232ed72" CHECKSUMTYPE="MD5" SIZE="2456406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00217_1.jp2"/>
+      </file>
+      <file ID="jp2_00218_0" MIMETYPE="image/jp2" CHECKSUM="ed93bc2b6880926f13cae3be2e59a642" CHECKSUMTYPE="MD5" SIZE="2385111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="92faaef36f9399eb38146aa32d97f844" CHECKSUMTYPE="MD5" SIZE="78689">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00216_1.xml"/>
+      </file>
+      <file ID="alto_00217_0" MIMETYPE="text/xml" CHECKSUM="4ebb9a7e33062c17eebc96416cf45878" CHECKSUMTYPE="MD5" SIZE="90768">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00217_0.xml"/>
+      </file>
+      <file ID="alto_00217_1" MIMETYPE="text/xml" CHECKSUM="d301b5d49cd9973cae21ae7afeb42861" CHECKSUMTYPE="MD5" SIZE="86288">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00217_1.xml"/>
+      </file>
+      <file ID="alto_00218_0" MIMETYPE="text/xml" CHECKSUM="1fae135870d199f18a0a1c9bf7908a0f" CHECKSUMTYPE="MD5" SIZE="73767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00218_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0067" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="417" firstpage="414">
+              <parties id="b432-4" pgmap="432">Samuel M. Thrift, Appellant, v. The Vandalia Rail­road Company, Appellee.</parties>
+              <decisiondate id="AgAJ" pgmap="432">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b432-8" pgmap="432">William: E. Nelson and Lee Boland, for appellant; David Hutchinson, of counsel.</attorneys>
+              <attorneys id="b432-9" pgmap="432">Outten, Roby, Ewing and McCullough, for appel­lee.</attorneys>
+              <summary id="b432-7" pgmap="432">Action in case for personal injuries. Appeal from the Circuit Court of Macon county; the Hon. William C. Johns, Judge, presid­ing. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AtX" pgmap="432">Affirmed.</disposition>
+              <headnotes id="b432-5" pgmap="432">1. Licensees—when policemen and firemen are. Where a police officer or a fireman enters upon premises in order that he may better perform his duties as such, but without any express or im­plied invitation of the owner of the premises, he is a mere licensee, and such owner owes him no duty except to refrain from inflicting wilful or wanton injury upon him. Held, that the particular ordi­nance in question in this case did not affect the general rule as above stated.</headnotes>
+              <headnotes id="b432-6" pgmap="432">2. Negligence—what does not establish wilfulness. Where the sole negligence charged is the violation of an ordinance, wilfulness is not established.</headnotes>
+              <opinion type="majority">
+                <author id="b432-10" pgmap="432">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AYE" pgmap="432">delivered the opinion of the court.</p>
+                <p id="b432-11" pgmap="432(121) 433(60)">This is a suit against appellee for personal injuries received by appellant in the yards of the Illinois Cen­tral Bailroad Company in the city of Decatur, through the alleged negligence of appellee. The yards in ques­tion were at the time used and operated by appellee under an arrangement with the Illinois Central Bail-­road Company. The declaration in its various counts alleges that upon a certain day between the hours of ten and eleven o’clock at night, at which time it was very dark and a violent snow storm was raging, appel­lant attempted to cross one of the tracks in said yard, in an endeavor to apprehend unknown persons who he hacl been informed were stealing property stored in freight cars then upon the tracks in said yard, and that he was run over by a moving train which was running backward over such track without a light on the rear end thereof and without any warning being given by either whistle or bell, nor any brakeman or employe being stationed on the rear end of the train.</p>
+                <p id="b433-5" pgmap="433">An ordinance of the city of Decatur then in force provided in substance that no railroad train should be started in the city without first ringing a bell or sound­ing a whistle thereon; that a bell should be kept con­stantly ringing while such train was in motion, and that any train running or backing in the night time should have a bright and conspicuous light on the end of the train which might be foremost in the direction in which the train was moving. The negligence upon which appellant relies primarily for recovery is the violation of such ordinance. It is charged in several of the counts that the train was recklessly backed in the night time when it was very dark, in disregard of the rights and safety of persons who might be upon said track; that the backing of the train was wanton and reckless, and that by reason of such gross and wanton negligence plaintiff was injured, etc. It is also averred in the sixth count that the defendant had been informed through its servants that the plaintiff would be upon the premises at or about the day of his injury for the purpose .of apprehending offenders as aforesaid, and that said servants had as­sented thereto. The court sustained a general and special demurrer to the entire declaration and entered judgment for the defendant.</p>
+                <p id="b433-6" pgmap="433(81) 434(265)">It is not contended by appellant that he was upon the premises by the invitation of the appellee, either express or implied; but it is insisted that he was right­fully there under a license given him by law. It is now well settled that where' a police officer or fireman enters upon premises in order that he may better per­form his duties as such, but without any express or implied invitation of the owner of the premises, he is a mere licensee, and such owner owes him no duty ex­cept to refrain from inflicting wilful or wanton injury upon him. The doctrine applies equally to cases where the license is given by law. Gibson v. Leonard, 143 Ill. 182; Casey v. Adams, 234 Ill. 350. Counsel con­tend however that the case at bar is distinguishable from those cited, in that the ordinance alleged to have been violated, being general in its nature, was enacted for the benefit of all persons rightfully upon the prem­ises, and imposed upon appellee the duty to use rea­sonable care to avoid injuring such persons, whether they were expressly or impliedly invited there by ap­pellee or not. We regard such position as untenable. The ordinance could only have been intended to protect those who might go upon the private right of way of appellee upon its business or by its solicitation or invitation or by its authority; that is to say, those whose presence there might he reasonably anticipated. An ordinance which could properly he construed to impose upon a railroad company the duty to antici­pate the presence of persons, even peace officers in the performance of their official duties, upon its pri­vate right of way necessarily at rare intervals and at unexpected times and places, and to exercise continu­ous vigilance to avoid' injuring them, would be mani­festly unreasonable, and seriously interfere with the practical operation of railroads. Those operating them would thus be rendered unable to properly perform their duty to the public of furnishing cheap, safe and rapid transportation.</p>
+                <p id="b434-5" pgmap="434(85) 435(53)">It is urged by counsel for appellant that inasmuch as it is averred in several counts of the declaration that appellee had knowledge, through certain of its servants, that appellant would go and be within its yards in the performance of his official duty, in the night time, on or about the day in question, it thus had specific notice of his presence there, and was bound to use reasonable care for his safety. The aver­ment in question fails to state upon what particular night, what time in the night, or at what place in the yard appellant expected to be; nor does it state which of the servants of appellee was so informed. It is therefore insufficient to establish the status of appel­lant as one upon the tracks with the knowledge and authority of appellee.</p>
+                <p id="b435-5" pgmap="435">It is also insisted that even if. it be conceded that appellant was a mere licensee, the characterization in several counts of the declaration of the alleged negli­gent acts of the defendant as wanton, wilful, reckless and heedless, established a right to recover under the rule above stated. The violation of the ordinance which is the sole negligence charged, did not constitute wan­tonness or wilfulness. I. C. R. R. v. O’Connor, 189 Ill. 557. It is not sufficiently pleaded that appellee had knowledge, express or implied, of the presence or probable presence of appellant upon the right of way. It therefore cannot be said that under the circum­stances detailed in the declaration, such want of care and disregard for the rights of appellant existed as to constitute wilfulness or wantonness. It is manifest there could be no wilful disregard of the rights of one whose presence was unknown and could not have been reasonably anticipated.</p>
+                <p id="b435-6" pgmap="435">The court did not err in its rulings upon the de­murrer and the judgment will be affirmed.</p>
+                <p id="b435-7" pgmap="435">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="432" ORDERLABEL="414" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+              <area BEGIN="BL_432.3" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="433" ORDERLABEL="415" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jp2_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.2" BETYPE="IDREF" FILEID="alto_00217_0"/>
+              <area BEGIN="BL_433.4" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="434" ORDERLABEL="416" TYPE="page">
+        <fptr FILEID="tiff_00217_1"/>
+        <fptr FILEID="jp2_00217_1"/>
+        <fptr FILEID="alto_00217_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.2" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.3" BETYPE="IDREF" FILEID="alto_00217_1"/>
+              <area BEGIN="BL_434.4" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="435" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jp2_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.3" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.2" BETYPE="IDREF" FILEID="alto_00218_0"/>
+              <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+              <area BEGIN="BL_435.11" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYE" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.15" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_432.16" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.7" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-11" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.17" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_433.1" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.14" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtX" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.9" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.6" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            <area BEGIN="BL_434.1" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.5" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.6" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.5" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.5" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.1" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.13" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.12" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.7" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_432.8" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.6" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.5" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgAJ" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.10" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_432.11" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

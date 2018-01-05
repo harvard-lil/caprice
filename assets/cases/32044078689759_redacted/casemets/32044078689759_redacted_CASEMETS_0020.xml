@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0020" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Sonnenschein v. Max Malter Co.">Leopold Sonnenschein, Appellee, v. Max Malter Com­pany, Appellant</name>
+          <docketnumber>Gen. No. 14,116</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 183</citation>
+          <decisiondate>1908-07-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="b84bd70185f1234dfe20aae6a90f338b" CHECKSUMTYPE="MD5" SIZE="41996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="2464b10aa5c7cea5d1a87841554105a7" CHECKSUMTYPE="MD5" SIZE="47594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="a7c3e8235c5aa9d532f106bcd4a09f65" CHECKSUMTYPE="MD5" SIZE="47418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="8da080cabce7cb2ebd480357441c0b7d" CHECKSUMTYPE="MD5" SIZE="44992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00101_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="23b1e7b7c216fb735e40323374e4c49e" CHECKSUMTYPE="MD5" SIZE="2327784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="8ab97b9aacf82f7634cfae824be82898" CHECKSUMTYPE="MD5" SIZE="2317668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="41dd1bbe0c6c62cab59f8deaa4b32329" CHECKSUMTYPE="MD5" SIZE="2371058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="9586d9dfa56ed3547049029f884b98fd" CHECKSUMTYPE="MD5" SIZE="2309186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00101_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="de3a0fffc92f6949b2246baf5646ad4c" CHECKSUMTYPE="MD5" SIZE="73104">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="2b605dbb8eb3121da8c6bb66ffcb15c6" CHECKSUMTYPE="MD5" SIZE="83201">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="ed6cb9c388314d84b45e30a1b59a7757" CHECKSUMTYPE="MD5" SIZE="82200">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="8abce21b25f263cf1b93c9191d715fbc" CHECKSUMTYPE="MD5" SIZE="75937">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00101_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="186" firstpage="183">
+              <docketnumber pgmap="199" id="b199-9">Gen. No. 14,116.</docketnumber>
+              <parties pgmap="199" id="b199-8">Leopold Sonnenschein, Appellee, v. Max Malter Com­pany, Appellant.</parties>
+              <decisiondate pgmap="200" id="AM">Opinion filed July 14, 1908.</decisiondate>
+              <otherdate pgmap="200" id="AT5">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <otherdate pgmap="200" id="Aoa">Rehearing denied July 29, 1908..</otherdate>
+              <attorneys pgmap="200" id="b200-5">Israel Shrimski and Blum &amp; Blum, for appellant.</attorneys>
+              <attorneys pgmap="200" id="b200-6">Israel Cowen, for appellee.</attorneys>
+              <summary pgmap="200" id="b200-4">Assumpsit. Appeal from the Superior Court of Cook county; the Hon. Abthttr H. Chetiauít, Judge, presiding.</summary>
+              <disposition pgmap="200" id="AH2">Reversed and remanded.</disposition>
+              <headnotes pgmap="199" id="b199-10">1. Principal and agent—what evidence not competent to estab­lish relation of. Evidence of the declarations of an agent is not admissible against his principal for the purpose of proving or en­larging his authority.</headnotes>
+              <headnotes pgmap="199" id="b199-11">2. Assumpsit—when account does not become stated. Failure to return or object to an account rendered is not evidence that the same has become stated, where the question at issue is as to whether or not the plaintiff has sold any goods to the defendant.</headnotes>
+              <opinion type="majority">
+                <author pgmap="200" id="b200-7">Mr. Presiding Justice Baker</author>
+                <p pgmap="200" id="AvF">delivered the opinion of the court.</p>
+                <p pgmap="200" id="b200-8">This is an appeal by the defendant from a judgment for $380.50 recovered for the price of liquors alleged to have been sold and delivered by plaintiff to the de­fendant between December 8, 1904, and February 25, 1905.</p>
+                <p pgmap="200" id="b200-9">The defendant is an Illinois corporation organized to carry on the business of buying and selling butter, eggs, cheese and other produce, and its principal place of business has at all times been in Chicago. The evi­dence tends to show that the defendant corporation rented a store room at Hammond, Indiana, and opened a store therein for the purpose of selling produce, and put one Mike Malter in charge of said store; that Mike Malter had no authority to buy goods of any kind for defendant or to pay any bills of defendant; that all purchases for defendant were made in Chi­cago and all bills of defendant paid by check at the Chicago office; that Mike Malter sublet a part of said store room to one David Malter; that David Malter sold liquors from a wagon and used the part of the store so rented by him for a store room for his liquors.</p>
+                <p pgmap="200(68) 201(11)" id="b200-10">The orders for the liquor were given, some by Mike Malter and some by David Malter, to Beuben, a sales­man of the plaintiff, at the defendant’s store in Ham­mond. The sellers were directed to ship some of the liquor so ordered to defendant at Hammond and some to David or D. Malter. Some time in February, 1905, the defendant company ceased to do business at Ham­mond and removed its property then in said store to Chicago.</p>
+                <p pgmap="201" id="b201-4">The contention of the defendant was that Mike Mal­ter had no authority to buy liquors for the defendant; that the defendant never received any of the liquors in question and was not liable to the plaintiff; for the price or value of said liquors. Neither Mike Malter nor David Malter was called as a witness. Eeuben, the salesman, was permitted to testify for the plaint­iff, over the objection of the defendant, that at the time he took the first order from Mike Malter at Ham­mond, said Mike Malter said to him, “I am one of the firm. I want to speak to you about business; we want to put in a stock of liquors and want thirty to sixty days.” Other evidence of statements by Mike Malter that he was a member of the firm was given over the objection of the defendant, and a motion to strike out the evidence of Mike Matter's statement was over­ruled.</p>
+                <p pgmap="201" id="b201-5">Evidence of the declarations of an agent are not admissible against his principal for the purpose of proving or enlarging his authority. Mechem on Agency, sec. 100; Mer. Nat. Bank v. Nichols, 223 Ill. 49.</p>
+                <p pgmap="201" id="b201-6">The evidence of the declarations of Mike Malter was, under the issues in this case, in our opinion, not admissible to prove that Mike Malter had authority to buy for defendant the liquors in question.</p>
+                <p pgmap="201" id="b201-7">The court gave for the plaintiff the following in­struction :</p>
+                <blockquote pgmap="201" id="b201-8">“The jury are instructed that it is the law that where the true owner of property holds out another, or allows him to appear as the owner, or as having full power of disposition over certain property, and thereby innocent third parties are led into dealing with such apparent owner or person having such ap­parent power of disposition, the law will protect such innocent third party.”</blockquote>
+                <p pgmap="201(11) 202(65)" id="b201-9">The question in this case was not as to the appar­ent authority of Mike Matter over the property of the defendant in the store of the defendant at Ham­mond, but was as to his authority to buy liquors for the defendant. The doctrine applicable to an inno­cent purchaser of property from one who has posses­sion thereof, with apparent authority to sell the same, has no application to the facts of this case.</p>
+                <p pgmap="202" id="b202-5">The court also gave for the plaintiff the following instruction:</p>
+                <blockquote pgmap="202" id="b202-6">“The jury are instructed that if they believe from the evidence that the plaintiff, on the strength of the defendant having a place of business at Hammond, Indiana, opened an account with said defendant and sold and delivered goods to the same and rendered bills from time to time, and said bills were received and never returned or corrected by defendant within ‘a reasonable time’ as defined in these instructions, such retention is evidence of an account stated or set­tled account and may be regarded as conclusive be­tween the parties unless fraud, mistake, omission or inaccuracy is shown.”</blockquote>
+                <p pgmap="202" id="b202-7">It is only in case that goods have been sold by one person to another that an account rendered becomes an account stated unless objected to within a reason­able time. In this case the issue was whether the plaintiff had sold any goods to the defendant, and the instruction therefore should not have been given.</p>
+                <p pgmap="202" id="b202-8">For the errors indicated the judgment will be re­versed and the cause remanded.</p>
+                <p pgmap="202" id="b202-9">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+              <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.2" BETYPE="IDREF" FILEID="alto_00100_1"/>
+              <area BEGIN="BL_200.3" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.2" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+              <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.3" BETYPE="IDREF" FILEID="alto_00101_1"/>
+              <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.11" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.12" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH2" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.10" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.7" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoa" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.18" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.9" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.10" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.4" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.5" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.5" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.9" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.17" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.16" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvF" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.14" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.15" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.8" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,656 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0028" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="John A. Tolman &amp; Co. v. City of Chicago">John A. Tolman &amp; Company, Appellant, v. City of Chicago et al., Appellees</name>
+          <docketnumber>Gen. No. 14,073</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 234</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="29ede38c19caa7ff1d0f0592fdb2bbf8" CHECKSUMTYPE="MD5" SIZE="40108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="3830d50b04fbd91a9a4e433a662aa88c" CHECKSUMTYPE="MD5" SIZE="53528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="ca7c08ed939a565de226864d5c96fbce" CHECKSUMTYPE="MD5" SIZE="55870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="1b25a640ca5a99ea72d681c7dcb984f1" CHECKSUMTYPE="MD5" SIZE="53492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00128_0.tif"/>
+      </file>
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="62ad6d314c6b4268473540128480c3ef" CHECKSUMTYPE="MD5" SIZE="49036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00128_1.tif"/>
+      </file>
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="9057fd133d3e98652e64845708368d7f" CHECKSUMTYPE="MD5" SIZE="53816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="1a4605b12a7e8779af4b45d9ffed7ea1" CHECKSUMTYPE="MD5" SIZE="53620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="9ff2550b1133f769858154dde7bef994" CHECKSUMTYPE="MD5" SIZE="47612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00130_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="379b8159f80396f919dcdcbc42a78d91" CHECKSUMTYPE="MD5" SIZE="2345316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_1.jp2"/>
+      </file>
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="aa866d552ed9ce730161c5c72d421973" CHECKSUMTYPE="MD5" SIZE="2470707">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="59c44788db7553db9fdb142cecbd6887" CHECKSUMTYPE="MD5" SIZE="2430252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00127_1.jp2"/>
+      </file>
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="c25788e60db44c750152c092f9af0267" CHECKSUMTYPE="MD5" SIZE="2454782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00128_0.jp2"/>
+      </file>
+      <file ID="jp2_00128_1" MIMETYPE="image/jp2" CHECKSUM="7f7612031c0798e685b187d0688b9c7f" CHECKSUMTYPE="MD5" SIZE="2407856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00128_1.jp2"/>
+      </file>
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="3df23d6fe0742638cb50b64025b101cd" CHECKSUMTYPE="MD5" SIZE="2491388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="625f634aa16bd2b891d61dabe717f674" CHECKSUMTYPE="MD5" SIZE="2427506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00129_1.jp2"/>
+      </file>
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="9704800818abe8eb32aca299c6fd3cd4" CHECKSUMTYPE="MD5" SIZE="2376579">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00130_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="2b6d0f302e37c842272efbaad906aeda" CHECKSUMTYPE="MD5" SIZE="71913">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00126_1.xml"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="d5428f774d569dd0aaacb92aa5574cd3" CHECKSUMTYPE="MD5" SIZE="94618">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="95a8305aa2aa4dbc42855a1e9a13ba0b" CHECKSUMTYPE="MD5" SIZE="95773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00127_1.xml"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="0bf861c646f185802d6ac2fa37a316d7" CHECKSUMTYPE="MD5" SIZE="88659">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00128_0.xml"/>
+      </file>
+      <file ID="alto_00128_1" MIMETYPE="text/xml" CHECKSUM="97e77101028a1cfe5245534647fed91e" CHECKSUMTYPE="MD5" SIZE="81672">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00128_1.xml"/>
+      </file>
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="e476f83f6d88e8370eee19101d69b775" CHECKSUMTYPE="MD5" SIZE="89972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="cade81feb865ef42c5b5358c9a4f4da5" CHECKSUMTYPE="MD5" SIZE="93053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00129_1.xml"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="f7a0d2a18297b180fe6e6d01d13bce2b" CHECKSUMTYPE="MD5" SIZE="75936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00130_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0028" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="241" firstpage="234">
+              <docketnumber id="b252-11" pgmap="252">Gen. No. 14,073.</docketnumber>
+              <parties id="b252-10" pgmap="252">John A. Tolman &amp; Company, Appellant, v. City of Chi­cago et al., Appellees.</parties>
+              <decisiondate id="AZa" pgmap="253">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b256-6" pgmap="256">Albert Kocourek and Ashcraft &amp; Ashcraft, for appellant; Raymond M. Ashcraft, of counsel.</attorneys>
+              <attorneys id="b256-7" pgmap="256">William D. Barge and George W. Mlller, for ap­pellees ; Edward J. Brundage, of counsel.</attorneys>
+              <summary id="b253-6" pgmap="253">Bill for injunction. Appeal from the Superior Court of Cook county; the Hon. Willard M. McEwen, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="A3m" pgmap="253">Affirmed.</disposition>
+              <headnotes id="b252-12" pgmap="252">1. Public streets—what use of, unlawful. The maintenance by a private corporation of an obstructing nuisance upon a public street is unlawful and may properly be removed by the munici­pality.</headnotes>
+              <headnotes id="b253-3" pgmap="253">2. Nuisance—what is, as matter of law. Barrier platforms and skids constructed upon a public street impeding the movements of pedestrians are by statute a public nuisance.</headnotes>
+              <headnotes id="b253-4" pgmap="253">3. Nuisance—rights of municipality with respect to. A munici­pality may proceed to abate a public nuisance and prosecute for fines for their maintenance, the one or the other, or both, in its discretion but it is not required to proceed to penalize as a condi­tion precedent to the right to abate.</headnotes>
+              <headnotes id="b253-5" pgmap="253">4. Nuisance—what does not preclude municipality from right to abate. Acquiescence in the maintenance of a public nuisance or purpresture does not estop a municipality to abate the same.</headnotes>
+              <p id="b253-7" pgmap="253(235) 254(389) 255(79)">Statement by the Court. It appears from the aver­ments of the hill in the record that appellant is a domestic corporation, engaged in the business of a wholesale grocer, and in that business buys, sells and manufactures food products, such as spices, etc.; that such business has been conducted on a large scale con­tinuously since the year 1885, with success and profit; that it employs in the vicinity of 200 persons, and that the ramifications of its business extend to the States of Wisconsin, Michigan, Iowa, Minnesota, Ohio and Kansas; that its main place of business is in Chicago, and that it occupies as tenant from year to year a five-­story brick building situate on the southwest corner of Michigan avenue and Lake street and numbered 59 to 71 Michigan avenue and 4 to 8 Lake street; that in the necessary conduct of such business somewhere in the vicinity of 200 tons of merchandise is received into and discharged from its place of business every working day, by means of twenty single and double teams and wagons; that there are means of ingress and egress to the Michigan avenue and Lake street building from both the avenue and street fronts and by means of an alley twenty-three feet in width running north and south on the west side of the building; that it would be practically impossible for appellant to conduct its business without using certain mechanical appliances and maintaining a permanent platform and a temporary skid-way as a means of loading and unloading wagons at the street with goods and merchandise from and to its place of business; that at the Michigan ave­nue and Lake street openings of the building a platform of four feet is maintained at a height of about eighteen inches above the sidewalk and on a line with the first or shipping floor of the building; that skids in connec­tion with these platforms are maintained to connect the platform with the end of the merchandise wagons when backed up at the street curb; that these skids are con­structed of planks about eight feet long, one foot wide, and of a thickness of one and one-half inches, and when in use run from the platform in front of the shipping room to the rear end of the wagon in process of loading or unloading. The platform is a permanent structure with two iron steps at each end for foot passengers to use in mounting to and descending from the platform to the sidewalk. The skids are movable and are in use much of the time during business hours. It is said that when the skids are not in actual use they do not encum­ber the sidewalk, but leave that part of the walk in front of the raised platform free for use by pedestrians. It is charged that the platform and, skid method of get­ting goods to and from appellant’s building is that which obtains by all the wholesale houses in the neigh­borhood of appellant, and that such method has been in vogue for more than thirty years, with the knowl­edge of the city, and without any disturbance on its part prior to the attempt on the part of the city to do those things which the bill seeks to enjoin. The neigh­borhood, it is said, is congested with traffic and is in the vicinity of the freight warehouses and yards of several railroads; that neither the platform nor skids are a nuisance or create a purpresture, and are not in violation of the common law or any statute of this State or any ordinance of the city of Chicago; that the city authorities threaten to prevent appellant from using the skids or maintaining the platforms, and that to do so will he unjust, oppressive and unreasonable, and if the city is successful in so doing, will result in irreparable injury and loss to appellant; prays for an injunction to arrest the city in its design to interefere with appellant’s skids and platform, etc. A temporary restraining order was entered upon the ex parte appli­cation of appellant upon the recommendation of a master after reading the bill.</p>
+              <p id="b255-4" pgmap="255">The city and all of the defendants filed a joint and several answer, which sets up inter alia that Lake street and Michigan avenue are public streets, controlled solely by the city, and that the city is required, in the ex­ercise of such control, to see to it that these streets shall at all times be open for public travel throughout their entire length and width; that the platforms and skids are a barrier to such free and uninterrupted use of the sidewalks of said streets fronting appellant’s premises, and constitute purprestures and nuisances; that the maintenance of said platforms and skids are without authority, and that it is the duty of the city to remove them and keep the streets open' for travel by the public, unobstructed.</p>
+              <p id="b255-5" pgmap="255">The cause was tried before the chancellor upon the bill and answer above recited and replication of ap­pellant to the answer, and an agreed statement of facts, with some enlightening photographs showing appel­lant’s place of business in operation with and without the skids in use. The statement of facts in its most material parts, as applied to the rights of the parties, is as follows:</p>
+              <p id="b255-6" pgmap="255(83) 256(209)">“That on the Michigan avenue side of the premises of complainant, the skids are in use, on each average working day, an average of two hours and fifteen min­utes and principally between the hours of 9 o’clock a. m. and 4 o’clock p„ m. That the greatest public travel on said Michigan avenue and said Bast Lake street on each average working day is between the fol­lowing hours; 6 to 8 o ’clock a. m., 12 o ’clock noon to 1 o’clock f. m., and 5 to 6 o’clock p. m. 'That the average number of pedestrians traveling along said Michi­gan avenue in either direction on the sidewalk imme­diately abutting the premises of the complainant each working day between the hours of 6 o ’clock a. m. and 6 o’clock p. m. is 2,415 persons. That the average num­ber of persons passing each average working day when the skids are in use and traveling along said sidewalk and passing over and along the platform provided for pedestrians when skids are in use is 536 persons. That on the Lake street side of the premises the skids are in use each average working day three hours and nineteen minutes, and principally between the hours of 8 o ’clock a. m. and 4:30 o ’clock p. m. That the average number of pedestrians passing along the Lake street side of said premises between the hours of 6 o’clock a. m. and 6 o’clock p. m. is 1,912. That when the skids are in use on the Lake street side of the premises of the com­plainant, about 453 persons pass along and over the platform provided for them adjoining the shipping platform of the complainant each average working-­day.”</p>
+              <p id="b256-5" pgmap="256">The chancellor, upon the hearing, dissolved the tem­porary injunction and dismissed the bill for want of equity, and appellant appeals.</p>
+              <opinion type="majority">
+                <author id="b256-8" pgmap="256">Mr. Justice Holdom</author>
+                <p id="AU3" pgmap="256">delivered the opinion of the court.</p>
+                <p id="b256-9" pgmap="256(52) 257(244)">We think the learned counsel for appellant have mis­conceived the controlling- principle of the case at bar, and have argued their client’s case ingeniously from an erroneous view point. Their arguments would be very convincing were they applicable to the cause argued. The questions do not rest in the solution of the proposition that the use of the skids is not per se a nuisance, but whether or not the maintaining of the permanent platforms and the operation of the skids in conjunction therewith, across the public highway, so interferes with the permanent right of the public to the unimpeded and unobstructed use of every part of the public walk in front of appellant’s building and place of business, as to constitute a nuisance in fact. From the photographs in the record, it is plainly seen that the movements of pedestrians are greatly impeded by the barrier platforms and skids there appearing in the street on both the Michigan avenue and Lake street fronts of the business premises of appellant, and that when these skids are in use pedestrians encounter ob­structions which materially impede their progress. That such obstructions are nuisances, are not matters resting on judicial interpretation from the facts. They have been so designated by the law-making power of the state. Section 221, div. 5, chap. 38, R. S., which reads that “It is a public nuisance,” among other things, “to obstruct or encroach upon public highways, private ways, streets, alleys, commons,” etc. By par. 75, sec. 62, art. 5, chap. 24 R. S., it is enacted that the city council shall have power to declare what shall be a nuisance and to abate the same; and to impose fines upon parties who may create, continue or suffer nuis­ances to exist”.</p>
+                <p id="b257-4" pgmap="257">This vests in the city dual powers, both to abate nuisances and to penalize the parties responsible for their existence! The city may proceed to abate and prosecute for fines the one or the other, or both, in its discretion, but it is not required to proceed to penalize as a condition precedent to the right to abate.</p>
+                <p id="b257-5" pgmap="257(62) 258(119)">It is again insisted that the city has recognized the right to maintain the platforms and skids by long-­acquiescence, but it is a sufficient answer to this to say that the city has no legal right or power to consent to the continued existence of a purpresture or to any con­dition which operates to deny to the public the free and untrammeled use of any part of the public high­way. It is conceded by the stipulation of facts that those portions of the streets obstructed by appellant with its platforms and skids are a part'of the public highway. The court say in Smith v. McDowell, 148 Ill. 51, that “the permanent encroachment upon a pub­lic highway or street, unauthorized by the legislature, and the creation of a perpresture therein which ob­structs the free and uninterrupted passage of the pub­lic is, as a matter of law, a public nuisance. The mat­ter of inconvenience to the public, or that sufficient of the street may remain unobstructed to still accom­modate the public travel, cannot be considered”.</p>
+                <p id="b258-5" pgmap="258">In Hibbard v. Chicago, 173 Ill. 91, it was sought to enjoin the city from tearing down an awning or shed which had been constructed over a public walk, in vir­tue of a license given by the city, and the court said: “The mere consent of the city council by resolution or order gives no vested right. * * * The averment that the awning so erected does not injure or obstruct any person does not change the case. The sole ques­tion to be determined is, is it an encroachment on the street of the City, and if so, it is a purpresture”.</p>
+                <p id="b258-6" pgmap="258(154) 259(30)">The case of People v. Harris, 203 Ill. 272, involved the maintaining of a bay window erected by authority of an order of the city council. The court criticised and condemned this order as being without authority of law, and said “that there is no safe field of specula­tion other than to keep within the limits placed by the books, by saying that the streets in their entirety are public properties exclusively for public use, and that they or any part of them cannot be devoted exclusively to private purposes or private use”. The rule of law controlling the public highway is that they are for their whole width and length held for the exclusive use of the public, and that the municipal authorities can grant no right or easement, not of a public nature, and that the street in its entirety must be maintained for public use, and that all private encroachments thereon, from whatever source they may emanate, are unlawful. Field v. Barling, 149 Ill. 556; Pennsylvania v. Chicago, 181 ibid. 289; Chicago Cold Storage, etc. v. People, 224 ibid. 287.</p>
+                <p id="b259-4" pgmap="259">In discussing the ordinance of the city council, in virtue of which the platform in question was built in the last case cited, the court say: “While the ordi­nance provides that the sidewalk may be used for public purposes, yet in order to use it those passing over it must go up and down five or six steps at either end. If it is not a nuisance and an obstruction, then the city might authorize private parties to erect and maintain bulkheads in every street of the city of any height. Public streets and sidewalks cannot be lawfully used for any such purpose. We are of the opinion that the platform in question was a nuisance and such an obstruction to public travel as entitled appellees to have it removed”.</p>
+                <p id="b259-5" pgmap="259">We think the foregoing expressions of opinion by the Supreme Court are decisive of the rights of appellant, that the difference between these cases and the case at bar is simply one of degree, and that the obstructions in question here fall under the ban of the law, and that the city of Chicago, through its accredited officials, has the right to abate the nuisance thus created, by remov­ing the purpresture constituting the nuisance. It is the duty of the city to see that the streets remain un­obstructed, free and untrammeled for public use, and to remove all obstacles which stand in the way of such free enjoyment by the public.</p>
+                <p id="b259-6" pgmap="259">The decree of the Superior Court dissolving the temporary injunction and dismissing appellant’s bill for want of equity, being right, is affirmed.</p>
+                <p id="b259-7" pgmap="259">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="252" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.3" BETYPE="IDREF" FILEID="alto_00126_1"/>
+              <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="235" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.2" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.1" BETYPE="IDREF" FILEID="alto_00127_0"/>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.3" BETYPE="IDREF" FILEID="alto_00127_1"/>
+              <area BEGIN="BL_254.4" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.2" BETYPE="IDREF" FILEID="alto_00128_0"/>
+              <area BEGIN="BL_255.4" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="256" ORDERLABEL="238" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jp2_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.3" BETYPE="IDREF" FILEID="alto_00128_1"/>
+              <area BEGIN="BL_256.4" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="257" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.2" BETYPE="IDREF" FILEID="alto_00129_0"/>
+              <area BEGIN="BL_257.4" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.2" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.3" BETYPE="IDREF" FILEID="alto_00129_1"/>
+              <area BEGIN="BL_258.4" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.2" BETYPE="IDREF" FILEID="alto_00130_0"/>
+              <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+              <area BEGIN="BL_259.9" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU3" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.9" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_256.10" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-12" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.12" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-11" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.11" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-10" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.10" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.5" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.6" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.6" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.7" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.6" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_259.1" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.7" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-9" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.11" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_257.1" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-8" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.8" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZa" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.10" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_253.11" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-3" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.4" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.7" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_253.8" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.12" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.5" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.6" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.8" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3m" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.9" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.7" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

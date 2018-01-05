@@ -1,0 +1,38 @@
+<div id="json_content">
+	<ul id="json_list">
+	</ul>
+</div>
+<section class="content" id="case_display">
+	<h3 id="court_name" class="subtitle has-text-centered"></h3>
+	<h1 id="case_abbreviation" class="title has-text-centered"></h1>
+	<table id="casemetadata">
+		<tbody>
+			<tr>
+				<td>Full Name</td>
+				<td id="case_name"></td>
+			</tr>
+			<tr>
+				<td>Decision Date</td>
+				<td id="decision_date"></td>
+			</tr>
+			<tr>
+				<td>Docket</td>
+				<td id="docket_number"></td>
+			</tr>
+			<tr>
+				<td>Citations</td>
+				<td>
+					<ul id="citation_list">
+					</ul>	
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+
+
+	<div id="case_body">
+		
+	</div>
+
+</section>

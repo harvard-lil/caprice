@@ -1,0 +1,611 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0118" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Ebbing v. Springfield Boiler &amp; Manufacturing Co.">Joseph H. Ebbing, Appellee, v. Springfield Boiler &amp; Manufacturing Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 594</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00306_1" MIMETYPE="image/tiff" CHECKSUM="227a336335a36dc68e10ab382b23261a" CHECKSUMTYPE="MD5" SIZE="42726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00306_1.tif"/>
+      </file>
+      <file ID="tiff_00307_0" MIMETYPE="image/tiff" CHECKSUM="88616714d9665d674102c86b29ccf2bc" CHECKSUMTYPE="MD5" SIZE="57028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00307_0.tif"/>
+      </file>
+      <file ID="tiff_00307_1" MIMETYPE="image/tiff" CHECKSUM="086b6f7e8a8a02a46cf9b7b164a3b649" CHECKSUMTYPE="MD5" SIZE="54596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00307_1.tif"/>
+      </file>
+      <file ID="tiff_00308_0" MIMETYPE="image/tiff" CHECKSUM="d333f9e0814f14492c98767d876e6a09" CHECKSUMTYPE="MD5" SIZE="52842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00308_0.tif"/>
+      </file>
+      <file ID="tiff_00308_1" MIMETYPE="image/tiff" CHECKSUM="7758194d6e22b17b7ab9097a35d57616" CHECKSUMTYPE="MD5" SIZE="55162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00308_1.tif"/>
+      </file>
+      <file ID="tiff_00309_0" MIMETYPE="image/tiff" CHECKSUM="5c8a4eca0c7a22f8dc195d2d6c645732" CHECKSUMTYPE="MD5" SIZE="56188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00309_0.tif"/>
+      </file>
+      <file ID="tiff_00309_1" MIMETYPE="image/tiff" CHECKSUM="f0f3c8bcc3787b4059eff30d893b4881" CHECKSUMTYPE="MD5" SIZE="56472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00309_1.tif"/>
+      </file>
+      <file ID="tiff_00310_0" MIMETYPE="image/tiff" CHECKSUM="5c748339dc3523add01d2a2cace3dcd0" CHECKSUMTYPE="MD5" SIZE="38132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00306_1" MIMETYPE="image/jp2" CHECKSUM="6e869ee843216dfcb9d603e8a4d89338" CHECKSUMTYPE="MD5" SIZE="2334487">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00306_1.jp2"/>
+      </file>
+      <file ID="jp2_00307_0" MIMETYPE="image/jp2" CHECKSUM="58b62723e7485c622f6854c7917262ca" CHECKSUMTYPE="MD5" SIZE="2491605">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00307_0.jp2"/>
+      </file>
+      <file ID="jp2_00307_1" MIMETYPE="image/jp2" CHECKSUM="7f91c1626cfa02d6dc3e2cd16a50858d" CHECKSUMTYPE="MD5" SIZE="2447597">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00307_1.jp2"/>
+      </file>
+      <file ID="jp2_00308_0" MIMETYPE="image/jp2" CHECKSUM="b1a267a297a9e929b5d58f1ff767afa6" CHECKSUMTYPE="MD5" SIZE="2448853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00308_0.jp2"/>
+      </file>
+      <file ID="jp2_00308_1" MIMETYPE="image/jp2" CHECKSUM="8e35a8eb8fc4b7bbdea6e3ab134d2b9a" CHECKSUMTYPE="MD5" SIZE="2430273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00308_1.jp2"/>
+      </file>
+      <file ID="jp2_00309_0" MIMETYPE="image/jp2" CHECKSUM="eec547462639b65d44df4d8b49357657" CHECKSUMTYPE="MD5" SIZE="2483638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00309_0.jp2"/>
+      </file>
+      <file ID="jp2_00309_1" MIMETYPE="image/jp2" CHECKSUM="fa652f5f61087d9ce2c33ebdb9315346" CHECKSUMTYPE="MD5" SIZE="2456787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00309_1.jp2"/>
+      </file>
+      <file ID="jp2_00310_0" MIMETYPE="image/jp2" CHECKSUM="b98eb62f558de8c1c282b099a662a77d" CHECKSUMTYPE="MD5" SIZE="2370922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00306_1" MIMETYPE="text/xml" CHECKSUM="e9e01946d48afba8ec96541331252c43" CHECKSUMTYPE="MD5" SIZE="72899">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00306_1.xml"/>
+      </file>
+      <file ID="alto_00307_0" MIMETYPE="text/xml" CHECKSUM="4a781796759cfc83d5b73172a1e1f7bf" CHECKSUMTYPE="MD5" SIZE="92374">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00307_0.xml"/>
+      </file>
+      <file ID="alto_00307_1" MIMETYPE="text/xml" CHECKSUM="37dc8a93b14d9cbd4b5bbf0a331eed96" CHECKSUMTYPE="MD5" SIZE="94983">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00307_1.xml"/>
+      </file>
+      <file ID="alto_00308_0" MIMETYPE="text/xml" CHECKSUM="822570760e2caf8cff18b29478baa3ca" CHECKSUMTYPE="MD5" SIZE="93361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00308_0.xml"/>
+      </file>
+      <file ID="alto_00308_1" MIMETYPE="text/xml" CHECKSUM="5ef0c9828aa8c0d39c1b5c1ca752ef0b" CHECKSUMTYPE="MD5" SIZE="101172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00308_1.xml"/>
+      </file>
+      <file ID="alto_00309_0" MIMETYPE="text/xml" CHECKSUM="572efaff45edf47000bb068bafb55c7d" CHECKSUMTYPE="MD5" SIZE="91248">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00309_0.xml"/>
+      </file>
+      <file ID="alto_00309_1" MIMETYPE="text/xml" CHECKSUM="9094b8dcbd8bbee9e62c3f74b7bfc4fb" CHECKSUMTYPE="MD5" SIZE="94042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00309_1.xml"/>
+      </file>
+      <file ID="alto_00310_0" MIMETYPE="text/xml" CHECKSUM="a98d7b91294a6d8c48f325f0a271d8f4" CHECKSUMTYPE="MD5" SIZE="70536">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00310_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0118" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="601" firstpage="594">
+              <parties id="b612-4" pgmap="612">Joseph H. Ebbing, Appellee, v. Springfield Boiler &amp; Manufacturing Company, Appellant.</parties>
+              <decisiondate id="A3c" pgmap="612">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b612-7" pgmap="612">Patton &amp; Patton, for appellant.</attorneys>
+              <attorneys id="b612-8" pgmap="612">William A. Northcott, Alonzo Hoff and Walter A. Orr, for appellee.</attorneys>
+              <summary id="b612-6" pgmap="612">Action in case for personal injuries. Appeal from the Circuit Court of Sangamon county; the Hon. James A. Creighton, Judge, presiding. Heard in this court at the November term, 1907.</summary>
+              <disposition id="ATI" pgmap="612">Re­versed, with finding of fact.</disposition>
+              <headnotes id="b612-5" pgmap="612">Master and servant—when latter cannot recover. A servant who having a discretion to adopt his own methods of doing work, wantonly, knowing and appreciating the relative dangers of both, elects to adopt the more dangerous method, does so at his peril and cannot recover for an injury resulting from his own conduct in that regard.</headnotes>
+              <opinion type="majority">
+                <author id="b612-9" pgmap="612">Mr. Justice Baume</author>
+                <p id="A-" pgmap="612">delivered the opinion of the court.</p>
+                <p id="b612-10" pgmap="612">Joseph H. Ebbing brought his action on the case against the Springfield Boiler &amp; Manufacturing Co., to recover damages for personal injuries alleged to have been sustained through the negligence of defendant and recovered a verdict and judgment in the Circuit Court of Sangamon county for $6,590. The defendant ap­pealed.</p>
+                <p id="b612-11" pgmap="612(94) 613(101)">The case was submitted to the jury upon the amended first count and the fourth and fifth counts of the declaration. The amended first count charges that appellee was employed by appellant as a boiler maker and that it was the duty of appellant to exercise rea­sonable care to provide appellee with a reasonably safe place in which to work; that appellant failed in the per­formance of said duty and subjected appellee to extra­ordinary risk and hazard, in this, that a foreman and vice principal of appellant ordered appellee to remove a certain wire cable from an iron girder, upon which said girder was an iron track, upon which track there was operated a certain iron crane;that appellee did not know the unsafe character of said place of work, which was known, or by the exercise of ordinary care could have been known to appellant; that while appellee was then and there so at work, by the direction aforesaid, and while exercising due care for his own safety, and not thereby assuming the risk, the said crane with great force and violence ran over and upon the leg of appel­lee, etc.</p>
+                <p id="b613-4" pgmap="613(276) 614(77)">The fourth count alleges that appellee was directed by the foreman of appellant to go from his work of boiler making, to and upon said iron girder and track, and to remove said wire cable therefrom; that appellee was then and there unfamiliar with the state and condi­tion of said girder and iron track over which said crane ran, and was unfamiliar with and had no knowledge of the manner in which said crane was used and operated by appellant and its servants, not fellow servants of ap­pellee; that appellee was then and there carelessly and negligently directed by said foreman or superintendent to go to said place of work, which said place of work was extremely dangerous by reason of the operation of said crane upon and over said track upon the said iron girder, all of which the appellant well knew or could have known by the exercise of reasonable care in that behalf; that said iron crane was operated by a certain engine under the control of appellant, and it was then and there the duty of appellant, through or by its said foreman or superintendent, to have notified the engi­neer of said crane, that appellee was so at work upon said iron girder and track, and to have ordered said engineer to stop said crane from running over and upon said track upon said iron girder while appellee was so then and there at work; that in obedience to said order of the foreman appellee then and there climbed upon said iron girder and began to remove said cable, appellee not thereby assuming the risk thereof, and then and there exercising all due care and caution for his own safety in the performance of said work; that appellee while he was so at work then and there, and by reason of the negligence of the said foreman or superintend­ent in failing to notify said engineer to stop the run­ning and operation of said crane, the said crane then and there, with great force and violence, ran against and over the leg of appellee, etc.</p>
+                <p id="b614-5" pgmap="614">The fifth count alleges the same facts, and avers that it was then and there the duty of appellant’s foreman to have stopped the running of said crane upon said track while appellee was engaged in removing said wire cable therefrom, and further avers a breach of said duty.</p>
+                <p id="b614-6" pgmap="614(263) 615(39)">The facts disclosed by the evidence are substantially as follows: The main boiler shop of appellant is di­vided into three sections or aisles by two rows of steel columns running east and west, making a wide central aisle and two narrower aisles, one to the north of the north row of posts and one to the south of the south row. The north aisle is about forty feet in width and from 150 to 200 feet in length. Supported on the row of steel columns, about twenty feet from the ground is a steel girder about two feet in height, consisting at the top and bottom of V shaped pieces riveted to­gether and connected by steel slats running trans­versely from the opposite sides. Upon the top of this girder, which is about a foot in width, is a steel rail, and on the north wall of the shop is a similar girder and rail. The crane here involved is a steel structure about forty feet in length, spanning from one girder to the other and at each end of the span are wheels whereby the crane is moved east and west upon the track, consist­ing of the girders and rails as described. The crane is operated by electricity by a crane man who sits in a chair on the north end of the span and on the east side of it, and is used for lifting and carrying heavy boiler material from one part of the shop to another within the aisle where it operates. In the center aisle of the shop a crane similar in construction but much larger is operated upon girders and tracks fastened to the north and south row of columns, about twelve or fifteen feet above the girder supporting the crane in question.</p>
+                <p id="b615-5" pgmap="615">On October 13, 1906, appellee was employed in pack­ing machinery under the direction of Sprinkel as fore­man, and continued at that work until October 15th, when he was directed by Sprinkel to take down a wire cable which was hung on blocks which were wedged be­neath the top of the girder which supported the south rail of the crane track. For the purpose of doing this work appellee climbed upon the girder by means of a ladder fixed to one of the upright steel columns, which ladder was provided for the use of the em­ploye operating the crane in reaching the same. Ap­pellee then walked upon the girder toward the west end of the shop to the place where he was required to begin work, and there facing the east he put his right leg over the top of the girder and rail and standing with his left foot on the lower flange of the girder he stooped over and proceeded with his work. He had thus worked for about an hour, moving toward the east as he knocked out the several blocks which held the cable, when the crane was moved westward upon its track and the wheels ran over his right leg inflicting the in­jury complained of.</p>
+                <p id="b615-6" pgmap="615(128) 616(245)">Appellee testified that when he was directed by Sprinkel to do the work he went in search of a ladder to use for that purpose; that the only ladder long-­enough to reach the girder was then in use; that he reported to Sprinkel that he could not get a ladder and inquired how he should get up to do the work, and what tools he would require; that Sprinkel told him to use the crane man’s ladder and get up on the girder and do the work there; that the crane was then standing-­on the track near the crane man’s ladder; that when Sprinkel told him to get up on the girder, he (Sprinkel) said to him: “As you go up look out for the crane,” or “You get up there, look out for the crane; it is standing right there by the ladder; ’ ’ that Sprinkel then walked away to talk with the men on the floor of the shop who were engaged in handling the tongs used for the purpose of grappling the material which was to be moved by the crane; that the crane was then moved to the east end of the shop where Sprinkel followed it; that while he was at work on the girder, as before stated, he looked toward the crane several times and on each occasion it was stationary at the east end of the shop, a distance of about 140 feet from where he was working; that in doing the work required he necessa­rily, had to keep his head down to see the wire cable; that there was considerable noise in the shop occa­sioned by the operation of pneumatic hammers, the riveting of boilers and the operation of the large crane in the center aisle of the shop, and there was some smoke rising from several coke stoves in which coal was then being burned; that by raising his head at any time while he was working he could have seen the crane if it was coming toward him; and that if he' had seen the crane coming he could have climbed down on to the braces of the girder and gotten out of the way of the crane.</p>
+                <p id="b616-5" pgmap="616">Sprinkel testified that appellee had to go up on the girder in some shape to properly do the work; that he directed appellee to go up there, but did not remember whether he told him to go on top of the girder or to go up on the girder; that the way in which appellee did the work was the quickest way to do it, and the way which almost every one would have selected; that when he directed appellee to do the work he told him “If you get on top in the road of the crane where it is liable to run over you, look out for it;” that he did not see appellee after he directed him to do the work until the accident happened, and that he did not instruct the crane man not to operate the crane over the portion of the track where appellee was at work. The evidence discloses that the crane man, Heinen, had no notice or knowledge that appellee was working upon the girder.</p>
+                <p id="b617-3" pgmap="617">In the view we are constrained to take of this case it will only he necessary to consider and determine the question whether or not appellee was, under the evi­dence in the record, in the exercise of due care for his own safety at the time he was injured. The averments in the several counts of the declaration that appellee did not know the unsafe character of the place of work, that he was unfamiliar with the state and condition of the girder, and that he had no knowledge of the manner in which the crane was used and operated, are wholly unsupported by any evidence in the record. On the contrary, it is conclusively established by the evidence that he was thoroughly familiar with the purposes for which the crane was used and with the manner of its operation upon the track, the south rail of which was supported by the girder in question.</p>
+                <p id="b617-4" pgmap="617">At the time of his injury appellee was 23 years of age. Previous to his employment by appellant he had worked for two years and a half in a large boiler shop in Peoria, where a similiar crane was in use, and had frequently observed the manner in which it was used and operated. He was employed by appellant in Octo­ber 1905, and worked in the shop while the machinery was being installed, and from May 1906, when the cranes were put in operation, until his injury in Octo­ber following, appellee worked in the shop, saw the cranes in operation daily engaged in moving boilers which he had assisted in constructing.</p>
+                <p id="b617-5" pgmap="617(104) 618(384) 619(62)">It is not claimed on behalf of appellee that appel­lant’s foreman, Sprinkel, gave him directions to assume the precise position upon the girder, which appellee found it most convenient to assume while doing the work, or that Sprinkel said anything which would jus­tify appellee in assuming that the crane would not be permitted to run while he was doing the work, or that any warning would be given him when the crane was about to be operated. Assuming that Sprinkel di­rected appellee to go upon the girder to do the work, the warning given by Sprinkel to appellee in the. Ian­guage testified to by the latter, viz., “As you go up look out for the crane,” or “You get up there, look out for the crane, it is standing right there by the ladder, ’ ’ clearly shows that appellee had no reason to suppose that the crane would not be permitted to run while he was at work, or. that any further warning would be given him, but rather that appellee must look out for the crane while he was at work. The contention on be­half of appellee that the warning only related to the care to be exercised by appellee, with reference to the crane, while he was climbing the ladder, and while the crane was standing upon the track in close proximity to the ladder, is manifestly unreasonable. The posi­tion of the crane at that time was as patent to appellee as it was to Sprinkel, and appellee must have known that no danger was to be apprehended from the crane while it thus remained stationary upon the track.. That appellee understood that the warning applied to the danger to be apprehended from the movement of the crane, while he was at work, is obvious from the fact that he repeatedly looked at the crane, after it had moved to the east end of the shop, for the purpose of observing its location. The position he voluntarily as­sumed upon the girder required him to keep his head down while knocking out the wedges, but even in that position he was at liberty to raise his head at any time» and by his own admission, he could, by so doing, have seen the crane approaching and avoided injury by re­moving his right leg and getting down upon the lower portion of the girder. Furthermore, the position which he voluntarily assumed was manifestly dangerous and unnecessary in the performance of the work required of him. He could have done the work safely by sitting upon the lower portion of the girder. It is elementary that an employe, who, having the discretion to adopt his own methods of doing work, wantonly, Imowing and appreciating the relative dangers of both, elects to adopt the more dangerous method, does so at his peril, and cannot recover for an injury resulting from his conduct in that regard. Illinois Steel Co. v. McNulty, 105 Ill. App. 594. Leighton &amp; Howard Steel Co. v. Snell, 217 Ill. 152, relied upon by appellee is clearly distinguishable from the case at bar. In the Snell case the evidence disclosed that the injured servant was inexperienced and that his superior was present while he was attempting to execute the order.</p>
+                <p id="b619-5" pgmap="619">The judgment of the Circuit Court will be reversed, with a finding of fact to be incorporated in the judgment.</p>
+                <p id="b619-6" pgmap="619">Reversed with finding of fact.</p>
+                <p id="b619-7" pgmap="619">Finding of fact: We find as an ultimate fact that appellee was guilty of negligence which contributed ' to his injury.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="612" ORDERLABEL="594" TYPE="page">
+        <fptr FILEID="tiff_00306_1"/>
+        <fptr FILEID="jp2_00306_1"/>
+        <fptr FILEID="alto_00306_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_612.1" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_612.2" BETYPE="IDREF" FILEID="alto_00306_1"/>
+              <area BEGIN="BL_612.3" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="613" ORDERLABEL="595" TYPE="page">
+        <fptr FILEID="tiff_00307_0"/>
+        <fptr FILEID="jp2_00307_0"/>
+        <fptr FILEID="alto_00307_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.3" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.2" BETYPE="IDREF" FILEID="alto_00307_0"/>
+              <area BEGIN="BL_613.4" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="614" ORDERLABEL="596" TYPE="page">
+        <fptr FILEID="tiff_00307_1"/>
+        <fptr FILEID="jp2_00307_1"/>
+        <fptr FILEID="alto_00307_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_614.2" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_614.3" BETYPE="IDREF" FILEID="alto_00307_1"/>
+              <area BEGIN="BL_614.4" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="615" ORDERLABEL="597" TYPE="page">
+        <fptr FILEID="tiff_00308_0"/>
+        <fptr FILEID="jp2_00308_0"/>
+        <fptr FILEID="alto_00308_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_615.3" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_615.2" BETYPE="IDREF" FILEID="alto_00308_0"/>
+              <area BEGIN="BL_615.4" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="616" ORDERLABEL="598" TYPE="page">
+        <fptr FILEID="tiff_00308_1"/>
+        <fptr FILEID="jp2_00308_1"/>
+        <fptr FILEID="alto_00308_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.2" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.3" BETYPE="IDREF" FILEID="alto_00308_1"/>
+              <area BEGIN="BL_616.4" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="617" ORDERLABEL="599" TYPE="page">
+        <fptr FILEID="tiff_00309_0"/>
+        <fptr FILEID="jp2_00309_0"/>
+        <fptr FILEID="alto_00309_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_617.2" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_617.1" BETYPE="IDREF" FILEID="alto_00309_0"/>
+              <area BEGIN="BL_617.3" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="618" ORDERLABEL="600" TYPE="page">
+        <fptr FILEID="tiff_00309_1"/>
+        <fptr FILEID="jp2_00309_1"/>
+        <fptr FILEID="alto_00309_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_618.2" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_618.3" BETYPE="IDREF" FILEID="alto_00309_1"/>
+              <area BEGIN="BL_618.4" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="619" ORDERLABEL="601" TYPE="page">
+        <fptr FILEID="tiff_00310_0"/>
+        <fptr FILEID="jp2_00310_0"/>
+        <fptr FILEID="alto_00310_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.3" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.2" BETYPE="IDREF" FILEID="alto_00310_0"/>
+              <area BEGIN="BL_619.4" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.5" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.6" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_616.1" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.5" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.6" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            <area BEGIN="BL_615.1" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.5" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.11" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.6" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            <area BEGIN="BL_612.7" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.5" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.4" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-9" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.13" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-8" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.12" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.5" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.14" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            <area BEGIN="BL_612.15" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-3" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.4" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-4" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.5" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            <area BEGIN="BL_614.1" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-11" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.17" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            <area BEGIN="BL_613.1" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-10" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.16" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.5" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-6" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.6" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-7" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.7" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3c" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.10" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-5" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.6" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            <area BEGIN="BL_618.1" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            <area BEGIN="BL_619.1" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATI" BETYPE="IDREF" FILEID="casebody_0118"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.8" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            <area BEGIN="BL_612.9" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

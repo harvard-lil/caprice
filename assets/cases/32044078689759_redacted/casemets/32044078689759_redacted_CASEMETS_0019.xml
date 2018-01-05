@@ -1,0 +1,981 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0019" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="O’Shaugnnessy v. Chicago City Railway Co.">Thomas M. O’Shaugnnessy, Appellee, v. Chicago City Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 14,151</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 174</citation>
+          <decisiondate>1908-10-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="ed1ff6fce08e70f7689270ffa7524bb4" CHECKSUMTYPE="MD5" SIZE="51850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00095_1.tif"/>
+      </file>
+      <file ID="tiff_00096_0" MIMETYPE="image/tiff" CHECKSUM="91213a7d73c04d32aa24f2bd9a167329" CHECKSUMTYPE="MD5" SIZE="47000">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00096_0.tif"/>
+      </file>
+      <file ID="tiff_00096_1" MIMETYPE="image/tiff" CHECKSUM="15fd2c3ca8b9effecc28be7dcead8740" CHECKSUMTYPE="MD5" SIZE="51446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00096_1.tif"/>
+      </file>
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="157514aa156c64a06fc501cc91bf45c2" CHECKSUMTYPE="MD5" SIZE="54562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="ea3366bdae436fc71ad2fc2ed8e675a3" CHECKSUMTYPE="MD5" SIZE="51886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00097_1.tif"/>
+      </file>
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="46014fb75826591ee9c23aa5df9371e7" CHECKSUMTYPE="MD5" SIZE="50664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00098_0.tif"/>
+      </file>
+      <file ID="tiff_00098_1" MIMETYPE="image/tiff" CHECKSUM="0cfba51cef274094ac1d2464e19dd4d0" CHECKSUMTYPE="MD5" SIZE="51176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00098_1.tif"/>
+      </file>
+      <file ID="tiff_00099_0" MIMETYPE="image/tiff" CHECKSUM="86bcad0af6658a546109d3af149fde94" CHECKSUMTYPE="MD5" SIZE="50768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00099_0.tif"/>
+      </file>
+      <file ID="tiff_00099_1" MIMETYPE="image/tiff" CHECKSUM="233cb5245ccbfda0c76fea17634f987c" CHECKSUMTYPE="MD5" SIZE="52938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00099_1.tif"/>
+      </file>
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="b84bd70185f1234dfe20aae6a90f338b" CHECKSUMTYPE="MD5" SIZE="41996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00095_1" MIMETYPE="image/jp2" CHECKSUM="3910252d96ec555bed4221af403094ee" CHECKSUMTYPE="MD5" SIZE="2332364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00095_1.jp2"/>
+      </file>
+      <file ID="jp2_00096_0" MIMETYPE="image/jp2" CHECKSUM="a30c4f48ad357996373c353f46506ee7" CHECKSUMTYPE="MD5" SIZE="2362983">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00096_0.jp2"/>
+      </file>
+      <file ID="jp2_00096_1" MIMETYPE="image/jp2" CHECKSUM="8aa2353761f4267a93911d574d4ff8d9" CHECKSUMTYPE="MD5" SIZE="2337317">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00096_1.jp2"/>
+      </file>
+      <file ID="jp2_00097_0" MIMETYPE="image/jp2" CHECKSUM="7bd1cfed51694cfbb574f4453e97e409" CHECKSUMTYPE="MD5" SIZE="2415100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00097_0.jp2"/>
+      </file>
+      <file ID="jp2_00097_1" MIMETYPE="image/jp2" CHECKSUM="b8885ad14dc684e6aa03cb3d93977141" CHECKSUMTYPE="MD5" SIZE="2353681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00097_1.jp2"/>
+      </file>
+      <file ID="jp2_00098_0" MIMETYPE="image/jp2" CHECKSUM="3a6eb08854305f5faff6ffaab266b125" CHECKSUMTYPE="MD5" SIZE="2400017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00098_0.jp2"/>
+      </file>
+      <file ID="jp2_00098_1" MIMETYPE="image/jp2" CHECKSUM="bebe7ae2eb6c16e8683941164004cfe7" CHECKSUMTYPE="MD5" SIZE="2352618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00098_1.jp2"/>
+      </file>
+      <file ID="jp2_00099_0" MIMETYPE="image/jp2" CHECKSUM="06cd6eba8dd8771110875ced51aad893" CHECKSUMTYPE="MD5" SIZE="2395545">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00099_0.jp2"/>
+      </file>
+      <file ID="jp2_00099_1" MIMETYPE="image/jp2" CHECKSUM="c667b78d797c8ed44b38ee9458af10c3" CHECKSUMTYPE="MD5" SIZE="2371466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00099_1.jp2"/>
+      </file>
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="23b1e7b7c216fb735e40323374e4c49e" CHECKSUMTYPE="MD5" SIZE="2327784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00100_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00095_1" MIMETYPE="text/xml" CHECKSUM="7fc949dd01dd2aca84257190eea46b5c" CHECKSUMTYPE="MD5" SIZE="102330">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00095_1.xml"/>
+      </file>
+      <file ID="alto_00096_0" MIMETYPE="text/xml" CHECKSUM="c37d2915ac4bc64e403149fbec063a79" CHECKSUMTYPE="MD5" SIZE="83474">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00096_0.xml"/>
+      </file>
+      <file ID="alto_00096_1" MIMETYPE="text/xml" CHECKSUM="a6bc6e1004ae1e430a67283b321b4861" CHECKSUMTYPE="MD5" SIZE="86714">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00096_1.xml"/>
+      </file>
+      <file ID="alto_00097_0" MIMETYPE="text/xml" CHECKSUM="5dc4ec380e2fcb7624a5196310fc0857" CHECKSUMTYPE="MD5" SIZE="91972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00097_0.xml"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml" CHECKSUM="2539c13bea3b8a4530a1474a45dba7c5" CHECKSUMTYPE="MD5" SIZE="85590">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00097_1.xml"/>
+      </file>
+      <file ID="alto_00098_0" MIMETYPE="text/xml" CHECKSUM="9fed72a55d7a45fdea43571c1b077510" CHECKSUMTYPE="MD5" SIZE="84830">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00098_0.xml"/>
+      </file>
+      <file ID="alto_00098_1" MIMETYPE="text/xml" CHECKSUM="6f160684b066377ca734d6213dc7a6d3" CHECKSUMTYPE="MD5" SIZE="81088">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00098_1.xml"/>
+      </file>
+      <file ID="alto_00099_0" MIMETYPE="text/xml" CHECKSUM="4aea0fdaef49be241d7201521ee7485c" CHECKSUMTYPE="MD5" SIZE="85379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00099_0.xml"/>
+      </file>
+      <file ID="alto_00099_1" MIMETYPE="text/xml" CHECKSUM="ce43af2f202886cbe9fd3462a6a8995a" CHECKSUMTYPE="MD5" SIZE="94123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00099_1.xml"/>
+      </file>
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="de3a0fffc92f6949b2246baf5646ad4c" CHECKSUMTYPE="MD5" SIZE="73104">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00100_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="183" firstpage="174">
+              <docketnumber pgmap="190" id="b190-5">Gen. No. 14,151.</docketnumber>
+              <parties pgmap="190" id="b190-4">Thomas M. O’Shaugnnessy, Appellee, v. Chicago City Railway Company, Appellant.</parties>
+              <decisiondate pgmap="191" id="ANx">Opinion filed October 20, 1908.</decisiondate>
+              <otherdate pgmap="191" id="A-D">Heard in the Branch Appellate Court at the- October term, 1907.</otherdate>
+              <attorneys pgmap="191" id="b191-5">West, Eckhart &amp; Taylor and William Rothmann, for appellant.</attorneys>
+              <attorneys pgmap="191" id="b191-6">Weissenbach &amp; Meloan, for appellee.</attorneys>
+              <summary pgmap="191" id="b191-4">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Theodore Brentano, Judge, presid­ing.</summary>
+              <disposition pgmap="191" id="AgL">Affirmed.</disposition>
+              <headnotes pgmap="190" id="b190-6">1. Verdict—when not set aside as against the evidence. A ver­dict will not be set aside on review as against the weight of the evidence unless palpably so.</headnotes>
+              <headnotes pgmap="190" id="b190-7">2. Verdict—when not excessive. A verdict for $1,500 rendered in an action for personal injuries is not excessive where it appears that the plaintiff as a result of the accident in question received an injury to his hand, was incapacitated to labor as a result of the injury and suffered pain.</headnotes>
+              <headnotes pgmap="190" id="b190-8">3. Evidence—lucero objection to question calling for expert opin­ion properly sustained. If a witness under cross-examination has testified to the facts as he saw or remembered them and has not qualified as an expert and has given no testimony showing any peculiar experience relative to the subject-matter of the inquiry, an objection to a question as follows, is properly sustained: “When you are riding on a grip-car, can you tell when the cable is released with­out seeing it done?”</headnotes>
+              <headnotes pgmap="190" id="b190-9">4. Evidence'—when refusal of court to strike out answer as con­clusive not ground for reversal. Notwithstanding an answer should have been stricken out as the statement of a conclusion, the refusal of the court to strike out the same is not ground for reversal unless prejudice appears.</headnotes>
+              <headnotes pgmap="190" id="b190-10">5. Evidence—what attending physician may properly testify to. In an action for personal injuries the attending physician of the plaintiff may properly testify that there was numbness of the fin­gers of the plaintiff, where such physician further shows by his tes­timony that he was not making such statement purely from declara­tions made to him by the plaintiff.</headnotes>
+              <headnotes pgmap="190" id="b190-11">6. Evidence—when objection to hypothetical question properly sustained. In the absence of a foundation of facts being contained in the record, an objection to a hypothetical question is properly sustained.</headnotes>
+              <headnotes pgmap="190" id="b190-12">7. Evidence—when question improperly calls for conclusion and invades province of jury. A question as follows is subject to the objection that it calls for a conclusion and invades the province of the jury: “You may state what the driver was doing, how he was driving, as to whether or not he apparently intended to drive across the track.”</headnotes>
+              <headnotes pgmap="190(40) 191(39)" id="b190-15">8. Instructions—when containing abstract proposition of law not misleading. An instruction is not prejudicially misleading which tells the jury “neither by these instructions nor by any words uttered or remark made by the court during this trial, does or did the court intimate or mean to give, or wish to be understood as giving, an opinion as to what the proof is or what it is not, or what the facts are or what are not the facts therein.”</headnotes>
+              <opinion type="majority">
+                <author pgmap="191" id="b191-7">Mr. Presiding Justice Smith</author>
+                <p pgmap="191" id="A5L">delivered the opinion of the court.</p>
+                <p pgmap="191" id="b191-8">Appellant prosecutes this appeal to reverse a judg­ment of the Superior Court against it in favor of ap­pellee, for personal injuries sustained by him March 24,1905.</p>
+                <p pgmap="191" id="b191-9">On that date appellee, then a boy between twelve and thirteen years of age, boarded a southbound State street cable train of appellant at the intersection of Adams and State streets. He took a seat on the front seat of the grip car on the east or left hand side of the car. A man named Brackett was in the same seat with him on the end or outside of the seat, appellee being on the inside. As the train approached the intersec­tion of Sixteenth and State streets it collided with a wagon belonging to the Paepcke-Leicht Lumber Com­pany, drawn by two horses, and in charge of a driver, which was being driven out of Sixteenth street across the tracks of appellant in a northeasterly direction. By the collision the dashboard on the front end of the grip car was bent back and appellee’s right hand was caught and injured.</p>
+                <p pgmap="191(44) 192(35)" id="b191-10">The declaration consists of three counts. The first count avers that while a certain car of appellant was running in a southerly direction along State street at or near the intersection of Sixteenth street appellant, by its servants, so carelessly and negligently drove and managed the said car that it ran into and struck with great force and violence a certain wagon, whereby the plaintiff, who was in the exercise of due care for his own safety, was injured.</p>
+                <p pgmap="192" id="b192-5">The negligence of appellant averred in the second count is the failure to “keep a proper lookout that the said car should not strike against and collide with wagons and other vehicles upon said street,” by rea­son whereof the car with great force and violence ran into and struck against a certain wagon, etc.</p>
+                <p pgmap="192" id="b192-6">The third count alleges that “the defendant did not use due and proper care that the plaintiff should be safely and securely carried; that while the driver of the car was looking in a direction other than along the railroad track of the defendant in front of and ahead of said grip car, said grip car with great force and violence ran into and struck a certain wagon,” etc.</p>
+                <p pgmap="192" id="b192-7">Appellant pleaded the general issue. The record in this case shows no controversy as to the following facts: On March 24, 1905, appellee, a boy, not quite thirteen years of age, was a passenger on a south­bound State street cable train owned and operated by appellant, and that he was sitting on the front seat of the grip car near the east side of the ear; that at or near the intersection of Sixteenth and State streets the car collided with a wagon and that appellee suf­fered the injury complained of in the declaration in and as a result of the collision; and that appellee was not guilty of contributory negligence. The question of fact, therefore, for the trial court and jury to de­termine was as to the negligence of appellant.</p>
+                <p pgmap="192(59) 193(40)" id="b192-8">The testimony bearing upon this question was con­flicting. A large number of witnesses, including the plaintiff, testified to various circumstances in connec­tion with the accident. They say that when they first saw the horses and wagon in question the train was then from thirty to sixty-five feet distant from the point where the collision occurred. One witness, WardensM, the teamster in charge of the team and an employe of Paepcke-Leicht Lumber Company, put the distance at 300 feet. Eight witnesses, including the plaintiff and three of his witnesses, stated the dis­tance as sixty feet or less.</p>
+                <p pgmap="193" id="b193-4">The speed of the train at the time the team was first seen crossing the track is variously stated by the wit­ness as the ordinary or regular rate of speed, “full” speed, “not full speed,” “half speed,” and at five or six, six or seven, and eight or nine miles per hour. The horses were walking.</p>
+                <p pgmap="193(275) 194(22)" id="Ahd">There was some conflict as to whether or not the gripman rang his bell. The plaintiff and two other witnesses testified that no bell was rung. Wardenski said he did not hear a bell rung. Six witnesses for the defendant testified that the bell was rung. The wit­nesses differed as to the point where the gripman released the cable. The gripman testified that he released the cable at a point between Fifteenth street and the Illinois Central Bailroad crossing, which is placed by the witnesses at from fifty to three hundred feet north of Sixteenth street; and that from that time on he did not have a tight hold on the cable. He fur­ther said that when he first saw the horses their heads were twelve to fourteen feet from the track. “At that time he did not think the driver was going to try to drive across the track ahead of us. The car was about sixty feet away.” He testifies that when he became aware that the driver intended to cross the track ahead of him, the horses were about five feet from the track and the train twenty feet from the horses. There is testimony that the gripman, upon seeing that the dri­ver intended to cross the railroad track, at once ap­plied the brake and sanded the track. One enthusias­tic witness, Nolan, says “he reversed his power” which would be a somewhat difficult feat to accomplish at that distance from the power plant of a cable sys­tem. There is testimony on the other hand that the gripman was looking to the west, not along the track and had his hand upon the lamp; that he made no at­tempt to check the car, and appeared to be excited.</p>
+                <p pgmap="194" id="b194-5">The evidence shows that the southeast corner of the grip-car struck the wagon either on the rear wheel or between the front and rear wheels. The accident hap­pened about noon. The day was cloudy. The surface of the street and rails was wet and muddy. The wagon was pushed off the track, but was practically unin­jured. The front part of the dashboard of the car was broken or bent inward or backward, and the car itself was derailed by the horses and wagon, pulling it off the track, it is claimed.</p>
+                <p pgmap="194" id="b194-6">It is urged on behalf of appellant that the cause should not have been submitted to the jury; that there was no evidence before the jury on which it could find the defendant guilty of negligence, without acting un­reasonably in the eye of the law.</p>
+                <p pgmap="194" id="b194-7">In our opinion, however, there was evidence before the jury tending to prove the negligence of appellant averred in the declaration. The evidence introduced on behalf of appellee standing by itself, if believed by the jury, would warrant a verdict finding appellant guilty of the negligence averred. The motions of the defendant to instruct the jury to find for the defend­ant were, therefore, properly overruled.</p>
+                <p pgmap="194(119) 195(12)" id="b194-8">It is apparent, we think, from the record that there is a great conflict in the testimony of the witnesses rel­ative to the question of appellant’s negligence. It is impossible to reconcile the evidentiary facts testified to by the witnesses upon any theory of the case. The reasonableness or unreasonableness of the testimony of the several witnesses, their interest or lack of inter­est in the case, their respective situations and oppor­tunities to observe, and their manner of testifying and their intelligence, were all matters for the considera­tion of the jury in determining the weight and value of their evidence. Upon a review of the evidence we cannot say that the verdict is palpably against the weight of the evidence and should be set aside for that reason.</p>
+                <p pgmap="195" id="b195-4">On the trial appellant’s counsel asked the plaintiff, who had testified on direct examination that when he first saw the wagon the car was then about forty or fifty feet away, and had repeated the statement on his cross-examination, the following question: “Q. How far would you say it is from where you are sitting to the end of that room (indicating the end of the court room)?” The court sustained an objection to the question. We think the ruling was not erroneous.</p>
+                <p pgmap="195" id="b195-5">Dr. Hensler had treated appellee’s hand for a period of six months and was a witness on the trial. On cross-examination appellant’s attorney asked him the following question: “Q. He has got a pretty good hand, hasn’t he?” Without waiting for an objection from plaintiff’s attorney the court said: “The jury can determine that.” This was not reversible error, in our opinion.</p>
+                <p pgmap="195" id="b195-6">Witness Lemon, on his direct examination, testified that the gripman of the car shouted “hey there” and did nothing else. He also said the car struck the rear wheel of the wagon. On the cross-examination of this witness appellant’s attorney put this question: “Q. When you are riding on a grip-car, can you tell when the cable is released without seeing it done?” An objection to this question was sustained by the court. The-witness had testified to the facts as he saw and re­membered them. He had not qualified as an expert, nor was his testimony based on any experience rela­tive to the subject-matter of the question. We think the ruling of the court was not erroneous.</p>
+                <p pgmap="195" id="b195-7">In our opinion, the statement of the witness Bailey that “the gripman could not have made any attempt to stop the car anyway, the way the car was going at full speed,” should have been stricken out as it was evidently his conclusion, but we do not think the re­fusal to strike it out is reversible error.</p>
+                <p pgmap="195(9) 196(36)" id="b195-8">It is urged that Dr. Hensler’s testimony that “there is a numbness of the fingers,” should have been stricken out for the reason that he was testifying to a purely subjective condition, not discoverable by a physician except from statements made by the pa­tient.</p>
+                <p pgmap="196" id="b196-5">The doctor’s testimony shows that he treated ap­pellee’s hand from March to the following September. On cross-examination appellant’s attorney asked the witness: “Q. Is there anything apparent besides the scars?” After enumerating several things the witness said that the hand was large and blue, and showed that the circulation of blood in the hand was very poor and that there was a numbness of the fingers. In our opinion the court properly refused to strike out the statement of the witness, for the reason that he was the attending physician and could therefore testify to all that he discovered in the course of his treatment.</p>
+                <p pgmap="196" id="b196-6">The record shows no exception taken to the ruling of the court, while Dr. Burland was being examined, permitting the witness to refresh his recollection from entries in his book made at the time of treatment of appellee’s injury, and permitting the witness to read from his memorandum. The ruling is not presented, therefore, for review.</p>
+                <p pgmap="196" id="b196-7">No foundation for the hypothetical question put to the witness, Dr. Sweeney, is pointed out to us in the record, and we find no evidence on which to base it. The facts are not referred to in the question. The court, therefore, properly sustained an objection to the question.</p>
+                <p pgmap="196(78) 197(24)" id="b196-8">Counsel for appellant put to Dr. Small, a witness called by appellant, the following question: “Q. Did you see anything about the hand that in your judg­ment ought to impair its usefulness in any way?’'’ The court sustained an objection to the question. The witness subsequently answered the question without objection whether he observed anything “which in his judgment does impair the usefulness of the hand.” If there was any error in the ruling upon the question it was harmless, for appellant secured from the witness his opinion in substance on the question of the im­paired usefulness of the hand.</p>
+                <p pgmap="197" id="b197-4">We think the court did not err in striking out the answer of the witness Nolan to the question: “Q. You may state what the driver was doing, how he was driving, as to whether or not he apparently intended to drive across the track?” The last clause of the question, to which the witness responded in his an­swer, called for the conclusion of the witness. It was for the jury, not the witness, to draw its conclusions from the facts.</p>
+                <p pgmap="197" id="b197-6">Our attention is directed to remarks made by the court in the presence of the jury during the progress of the trial, which it is claimed were calculated to in­fluence the jury against appellant and were prejudi­cial to it. We have carefully considered the remarks referred to, and we are of the opinion that they do not constitute reversible error.</p>
+                <p pgmap="197" id="b197-7">Considering the age of appellee, the injury to his hand and the time he was incapacitated as the result of the injury, and the pain and suffering shown by the evidence, we cannot say that the verdict and judgment of $1,500 is excessive in amount.</p>
+                <p pgmap="197" id="b197-8">The second instruction given at the request of the appellant is as follows:</p>
+                <blockquote pgmap="197" id="b197-9">“You are further instructed that a street railway company as a carrier of passengers is held by the law to the use of highest degree of care consistent with the practical operation of its railroad and is bound to do all that human care, vigilance and foresight can rea­sonably do, consistent with the mode of conveyance, the practical operation of its railroad and the exercise of its business as a carrier.”</blockquote>
+                <p pgmap="197(47) 198(58)" id="b197-10">While counsel for appellant concede that the in­struction states a correct rule of law, it is contended that because no application "is made of the rule to the facts in this case, the giving of the instruction was prejudicial to appellant, for the reason that impliedly it assumes the existence of material facts in the con­troversy. It is insisted that by this instruction the jury were given to understand, and no doubt did un­derstand, that appellant failed to use “the highest degree of care” and that it did not do all that “human care, vigilance and foresight can reasonably do. ’ ’</p>
+                <p pgmap="198(328) 199(110)" id="b198-5">In Chicago City Ry. Co. v. Smith, 226 Ill. 178, this instruction in substance was approved as announcing an abstract rule of law correctly. In slightly different phraseology the instruction has often received the sanction of the Supreme Court of this state. But the identical objection here made to the instruction has not been presented to the Supreme Court, so far as we are advised, in this kind of a case, and where, as in this case, the instruction was one of a series of in­structions which cover the question of the burden of proof, the credibility of witnesses, the theory of the defendant’s case, the duty of the jury to consider the case in all its bearings the same as they would if the case involved a controversy between private citizens, the duty of the jury, if they believe the careless or unskillful manner of driving the wagon was the sole cause of the injury, to find the defendant not guilty, the necessity of proof that the defendant was negli­gent in the running, management and operation of the car in the manner alleged in the declaration before the plaintiff can recover, that “neither by these instruc­tions nor by any words uttered or remark made by the court during this trial, does or did the court intimate or mean to give, or wish to be understood as giving, an opinion as to what the proof is or what it is not, or what the facts are or what are not the facts therein.” Considering the instruction as one of the series of instructions given, we do not think it is open to the objection here made, or that by the giving of the instruction any facts were assumed or the jury could so understand it. If it had no tendency to mis­lead the jury, as we think it did not, the fact that it states an abstract proposition of law does not make it erroneous. Parmelee Co. v. Wheelock, 224 Ill. 194. In Chicago City Ry. Co. v. Shreve, 226 Ill. 530-539, the court say: “It has been repeatedly held by this court that where an instruction does not direct a verdict, or amount to such direction, it may be supplemented by other instructions in the case, and that where, in such case, the instructions when considered together and as a whole correctly state the law upon a given subject, an omission in any one instruction in the series will be cured if the instructions, as a series, are correct. (Pardridge v. Cutler, 168 Ill. 504; Montgomery Coal Co. v. Barringer, 218 id. 327).”</p>
+                <p pgmap="199" id="b199-4">When this instruction is read in connection with in­struction No. 14, given at the request of appellant on the same subject, it is not conceivable that the jury could have understood that the court intended to tell them that the defendant had failed to use the highest degree of care, etc.</p>
+                <p pgmap="199" id="b199-5">In our opinion the record is free from reversible error, and the judgment of the Superior Court is af­firmed.</p>
+                <p pgmap="199" id="b199-6">Affirmed.</p>
+                <p pgmap="199" id="b199-7">Mr. Justice Chytraus took no part in the decision of this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="190" ORDERLABEL="174" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jp2_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.1" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.2" BETYPE="IDREF" FILEID="alto_00095_1"/>
+              <area BEGIN="BL_190.3" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="191" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00096_0"/>
+        <fptr FILEID="jp2_00096_0"/>
+        <fptr FILEID="alto_00096_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.2" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.3" BETYPE="IDREF" FILEID="alto_00096_0"/>
+              <area BEGIN="BL_191.4" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="192" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00096_1"/>
+        <fptr FILEID="jp2_00096_1"/>
+        <fptr FILEID="alto_00096_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.2" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.3" BETYPE="IDREF" FILEID="alto_00096_1"/>
+              <area BEGIN="BL_192.4" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="193" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jp2_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.2" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+              <area BEGIN="BL_193.4" BETYPE="IDREF" FILEID="alto_00097_0"/>
+              <area BEGIN="BL_193.7" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jp2_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.2" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.3" BETYPE="IDREF" FILEID="alto_00097_1"/>
+              <area BEGIN="BL_194.4" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="195" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jp2_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.2" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+              <area BEGIN="BL_195.4" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="196" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00098_1"/>
+        <fptr FILEID="jp2_00098_1"/>
+        <fptr FILEID="alto_00098_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.2" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.3" BETYPE="IDREF" FILEID="alto_00098_1"/>
+              <area BEGIN="BL_196.4" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="197" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00099_0"/>
+        <fptr FILEID="jp2_00099_0"/>
+        <fptr FILEID="alto_00099_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.2" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.3" BETYPE="IDREF" FILEID="alto_00099_0"/>
+              <area BEGIN="BL_197.4" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="198" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00099_1"/>
+        <fptr FILEID="jp2_00099_1"/>
+        <fptr FILEID="alto_00099_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.2" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.3" BETYPE="IDREF" FILEID="alto_00099_1"/>
+              <area BEGIN="BL_198.4" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="199" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+              <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahd" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.6" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            <area BEGIN="BL_194.1" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.9" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgL" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.9" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.6" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.10" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            <area BEGIN="BL_198.1" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.8" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_197.1" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.18" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_192.1" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-15" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.13" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            <area BEGIN="BL_191.1" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.12" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.11" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.10" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.5" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.5" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANx" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.10" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.7" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.7" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.5" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5L" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.14" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_191.15" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.8" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.8" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            <area BEGIN="BL_193.1" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.4" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.7" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.6" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.9" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.8" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.7" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.6" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.5" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.8" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_195.1" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.5" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.7" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.6" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.7" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.8" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.5" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.6" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.6" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.7" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.9" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            <area BEGIN="BL_196.1" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-D" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.7" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_191.8" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.6" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.5" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            <area BEGIN="BL_199.1" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.8" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.5" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.12" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.13" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.5" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_191.6" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.11" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.16" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.17" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

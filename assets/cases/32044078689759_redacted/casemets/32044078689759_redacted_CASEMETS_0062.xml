@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0062" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Zechman v. Zasofsky">Isaac Zechman et al., Defendants in Error, v. Jacob Zasofsky, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,885</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 483</citation>
+          <decisiondate>1908-11-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00250_0" MIMETYPE="image/tiff" CHECKSUM="e1ae2b50b5b28d8aba716c44711f6a0d" CHECKSUMTYPE="MD5" SIZE="38494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00250_0.tif"/>
+      </file>
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="585dc3d25f4ddff5edc27c060ea3e809" CHECKSUMTYPE="MD5" SIZE="47970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="32d07c7097c3a17d6fdeb60bf627c091" CHECKSUMTYPE="MD5" SIZE="52846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00251_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00250_0" MIMETYPE="image/jp2" CHECKSUM="1fe3f4828ddd487da912cd0ab4337f38" CHECKSUMTYPE="MD5" SIZE="2295579">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00250_0.jp2"/>
+      </file>
+      <file ID="jp2_00250_1" MIMETYPE="image/jp2" CHECKSUM="510df4e60e5fd5de3c140837465865fa" CHECKSUMTYPE="MD5" SIZE="2309360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00250_1.jp2"/>
+      </file>
+      <file ID="jp2_00251_0" MIMETYPE="image/jp2" CHECKSUM="e9cfbda8cd730d2799edd8b3d9c20d7f" CHECKSUMTYPE="MD5" SIZE="2392147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00251_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00250_0" MIMETYPE="text/xml" CHECKSUM="133cc2e16a82328d1845c21030014432" CHECKSUMTYPE="MD5" SIZE="69558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00250_0.xml"/>
+      </file>
+      <file ID="alto_00250_1" MIMETYPE="text/xml" CHECKSUM="9a71ffb084e969f2c8341f89de691c9f" CHECKSUMTYPE="MD5" SIZE="85873">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00250_1.xml"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml" CHECKSUM="2f251691ee12d44102c3945d9f7a3345" CHECKSUMTYPE="MD5" SIZE="91297">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00251_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0062" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="485" firstpage="483">
+              <docketnumber pgmap="499" id="AcB">Gen. No. 14,885.</docketnumber>
+              <parties pgmap="499" id="b499-6">Isaac Zechman et al., Defendants in Error, v. Jacob Zasofsky, Plaintiff in Error.</parties>
+              <decisiondate pgmap="499" id="AtS">Opinion filed November 10, 1908.</decisiondate>
+              <otherdate pgmap="499" id="Alc">Heard in the Branch Appellate Court at the October term, 1908.</otherdate>
+              <attorneys pgmap="499" id="b499-10">Grossberg &amp; Kompel, for plaintiff in error.</attorneys>
+              <attorneys pgmap="499" id="b499-11">Moses, Rosenthal &amp; Kennedy, for defendant in error.</attorneys>
+              <summary pgmap="499" id="b499-9">Error to the Municipal Court of Chicago; the Hon. John H. Hume, Judge, presiding.</summary>
+              <disposition pgmap="499" id="A8q">Motion allowed.</disposition>
+              <headnotes pgmap="499" id="b499-8">Appeals and Errors—when signing of hill of exceptions without jurisdiction. After the lapse of sixty days from the date of judg­ment and after the expiration of the time fixed by order for pre­senting the bill of exceptions, the Municipal Court is without juris­diction either to extend the time for presenting such bill of excep­tions, or to sign and seal the same.</headnotes>
+              <opinion type="majority">
+                <author pgmap="499" id="ABP">Mr. Presiding Justice Smith</author>
+                <p pgmap="499" id="AqS">delivered the opinion of the court.</p>
+                <p pgmap="499(31) 500(15)" id="b499-13">The defendant in error moved the court to affirm the judgment entered in the case by the Municipal Court for failure on the part of the plaintiff in error to file his abstracts of record and briefs in the time required by the rules of court.</p>
+                <p pgmap="500" id="b500-5">The ground assigned does not justify the affirmance of the judgment and that motion must be denied.</p>
+                <p pgmap="500" id="b500-6">A second motion is made to strike the bill of excep­tions in said case from the record filed in this court.</p>
+                <p pgmap="500" id="b500-7">It appears from the record that the judgment of the court below was entered April 2, 1908, and the plaintiff in error—defendant below—was given forty days in which to file his bill of exceptions.</p>
+                <p pgmap="500" id="b500-8">On May 2, 1908, an order was entered extending plaintiff in error’s time to file his bill of exceptions ten days.</p>
+                <p pgmap="500" id="b500-9">On May 13, 1908, an order was entered giving plaintiff in error to June 10, 1908, to file his bill of ex­ceptions.</p>
+                <p pgmap="500" id="b500-10">On June 6,1908, an order was entered giving plaint­iff in error to June 15, in which to file his bill of excep­tions.</p>
+                <p pgmap="500" id="b500-11">On June 15, 1908, an order was entered giving plaintiff in error to June 22, 1908, in which to file his bill of exceptions.</p>
+                <p pgmap="500" id="b500-12">On June 24, 1908, an order was entered giving plaintiff in error to and including July 10, 1908, in which to file his bill of exceptions.</p>
+                <p pgmap="500" id="b500-13">On July 28, 1908, an order was entered giving plaintiff in error to and including August 15 in which to file his bill of exceptions.</p>
+                <p pgmap="500" id="b500-14">On July 28, 1908, the bill of exceptions was filed.</p>
+                <p pgmap="500(104) 501(87)" id="b500-15">From these orders it appears that the time for filing the bill of exceptions by virtue of the order entered on June 15, 1908, expired on June 22, 1908. The bill of exceptions was not filed on that date, but on June 24, 1908, an order was entered extending the time for filing bill of exceptions to and including July 10, 1908. There appears a hiatus of two days between the ex­piration of the time fixed in the order of June 15 and the entry of the order of June 24, 1908, There also appears a hiatus between the expiration of the time under the order of June 24, 1908, extending the time to July 10, 1908, in which to file the hill of exceptions and the entry of the order of July 28, 1908, and the filing of the hill of exceptions on that date. Upon the filing of the bill of exceptions the defendants in error duly objected to the signing and sealing of the bill of exceptions by the trial court, on the ground that the court had lost jurisdiction to settle the bill of excep­tions.</p>
+                <p pgmap="501" id="b501-4">By section 21 of the Municipal Court Act it is pro­vided that there are no terms in the Municipal Court, but that every judgment, order or decree of said court is final after the expiration of thirty days from the rendition thereof, and the court loses power at the expiration of such time to vacate, set aside or modify such order. By section 22 of the Municipal Court Act it is provided that the practice in cases of appeal and writs of error to the Municipal Court shall, in first-class cases, be the same—as near as may be—as the practice in eases of appeals from and writs of error to circuit courts in similar cases. And sec­tion 38 of the Municipal Court Act provides, among other things, that a bill of exceptions may be tendered to the judge in a first-class case at any time within sixty days after the entry of the final order of judg­ment, or within such further time thereafter as the court, upon application made thereafter within such sixty days, may allow.</p>
+                <p pgmap="501" id="b501-5">In our opinion the order entered on June 24, 1908, being more than sixty days after the entry of the final judgment in the case and being entered two days after the expiration of the order of June 15,1908, was with­out authority or jurisdiction of the Municipal Court, and was therefore void under the rule laid down in Hill v. The City of Chicago, 218 Ill. 178, in which the rule of practice announced in Plotke v. Chicago Title &amp; Trust Co., 175 Ill. 234, is affirmed.</p>
+                <p pgmap="501" id="b501-6">The motion therefore to strike the bill of exceptions from the record in this case must be allowed.</p>
+                <p pgmap="501" id="b501-7">Motion allowed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="499" ORDERLABEL="483" TYPE="page">
+        <fptr FILEID="tiff_00250_0"/>
+        <fptr FILEID="jp2_00250_0"/>
+        <fptr FILEID="alto_00250_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.1" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.2" BETYPE="IDREF" FILEID="alto_00250_0"/>
+              <area BEGIN="BL_499.3" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="500" ORDERLABEL="484" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jp2_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.2" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.3" BETYPE="IDREF" FILEID="alto_00250_1"/>
+              <area BEGIN="BL_500.4" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="485" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jp2_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.2" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+              <area BEGIN="BL_501.4" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.6" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.8" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.10" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_499.11" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.8" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.7" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.5" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.6" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.7" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-14" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.14" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcB" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.8" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-12" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.12" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-13" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.13" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-10" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.10" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-11" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.11" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.7" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.9" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.5" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtS" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.15" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_499.16" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.9" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8q" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.14" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABP" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.19" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqS" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.20" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_499.21" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-15" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.15" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_501.1" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alc" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.12" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_499.13" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-13" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.22" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_500.1" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-11" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.18" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-10" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.17" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

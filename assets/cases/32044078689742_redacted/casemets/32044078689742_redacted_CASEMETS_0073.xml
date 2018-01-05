@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0073" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hornung v. Decatur Railway &amp; Light Co.">F. K. Hornung, Appellee, v. Decatur Railway and Light Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 429</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="7ac5ea6c35f2ad22fd47b05ce2fbee83" CHECKSUMTYPE="MD5" SIZE="46560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="f48d064a5709062176426d687e38088e" CHECKSUMTYPE="MD5" SIZE="47966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00224_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="b6618a72d3ff3c4d9a78030278028c45" CHECKSUMTYPE="MD5" SIZE="2421619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00224_0.jp2"/>
+      </file>
+      <file ID="jp2_00224_1" MIMETYPE="image/jp2" CHECKSUM="765f8fe9747a856f2ba1a2750ec6166d" CHECKSUMTYPE="MD5" SIZE="2414910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00224_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="ef0e6c1f49fd903e1419d0073cb8f455" CHECKSUMTYPE="MD5" SIZE="82803">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00224_0.xml"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml" CHECKSUM="78347fe294a8a881109a9da1dc32b2be" CHECKSUMTYPE="MD5" SIZE="82235">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00224_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0073" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="430" firstpage="429">
+              <parties id="b447-4" pgmap="447">F. K. Hornung, Appellee, v. Decatur Railway and Light Co., Appellant.</parties>
+              <decisiondate id="A4Y" pgmap="447">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b447-9" pgmap="447">Hugh Crea and Hugh W. Housum, for appellant.</attorneys>
+              <attorneys id="b447-10" pgmap="447">A. G. Webber, for appellee.</attorneys>
+              <summary id="b447-8" pgmap="447">Action in case for personal injuries. Appeal from the Circuit Court of Macon county; the Hon. William C. Johns, Judge, pre­siding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AnCa" pgmap="447">Affirmed.</disposition>
+              <headnotes id="b447-5" pgmap="447">1. Verdict—when not disturbed as against the evidence. A ver­dict will not be set aside upon review as against the preponderance of the evidence unless clearly and manifestly so.</headnotes>
+              <headnotes id="b447-6" pgmap="447">2. Contributory negligence—how question to be determined. Whether a plaintiff has been guilty of contributory negligence which resulted in his injury, is a question of fact, where the evi­dence is conflicting, to be determined by the jury.</headnotes>
+              <headnotes id="b447-7" pgmap="447">3. Instructions—when upon assessment of damages, will not be reviewed. In the absence of a claim that the verdict is excessive, assignments of error respecting the propriety of instructions given upon the question of damages will not he considered.</headnotes>
+              <opinion type="majority">
+                <author id="b447-11" pgmap="447">Mr. Presiding Justice Puterbaugh</author>
+                <p id="Asm" pgmap="447">delivered the opinion of the court.</p>
+                <p id="b447-12" pgmap="447">This is an appeal from a judgment recovered by appellee against appellant for the sum of $1,500 as damages for personal injuries alleged to have been sustained by reason of the negligence of appellant. The first count of the declaration charges that appellee was driving a horse hitched to a wagon, upon and along North Water street, in the city of Decatur; that when he reached a certain place on said street it be­came necessary for him to drive across the tracks of appellant’s street car line; that while he was so doing, one of the appellant’s cars, which was being run at a high and dangerous rate of speed, ran into his wagon and injured him. The second count charges the fail­ure of the motorman to reduce the speed of the car.</p>
+                <p id="b447-13" pgmap="447(8) 448(172)">The evidence tends to establish the material allega­tions of the declaration. The motorman in charge of the car testified that when he noticed appellee he was about 100 feet distant; that the car at the time was running at the rate of thirty miles an hour, and that he saw that appellee was in danger and rang the bell. There is evidence tending to show that after the car had struck appellee it ran from thirty to ninety feet further before stopping. The motorman also testi­fied that at the rate the car was running it could have been stopped within sixty feet, and the conductor testi­fied that it could have been stopped within forty or fifty feet. While the evidence is somewhat in conflict, we are unable to say that the jury were not warranted in finding both that the car was being run at a danger­ous rate of speed under the circumstances and that the motorman failed to properly bring the car under control when he noticed that appellee was attempting to cross the track.</p>
+                <p id="b448-5" pgmap="448">It is urged that appellee was guilty of contributory negligence. He testified that at the time he attempted to cross the tracks the wind was blowing hard, and that he did not hear the car approaching; that he looked toward the north for the distance of a block, and seeing nothing, started to drive across the track. The question as to what constituted due care on the part of appellee under the circumstances, was peculi­arly one of fact for the jury. Inasmuch as its findings upon the issue was not manifestly contrary to the evi­dence, we are not disposed to disturb the same.</p>
+                <p id="b448-6" pgmap="448">It is not urged that the verdict is excessive.' It is therefore unnecessary to consider the alleged error in the instructions relative to the assessment of damages. We find no prejudicial error in the rulings of the court on the instructions or the evidence.</p>
+                <p id="b448-7" pgmap="448">The judgment of the Circuit Court is affirmed.</p>
+                <p id="b448-8" pgmap="448">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="447" ORDERLABEL="429" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.2" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="430" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jp2_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.3" BETYPE="IDREF" FILEID="alto_00224_1"/>
+              <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-4" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-13" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.18" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-12" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.17" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-11" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.14" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-10" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.13" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.8" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4Y" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.11" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.7" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.6" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnCa" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.10" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-9" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.12" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-8" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.8" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_447.9" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-7" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.7" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-6" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.6" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asm" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.15" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_447.16" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-5" BETYPE="IDREF" FILEID="casebody_0073"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.5" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

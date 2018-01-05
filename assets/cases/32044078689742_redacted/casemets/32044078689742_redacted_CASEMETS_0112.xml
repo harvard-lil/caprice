@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0112" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Conrad v. Springfield Consolidated Railway Co.">James T. Conrad, Appellee, v. Springfield Consolidated Railway Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 564</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00291_1" MIMETYPE="image/tiff" CHECKSUM="d2f88c424e2378b8a66ba0cbd9213fcf" CHECKSUMTYPE="MD5" SIZE="47172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_1.tif"/>
+      </file>
+      <file ID="tiff_00292_0" MIMETYPE="image/tiff" CHECKSUM="b36760b9d97db0f2808a2045e3c00d41" CHECKSUMTYPE="MD5" SIZE="50120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00292_0.tif"/>
+      </file>
+      <file ID="tiff_00292_1" MIMETYPE="image/tiff" CHECKSUM="010c96b94b76a6cf41cc53248ae9d6f6" CHECKSUMTYPE="MD5" SIZE="55814">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00292_1.tif"/>
+      </file>
+      <file ID="tiff_00293_0" MIMETYPE="image/tiff" CHECKSUM="2b91e1c93c4caa488098b96a01280f14" CHECKSUMTYPE="MD5" SIZE="53624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00293_0.tif"/>
+      </file>
+      <file ID="tiff_00293_1" MIMETYPE="image/tiff" CHECKSUM="283ec93a29aae2bc593deb8793e037b8" CHECKSUMTYPE="MD5" SIZE="51420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00293_1.tif"/>
+      </file>
+      <file ID="tiff_00294_0" MIMETYPE="image/tiff" CHECKSUM="04bb2d5bfc4e44fa797e5507b6cbc877" CHECKSUMTYPE="MD5" SIZE="53168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00294_0.tif"/>
+      </file>
+      <file ID="tiff_00294_1" MIMETYPE="image/tiff" CHECKSUM="fafda95fb0100a49d3963228873a59e6" CHECKSUMTYPE="MD5" SIZE="56352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00294_1.tif"/>
+      </file>
+      <file ID="tiff_00295_0" MIMETYPE="image/tiff" CHECKSUM="1692e5cebd50de473e5c6f34b2f06506" CHECKSUMTYPE="MD5" SIZE="53896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00295_0.tif"/>
+      </file>
+      <file ID="tiff_00295_1" MIMETYPE="image/tiff" CHECKSUM="24d4ff07da8068fb70f93d4a12e41095" CHECKSUMTYPE="MD5" SIZE="55292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00295_1.tif"/>
+      </file>
+      <file ID="tiff_00296_0" MIMETYPE="image/tiff" CHECKSUM="e39f653edb325f4889983d610d62512b" CHECKSUMTYPE="MD5" SIZE="52484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_0.tif"/>
+      </file>
+      <file ID="tiff_00296_1" MIMETYPE="image/tiff" CHECKSUM="2385e970d717cd1ef43417f065dfc3ff" CHECKSUMTYPE="MD5" SIZE="44810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00291_1" MIMETYPE="image/jp2" CHECKSUM="8448b1557d87abb3699296d2bc8c20b5" CHECKSUMTYPE="MD5" SIZE="2364634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_1.jp2"/>
+      </file>
+      <file ID="jp2_00292_0" MIMETYPE="image/jp2" CHECKSUM="b6b3b5fb38f4f19dfb2adcdffc61be75" CHECKSUMTYPE="MD5" SIZE="2441135">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00292_0.jp2"/>
+      </file>
+      <file ID="jp2_00292_1" MIMETYPE="image/jp2" CHECKSUM="5f6a591ba7d12fffbbde82c926c67a57" CHECKSUMTYPE="MD5" SIZE="2432358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00292_1.jp2"/>
+      </file>
+      <file ID="jp2_00293_0" MIMETYPE="image/jp2" CHECKSUM="11a841b106cf30d4b6b645054814219e" CHECKSUMTYPE="MD5" SIZE="2469105">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00293_0.jp2"/>
+      </file>
+      <file ID="jp2_00293_1" MIMETYPE="image/jp2" CHECKSUM="1c36146cf28d46beba6fb5179d50e20c" CHECKSUMTYPE="MD5" SIZE="2404402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00293_1.jp2"/>
+      </file>
+      <file ID="jp2_00294_0" MIMETYPE="image/jp2" CHECKSUM="63ab557c05373ec55cf03f2064cb3026" CHECKSUMTYPE="MD5" SIZE="2447228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00294_0.jp2"/>
+      </file>
+      <file ID="jp2_00294_1" MIMETYPE="image/jp2" CHECKSUM="a7e068dc12b0bce50cf5ae43da06d3e1" CHECKSUMTYPE="MD5" SIZE="2440440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00294_1.jp2"/>
+      </file>
+      <file ID="jp2_00295_0" MIMETYPE="image/jp2" CHECKSUM="1086c91fe545d88cbfc99144ff9863d8" CHECKSUMTYPE="MD5" SIZE="2467942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00295_0.jp2"/>
+      </file>
+      <file ID="jp2_00295_1" MIMETYPE="image/jp2" CHECKSUM="c575d07a7694b65adeeb09b5ac186214" CHECKSUMTYPE="MD5" SIZE="2431001">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00295_1.jp2"/>
+      </file>
+      <file ID="jp2_00296_0" MIMETYPE="image/jp2" CHECKSUM="218fb1293fb75b09d6d791d328c2ca4b" CHECKSUMTYPE="MD5" SIZE="2445530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_0.jp2"/>
+      </file>
+      <file ID="jp2_00296_1" MIMETYPE="image/jp2" CHECKSUM="733643b6d648b1d902828847698db30c" CHECKSUMTYPE="MD5" SIZE="2354013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00291_1" MIMETYPE="text/xml" CHECKSUM="44b6cebfcc37f1a486085db353103aa9" CHECKSUMTYPE="MD5" SIZE="78849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00291_1.xml"/>
+      </file>
+      <file ID="alto_00292_0" MIMETYPE="text/xml" CHECKSUM="30b53761ec41c371aad998356f25f741" CHECKSUMTYPE="MD5" SIZE="88341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00292_0.xml"/>
+      </file>
+      <file ID="alto_00292_1" MIMETYPE="text/xml" CHECKSUM="9579a06f77a3467e9fbdf7fe33fb2016" CHECKSUMTYPE="MD5" SIZE="87823">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00292_1.xml"/>
+      </file>
+      <file ID="alto_00293_0" MIMETYPE="text/xml" CHECKSUM="b4e0a0b99ea4b6f8a584ed2dd92d7ce3" CHECKSUMTYPE="MD5" SIZE="88224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00293_0.xml"/>
+      </file>
+      <file ID="alto_00293_1" MIMETYPE="text/xml" CHECKSUM="0e705af000769ef3f81b646aa2b8fb38" CHECKSUMTYPE="MD5" SIZE="85538">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00293_1.xml"/>
+      </file>
+      <file ID="alto_00294_0" MIMETYPE="text/xml" CHECKSUM="9b9da5f9935290e908ca62c29049dd74" CHECKSUMTYPE="MD5" SIZE="86227">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00294_0.xml"/>
+      </file>
+      <file ID="alto_00294_1" MIMETYPE="text/xml" CHECKSUM="74d8956d7a091a8fed44a727fafc4359" CHECKSUMTYPE="MD5" SIZE="86683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00294_1.xml"/>
+      </file>
+      <file ID="alto_00295_0" MIMETYPE="text/xml" CHECKSUM="7b363b3a52f7c410ed1a85113ff46ab8" CHECKSUMTYPE="MD5" SIZE="90987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00295_0.xml"/>
+      </file>
+      <file ID="alto_00295_1" MIMETYPE="text/xml" CHECKSUM="6f134f934348a53a62e7edd30e183342" CHECKSUMTYPE="MD5" SIZE="93118">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00295_1.xml"/>
+      </file>
+      <file ID="alto_00296_0" MIMETYPE="text/xml" CHECKSUM="73932f8d9113cbf2a1ae9a87c204f6ff" CHECKSUMTYPE="MD5" SIZE="87166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00296_0.xml"/>
+      </file>
+      <file ID="alto_00296_1" MIMETYPE="text/xml" CHECKSUM="4411ba2074aca4c408a088e3d7ea0289" CHECKSUMTYPE="MD5" SIZE="73682">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00296_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0112" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="574" firstpage="564">
+              <parties id="b582-7" pgmap="582">James T. Conrad, Appellee, v. Springfield Consolidated Railway Company, Appellant.</parties>
+              <decisiondate id="AavQ" pgmap="583">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b583-8" pgmap="583">Wilson, Warren &amp; Child, for appellant.</attorneys>
+              <attorneys id="b583-9" pgmap="583">A. Salzenstfin and T. J. Condon, for appellee.</attorneys>
+              <summary id="b583-7" pgmap="583">Action in case for personal injuries. Appeal from the Circuit Court of Sangamon county; the Hon. Robert B. Shirley, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Au11" pgmap="583">Affirmed.</disposition>
+              <headnotes id="b582-8" pgmap="582">1. Ordinances—when observance of, cannot be waived by munici­pality. An ordinance requiring a traction company to stretch and maintain suitable guard wires along and above its electric cables, represents the exercise by the municipality of its governmental or legislative powers, and in such an ordinance the public is invested with an interest, and the non-observance of such ordinance cannot be waived by such municipality; only legislative action can justify non-observance.</headnotes>
+              <headnotes id="b583-4" pgmap="583">2. Ordinances—when requiring protection of electric cables not unreasonable. All presumptions are in favor of the reasonableness of such an ordinance; the determination of its unreasonableness is a question of law for the court but a determination adverse to the ordinance would not be justified unless the want of necessity for the requirement in question was clearly made to appear.</headnotes>
+              <headnotes id="b583-5" pgmap="583">3. Ordinances—when violation of, absolute proof of negligence. If it appears that an injury proximately results from the violation of a valid ordinance, proof of such ordinance and the violation thereof is not only prima facie but absolute proof of negligence.</headnotes>
+              <headnotes id="b583-6" pgmap="583">4. Verdict—when not excessive. A verdict for $3000 rendered in an action on the case for personal injuries is not excessive where it appears that the plaintiff sustained severe and permanent injuries which have lessened his earning capacity and which are calculated to produce frequent attacks of pain and suffering.</headnotes>
+              <opinion type="majority">
+                <author id="b583-10" pgmap="583">Mr. Justice Baume</author>
+                <p id="AHV" pgmap="583">delivered the opinion of the court.</p>
+                <p id="b583-11" pgmap="583">The plaintiff, James T. Conrad, recovered a verdict against the Springfield Consolidated Railway Co., de­fendant and appellant here, for the sum of $5,000 as damages for personal injuries. Upon the motion for a new trial plaintiff was required to remit $2,000 from the verdict, and having entered such remittitur, the motion for a new trial was overruled and judgment was entered against defendant for $3,000.</p>
+                <p id="b583-12" pgmap="583(70) 584(206)">The declaration consists of three counts. The first two counts allege that on August 21, 1906, the defend­ant was operating a street railway on Monroe and Sixth streets in the city of Springfield, by means of electricity conducted through overhead wires; that it had acquired the right to operate said railway from its certain predecessor companies subject to the duty imposed upon said companies by the ordinances of the city of Springfield, the terms and conditions of which ordinances the respective companies had expressly accepted and agreed to; that said ordinances provided that said companies should stretch and maintain suit­able guard wires over and above the electric cables and overhead wires, at all points where said railway ran, where other wires belonging to other companies were suspended over and above such electric cables; that on the day aforesaid and for a long space of time prior thereto, the Central Union Telephone Company maintained wires at the intersection of said Sixth and Monroe streets, and thereby it became the duty of the defendant to maintain a suitable guard wire over its cables at said point; that defendant neglected and failed to do so, whereby plaintiff, in the course of his duty as an employe of the telephone company, in stretching and taking down wires of the telephone company crossing over the electric cables of the defend­ant at said point, while in the exercise of due care and caution for his own safety, by reason of one of the said telephone wires breaking and falling upon the electric cable of defendant, a current of electricity was con­veyed into plaintiff and he was thereby injured.</p>
+                <p id="b584-5" pgmap="584(150) 585(134)">The amended third count alleges that defendant was then operating an electric street railway in said city of Springfield, and that it thereby became and was the duty of defendant to exercise reasonable care to con­fine the electricity carried in its cables to its own cable and premises, and to prevent the same escaping or coming into contact with the wires of other companies suspended over its said cables at the place aforesaid; that defendant then well knew that the telephone com­pany had for twenty years prior thereto, maintained wires over and above its cable and that thereby it be­came the duty of defendant to maintain a guard wire above its cable or take some other adequate means, by insulation or otherwise, to prevent its electric current coming in contact with the wires of the telephone com­pany which might break, or in the handling by em­ployes of the telephone company, might slip or fall, or otherwise come in contact with the electric current in its cable; that defendant not regarding its duty in that behalf, did not maintain any guard wires or take any other means to prevent its electric current from escaping and coming into contact with the wires of the telephone company, which might fall or break as aforesaid; that plaintiff, while in the performance of his duty as an employe of the telephone company, in handling and removing its wires crossing those of the defendant, and while in the exercise of due care and caution for his own safety, one of said wires broke and came in contact with the electric current in de­fendant’s cable and thence into the body of the plaint­iff, etc.</p>
+                <p id="b585-4" pgmap="585(226) 586(103)">On August 21, 1906, the plaintiff was employed as a lineman by the Central Union Telephone Company. He was 36 years of age and had had considerable ex­perience as a lineman and electrician. On that day he was engaged in taking down and putting up telephone wires, and at the time of his injury was standing on a telephone pole at the corner of Sixth and Monroe streets in the city of Springfield, engaged in removing an old telephone wire, which broke while he was hand­ling the same, and was thus caused to fall upon a wire carrying a high voltage of electricity which was thereby communicated to his person, causing the injury com­plained of. The evidence tends to show that the pole upon which plaintiff was then standing was about sixty-five feet in height and was equipped with eight cross arms upon which a large number of wires were fastened; that the lowest cross-arm near which plaint­iff was then standing was about forty feet from the ground; that an uninsulated trolley wire of the de­fendant was suspended over its track about twenty feet above the ground and below the wires of the tele­phone company; that on the east and west sides of Sixth street about thirty-five feet from the ground and below the telephone wires, were suspended lines of insulated electric light and power wires. Plaintiff testified that in doing the work in hand it was neces­sary for him to he right among the telephone wires suspended upon the pole and the messenger wires upon which the cables were hung; that just before he was injured he got hold of an old telephone wire for the purpose of pulling it out, and as he did so it broke off and fell down and wrapped around the trolley wire and looped back up and charged the messenger wire which was grounded, thus communicating a current of electricity to and through his person.</p>
+                <p id="b586-5" pgmap="586">There was introduced in evidence an ordinance of the city of Springfield, passed January 17, 1890, ap­proved January 20, 1890, granting to the Citizens Street Railway Company, a predecessor of the defend­ant, the right to construct and operate an electric rail­way over certain streets in said city, including Sixth and Monroe streets. There was also introduced in evidence an acceptance of said ordinance by the Citi­zens Street Railway Co., under date of February 20, 1890. Section 7 of the ordinance in question provides, as follows:</p>
+                <p id="b586-6" pgmap="586">‘ ‘ That it is the duty of said company to stretch and maintain a suitable guard wire along and above its electric cables and over wires at all points within the city where other wires belonging to other companies are suspended over or above said electric cables; the same may be extended along the whole line of said railway when required by the council. And in case of wilful violation of this section said company shall be subject to a fine of not exceeding two hundred dol­lars for every day.”</p>
+                <p id="b586-7" pgmap="586">It is conceded by appellant that it had failed to comply with the provisions of said ordinance with re­spect to guard wires, and that no such guard wire was stretched and maintained by it over its trolley wire at the place in question.</p>
+                <p id="b586-8" pgmap="586(18) 587(287)">It is first urged on behalf of appellant that a muni­cipal corporation performs two distinct functions; one, legislative, whereby it may enact ordinances pre­scribing rules of conduct within its territorial limits, and the other proprietary, whereby it deals with the property rights and interests which it holds in trust for the public; that the ordinance in question, or the section of such ordinance here involved, is properly referable to the function of the municipal corporation in its proprietary capacity and not in its legislative capacity, and that the court, therefore, erred in ex­cluding certain evidence offered by appellant, which it is claimed tended to show that when the ordinance was adopted as a contract between the parties it was supposed that guard wires would afford protection to the public using the streets, but that practical experi­ence in the operation of electric railways had demon­strated that the presence of guard wires was a men­ace to the safety of the public, and for that reason the parties to the contract had waived the performance of the particular provision relating to guard wires. The record in this case with respect to the the ques­tion sought to be raised shows that upon the cross examination of assistant city electrician W. M. Childs, called as a witness on behalf of appellee, counsel for appellant asked the following question: “Now, dur­ing the time you were in the city electrician’s office or had anything to do with it, did you ever request the Springfield Railway Company to put up guard wires ? ’ ’ Upon objection thereto by counsel for appellee, coun­sel for appellant stated to the court: “We propose to show that this condition of this ordinance was waived by the city and that the city never required it to be enforced.”</p>
+                <p id="b587-4" pgmap="587">The trial court held that the public had an interest in the ordinance and that the provisions of the ordi­nance in that respect could not be waived by mere non-­action, and sustained the objection to the question. A like question propounded to the city electrician, J. B. Valentine, was objected to by counsel for appellee and the objection was sustained.</p>
+                <p id="b588-4" pgmap="588">Without entering into an extended discussion of the well-recognized distinction suggested by counsel for appellant between the legislative and proprietary functions of a municipal corporation, we are of opin­ion that section 7 of the ordinance introduced in evi­dence should be held to be an act of the municipality, legislative in its character. In Dillon on Municipal Corporations, 4 Ed., Vol. 1, sec 66, cited by appellant, it is said with reference to such corporations: “These, as ordinarily constituted possess a double character; the one governmental, legislative or public; the other, in a sense, proprietary or private. * * * In its governmental or public character, the corporation is made, by the state, one of its instruments or the local depository of certain limited and prescribed political powers, to be exercised for the public good on behalf of the state rather than for itself. * * * But in its proprietary or private character the theory is that the powers are supposed not to be conferred, primarily or chiefly, from considerations connected with government or the state at large, but for the private advantage of the compact community which is incorporated as a dis­tinct legal personality or corporate individual.”</p>
+                <p id="b588-6" pgmap="588">It requires no argument to determine that the pro­vision of the ordinance in question requiring the ap­pellant to stretch and maintain suitable guard wires along and above its electric cables was adopted by the municipality in its governmental or legislative cap-­city, and in the discharge of a duty imposed upon it for the benefit and safety of the public generally. An ordinance containing a similar provision, was held, in Commonwealth Electric Co. v. Rose, 214 Ill. 545, to have been adopted by the city of Chicago in its legis­lative or governmental capacity by virtue of the pow­ers delegated by the state, and to have the force and power of a statute. Appellant and its predecessor accepted the ordinance without qualification, and hav­ing availed themselves of the benefits of the same, appellant is estopped from repudiating its condition. Commonwealth Electric Co. v. Rose, supra.</p>
+                <p id="b589-4" pgmap="589">The ordinance having been adopted by the muni­cipality in its legislative capacity may not be nulli­fied, suspended or repealed by it otherwise than by like legislative action. City of Paxton v. Bogardus, 201 Ill. 628; B. &amp; N. Ry. E. &amp; H. Co. v. Bloomington, 123 Ill. App. 639. It would be nothing short of an absurd­ity to hold that in the absence of a request by an accredited official of the municipality to comply with the provisions of an ordinance, the party bound to comply therewith would be excused from so doing, or that a failure to make such request would operate as a waiver by the municipality of the provisions of the ordinance, or that the failure of a municipality to en­force an ordinance operated to nullify or repeal it. We conclude that the trial court did not err in sustaining the objections to the questions propounded to the wit­nesses Childs and Valentine.</p>
+                <p id="b589-5" pgmap="589(212) 590(9)">Whether the ordinance in question was reasonable or unreasonable in respect to the provision with re­ference to guard wires, was a question of law for the court. All the presumptions are in favor of the rea­sonableness of the ordinance as a legitimate exercise of police power, and the court would not be justified in holding the ordinance unreasonable unless the want of necessity for the requirement in question as a mea­sure for the public safety was clearly made to appear. The ordinance could not be held to be unreasonable unless it was manifest that the discretion reposed in the municipal authorities had been abused in an arbi­trary manner. C., R. I. &amp; P. Ry. Co. v. Steckman, 224 Ill. 500. No such showing was made to the trial court by appellant in the case at bar. The evidence of the witness Pierce as set forth in an affidavit in support of a motion for continuance was only offered by appel­lant in support of its contention that the ordinance was unreasonable. Upon that issue the evidence was properly excluded from the jury, and appellant is not in a position to urge that the evidence of such witness was competent to go to the jury under the third count of the declaration, which alleged common law negli­gence.</p>
+                <p id="b590-5" pgmap="590">The fourth instruction given to the jury at the in­stance of appellee is as follows:</p>
+                <p id="b590-6" pgmap="590">“The court instructs the jury that under the ordi­nance of the city of Springfield, offered and admitted in evidence in this case, it became and was the duty of the defendant to have guard wires over its trolley wire at all places where such trolley wire was crossed by the wires of other companies and if you believe from the evidence in this case that at Sixth and Monroe streets, where plaintiff was injured, other companies long previous to the day the plaintiff was injured, had wires over defendant’s trolley wire, then it was and became the duty of defendant to have and maintain guard wires at such place; and if you further believe from the evidence that the defendant failed so to do and plaintiff was injured in the manner charged in the first two counts of his declaration, or in either of them, by a wire of the Central Union Telephone Company, which he was then and there attempting to remove, breaking and falling on defendant’s unguarded trolley wire at said place, whereby the current from said trolley wire was transmitted against the person of plaintiff, and plaintiff at and before such injury was using ordinary care and caution for his own safety, then you will find a verdict for the plaintiff.”</p>
+                <p id="b590-7" pgmap="590(138) 591(149)">It is urged that this instruction is erroneous, in that it states that the duty of the appellant to main­tain guard wires is absolute by virtue of the ordinance, and that the jury were thereby advised that the viola­tion of said ordinance constituted in the case at bar, negligence as a matter of law; that at most the court should have instructed the jury that the violation of said ordinance by appellant, constituted merely prima facie evidence of negligence. The duty of appellant to comply with the provisions of the ordinance was absolute and it was not error so to charge the jury. It is commonly said that the violation of a statute or of a city ordinance, where the ordinance is such a one as the city is authorized by its charter or by the statute to adopt, is prima facie evidence of negligence. U. S. Brewing Co. v. Stoltenberg, 211 Ill. 531. Prima facie evidence means evidence which is sufficient to establish the fact unless rebutted, the expression prima facie being used as an antonym of conclusive. The duty of the appellant under the ordinance being absolute proof of the violation of such duty in the case at bar became conclusive evidence of the negli­gence of appellant, if it appeared from a preponder­ance of the evidence that the violation of said ordi­nance was the proximate cause of the injury to ap­pellee. The question of proximate cause was sub­mitted to the jury by the instruction as a question of fact, and the jury were, thereby only authorized to return a verdict for appellee, if, upon the issue of proximate cause presented by the instruction, they found against the appellant.</p>
+                <p id="b591-5" pgmap="591">In Shoninger Co. v. Mann, 219 Ill. 242, it was held that the doctrine of assumed risk rests upon and grows out of the contractual relation which exists between master and servant. The question of assumed risk is not, therefore, involved in this case, and appellant cannot avoid liability upon the ground that appellee assumed the risk.</p>
+                <p id="b591-6" pgmap="591(148) 592(15)">Whether or not appellee was in the exercise of due care for his own safety immediately before and at the time of his injury was a question of fact for the jury, and we are not prepared to say upon the evidence in the record, that the finding of the jury upon that issue was clearly wrong. While appellant introduced evi­dence tending to show that a lineman of ordinary experience, before attempting to remove telephone or other wires suspended above a trolley wire should place himself in such a position on the pole upon which he was at work as that his body would not come in contact with other wires which were grounded, appel­lee testified that he could not avoid contact with such other wires in performing the work he was then en­gaged in, and that he did not notice the absence of a guard wire above the trolley wire. The evidence of appellee in this respect stands uncontradicted.</p>
+                <p id="b592-5" pgmap="592">Appellant sought to show that the current of elec­tricity which injured appellee was transmitted by an electric light and power wire, and not by appellant’s trolley wire. Appellee testified positively that he saw the broken wire which communicated the current of electricity into his person lying upon the trolley wire at the instant he received the shock. The evidence of the witness Frank Ryan tends to corroborate ap­pellee in this particular. There is also evidence tend­ing to show that the voltage in the electric light and power wire was so great, that if the telephone wire which appellee was handling had come in contact with an uninsulated portion of it, appellee would have been killed almost instantly. Furthermore, the evidence tends to show that the insulation on the electric light and power wire was intact.</p>
+                <p id="b592-6" pgmap="592">It is lastly urged that the damages awarded to ap­pellee are excessive. The evidence tends to show that appellee sustained severe permanent injuries which have lessened his earning capacity, and which are cal­culated to produce frequent attacks of pain and suf­fering. We are unable to say that the judgment for $3,000 is disproportionate to the injuries received.</p>
+                <p id="b592-7" pgmap="592">There is no error in the record prejudicial to ap­pellant and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b592-8" pgmap="592">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="582" ORDERLABEL="564" TYPE="page">
+        <fptr FILEID="tiff_00291_1"/>
+        <fptr FILEID="jp2_00291_1"/>
+        <fptr FILEID="alto_00291_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.2" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.3" BETYPE="IDREF" FILEID="alto_00291_1"/>
+              <area BEGIN="BL_582.4" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="583" ORDERLABEL="565" TYPE="page">
+        <fptr FILEID="tiff_00292_0"/>
+        <fptr FILEID="jp2_00292_0"/>
+        <fptr FILEID="alto_00292_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_583.2" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_583.1" BETYPE="IDREF" FILEID="alto_00292_0"/>
+              <area BEGIN="BL_583.3" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="584" ORDERLABEL="566" TYPE="page">
+        <fptr FILEID="tiff_00292_1"/>
+        <fptr FILEID="jp2_00292_1"/>
+        <fptr FILEID="alto_00292_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.2" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_584.3" BETYPE="IDREF" FILEID="alto_00292_1"/>
+              <area BEGIN="BL_584.4" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="585" ORDERLABEL="567" TYPE="page">
+        <fptr FILEID="tiff_00293_0"/>
+        <fptr FILEID="jp2_00293_0"/>
+        <fptr FILEID="alto_00293_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_585.3" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_585.2" BETYPE="IDREF" FILEID="alto_00293_0"/>
+              <area BEGIN="BL_585.4" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="586" ORDERLABEL="568" TYPE="page">
+        <fptr FILEID="tiff_00293_1"/>
+        <fptr FILEID="jp2_00293_1"/>
+        <fptr FILEID="alto_00293_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.2" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.3" BETYPE="IDREF" FILEID="alto_00293_1"/>
+              <area BEGIN="BL_586.4" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="587" ORDERLABEL="569" TYPE="page">
+        <fptr FILEID="tiff_00294_0"/>
+        <fptr FILEID="jp2_00294_0"/>
+        <fptr FILEID="alto_00294_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_587.3" BETYPE="IDREF" FILEID="alto_00294_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_587.2" BETYPE="IDREF" FILEID="alto_00294_0"/>
+              <area BEGIN="BL_587.4" BETYPE="IDREF" FILEID="alto_00294_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="588" ORDERLABEL="570" TYPE="page">
+        <fptr FILEID="tiff_00294_1"/>
+        <fptr FILEID="jp2_00294_1"/>
+        <fptr FILEID="alto_00294_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_588.1" BETYPE="IDREF" FILEID="alto_00294_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_588.2" BETYPE="IDREF" FILEID="alto_00294_1"/>
+              <area BEGIN="BL_588.3" BETYPE="IDREF" FILEID="alto_00294_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="589" ORDERLABEL="571" TYPE="page">
+        <fptr FILEID="tiff_00295_0"/>
+        <fptr FILEID="jp2_00295_0"/>
+        <fptr FILEID="alto_00295_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_589.2" BETYPE="IDREF" FILEID="alto_00295_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_589.1" BETYPE="IDREF" FILEID="alto_00295_0"/>
+              <area BEGIN="BL_589.3" BETYPE="IDREF" FILEID="alto_00295_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="590" ORDERLABEL="572" TYPE="page">
+        <fptr FILEID="tiff_00295_1"/>
+        <fptr FILEID="jp2_00295_1"/>
+        <fptr FILEID="alto_00295_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_590.2" BETYPE="IDREF" FILEID="alto_00295_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_590.3" BETYPE="IDREF" FILEID="alto_00295_1"/>
+              <area BEGIN="BL_590.4" BETYPE="IDREF" FILEID="alto_00295_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="591" ORDERLABEL="573" TYPE="page">
+        <fptr FILEID="tiff_00296_0"/>
+        <fptr FILEID="jp2_00296_0"/>
+        <fptr FILEID="alto_00296_0"/>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_591.2" BETYPE="IDREF" FILEID="alto_00296_0"/>
+              <area BEGIN="BL_591.3" BETYPE="IDREF" FILEID="alto_00296_0"/>
+              <area BEGIN="BL_591.4" BETYPE="IDREF" FILEID="alto_00296_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="592" ORDERLABEL="574" TYPE="page">
+        <fptr FILEID="tiff_00296_1"/>
+        <fptr FILEID="jp2_00296_1"/>
+        <fptr FILEID="alto_00296_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_592.2" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_592.3" BETYPE="IDREF" FILEID="alto_00296_1"/>
+              <area BEGIN="BL_592.4" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-10" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.13" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHV" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.14" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            <area BEGIN="BL_583.15" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-12" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.17" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            <area BEGIN="BL_584.1" BETYPE="IDREF" FILEID="alto_00292_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.9" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            <area BEGIN="BL_587.1" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b585-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_585.5" BETYPE="IDREF" FILEID="alto_00293_0"/>
+            <area BEGIN="BL_586.1" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.7" BETYPE="IDREF" FILEID="alto_00295_1"/>
+            <area BEGIN="BL_591.1" BETYPE="IDREF" FILEID="alto_00296_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.16" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b584-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_584.5" BETYPE="IDREF" FILEID="alto_00292_1"/>
+            <area BEGIN="BL_585.1" BETYPE="IDREF" FILEID="alto_00293_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.7" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.8" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.7" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.5" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            <area BEGIN="BL_586.6" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.7" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b591-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_591.6" BETYPE="IDREF" FILEID="alto_00296_0"/>
+            <area BEGIN="BL_592.1" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b591-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_591.5" BETYPE="IDREF" FILEID="alto_00296_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.6" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b590-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_590.5" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.8" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b587-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_587.5" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.6" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.7" BETYPE="IDREF" FILEID="alto_00292_0"/>
+            <area BEGIN="BL_583.8" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.4" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.5" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.5" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.11" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b583-9" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.12" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.8" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b589-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_589.4" BETYPE="IDREF" FILEID="alto_00295_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b589-5" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_589.5" BETYPE="IDREF" FILEID="alto_00295_0"/>
+            <area BEGIN="BL_590.1" BETYPE="IDREF" FILEID="alto_00295_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au11" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.9" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b588-4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_588.4" BETYPE="IDREF" FILEID="alto_00294_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b588-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_588.5" BETYPE="IDREF" FILEID="alto_00294_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AavQ" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_583.10" BETYPE="IDREF" FILEID="alto_00292_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-6" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.6" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

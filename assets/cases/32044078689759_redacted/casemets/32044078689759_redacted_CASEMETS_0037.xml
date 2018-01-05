@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0037" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Trenner">The People of the State of Illinois, Appellee, v. E. B. Trenner, Appellant</name>
+          <docketnumber>Gen. No. 5,033</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 275</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="a9f751fbc28b62ebe0db9bd2d500a103" CHECKSUMTYPE="MD5" SIZE="43602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="9df5255b64770e6c0358360297dd1f96" CHECKSUMTYPE="MD5" SIZE="53838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="4c78e5d11a468b0f2f92c2198618ad49" CHECKSUMTYPE="MD5" SIZE="55342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00147_0.tif"/>
+      </file>
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="4d49e8ecc039e26d87869bae053e594b" CHECKSUMTYPE="MD5" SIZE="49570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00147_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="9339d38661e79e1e0c078e891d7ea980" CHECKSUMTYPE="MD5" SIZE="2340789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="1597be45834dbdeb2d88f2dc13ff168c" CHECKSUMTYPE="MD5" SIZE="2377359">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00146_1.jp2"/>
+      </file>
+      <file ID="jp2_00147_0" MIMETYPE="image/jp2" CHECKSUM="011f885ee70365c1c6a49bb0f72681ff" CHECKSUMTYPE="MD5" SIZE="2423907">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00147_0.jp2"/>
+      </file>
+      <file ID="jp2_00147_1" MIMETYPE="image/jp2" CHECKSUM="c9610ee340c75b71bb115e95ad8f6b2d" CHECKSUMTYPE="MD5" SIZE="2352634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00147_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="661b0c764a783bd52bde45303cb05573" CHECKSUMTYPE="MD5" SIZE="78622">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="32809849bb381efb55c753a45f7bcc20" CHECKSUMTYPE="MD5" SIZE="87627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00146_1.xml"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml" CHECKSUM="d1714a7096602abe8557a8f277186e48" CHECKSUMTYPE="MD5" SIZE="92878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00147_0.xml"/>
+      </file>
+      <file ID="alto_00147_1" MIMETYPE="text/xml" CHECKSUM="e520c71892fefcc2f78ced442ebf6a78" CHECKSUMTYPE="MD5" SIZE="80918">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00147_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0037" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="278" firstpage="275">
+              <docketnumber pgmap="291" id="b291-6">Gen. No. 5,033.</docketnumber>
+              <parties pgmap="291" id="b291-4">The People of the State of Illinois, Appellee, v. E. B. Trenner, Appellant.</parties>
+              <decisiondate pgmap="291" id="AHV">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="291" id="AvFu">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="291" id="Asq">Rehearing denied October 9, 1908.</otherdate>
+              <attorneys pgmap="291" id="b291-10">A. C. Norton, for appellant.</attorneys>
+              <attorneys pgmap="291" id="b291-11">A. C. Ball, for appellee.</attorneys>
+              <summary pgmap="291" id="b291-9">Action of debt. Appeal from the Circuit Court of Livingston county; the Hon. Geokqb W. Patton, Judge, presiding.</summary>
+              <disposition pgmap="291" id="Ahu">Affirmed.</disposition>
+              <headnotes pgmap="291" id="b291-7">1. Evidence—what not competent in behalf of person charged with practicing medicine without license. In an action of debt to recover a penalty for practicing medicine without a license a pam­phlet in nowise supported by the testimony of the defendant or other witnesses, showing the treatment employed by such defendant, is not competent in his behalf.</headnotes>
+              <headnotes pgmap="291" id="b291-8">2. Ckiminal law—what practicing medicine without license within meaning of statute. One who without a license professes and undertakes to heal by the laying on of hands, together with mental suggestion, comes within the provision of the law requiring a license to practice medicine.</headnotes>
+              <opinion type="majority">
+                <author pgmap="291" id="b291-12">Mr. Presiding Justice Thompson</author>
+                <p pgmap="291" id="AxU">delivered the opin­ion of the court.</p>
+                <p pgmap="291(127) 292(47)" id="b291-13">This is an action of debt by the People, for the use of the State Board of Health, against E. B. Trenner, appellant, to recover a penalty for practicing medicine without a license, contrary to the provisions of the act of 1899 regulating the practice of medicine in this state. The record does not contain any process or return of service. The declaration contains twenty-five counts alleging that the defendant at different times within eighteen months had practiced medicine and surgery in the county of Livingston on various parties without a certificate issued by the Illinois State Board of Health. The defendant appeared and filed a plea of the general issue and also a plea of the eighteen months Statute of Limitation. Upon a trial before a jury the issues were found for the plaintiff on the 7th and 15th counts, and plaintiff’s damages assessed at $100 on each count. A motion for a new trial was over­ruled and judgment entered on the verdict. From that judgment the defendant appeals to this court.</p>
+                <p pgmap="292" id="b292-5">The error that is relied upon and most strenuously argued is that the evidence does not support the ver­dict. A number of witnesses testified that the appellant at different times within eighteen months prior to the beginning of the suit had treated them for various diseases and ailments. The proof clearly showed that he had treated parties for nervous prostration, diseases of the throat, kidney trouble, headache, growth of bone on the heel, dislocated hip and many other physical ail­ments ; that in his treatment of a number of the parties, they were disrobed, and the defendant rubbed and ma­nipulated their bodies with his hands, some of the wit­nesses saying that he treated them the same as an osteo­path treats diseases. The rubbing and manipulating in some instances occupied from twenty to thirty min­utes or longer, and some of the parties were so treated as many as twenty times.</p>
+                <p pgmap="292" id="b292-6">The proof also shows that the defendant advertised in the public prints that “Prof. Trenner, magnetic-­healer and osteopath, has had a fine location in business already established in a large town offered him recently, but after considering the matter decided he liked Pon­tiac so well that he would remain. It is hoped that the people will appreciate his ability,” etc. This ad­vertisement was headed by a picture of the defeddant and is entitled “A Wonderful Success.” It was ad­mitted that the defendant never had any license from the State Board of Health to practice medicine.</p>
+                <p pgmap="292(57) 293(76)" id="b292-7">The defendant did not take the witness stand or offer any proof denying the proof made by plaintiff. The defendant did offer in evidence a pamphlet purporting to be signed by S. A. Weltmer, professing to be an ex­position of the Weltmer method of healing; this the court admitted in evidence over the objection of the People. This was offered as the evidence the defendant would testify was the treatment given by him if he had been sworn as a witness. This was clearly im­proper; it was admitting in evidence a printed state­ment published by an irresponsible and unknown per­son as the statement of the defendant on his own be­half, without any opportunity to the opposite party to cross examine. We quote the following excerpts from the pamphlet.</p>
+                <p pgmap="293(305) 294(43)" id="b293-5">“The process of physical healing, by suggestion, laying on of hands, or any other physical manipulation, causing mental action which will result in physical change, is a simple, easily taught science. This has often been demonstrated in the author’s experience * * * : Suggestion is identified with everything that the healer does. However, there are other helps which the healer uses in effecting cures. These are important, and should not be overlooked * * *: * * * If the man is suffering from a severe pain, do not the moment he sits down tell him he is easy. He knows better than that, and you will only arouse an antagonism in his mind, which you will have to over­come, before you can succeed with him. Tell him he will be better, and then by stroking with your hands or by placing them over the parts affected, showing him you are doing something for his benefit, and continue to assert that he will become easy. * * * One of the chief aids to suggestion used by the drugless healer is what is known as ‘Animal Magnetism,’ ‘Animal Electricity,’ ‘Odie Force,’ ‘Electro Biological Force,’ or as we call it ‘Vital Magnetism.’ This name is in­tended to be suggestive than otherwise. * * * Some authors claim that water charged with this ‘fluid’ will remain sweet long after water not so treated will become stagnant. I have often seen the experi­ment tried, and successfully too, of magnetizing one of two glasses of water, just alike in appearance, giving them to a sensitive person to see if he can tell the dif­ference between them. He almost invariably does. This may be the result of suggestion, it may not; but whatever it is, it is a great aid to the healer when prop­erly used. It is often very helpful for a healer to mag­netize a bottle of water which the patient takes home with him after his treatment and drinks at stated inter­vals, with the understanding that certain beneficial effects will follow.” '</p>
+                <p pgmap="294" id="b294-5">If the defendant practiced mental suggestion only and strictly according to the Weltmer method, still this pamphlet states “It is often very helpful for the healer to magnetize a bottle of water which the patient takes home with him and drinks at stated intervals with the understanding that certain beneficial effects will follow,” and suggests the use of “Animal Magnetism” and “Electro Biological Force” through the laying on of hands over the affected part.</p>
+                <p pgmap="294" id="b294-6">It is very questionable whether these practices do not come within the statute which was enacted for the pro­tection of the citizens of the state from such practition­ers. However the defendant in no way denied the proof of manipulation that was made on behalf of plaint­iff. The ease of the People v. Gordon, 195 Ill. 560, lays down the rule, that one who advertises himself as a magnetic healer and who gives treatments by rubbing or kneading the body for the purpose of freeing the nerve force, in the nature of osteopathic treatment, is not within the exception in favor of those treating the sick by mental or spiritual means, even though he ac­companied his treatment by mental suggestion, but is practicing medicine within the meaning of the statute and liable to the penalty. It is unnecessary for us to say anything more on the merits of this case as the case cited decides the question argued by appellant against him.</p>
+                <p pgmap="294" id="b294-7">The instructions were much more favorable to the defendant than he was entitled to. Under the proof the defendant should also have been found guilty on several of the other counts. There is no error of which he can complain. The judgment is affirmed.</p>
+                <p pgmap="294" id="b294-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="291" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.2" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.3" BETYPE="IDREF" FILEID="alto_00146_1"/>
+              <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jp2_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.3" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.2" BETYPE="IDREF" FILEID="alto_00147_0"/>
+              <area BEGIN="BL_293.4" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="294" ORDERLABEL="278" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jp2_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.2" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.3" BETYPE="IDREF" FILEID="alto_00147_1"/>
+              <area BEGIN="BL_294.4" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxU" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.19" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_291.20" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.8" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvFu" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.10" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_291.11" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.5" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahu" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.12" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHV" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.13" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_291.14" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.6" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.6" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.7" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.8" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_291.9" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.7" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.5" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asq" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.15" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-12" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.18" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.17" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.16" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-13" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.21" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_293.1" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

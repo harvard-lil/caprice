@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0125" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Watson v. Mickleberry">J. C. Watson, Appellant, v. E. R. Mickleberry, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 624</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="4278872f5e6c78701adf8d2f1e6fbe45" CHECKSUMTYPE="MD5" SIZE="40706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00321_1.tif"/>
+      </file>
+      <file ID="tiff_00322_0" MIMETYPE="image/tiff" CHECKSUM="766aeafdb7ea5c07c8f5ad8626b40ae5" CHECKSUMTYPE="MD5" SIZE="54598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00322_0.tif"/>
+      </file>
+      <file ID="tiff_00322_1" MIMETYPE="image/tiff" CHECKSUM="90ddc275f006a18501f590310c9c35c1" CHECKSUMTYPE="MD5" SIZE="53160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00322_1.tif"/>
+      </file>
+      <file ID="tiff_00323_0" MIMETYPE="image/tiff" CHECKSUM="ea36f496190bcf9b054dcfc23aace930" CHECKSUMTYPE="MD5" SIZE="56040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00323_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00321_1" MIMETYPE="image/jp2" CHECKSUM="4eb60fd53319eeb4fccaaec4c83b76ea" CHECKSUMTYPE="MD5" SIZE="2282947">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00321_1.jp2"/>
+      </file>
+      <file ID="jp2_00322_0" MIMETYPE="image/jp2" CHECKSUM="d759441bd80c671f3407cb362e8eeaf4" CHECKSUMTYPE="MD5" SIZE="2456514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00322_0.jp2"/>
+      </file>
+      <file ID="jp2_00322_1" MIMETYPE="image/jp2" CHECKSUM="4c0581fb8dadb4b47290fafc3dcc679b" CHECKSUMTYPE="MD5" SIZE="2427269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00322_1.jp2"/>
+      </file>
+      <file ID="jp2_00323_0" MIMETYPE="image/jp2" CHECKSUM="ebf6fb1de007cc6f8c6485b7ce356c5f" CHECKSUMTYPE="MD5" SIZE="2500987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00323_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00321_1" MIMETYPE="text/xml" CHECKSUM="96942b50c051cac6371702f7811fc568" CHECKSUMTYPE="MD5" SIZE="78465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00321_1.xml"/>
+      </file>
+      <file ID="alto_00322_0" MIMETYPE="text/xml" CHECKSUM="1dd05e56a265a7afdccd2320c7350590" CHECKSUMTYPE="MD5" SIZE="90103">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00322_0.xml"/>
+      </file>
+      <file ID="alto_00322_1" MIMETYPE="text/xml" CHECKSUM="22f51e575a7c9d034f97fb13fb6307ee" CHECKSUMTYPE="MD5" SIZE="91480">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00322_1.xml"/>
+      </file>
+      <file ID="alto_00323_0" MIMETYPE="text/xml" CHECKSUM="5763f2ace209179abd39f54e444a2809" CHECKSUMTYPE="MD5" SIZE="94208">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00323_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0125" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="627" firstpage="624">
+              <parties id="b642-4" pgmap="642">J. C. Watson, Appellant, v. E. R. Mickleberry, Appel­lee.</parties>
+              <decisiondate id="AFV" pgmap="642">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b642-8" pgmap="642">Calvin Rayburn, for appellant.</attorneys>
+              <attorneys id="b642-9" pgmap="642">Charles I. Will and Barry &amp; Morrissey, for appel­lee.</attorneys>
+              <summary id="b642-7" pgmap="642">Action in debt. Appeal from the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AqYc" pgmap="642">Affirmed.</disposition>
+              <headnotes id="b642-5" pgmap="642">1. Contracts—when default in performance providing for sale of real estate does not appear. A default in the performance of a con­tract providing for the sale and conveyance of real estate which will justify an action at law is not established where it appears that the contract contains mutual obligations and the plaintiff does not show that those obligations which it was incumbent upon him to perform have been carried out.</headnotes>
+              <headnotes id="b642-6" pgmap="642">2. Contracts—right to reasonable time to correct defects of title. A party to a contract for the sale and conveyance of land is entitled to a reasonable time after being notified of defects in his title to cure such defects, and until such time has elapsed with a failure to cure such defects no default can be successfully urged."</headnotes>
+              <opinion type="majority">
+                <author id="b642-10" pgmap="642">Mr. Justice Baume</author>
+                <p id="AWyG" pgmap="642">delivered the opinion of the court.</p>
+                <p id="b642-11" pgmap="642">Appellant brought his action in debt ag’ainst appel­lee to recover $2,500 as a stipulated penalty, for the alleged breach of a contract for the exchange of real estate. Upon the trial of the cause by the court with­out a jury, the court upon motion of appellee, made at the close of appellant’s evidence, found the issues in favor of appellee, and rendered judgment against ap­pellant for costs.</p>
+                <p id="b642-12" pgmap="642(39) 643(104)">By the terms of a written contract bearing date Oc­tober 16, 1906, appellee agreed to convey to-appellant by warranty deed, on or before November 1, 1906, and upon the payment by the latter of $600, 245 acres of land, free and clear of all liens, except a mortgage ¿or $12,000 with interest from February 24, 1906, and to pay the taxes on said land for the year 1906, appellee to receive one-half of the crop then growing thereon, and appellant agreed to convey to appellee by war­ranty deed on or before said date, certain property in the city of Bloomington, free and clear of all encum­brances except a mortgage for $6,000 and interest from July 1, 1906, and to furnish a certain bond as in­demnity against a certain judgment for $2,000, which judgment was a lien against the property.</p>
+                <p id="b643-5" pgmap="643">It was further thereby agreed that each party should furnish to the other an abstract brought down to date showing merchantable title in the grantor to the premises involved; that time should be of the es­sence of the agreement; that upon the failure or refusal of either party to comply with the provisions of the agreement, the party so failing or refusing should forfeit and pay to the other the sum of $2,500 as liquidated damages; and that in case the abstract of title furnished by either party should be found upon examination to be defective, such party should have a reasonable time to have said abstract corrected.</p>
+                <p id="b643-6" pgmap="643(153) 644(226)">The only witness in the case was Charles M. Buck, called on behalf of appellant, who testified that about a week prior to November 1, 1906, appellant placed the papers in the case in his hands and authorized him to perform the agreement; that on the morning of November 1, 1906, appellee called him over the tele­phone and inquired if appellant was in town; that he told appellee that appellant was not and would not be in town, and that appellant then said: “This is the day the deal is to be closed;” that he replied to ap­pellee that appellant had placed the papers in his hands and they were ready to perform; that appellee said he would get his attorney and would be over in fifteen minutes; that shortly thereafter, while the wit­ness was engaged in figuring on the account between the parties, appellee with his attorney, Hamilton, came into Ms office; that appellee told the witness that Ham­ilton had the abstract and that it had better be passed upon first; that the witness told appellee to take the abstract to his partner Mr. Rayburn and" have him pass on it, and that he would then accept it; that app­ellee and Hamilton went into Mr. Rayburn’s room, where they remained about fifteen minutes, while the witness continued figuring on the account; that upon the return of appellee, the witness said: “I will soon be through with this” (referring to his figuring on the account), and that appellee then said “There is a mortgage appearing on my abstract—I will have to get a release for, it will take me four or five days;” that the witness said “I am ready to close it up now,” and that appellee replied “It will take four or five days, ’ ’ and went out of the office. The witness further testified that appellee came to his office five or six days later with his abstract of title and said he had obtained a release of the mortgage; that witness re­plied he didn’t think it would do any good to examine the abstract or have it examined then, because he was only authorized to perform the contract as it was and not to make a new contract.</p>
+                <p id="b644-5" pgmap="644">Upon his cross-examination the witness testified that four or five days after he received the abstract of title to the lands owned by appellant he went to appellee and inquired what appellee would take to let appellant out of the contract; that a certain assessment which was then a lien against appellant’s property had not been paid on November 1, 1906; and that appellee had never refused to perform the contract on his part.</p>
+                <p id="b644-6" pgmap="644">A careful examination of the evidence of this wit­ness as it appears in the record persuades us that both parties to the contract desired to avoid performance, and that each was seeking to .gain á technical advant­age of the other for the purpose of declaring a forfeit­ure of the same and enforcing the penalty.</p>
+                <p id="b644-7" pgmap="644(19) 645(283)">It does not appear that appellee refused to perform the contract on November 1, 1906, when it is insisted a forfeiture was incurred, and we do not think that appellant then made a bona fide tender or offer to per­form on his part. Neither the deed to the premises owned by appellant, nor the bond provided in the con­tract to be given by appellant to appellee as indemnity against a certain judgment for $2,000, which was then a lien upon said premises, was exhibited or tendered to appellee, and the fact that an assessment against the property of appellant, which was a lien thereon, was then unpaid shows that appellant was not then able to perform the contract on his part. It is uncon­trovert'ed that there was a defect in the abstract of title to appellee’s property, in that it failed to show a release of a certain mortgage, and it is fairly infer-­able from the evidence that such defect in the abstract was noted by the attorney for the appellant, and that appellee was required to have the same corrected. By the express terms of the contract either party, in the event that his abstract was found to be defective, was entitled to a reasonable time to have the same cor­rected. This provision of the contract is to be given effect, in connection with the provision fixing Novem­ber 1, 1906, as the time of its performance, in con­struing the entire contract, and we are of opinion that appellee was entitled to a reasonable time after the discovery by appellant of the defect in the ab­stract, to have the same corrected, and that a default in the terms of the contract could not be imputed to appellee until the expiration of such reasonable time.</p>
+                <p id="b645-4" pgmap="645">Where the undertakings of the parties to a contract are mutual and dependent, it is incumbent upon the plaintiff to comply with that which he has undertaken to do (unless non-compliance is excused or justified), before he can be permitted to maintain an action to recover damages for a failure on the part of the de­fendant to comply with the obligations of the contract on his part. Tichenor v. Newman, 186 Ill. 264.</p>
+                <p id="b645-5" pgmap="645">Applying this principle of law to the facts in the case at bar, we concur in the finding of the trial court, and the judgment will be affirmed. Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="642" ORDERLABEL="624" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jp2_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.1" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.2" BETYPE="IDREF" FILEID="alto_00321_1"/>
+              <area BEGIN="BL_642.3" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="643" ORDERLABEL="625" TYPE="page">
+        <fptr FILEID="tiff_00322_0"/>
+        <fptr FILEID="jp2_00322_0"/>
+        <fptr FILEID="alto_00322_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.3" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.2" BETYPE="IDREF" FILEID="alto_00322_0"/>
+              <area BEGIN="BL_643.4" BETYPE="IDREF" FILEID="alto_00322_0"/>
+              <area BEGIN="BL_643.7" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="644" ORDERLABEL="626" TYPE="page">
+        <fptr FILEID="tiff_00322_1"/>
+        <fptr FILEID="jp2_00322_1"/>
+        <fptr FILEID="alto_00322_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.2" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.3" BETYPE="IDREF" FILEID="alto_00322_1"/>
+              <area BEGIN="BL_644.4" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="645" ORDERLABEL="627" TYPE="page">
+        <fptr FILEID="tiff_00323_0"/>
+        <fptr FILEID="jp2_00323_0"/>
+        <fptr FILEID="alto_00323_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.3" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.2" BETYPE="IDREF" FILEID="alto_00323_0"/>
+              <area BEGIN="BL_645.4" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-12" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.18" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_643.1" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.5" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-10" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.14" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-11" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.17" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.5" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.6" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.6" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFV" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.10" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_642.11" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-4" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.5" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.7" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_645.1" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-8" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.12" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-9" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.13" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.6" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            <area BEGIN="BL_644.1" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqYc" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.9" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWyG" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.15" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_642.16" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-4" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-5" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.5" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-6" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.6" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-7" BETYPE="IDREF" FILEID="casebody_0125"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.7" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            <area BEGIN="BL_642.8" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

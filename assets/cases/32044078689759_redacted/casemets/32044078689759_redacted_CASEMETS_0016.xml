@@ -1,0 +1,2835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0016" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Smith">The People of the State of Illinois, Defendant in Error, v. Abner Smith et al., Plaintiffs in Error</name>
+          <docketnumber>Gen. No. 13,861</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 129</citation>
+          <decisiondate>1908-07-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="b70ae480209b0a09aec69464ac49ac62" CHECKSUMTYPE="MD5" SIZE="48110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00073_0.tif"/>
+      </file>
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="3304e070fc263ccd14c9cb6249dea437" CHECKSUMTYPE="MD5" SIZE="54528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="14bc92349e68dd2eae0f5c9b2f4f3379" CHECKSUMTYPE="MD5" SIZE="54702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00074_0.tif"/>
+      </file>
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="514b7ace9d13937eeb273e431d9b90f4" CHECKSUMTYPE="MD5" SIZE="54170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="7beb3048e21c8a5893311dc86cfaed2b" CHECKSUMTYPE="MD5" SIZE="55146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="86c4522584fae91ccb92f02901206ccf" CHECKSUMTYPE="MD5" SIZE="45852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00075_1.tif"/>
+      </file>
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="e4ca8b1d5f267e0b25525d5fa328ea52" CHECKSUMTYPE="MD5" SIZE="38416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00076_0.tif"/>
+      </file>
+      <file ID="tiff_00076_1" MIMETYPE="image/tiff" CHECKSUM="a8e06646f0645322f3fff948434445e8" CHECKSUMTYPE="MD5" SIZE="53454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00076_1.tif"/>
+      </file>
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="379cb0c348e37805a54a7cb00a0fbc06" CHECKSUMTYPE="MD5" SIZE="52720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00077_0.tif"/>
+      </file>
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="5d7242cb037af0bb0f280a3d01dabf1a" CHECKSUMTYPE="MD5" SIZE="53008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00077_1.tif"/>
+      </file>
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="0d48f2b3d8b789a812d8539470465f91" CHECKSUMTYPE="MD5" SIZE="52388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="41bb4a2416a14be0b7588359ab6ebb3c" CHECKSUMTYPE="MD5" SIZE="53504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="8ec6ed89e768e2cacc3187b1dacfbed1" CHECKSUMTYPE="MD5" SIZE="52836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="6edd054fe0c2f784ef4622f2eaed931c" CHECKSUMTYPE="MD5" SIZE="52848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="420b0a713d45d219402d23fe831405b0" CHECKSUMTYPE="MD5" SIZE="52412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="b705c95fed2011f477719659400975a7" CHECKSUMTYPE="MD5" SIZE="54306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="05a142a75a957e74a8c34ed84ddbe682" CHECKSUMTYPE="MD5" SIZE="51658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="5f61ed6726bd32219b6043b29ec63bc4" CHECKSUMTYPE="MD5" SIZE="51098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="1cfd3520b24aed5ddb0f21d5fe571b19" CHECKSUMTYPE="MD5" SIZE="48092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="c9dba0d5d1dbb564faddab54b30f5d48" CHECKSUMTYPE="MD5" SIZE="52154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="2cc74fe187a45e645c1ac9e0ae06d1c4" CHECKSUMTYPE="MD5" SIZE="50804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="5fdd7b163cd94118dc90e447fd4f9498" CHECKSUMTYPE="MD5" SIZE="51224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00083_1.tif"/>
+      </file>
+      <file ID="tiff_00084_0" MIMETYPE="image/tiff" CHECKSUM="ba9744983b967a49a962f96771a46d06" CHECKSUMTYPE="MD5" SIZE="52912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00084_0.tif"/>
+      </file>
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="8a3ebdf06d659a5bfc01ab5b27186b66" CHECKSUMTYPE="MD5" SIZE="54170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00084_1.tif"/>
+      </file>
+      <file ID="tiff_00085_0" MIMETYPE="image/tiff" CHECKSUM="60c5589eb209bf7fbe6a957c5ee42283" CHECKSUMTYPE="MD5" SIZE="54470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00085_0.tif"/>
+      </file>
+      <file ID="tiff_00085_1" MIMETYPE="image/tiff" CHECKSUM="0eec624c5b92f371b52263f793ad3a39" CHECKSUMTYPE="MD5" SIZE="52494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00085_1.tif"/>
+      </file>
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="0f2c369fa6a11346655f045a5ba9d6cd" CHECKSUMTYPE="MD5" SIZE="54326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="436d41e73ccb0a176d9a63a95627b3ad" CHECKSUMTYPE="MD5" SIZE="54756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00086_1.tif"/>
+      </file>
+      <file ID="tiff_00087_0" MIMETYPE="image/tiff" CHECKSUM="c355eab0706f38ce7bc4dd1771247308" CHECKSUMTYPE="MD5" SIZE="52192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00087_0.tif"/>
+      </file>
+      <file ID="tiff_00087_1" MIMETYPE="image/tiff" CHECKSUM="6ebdf9b8edc01c9477278ecd1bfeaf28" CHECKSUMTYPE="MD5" SIZE="52310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00087_1.tif"/>
+      </file>
+      <file ID="tiff_00088_0" MIMETYPE="image/tiff" CHECKSUM="95e3ce745423747cb23c11ce80e154f5" CHECKSUMTYPE="MD5" SIZE="51642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00088_0.tif"/>
+      </file>
+      <file ID="tiff_00088_1" MIMETYPE="image/tiff" CHECKSUM="3fcc8fa841e9f9baf14d40b4d9ad0966" CHECKSUMTYPE="MD5" SIZE="51960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00088_1.tif"/>
+      </file>
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="faf65802fcc897e4705fa41e35ea847b" CHECKSUMTYPE="MD5" SIZE="55488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00089_0.tif"/>
+      </file>
+      <file ID="tiff_00089_1" MIMETYPE="image/tiff" CHECKSUM="ac45355c3966c8e16e2bc6ab6016da0c" CHECKSUMTYPE="MD5" SIZE="53988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00089_1.tif"/>
+      </file>
+      <file ID="tiff_00090_0" MIMETYPE="image/tiff" CHECKSUM="c8cb2038d3c606a0dc72517cbc418478" CHECKSUMTYPE="MD5" SIZE="54806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_0.tif"/>
+      </file>
+      <file ID="tiff_00090_1" MIMETYPE="image/tiff" CHECKSUM="9e2c027445b3b94ff632cb997d7400ca" CHECKSUMTYPE="MD5" SIZE="44018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="8ab0447041bedd57e7dd530475f660b8" CHECKSUMTYPE="MD5" SIZE="2333073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00073_0.jp2"/>
+      </file>
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="f05ead9728a2c6598ebf51a998d38a7b" CHECKSUMTYPE="MD5" SIZE="2346803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="3a26bd25e20a9491b6109c1b5e96316e" CHECKSUMTYPE="MD5" SIZE="2406254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00074_0.jp2"/>
+      </file>
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="ed75bc01c78369dd5fbdbef91fedd204" CHECKSUMTYPE="MD5" SIZE="2342913">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="49e0aa347f211d806455524eceaffd55" CHECKSUMTYPE="MD5" SIZE="2412595">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00075_0.jp2"/>
+      </file>
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="787a8b0c3af66562a490c7daf3a27844" CHECKSUMTYPE="MD5" SIZE="2292211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00075_1.jp2"/>
+      </file>
+      <file ID="jp2_00076_0" MIMETYPE="image/jp2" CHECKSUM="fc6708c29f4a371e3d67f40a6b5e28b0" CHECKSUMTYPE="MD5" SIZE="2297149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00076_0.jp2"/>
+      </file>
+      <file ID="jp2_00076_1" MIMETYPE="image/jp2" CHECKSUM="54e159488d10b3d224fdc00473519aa9" CHECKSUMTYPE="MD5" SIZE="2330218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00076_1.jp2"/>
+      </file>
+      <file ID="jp2_00077_0" MIMETYPE="image/jp2" CHECKSUM="4821afa55a6121ee94abb837a5084b09" CHECKSUMTYPE="MD5" SIZE="2386523">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00077_0.jp2"/>
+      </file>
+      <file ID="jp2_00077_1" MIMETYPE="image/jp2" CHECKSUM="8f0d18495b1626358843751c9f23575b" CHECKSUMTYPE="MD5" SIZE="2353955">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00077_1.jp2"/>
+      </file>
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="ce95f9a4068620765b73ce3e4fb4f358" CHECKSUMTYPE="MD5" SIZE="2372700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="232d93b854e1cdad2ae2fa95f8eded00" CHECKSUMTYPE="MD5" SIZE="2332976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="a4f4cb20074604c16fd6f1c975dfda82" CHECKSUMTYPE="MD5" SIZE="2381979">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="2a94010baf3cca5d5eb391a3d5f1b72c" CHECKSUMTYPE="MD5" SIZE="2349397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00079_1.jp2"/>
+      </file>
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="ff53053d533fa9ded4f25082d4e63c0e" CHECKSUMTYPE="MD5" SIZE="2391701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="063e6c1c79854afc5b406fabb8bbb5b1" CHECKSUMTYPE="MD5" SIZE="2343299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="e56ba48033c65bdc5a1f6aca1ba61902" CHECKSUMTYPE="MD5" SIZE="2382036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="72cf37edb4db2fec46e43324c8736d76" CHECKSUMTYPE="MD5" SIZE="2320403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="95fd1d570d140609596bee7bd69db313" CHECKSUMTYPE="MD5" SIZE="2373926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="1622810417598479b5bc340024f90a55" CHECKSUMTYPE="MD5" SIZE="2345912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="8b2dd9b196ee9504f407be9a17503fca" CHECKSUMTYPE="MD5" SIZE="2377046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="7d2c984bdea40ba9c74b7bd70af0567f" CHECKSUMTYPE="MD5" SIZE="2341390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00083_1.jp2"/>
+      </file>
+      <file ID="jp2_00084_0" MIMETYPE="image/jp2" CHECKSUM="41cd353f852874ab9a7223693d692b1e" CHECKSUMTYPE="MD5" SIZE="2393714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00084_0.jp2"/>
+      </file>
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="c38067057e539d40183af3395ee687c5" CHECKSUMTYPE="MD5" SIZE="2355348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00084_1.jp2"/>
+      </file>
+      <file ID="jp2_00085_0" MIMETYPE="image/jp2" CHECKSUM="d40d838674b5a5c5fb8ea05b37dcae3d" CHECKSUMTYPE="MD5" SIZE="2401881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00085_0.jp2"/>
+      </file>
+      <file ID="jp2_00085_1" MIMETYPE="image/jp2" CHECKSUM="0ca329ec7c1cd436cc96736f5bf4aae0" CHECKSUMTYPE="MD5" SIZE="2329208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00085_1.jp2"/>
+      </file>
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="0b4d980f5c84339f1969795a3c063a0b" CHECKSUMTYPE="MD5" SIZE="2396039">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="cd31a7f3e59636e327819efe99b01ccd" CHECKSUMTYPE="MD5" SIZE="2363538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00086_1.jp2"/>
+      </file>
+      <file ID="jp2_00087_0" MIMETYPE="image/jp2" CHECKSUM="fa890df3cdb680e3ed747d82ba2f8759" CHECKSUMTYPE="MD5" SIZE="2395020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00087_0.jp2"/>
+      </file>
+      <file ID="jp2_00087_1" MIMETYPE="image/jp2" CHECKSUM="c8a5bd067e39300c0e83198f07312d1c" CHECKSUMTYPE="MD5" SIZE="2340193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00087_1.jp2"/>
+      </file>
+      <file ID="jp2_00088_0" MIMETYPE="image/jp2" CHECKSUM="948d88379e18f6672887eb4baa0fa67f" CHECKSUMTYPE="MD5" SIZE="2383908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00088_0.jp2"/>
+      </file>
+      <file ID="jp2_00088_1" MIMETYPE="image/jp2" CHECKSUM="96668de460d698cc2e9870aa0eeb2018" CHECKSUMTYPE="MD5" SIZE="2347144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00088_1.jp2"/>
+      </file>
+      <file ID="jp2_00089_0" MIMETYPE="image/jp2" CHECKSUM="fb6f1a5c00bc0577d10742254f1d90eb" CHECKSUMTYPE="MD5" SIZE="2405862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00089_0.jp2"/>
+      </file>
+      <file ID="jp2_00089_1" MIMETYPE="image/jp2" CHECKSUM="971a601a87d349b54e70665203f1d6c6" CHECKSUMTYPE="MD5" SIZE="2346503">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00089_1.jp2"/>
+      </file>
+      <file ID="jp2_00090_0" MIMETYPE="image/jp2" CHECKSUM="894c309bd50da5c55af47f5f382541b5" CHECKSUMTYPE="MD5" SIZE="2404015">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_0.jp2"/>
+      </file>
+      <file ID="jp2_00090_1" MIMETYPE="image/jp2" CHECKSUM="b387b1f0320c9288ffd53e0bce6c844b" CHECKSUMTYPE="MD5" SIZE="2271500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="c9eafbd4d559a7c2e89c5788d183eed9" CHECKSUMTYPE="MD5" SIZE="85064">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00073_0.xml"/>
+      </file>
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="bd0e06ddab684d9d8a35c915551c24d1" CHECKSUMTYPE="MD5" SIZE="109258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="7198056260f76c69d68685a586f00a94" CHECKSUMTYPE="MD5" SIZE="82285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00074_0.xml"/>
+      </file>
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="9b111500329ef3e3610f44b544b01b31" CHECKSUMTYPE="MD5" SIZE="80635">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="526433be8a45125427e85bb20590e53a" CHECKSUMTYPE="MD5" SIZE="92603">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00075_0.xml"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="5bd3bfbb039c0d5ebb4a73f6eabf5964" CHECKSUMTYPE="MD5" SIZE="70937">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00075_1.xml"/>
+      </file>
+      <file ID="alto_00076_0" MIMETYPE="text/xml" CHECKSUM="91302d0c32663b7987ddfc0806d56d3c" CHECKSUMTYPE="MD5" SIZE="58944">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00076_0.xml"/>
+      </file>
+      <file ID="alto_00076_1" MIMETYPE="text/xml" CHECKSUM="2d789a164ee73aa9ae7f387a3db193a5" CHECKSUMTYPE="MD5" SIZE="86028">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00076_1.xml"/>
+      </file>
+      <file ID="alto_00077_0" MIMETYPE="text/xml" CHECKSUM="dbf687092b5b6b8782bb5557dac77f09" CHECKSUMTYPE="MD5" SIZE="87796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00077_0.xml"/>
+      </file>
+      <file ID="alto_00077_1" MIMETYPE="text/xml" CHECKSUM="609b8cbfb61b14e246ab125b42abb60b" CHECKSUMTYPE="MD5" SIZE="86978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00077_1.xml"/>
+      </file>
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="8bfbaab77df350f0971ecf518d70ef90" CHECKSUMTYPE="MD5" SIZE="82810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="9018d623dfb0ea4e64c2ff55a8716247" CHECKSUMTYPE="MD5" SIZE="86570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="2be45d94438af96f05d4f24ad1593abc" CHECKSUMTYPE="MD5" SIZE="83048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="3a6bbccecc52518ab298d64d96240b2a" CHECKSUMTYPE="MD5" SIZE="90813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00079_1.xml"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="b76476be173ccf37751e1f76f5d29ff5" CHECKSUMTYPE="MD5" SIZE="86601">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="cff60ca39b3d8c03b4a5a98105446269" CHECKSUMTYPE="MD5" SIZE="87388">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="ce86ed6151517c9d58761115a919dd06" CHECKSUMTYPE="MD5" SIZE="83419">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="a332a04b02e4a4b63f0affae0429b7ef" CHECKSUMTYPE="MD5" SIZE="79053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="377f36af1b947fcc81ee66504de65816" CHECKSUMTYPE="MD5" SIZE="78654">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="a0bdea85082cb7618e575743c9803a16" CHECKSUMTYPE="MD5" SIZE="88608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="34f22116b33ba5bb9312d5ef3b678ecc" CHECKSUMTYPE="MD5" SIZE="85190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="0c6eea2fb8966a236c32f37c953e55f7" CHECKSUMTYPE="MD5" SIZE="89852">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00083_1.xml"/>
+      </file>
+      <file ID="alto_00084_0" MIMETYPE="text/xml" CHECKSUM="0e91e39ccd78bbb019b6796da5d7380f" CHECKSUMTYPE="MD5" SIZE="86234">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00084_0.xml"/>
+      </file>
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="e32e7cb016c453fda51cecf7b056ed2c" CHECKSUMTYPE="MD5" SIZE="86280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00084_1.xml"/>
+      </file>
+      <file ID="alto_00085_0" MIMETYPE="text/xml" CHECKSUM="ecbdf2339e02f130423d2141164003fa" CHECKSUMTYPE="MD5" SIZE="87239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00085_0.xml"/>
+      </file>
+      <file ID="alto_00085_1" MIMETYPE="text/xml" CHECKSUM="183af059decec3237d55959635297e55" CHECKSUMTYPE="MD5" SIZE="87726">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00085_1.xml"/>
+      </file>
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="ddb2c996f6ae6bf622e8061a76669cf5" CHECKSUMTYPE="MD5" SIZE="88778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="c421ee68c5e119964603820b16a75490" CHECKSUMTYPE="MD5" SIZE="82721">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00086_1.xml"/>
+      </file>
+      <file ID="alto_00087_0" MIMETYPE="text/xml" CHECKSUM="4d2cc6bae9eb3c4a5a8858fded9b11be" CHECKSUMTYPE="MD5" SIZE="84960">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00087_0.xml"/>
+      </file>
+      <file ID="alto_00087_1" MIMETYPE="text/xml" CHECKSUM="c9d66906095fa9c3813b3e08143054b1" CHECKSUMTYPE="MD5" SIZE="81661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00087_1.xml"/>
+      </file>
+      <file ID="alto_00088_0" MIMETYPE="text/xml" CHECKSUM="1f69cacbdd869ab5ffc12a90182f3307" CHECKSUMTYPE="MD5" SIZE="86341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00088_0.xml"/>
+      </file>
+      <file ID="alto_00088_1" MIMETYPE="text/xml" CHECKSUM="32ab30ab24d6f4cfd9847ca95927d5e6" CHECKSUMTYPE="MD5" SIZE="86830">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00088_1.xml"/>
+      </file>
+      <file ID="alto_00089_0" MIMETYPE="text/xml" CHECKSUM="23a632e64175a26461bdcbbe047f3fe7" CHECKSUMTYPE="MD5" SIZE="90400">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00089_0.xml"/>
+      </file>
+      <file ID="alto_00089_1" MIMETYPE="text/xml" CHECKSUM="66a4b0569a7e1340fb0248f3e1aeb809" CHECKSUMTYPE="MD5" SIZE="87543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00089_1.xml"/>
+      </file>
+      <file ID="alto_00090_0" MIMETYPE="text/xml" CHECKSUM="29914d58d6a5c92d5e4f947d7d587e9b" CHECKSUMTYPE="MD5" SIZE="89825">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00090_0.xml"/>
+      </file>
+      <file ID="alto_00090_1" MIMETYPE="text/xml" CHECKSUM="204d02680f63b2ee585ac343a9f42bf4" CHECKSUMTYPE="MD5" SIZE="78665">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00090_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="164" firstpage="129">
+              <docketnumber pgmap="145" id="b145-15">Gen. No. 13,861.</docketnumber>
+              <parties pgmap="145" id="b145-13">The People of the State of Illinois, Defendant in Error, v. Abner Smith et al., Plaintiffs in Error.</parties>
+              <decisiondate pgmap="146" id="AqM">Opinion filed July 6, 1908.</decisiondate>
+              <otherdate pgmap="146" id="A9k">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="146" id="AQ3">Rehearing denied and opinion modified and refiled October 15, 1908.</otherdate>
+              <attorneys pgmap="163" id="b163-3">Stedman &amp; Soelke, A. N. Waterman and U. P. Smith, for plaintiffs in error.</attorneys>
+              <attorneys pgmap="163" id="b163-4">John J. Healy, State’s Attorney, Hobart P. Young and Boger Sherman, for defendant in error.</attorneys>
+              <summary pgmap="146" id="b146-15">Criminal prosecution for conspiracy. Error to -the Criminal Court of Cook County; the Hon. Merritt W. Pinckney, Judge, presiding.</summary>
+              <disposition pgmap="146" id="Avm">Affirmed.</disposition>
+              <headnotes pgmap="145" id="b145-16">1. Conspiracy-What equivalent to charging, as at common law. An indictment for conspiracy which concludes "contrary to the law" is tantamount to charging a conspiracy at common law.</headnotes>
+              <headnotes pgmap="145" id="b145-19">2. Conspiracy-appropriate averments of indictment charging. Those guilty of conspiring to obtain money by false pretenses may be indicted either under the statute or at common law, or both.</headnotes>
+              <headnotes pgmap="145" id="b145-22">3. Conspiracy-what gravamen of offense of, to obtain money by false pretenses. The gravamen of the offense is the conspiracy to do the unlawful act. It is not the false pretenses which constitute the crime, but the conspiring together with the design to make such false pretenses.</headnotes>
+              <headnotes pgmap="145" id="b145-27">4. Conspiracy-what indictment charging, to obtain money by false pretenses need not allege. An indictment charging a conspiracy to obtain money by false pretenses need not set out or show in what the false pretenses consist.</headnotes>
+              <headnotes pgmap="145" id="b145-31">5. Conspiracy-what sufficient to sustain verdict in prosecution for. One good count is sufficient to sustain a verdict and conviction in a prosecution for conspiracy.</headnotes>
+              <headnotes pgmap="145" id="b145-34">6. Conspiracy-what indictment charging, to obtain money by false pretenses need not allege. An indictment charging conspiracy to obtain money by false pretenses need not allege that the conspir­acy was formed against any individual. Such an indictment may properly charge conspiracy against the public generally.</headnotes>
+              <headnotes pgmap="145(32) 146(16)" id="b145-39">7. Conspiracy-when allegations of indictment charging, suffi­cient. Au indictment for conspiracy must state a date but the exact date need not be given, and the proof, where the allegation of date is under a videlicet, may show any date within the period of the Statute of Limitations.</headnotes>
+              <headnotes pgmap="146" id="b146-5">8. Conspiracy—what not /description of the offense of. The names of the persons with whom the indicted defendant' conspired are not descriptive of the offense.</headnotes>
+              <headnotes pgmap="146" id="b146-6">9. Pleading—when indictment sufficiently technical. An indict­ment charging conspiracy to obtain money by false pretenses is technically sufficient if it charges the offense in the language of the statute.</headnotes>
+              <headnotes pgmap="146" id="b146-7">10. Criminal law—what presumptions not indulged upon appeal in favor of convicted defendant. Notwithstanding no presumptions will be indulged against the defendant who has not testified in his own behalf, yet no such presumptions will be indulged in his favor which are not justified by the evidence adduced by the state where such evidence stands without countervailing proof.</headnotes>
+              <headnotes pgmap="146" id="b146-8">11. Variance—when objection for comes too late. In a criminal as well as in a civil case, an objection of variance comes too late when first raised on appeal.</headnotes>
+              <headnotes pgmap="146" id="b146-9">12. Evidence—when objection to competency of witness comes too late. An objection that a witness called by the state is dis­qualified, comes too late when first raised on appeal.</headnotes>
+              <headnotes pgmap="146" id="b146-10">13. Evidence—when declaration of co-conspirator competent. The declarations of a conspirator who is not prosecuted are equally ad­missible with those of one under indictment in the prosecution.</headnotes>
+              <headnotes pgmap="146" id="b146-11">14. Evidence—when books not property of defendants accused of crime and therefore competent against them. Books kept by an incorporated bank are not the individual property of the officers thereof who were charged as individuals with conspiracy, and such books are therefore competent to be used upon the prosecution.</headnotes>
+              <headnotes pgmap="146" id="b146-12">15. Practice—when bill of particulars need not be ordered. It is not error in a criminal case to deny a bill of particulars where the indictment in itself gives sufficient information of the crime charged, and there is nothing in the proof which shows that the defendants were taken by surprise, or were in any way prejudiced, because of lack of knowledge of the particular facts upon which the state de­pended for a conviction. s</headnotes>
+              <headnotes pgmap="146" id="b146-14">16. Trial—when remarks of trial judge not ground for reversal. A remark by the trial judge to the effect that a defendant might have taken the stand and made denial of a particular statement of a witness, does not affect the other defendants, and they have no right to complain with respect thereto.</headnotes>
+              <p pgmap="147" id="b147-3">Statement by the Court. Plaintiffs in error, Abner Smith and Gustav R Sorrow, with Jerome V. Pierce and Frank E. Creelman, were jointly indicted for con­spiracy to obtain money and other property by false pretenses. Smith, Sorrow and Pierce were convicted, and Creelman acquitted, by the jury on a trial under the indictment. Pierce was fined $500, which he paid. Smith and Sorrow were fined $1,000 each, and in addi­tion were sent to the penitentiary under an indetermi­nate sentence. In an effort to reverse the judgment of conviction Smith and Sorrow sue out this writ of error.</p>
+              <p pgmap="147" id="b147-4">The indictment consists of nine counts; the first and eighth conclude “contrary to the statute,” and the others conclude “contrary to the law,” which is tan­tamount to charging a conspiracy at common law.</p>
+              <p pgmap="147(203) 148(12)" id="b147-5">The first two counts, after stating the proceedings relating to the organization of the bank, the obtaining of the charter, and the opening of the bank for busi­ness, allege in substance that fifteen directors, naming them, were elected; that Abner Smith was elected president, and Gustav F. Sorrow vice-president, and Jerome V. Pierce, cashier, who with their co-defend­ant Frank E. Creelman were also directors; that when the bank opened for business it had 200 stockholders, 1,500 depositors, 200 customers, and 200 creditors, many of whom were ignorant of the affairs of the bank; and that the defendants represented to sub­scribers for stock that the bank was to have a capital of $250,000; that the stock was to be sold for $200 a share, $100 of which was to constitute a surplus of $250,000; and that the defendants, devising and fraud­ulently intending to acquire and get into their hands and possession the moneys, goods and property of the public by false and fraudulent and dishonest means, on the 14th day of February, 1906, wrongfully, wick­edly, fraudulently, feloniously and unlawfully did con­spire to get and obtain, knowingly and designedly, and by false pretenses, the moneys, goods and property of the public, with the intent to cheat and defraud and injure them.</p>
+              <p pgmap="148(314) 149(385) 150(157)" id="b148-5">The third count, after the inducement, charges that said Abner Smith, then and there being president and director of said Bank of America, and Jerome V. Pierce and Gustav F. Sorrow, whilst then and there being directors and vice-president and cashier respect­ively of said bank, and Frank E. Creelman, then and there being a director of said bank, well knowing the premises in that count before mentioned, and well knowing the bank’s affairs to be in a dangerous condi­tion and approaching insolvency and then insolvent, and that the stock and shares were unsafe, and might be ruinous to the owners thereof, and well knowing that the depositors in said bank might lose their de­posits, and fraudulently devising and intending to acquire and get into their hands and possession the moneys, goods and property of the stockholders, de­positors, creditors and customers of said bank, and such other persons who might believe certain false representations and pretenses thereafter named to be true, and become stockholders, depositors, creditors and customers of said bank, by fraudulent and dis­honest means, on the 14th day of February, A. D. 1906, at Chicago, in said county did unlawfully, wrong­fully, wickedly, fraudulently and deceitfully conspire, combine, confederate and agree together, and with divers other persons whose names are to the grand jurors unknown, to get and obtain, knowingly and de­signedly and by false pretenses, the moneys, goods, chattels, and property of the stockholders, creditors and depositors and customers of the said bank, and of such other persons who might believe certain false repre­sentations and pretenses thereafter named to be true, and become stockholders, depositors, creditors and cus­tomers of said bank, by means of divers false pretenses and subtle means and devices in substance as follows: “that is to say, to represent and pretend to said stock­holders, depositors, creditors and customers of said Bank of America, and to such other persons who might believe such representations and pretenses as herein­after named to be true and become stockholders, de­positors, creditors and customers of said Bank of America, that the said Bank of America was carry­ing on a profitable banking business; that its pecuni­ary affairs were in a sound and prosperous condition; that the capital stock in the sum of $250,000 of the said Bank of America was then and there all fully paid in, in cash, and that the said Bank of America then and there had a surplus of $250,000, all fully paid, and that the said Bank of America was then and there solvent, and that the said Bank of America then and there had total resources to the value and amount of $803,090.60, and that the said Bank of America then and there had a capital stock in the sum of $250,000, and a surplus in the sum of $250,000, and that the said Bank of America had capital and surplus in the sum and to the amount of $500,000; whereas in truth and in fact, as they, the said Abner Smith and Jerome V. Pierce, the said Gustav F. Sorrow and the said Frank E. Creelman, then and there well knew, the said Bank of America then was not carrying on a profitable banking business; that its pecuniary affairs were not in a sound and prosperous condition; that the capital stock in the sum of $250,000 of the said Bank of America was not then all fully paid in in cash, and that the said Bank of America did not then have a sur­plus of $250,000 all fully paid, and that the said Bank of America was not then solvent, and that said Bank of America did not then have total resources to the value and amount of $803,090.60, and that the said Bank of America did not then have a capital stock in the sum of $250,000 and surplus in the sum of $250,000 and that the said Bank did not then have capital stock and surplus in the sum and to the amount of $500,000, to induce such stockholders, depositors, creditors and customers of said Bank of America and such other persons who might believe said false representation and pretenses to be true and become stockholders, de­positors, creditors and customers of said Bank of America as were ignorant of the true state of affairs of the said Bank of America, to purchase and hold stock thereof, to deposit money therein, to become creditors thereof and to deal therewith, with intent then and there fraudulently and maliciously to cheat and defraud the said stockholders, depositors, credit­ors and customers of said Bank of America, and the said other persons who might believe the said false representations and pretenses to be true and become stockholders, depositors, creditors and customers of the Bank of America, of their money, goods and prop­erty, contrary to the law and against the peace and dignity of the same people of the state of Illinois.” The fifth count is practically identical with the third count, with the exception that it charges the proposed victims of the conspiracy to be the public.</p>
+              <p pgmap="150" id="b150-5">The sixth count is substantially the same as the third, except that the false pretenses are charged to have been contained in a false written statement pur­porting to be a statement of the true condition of the affairs of the bank, which was made, circulated and published by the defendants, which false written state­ment is in the following words :</p>
+              <p pgmap="150" id="b150-6">"Bank of Ambeica,</p>
+              <p pgmap="150" id="b150-7">N. E. Corner Clark and Randolph Streets, Chicago.</p>
+              <p pgmap="150" id="b150-8">Opened for business December 4, 1905.</p>
+              <p pgmap="150" id="b150-9">Statement of the condition of the Bank of America at the opening of business January 30, 1904:</p>
+              <p pgmap="150" id="b150-10">EESOUBOES.</p>
+              <p pgmap="150" id="b150-11">Loans and discounts................$544,575.61</p>
+              <p pgmap="150" id="b150-12">Stocks and bonds........................ 70,500j00</p>
+              <p pgmap="150" id="b150-13">Mortgages .................................. 69,500.00</p>
+              <p pgmap="150" id="b150-14">Furniture and Fixtures. Expenses paid..................</p>
+              <p pgmap="150" id="b150-15">$684,725.61</p>
+              <p pgmap="150" id="b150-16">10,488.88</p>
+              <p pgmap="150" id="b150-17">12,403.02</p>
+              <p pgmap="151" id="AEUq">Due from Banks and Bankers.. 57,760.53</p>
+              <p pgmap="151" id="A4W">Cash and Checks for Clear-</p>
+              <p pgmap="151" id="AJA">ing House............................ 37,712.56 95,473.09</p>
+              <p pgmap="151" id="ANh">$803,090.60</p>
+              <p pgmap="151" id="AhN">LIABILITIES.</p>
+              <p pgmap="151" id="AuUV">Capital Stock ......................,..... 250,000.00</p>
+              <p pgmap="151" id="Aus">Surplus........................................ 250,000.00</p>
+              <p pgmap="151" id="AVd">Interest and Exchange............ 10,682.85</p>
+              <p pgmap="151" id="Afo">Individual deposits.................... $212,202.06</p>
+              <p pgmap="151" id="AQQ">Savings Deposits........................ . 23,597.18</p>
+              <p pgmap="151" id="AZs">Certificates of Deposit.............. 46,223.00</p>
+              <p pgmap="151" id="Agc">282,022.24</p>
+              <p pgmap="151" id="A_c">Certified checks.......................... 8,534.89</p>
+              <p pgmap="151" id="APS">Cashier’s checks..!...........•......... 1,850.02 10,385.51</p>
+              <p pgmap="151" id="ABD">$803,090.60</p>
+              <p pgmap="151" id="b151-3">I hereby certify that the above statement is correct.</p>
+              <p pgmap="151" id="b151-4">J. V. Pierce,</p>
+              <p pgmap="151" id="AUv">Cashier.</p>
+              <p pgmap="151" id="b151-5">Subscribed and sworn to before me, a notary public in and for the County of Cook, State of Illinois, this first day of February, 1905 (6).</p>
+              <p pgmap="151" id="b151-6">Charles A. Sawtelle,</p>
+              <p pgmap="151" id="b151-7">Notary Public.”</p>
+              <p pgmap="151" id="b151-8">The seventh count is substantially the same as the sixth, except that it charges that the proposed victims of the conspiracy are the public.</p>
+              <p pgmap="151" id="b151-9">The eighth count does not contain the inducements set forth in the other counts, but is a statutory count grounded on section 46 of the Criminal Code, and charges the defendants with a conspiracy to obtain money from the public by false pretenses, and does not set out in what such false pretenses consisted.</p>
+              <p pgmap="151" id="b151-10">The ninth count is identical with the eighth except that it concludes “contrary to the law.”</p>
+              <p pgmap="151(26) 152(77)" id="b151-11">The conspiracy charged relates to the procuring by Smith, Sorrow and Pierce of a charter from the State of Illinois, establishing the “Bank of America” at Chicago, by fraudulent representations as to the amount of capital stock subscribed and paid for and the cash and other assets in hand contributed to and to be used by the bank upon being chartered, the pro­curing of subscriptions to its stock and surplus by false pretenses of its capital, surplus, cash and other resources, thereby deceiving and defrauding purchas­ers of the bank’s stock, persons that became deposit­ors and creditors of the bank, etc.</p>
+              <p pgmap="152" id="b152-5">The evidence, wholly that proffered by the People, there being no countervailing testimony offered by Smith and Sorrow or either of them, is to the effect that the idea of forming a bank initiated with Sorrow in the summer of 1905, who approached Smith in the early fall of that year in an effort to enlist his co­operation. This Sorrow succeeded in doing, and the two joined with them Jerome V. Pierce, the convicted defendant. Smith, who had been a lawyer, and for a decade a judge of the Circuit Court of Cook county, left the bench in 1903, and went into the business of loaning money on real estate security. Sorrow was in the real estate business, had been a manufacturer of slot machines, the keeper of a drug store, and had done some corporate promoting in a minor way. Pierce had been credit man in a wholesale drug house for twenty years, and Frank E. Creelman also indicted but acquitted, who joined his co-defendants at a later date, was a lumberman, a promoter and organizer of many enterprises. None of the defendants were bank­ers or had had any. experience in banking. So Eobert H. Howe, who had been bookkeeper, note teller and paying teller in the Commercial National Bank of Chicago, was appointed assistant cashier.</p>
+              <p pgmap="152(55) 153(156)" id="b152-6">A permission to organize the “Bank of America” was granted by the State Auditor on the 21st day of October, 1905, upon the application of Eobert H. Howe, Thomas J. Healy and Abner Smith. The capi­tal authorized was $250,000, divided into 2,500 shares of $100 each, and after an affidavit had been filed with the auditor, signed and purporting to be verified on the 29th of November, 1905, by all of the directors, including the indicted defendants, that all of the capi­tal stock of $250,000 was actually paid in in cash and that no part thereof was in notes or pledges of any de­scription, and that such capital was then in the hands of the proper officers at the bank to be used by them solely in the legitimate business of the bank when the same should be opened, the state auditor, on Decem­ber 2, 1905, granted a charter to the “Bank of Amer­ica” to commence business as a bank for the purpose of discount and deposit, and to buy and sell exchange, and to do a general banking business, excepting only issuing bills to circulate as money, and with power to loan money on personal and real estate security, and to accept and execute trusts.</p>
+              <p pgmap="153" id="b153-4">On September 26, 1905, Abner Smith subscribed for 1,250 shares of capital stock, for which he agreed to pay $200 per share, $100 for the stock and $100 for the surplus account. The subscription was signed “Abner Smith, Trustee.” On September 20, 1905, Pierce subscribed for 120 shares of stock and Sorrow for 125 shares of stock on the same terms as the Smith subscription; and on November 15, 1905, Creel-­man upon the same terms subscribed for 250 shares of stock. The Creelman subscription was made by Smith in virtue of a telegram from Creelman from New Orleans. Sorrow represented that Smith was a rich man, able to pay for $250,000 of stock. On October 20, 1905, Smith represented that he had a million and a half in loans handled by his office in the Chicago Opera House building; that the various banks were carrying the loans, and represented that such loan business would be turned over to the new bank as a foundation for its real estate and loan department. In July preceding Smith had sold his real estate and loan business to Caswell &amp; Healy without reserving any interest in it to himself.</p>
+              <p pgmap="153(9) 154(85)" id="b153-5">Smith claimed in his subscription of stock as trus­tee that he was backed by New York parties, but re­fused to give their names. On December 2, 1905, two days before the bank was open for business, Smith stated to Sorrow and Howe that he had received a blow between the eyes and had met with a great disap­pointment because the parties who were to supply the funds and securities for the subscription he had made had gone back on him, and that they would therefore have to make a temporary arrangement.</p>
+              <p pgmap="154" id="b154-5">Smith, Sorrow, Pierce and Howe acted as an organi­zation committee, and on the 13tli of November, 1905, there were a number of letters sent out signed by Pierce as chairman of the organization committee, in which the organization of the bank, its capital stock, the price of it and the manner of banking business con­templated to be conducted were set forth. Among other things it was stated that the business of the bank would be conducted in connection with over 200 re­ceiving stations distributed among the leading drug stores of the city of Chicago who would receive depos­its and sell New York Exchange, to take the place of express and postal money orders. In that letter it was also stated “that while the stock has been sub­scribed for, the allotment will be made with a view to the relative value of the stockholders to the bank. An invitation is hereby extended to you to subscribe for a small amount.” Blank forms of subscription were enclosed, together with a partial list of the more prom­inent stockholders.</p>
+              <p pgmap="154(90) 155(82)" id="b154-6">The first meeting of the stockholders was held at the Sherman House on the evening of the 29th of No­vember, 1905, the business of the meeting being pre­ceded by a banquet, at which Pierce stated that the capital stock had been over-subscribed to the amount of $135,000. The bank organized at this meeting by elect­ing fifteen directors, including all the defendants in the indictment. The directors so elected immediately there­after proceeded to choose the executive officers of the bank. Abner Smith was elected president, Gustav F. Sorrow vice-president, Jerome V. Pierce cashier, Rob­ert H. Howe assistant cashier, Daniel M. Healy secre­tary, and Daniel D. Healy trust officer. Smith, Pierce and Sorrow were made a discount committee to pass on loans to be made by the bank. The directors also took the oath prescribed by the statute, that they would comply with the statutes of the state of Illinois with reference to banks, etc., and faithfully discharge their duties as directors to the best of their abilities.</p>
+              <p pgmap="155" id="b155-4">The money paid for stock subscription and surplus account was deposited with the State Bank of Chicago, which became the temporary depository for the Bank of America. The account was kept in the name of Jerome V. Pierce as cashier.</p>
+              <p pgmap="155" id="b155-5">Smith negotiated with the State Bank a loan of $25,000 to be applied on his stock subscription ac­count. A note for this amount was signed by Smith, Pierce and Sorrow, and as collateral there were depos­ited three certificates of stock of fifty shares each. Nothing had been paid upon any share of the 150 shares of stock deposited as collateral to the $25,000 loan.</p>
+              <p pgmap="155" id="b155-6">Sorrow paid nothing on his stock subscription. He had given a check of $4,000 to the bank on December 2nd, and it was credited on his stock subscription ac­count. But he repudiated this application and insisted that the $4,000 should be placed in a checking account as a deposit, and on December 4th, the day the bank opened, a cashier’s check for that amount was given to him, which he placed to such an account and after­ward checked out.</p>
+              <p pgmap="155" id="b155-7">Pierce paid for his stock $20,000 just preceding the opening of the bank, by borrowing that sum from his uncle, G-eorge J. Robinson, who lived in Michigan, and on the day the bank opened Mr. Robinson’s note for $20,000 was discounted by the bank and that sum paid by the bank to him.</p>
+              <p pgmap="155(17) 156(232)" id="b155-8">Before the bank opened for business Creelman paid $10,000 on account of his $50,000 subscription to the bank’s stock. When Creelman was called upon for the payment of the remaining $40,000 he did not have the money wherewith to pay it, and so he resorted to and carried out the following scheme: Creelman, acting through one Edmondson, his agent, who held power of attorney from Creelman, had Pierce draw a cashier’s check for $40,000 against the fund on deposit in the State Bank. This cashier’s check was taken to the Federal National Bank by Edmondson, who borrowed from that bank the needed $40,000. Mr. Isaac N. Perry, the president of the Federal National Bank, agreed to hold this cashier’s check of the Bank of America and not put it through the Clearing House until the next banking day, and to accommodate Creelman agreed to hold the check until that time, which was December 4th, the first day on which the Bank of America opened its doors for the transaction of business. The Federal National Bank gave its cer­tified check for $40,000, payable to Creelman, who in­dorsed the check and delivered it to the Bank of America, and on that day it was deposited in the State Bank to the credit of the Bank of America. The Bank of America paid the $40,000 check of its cashier, Pierce, in the regular course of business, on December 4th, the first day the bank did business under its char­ter.</p>
+              <p pgmap="156(122) 157(152)" id="b156-6">On December 2, 1905, C. C. Jones, a state bank ex­aminer, representing the state auditor, appeared at the Bank of America with its charter, to ascertain whether the bank was in condition to justify its re­ceiving a charter. Bank Examiner Jones, together with Smith and Howe, went to the State Bank. Smith and Pierce, on arriving at the bank, drew a check for $250,000 upon the funds then on deposit with the State Bank for the account of the Bank of America, and presented it to the State Bank for payment. This check was paid and the money counted by Jones. No questions were asked by or information proffered to Jones as to whether the $250,000 was capital or sur­plus, or both, or whether the Bank of America had any drafts or checks outstanding against its account with the State Bank, but the whole tenor of the conversa­tion represented the amount as capital and not sur­plus. Before the check for $250,000 was drawn, there was on deposit in the State Bank of the funds of the Bank of America $271,000. There was also a small amount to the latter’s credit in the Metropolitan Trust &amp; Savings Bank. Jones being satisfied that the re­quirements of the law had been complied with, deliv­ered the charter to Smith for the bank. On the day the charter was delivered to Smith, Pierce, Sorrow and Smith proceeded in an attempt to make good the de­ficiency of stock subscriptions made necessary through Smith’s statement that the people whom he relied upon to make good his stock subscription had gone back on him.</p>
+              <p pgmap="157" id="b157-4">Smith, Sorrow and Pierce undertook to procure notes to take the place of money for stock subscrip­tions, and Pierce on that day and the following drew up notes aggregating $229,000, to which accommoda­tion signers were procured, Smith and Pierce indors­ing them all and Sorrow also some of them. The sign­ers of the notes were financially of little account, and executed their respective notes without consideration, at the request of Sorrow, Smith or Pierce, respect­ively. These notes were used to represent the payment of stock subscriptions up to their aggregate amount.</p>
+              <p pgmap="157" id="A-Xu">On the 4th of December, 1905, application was made to the Commercial Ñational Bank by the Bank of America for Clearing House privileges. A statement of the condition of the bank was made to James H. Eckels, its president. He refused to act for the bank, on the ground that there was too much liability on the part of Abner Smith. Thereupon new notes were secured identical with many of the former ones, but without the indorsement of Smith.</p>
+              <p pgmap="157" id="b157-6">Among the notes thus standing for stock subscrip­tion after the change were the following:</p>
+              <p pgmap="158(374) 159(38)" id="b158-4">A note of E. H. Smith for $24,108, payable ninety days after date. The note was signed at the request of Abner Smith by the maker, who was his nephew and a clerk in the Knickerbocker Ice Company. Abner Smith gave his note to the maker of like amount and tenor. A note of E. J. Healy for $8,000 payable in ninety days. Healy was a member of the firm of Healy &amp; Rennen, in which firm Pierce was a partner. The firm subsequently went into bankruptcy. Healy signed the note as. an accommodation to Pierce. At the re­quest of Pierce, F. A. Stebbins gave a note for $12,150, payable in ninety days. Alexander Harris, at the re­quest of Pierce, gave a similar note for $7,200, and Allen R. Fellows, at the request of Pierce gave his note for $8,000. At the request of Pierce, W. C. Shackleford gave a note for $8,000. Charles Haight gave a note for $15,255, and Julius Wahl one for $11,140, both at the request of Abner Smith. Mamie Kaufman, a serving maid in the employ of Sorrow, gave a note for $9,575. L. G. Mueller signed C. C. Webb, the maiden name of his wife, without author­ity, to a note for $2,750, and gave his own note for $8,000, payable in ninety days. This was for the ac­commodation of Sorrow. Wahl and Haight were financially irresponsible. E. H. Stratman, who was employed by the bank to solicit customers, gave a note at the request of Sorrow for $1,671.45. Ferdinand Jones gave a note for $8,755.25. The identity of Ferd­inand Jones has not been disclosed. The note appears to be in the handwriting of an immature child. Sor­row had a son named Ferdinand, ten years old at the time the note was given. Beatrice Irmgode gave a note for $6,515.25, the proceeds of which were cred­ited to Sorrow’s subscription. The signature to this note indicates that -it is that of a child of immature years. W. B. Greenwood gave a note for $4,000. He was employed by the bank as a night teller, was with­out financial responsibility, and gave the note at the request of.Sorrow. Edward C. Clark gave two notes, one for $9,450 and the other for $8,750. He had not been found by the receiver at the time of the trial. The wife of Pierce gave a note for $16,000 and his daugh­ter one for $4,000.</p>
+              <p pgmap="159" id="b159-4">Stebbins’ note for $12,150 was indorsed by E. H. Stratman. The note of Charles Haight for $15,255 was indorsed by Ada C. Smith, the wife of Abner Smith. The note of Julius Wahl was indorsed by J. Walter Lamb, a brother of Abner Smith’s wife, who was with­out financial responsibility. The note of Mamie Kauf­man was indorsed by Kate L. Sorrow, the wife of Gus­tav F. Sorrow. The C. C. Webb note was indorsed by L. G. Mueller. Mueller’s note was indorsed by E. H. Stratman. Ferdinand Jones’ note was indorsed by Beatrice Irmgode, and Beatrice Irmgode’s note was in­dorsed by J. Allen White. The two notes made by Edward C. Clark were indorsed by E. H. Stratman.</p>
+              <p pgmap="159" id="b159-5">On December 15, 1905, the State Bank Examiner in making an examination of the affairs of the bank, found fault with the original notes indorsed by Smith, and on a later examination also expressed dissatisfac­tion with the new notes.</p>
+              <p pgmap="159" id="b159-6">Statements were printed and circulated, by mail and in person, under the names of the directors and offi­cers of the bank, including all the indicted defend­ants, setting forth that the capital stock of $250,000 and the surplus of $250,000 were all fully paid. Solic­itors were also sent out to secure subscriptions to the capital stock and to obtain deposit accounts. On these and like representations Smith sold $10,000 worth of bank stock to W. B. Martin on January 19, 1906, at $200 per share. Joseph Beifeld bought be­cause of them fifty shares of stock at $9,250.</p>
+              <p pgmap="159" id="b159-7">On the windows of the bank appeared a sign, read­ily readable from the street, that the capital and sur­plus of the bank was $500,000.</p>
+              <p pgmap="159(30) 160(21)" id="b159-8">On the 29th of December, 1905, $10,000 was paid on account of the Sorrow, Pierce and Smith note of Novem­ber 22nd. This was paid by check drawn by Pierce, the cashier of the Bank of America, on the State Bank of Chicago, payable to the order of the State Bank.</p>
+              <p pgmap="160" id="b160-5">On January 23, 1906, Sorrow, Pierce and Smith gave a new note of $25,000 to the State Bank and put up for security a mortgage made by Albert D. Ferry for $45,000 on which the Bank of America had loaned to William H. Freeman the sum of $30,000. The State Bank discounted this $25,000 note, crediting Pierce’s account with $24,789.75. Out of the proceeds Pierce paid Smith’s note of November 22,1905, which at that time, with interest, amounted to $15,375. On January 24th Pierce checked out of his account $4,414.75 and deposited his check in the Bank of America. That amount was credited upon the $20,000 note of Mr. Bobinson, the uncle of Pierce, which he had given De­cember 4, 1905. On February 6, 1906, Pierce gave the State Bank a check for $5,000 to apply on the second note which he, Sorrow and Smith had given to the State Bank, secured by the Ferry mortgage. This closed Pierce’s account with the State Bank and left a balance of $20,000 unpaid upon the Sorrow, Pierce and Smith note of January 23, 1906.</p>
+              <p pgmap="160(153) 161(29)" id="b160-6">When Mr. Haugan, president of the State Bank, dis­covered that the 150 shares of stock of the Bank of America, which he held as collateral to the note of November 22,1905, had not been paid for, he demanded additional collateral of Smith; whereupon Smith took the Ferry mortgage and gave it to him in compliance with his demand. Upon discovering that Smith had hypothecated the Ferry collateral with Haugan, he was requested to have the same returned to the bank at once. He succeeded in procuring the return of the collateral by giving a note to the State Bank signed by Pierce and Darrow for $6,666.66, giving his own note for $6,420.72. He gave another note of Brown and Smith, paving contractors, for $3,000, and paid cash and sundry checks amounting to $3,910.62, which with the $3,000 note of Brown and Smith aggregated $6,910.62. This extinguished the debt on the first note of Sorrow, Smith and Pierce, which was finally paid February 19, 1906, four days after the Bank of Amer­ica had been put into the hands of a receiver.</p>
+              <p pgmap="161" id="b161-4">On the 26th day of December, 1905, Smith secured a demand loan of $16,000 from the Metropolitan Trust &amp; Savings Bank and put up as collateral a cashier’s check of the Bank of America for $10,000. This note was paid by Smith on December 29, 1905, by Smith’s check on the Bank of America for $973.32 and by giving the Bank of America’s cashier’s check for $15,034.68. •</p>
+              <p pgmap="161" id="b161-5">On the 30th of December, 1905, Smith secured an­other loan from the Metropolitan Trust &amp; Savings Bank for. $10,000 upon his note payable January 3, 1906. He gave as collateral for this loan the Ferry note and mortgage. He paid this $10,000 loan on the 6th of January, 1906, by giving the Metropolitan Trust &amp; Savings Bank a cashier’s check drawn by the Bank of America on the State Bank of Chicago.</p>
+              <p pgmap="161" id="b161-6">The first week the bank was open Smith obtained $15,000 on his serving maid’s, Mary Dufficy’s, note. On December 29th Smith took out of the bank $10,000 more on another note signed by Mary Dufficy. The mortgages securing these two notes, the evidence shows, were of little or no value.</p>
+              <p pgmap="161" id="b161-7">On examination of the affairs of the bank on De­cember 22, 1905, by the bank examiner, that official reported that the liabilities of the directors of the bank were $142,031.32; that loans to Creehnan and his son and to Frank M. Patten Co., in which the Creel-­mans were interested, were about $145,000. He re­ported that the Patten paper was questionable, and the Creelman loans were altogether too much, as they aggregated within $40,000 of the total bank de­posits. He reported the liability of the stockholders as $247,384.90.</p>
+              <p pgmap="161(26) 162(80)" id="b161-8">During this time literature was issued and advertis­ments made, inserted in the public press of Chicago, stating that the capital and surplus of the bank amounted to $500,000 and that it was all fully paid, and soliciting savings accounts and checking accounts of all kinds. Stock was sold to the public at $200 a share, and representations were made by some of the defendants that the stock would pay twenty per cent, on the investment. New accounts were opened, both savings and checking, so that on February 14, 1906, there were checking accounts to the amount of $248,067.07 and savings deposit accounts amounting to $25,424.49.</p>
+              <p pgmap="162" id="b162-5">Eesponding to a call of the state auditor on January 30, 1906, a statement of the bank’s condition was pre­pared and sworn to by Pierce, which statement showed loans and discounts to the amount of $614,225.61; bonds and securities, etc., on hand to the amount of $70,500. The loans and discounts included $157,800 of accommodation paper of little or no value. The bonds and securities included certain Avoylles and Lattanier bonds, said to be worth fifty cents on the dollar, which were received from Creelman.</p>
+              <p pgmap="162" id="b162-6">On the afternoon of the 14th of February, 1906, Pierce and Darrow and Howe, and others interested in the Bank of America, secured a meeting with the Chi­cago Clearing House Committee and exhibited to them the bank’s assets, with the expectation of receiving financial assistance to tide them over their difficulties, but aid was refused, Mr. Haugan of the State Bank having previously refused to take over the assets and pay the depositors. Thereupon application was made to the Superior Court for the appointment of a re­ceiver, and Daniel D. Healy was appointed receiver and took possession of the assets of the bank.</p>
+              <p pgmap="162" id="b162-7">The bank was in existence seventy-three days, dur­ing which time it lost approximately $175,000. The accounts, both checking and saving, were paid in full. The stockholders who paid for their stock it is esti­mated will receive one-fourth of the amount which they put into their investment.</p>
+              <opinion type="majority">
+                <author pgmap="163" id="b163-5">Mr. Presiding Justice Holdom</author>
+                <p pgmap="163" id="APX">delivered the opin­ion of the court.</p>
+                <p pgmap="163" id="b163-6">The errors assigned and urged upon us in argument resolve themselves into the following contentions:</p>
+                <p pgmap="163" id="b163-7">First, that the indictment and every count of it is so defective that it does not sustain the judgment of conviction; second, that the evidence is insufficient to sustain the charge of conspiracy to obtain money and other property by false pretenses; third, that Howe’s testimony was rendered incompetent because of his having testified before the grand jury, he being a co-­conspirator with plaintiffs in error and not being so designated in the indictment, and this also made a variance between indictment and proof, and fourth, errors committed by the trial court in his ruling upon evidence and in instructions to the jury.</p>
+                <p pgmap="163" id="b163-8">First. The indictment charges the defendants with a conspiracy to obtain money by false pretenses. So to conspire is both a statutory and a common law of­fense, and persons so offending may be indicted either under the statute or at common law, or both, as in this indictment. We have analyzed the several counts in the indictment and are of the opinion that each count substantially charges a conspiracy to obtain money by false pretenses, which is a charge of conspiring to do an unlawful act.</p>
+                <p pgmap="163(68) 164(16)" id="b163-9">The eighth count in effect charged violation of sec­tion 46, chapter 38 B. S., which provides: “If any two or more persons conspire or agree together * * * to obtain money or other property by false pretenses * * * they shall be deemed guilty of a conspiracy; and every such offender and every person convicted of conspiracy at common law shall be imprisoned in the penitentiary riot exceeding five (5) years or fined not exceeding two thousand dollars ($2,000), or both.”</p>
+                <p pgmap="164" id="AEZ">This count charges the statutory offense of con­spiracy to obtain money by false pretenses, and does not set out or show in what such false pretenses con­sisted. The gravamen of the offense is the conspiracy to do .the unlawful act. It is not the false pretenses which constitute the crime, but the conspiring together with the design to make such false pretenses.</p>
+                <p pgmap="164" id="b164-5">Thomas v. The People, 113 Ill. 531, was an indict­ment for conspiracy to obtain the goods of another by false pretenses. The indictment charged the con­spiracy and that it was with a fraudulent intent to fel­oniously and wrongfully obtain a horse and other property from one Kate Carberry by false pretenses and to cheat and defraud her, etc. In this indictment the false pretenses were not set out, and because of such omission it was contended the indictment was not sufficient. In overruling this contention the court say: “The first count under the ruling in this state, what­ever may be decided elsewhere, is clearly good. To obtain goods by false pretenses is, to every apprehen­sion, an illegal act; and the rule here is, where the act to be accomplished by the conspiracy is illegal, it is unnecessary to specify the means by which it was in­tended to be accomplished. Johnson v. People, 22 Ill. 314; Smith v. People, 25 id. 17; Cowen v. People, 14 id. 348. The first count in the present indictment is identical with the count in Johnson v. People, supra, and which was held to be good.”</p>
+                <p pgmap="164" id="b164-6">In Chicago, Wilmington &amp; Vermilion Coal Co. v. People, 214 Ill. 241, the charge was conspiracy to do an illegal act injurious to the public trade, by entering into a trust agreement to illegally fix the price of coal. There was no specification of the means used in form­ing the conspiracy set out in the indictment. It was contended that the purpose was lawful, and that the means used therefor should have been set out in the indictment. On this point the court say:</p>
+                <blockquote pgmap="165" id="b165-3">“Those counts charged that the object of the con­spiracy was unlawful, and not that its object was lawful and the means of its accomplishment unlawful. It was therefore unnecessary to set out the means whereby the conspiracy was to be accomplished; Thomas v. People, 113 Ill. 531; neither was it neces­sary that the object of the conspiracy constitute an offense against the criminal law for which an indi­vidual might be indicted and convicted; Smith v. People, 25 Ill. 9; but if the object thereof was unlaw­ful, said count sufficiently charged a conspiracy at common law.” State v. Buchanan, 5 Harris &amp; John­son, 317; Cole v. People, 84 Ill. 216.</blockquote>
+                <p pgmap="165" id="b165-4">If the proof sustain the statutory conspiracy charged in the eighth count of the indictment, then without regard to the soundness of the other counts it is suffi­cient to sustain the conviction. As said in Thomas v. People, “If either of the counts for conspiracy be good, it will sustain the verdict. Lyon v. People, 68 Ill. 276, and cases cited.”</p>
+                <p pgmap="165" id="b165-5">In Ochs v. People, 124 Ill. 414, the indictment con­sisted of five counts. The first count being challenged as insufficient, the court say: “Whether there is any­thing in substance in this variance we need not con­sider, for even if the count be defective that would be of no avail, it being a well settled principle that a conviction on a general verdict will be sustained, al­though some of the counts are faulty, if there be one good count in the indictment. Hiner v. People, 34 Ill. 297.”</p>
+                <p pgmap="165" id="b165-6">Section 408, chapter 38, B. S.; provides: “Every indictment or accusation of a grand jury shall be deemed sufficiently technical and correct, which states the offense in the terms and language of the statute creating the offense, or so plainly that the nature of the offense may be easily understood by the jury.”</p>
+                <p pgmap="165(29) 166(60)" id="b165-7">The eighth count is in the language of the statute, and the means by which the end of the conspiracy was accomplished is, we think, plainly apparent from the averment of most of the other counts of the indict­ment, and as said in Tedford v. People, 219 Ill. 23: “If the indictment is so plain that the nature of the of­fense with which the defendants are charged can be easily understood by the jury and by the defendants, that is all that the law requires. ’ ’</p>
+                <p pgmap="166" id="b166-5">We are satisfied that .the indictment meets the re­quirements of the statute, as interpreted by the Su­preme Court in cases supra.</p>
+                <p pgmap="166" id="b166-6">It was held in State v. Buchanan, supra, “that in a prosecution for a conspiracy, it is sufficient to state in the indictment the conspiracy and the object of it; and that the means by which it was intended to be accomplished need not be set out, being only matters of evidence to prove the charge, and not the crime it­self, and may be perfectly indifferent, as in Rex v. Eccles, and Rex v. Gill &amp; Henry.’’</p>
+                <p pgmap="166" id="b166-7">In section 208, volume 2, Bishop’s New Criminal Procedure, the author says: “No indictment is ever required to charge one with what the law has not made a part of his crime; and when two or more com­bine to cheat another, they become guilty of a crimi­nal conspiracy, although they have not even consid­ered the means; hence, as agreed means are not essen­tial to the offense, it would be a perversion of justice to require the prosecuting power to allege them.”</p>
+                <p pgmap="166(120) 167(173)" id="b166-8">It is again urged that the indictment is deficient because it fails to charge that the conspiracy was formed against any individual, but against the public generally. There are many decisions, British and American, showing the fallacy of this contention. One of the most instructive is Reg. v. Gurney, 11 Cox’s Criminal Cases, 414, which is peculiarly applicable be­cause it is a case involving banks and banking as in the case at bar. Lord Chief Justice Cockburn, in summing up the case to the jury, said: “It is not because a conspiracy to defraud is directed against the general public, that it is the less an offense, by reason that you have not in your eye a particular individual who is defrauded. Independently of which it is quite plain that any conspiracy having for its purpose to de­fraud those individuals of the general public who may be caught by it, is a continuing conspiracy until it shall have arrived at its accomplishment and completion. As soon as the particular individual is brought into contact with the conspirators, the conspiracy, which before was general, becomes in this case, if I may use the expression, individualized and fixed; and that which was a conspiracy to deceive the general public becomes a conspiracy to deceive and defraud particular individuals.” Reg. v. Brown, 7 Cox’s Criminal Cases, 422; and in Reg. v. Esgile, 1 Foster &amp; Finlanson, 213, the court said to the jury: “It is for you to say whether the balance sheets were not falsified to deceive the public and concealed the true state of affairs and to delude persons into purchasing shares; and whether the defendants were not privy to the common design to effect that object by those means. ’ ’</p>
+                <p pgmap="167" id="b167-4">The dates in the seventh count, in which it is charged that the acts constituting the conspiracy were commit­ted, are said to be so inconsistent and impossible as to constitute a fatal defect in the indictment. We regard the exact date as immaterial. While a date must be stated in the indictment, yet the proof is not necessa­rily confined to the date stated, provided some date is proven as the date on which the offense charged in the indictment was committed. The date is laid under a videlicet and any date within the period of the stat­ute of limitations would suffice.</p>
+                <p pgmap="167" id="b167-5">It is our opinion that the refusal of the trial court to quash the indictment' was without error.</p>
+                <p pgmap="167(59) 168(196)" id="b167-6">Second. On the question of the guilt of the plaint­iffs in error we are by the record restricted to the evi­dence introduced by the State to sustain the indict­ment, in connection with the testimony of Pierce (called in his own behalf), as neither Smith nor Sor­row proffered any proof in denial of the charge and introduced no evidence in an effort to exculpate them­selves from the charge in the indictment or repel the proof of the State supporting it, save only witnesses produced to testify as to their former good character in the community. Neither did they go upon the wit­ness stand in their own defense. While a defendant in a criminal prosecution is not disqualified from being a witness in his own behalf, yet it is for him to choose whether he will testify, and it is the statute law that a defendant’s neglect to testify shall not create any presumption against him, nor shall such action be the subject of comment before the jury. Nevertheless, the record lacking any explanation of the charge in the indictment by plaintiffs in error, or any witness for them, we cannot assume that any matter or excuse not developed by the State’s proof is available to them as a defense. Consequently our consideration of the case and our judgment on the probative force of the evidence in determining the guilt or innocence of Smith and Sorrow, must be restricted to the case made by the State, in connection with Pierce’s testimony.</p>
+                <p pgmap="168" id="b168-5">The evidence is voluminous and rests in the testi­mony of more than one hundred witnesses. We have given as concise and brief a synopsis of this evidence as we were able to encompass within reasonable limits in the statement preceding this opinion, and to more than briefly touch its vital points in this review is neither necessary nor practicable. If the law required proof that the indicted persons in fact assembled to­gether and concocted, made out and planned, the con­spiracy charged, then this prosecution must fail; but if, on the contrary, all the law requires is to establish by proof facts connecting the defendants with the conspiracy charged, and their relation to it, as it gradually developed to its final accomplishment, then the conviction must stand.</p>
+                <p pgmap="168(26) 169(359) 170(77)" id="b168-6">The charge resolves itself into one of conspiracy to obtain money by false pretenses, and the means used in accomplishing the purposes of the conspiracy was the establishment of a bank under the laws of Illinois to be called the Bank of America. This bank was first conceived by Sorrow, who succeeded in interesting Smith. The state auditor, upon the application of Smith, Robert H. Howe and Thomas J. Healy, on October 24, 1905, granted permission to organize the Bank of America, with an authorized capital of $250,000, divided into 2,500 shares of $100 each. It is shown that the indicted defendants agreed among themselves that beside the capital of a quarter of a million of dollars a like sum should form the surplus of the bank; that to procure such capital and surplus, shares of stock of the bank should be sold at the rate of $200 per share. Smith, who had been engaged in making loans upon real estate, represented that he had a loan business amounting to a million and a half dollars, which could be used to form the nucleus of the real estate loan department of the bank, while as a matter of fact he had, previous to the making of such representations, disposed of his business as a mort­gage broker to Caswell &amp; Healy. Smith subscribed for one-half of the stock of the bank as trustee, but as he failed and refused to disclose his pretended princi­pals, his subscription must be regarded as his own. Sorrow subscribed for 125 shares, Pierce for 120 shares, and Creelman for 250 shares. Other parties were interested and the balance of the stock sub­scribed. On the 29th of November, 1905, a meeting of the subscribers to the stock was held, at which Smith and Sorrow and Pierce were present, and a board of fifteen directors was selected. At that meet­ing it was stated by Pierce, and not denied by anyone, that the stock had been over subscribed to the extent of $135,000. The directors assembled after the stock­holders’ meeting and elected officers, Smith being elected president, Sorrow vice-president, Pierce cash­ier, and Robert H. Howe assistant cashier. A state­ment was made as required by the statute, signed by all of the directors, including Smith and Sorrow, that all of the stock had been subscribed for and paid in in full, in cash; that no part thereof was in notes or pledges of any description, and that such capital was then in thé hands of the proper officers at the bank, to be used by them solely in the legitimate business of the bank, when the same should be opened. This state­ment, verified as required by the statute, was filed with the state auditor.</p>
+                <p pgmap="170" id="b170-5">The State Bank of Chicago was-, pending the organi­zation of the Bank of America, selected as the deposi­tory for the bank’s moneys. Smith borrowed $25,000 of the State Bank and deposited as collateral security 150 shares of the stock of the Bank of America, evi­denced by three certificates of fifty shares each. The money was added to the funds.of the bank, although the 150 shares of stock had not been paid for. Smith told Sorrow and Pierce that the parties who stood back of him in his subscription for half the bank’s capital stock had failed him, and that he was unable to get any money from that expected source, that some arrangement would have to be made to tide over this condition so unexpectedly presented.</p>
+                <p pgmap="170" id="b170-6">Sorrow did not pay any cash for the stock sub­scribed for by him. His repudiation of the application to the account of $4,000 deposited by him, has been noted in the statement prefixed to this opinion. Pierce paid on his subscription $20,000 borrowed from his uncle, whose money was immediately returned to him on his note at the opening of the bank. Creelman paid $10,000 in cash and made a colorable payment of the balance of $40,000 with a cashier’s check of the Fed­eral National Bank, which was afterwards, on the morning the bank opened for business, repaid to the Federal Bank on a cashier’s check of the Bank of America, which had been practically “kited” for it. So far as cash resources went, these transactions, ex­cept Creelman’s payment of $10,000, were mere pre­tenses. They were matters of bookkeeping only.</p>
+                <p pgmap="170(9) 171(239)" id="b170-7">On December 2, 1905, the day appointed for reeeiv­ing the charter from the state auditor, C. C. Jones, a bank examiner connected with the state auditor’s de­partment, and acting for the state auditor, attended to examine the condition of the bank, to verify the statement as to possession of cash to the amount of the capital stock preparatory to delivering the char­ter. .With him at the State Bank were Smith and Rob­ert H. Howe. This is the first time that there is direct evidence of the conspirators acting in concert. They at that time well knew the falsity of the sworn state­ment that the capital stock had been paid for in full in cash. At this interview at the State Bank with the state auditor’s representative, they again asserted to him that the bank’s capital had been paid in cash, and was on deposit with the State Bank. At the State Bank Smith and Pierce drew a check for $250,000 upon funds then on deposit to the credit of the Bank of America, which check was paid and the money counted by Jones, the state auditor’s representative. At this time the Bank of America had a credit in the State Bank of $271,000. Jones, however, was kept in ignorance of the fact that cashier’s checks were out­standing against the bank’s funds. On these surface appearances, unexplained, the charter, authorizing the bank to commence business, was obtained by Smith from the state auditor.</p>
+                <p pgmap="171" id="b171-4">It therefore follows from this recitation of fact that the charter permitting the bank to do business was ob­tained from the state auditor by false and fraudulent pretenses, for if the truth had been made known to the representative of the state auditor, the charter would have been withheld; for, if the true condition of the bank’s assets had been disclosed, as it should have been, the law would not have permitted the state aud­itor to deliver the charter.</p>
+                <p pgmap="171(46) 172(102)" id="b171-5">Whatever view may be taken of the condition of the cash resources of the Bank of America at the time it received its charter, it is clear that it had not its capi­tal stock paid in full in cash; that as a matter of fact its cash resources of every kind were much less than the par value of its capital stock. Not only this, hut it is apparent that so far as the payment of its capital stock is concerned, less than one-half had been paid at that time, as one-half of the cash resources consisted of cash paid to surplus account by the paying stock subscribers. The conspiracy inferable from the acts of the parties prior to December 2, 1905, is on that date made glaringly apparent. The evidence of the conspiracy formed was then complete, although it had not been fully developed and consummated.</p>
+                <p pgmap="172" id="b172-5">In furtherance of carrying to complete fruition this conspiracy, Smith and Sorrow and Pierce manufactured notes aggregating $229,000. These were to take the place of money for stock subscriptions. These notes were signed by irresponsible parties not interested in the bank, and merely as an accommodation, and at the solicitation of Smith, Sorrow and Pierce. The makers of these worthless notes were the dependents, friends and indigent relatives of plaintiffs in error and Pierce, and all of such notes were indorsed by Smith.</p>
+                <p pgmap="172" id="b172-6">Smith and Sorrow not only perpetrated such fraud upon the bank, but personally profited in some of the transactions. Upon examination of the bank’s condi­tion, reputable banks in Chicago refused to act as its clearance agent. Without any lawful right, on two occasions, Smith, to secure his personal debt, hypothe­cated the Ferry note for $45,000, secured by mortgage, which the bank held as collateral to a loan of $30,000 made to William H. Freeman.</p>
+                <p pgmap="172" id="b172-7">The notes aggregating $229,000, indorsed by Smith, were afterwards exchanged for like worthless notes without Smith’s indorsement. This was done in an attempt to overcome an objection of the bank exam­iner and the Commercial National Bank that Smith was liable on too much of the bank’s paper.</p>
+                <p pgmap="172(26) 173(72)" id="b172-8">From the time the bank opened for business, state­ments were printed and circulated, and advertisements inserted in the public press of Chicago, under the name of the officers of the hank, including plaintiffs in error, in which it was stated that the capital stock was $250,000 and the surplus $250,000, all fully paid; and on January 30, 1906, in response to a request of the state auditor, a statement was prepared and sworn to by Pierce, showing loans and discounts to the amount of $614,225.61, which included $157,200 of accommo­dation paper of little or no value.</p>
+                <p pgmap="173" id="b173-4">In the faith of the verity of these representations stock was bought by the public at $200 per share, and on January 19, 1906, Smith sold to W. B. Martin 100 shares of stock at $200, and also thereafter sold fifty shares of stock to Joseph Beifeld for $9,250.</p>
+                <p pgmap="173" id="b173-5">On the first of February, 1906, the bank issued a statement, sworn to by Pierce as cashier, in which the resources of the bank were stated to be $803.090.60, and from which it appeared that the capital stock and surplus together amounted to half a million dollars, and had been paid in full.</p>
+                <p pgmap="173" id="b173-6">On the 15th of February, 1906, the bank went into liquidation, and closed its career of seventy-three days duration.</p>
+                <p pgmap="173(156) 174(31)" id="b173-7">We think the facts fully sustain the unlawful con­spiracy charged in the indictment. The conspiracy rests in the false pretense that the capital stock and surplus of a like amount had been paid in full in cash. The evidential fact of the falsity of such statement is concededly demonstrated by the proofs. Two hundred and twenty-nine thousand dollars of comparatively worthless notes were carried as cash. That the con­spiring defendants had paid for their stock was an­other false pretense. Whether or not bank stock, under the statutes of this state, may be paid for in property other than cash, is beside the question and of no importance, as bearing upon the conspiracy charged and proved. The act would seem to indicate that cash was required to satisfy its provisions; but be this so or not, the indicted defendants and the other directors swore that it was so paid, and by their statements and writings and advertisements so held out the fact to be. They were not true. They were pretenses of falsity. Such is virtually the admission of counsel for plaint­iffs in error.</p>
+                <p pgmap="174" id="b174-5">Martin, Beifeld and others were injured when they purchased stock in faith of these delusive and false representations. True it is that the evidence shows that depositors of the bank were paid in full; but it is just as true that a loss of considerable magnitude fell upon the stockholders who were lured to subscribe for stock in faith of the verity of the false representations made resulting from the conspiracy of the indicted de­fendants.</p>
+                <p pgmap="174" id="b174-6">The burden of refuting the imputation of conspiracy established by these facts the law casts upon plaintiffs in error. The evidence supporting the conspiracy charged they have failed to repel by proof or from circumstances environing the several .transactions.</p>
+                <p pgmap="174" id="b174-7">Third. The indictment charges the indicted defend­ants with having “wrongfully, wickedly, fraudulently, feloniously and unlawfully conspired, combined, con­federated and agreed together with each other, and with divers other persons, whose names are to the said grand jury unknown, to get and obtain money,” etc. The proof shows that the witness Howe testified be­fore the grand jury, and it is therefore argued that the grand jury knew that he was a co-conspirator with the indicted defendants, and that the indictment is consequently defective in not charging bim by name as a co-conspirator, that there is a variance apparent between the proof and the indictment which is fatal. It might be a sufficient answer to this contention to say that the record fails to show what Howe testified to before the grand jury. No objections are found in the record to Howe’s testifying upon the ground now urged as disqualifying him or as constituting a variance. The names of the persons with whom the indicted de­fendants conspired are not descriptive of the offense; it is a question of evidence, not of pleading.</p>
+                <p pgmap="175" id="b175-3">This case is readily distinguishable from that of Sullivan v. People, 108 Ill. App. 328. In the Sullivan indictment neither the words “with persons to the grand jury unknown,” nor words of like import were, found. If Howe be regarded as a co-conspirator his testimony as to things done and conversations had with the indicted defendants was admissible. The controlling principle is stated in Wharton on Criminal Evidence, ninth edition, section 700, thus: “It makes no difference as to the admissibility of the act or decla­ration of a conspirator against a defendant, whether the former be indicted or not or tried or not with the latter; * * * the principle upon which they are admissible at all being that the act or declaration of one is the act or declaration of all united in one com­mon design, a principle which is wholly unaffected by the consideration of their being jointly indicted.”</p>
+                <p pgmap="175" id="b175-5">In People v. Fehrenback, 102 Cal. 394, it was held that. “the declarations of a conspirator who is not prosecuted are equally admissible with those of one under indictment and prosecution.” People v. Bentley, 75 Cal. 407; Van Eyck v. People, 178 Ill. 199; Will­iams v. State, 47 Ind. 569; Graff v. People, 208 Ill. 312.</p>
+                <p pgmap="175(145) 176(61)" id="b175-6">The latest expression. of opinion by our Supreme Court, found in Cooke v. People, 231 Ill. 9, solves any doubt, if any heretofore existed, on this subject. In the Cooke case one Seinwerth was a witness before the grand jury, and as the proofs developed on the trial, a party to the conspiracy. He was not indicted or named in the indictment. As in this case, Seinwerth’s testi­mony before the grand jury did not appear in the rec­ord. It was contended that it was inferable from the language of the indictment that the grand jury knew that Seinwerth was a co-conspirator with Cooke, and that from their failure to name him as a co-conspira­tor it followed that there was a variance between the indictment and the proof. But on the contrary the court held that it was clearly inferable, from the fact that the indictment charged the conspiracy to he be­tween Cooke and Charles H. Bradley and with divers other persons whose names were unknown to them, that the grand jury did not know Seinwerth was a co-conspirator; for, if the grand jury had been in­formed that he was a co-conspirator they would have named him as such in the indictment.</p>
+                <p pgmap="176" id="b176-5">The Supreme Court in that case held, as we do here, that there was no variance between the indictment and the proof arising from the fact, developed during the trial, that one of the witnesses examined by the prose­cution was a co-conspirator and was not named in the indictment.</p>
+                <p pgmap="176" id="b176-6">Fourth. A careful scrutiny of the evidence admitted and argued by counsel for plaintiffs in error as erro­neous fails to disclose any ruling adversely affecting their rights or the merits of the cause. All the evi­dence admitted related to the conspiracy charged in the indictment and were connecting links establishing it. The record bears evidence that the rulings of the trial judge on the admission of proof were fair and impartial; and we are, in the condition of this record, unable to say that any such errors occurred in regard to the court’s ruling as would justify us in remanding the cause for another trial; for, as said in Clark v. People, 31 Ill. 479: “If the great object of a trial has been had and slight departures from form have occurred, it is not a sufficient reason for setting aside the proceeding and pursuing again all the forms of a new trial to arrive at the same result.”</p>
+                <p pgmap="176(83) 177(124)" id="b176-7">Among many objections made is one against the admission as evidence of the hooks of the hank, at the time of the trial, in the hands of the receiver. The difficulty with this objection lies in the inferential as­sumption, at least, that the books were the property of the indicted defendants, their own private papers, and therefore not admissible as being statements against themselves. Such, however, is not the fact. The books were the books of the bank, and in no sense the individual property of any of the defendants. Such assumption by the conspirators is one of the evils which brought on this prosecution. The indicted de­fendants conspired to do the thing charged and in car­rying out such conspiracy treated the bank and its property as their own. It was not error to permit the state to prove the value of the assets, or the value of the notes put into the bank in the place of cash for capital stock. It was material and relevant to prove such facts showing that by reason of the conspiracy charged loss had been sustained by parties investing their money in faith of the verity of the false pre­tenses made in pursuance of such conspiracy.</p>
+                <p pgmap="177" id="b177-4">The court did not err in denying the motion for a bill of particulars, for the reason that the indict­ment in itself gave sufficient information of the crime charged, and there is nothing in the proof which shows that plaintiffs in error were taken by surprise, or were in any way prejudiced, because of lack of knowledge of the particular facts upon which the State depended for conviction. All the substantial and material facts proved are shadowed forth with sufficient particular­ity in the various counts of the indictment, and evi­dence properly received in support of them. This is in accord with the settled law of this state on that subject. Gallagher v. People, 211 Ill. 158; Kelly v. People, 192 Ill. 119; DuBois v. People, 200 Ill. 157.</p>
+                <p pgmap="177(114) 178(128)" id="b177-5">Counsel for Smith says in his brief that he has ar­gued the case “upon the assumption that all the evi­dence was admissible, and that no errors were commit­ted upon the trial.” This assumption is in harmony with our opinion. But little stress is laid by either counsel for plaintiffs in error, and by some of them none, calling in question the correctness of the court’s instructions to the jury upon the law. The instruc­tions given at the instance of the plaintiffs in error and their co-defendants, were unusually full and cov­ered every conceivable phase of the law invokable as a defense under the proof on which the State rested its case for a conviction. There is no point of law con­tained in the instructions refused material to the de­fense which is not embodied in some of the numerous instructions given. Three instructions refused, urged in argument by counsel for Sorrow as being improp­erly refused, relate to a,contention that inactivity, neg­ligence, or failure to do an act does not constitute the crime of conspiracy. These instructions were not rele­vant to the proof, and were but statements of abstract legal propositions. Criminal intent arises at times from the actions of the parties, when such actions are inconsistent with honest intent and are solvable only on the hypothesis of criminality, and such was the duty of the jury to find from the evidence before them.</p>
+                <p pgmap="178" id="b178-5">Complaint is also made of a statement by the trial judge that Pierce could take the stand and contradict the statement made by a witness in his cross-examina­tion. As this was personal to the defendant Pierce, it is sufficient to say that if it was a statement hurtful to his defense, he is not here complaining. He has bowed in submission and paid the penalty imposed by the law for his offense. We do not think that this re­mark of the court was in any manner prejudicial to the rights of the plaintiffs in error.</p>
+                <p pgmap="178(132) 179(372) 180(112)" id="b178-6">We are of the opinion that the evidence of the State sustains the conspiracy charged in the indictment, and that the indictment aptly charged against the defend­ants a statutory and common law conspiracy. We are fortified in this conclusion by many authorities, some of which we have cited in this opinion, and particu­larly by the case of Reg. v. Brown, supra. This was an information by the attorney general, charging the directors of the Royal British Bank and its general manager with conspiring, by false representations, to defraud the shareholders and customers and the pub­lic. This conspiracy arose from the fact that after the insolvency of the bank was known to the defendants, they published false statements, that the bank was a solvent, thriving institution; also with the knowledge of the insolvency of the bank issued new shares, and bought shares with the bank’s money, in order to keep up the price, inviting shareholders to buy new shares, and inviting persons to open accounts with the bank. •Lord Campbell charged the jury that “if the defend­ants knew of the insolvency of the bank at the time they sold new stock and invited the public to purchase shares and to open accounts with the bank, then they ought to be found guilty; but if any of them did not know of its insolvent state then they should be ac­quitted.” With regard to the conspiracy he said: “It is not essential that evidence should be given of any formal consultation, in which the parties are sup­posed to have deliberately resolved to do an illegal act or to do a legal act by illegal means; but if, as reason­able men, you see there was a common design, and they were acting in concert to do what is wrong, that is evidence from which a jury may suppose that a con­spiracy was actually formed.” The jury under this charge found all of the defendants guilty. Many of the acts forming the conspiracy in the Boyal British Bank case are similar to those charged in the ease at bar. In the former the conspiracy consisted in hold­ing out the bank to be solvent after knowledge of its insolvency. Here the conspiracy started with the false pretense that the capital stock of the bank was fully paid in, in cash; and upon the apparent verity of such representation the state auditor was deceived, and the charter of the bank procured. This was preceded by issuing cashier’s checks against the bank funds and withholding such facts from the representative of the state auditor. This was followed up by the saddling upon the bank a large amount of worthless paper of irresponsible persons in pretended payment for the stock of the bank; in almost looting the bank by loan­ing to Creelman and to institutions in which he was interested about $145,000, which was within about $40,000 of the total deposits of the bank; in failing to pay their stock subscriptions; unlawfully appropriat­ing the securities and money of the hank to their own use; in making sworn and other statements and pub­lishing advertisements of the bank’s assets, resources and liabilities, which were false, under which false pretenses stock was sold to innocent parties at $200 per share and customers and depositors and bona fide shareholders of the bank were deceived. These are the main and evidential facts constituting the con­spiracy which resulted, after an existence of seventy-­three days, in the bank closing its doors, being put into the hands of a receiver, making a loss in the vicinity of $175,000, which loss fell upon the bona fide and de­luded stockholders.</p>
+                <p pgmap="180" id="b180-5">We find no errors in this record justifying this court in reversing the judgment of the Criminal Court, and it is therefore affirmed.</p>
+                <p pgmap="180" id="b180-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="145" ORDERLABEL="129" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.2" BETYPE="IDREF" FILEID="alto_00073_0"/>
+              <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+              <area BEGIN="BL_145.17" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="146" ORDERLABEL="130" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.2" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.3" BETYPE="IDREF" FILEID="alto_00073_1"/>
+              <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.2" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="148" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.2" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.3" BETYPE="IDREF" FILEID="alto_00074_1"/>
+              <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.2" BETYPE="IDREF" FILEID="alto_00075_0"/>
+              <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.2" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.3" BETYPE="IDREF" FILEID="alto_00075_1"/>
+              <area BEGIN="BL_150.4" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="151" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jp2_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.2" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.1" BETYPE="IDREF" FILEID="alto_00076_0"/>
+              <area BEGIN="BL_151.3" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="152" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00076_1"/>
+        <fptr FILEID="jp2_00076_1"/>
+        <fptr FILEID="alto_00076_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.2" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.3" BETYPE="IDREF" FILEID="alto_00076_1"/>
+              <area BEGIN="BL_152.4" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="153" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jp2_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.2" BETYPE="IDREF" FILEID="alto_00077_0"/>
+              <area BEGIN="BL_153.4" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="154" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jp2_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.2" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.3" BETYPE="IDREF" FILEID="alto_00077_1"/>
+              <area BEGIN="BL_154.4" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="155" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.2" BETYPE="IDREF" FILEID="alto_00078_0"/>
+              <area BEGIN="BL_155.4" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.2" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.3" BETYPE="IDREF" FILEID="alto_00078_1"/>
+              <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.2" BETYPE="IDREF" FILEID="alto_00079_0"/>
+              <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.2" BETYPE="IDREF" FILEID="alto_00079_1"/>
+              <area BEGIN="BL_158.3" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+              <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.3" BETYPE="IDREF" FILEID="alto_00080_1"/>
+              <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.2" BETYPE="IDREF" FILEID="alto_00081_0"/>
+              <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+              <area BEGIN="BL_161.10" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.3" BETYPE="IDREF" FILEID="alto_00081_1"/>
+              <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.2" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="148" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+              <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.2" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.3" BETYPE="IDREF" FILEID="alto_00083_1"/>
+              <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="167" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00084_0"/>
+        <fptr FILEID="jp2_00084_0"/>
+        <fptr FILEID="alto_00084_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.3" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.2" BETYPE="IDREF" FILEID="alto_00084_0"/>
+              <area BEGIN="BL_167.4" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="168" ORDERLABEL="152" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.2" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.3" BETYPE="IDREF" FILEID="alto_00084_1"/>
+              <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="169" ORDERLABEL="153" TYPE="page">
+        <fptr FILEID="tiff_00085_0"/>
+        <fptr FILEID="jp2_00085_0"/>
+        <fptr FILEID="alto_00085_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.3" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.2" BETYPE="IDREF" FILEID="alto_00085_0"/>
+              <area BEGIN="BL_169.4" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="170" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00085_1"/>
+        <fptr FILEID="jp2_00085_1"/>
+        <fptr FILEID="alto_00085_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.2" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.3" BETYPE="IDREF" FILEID="alto_00085_1"/>
+              <area BEGIN="BL_170.4" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="171" ORDERLABEL="155" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.2" BETYPE="IDREF" FILEID="alto_00086_0"/>
+              <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="156" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.2" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.3" BETYPE="IDREF" FILEID="alto_00086_1"/>
+              <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="173" ORDERLABEL="157" TYPE="page">
+        <fptr FILEID="tiff_00087_0"/>
+        <fptr FILEID="jp2_00087_0"/>
+        <fptr FILEID="alto_00087_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.3" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.2" BETYPE="IDREF" FILEID="alto_00087_0"/>
+              <area BEGIN="BL_173.4" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="174" ORDERLABEL="158" TYPE="page">
+        <fptr FILEID="tiff_00087_1"/>
+        <fptr FILEID="jp2_00087_1"/>
+        <fptr FILEID="alto_00087_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_174.2" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_174.3" BETYPE="IDREF" FILEID="alto_00087_1"/>
+              <area BEGIN="BL_174.4" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="175" ORDERLABEL="159" TYPE="page">
+        <fptr FILEID="tiff_00088_0"/>
+        <fptr FILEID="jp2_00088_0"/>
+        <fptr FILEID="alto_00088_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_175.2" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_175.1" BETYPE="IDREF" FILEID="alto_00088_0"/>
+              <area BEGIN="BL_175.3" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="176" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00088_1"/>
+        <fptr FILEID="jp2_00088_1"/>
+        <fptr FILEID="alto_00088_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_176.2" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_176.3" BETYPE="IDREF" FILEID="alto_00088_1"/>
+              <area BEGIN="BL_176.4" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="177" ORDERLABEL="161" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jp2_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.3" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.2" BETYPE="IDREF" FILEID="alto_00089_0"/>
+              <area BEGIN="BL_177.4" BETYPE="IDREF" FILEID="alto_00089_0"/>
+              <area BEGIN="BL_177.7" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="178" ORDERLABEL="162" TYPE="page">
+        <fptr FILEID="tiff_00089_1"/>
+        <fptr FILEID="jp2_00089_1"/>
+        <fptr FILEID="alto_00089_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.2" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.3" BETYPE="IDREF" FILEID="alto_00089_1"/>
+              <area BEGIN="BL_178.4" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="179" ORDERLABEL="163" TYPE="page">
+        <fptr FILEID="tiff_00090_0"/>
+        <fptr FILEID="jp2_00090_0"/>
+        <fptr FILEID="alto_00090_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_179.3" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_179.2" BETYPE="IDREF" FILEID="alto_00090_0"/>
+              <area BEGIN="BL_179.4" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="180" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00090_1"/>
+        <fptr FILEID="jp2_00090_1"/>
+        <fptr FILEID="alto_00090_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.2" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.3" BETYPE="IDREF" FILEID="alto_00090_1"/>
+              <area BEGIN="BL_180.4" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-15" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.15" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.5" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-27" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.13" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.8" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.7" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-22" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.12" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJA" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.6" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.5" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.9" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.6" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_153.1" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            <area BEGIN="BL_154.1" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.5" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.7" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.7" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.8" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.5" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.13" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-15" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.14" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.10" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.11" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.12" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_159.1" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANh" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.7" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABD" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.18" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.6" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            <area BEGIN="BL_155.1" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.7" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.5" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVd" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.11" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aus" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.10" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.9" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.8" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.8" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-15" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.9" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.6" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.5" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-16" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.10" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.13" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.12" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.11" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.10" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-17" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.17" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_c" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.16" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.25" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.26" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.23" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.24" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.20" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.22" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.19" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUv" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.21" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.27" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.14" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4W" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.5" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.6" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.7" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqM" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.17" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_146.18" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.5" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.9" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.7" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            <area BEGIN="BL_149.1" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuUV" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.9" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.8" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.9" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-19" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.11" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APX" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_163.8" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.5" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afo" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.12" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.5" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.6" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APS" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.17" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.5" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.7" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.6" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.5" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.6" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            <area BEGIN="BL_176.1" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avm" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.16" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.7" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.8" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            <area BEGIN="BL_174.1" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.5" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.6" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.7" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.19" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_146.20" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.6" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            <area BEGIN="BL_179.1" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            <area BEGIN="BL_180.1" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.5" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.7" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            <area BEGIN="BL_171.1" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.6" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.5" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9k" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.15" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.28" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            <area BEGIN="BL_152.1" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.8" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_173.1" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.10" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-39" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.16" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            <area BEGIN="BL_146.1" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.7" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-34" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.15" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.7" BETYPE="IDREF" FILEID="alto_00088_1"/>
+            <area BEGIN="BL_177.1" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZs" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.14" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-31" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.14" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b176-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_176.6" BETYPE="IDREF" FILEID="alto_00088_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.6" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.5" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.7" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_168.1" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQQ" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.13" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.11" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.8" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            <area BEGIN="BL_167.1" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.5" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.6" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            <area BEGIN="BL_178.1" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.5" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEZ" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agc" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.15" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.6" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            <area BEGIN="BL_169.1" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_170.1" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.4" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEUq" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.4" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.8" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-Xu" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.6" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.9" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.12" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.9" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhN" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.8" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-16" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.16" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0123" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Pierce v. Shay">Thomas L. Pierce, Appellant, v. James E. Shay et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 612</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00315_1" MIMETYPE="image/tiff" CHECKSUM="8c0aff82b9d98c396892308c7dacd613" CHECKSUMTYPE="MD5" SIZE="45042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00315_1.tif"/>
+      </file>
+      <file ID="tiff_00316_0" MIMETYPE="image/tiff" CHECKSUM="aa8f8e21259654c6afbc596ff8f9b2b6" CHECKSUMTYPE="MD5" SIZE="52542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00316_0.tif"/>
+      </file>
+      <file ID="tiff_00316_1" MIMETYPE="image/tiff" CHECKSUM="e136752225be8f2fd34dc89dd8c24d22" CHECKSUMTYPE="MD5" SIZE="53892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00316_1.tif"/>
+      </file>
+      <file ID="tiff_00317_0" MIMETYPE="image/tiff" CHECKSUM="07e388c7e8d8c8cd2fea9aa0fc780a28" CHECKSUMTYPE="MD5" SIZE="44378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00315_1" MIMETYPE="image/jp2" CHECKSUM="a9039b84c4a9671123a8753f704bb381" CHECKSUMTYPE="MD5" SIZE="2323936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00315_1.jp2"/>
+      </file>
+      <file ID="jp2_00316_0" MIMETYPE="image/jp2" CHECKSUM="ce5f4982ee4f9422179a8ca3be393208" CHECKSUMTYPE="MD5" SIZE="2448746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00316_0.jp2"/>
+      </file>
+      <file ID="jp2_00316_1" MIMETYPE="image/jp2" CHECKSUM="a36fdd6eb14074f690306f3ca4ddc31f" CHECKSUMTYPE="MD5" SIZE="2412023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00316_1.jp2"/>
+      </file>
+      <file ID="jp2_00317_0" MIMETYPE="image/jp2" CHECKSUM="fb9a988acc64b2aceeac6d91bbe6cd70" CHECKSUMTYPE="MD5" SIZE="2382751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00315_1" MIMETYPE="text/xml" CHECKSUM="2903790fc63d0995527dc6163029405b" CHECKSUMTYPE="MD5" SIZE="79720">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00315_1.xml"/>
+      </file>
+      <file ID="alto_00316_0" MIMETYPE="text/xml" CHECKSUM="df1787eaa22a1a056624705515b566c3" CHECKSUMTYPE="MD5" SIZE="85142">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00316_0.xml"/>
+      </file>
+      <file ID="alto_00316_1" MIMETYPE="text/xml" CHECKSUM="a74056c731bac207e2c602057309dade" CHECKSUMTYPE="MD5" SIZE="87906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00316_1.xml"/>
+      </file>
+      <file ID="alto_00317_0" MIMETYPE="text/xml" CHECKSUM="7fff3528544d2faebe599d7d3ff8dfbd" CHECKSUMTYPE="MD5" SIZE="79594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00317_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0123" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="615" firstpage="612">
+              <parties id="b630-4" pgmap="630">Thomas L. Pierce, Appellant, v. James E. Shay et al., Appellees.</parties>
+              <decisiondate id="A66" pgmap="630">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b630-8" pgmap="630">F. N. Henley, Clarence W. Hughes, and Voigt &amp; Bennett, for appellant.</attorneys>
+              <attorneys id="b630-9" pgmap="630">Bryan H. Tivnen, for appellee.</attorneys>
+              <summary id="b630-7" pgmap="630">Bill in equity. Appeal from the City Court of Mattoon; the Hon. T. N. Cofer, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AUR" pgmap="630">Affirmed.</disposition>
+              <headnotes id="b630-6" pgmap="630">Contracts—effect of partial illegality of consideration. If any part of an entire consideration for a promise or any part of an en­tire promise be illegal, the whole contract is void.</headnotes>
+              <opinion type="majority">
+                <author id="b630-10" pgmap="630">Mr. Justice Baume</author>
+                <p id="A-xe" pgmap="630">delivered the opinion of the court.</p>
+                <p id="b630-11" pgmap="630(212) 631(309)">The appellant, Thomas L. Pierce, filed his bill in equity to the January term, 1907, of the City Court of Mattoon, against William T. Layton, John H. Tivnen, trustee, and Edmund D. Jones, to foreclose a mortgage bearing date August 25, 1905, executed by said Layton to secure three principal notes bearing even date with said mortgage, for the sum of $100 each, payable to the order of said Layton in 1, 2 and 3 years, respectively, after date, with 5% interest, the said notes being en­dorsed by the said Layton in blank. Appellee, James E. Shay, was permitted to intervene in the suit and thereupon filed his answer to the bill denying appel­lant’s title to the notes and mortgage, and charging that the maker William T. Layton endorsed said notes to the said Shay and that the appellant won said notes from the said Shay in a game of chance at cards; and that appellant never paid any valuable consideration for the said notes and mortgage. Shay also then filed his cross bill wherein he set up the same matter al­leged in his answer, and further alleged that he was the owner of said notes and mortgage; that Layton had made default in the payment thereof and prayed that the said notes and mortgage be decreed to be his property, and for a foreclosure of said mortgage. Layton filed his answers to the original and cross-bills, wherein he denied default and tendered the amount due upon the matured note, together with interest upon the three notes. Appellant answered the cross-­bill denying that Shay was the owner of said notes and mortgage, and that he (appellant) had gained posses­sion of the same as alleged in the cross-bill, and denied that he had not paid a valuable consideration for the same. The cause was heard by the chancellor in open court and a decree entered finding that the notes and mortgage were executed by Layton as alleged in the original and cross-bills; that appellant was not the lawful owner of said notes and mortgage but had ob­tained the same from Shay in consideration of the sur­render by him to Shay of a note for $100 executed by Shay, and the further consideration of the delivery to Shay by appellant of his personal check for $192; that appellant, together with Shay and one Musgrove, had, before the delivery of the said notes and mort­gage to appellant, gambled together for money and that in settlement of one of such gaming transactions Shay had given to appellant a note for $100, being the same note which appellant had surrendered to Shay; that the check for $192 given by appellant to Shay was knowingly so given at the time and place of a gam­bling transaction between Shay and Musgrove for the purpose of enabling Shay to bet in a game of chance with Musgrove; that Musgrove won the said check from Shay in said game of chance and secured the money thereon at the bank, and that appellant and Musgrove were confederates in said gambling trans­action.</p>
+                <p id="b631-5" pgmap="631">The decree directed that the bill of appellant be dismissed for want of equity; that appellant pay the costs of said proceeding to the filing of the decree and that the mortgage be foreclosed under the prayer of the cross-bill.</p>
+                <p id="b632-4" pgmap="632">It is urged on behalf of appellant that the decree is contrary to the law and is not supported by the evi­dence in the record. Appellant is in error in assum­ing that the decree is predicated upon the theory that Shay was entitled to recover the amount of the check for $192 given to him by appellant, as for money lost by Shay to appellant in a game of chance. As we view the case the decree is primarily predicated upon the finding of the court that appellant and Musgrove col­lusively connived and confederated to induce Shay to transfer the said notes and mortgage to appellant, and that the transfer thereof so procured from Shay was without consideration.</p>
+                <p id="b632-5" pgmap="632(240) 633(14)">The evidence tends to show that prior to the trans­action here involved the appellant, Musgrove and Shay had played poker together and that Shay was generally the loser; that upon the day when the trans­fer of the notes and mortgage was made to appellant Musgrove and Shay had been engaged in playing poker and that the latter had lost as usual; that Shay desired to continue playing in the hope of retrieving his losses and to that end suggested to Musgrove that if he (Musgrove) could find some one to purchase the notes and mortgage he (Shay) would continue to play; that Musgrove suggested appellant as a probable pur­chaser of the notes and mortgage and interviewed appellant for that purpose; that through the efforts of Musgrove the appellant and Shay had an interview which resulted in the transfer of the papers by Shay to appellant; that appellant then knew, or had reason to believe, that Musgrove and Shay had been engaged in playing a game of poker in which Shay was the loser, and that the purpose of Shay in negotiating the notes and mortgage was to procure means to continue the game; that the transaction was closed about mid­night; that in consideration for the transfer to him of said notes and mortgage appellant surrendered to Shay the latter’s note for $100 which Shay had given to appellant in settlement of a gambling debt, and also his check for $192 payable to his own order and in­dorsed in blank.</p>
+                <p id="b633-5" pgmap="633">Appellant testified that no computation was made of the amount due upon the notes; that the notes were not worth their face value and that the surrender to Shay of the $100 note did not form any part of the consideration for the transfer, because said note was considered worthless. In addition to the testimony of Shay we think the fact that the amount of the check given by appellant to Shay together with the note for $100 surrendered to Shay, approximates the amount due upon the notes in question, authorizes a finding by the chancellor that said $100 note formed a part of the consideration for the transfer. So far as the trans­fer was made in consideration of the surrender of said $100 note it was void.</p>
+                <p id="b633-6" pgmap="633">It is well established that if any part of an entire consideration for a promise or any part of an entire promise be illegal the whole contract is void. Douth­art v. Congdon, 197 Ill. 349; First National Bank v. Miller, 235 Ill. 135.</p>
+                <p id="b633-7" pgmap="633">A careful examination of the evidence in the record confirms the propriety of the decree in this case, and the same will be affirmed. One-half of the cost of the additional abstract filed by appellee will be taxed against the appellant.</p>
+                <p id="b633-8" pgmap="633">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="630" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00315_1"/>
+        <fptr FILEID="jp2_00315_1"/>
+        <fptr FILEID="alto_00315_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_630.1" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_630.2" BETYPE="IDREF" FILEID="alto_00315_1"/>
+              <area BEGIN="BL_630.3" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="631" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00316_0"/>
+        <fptr FILEID="jp2_00316_0"/>
+        <fptr FILEID="alto_00316_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_631.3" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_631.2" BETYPE="IDREF" FILEID="alto_00316_0"/>
+              <area BEGIN="BL_631.4" BETYPE="IDREF" FILEID="alto_00316_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="632" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00316_1"/>
+        <fptr FILEID="jp2_00316_1"/>
+        <fptr FILEID="alto_00316_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_632.1" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_632.2" BETYPE="IDREF" FILEID="alto_00316_1"/>
+              <area BEGIN="BL_632.3" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="633" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00317_0"/>
+        <fptr FILEID="jp2_00317_0"/>
+        <fptr FILEID="alto_00317_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.3" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.2" BETYPE="IDREF" FILEID="alto_00317_0"/>
+              <area BEGIN="BL_633.4" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.8" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b632-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_632.5" BETYPE="IDREF" FILEID="alto_00316_1"/>
+            <area BEGIN="BL_633.1" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUR" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.8" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A66" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.9" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b631-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_631.5" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.5" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.6" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.7" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-xe" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.13" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            <area BEGIN="BL_630.14" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b632-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_632.4" BETYPE="IDREF" FILEID="alto_00316_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-11" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.15" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            <area BEGIN="BL_631.1" BETYPE="IDREF" FILEID="alto_00316_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-10" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.12" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.6" BETYPE="IDREF" FILEID="alto_00315_1"/>
+            <area BEGIN="BL_630.7" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.5" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-4" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.4" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-9" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.11" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b630-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_630.10" BETYPE="IDREF" FILEID="alto_00315_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

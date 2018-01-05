@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0030" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Clifford v. Stafford">Georgie Clifford, Defendant in Error, v. James E. Stafford, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,224</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 247</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00133_0" MIMETYPE="image/tiff" CHECKSUM="812b849f90f0b0b3655573235247c27a" CHECKSUMTYPE="MD5" SIZE="42902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00133_0.tif"/>
+      </file>
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="36c7f9577c31f50cbb3e685c3b89a4a0" CHECKSUMTYPE="MD5" SIZE="48542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="287a2efa23d2cd28f68ab7b2db1473c0" CHECKSUMTYPE="MD5" SIZE="45976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00133_0" MIMETYPE="image/jp2" CHECKSUM="af46562242e7de4ef81cb7f9841d6c00" CHECKSUMTYPE="MD5" SIZE="2378060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00133_0.jp2"/>
+      </file>
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="34c23e0464da2df399c6f01da521d638" CHECKSUMTYPE="MD5" SIZE="2359213">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="3142344e0722e67382694a2239f7867a" CHECKSUMTYPE="MD5" SIZE="2425831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00134_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00133_0" MIMETYPE="text/xml" CHECKSUM="7e5a6dd7156e123f9ca6d106fead428d" CHECKSUMTYPE="MD5" SIZE="76852">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00133_0.xml"/>
+      </file>
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="b5d9b9440827f5216b9cf75540347768" CHECKSUMTYPE="MD5" SIZE="81587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="de31bef173d296c9f31823e9e963bfc5" CHECKSUMTYPE="MD5" SIZE="80272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00134_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="249" firstpage="247">
+              <docketnumber id="b265-8" pgmap="265">Gen. No. 14,224.</docketnumber>
+              <parties id="b265-7" pgmap="265">Georgie Clifford, Defendant in Error, v. James E. Staf­ford, Plaintiff in Error.</parties>
+              <decisiondate id="A3b" pgmap="265">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b266-4" pgmap="266">C. Van Alen Smith, for plaintiff in error.</attorneys>
+              <attorneys id="b266-5" pgmap="266">Adolph Masks, for defendant in error.</attorneys>
+              <summary id="b265-11" pgmap="265">Action of contract. Error to the Municipal Court of Chicago; the Hon. William N. Gemmill, Judge, presiding. Heard in the Branch Appellate Court at the March, term, 1908.</summary>
+              <disposition id="AqQ" pgmap="265">Reversed with finding of facts.</disposition>
+              <headnotes id="b265-9" pgmap="265">1. Bailments—when relation of inn-keeper and guest does not arise. One who engages a room for a limited period, as for a week, with the owner who runs separately a restaurant, does not become a guest within the meaning of the law.</headnotes>
+              <headnotes id="b265-10" pgmap="265">2. Bailments—obligations of lodging-house keeper. A lodging-­house keeper is under no duty in any way to care for the safety of the goods and property of his lodger.</headnotes>
+              <opinion type="majority">
+                <author id="b266-6" pgmap="266">Mr. Presiding Justice Smith</author>
+                <p id="Arz" pgmap="266">delivered the opinion of the court.</p>
+                <p id="b266-7" pgmap="266">This writ of error brings before us for review the record in an action in the Municipal Court of Chicago, instituted by defendant in error against plaintiff in error to recover the value of a silk dress claimed by the plaintiff below to have been taken from her room in the Commercial European Hotel in Chicago while she was there a guest. The cause was tried before the presiding judge without a jury and resulted in a judgment for the plaintiff for $50.</p>
+                <p id="b266-8" pgmap="266">One Bessie Baker at the same time, began a similar action against plaintiff in error in the same court to recover the value of a plume claimed by her to have been taken from the same room. The cases were tried together in the Municipal Court by agreement of coun­sel and judgment was rendered in favor of Bessie Baker for $20 against plaintiff in error.</p>
+                <p id="b266-9" pgmap="266">There is no controversy of fact in the records. The two plaintiffs rented room 157 of the Commercial European Hotel for the definite period of one week, for which they agreed to pay at the end of the week five dollars, and they did pay five dollars for the room when they surrendered it. The defendant, Stafford, conducted a restaurant which was run separately, where meals were served to lodgers in the hotel and others, but the contract covered the room simply, and did not include meals in the restaurant.</p>
+                <p id="b266-10" pgmap="266">The evidence tends to show that Georgie Clifford, while occupying the room, lost a silk dress which was taken from the room, and that Bessie Baker lost a plume, while they were occupying the room, and that the plume was taken from the room.</p>
+                <p id="b266-11" pgmap="266(19) 267(25)">The question presented by the assignments of error, and by the briefs of the parties, is whether, when the property was lost the relation of inn-keeper and guest existed between the parties so as to make the plaintiff in error liable for its loss.</p>
+                <p id="b267-4" pgmap="267">In our opinion the point upon which the question of liability turns is the fact that a specific agreement was made between the parties for the room for a definite term at a price named. Whatever the plaintiff in er­ror’s relations may have been to travelers who came to his hotel for lodging and entertainment for no definite time or price but for a reasonable consideration, under the contract made between the parties in this case, de­fendant in error became a mere lodger, and the plaint­iff in error was a keeper of a lodging house, and was under no duty to care in any way for the safety of the goods and property of defendant in error. Beale on Inn-keepers &amp; Hotels, Sec. 331; Stewart v. McCready, 24 How. Pr. 62; Shoecraft v. Bailey, 25 Ia. 553; Pull­man Palace Car Co. v. Smith, 73 Ill. 365; Bailey v. The People, 190 id. 34; Vigeant v. Nelson, 140 Ill. App. 644, and cases there cited.</p>
+                <p id="b267-5" pgmap="267">If the plaintiff in error was under no duty to care in any way for the safety of the goods and property of defendant in error, then no duty was violated by plaintiff in error, and there was and is no liability shown by the evidence. The judgment is therefore reversed with a finding of facts.</p>
+                <p id="b267-6" pgmap="267">Reversed with a finding of facts.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="265" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00133_0"/>
+        <fptr FILEID="jp2_00133_0"/>
+        <fptr FILEID="alto_00133_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.3" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.2" BETYPE="IDREF" FILEID="alto_00133_0"/>
+              <area BEGIN="BL_265.4" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="266" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.1" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+              <area BEGIN="BL_266.3" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.2" BETYPE="IDREF" FILEID="alto_00134_0"/>
+              <area BEGIN="BL_267.4" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arz" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.7" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_266.8" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.6" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.12" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_266.13" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQ" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.14" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            <area BEGIN="BL_265.15" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.14" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_267.1" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.6" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.9" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.4" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.5" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3b" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.16" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.9" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.12" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            <area BEGIN="BL_265.13" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.11" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.8" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.10" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-4" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.5" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.7" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.10" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.11" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

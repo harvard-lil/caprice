@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0115" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Brady v. Koontz">U. A. Brady et al., Appellees, v. James H. Koontz, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 582</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00300_1" MIMETYPE="image/tiff" CHECKSUM="ce6b5f90c1f9447a06ec92a8605dfe63" CHECKSUMTYPE="MD5" SIZE="37562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_1.tif"/>
+      </file>
+      <file ID="tiff_00301_0" MIMETYPE="image/tiff" CHECKSUM="ae4b0f6c3d9749b62adb38f729405279" CHECKSUMTYPE="MD5" SIZE="44990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00300_1" MIMETYPE="image/jp2" CHECKSUM="6ee48ac725d9734780539012b67ae634" CHECKSUMTYPE="MD5" SIZE="2285194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_1.jp2"/>
+      </file>
+      <file ID="jp2_00301_0" MIMETYPE="image/jp2" CHECKSUM="a799b226bff22c600ef101fd55868f7a" CHECKSUMTYPE="MD5" SIZE="2425462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00300_1" MIMETYPE="text/xml" CHECKSUM="88a5ce551376ba7aa7f64915bf06db5f" CHECKSUMTYPE="MD5" SIZE="67446">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00300_1.xml"/>
+      </file>
+      <file ID="alto_00301_0" MIMETYPE="text/xml" CHECKSUM="99c13c0a6ef68cce671e13866d77a565" CHECKSUMTYPE="MD5" SIZE="76498">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00301_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0115" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="583" firstpage="582">
+              <parties id="b600-7" pgmap="600">U. A. Brady et al., Appellees, v. James H. Koontz, Appellant.</parties>
+              <decisiondate id="AJu" pgmap="600">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b600-11" pgmap="600">Chafee &amp; Chew, for appellant.</attorneys>
+              <attorneys id="b600-12" pgmap="600">F. E. Latch, for appellee.</attorneys>
+              <summary id="b600-10" pgmap="600">Action commenced before justice of the peace. Appeal from the County Court of Shelby county; the Hon. Calvin Green, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A4F" pgmap="600">Reversed and remanded.</disposition>
+              <headnotes id="b600-9" pgmap="600">Parties—when joinder improper. The joinder of several parties as plaintiffs is improper if they have no joint interest in the trans­action with respect to which the action is brought.</headnotes>
+              <opinion type="majority">
+                <author id="b600-13" pgmap="600">Mr. Justice Baume</author>
+                <p id="ASN" pgmap="600">delivered the, opinion of the court.</p>
+                <p id="b600-14" pgmap="600">The appellees, U. A. Brady and Dora Brady, his wife, recovered a verdict and judgment against the appellant, James H. Koontz, in the County Court of Shelby county, for $24.91 for goods, wares and mer­chandise sold and for labor performed by said ap­pellees to and for appellant.</p>
+                <p id="b600-15" pgmap="600(26) 601(126)">The judgment must be reversed and the cause re­manded,. primarily, because there is no evidence in the case which authorizes a recovery by the appellees jointly. The evidence in the record discloses that ap­pellee, U. A. Brady, at the time of the transactions in question, was engaged in the business of general mer­chandising, and sold to appellant flour, coffee, corn, knives, plow shares, horse collars and the like, and that appellee, Dora Brady, in addition to performing the or­dinary duties of a housewife, did some work in the way of sewing and making women’s garments, and made skirts, waists and dresses for the children of appellant. It is not questioned but that a husband and wife may form a partnership and transact business as .partners, but such relation does not exist merely by virtue of the marriage of the parties, and can only be created by special contract.</p>
+                <p id="An5_" pgmap="601">No contract partnership relation is shown to have existed between appellees. It is merely claimed on their behalf that each was interested in the work and business of the other by virtue of their relation as husband and wife. In this state of the record it is clear that appellees had no joint interest or right respecting the transactions involved as authorized their joinder as plaintiffs in the action.</p>
+                <p id="b601-6" pgmap="601">The judgment of the County Court wall be reversed and the cause remanded.</p>
+                <p id="b601-7" pgmap="601">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="600" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00300_1"/>
+        <fptr FILEID="jp2_00300_1"/>
+        <fptr FILEID="alto_00300_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.2" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.3" BETYPE="IDREF" FILEID="alto_00300_1"/>
+              <area BEGIN="BL_600.4" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="601" ORDERLABEL="583" TYPE="page">
+        <fptr FILEID="tiff_00301_0"/>
+        <fptr FILEID="jp2_00301_0"/>
+        <fptr FILEID="alto_00301_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.3" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.2" BETYPE="IDREF" FILEID="alto_00301_0"/>
+              <area BEGIN="BL_601.4" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-10" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.9" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_600.10" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-11" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.14" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-12" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.15" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-13" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.16" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJu" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.13" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-7" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.7" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An5_" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.5" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-9" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.8" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-7" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.7" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-6" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.6" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4F" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.11" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_600.12" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASN" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.17" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_600.18" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-14" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.19" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-15" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.20" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            <area BEGIN="BL_601.1" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

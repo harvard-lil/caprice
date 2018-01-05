@@ -1,0 +1,684 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0129" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kolp v. Decatur Railway &amp; Light Co.">Charles L. Kolp, Administrator, v. Decatur Railway &amp; Light Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 645</citation>
+          <decisiondate>1908-11-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00332_0" MIMETYPE="image/tiff" CHECKSUM="d07c11b029f9d63a6bf413c469df88bd" CHECKSUMTYPE="MD5" SIZE="44516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_0.tif"/>
+      </file>
+      <file ID="tiff_00332_1" MIMETYPE="image/tiff" CHECKSUM="20fa878cd4f274991fd9d456657a8490" CHECKSUMTYPE="MD5" SIZE="52078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_1.tif"/>
+      </file>
+      <file ID="tiff_00333_0" MIMETYPE="image/tiff" CHECKSUM="ab1380f15b3cb520bd3ac2beb16dbfca" CHECKSUMTYPE="MD5" SIZE="54550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00333_0.tif"/>
+      </file>
+      <file ID="tiff_00333_1" MIMETYPE="image/tiff" CHECKSUM="e3eadeeb1b9de567205ee887b8ff3ce1" CHECKSUMTYPE="MD5" SIZE="54094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00333_1.tif"/>
+      </file>
+      <file ID="tiff_00334_0" MIMETYPE="image/tiff" CHECKSUM="97d61d65a3be4babd1db54cf1ae0a884" CHECKSUMTYPE="MD5" SIZE="51214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00334_0.tif"/>
+      </file>
+      <file ID="tiff_00334_1" MIMETYPE="image/tiff" CHECKSUM="1729d0b76f485a179cf8d727eeb46c5b" CHECKSUMTYPE="MD5" SIZE="52268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00334_1.tif"/>
+      </file>
+      <file ID="tiff_00335_0" MIMETYPE="image/tiff" CHECKSUM="a18056f7f89bc972868ad9645465adc1" CHECKSUMTYPE="MD5" SIZE="51032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00335_0.tif"/>
+      </file>
+      <file ID="tiff_00335_1" MIMETYPE="image/tiff" CHECKSUM="b2a135d6f45e7a4e76daf1f778b987dd" CHECKSUMTYPE="MD5" SIZE="51806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00335_1.tif"/>
+      </file>
+      <file ID="tiff_00336_0" MIMETYPE="image/tiff" CHECKSUM="fb6b7029fef917d53bb973a2916f30b1" CHECKSUMTYPE="MD5" SIZE="41682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00332_0" MIMETYPE="image/jp2" CHECKSUM="fd77745a40b82691aefff6ae47d2d9fa" CHECKSUMTYPE="MD5" SIZE="2379133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_0.jp2"/>
+      </file>
+      <file ID="jp2_00332_1" MIMETYPE="image/jp2" CHECKSUM="831171a605b80aa16934f4f623f66d45" CHECKSUMTYPE="MD5" SIZE="2430374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_1.jp2"/>
+      </file>
+      <file ID="jp2_00333_0" MIMETYPE="image/jp2" CHECKSUM="729b5fe2fc474c778eef2c9d4a1a5c91" CHECKSUMTYPE="MD5" SIZE="2471402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00333_0.jp2"/>
+      </file>
+      <file ID="jp2_00333_1" MIMETYPE="image/jp2" CHECKSUM="247da1ebd8077c3c4c97016f26090740" CHECKSUMTYPE="MD5" SIZE="2418938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00333_1.jp2"/>
+      </file>
+      <file ID="jp2_00334_0" MIMETYPE="image/jp2" CHECKSUM="776ac786a6fed1ef3d183fd164c2cf6a" CHECKSUMTYPE="MD5" SIZE="2449975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00334_0.jp2"/>
+      </file>
+      <file ID="jp2_00334_1" MIMETYPE="image/jp2" CHECKSUM="4e19733ffd91da4703832da21a4a14d2" CHECKSUMTYPE="MD5" SIZE="2447280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00334_1.jp2"/>
+      </file>
+      <file ID="jp2_00335_0" MIMETYPE="image/jp2" CHECKSUM="dcd148a845a086f4f738294881ead9dd" CHECKSUMTYPE="MD5" SIZE="2444037">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00335_0.jp2"/>
+      </file>
+      <file ID="jp2_00335_1" MIMETYPE="image/jp2" CHECKSUM="4a40b09d41d078d8b6aa3c380098d5a7" CHECKSUMTYPE="MD5" SIZE="2394117">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00335_1.jp2"/>
+      </file>
+      <file ID="jp2_00336_0" MIMETYPE="image/jp2" CHECKSUM="a36d9c1905f6f9d23afe07c681807cac" CHECKSUMTYPE="MD5" SIZE="2359847">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00336_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00332_0" MIMETYPE="text/xml" CHECKSUM="c97592dc6e0204f8a11b527b0f989f06" CHECKSUMTYPE="MD5" SIZE="85444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00332_0.xml"/>
+      </file>
+      <file ID="alto_00332_1" MIMETYPE="text/xml" CHECKSUM="0b27af6358c63fc85c47b8106d1bcbd4" CHECKSUMTYPE="MD5" SIZE="84040">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00332_1.xml"/>
+      </file>
+      <file ID="alto_00333_0" MIMETYPE="text/xml" CHECKSUM="15035916e0bf8df0347020858a114475" CHECKSUMTYPE="MD5" SIZE="86531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00333_0.xml"/>
+      </file>
+      <file ID="alto_00333_1" MIMETYPE="text/xml" CHECKSUM="95062fc68d3151629c6018641b3a908f" CHECKSUMTYPE="MD5" SIZE="90311">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00333_1.xml"/>
+      </file>
+      <file ID="alto_00334_0" MIMETYPE="text/xml" CHECKSUM="090cce778189ddea106451cdf45d458a" CHECKSUMTYPE="MD5" SIZE="87273">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00334_0.xml"/>
+      </file>
+      <file ID="alto_00334_1" MIMETYPE="text/xml" CHECKSUM="b9a079ba6912193096506eb03b571b78" CHECKSUMTYPE="MD5" SIZE="85639">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00334_1.xml"/>
+      </file>
+      <file ID="alto_00335_0" MIMETYPE="text/xml" CHECKSUM="79a6a9ebe4cdbcbae99c9acb8f5abe8f" CHECKSUMTYPE="MD5" SIZE="89937">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00335_0.xml"/>
+      </file>
+      <file ID="alto_00335_1" MIMETYPE="text/xml" CHECKSUM="0808cc72aa34ee07d8ab757ecec34e8f" CHECKSUMTYPE="MD5" SIZE="86633">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00335_1.xml"/>
+      </file>
+      <file ID="alto_00336_0" MIMETYPE="text/xml" CHECKSUM="a8f13d8d6359e62b3cc054e5e8814ad9" CHECKSUMTYPE="MD5" SIZE="85515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00336_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0129" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="653" firstpage="645">
+              <parties id="b663-6" pgmap="663">Charles L. Kolp, Administrator, v. Decatur Railway &amp; Light Company, Appellant.</parties>
+              <decisiondate id="A0J" pgmap="663">Opinion filed November 24, 1908.</decisiondate>
+              <attorneys id="b663-11" pgmap="663">Le Forgee &amp; Vail, for appellant.</attorneys>
+              <attorneys id="At8_" pgmap="663">Whitley &amp; Fitzgerald, for appellee,</attorneys>
+              <summary id="b663-10" pgmap="663">Action in case for death caused by alleged wrongful act. Appeal from the Circuit Court of Macon county; the Hon. William C. Johns, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Adq" pgmap="663">Reversed and remanded.</disposition>
+              <headnotes id="b663-7" pgmap="663">1. Master and servant—when direction to servant does not fasten liability. If a particular work which a servant is directed by his master to perform is within the scope of the general em­ployment of such servant, the mere fact that the servant is directed by the master to do such work does not operate to absolve the servant from the assumption of the risk involved.</headnotes>
+              <headnotes id="b663-8" pgmap="663">2. Master and servant—duty to furnish safe place. It is the duty of the master to exercise reasonable care to provide his serv­ant with a reasonably safe place in which to work, and this duty being a continuing one, it necessarily involves upon the master the duty of reasonable inspection to see that the working place of his servant is maintained in a reasonably safe condition.</headnotes>
+              <headnotes id="b663-9" pgmap="663">3. Evidence—what experts incompetent as to. Where witnesses called as experts have properly expressed their opinions relative to questions involving expert knowledge of electricity, the instru­mentalities by which it is communicated, conveyed and controlled, the manner in which these instrumentalities perform their several functions, the effect produced upon one coming in contact simulta­neously with a wire charged with electricity and a grounded tele­phone wire, the jury are as well qualified as are such witnesses to determine whether or not a particular place is a dangerous place to work, and to permit such witnesses to give their opinions upon that question is to invade the province of the jury.</headnotes>
+              <opinion type="majority">
+                <author id="b664-4" pgmap="664">Mr. Justice Baume</author>
+                <p id="AyI" pgmap="664">delivered the opinion of the court.</p>
+                <p id="b664-5" pgmap="664">This is a suit by appellee against appellant to re­cover damages for wrongfully causing the death of appellee’s intestate, Oscar S. Kolp. Upon the trial of the cause in the circuit court of Macon county the jury returned a verdict against appellant for $4,250, upon which verdict the court entered judgment and this appeal followed.</p>
+                <p id="b664-6" pgmap="664">The declaration contains six counts and charges in substance that appellant was the owner of and operated a certain electric light and power plant, and that the deceased was employed by appellant as a lineman; that upon a certain pole belonging to appellant it neg­ligently permitted a large number of telephone wires to be attached; that certain electric wires were un­insulated and came in too close contact with the tele­phone wires'on said pole; that a certain cut-off box attached to said pole was negligently allowed by ap­pellant to become decayed, uninsulated and unsafe; that it then and .there became the duty of appellant to exercise resonable care to provide and. maintain a reasonably safe and suitable place for the deceased in which to perform the work assigned to him, and to warn inexperienced employes of dangers not obvious to them at places where they might be required to work; that the deceased was inexperienced and igno­rant of the dangers to which he might be exposed in working upon said pole; that a certain foreman of ap­pellant negligently directed the deceased to go upon said pole and to perform certain work there, without warning the deceased of the dangers incident to the performance of such work; that in consequence there­of the deceased while so at work upon said pole and while in the exercise of due care for his own safety was necessarily brought into contact with said uninsulated wire and said cut-off and received a shock of electric­ity which caused his death.</p>
+                <p id="b664-7" pgmap="664(11) 665(349) 666(34)">The evidence tends to show that upon the day of the accident which resulted in his death, the deceased was one of a gang of men employed under the directions of one Hornbeck, a foreman of appellant, in stringing wires and making certain connections with the electric wires and apparatus owned and operated by appel­lant; that upon one of the poles of appellant, .a few inches below its top, was attached a cross-arm upon each end of which was strung a wire called a primary wire which, when charged with electricity, carried a current of about 2,280 volts; that about 4 feet below said upper cross-arm and at right angles therewith was another cross-arm,upon which were strung four wires, viz., two primary wires, one at each end of said cross-arm, which wires when charged carried a current of 2,280 volts, and two secondary wires which when charged carried 110 volts; that the primary wires upon the two cross-arms were connected by cut-off or junction boxes, which were located upon the lower cross-arms; that the primary wires from both cross-­arms entered at the bottom of said junction boxes, where they were connected by porcelain plugs inserted in the boxes; that when the plugs were inserted in the boxes the current of electricity in the primary wires upon the upper cross-arms was thereby communicated to the primary wires on the lower cross-arm, and when the plugs were withdrawn the connection between said primary wires was thereby cut off; that some time prior to the accident which resulted in the death of appellee’s intestate, the plugs had been taken out of the boxes and the connection between the two sets of primary wires thereby broken; that there were two other cross-arms upon said pole, one being about four feet below the second cross-arm and one about 14 inches below the third cross-arm, upon each of which there were a number of wires owned and operated by a telephone company; that these telephone wires were grounded so that if a person came In contact simul­taneously with such telephone wires and with any uninsulated portion of the primary wires on the cross-­arms above or with any uninsulated portion of said cut-off boxes, when the same were charged with elec­tricity, a circuit would be completed through the body of such person sufficient to produce death.</p>
+                <p id="b666-5" pgmap="666(333) 667(82)">The evidence further tends to show that the deceased entered the employment of appellant on August 31, 1907, and worked in the capacity of a groundman until September 19th following, when he was promoted to the position of lineman and was working in that capac­ity when he was killed on October 5, 1907; that for several years prior to his employment by appellant the deceased had been employed by a telephone company as a lineman; that about fifteen minutes before the accident which resulted in his death, the deceased was directed by Hornbeck, the foreman of appellant, to take a couple of plugs and insert them in the cut-off boxes, heretofore mentioned, in order to make the con­nection between the two sets of primary wires; that for the purpose of complying with such direction the deceased climbed the pole by means of spurs with which he was equipped; that shortly after he ascended the pole and after he had inserted a plug in one of the cut-off boxes, he fell to the ground and died within a few minutes thereafter. An examination of the per­son of the deceased immediately after he fell disclosed burns produced by electricity on the forefinger of his left hand and on his left leg below the knee which indicated that he had come in contact simultaneously with the grounded telephone wires and with some por­tion of the cut-off box or the primary wires leading into it. There was evidence tending to show that the deceased had climbed a pole and inserted a plug in a cut-off box on the day preceding his death; that when the deceased ceased work as a groundman he applied for the position of lineman and told the superintendent of appellant that he had had three years’ experience as a lineman; that when the foreman of appellant di­rected the deceased to climb the pole, he told the de­ceased to be careful not to take hold of the wires. There is also evidence tending to show that the insu­lation upon the primary wire on the upper cross-arm was decayed and hanging in strips and that some portion of the primary wire near to and leading into one of the cut-off boxes was uninsulated; that one of the telephone wires on the lower cross-arm presented the appearance of having burned flesh upon it; that the cut-off boxes were of a standard pattern and such as were commonly used for the purpose.</p>
+                <p id="Ak-" pgmap="667">Appellee’s theory as to the cause of the death of his intestate, is that the cut-off box was so worn that it afforded inadequate or imperfect insulation from the high tension current running into it, or that the primary wires entering into said cut-off box at a point near said box were uninsulated, so that when the de­ceased was in contact with the grounded telephone wires upon the lower cross-arm a current of electricity was carried through his body.</p>
+                <p id="b667-6" pgmap="667">Appellant’s theory of the case is that the deceased in inserting the plug in the cut-off box carelessly ex­tended the forefinger of the hand with which he grasped the plug above the flange, which protected the handle below in such manner that the finger was thrust into the interior of the cut-off box when the plug was inserted, and that the shock which caused his death was occasioned by the end of his finger coming in con­tact with some of the metallic apparatus on the inside of said box.</p>
+                <p id="b667-7" pgmap="667">The argument of appellant here is mainly directed to a criticism of the action of the trial court in refus­ing to give to the jury any of the instructions tendered upon its behalf purporting to declare the law govern­ing the doctrine of assumed risk as applied to the facts in the ease which there was evidence in the record tending to prove.</p>
+                <p id="b667-8" pgmap="667(37) 668(37)">It is insisted by appellee that the doctrine of as­sumed risk is not involved in the case because the dec­laration alleges and the uncontroverted evidence discloses that the deceased at the time of his death was engaged in performing a duty specifically im­posed upon him by the direction of appellant’s fore­man, and an examination of the record suggests that the trial court adopted the theory of appellee in this respect.</p>
+                <p id="b668-5" pgmap="668">It must be conceded that the several allegations in the declaration, that the deceased was inexperienced in the duties of a lineman and of the danger incident to the performance of such duties, that appellant had knowledge of the inexperience of the deceased in that regard, that the alleged dangerous conditions existing at the place where the deceased was directed to work and the risk involved in performing such work was unknown to the deceased and could not have been as­certained by him by the exercise of ordinary care, negative the deceased’s assumption of the risk in­volved in doing the work, but the evidence bearing upon the several issues of fact is conflicting and the determination of such issues was for the jury under proper instructions.</p>
+                <p id="b668-6" pgmap="668(181) 669(188)">If the particular work which a servant is directed by his master to perform is within the scope of the general employment of such servant the mere fact that the servant is directed by the master to do such work, does not operate to absolve the servant from assumption of the risk involved, and our attention has not been called to any case which announces a con­trary doctrine. If the rule contended for by appellee is the true rule, the mere direction by a carpenter’s foreman to one employed to do general carpenter work, to frame a portion of a building, or to construct a scaffold or to shingle a roof or to hang a door would operate to absolve such workman, from assumption of the risk involved in doing that particular work. Nu­merous like illustrations involving particular work done by tradesmen and laborers by the direction of one in general charge of the work might be cited. The adoption of such a rule would practically result in the abolishment of the doctrine of assumed risk as it now exists in this state. Among other cases in which a direction by the master to a servant to perform par­ticular work within the general scope of the servant’s employment has not operated to absolve the servant from assumption of the risk involved in doing such work, are the following: Ill. Terra Cotta Lumber Co. v. Hanley, 214 Ill. 243; Montgomery Coal Co. v. Bar­ringer, 218 Ill. 327; McCormick Harv. Co. v. Zakzew­ski, 220 Ill. 522. The language of the court in Republic Iron Co. v. Lee, 227 Ill. 246, is pertinent to the ques­tion of assumed risk arising under the facts of the case at bar. It is there said: “An exception to the doctrine of assumed risk exists where a servant is ordered by his master to do certain work which is attended with danger of which he is not fully cogni­zant, and he relies upon the order to do the work as an assurance that he may safely perform the task. It is only where the servant has been misled by the order of the master that the exception exists. ’’</p>
+                <p id="b669-5" pgmap="669">There is evidence in this case tending to show that the specific work which the deceased was directed to perform was within the general scope of his duties as a lineman; that he was experienced in the duties of his employment; and that the defects, if any, and the dangers incident thereto, in connection with the work which he was performing immediately before his death were open and obvious, or that he could, by the exercise of ordinary care, have had knowledge of the same.</p>
+                <p id="AFY" pgmap="669(93) 670(25)">The 12th, 13th, 14th, 15th and 17th instructions of­fered by appellant were refused by the court and the action of the court in this regard is assigned as error. All of these instructions relate to some phase of the law governing the doctrine of assumed risk. We do not deem it now necessary to analyze and discuss these several refused instructions in detail. While each of said instructions, except the 13th, is subject to some objections which may have occasioned its refusal by the trial court, the 13th instruction states a correct rule of law governing the doctrine of assumed risk as applicable to the facts in the case, and it was error to refuse the same.</p>
+                <p id="b670-5" pgmap="670">It is urged on behalf of appellant that the 10th in­struction given at the instance of appellee is erro­neous, because it imposes upon the master the duty to inspect the place where he puts his servant to work, to see that his servant is not exposed to unusual dan­gers. It is the duty of the master to exercise reason­able care to provide his servant with a reasonably safe place in which to work, and this duty, being a con­tinuing one, it necessarily involves upon the master the duty of reasonable inspection to see that the work­ing place of his servant is maintained in a reasonably safe condition. The phraseology of the instruction in the particular referred to is not altogether free from criticism, but taken in connection with the latter clause of the instruction we do not think it was so harmful to appellant as to require a reversal of the judgment upon that ground.</p>
+                <p id="b670-6" pgmap="670(165) 671(15)">The witnesses Jordan and Mitchell called to testify on behalf of appellee, after describing in detail the office and position of the wires and apparatus upon the pole, and the precise manner in which danger was to be apprehended by a person working on said pole, were permitted to state that in their opinion the pole as thus equipped was a dangerous pole. This was er­ror. These witnesses, called as experts, having prop­erly expressed their opinions relative to questions involving expert knowledge of electricity, the instru­mentalities by which it is communicated, conveyed and controlled, the manner in which these instrumentali­ties perform their several functions, the effect pro­duced upon one coming in contact simultaneously with a' wire charged with electricity and a grounded tele­phone wire, the jury were as well qualified as were the witnesses, to determine whether or not the pole as equipped, was a dangerous place to work, and the opinions of the witnesses upon that question infringed the province of the jury. Yarber v. C. &amp; A. Ry. Co., 235 Ill. 589.</p>
+                <p id="b671-4" pgmap="671">We do not consider the other objections urged of sufficient importance to merit further discussion. For the errors indicated the judgment of the circuit court will be reversed and the cause remanded.</p>
+                <p id="b671-5" pgmap="671">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="663" ORDERLABEL="645" TYPE="page">
+        <fptr FILEID="tiff_00332_0"/>
+        <fptr FILEID="jp2_00332_0"/>
+        <fptr FILEID="alto_00332_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.2" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.1" BETYPE="IDREF" FILEID="alto_00332_0"/>
+              <area BEGIN="BL_663.3" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="664" ORDERLABEL="646" TYPE="page">
+        <fptr FILEID="tiff_00332_1"/>
+        <fptr FILEID="jp2_00332_1"/>
+        <fptr FILEID="alto_00332_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_664.1" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_664.2" BETYPE="IDREF" FILEID="alto_00332_1"/>
+              <area BEGIN="BL_664.3" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="665" ORDERLABEL="647" TYPE="page">
+        <fptr FILEID="tiff_00333_0"/>
+        <fptr FILEID="jp2_00333_0"/>
+        <fptr FILEID="alto_00333_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_665.3" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_665.2" BETYPE="IDREF" FILEID="alto_00333_0"/>
+              <area BEGIN="BL_665.4" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="666" ORDERLABEL="648" TYPE="page">
+        <fptr FILEID="tiff_00333_1"/>
+        <fptr FILEID="jp2_00333_1"/>
+        <fptr FILEID="alto_00333_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_666.2" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_666.3" BETYPE="IDREF" FILEID="alto_00333_1"/>
+              <area BEGIN="BL_666.4" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="667" ORDERLABEL="649" TYPE="page">
+        <fptr FILEID="tiff_00334_0"/>
+        <fptr FILEID="jp2_00334_0"/>
+        <fptr FILEID="alto_00334_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_667.3" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_667.2" BETYPE="IDREF" FILEID="alto_00334_0"/>
+              <area BEGIN="BL_667.4" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="668" ORDERLABEL="650" TYPE="page">
+        <fptr FILEID="tiff_00334_1"/>
+        <fptr FILEID="jp2_00334_1"/>
+        <fptr FILEID="alto_00334_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_668.2" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_668.3" BETYPE="IDREF" FILEID="alto_00334_1"/>
+              <area BEGIN="BL_668.4" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="669" ORDERLABEL="651" TYPE="page">
+        <fptr FILEID="tiff_00335_0"/>
+        <fptr FILEID="jp2_00335_0"/>
+        <fptr FILEID="alto_00335_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.3" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.2" BETYPE="IDREF" FILEID="alto_00335_0"/>
+              <area BEGIN="BL_669.4" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="670" ORDERLABEL="652" TYPE="page">
+        <fptr FILEID="tiff_00335_1"/>
+        <fptr FILEID="jp2_00335_1"/>
+        <fptr FILEID="alto_00335_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.2" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.3" BETYPE="IDREF" FILEID="alto_00335_1"/>
+              <area BEGIN="BL_670.4" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="671" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00336_0"/>
+        <fptr FILEID="jp2_00336_0"/>
+        <fptr FILEID="alto_00336_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.3" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.2" BETYPE="IDREF" FILEID="alto_00336_0"/>
+              <area BEGIN="BL_671.4" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-9" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.9" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-8" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.8" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFY" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.6" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_670.1" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-10" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.10" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            <area BEGIN="BL_663.11" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-7" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.7" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-6" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.6" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.5" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b667-7" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.7" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b667-6" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.6" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adq" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.12" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0J" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.13" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b667-8" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.8" BETYPE="IDREF" FILEID="alto_00334_0"/>
+            <area BEGIN="BL_668.1" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak-" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_667.5" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b666-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_666.5" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            <area BEGIN="BL_667.1" BETYPE="IDREF" FILEID="alto_00334_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-4" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.4" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.7" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-6" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.8" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b664-7" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.9" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            <area BEGIN="BL_665.1" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            <area BEGIN="BL_666.1" BETYPE="IDREF" FILEID="alto_00333_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyI" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_664.5" BETYPE="IDREF" FILEID="alto_00332_1"/>
+            <area BEGIN="BL_664.6" BETYPE="IDREF" FILEID="alto_00332_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-6" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.6" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            <area BEGIN="BL_669.1" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.5" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-6" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.6" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            <area BEGIN="BL_671.1" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-11" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.14" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At8_" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.15" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.5" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-4" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.5" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-5" BETYPE="IDREF" FILEID="casebody_0129"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.6" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

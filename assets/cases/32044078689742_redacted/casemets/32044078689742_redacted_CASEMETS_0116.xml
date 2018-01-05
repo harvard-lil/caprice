@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0116" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Heffernan v. Lloyd">John Heffernan, Appellee, v. Sylvanus B. Lloyd, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 583</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00301_0" MIMETYPE="image/tiff" CHECKSUM="ae4b0f6c3d9749b62adb38f729405279" CHECKSUMTYPE="MD5" SIZE="44990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_0.tif"/>
+      </file>
+      <file ID="tiff_00301_1" MIMETYPE="image/tiff" CHECKSUM="36940cd9094b21f5ab52a093e842f775" CHECKSUMTYPE="MD5" SIZE="47696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_1.tif"/>
+      </file>
+      <file ID="tiff_00302_0" MIMETYPE="image/tiff" CHECKSUM="c6e295c150d78f2a76c08dd4ff98ef38" CHECKSUMTYPE="MD5" SIZE="53316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00302_0.tif"/>
+      </file>
+      <file ID="tiff_00302_1" MIMETYPE="image/tiff" CHECKSUM="3da033a4a5a570742488f8a71ae2f021" CHECKSUMTYPE="MD5" SIZE="52214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00302_1.tif"/>
+      </file>
+      <file ID="tiff_00303_0" MIMETYPE="image/tiff" CHECKSUM="7a53486cbbb43b63a088231adfcd61c4" CHECKSUMTYPE="MD5" SIZE="53984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00303_0.tif"/>
+      </file>
+      <file ID="tiff_00303_1" MIMETYPE="image/tiff" CHECKSUM="1de38c8d13cbd3fdf310e3de40b9a25d" CHECKSUMTYPE="MD5" SIZE="43834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00303_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00301_0" MIMETYPE="image/jp2" CHECKSUM="a799b226bff22c600ef101fd55868f7a" CHECKSUMTYPE="MD5" SIZE="2425462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_0.jp2"/>
+      </file>
+      <file ID="jp2_00301_1" MIMETYPE="image/jp2" CHECKSUM="cc41a4dca8e2b9404588114f72496c53" CHECKSUMTYPE="MD5" SIZE="2362616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00301_1.jp2"/>
+      </file>
+      <file ID="jp2_00302_0" MIMETYPE="image/jp2" CHECKSUM="563a6a3c34949ebc5f5d45a81f6bcd80" CHECKSUMTYPE="MD5" SIZE="2451603">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00302_0.jp2"/>
+      </file>
+      <file ID="jp2_00302_1" MIMETYPE="image/jp2" CHECKSUM="c8e6993e45c691d3d5b62c5dcf8c985f" CHECKSUMTYPE="MD5" SIZE="2405097">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00302_1.jp2"/>
+      </file>
+      <file ID="jp2_00303_0" MIMETYPE="image/jp2" CHECKSUM="d5589b0f7a0bc2ee40bd75b11ede3e67" CHECKSUMTYPE="MD5" SIZE="2455541">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00303_0.jp2"/>
+      </file>
+      <file ID="jp2_00303_1" MIMETYPE="image/jp2" CHECKSUM="12c5abbc35ef570de6524cc4eef9fb9a" CHECKSUMTYPE="MD5" SIZE="2336114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00303_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00301_0" MIMETYPE="text/xml" CHECKSUM="99c13c0a6ef68cce671e13866d77a565" CHECKSUMTYPE="MD5" SIZE="76498">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00301_0.xml"/>
+      </file>
+      <file ID="alto_00301_1" MIMETYPE="text/xml" CHECKSUM="a961d47e1bf68a9e1965068221284e9d" CHECKSUMTYPE="MD5" SIZE="81551">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00301_1.xml"/>
+      </file>
+      <file ID="alto_00302_0" MIMETYPE="text/xml" CHECKSUM="b905292075f36d4deca28002ec9a6387" CHECKSUMTYPE="MD5" SIZE="87855">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00302_0.xml"/>
+      </file>
+      <file ID="alto_00302_1" MIMETYPE="text/xml" CHECKSUM="5f14cd59033628adf8dde04ecbd3f679" CHECKSUMTYPE="MD5" SIZE="85597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00302_1.xml"/>
+      </file>
+      <file ID="alto_00303_0" MIMETYPE="text/xml" CHECKSUM="dc807029881c29ec7350648ff058478a" CHECKSUMTYPE="MD5" SIZE="85971">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00303_0.xml"/>
+      </file>
+      <file ID="alto_00303_1" MIMETYPE="text/xml" CHECKSUM="6aeaf746615581cc4d2b525d2dbf295f" CHECKSUMTYPE="MD5" SIZE="69778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00303_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0116" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="588" firstpage="583">
+              <parties id="b601-8" pgmap="601">John Heffernan, Appellee, v. Sylvanus B. Lloyd, Ap­pellant.</parties>
+              <decisiondate id="ApA" pgmap="602">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b602-5" pgmap="602">Lane &amp; Cooper and Edward C. Knotts, for appel­lant.</attorneys>
+              <attorneys id="b602-6" pgmap="602">Jett &amp; Kinder and Graham &amp; Graham, for appellee.</attorneys>
+              <summary id="b601-11" pgmap="601(20) 602(10)">Action in case for personal injuries. Appeal from the Circuit Court of Montgomery county; the Hon, Samuel L. Dwight, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A9sr" pgmap="602">Reversed and remanded.</disposition>
+              <headnotes id="b601-9" pgmap="601">1. Remittitur—when does not cure excessive verdict. A verdict clearly excessive will not always be cured by permitting a remit­titur.</headnotes>
+              <headnotes id="b601-10" pgmap="601">2. Evidence—when threats competent; when not. Evidence of threats made by one party to an altercation against the other are only competent when the party alleged to have made the threats makes some hostile demonstration prior to being attacked by the other party.</headnotes>
+              <opinion type="majority">
+                <author id="b602-7" pgmap="602">Mr. Justice Baume</author>
+                <p id="AP3" pgmap="602">delivered the opinion of the court.</p>
+                <p id="b602-8" pgmap="602">Appellee, John Heffernan, recovered a verdict and judgment against appellant, Sylvanus B. Lloyd, in the Circuit Court of Montgomery county for $2000 for damages for personal injuries, alleged to have been sustained as the result of an assault by appellant upon appellee with a spade.</p>
+                <p id="b602-9" pgmap="602(231) 603(86)">On September 3, 1907, and for some time prior thereto appellant was operating a bridle and tile fac­tory in the village of Farmersville and appellee was employed by appellant in shoveling clay from a pit into the hopper of a machine which ground and moulded it into tile, and was receiving for his services $25 a month and board and lodging in appellant’s family, such board and lodging being estimated to be worth $3.50 per week. In detailing his version of the altercation with appellant, appellee testified that be­tween nine and ten o’clock in the forenoon of Septem­ber 3, 1907, while he was at work in the pit shoveling clay into the hopper of the tile machine, appellant came there and charged him with having annoyed and quar­reled with the engineer and upon his denying the ac­cusation appellant said he had been so informed by some of the boys; that he reiterated his denial and said to appellant “The best thing you can do is to give me my time,” and that he then dropped the spade or struck it in the ground; that appellant picked up the spade and ordered him to get out and then struck him on the side with the blade of the spade breaking the wooden handle; that when appellant struck him he threw up his left hand to protect his head; that after the spade was broken and while appel­lant was holding a portion of the handle he again ordered him to get out or he would kill him; that he then got out of the pit and started to go to the house to get his clothes when appellant called him back and said “I let my temper get away with me—come back and go to work;” that he told appellant he didn’t want anything to do with him and only wanted his time.</p>
+                <p id="b603-5" pgmap="603">The testimony of appellee is substantially corrobor­ated by the witnesses Irving Clowe and Charles McCar­thy.</p>
+                <p id="b603-6" pgmap="603(258) 604(134)">The evidence tends to show that while the pain which appellee suffered immediately following the assault was comparatively trifling he then consulted a phy­sician who made an examination and discovered a slight red spot over the lateral aspect of the chest midway between the hip bone and the armpit and applied ad­hesive bandages from the breast-bone to the backbone and over the spot; that for three or four weeks there­after appellee suffered increasing pain accompanied by sinking spells and hemorrhages from the nose and mouth and was then taken to a hospital and sub­mitted to an operation for an injury to his spleen; that the operation disclosed that the spleen was ruptured on its anterior border and that there was considerable free blood in the abdominal cavity; that appellee was obliged to remain in the hospital eight weeks and a half and that after leaving the hospital he regained his strength very slowly and continued to suffer pain in his breast and stomach; that at the time of the trial of the case in January, 1908, about nine weeks after he was discharged from the hospital, he was very weak, had difficulty in breathing, was able to speak but lit­tle above a whisper, could not walk more than two blocks, was troubled with sleeplessness and was unable to do any work. Appellant testified that Peterson, his engineer, had complained to him of the treatment he had received from appellee; that he stepped down to where appellee was spading and said “I wish you would let Mr. Peterson alone, you are making a great deal of trouble with him and you must stop it; you do your work and let Mr. Peterson do his and you will get along better;” that after some further con­versation with appellee as to the cause of the trouble between the latter and Peterson, appellee set his spade in the dirt and he reached over and took it; that he told appellee if the latter could not work agreeably he would have to get out and that he raised the spade and ordered appellee to get out; that appellee raised up his left arm in a striking attitude and he gave him a bat on the side; that appellee had made threats against him which had been communicated to him by Peterson.</p>
+                <p id="b604-5" pgmap="604">Thompson, a witness called on behalf of appellant, testified that appellee had assumed an attitude as if to strike appellant just before the later hit appellee with the spade.</p>
+                <p id="b604-6" pgmap="604(187) 605(164)">It is insisted on behalf of appellant that the ver­dict is against the manifest weight of the evidence upon three issues of fact involved in the case; first, whether appellant struck appellee in self-defense using no more force than was reasonably necessary; second, whether appellee’s spleen was ruptured by the blow; and third, in the amount of damages awarded to ap­pellee. We are persuaded that the evidence does not warrant a finding that appellant struck appellee in self-defense. Much was made upon the trial of certain threats alleged to have been made by appellee against appellant, which, it is claimed, were communicated to appellant shortly before his altercation with appellee. The evidence does not disclose that such threats, if made and communicated to appellant, had any influence on the latter when he struck appellee. There is not a scintilla of evidence in the record tending to show that either of the parties made any reference what­ever to such alleged threats upon the occasion in ques­tion. It is not claimed that appellee then said anything indicative of a purpose on his'part to assault appellant, and it is inconceivable that if the threats alleged to have been made prior to that time by appellee against appellant then influenced in any degree the conduct of the latter in striking appellee, appellant would have maintained a sphinxlike silence with reference thereto. That appellee’s spleen was in fact ruptured by the blow with the spade is the only conclusion reasonably de­ducible from the evidence in the case. The only evi­dence offered on behalf of appellant which tends to support his contention that appellee’s spleen was not ruptured by the blow is the opinion of two physicians who testified as experts that if appellee’s spleen had been ruptured by the blow death would have ensued al­most immediately, and that the theory of appellee was contradicted by their experience and the literature of the profession upon the subject. That appellee’s spleen was ruptured and that that condition was produced by a traumatic injury does not, under the evidence, admit a doubt.</p>
+                <p id="b605-5" pgmap="605">The evidence offered on behalf of appellee excludes any hypothesis upon which a finding might be predi­cated that his spleen was ruptured by some cause other than the blow inflicted by appellant.</p>
+                <p id="b605-6" pgmap="605">The amount of damages awarded to appellee we re­gard as excessive under the evidence, even if it be con­ceded that the jury were warranted in assessing pun­itive damages. If there was evidence in the record tending to show that appellee’s physical condition at the time of the trial was, or was likely to be, perma­nent, or would so continue indefinitely, the verdict and judgment for $2000 might, with propriety, be sustained, but in the absence of any such evidence, it is clearly excessive and in this case, even if the record was other­wise free from error, we should hesitate to attempt a correction in that regard by requiring a remittitur.</p>
+                <p id="b605-7" pgmap="605(38) 606(230)">It is urged that the court erred in not permitting ap­pellant to state what threats against him were com­municated to him as having been made by appellee a short time before the difficulty. Evidence of threats made by one party to an altercation against the other are only competent when the party alleged to have made the threats makes some hostile demonstration prior to being attacked by the other party. Cummins v. Crawford, 88 Ill. 312; Forbes v. Snyder, 94 Ill. 374. The only evidence in the case which offered any pre­tense to appellant to prove that appellee had threat­ened him with personal violence was the evidence of ap­pellant and the witness Thompson tending to show that appellee assumed an attitude as if to strike appellant with his fist before appellant struck appellee with the spade. The court permitted appellant to testify that al­leged threats against him by appellee had been communi­cated to him prior to the altercation, but refused to permit appellant to state the character of the alleged threats which had been communicated to him. The character of the alleged threats was fully shown by the testimony of other witnesses, but if evidence of alleged threats was competent it was proper for appellant to state what threats had been communicated to him. Where evidence of alleged threats is competent the character of such threats as communicated to the party acting with reference thereto should be permitted to be shown for the purpose of enabling the jury to deter­mine the conduct of the party as influenced by such threats.</p>
+                <p id="b606-5" pgmap="606">Appellant’s criticism on the rulings of the court upon the instructions are such as can be readily ob­viated upon another trial of the case and do not re­quire consideration in detail.</p>
+                <p id="b606-6" pgmap="606">The judgment of the Circuit Court will be reversed and the cause remanded.</p>
+                <p id="b606-7" pgmap="606">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="601" ORDERLABEL="583" TYPE="page">
+        <fptr FILEID="tiff_00301_0"/>
+        <fptr FILEID="jp2_00301_0"/>
+        <fptr FILEID="alto_00301_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.3" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_601.2" BETYPE="IDREF" FILEID="alto_00301_0"/>
+              <area BEGIN="BL_601.4" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="602" ORDERLABEL="584" TYPE="page">
+        <fptr FILEID="tiff_00301_1"/>
+        <fptr FILEID="jp2_00301_1"/>
+        <fptr FILEID="alto_00301_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.2" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.3" BETYPE="IDREF" FILEID="alto_00301_1"/>
+              <area BEGIN="BL_602.4" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="603" ORDERLABEL="585" TYPE="page">
+        <fptr FILEID="tiff_00302_0"/>
+        <fptr FILEID="jp2_00302_0"/>
+        <fptr FILEID="alto_00302_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.3" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_603.2" BETYPE="IDREF" FILEID="alto_00302_0"/>
+              <area BEGIN="BL_603.4" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="604" ORDERLABEL="586" TYPE="page">
+        <fptr FILEID="tiff_00302_1"/>
+        <fptr FILEID="jp2_00302_1"/>
+        <fptr FILEID="alto_00302_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.2" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_604.3" BETYPE="IDREF" FILEID="alto_00302_1"/>
+              <area BEGIN="BL_604.4" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="605" ORDERLABEL="587" TYPE="page">
+        <fptr FILEID="tiff_00303_0"/>
+        <fptr FILEID="jp2_00303_0"/>
+        <fptr FILEID="alto_00303_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.3" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.2" BETYPE="IDREF" FILEID="alto_00303_0"/>
+              <area BEGIN="BL_605.4" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="606" ORDERLABEL="588" TYPE="page">
+        <fptr FILEID="tiff_00303_1"/>
+        <fptr FILEID="jp2_00303_1"/>
+        <fptr FILEID="alto_00303_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_606.2" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_606.3" BETYPE="IDREF" FILEID="alto_00303_1"/>
+              <area BEGIN="BL_606.4" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.5" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.6" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.7" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.7" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            <area BEGIN="BL_606.1" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.11" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_602.12" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.6" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.5" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.6" BETYPE="IDREF" FILEID="alto_00302_0"/>
+            <area BEGIN="BL_604.1" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-9" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.9" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-8" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.8" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.6" BETYPE="IDREF" FILEID="alto_00302_1"/>
+            <area BEGIN="BL_605.1" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b604-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_604.5" BETYPE="IDREF" FILEID="alto_00302_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-8" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.13" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-9" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.14" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_603.1" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.8" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.9" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.10" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b603-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_603.5" BETYPE="IDREF" FILEID="alto_00302_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-11" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.11" BETYPE="IDREF" FILEID="alto_00301_0"/>
+            <area BEGIN="BL_602.1" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b601-10" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_601.10" BETYPE="IDREF" FILEID="alto_00301_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9sr" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.5" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_602.6" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApA" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.7" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

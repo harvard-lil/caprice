@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0059" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Gibson v. School Directors of District No. 72">Lulu Gibson, Appellee, v. School Directors of District No. 72, Appellants</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 398</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00208_1" MIMETYPE="image/tiff" CHECKSUM="28682333ec905a1914cc7342818c4345" CHECKSUMTYPE="MD5" SIZE="27120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_1.tif"/>
+      </file>
+      <file ID="tiff_00209_0" MIMETYPE="image/tiff" CHECKSUM="af80c61ddab939c992cf5ce90b236a24" CHECKSUMTYPE="MD5" SIZE="36034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00209_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00208_1" MIMETYPE="image/jp2" CHECKSUM="3aad2ef5859841149aa3c448944e5a6a" CHECKSUMTYPE="MD5" SIZE="2233981">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00208_1.jp2"/>
+      </file>
+      <file ID="jp2_00209_0" MIMETYPE="image/jp2" CHECKSUM="ba7d24b1776db9474b61babbd4068703" CHECKSUMTYPE="MD5" SIZE="2331843">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00209_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00208_1" MIMETYPE="text/xml" CHECKSUM="5f61128d9f7d400d93fb6965322e75ba" CHECKSUMTYPE="MD5" SIZE="49493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00208_1.xml"/>
+      </file>
+      <file ID="alto_00209_0" MIMETYPE="text/xml" CHECKSUM="c42de14841e420183cf5640a631f1c0b" CHECKSUMTYPE="MD5" SIZE="63544">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00209_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0059" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="399" firstpage="398">
+              <parties id="b416-14" pgmap="416">Lulu Gibson, Appellee, v. School Directors of District No. 72, Appellants.</parties>
+              <decisiondate id="AEj" pgmap="417">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b417-5" pgmap="417">John Fuller, for appellants.</attorneys>
+              <attorneys id="b417-6" pgmap="417">Ingham &amp; Ingham, for appellee.</attorneys>
+              <summary id="b417-4" pgmap="417">Action commenced before justice of the peace. Appeal from the Circuit Court of DeWitt county; the Hon. William G. Cochran, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AU5" pgmap="417">Affirmed.</disposition>
+              <headnotes id="b416-15" pgmap="416">1. Appeals and errors—when sufficiency of evidence not open to review. In the absence of the abstract showing an exception to the finding of the court, the question of the sufficiency of the evid­ence to sustain such finding is not open to review.</headnotes>
+              <headnotes id="b417-3" pgmap="417">2. Appeals and errors—when no questions of law presented for review. If a case has been tried by the court without a jury and no propositions of law have been presented, no questions of law are saved for review.</headnotes>
+              <opinion type="majority">
+                <author id="b417-7" pgmap="417">Per Curiam.</author>
+                <p id="A6H" pgmap="417">This action was -brought by appellee against appellants to recover for services as teacher in a district school. The case was originally brought before a justice of the peace and upon appeal to the circuit court, was tried by the judge without a jury. Judgment was rendered in favor of the plaintiff for $66.80, from which the defendants .appeal!</p>
+                <p id="b417-8" pgmap="417">It does not appear from the abstract of the record filed by appellants that any exceptions were taken to the findings of the court upon the issues in favor of ap­pellee. The sufficiency of the evidence to support such findings cannot therefore be inquired into by this court. The judgment appears to be regular and in accordance with the finding. No propositions having been presented to the court for its action, no questions of law are presented for review. ■</p>
+                <p id="b417-9" pgmap="417">The judgment of the circuit court is therefore af­firmed.</p>
+                <p id="b417-10" pgmap="417">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="416" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00208_1"/>
+        <fptr FILEID="jp2_00208_1"/>
+        <fptr FILEID="alto_00208_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.17" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_416.1" BETYPE="IDREF" FILEID="alto_00208_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="417" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00209_0"/>
+        <fptr FILEID="jp2_00209_0"/>
+        <fptr FILEID="alto_00209_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_417.2" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_417.1" BETYPE="IDREF" FILEID="alto_00209_0"/>
+              <area BEGIN="BL_417.3" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6H" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.11" BETYPE="IDREF" FILEID="alto_00209_0"/>
+            <area BEGIN="BL_417.12" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-15" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.16" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b416-14" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_416.15" BETYPE="IDREF" FILEID="alto_00208_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEj" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.7" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-3" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.4" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-8" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.13" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-9" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.14" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-4" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.5" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.8" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-6" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.9" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-7" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.10" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b417-10" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.15" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU5" BETYPE="IDREF" FILEID="casebody_0059"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_417.6" BETYPE="IDREF" FILEID="alto_00209_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

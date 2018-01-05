@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0014" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Wirsching">The People of the State of Illinois, Defendant in Error, v. E. A. Wirsching, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,210</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 121</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="8d5085f727ab5ec853dc3a6bc5ab41aa" CHECKSUMTYPE="MD5" SIZE="47940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="d7fc4b032185cace2cc57657071060b1" CHECKSUMTYPE="MD5" SIZE="45742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="5c17ccaa179c3b9fd5c7c903f3b00036" CHECKSUMTYPE="MD5" SIZE="55472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="66aa6cc4119b1b1653fed1de04c20f67" CHECKSUMTYPE="MD5" SIZE="52156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="76c848c5119358f407119eb51962b8ba" CHECKSUMTYPE="MD5" SIZE="54890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="993a71a236db25d44087cffdf62ae598" CHECKSUMTYPE="MD5" SIZE="53742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00072_1.tif"/>
+      </file>
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="2ecaf9020f06b5fdd8739bd1634c267f" CHECKSUMTYPE="MD5" SIZE="43406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="6dd1b7982f2bc8ce0d746a1f145f4363" CHECKSUMTYPE="MD5" SIZE="2405887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="42793e7bd3a007970607e9e61c1234ec" CHECKSUMTYPE="MD5" SIZE="2346536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="36a5eec660fdccd0df7458d81b45b816" CHECKSUMTYPE="MD5" SIZE="2472968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="999ff212259b4f1cbbc86d2ce101aa42" CHECKSUMTYPE="MD5" SIZE="2433950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="e86c9fd9c5030bbb71e9215941e837d3" CHECKSUMTYPE="MD5" SIZE="2486924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="9361de8e61d16571848501c2586f4601" CHECKSUMTYPE="MD5" SIZE="2414116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00072_1.jp2"/>
+      </file>
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="1ac6dd2948611aa7eb61dab09c8a8d96" CHECKSUMTYPE="MD5" SIZE="2368327">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="b804936ff9126e1cfeee9cc37cdea2fe" CHECKSUMTYPE="MD5" SIZE="86744">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="f7cae6a124fd6b4946498fcc3dd2c9d4" CHECKSUMTYPE="MD5" SIZE="83395">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="903ff66641096378b590cd0bba34e0d7" CHECKSUMTYPE="MD5" SIZE="87528">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="2a35e5a3e52c2d20452cb0b8be74e010" CHECKSUMTYPE="MD5" SIZE="83841">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="4c41b16c2c20aeb8bd54ba6d1b8e9ac5" CHECKSUMTYPE="MD5" SIZE="89418">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="8f1bf9b6c14833459d42781a7bea3174" CHECKSUMTYPE="MD5" SIZE="89381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00072_1.xml"/>
+      </file>
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="718ced67728789ef887bdb1185520eab" CHECKSUMTYPE="MD5" SIZE="76701">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00073_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="127" firstpage="121">
+              <docketnumber id="b139-8" pgmap="139">Gen. No. 14,210.</docketnumber>
+              <parties id="b139-7" pgmap="139">The People of the State of Illinois, Defendant in Error, v. E. A. Wirsching, Plaintiff in Error.</parties>
+              <decisiondate id="AnF" pgmap="140">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b140-6" pgmap="140">Edward H. Morris, for plaintiff in error.</attorneys>
+              <attorneys id="b140-7" pgmap="140">John J. Healy, for defendants in error; Edward S. Day, of counsel.</attorneys>
+              <summary id="b140-5" pgmap="140">Criminal prosecution for keeping bucket shop. Error to the Criminal Court of Cook county; the Hon. Fablin Q. Ball, Judge, presiding. Heard in the Branch Appellate Court October term, 1907.</summary>
+              <disposition id="Ahg" pgmap="140">Affirmed.</disposition>
+              <headnotes id="b139-9" pgmap="139">1. Bucket shops—what evidence competent in prosecution for keeping. It is competent to permit a witness to state that the place in question in the prosecution was a “bucket shop.”</headnotes>
+              <headnotes id="b139-10" pgmap="139">2. Bucket shops—when refusal of instruction not erroneous. Held, in this case, that it was not error to refuse an instruction to the effect that proof that the defendant had conducted a bucket shop elsewhere than at the building named in the indictment would not “authorize or justify a conviction.”</headnotes>
+              <headnotes id="b139-11" pgmap="139">3. Bucket shops—what not essential to conviction for keeping. In order to sustain a conviction for the keeping of a bucket shop wherein is conducted or permitted “the pretended buying or selling of the shares of stock or bonds of any corporation” etc., it is not necessary to show that the transactions of “pretended” buying and selling be of the shares of an existing corporation.</headnotes>
+              <headnotes id="b139-12" pgmap="139">4. Instructions—when not error to refuse. When a jury has been -instructed in respect to a particular proposition either in affirmative or negative form that is sufficient and it is not error to refuse another instruction upon the same proposition in the con­verse form.</headnotes>
+              <headnotes id="b139-13" pgmap="139(9) 140(49)">5. Instructions—when not error to refuse, upon credibility of witnesses. An instruction upon this subject though stereotyped in form and correct in principle may be refused without the commis­sion of error if it had not been so drafted as to fit the facts of the particular case and as presented has hut slight applicability to the cause.</headnotes>
+              <opinion type="majority">
+                <author id="b140-8" pgmap="140">Mr. Justice Chytraus</author>
+                <p id="ANj" pgmap="140">delivered the opinion of the court.</p>
+                <p id="b140-9" pgmap="140">Wirsching, plaintiff in error, was indicted for keep­ing a bucket shop at 196 LaSalle street, in Chicago. The indictment contains two counts. One count des­ignates his place as a bucket shop and the other as “a certain office” in the building described. In both counts it is alleged that in the place he kept there was conducted and permitted the pretended buying and selling of shares of stock of certain corporations, pro­duce, etc., on margins and otherwise, without any in­tention of actually receiving or delivering the prop­erty dealt in or of paying therefor. He entered a plea of not guilty, was tried by a jury and convicted. A motion for a new trial was overruled and a fine of $300 imposed in the entry of judgment upon the ver­dict. Wirsching sued out this writ of error, and the questions now arise: Did Wirsching keep a place at 196 LaSalle street in Chicago wherein was conducted or permitted such pretended buying or selling, and was there any error in the trial in the Criminal Court?</p>
+                <p id="b140-10" pgmap="140(36) 141(21)">The statute under which the indictment was re­turned provides, among other things, that any one who shall communicate, receive, exhibit or display, in any manner, any such offer to so buy or sell, or any statements or quotations of prices, with a view to any such transaction, shall he deemed an accessory and punished as principal.</p>
+                <p id="b141-4" pgmap="141(337) 142(147)">It appears from the evidence that on May 4, 1906, at 196 LaSalle street in Chicago, there was a large room divided by a partition into a small room, which was a private office, and a larger room which was a customers’ room. In the customers’ room there was a blackboard, upon which were marked or posted quo­tations of various stocks. In the private office there were a number of clerks and the records, introduced in evidence, of the transactions made were kept there. There was a stock-ticker in the customers’ room and in the private office there was a telegraph instrument. The money of customers was taken in in the private office. The instrument had direct connection with New York but the ticker did not, and therefore the quota­tions came in slower on the ticker than on the instru­ment and were from two to five minutes later. The witness John H. Doyle, who was a telegraph operator, watched the quotations at the time in question. The witness Woolridge testified that the place was a “bucket shop”. We find the dictionary defines a bucket shop to be “an establishment conducted universally for the transaction of a stock exchange business, or a business of a similar character, but really for the reg­istration of bets or wagers, usually for small amounts, on the rise or fall of the prices of stocks, grain, oil, etc., there being no transfer or delivery of the stocks or com­modities nominally dealt in”. The keeping of a place where this is done is precisely what the statute pro­hibits. The contention that the trial court erred in permitting the witness Woolridge, over objection, to state that the place in question was a “bucket shop” is totally without merit. Had the witness replied that the place in question was a grocery store the state­ment would have been no less objectionable, yet it would have been properly received. Neither answer can be regarded as a usurpation of “the functions of both court and jury”, as contended. The truth or falsity of the answer can, of course, be inquired into by cross-examination. True, both terms “bucket shop” and “grocery store” contain inferences from certain premises and are, therefore, in a sense con­clusions ; but they are conclusions of such common and ordinary use in our language that for the courts to prohibit their use by witnesses and to require that they be analyzed into their primary parts would be tech­nical and finical indeed. For the courts of justice not to regard such answers as competent because conclu­sions rather than primary facts, would subject them to the just criticism if not the ridicule and contempt of the ordinary layman. We recognize the authori­ties cited by counsel that the opinions of witnesses must, ordinarily, not be received, but we regard them as beside the present question.</p>
+                <p id="b142-5" pgmap="142">No evidence was presented on behalf of the defense, and there is no error assigned that the verdict is con­trary to the evidence.</p>
+                <p id="b142-6" pgmap="142(169) 143(91)">As a particular instance of a-transaction in the place in violation of the statute, the prosecution showed a transaction there by Wirsching with one John H. Doyle. Doyle testified that on May 4, 1906," he went to Wirsching’s place at about noon. He gave Wirsching $20 with an order to sell ten shares of Philadelphia &amp; Reading Railroad stock at a certain figure. This money and order Doyle says Wirsching took and he sent the order by telegraph to the bucket shop of Sellers Commission Company in St. Louis. The witness had been in St. Louis and knew Sellers Commission Company was a bucket shop. The wit­ness also testified he owned no Philadelphia &amp; Reading Railroad stock when he gave the order and the money to Wirsching, presented none and was asked for none. He also said: “No delivery was to be made on my part”. “No delivery was expected to be made on my part”. He received from Wirsching a memorandum of the transaction in his handwriting, and Wirsching said he had sold at 118. The witness purchased no stock, as he says, so there was not the ordinary transaction with a stock commission mer­chant of a sale and purchase and thus a closing of a legitimate transaction. The witness received back no money on the transaction. The $20 paid over to Wirsching represented what, in a legitimate trans­action, would have been the “margin” advanced to insure the delivery by the seller of the stock sold, had any delivery of the stock dealt in been intended.</p>
+                <p id="b143-4" pgmap="143">Complaint is made that by the instructions the jurors were not sufficiently cautioned as to the necessity of showing the offense to have been committed at the place alleged. The intimation is that the jury may have been confused and based a conviction on the fact that Wirsching was connected with the St. Louis bucket shop, even though the jurors were not convinced that Wirsching kept the place at 196 La Salle street. Error, in this connection, is predicated upon the refusal of the court to give an instruction that proof that Wirsching conducted a bucket shop elsewhere than at the building number 196 La Salle street would not “authorize or justify a conviction in this case”. The case of O’Leary v. People, 88 Ill. App. 60, 68, cited upon this proposi­tion, is not in point. The question in that case was one of variance between the charge and the proof. The charge was that the offense was committed in a certain building known as “Washington Park Club”, but the evidence showed that if committed at all it was com­mitted in a booth under a roof separated from the building by an open space. In the case at bar there is absolutely no controversy in the evidence but what the transaction upon which the charge is predicated took place at 196 La Salle street in Chicago.</p>
+                <p id="b143-5" pgmap="143(46) 144(22)">We find that, under the circumstances here, there was no material error in the refusal to give this in­struction and, besides instructions given, with sufficient clearness, require the jury to find Wirsching guilty only if he kept the place at 196 La Salle street. No confusion, in this respect, could arise by reason of the evidence in the case as to the bucket shop in St. Louis.</p>
+                <p id="b144-5" pgmap="144">Complaint is also made “that no instruction was given to the jury in which they were told that the bur­den of proof was on the People, or that the defendant, Wirsching, need not prove his innocence”, and, there­fore, it was error to refuse an instruction offered by the defendant embodying those propositions. To have instructed the jury that the burden of proof was on the People, simply, would have been error, for in criminal cases the rule is that the burden upon the People is to prove the defendant guilty beyond a reasonable doubt. Repeatedly, more often than necessary, the jury were, in effect, instructed that the evidence must show the defendant to be guilty beyond a reasonable doubt be­fore they could return a verdict of guilty. It was there­fore unnecessáry to instruct them that he need not prove his innocence. It is not necessary to instruct a jury both affirmatively and negatively upon what is substantially the same proposition of law.</p>
+                <p id="b144-6" pgmap="144">Counsel for Wirsching offered an instruction on the subject of credibility of witnesses, which was refused, and now complaint is made of the refusal. There was no conflict or contradiction in the testimony of wit­nesses so, in this particular case, this long instruction would have had but slight applicability. The instruc­tion is a stereotyped one. Counsel did not even take the trouble of fitting it to the facts of the case. Indeed the very witnesses to whose testimony counsel seeks to have applied certain rules of scrutiny he himself im­pliedly vouches for as credible when, in the instruction he speaks of " other credible evidence”. Under the circumstances and as offered, we find no error in the refusal of that instruction. To have given it would have tended to confuse rather than to have clarified matters for the jury. As a statement of the law to be applied to the facts in this case it was not accurate.</p>
+                <p id="b144-7" pgmap="144(15) 145(109)">Another proposition advanced is that the judgment of conviction should be reversed because under the statute, which imposes a penalty for keeping or causing to he kept any bucket shop, store or other place wherein is conducted or permitted “the pretended buying or selling of the shares of stocks or bonds of any corpora­tion, etc.”, it is necessary to show that the transactions of “pretended” buying and selling be of the shares of existing corporations. This proposition is covered and disposed of adversely to plaintiff in error by what has been said with reference to the testimony as to keeping a “bucket shop”. That testimony is sufficient to sustain the verdict. Evidence of incorporation of the Philadelphia &amp; Reading Railroad was therefore unnecessary.</p>
+                <p id="b145-4" pgmap="145">We find no reversible error in the record. The judg­ment of the Criminal Court is affirmed.</p>
+                <p id="b145-5" pgmap="145">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="139" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.2" BETYPE="IDREF" FILEID="alto_00070_0"/>
+              <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.3" BETYPE="IDREF" FILEID="alto_00070_1"/>
+              <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+              <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.3" BETYPE="IDREF" FILEID="alto_00071_1"/>
+              <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.2" BETYPE="IDREF" FILEID="alto_00072_0"/>
+              <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.3" BETYPE="IDREF" FILEID="alto_00072_1"/>
+              <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="145" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.2" BETYPE="IDREF" FILEID="alto_00073_0"/>
+              <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnF" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.14" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_141.1" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANj" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.11" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_140.12" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.13" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.10" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.9" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.8" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahg" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.8" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.10" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.9" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.12" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.11" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-13" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.14" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.13" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.5" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.6" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.7" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            <area BEGIN="BL_145.1" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.6" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

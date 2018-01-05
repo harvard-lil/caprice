@@ -1,0 +1,61 @@
+#sidemenu {
+	background-color: lightgrey;
+}
+
+.chatmessage {
+	min-height: 50px;
+}
+
+#chatbox {
+	height: 100px;
+	overflow: scroll;
+	display: block;
+}
+
+#chat_button.active {
+	border: 0;
+	background: inherit;
+}
+
+#chat_button.inactive {
+	border: 0;
+	background: inherit;
+}
+
+#chat_button {
+	border: 0;
+	background: inherit;
+	color: #B0B0B0;
+}
+
+#bottom_chatbox {
+	position: fixed;
+	width: 100%;
+	background-color: rgba(127, 127, 127, 0.5);;
+	z-index: 1000;
+}
+/*
+p.casebody {
+	padding-left: 5%;
+	padding-right: 10%;
+	padding-top: 5%;
+	display: block;
+}
+*/
+
+section.case_page {
+	border: thin solid #CCC;
+}
+
+#case_display {
+	display: none;
+}
+
+#casemetadata {
+	margin: auto;
+	width: 65%;
+}
+
+#citation_list {
+	margin-top: 0;
+}

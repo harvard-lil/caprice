@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0029" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Granquist v. Western Tube Co.">Nels Granquist, Appellee, v. Western Tube Company, Appellant</name>
+          <docketnumber>Gen. No. 4,997</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 230</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="f6e536d6960ccf73fdc23991436e792a" CHECKSUMTYPE="MD5" SIZE="45078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="8a85b1d6a95320fc13802ea09c7705c5" CHECKSUMTYPE="MD5" SIZE="44430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="d02a2ffb0b0429793c401d2dafbc345a" CHECKSUMTYPE="MD5" SIZE="55660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="f314a9dd18235329076ab182905db337" CHECKSUMTYPE="MD5" SIZE="54264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="95efa8d9d148a1b5b9779556a583451b" CHECKSUMTYPE="MD5" SIZE="52886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="d30e8960d7b6ea51d5962d2ff10aabea" CHECKSUMTYPE="MD5" SIZE="55808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="6d99f2796778f242b4cc2154df243a96" CHECKSUMTYPE="MD5" SIZE="52486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00126_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="d8c79a58da0493c94296c053e7b78122" CHECKSUMTYPE="MD5" SIZE="2304936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00123_1.jp2"/>
+      </file>
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="e500255ba70a51f1361ac33f25b86cc7" CHECKSUMTYPE="MD5" SIZE="2351585">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="18433b4934b0de00dd2de7c39e85fe43" CHECKSUMTYPE="MD5" SIZE="2355421">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="64660f2aaa3873e6aecfd609a4d15b28" CHECKSUMTYPE="MD5" SIZE="2406909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="2f4ef8bd74da86d2ecb5735008ba2c6d" CHECKSUMTYPE="MD5" SIZE="2380292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="a30e0028c5bcdf68194223d252da2522" CHECKSUMTYPE="MD5" SIZE="2414464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="1ab3bb7b7e4a0f25a153456ef6643b56" CHECKSUMTYPE="MD5" SIZE="2365452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00126_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="2b6243eac658c33fa46bef4ece2df908" CHECKSUMTYPE="MD5" SIZE="80484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00123_1.xml"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="5cb16059bd61a37627addac0d27a2eff" CHECKSUMTYPE="MD5" SIZE="80884">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="5cf767e7fb0b7c7e343e84e3bebd6216" CHECKSUMTYPE="MD5" SIZE="91110">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="21d45cc3578d59bb48afd3b81ed2c4ec" CHECKSUMTYPE="MD5" SIZE="93169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="8194ba192f46da7fa251ccd1e1a6b098" CHECKSUMTYPE="MD5" SIZE="96302">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="7350edea2c8522706e1016b8932a4040" CHECKSUMTYPE="MD5" SIZE="92433">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="4a749497301829bc199fedb5d8c99dc6" CHECKSUMTYPE="MD5" SIZE="89818">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00126_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0029" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="236" firstpage="230">
+              <docketnumber pgmap="246" id="b246-9">Gen. No. 4,997.</docketnumber>
+              <parties pgmap="246" id="b246-7">Nels Granquist, Appellee, v. Western Tube Company, Appellant.</parties>
+              <decisiondate pgmap="247" id="AVz">Opin­ion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="247" id="ACl">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="247" id="b247-9">Knapp, Haynie &amp; Campbell, Charles K. Ladd and Mark Breeden, Jr., for appellant.</attorneys>
+              <attorneys pgmap="247" id="b247-10">Charles E. Sturtz and Wm. C. Ewan, for appel­lee.</attorneys>
+              <summary pgmap="247" id="b247-8">Mechanic’s lien. Appeal from the Circuit Court of Henry county; the Hon. Emery C. Graves, Judge, presiding.</summary>
+              <disposition pgmap="247" id="AIu">Affirmed in part, reversed in part.</disposition>
+              <headnotes pgmap="246" id="b246-10">1. Mechanic’s liens—effect of claiming upon property not chargeable. The right to a lien upon property chargeable will not be defeated because a claim for lien has been made against more land than is subject thereto if such claim has not been fraudu­lently interposed and has not misled or injured any one.</headnotes>
+              <headnotes pgmap="246" id="b246-11">2. Mechanic’s liens—when payments to contractor not lawful. As against a subcontractor, payments made to the contractor by the owner without having obtained the statutory statement, are unlawful and will not defeat the unpaid claim of a subcontractor.</headnotes>
+              <headnotes pgmap="246" id="b246-12">3. Mechanic’s liens—award of solicitor’s fees improper. The statute which authorizes the allowance of solicitor’s fees to a mechanic’s lien claimant is unconstitutional. Manowsky v. Step­han, 233 Ill. 409, followed.</headnotes>
+              <headnotes pgmap="246(9) 247(29)" id="b246-13">4. Mechanic’s liens—effect of failure to make parties. The failue of a lien claimant to join a necessary party will not defeat the lien claimant where the objection is not urged by the defend­ant in apt time.</headnotes>
+              <headnotes pgmap="247" id="b247-5">5. Mechanic’s liens—when suit brought in apt time. Held, that under the facts of this case the action to enforce the lien claim was brought in apt time.</headnotes>
+              <headnotes pgmap="247" id="b247-6">6. Pasties—when objection of non-joinder comes too late. An objection of the non-joinder of parties in interest comes too late when first raised on appeal.</headnotes>
+              <headnotes pgmap="247" id="b247-7">7. Decree—to whom award of solicitor’s fees should be made. Where the statute provides that solicitor’s fees may, in a partic­ular instance, be awarded to a party, it is improper to make the award in favor of the solicitor of such party.</headnotes>
+              <opinion type="majority">
+                <author pgmap="247" id="b247-11">Mr. Justice Willis</author>
+                <p pgmap="247" id="AlN">delivered the opinion of the court.</p>
+                <p pgmap="247" id="b247-12">This is an appeal from the Circuit Court of Henry county to review a decree of that court allowing Neis Granquist, appellee, a subcontractor, a mechanic’s lien on property owned by appellant, the Western Tube Company.</p>
+                <p pgmap="247(83) 248(373) 249(272)" id="b247-13">On July 17, 1906, Granquist filed a petition in said court against the Western Tube Company, and Freder­ick H. Mathews and Charles F. McMullen, co-partners doing business as the Mathews Construction Company, to establish and foreclose a subcontractor’s mechanic’s lien. The petition alleged that the Mathews Construc­tion Company and the Western Tube Company entered into a written agreement on June 28, 1905, for the construction of an office building according to certain plans and specifications to be completed on or before December 1, 1905, for the sum of $16,400 with a pro­vision for $5 liquidated damages for each day there­after the work was not completed. The contract which was attached to the petition did not describe the prem­ises where the building was to be located, but called it an office building or extension according to certain plans, specifications and drawings, and referred to a brick wall at the south of the old building. The peti­tion further alleged that on June 29,1905, the Mathews Construction Company entered into an agreement with appellee, by the terms of which appellee was to fur­nish the necessary material and labor for all the brick and mason work necessary for the construction of said office building for $7750; and that in pursuance of said agreement said office building was built on lots 1 and 2 in block 13, of the original town, now city of Kewanee; and that the petitioner furnished the mate­rial and labor for all the brick and mason work re­quired for the construction of said office building in accordance with the plans and specifications, and fully completed his work; and that the time for the comple­tion of said building was by the consent of appellant and the Construction Company extended from Decem­ber 1, 1905, to June 1, 1906, and that he completed his work on May 18, 1906, which was accepted by the Con­struction Company and appellant; that there was then due him for said work and material $1194.74; and that on July 21, 1906, within sixty days after the com­pletion of his work, he caused a written notice of his claim to be served upon appellant, and that $166.11 of the amount so due was for extra work and materials furnished at the request of the Construction Company and appellant, and that there was due him at the time of filing this petition $760.08. The petition stated that Porter and Trask claimed to have a lien on said prem­ises, but that it was subject to the rights of appellee. Appellant answered the petition, and admitted that it had entered into a contract with the Mathews Construc­tion Company, substantially as stated in the petition, and that appellee entered into a contract with the Mathews Construction Company as stated in the peti­tion but denied that said building was completed within the time specified in the contract, or completed at all, or accepted, or that appellee furnished extra materials for said building for which it was to pay any sum, and denied that any sum was due appellee on account of said contracts, or that appellee had a right to a claim or lien on said premises on account of said work. No­vember 24, 1906, appellee filed a general replication to said answer. The petition was taken as confessed against Mathews and McMullen, and the cause was re­ferred to the master to take the proofs and report the same into court with his conclusions. The master heard the proofs and reported that appellee was en­titled to a lien on lots one and two. To the master’s report, appellant filed a number of objections, one of which was that it appeared from the evidence that no part of the building was on lot one, but that it was on lots two and three. This objection was held to be good and the master amended his report and found that the lien should be allowed on lot two, and overruled ap­pellant’s other objections. There was a hearing before the court upon the objections to the master’s report. The court approved the finding of the master and entered a decree granting appellee a lien for $760.08 on lot two and $76 to appellee’s counsel as attorney’s fees. From this decree the Western Tube Company ap­pealed.</p>
+                <p pgmap="249" id="b249-5">Appellant argues first, that the decree was erroneous because it found that a lien should be allowed on lot two, whereas the petition alleged that the building was erected on lots one and two, on the ground that appel­lee was bound by the allegation in the petition and that to entitle him to recover, he must prove the whole alle­gation; and that appellee failed in this because the evidence did not show that the building was erected on lots one and two, but did show that it was erected on part of lot two, on the alley between lots two and three, and on a part of lot three.</p>
+                <p pgmap="250" id="b250-4">Counsel for appellant contends that a subcontractor can have a lien the same as the original contractor under section one of the Mechanic’s Lien Act of 1903, which provides that a lien may be had upon the whole of such lot or tract of land and upon the adjoining or adjacent lots or tracts of land of such owner, consti­tuting the same premises and occupied or used in con­nection with such lot or tract of land as a place of resi­dence or business; and in case the contract relates to two or more buildings or two or more lots or tracts of land, upon all of such lots and tracts of land and im­provements thereon for the amount due with the in­terest thereon, and that this means a lien must be taken upon all the premises occupied by the building or none.</p>
+                <p pgmap="250" id="b250-5">We cannot agree with counsel on this proposition. In Sorg v. Pfalzgraf, 113 Ill. App. 569, a suit to enforce a mechanic’s lien, the bill located the house on lots nine and ten. On the trial it developed that it stood on lots eight and nine, and not on lot ten. It was then too late to enforce a lien against lot 8. The court ordered a decree against lot 9 only. We there said, the owner cannot be permitted to defeat the lien upon his land which the law has given the builder, simply because the builder might have obtained a lien upon more "of the owner’s land. The fact that a lien is claimed on more land than is subject thereto does not defeat the lien, if it does not mislead or injure anyone, and if it is not done fraudu­lently. White Lake Lumber Co. v. Russell, 22 Nebr. 126; Sorg v. Pfalzgraf, supra.</p>
+                <p pgmap="250(93) 251(75)" id="b250-6">Appellant urges that Porter and Trask should have been made parties defendant, which was not done, al­though the petition stated that they had an interest in the premises involved. The statement in the petition was notice to appellant that Porter &amp; Trask might be interested in the disbursement of the fund. If they were necessary parties appellant had adequate notice of such fact, and should have raised the question of non-joinder in the court below, or, if, as appellant con­tends, they had a suit for a lien then pending on the same premises, it could have moved the court that the causes be consolidated. This was not done, and the question was first raised on the final hearing. "When thus delayed, such an objection does not receive favor from the court, and in such cases to be of avail it must appear that the decree will have the effect of depriv­ing the appellant of its legal rights. Pease v. Chicago Crayon Co., 235 Ill. 391.</p>
+                <p pgmap="251" id="ApQ">The original contract required the building to be completed by December 1, 1905. It was not completed on that date. It was completed April 16, 1906, when, the proof shows, appellant first demanded a statement from the original contractor. The statement was fur­nished and it showed the claim of appellee and the amount to become due, and therefore it was unneces­sary for appellee to serve upon appellant notice of his claim. Sec. 24, Mechanic’s Lien Act. Prior to this appellant had paid the original contractor the sum of about $12,000 without first obtaining the statement re­quired by Sec. 24. These payments were not law­ful as against appellee. Sec. 32, Mechanic’s Lien Act. The contract was not entirely finished as to appellee’s work until May 18, 1906. On July 3, 1906, appellee served on appellant the subcontractor’s notice as required. It is urged by appellant that this notice should have been served within sixty days after Decem­ber 1, 1905, and therefore there could be no lien under the contract. The proof shows that appellant, when it was found the building was not going to be completed by the time mentioned in the contract, took no steps to forfeit the contract, but said to the contractor to go ahead, and it is apparent from the record that there was an implied extension of the time for its completion. If this be true, and as the statement of April 16, 1906, correctly stated appellee’s claim, it would seem that no notice was necessary, but it is clear that appellee did serve a notice, the form of which is not objected to, within sixty days after he completed his work. We are therefore of the opinion that he did not lose his right to a lien by reason of failure to give notice.</p>
+                <p pgmap="252" id="b252-4">Respecting the extras claimed by appellee, the evi­dence of the architect shows that the claim for extras was made by the original contractors, and adjusted with appellant. Appellant should have considered in that adjustment that appellee was furnishing part of the extras and should have kept enough out of the set­tlement to indemnify it if compelled to pay subcon­tractors, if a lien was sought for extras, but it did not do this, consequently it cannot now complain.</p>
+                <p pgmap="252" id="b252-5">The court adjudged that the property owners should pay the lien holder’s attorney the sum of $76 as fees, in accordance with a provision made by the last sentence of section 17 of the Mechanic’s Lien Act (Par. 31), which provides, “In all cases where liens are enforced, the court shall, in its discretion, order reasonable at­torneys’ fees taxed as a part of the costs in favor of the lien creditor. ’ ’ Since the rendition of judgment in this case in the court below, the Supreme Court in Man­owsky v. Stephan, 233 Ill. 409, said, referring to this sentence, “We have reached the conclusion-that the sentence in question is in violation of the State con­stitution * * *. It is special legislation. It con­fers a right upon persons entitled to liens by virtue of the Mechanic’s Lien law, and confers that right upon no others * * *. We regard the last sentence of the section of the statute above set out as in conflict with section 22 of article 4 of the constitution of the state.” The decree directed the attorney’s fees to be paid direct to Charles E. Sturtz, attorney for ap­pellee. If an allowance for attorney’s fees had been proper, the decree should have directed it to be paid to the party to the suit who had incurred the liability for solicitor’s fees. It follows that the allowance for solicitor’s fees, designated as attorney’s fees in the decree, must be reversed. No other harmful error ap­pearing in the record the decree, in all other respects, is affirmed, one half of the costs of this court to be paid by appellee.</p>
+                <p pgmap="252" id="b252-8">Affirmed in part, reversed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="246" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+              <area BEGIN="BL_246.3" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.4" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.2" BETYPE="IDREF" FILEID="alto_00124_0"/>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="232" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.3" BETYPE="IDREF" FILEID="alto_00124_1"/>
+              <area BEGIN="BL_248.4" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.2" BETYPE="IDREF" FILEID="alto_00125_0"/>
+              <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+              <area BEGIN="BL_250.3" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="235" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.2" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.4" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+              <area BEGIN="BL_252.3" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.8" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.9" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.15" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.8" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.7" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.5" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.6" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-7" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.7" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            <area BEGIN="BL_251.1" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlN" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.18" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.19" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.20" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-13" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.21" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.16" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.17" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACl" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.10" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.11" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVz" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.13" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.14" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.10" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.9" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-13" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.12" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            <area BEGIN="BL_247.1" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.11" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApQ" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIu" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.12" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

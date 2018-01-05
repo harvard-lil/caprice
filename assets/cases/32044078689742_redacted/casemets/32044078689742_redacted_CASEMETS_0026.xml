@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0026" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Whipple v. Whipple">Terra Del Whipple, Appellee, v. John A. Whipple, Appellant</name>
+          <docketnumber>Gen. Nos. 14,060 and 14,061</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 228</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="7f939e716f4b9918d871d40abaff1ae3" CHECKSUMTYPE="MD5" SIZE="40876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="f97824cfcadb88653a2cacd77a9c32c8" CHECKSUMTYPE="MD5" SIZE="46366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="4d3d7a3c2978ceda0f620b64c08f74f8" CHECKSUMTYPE="MD5" SIZE="50422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="3630d9f5d950cbc311fd1af748bb8bcb" CHECKSUMTYPE="MD5" SIZE="46904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00125_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="cd14b7381cfd75c12aff150ea3a43d99" CHECKSUMTYPE="MD5" SIZE="2337263">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00123_1.jp2"/>
+      </file>
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="2572c9c47d8b0f75375f9eb16d3010e6" CHECKSUMTYPE="MD5" SIZE="2410558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="00e0fb1e8222e16809a97aeeb5773476" CHECKSUMTYPE="MD5" SIZE="2432191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="6a4cce5e980b95d3b75a8ca905926029" CHECKSUMTYPE="MD5" SIZE="2428637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00125_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="ad8d14e4d14d3def3f63bec61936e7f6" CHECKSUMTYPE="MD5" SIZE="70362">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00123_1.xml"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="dcab581b3708fb9c07cfaf348e804f79" CHECKSUMTYPE="MD5" SIZE="79150">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="238d5943ac20e073693a2c75bc5dac5a" CHECKSUMTYPE="MD5" SIZE="82724">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="4d282ca83568c85e026126246348a35a" CHECKSUMTYPE="MD5" SIZE="78278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00125_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="231" firstpage="228">
+              <docketnumber id="b246-12" pgmap="246">Gen. Nos. 14,060 and 14,061.</docketnumber>
+              <parties id="b246-10" pgmap="246">Terra Del Whipple, Appellee, v. John A. Whipple, Appellant.</parties>
+              <decisiondate id="ANrq" pgmap="247">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b247-6" pgmap="247">Julian C. Ryer, for appellant.</attorneys>
+              <attorneys id="b247-7" pgmap="247">No appearance by appellee.</attorneys>
+              <summary id="b247-5" pgmap="247">Divorce. Appeal from the Circuit Court of Cook county; the Hon. Thomas G. Windes, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="Ayt" pgmap="247">Affirmed.</disposition>
+              <headnotes id="b246-13" pgmap="246">1. Amendments and jeofails—when verification of amendment of sworn pleading not essential. Verification of an amendment to a sworn pleading is not essential where there is no fact alleged in the amendment calling for verification.</headnotes>
+              <headnotes id="b247-3" pgmap="247">2. Alimony—what questions cannot he determined upon applica­tion for. The merits of the main relief sought cannot be deter­mined upon the application for the allowance of alimony pendente lite.</headnotes>
+              <headnotes id="b247-4" pgmap="247">3. Solicitor’s fees—when allowance to wife properly subject to revision. If an allowance of solicitor’s fees has been made to a wife to enable her to defend against an appeal by her husband questioning an allowance of alimony pendente lite, and if such allowance is not employed for such purpose, it is proper for the chancellor to modify his order with respect thereto.</headnotes>
+              <opinion type="majority">
+                <author id="b247-8" pgmap="247">Mr. Justice Holdom</author>
+                <p id="AEL" pgmap="247">delivered the opinion of the court.</p>
+                <p id="b247-9" pgmap="247">These two causes were consolidated for hearing upon the same briefs and abstracts.</p>
+                <p id="b247-10" pgmap="247">Appellee has not appeared or submitted any argu­ments in defense of these appeals.</p>
+                <p id="b247-11" pgmap="247">Terra Del Whipple filed her bill against her hus­band, John A. Whipple, for separate maintenance, charging as grounds extreme and repeated cruelty upon the part of her husband toward her. This bill was duly verified with the oath of appellee. The bill was subsequently amended, changing the prayer thereof from separate maintenance to divorce. The amend­ment was not verified. Verification was not necessary, as there was no fact alleged in the amendment calling for verification. The change injected by the amend­ment concerned the nature of the relief asked upon the identical facts averred in the original bill.</p>
+                <p id="b247-12" pgmap="247">Appellant first demurred to the bill as amended, and upon the overruling of his demurrer answered, denying the truth of the material averments and in­jecting counter charges impugning the moral conduct of appellee during her married life.</p>
+                <p id="b248-4" pgmap="248">The facts alleged in the bill if sustained by proof, are, in our opinion, prima facie sufficient to entitle ap­pellee to the divorce prayed in the amendment filed. On motion of appellee for alimony pendente lite and an allowance for solicitor’s fees to enable her to pro­secute her suit for divorce, the chancellor, on April 1, 1907, upon affidavits submitted by both parties, granted an allowance to appellee of $10 a week for alimony pendente lite and $40 for solicitor’s fees.</p>
+                <p id="b248-5" pgmap="248">On May 20, 1907, appellant having theretofore prayed an appeal to this court from the order of April 1, 1907, granting alimony and solicitor’s fees, the chancellor, upon the petition of appellee duly veri­fied, and on sundry affidavits submitted by both the parties, entered an order making an additional allow­ance of $95 for solicitor’s fees to enable appellee to defend against the appeal of appellant to this court from the order of April 1, 1907. From the order of May 20, 1907, appellant prayed for, was allowed and perfected an appeal to this court. The appeals now before us involve the legal integrity of these two or­ders.</p>
+                <p id="AgL" pgmap="248">As the learned chancellor did in the court below, so we have done on this review—examined with painstak­ing care all the affidavits submitted by the several par­ties which appear in the record before us, and after so doing our minds are attuned to that of the chancellor, made evident when- he said in rendering his judgment, “If defendant’s version is true, complainant should not have any alimony or solicitor’s fees, but it is im­possible for the court, in view of the conflict here, to determine that matter on affidavits”. The merits of the controversy between the parties cannot be deter­mined on a motion for temporary alimony. Burgess v. Burgess, 25 Ill. App. 525.</p>
+                <p id="b248-7" pgmap="248(27) 249(19)">Allowance of temporary alimony and solicitor’s fees in divorce cases is discretionary with the chancellor, and the court of review will not go into the merits of the divorce suit upon an appeal from an order award­ing temporary alimony. Lind v. Lind, 37 ibid. 178.</p>
+                <p id="b249-4" pgmap="249">The affidavits considered, the award made is reason­able and within the apparent ability of appellant to pay.</p>
+                <p id="b249-5" pgmap="249">Section 15, chap. 40, R. S., title “Divorce”, provides inter alia that “in case of appeal or writ of error by the husband, the court in which the decree or order is rendered may grant and enforce the payment of such money for her defense and such equitable alimony dur­ing the pendency of the appeal or writ of error as to such court shall seem reasonable and proper”.</p>
+                <p id="b249-6" pgmap="249">In construing this statute it was held in Jenkins v. Jenkins, 91 Ill. 167, that the Circuit Court may make an order for solicitor’s fees after the perfecting of an appeal.</p>
+                <p id="b249-7" pgmap="249">While the order of the chancellor allowing appellee solicitor’s fees to enable her to defend against this appeal was without error at the time it was made, and as our review is circumscribed to the condition envi­roning the parties and their legal rights as. they ex­isted at the time of the entry of the order, we are not permitted to adjudge the appeal upon conditions sub­sequently arising; yet we deem it but just and equit­able to state that appellee has not appeared in this appeal and consequently has not incurred any liability for the solicitor’s fees so allowed her. It will there­fore be conscionable for the chancellor to make such further order touching the allowance of May 20, 1907, as the law may permit and the rights of the parties require, for it is evident that appellee has not assumed the burden or incurred the liability which the $95 al­lowance was made to enable her to discharge.</p>
+                <p id="b249-8" pgmap="249">The orders appealed from, of April 1, and May 20, 1907, are both affirmed.</p>
+                <p id="b249-9" pgmap="249">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="246" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.3" BETYPE="IDREF" FILEID="alto_00123_1"/>
+              <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.2" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.1" BETYPE="IDREF" FILEID="alto_00124_0"/>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+              <area BEGIN="BL_248.3" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.2" BETYPE="IDREF" FILEID="alto_00125_0"/>
+              <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.7" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.4" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.5" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEL" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.14" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.15" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.6" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.7" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.5" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.12" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.11" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-3" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.4" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.16" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.13" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-11" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.18" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayt" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.8" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.19" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANrq" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.9" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.10" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.8" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.11" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-13" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.12" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.10" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgL" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.6" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.17" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.10" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.9" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

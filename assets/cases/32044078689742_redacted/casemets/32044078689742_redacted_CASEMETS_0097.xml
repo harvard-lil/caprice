@@ -1,0 +1,571 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0097" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hancock v. Chicago, Burlington &amp; Quincy Railroad">Mabel Hancock, Administratrix, Appellee, v. The Chicago, Burlington &amp; Quincy Railroad Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 491</citation>
+          <decisiondate>1908-12-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="19f8cf6ff82df97225c4a7e89ba75d2a" CHECKSUMTYPE="MD5" SIZE="38308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00255_0.tif"/>
+      </file>
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="345c7efa49dd135c6c725eaedb690e17" CHECKSUMTYPE="MD5" SIZE="51954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00255_1.tif"/>
+      </file>
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="63363d6bf8f5da12d2dfd3a672dd9a6f" CHECKSUMTYPE="MD5" SIZE="54396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="bc85319c53b5e4cf4edfd940684d916d" CHECKSUMTYPE="MD5" SIZE="53820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00256_1.tif"/>
+      </file>
+      <file ID="tiff_00257_0" MIMETYPE="image/tiff" CHECKSUM="ebf1c3f331ae5c7f234b66a3e01fb34e" CHECKSUMTYPE="MD5" SIZE="50770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00257_0.tif"/>
+      </file>
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="6cb2dbb84887e5ffde8f5732cb5ba8fe" CHECKSUMTYPE="MD5" SIZE="49702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00257_1.tif"/>
+      </file>
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="9895a3cfa884e98ac6493f9dc946c70e" CHECKSUMTYPE="MD5" SIZE="54836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00258_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00255_0" MIMETYPE="image/jp2" CHECKSUM="f2a4e4feedeb111f854617d738b89830" CHECKSUMTYPE="MD5" SIZE="2344775">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00255_0.jp2"/>
+      </file>
+      <file ID="jp2_00255_1" MIMETYPE="image/jp2" CHECKSUM="c0327b3c114660b8b9150d3c4d763d48" CHECKSUMTYPE="MD5" SIZE="2431299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00255_1.jp2"/>
+      </file>
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="abbb412cd2ed903455cdc73ea57351ee" CHECKSUMTYPE="MD5" SIZE="2478265">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00256_0.jp2"/>
+      </file>
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="ef5156d55ff9c0c9dae7813552b49ca1" CHECKSUMTYPE="MD5" SIZE="2454292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00256_1.jp2"/>
+      </file>
+      <file ID="jp2_00257_0" MIMETYPE="image/jp2" CHECKSUM="56bab9102a7ba01303cddbc38c345750" CHECKSUMTYPE="MD5" SIZE="2456047">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00257_0.jp2"/>
+      </file>
+      <file ID="jp2_00257_1" MIMETYPE="image/jp2" CHECKSUM="c23ffc512a7968bac4f4f868fa67e73c" CHECKSUMTYPE="MD5" SIZE="2412221">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00257_1.jp2"/>
+      </file>
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="2d64bf45aa21594af792317910a4f8c0" CHECKSUMTYPE="MD5" SIZE="2505484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00258_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00255_0" MIMETYPE="text/xml" CHECKSUM="5d6448dd905905417b2819adc2e7918e" CHECKSUMTYPE="MD5" SIZE="65308">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00255_0.xml"/>
+      </file>
+      <file ID="alto_00255_1" MIMETYPE="text/xml" CHECKSUM="62bdf61e72cf10def1bf8db35b74533b" CHECKSUMTYPE="MD5" SIZE="88016">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00255_1.xml"/>
+      </file>
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="8f4e2d32af31583f7d010a6a086bca0c" CHECKSUMTYPE="MD5" SIZE="94133">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00256_0.xml"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="29bb66a1c7dc93678ea667568dbd346e" CHECKSUMTYPE="MD5" SIZE="92670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00256_1.xml"/>
+      </file>
+      <file ID="alto_00257_0" MIMETYPE="text/xml" CHECKSUM="9904bf5536e1a8e6f9cfe015b233b016" CHECKSUMTYPE="MD5" SIZE="91049">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00257_0.xml"/>
+      </file>
+      <file ID="alto_00257_1" MIMETYPE="text/xml" CHECKSUM="fe36d00a54cf56d6132f16a5c7245cfa" CHECKSUMTYPE="MD5" SIZE="88936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00257_1.xml"/>
+      </file>
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="2e9d7aca8f87862cee639aa92449030b" CHECKSUMTYPE="MD5" SIZE="91648">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00258_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0097" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="497" firstpage="491">
+              <parties id="b509-6" pgmap="509">Mabel Hancock, Administratrix, Appellee, v. The Chi­cago, Burlington &amp; Quincy Railroad Company, Ap­pellant.</parties>
+              <decisiondate id="Aoa" pgmap="509">Opinion filed December 23, 1908.</decisiondate>
+              <attorneys id="b509-9" pgmap="509">J. A. Connell, George Edmunds and David E. Magic, for appellant.</attorneys>
+              <attorneys id="b509-10" pgmap="509">William H. Hartzell, for appellee.</attorneys>
+              <summary id="b509-8" pgmap="509">Action in case for death caused by alleged wrongful act. Appeal from the Circuit Court of Hancock county; the Hon. John A. Gray, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aqg_" pgmap="509">Re­versed and remanded.</disposition>
+              <headnotes id="b509-7" pgmap="509">Verdict—effect of inspection by jury. A jury cannot return a verdict upon their own knowledge unsupported by other evidence, whether such knowledge was acquired in or out of court, by a view or otherwise, and a verdict based exclusively on knowledge so acquired will be set aside for want of substantial evidence to sup­port it.</headnotes>
+              <opinion type="majority">
+                <author id="b510-4" pgmap="510">Mr. Presiding Justice Puterbaugh</author>
+                <p id="Aba" pgmap="510">delivered the opinion of the court.</p>
+                <p id="b510-5" pgmap="510">This is an action in case by which appellee seeks to recover damages resulting from the death of her hus­band and intestate, through the alleged negligence of appellant. Upon the trial of the cause the jury found the issues for the plaintiff and assessed her damages at $3,000. Motions for a new trial and in arrest of judgment were overruled and judgment entered upon the verdict. The first count of the declaration charges that the deceased, Roy E. Hancock, was on August 23,1907, in the employ of the defendant company as switchman in its switch yard at Galesburg, Illinois; that it was his duty to assist in making up and switching trains; that said switch yard contained numerous tracks for switching cars; that it was the duty of the defendant to furnish reasonably safe cars and appliances; that defendant in disregard of said duty caused to be switched in said yard by said Hancock a car the beams of which were rotten, defective and insufficient to hold the bumpers; that while Hancock was riding on the front of said car the same came against an engine with great force, and by reason of the defective beams on said car the bump­ers were not sufficiently held to prevent the front end of the car from being smashed and jammed by said en­gine ; and that by reason thereof the said Hancock was killed.</p>
+                <p id="b510-6" pgmap="510(107) 511(14)">The second count charges that it was the duty of the defendant to keep its tracks in said switch yard free from obstructions and engines while cars were being handled in said yard; that the defendant suffered a certain switch engine to remain on one of its tracks; that while Hancock was riding on the front of a car which was being switched, the said car came in con­tact with said switch engine with great force, and by reason of defective bumpers on said car said bumpers were not sufficiently held to prevent the front end of said car from being jammed against said engine; by reason of which Hancock was caught between said en­gine and car and killed.</p>
+                <p id="b511-4" pgmap="511(368) 512(101)">The evidence tends to show the following facts: In August, 1907, the defendant company for the purpose of handling and operating its freight trains, main­tained two sorting yards at Galesburg, Illinois, in each of which they ran a track upon an inclined plane from an elevation about 7 feet in height, called a hump. One of such tracks ran from a hump in the east yard into the west yard, and the other from a hump in the west yard into the east yard. The method of sorting and placing the cars from incoming freight trains was as follows: When a train arrived at the yards each car was examined in detail by two inspectors, to ascertain the condition of its various parts. It was then pushed to the top of one of the humps by a switch engine, where the place the same was to be set in the yard was determined and indicated. After the brakes on the car were tested the car was uncoupled from the switch engine and allowed to run by gravity from the hump down the track at an incline of about 7 feet in 10 car-­lengths, and thence by means of switches thrown upon tracks running into various parts of the yards, to be there connected with outgoing trains. Such cars run­ning down the incline were ridden by a brakeman called “the rider,” whose duty it was to control the car by means of the brakes until it reached the car or cars to which it was to be attached. Prior to August 23, 1907, appellee’s intestate, Roy Hancock, had been employed by the company as a switchman, and for several days prior to that date had been riding cars down the west hump into the west sorting yard. On the morning of that day two Arms Palace horse cars arrived at the yards, one of which was numbered 5008, and was constructed similar to a baggage car, having a platform and brake upon either end. Shortly after their arrival the cars were pushed to the top of the west hump, and with Hancock acting as rider, No. 5008 was released and allowed to run down the inclined track. Upon such track at the distance of about 35 car-­lengths from the hump, stood a switch engine attached to a train of loaded freight cars. When about seven car-lengths from the switch engine and train, the horse car had attained the speed of about 15 miles an hour. Hancock then for the first time endeavored to slacken the speed by the use of a brake, but was unable to do so, and his car collided with the switch engine with such force that the car and switch engine were badly damaged and Hancock was crushed between them and killed.</p>
+                <p id="b512-5" pgmap="512">The evidence further discloses that at each end of the car in question, were two oak draft timbers 10 feet in length and 5 by 10 inches in diameter, which ex­tended 28 inches beyond the body and sills of the car, and were fastened to the end beam and center sill of the car by bolts; that between the draft beams was a malleable iron draw-bar which weighed 160 pounds and projected about two inches beyond the platform. On top of the draft beams and fastened thereto' by bolts to keep them from spreading, were two oak blocks. Besting transversely on top of these was the buffer beam which was mortised into the draft timbers and constituted the outside end of the platform of the car. Within the draw-bar pocket was a spring with a fol­lower at either end between which the draw-bar oper­ates, having a play of two inches. The testimony of expert witnesses developed that the impact of an ap­proaching car would be received first by the draft timbers and that until the same had been broken off or displaced the beam across the end of the platform would not receive or be affected by the shock.</p>
+                <p id="b512-6" pgmap="512(73) 513(27)">An inspection of the car in question after the col­lision disclosed that one of the draft timbers was broken off at the body of the car, and the other split off at the draw-bar pocket; the top platform beam was broken off, and the under one shoved up at the end. The king bolt by which the car was fastened upon the truck was broken and the draw-bar forced out of its position between the draft timbers and had fallen down. The draw-bar of the switch engine was broken, and the head-light, window plate and boiler head badly damaged.</p>
+                <p id="b513-4" pgmap="513">The testimony relied upon by counsel for appellee to establish the averments of the declaration as to the de­fective condition of the car, was the following: Elmer Duncan, a witness for appellee, testified in part as follows:</p>
+                <p id="b513-5" pgmap="513(304) 514(78)">“I saw that car the next day after it happened. I went up and examined it (referring to platform). It was kind of doty looking timber. By doty timber I mean timber that isn’t sound; timber that will kind of crumble in your fingers. I found that condition in those timbers one or two places. I just walked around and touched the timbers with my fingers and picked out some of the punk and rotten wood and crumbled it up in my fingers. It was in the timber next to me. The conditions I have noted were not in the timbers that support the bumper platform. They were in the cross-beam that holds the platform. The draw-bar sets between the two sills and this beam goes across .the top of the bumpers. I think they are bolted to the bumper beams. The beam across the end is the one I refer to.” On cross-examination: “The piece of wood I refer to as being defective is right across the end of the platform and underneath. I wouldn’t swear that this is bolted to the draft timbers. I didn’t examine to see if it was bolted or not. I didn’t "notice at that time where the draft timbers were. The platform was broken down partly. This timber I speak of was right across the end of the car. Part of the platform was standing up and part of it was down. I can’t exactly tell which part was stand­ing up. It was the part that was next to me as I was going toward the depot. The platform projected from the end of the car door in a manner similar to the way the end of the table projects from the table and this beam was across the end of the platform. Part of the platform was broken off. The platform was not all there. I don’t know how much of it was off. I do not think the pieces which projected out at the side of the car just before the steps come down were there. I don’t know whether the draft timbers were there or not. I didn’t examine the draft timbers. I just ex­amined this one piece. I just crumbled a piece out of the end of the beam.”</p>
+                <p id="b514-5" pgmap="514">Nels Larson, a witness called by appellant, on cross-­examination testified in part as follows: “I call those timbers sound. I call it sound (referring to the tim­ber). You might call it a little rotten from water seeping. I saw the car repaired. I saw these timbers taken out; as to soundness these timbers were sound. I have experience in examining different kinds of tim­ber. There was nothing broken in the car.” (The witness then detailed the pieces that were broken and stated that there was nothing broken in the car, other than what he had mentioned.) “Now, in regard to the water sweeping through, and the timber affected by it, what we call the rises of the steps were over it. It was covered. There is nothing that covers the crack. There is a board goes over this place with three long screws and the water can seep in there behind the crack, and this little place you speak of that water seeped into was covered up. This is the only place of the kind that I noticed in the whole piece. I didn’t consider it rotten at the place where the water seeped in.”</p>
+                <p id="b514-6" pgmap="514">Appellee produced upon the trial and offered-in evi­dence the timbers which were claimed to be defective, and the same were inspected and examined by the jury.</p>
+                <p id="b514-7" pgmap="514(57) 515(116)">Evidence was adduced by appellant which tended to show that the draft timbers in the car were placed there in June, 1905, and were at that time new and sound; that the car was carefully inspected at the shops of the horse car company at Chicago, on August 2, 1907, and thoroughly repaired; that on August 7th following it was thoroughly and carefully inspected by employes of the appellant company at the Union Stock Yards at Chicago and found to be in good condition, and that a similar inspection was made upon the ar­rival of the cars at Galesburg on the morning of the accident, with like result. The foregoing evidence is manifestly insufficient to sustain the averments of the declaration that the beams of the car “were rotten, defective and insufficient to hold the bumps,” or that “by reason of defective beams on said car the bumpers were not sufficiently held to prevent the front end of the car from being smashed and jammed by said en­gine and said car.”</p>
+                <p id="b515-4" pgmap="515">It is obvious that the timber described by the wit­nesses Duncan and Larson as being doty was the buf­fer beam which formed the front of the platform, which was not a part of the draft rigging and in no way supported the draw-bar or the draft timbers and would and could not receive the force of the impact of other cars until the coupling had been driven back twelve inches and broken entirely loose from the draft timbers and the front ends of the draft timbers demol­ished. This being so, the defects in the buffer beam could not have contributed to the accident. It is, how­ever, insisted by counsel for appellee that because the jury saw the timbers which cannot be seen by this court, if anything is lacking in the evidence to sus­tain the verdict it must be presumed that it was sup­plied by such inspection. “It has never been held in this state that a jury might return a verdict upon their own knowledge, unsupported by other evidence, whether such knowledge was acquired in or out of court, by. a view or otherwise, and a verdict based ex­clusively on knowledge so acquired would be set aside for want of substantial evidence to support it.” Seav­erens v. Lischinski, 181 Ill. 358.</p>
+                <p id="b515-5" pgmap="515">For the reason that the verdict was manifestly against the weight of the evidence, the judgment of the circuit court will be reversed and the cause remanded.</p>
+                <p id="b515-6" pgmap="515">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="509" ORDERLABEL="491" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jp2_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.2" BETYPE="IDREF" FILEID="alto_00255_0"/>
+              <area BEGIN="BL_509.4" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="510" ORDERLABEL="492" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jp2_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.1" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+              <area BEGIN="BL_510.3" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="511" ORDERLABEL="493" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+              <area BEGIN="BL_511.4" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="494" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.2" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.3" BETYPE="IDREF" FILEID="alto_00256_1"/>
+              <area BEGIN="BL_512.4" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="513" ORDERLABEL="495" TYPE="page">
+        <fptr FILEID="tiff_00257_0"/>
+        <fptr FILEID="jp2_00257_0"/>
+        <fptr FILEID="alto_00257_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.3" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.2" BETYPE="IDREF" FILEID="alto_00257_0"/>
+              <area BEGIN="BL_513.4" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="514" ORDERLABEL="496" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jp2_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.2" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.3" BETYPE="IDREF" FILEID="alto_00257_1"/>
+              <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="515" ORDERLABEL="497" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.2" BETYPE="IDREF" FILEID="alto_00258_0"/>
+              <area BEGIN="BL_515.4" BETYPE="IDREF" FILEID="alto_00258_0"/>
+              <area BEGIN="BL_515.8" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqg_" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.11" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_509.12" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-8" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.9" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_509.10" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-9" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.14" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aba" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.5" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            <area BEGIN="BL_510.6" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.7" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            <area BEGIN="BL_515.1" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.7" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-7" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.8" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.5" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.6" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            <area BEGIN="BL_513.1" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.6" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_514.1" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.4" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.6" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.5" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.5" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoa" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.13" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.7" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.8" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            <area BEGIN="BL_511.1" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-10" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.15" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.7" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-6" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.6" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-5" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b513-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.5" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

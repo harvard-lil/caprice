@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0039" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Strauch">The People of the State of Illinois, Defendant in Error, v. Andrew A. Strauch et al., Plaintiffs in Error</name>
+          <docketnumber>Gen. No. 4,958</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 283</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="1bfb05afc3bb2ca94165bc30524c5d00" CHECKSUMTYPE="MD5" SIZE="42522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="cd3bceb0163cc124445ac1b01fe1d524" CHECKSUMTYPE="MD5" SIZE="51424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="db42278a09a95869b8c864b64044f41e" CHECKSUMTYPE="MD5" SIZE="54734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="63f8e37aea2ca3ac740b7125473f7b23" CHECKSUMTYPE="MD5" SIZE="53610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00151_1.tif"/>
+      </file>
+      <file ID="tiff_00152_0" MIMETYPE="image/tiff" CHECKSUM="22bb18c08181c7255f5193d8bef92e3b" CHECKSUMTYPE="MD5" SIZE="52866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00152_0.tif"/>
+      </file>
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="b341f99fe0c7a6a4716d05267b5d2ee4" CHECKSUMTYPE="MD5" SIZE="47426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00152_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00150_0" MIMETYPE="image/jp2" CHECKSUM="ee787d78a9ceb1843ceae87d220c399b" CHECKSUMTYPE="MD5" SIZE="2330204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00150_0.jp2"/>
+      </file>
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="02f1fab23753a999c5409325271618bd" CHECKSUMTYPE="MD5" SIZE="2358923">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00150_1.jp2"/>
+      </file>
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="d82cf912196a939aec7795c4a8e528d5" CHECKSUMTYPE="MD5" SIZE="2422412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00151_0.jp2"/>
+      </file>
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="b827c286f5e83a4777e48cd392f27b84" CHECKSUMTYPE="MD5" SIZE="2378566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00151_1.jp2"/>
+      </file>
+      <file ID="jp2_00152_0" MIMETYPE="image/jp2" CHECKSUM="9502591dfc158d34898f8dcce30248e7" CHECKSUMTYPE="MD5" SIZE="2417305">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00152_0.jp2"/>
+      </file>
+      <file ID="jp2_00152_1" MIMETYPE="image/jp2" CHECKSUM="cca5a31206a4888285e6c53e234cc1a0" CHECKSUMTYPE="MD5" SIZE="2320671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00152_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00150_0" MIMETYPE="text/xml" CHECKSUM="4a150271f4ba42f4fa44c3ed69c2beba" CHECKSUMTYPE="MD5" SIZE="77703">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00150_0.xml"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="0f629ea499f83f43310d9a0c17e69670" CHECKSUMTYPE="MD5" SIZE="86663">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00150_1.xml"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="e7c8675a0ceac695118b715cebddd55e" CHECKSUMTYPE="MD5" SIZE="90867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00151_0.xml"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="255433f2472450d048c3570dda50c3a1" CHECKSUMTYPE="MD5" SIZE="88380">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00151_1.xml"/>
+      </file>
+      <file ID="alto_00152_0" MIMETYPE="text/xml" CHECKSUM="9158343012c8d3af3701a1b547a73186" CHECKSUMTYPE="MD5" SIZE="83610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00152_0.xml"/>
+      </file>
+      <file ID="alto_00152_1" MIMETYPE="text/xml" CHECKSUM="be4dfbcd2cb66369ab2d456697208eec" CHECKSUMTYPE="MD5" SIZE="76170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00152_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="288" firstpage="283">
+              <docketnumber pgmap="299" id="b299-8">Gen. No. 4,958.</docketnumber>
+              <parties pgmap="299" id="b299-5">The People of the State of Illinois, Defendant in Error, v. Andrew A. Strauch et al., Plaintiffs in Error.</parties>
+              <decisiondate pgmap="299" id="AxuE">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="299" id="AQC">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="299" id="b299-12">W. H. A. Renner and Orion M. Grove, for plaint­iffs in error; E. E. Wingert, of counsel.</attorneys>
+              <attorneys pgmap="299" id="b299-13">Franklin J. Stransky, for defendant in error.</attorneys>
+              <summary pgmap="299" id="b299-11">Criminal prosecution for conspiracy. Error to the Circuit Court of Carroll County; the Hon. Oscar E. Heard, Judge, presiding.</summary>
+              <disposition pgmap="299" id="AsA">Affirmed.</disposition>
+              <headnotes pgmap="299" id="b299-9">1. Verdict—what essential to set aside, because of prejudice of juror. The testimony as to previously expressed opinions by per­sons called as jurors should be of a clear and satisfactory char­acter in order to warrant setting aside a verdict.</headnotes>
+              <headnotes pgmap="299" id="b299-10">2. Conspiracy—what proof of, sufficient. Conspiracy is neces­sarily proved by circumstances and when the circumstances proven are such that no other reasonable conclusion can be drawn from the evidence but that the defendants are beyond a reasonable doubt guilty as charged, the conspiracy is proven.</headnotes>
+              <opinion type="majority">
+                <author pgmap="299" id="b299-14">Mr. Presiding Justice Thompson</author>
+                <p pgmap="299" id="Aqu">delivered the opin­ion of the court..</p>
+                <p pgmap="299(123) 300(11)" id="b299-15">Andrew A. Strauch and Oswald Strauch, plaintiffs in error, were indicted with Herbert E. Hughes in the Circuit Court of Carroll county, on a charge of con­spiracy to prevent competition in the letting of con­tracts to build certain bridges in the town of Fair Haven, in Carroll county, which were advertised to be let on June 30, 1906. Hughes entered a plea of guilty and was fined $500. On a trial plaintiffs in error were found guilty and a fine of $500 assessed against Andrew A. Strauch and a fine of $300 against Oswald Strauch. Judgment was entered on the verdict and an order made that each defendant stand committed un­til the payment of their respective fines and the costs. To reverse that judgment this writ of error is sued out.</p>
+                <p pgmap="300" id="b300-5">It is assigned for error that one of the jurors was prejudiced against Andrew A. Strauch and that the plaintiffs in error were not tried by an unprejudiced jury. The court heard the evidence of two witnesses, W. J. Lamereaux and Frank. Roberts, on the motion for a new trial, as to two alleged statements of John Iler, one of the jurors, which if made would show he was prejudiced. The juror denied having made any such statements. Evidence was also offered showing that the reputation of Frank Roberts for truth and ver­acity was bad. Lamereaux admitted he was a strong partisan of Strauch, and a number of witnesses who were present at the time and place of the conversation testified to by W. J. Lamereaux, say that they heard no such statement made by Iler. The testimony as to previously expressed opinions by persons called as jurors should be of a clear and satisfactory character in order to warrant setting aside a verdict. Hughes v. People, 116 Ill. 330; Davison v. People, 90 Ill. 221. The court, under the showing made, properly refused to grant a new trial upon the ground of prejudice of the juror.</p>
+                <p pgmap="300(144) 301(373) 302(362) 303(85)" id="b300-6">The question most strenuously argued is that the evi­dence does not support the conviction of Andrew A. Strauch. The evidence shows that Andrew A. Strauch is and was for a number of years a supervisor of the town of Fair Haven, the keeper of a store and the edi­tor and proprietor of a newspaper called the Chadwick Clarion. Oswald Strauch is a son of Andrew A. Strauch, twenty-eight years of age, and up to some time in June, 1906, was a student in the civil engineering de­partment of the State University at Champaign. The commissioners of highways of the town of Fair Haven had made application for county aid in building two iron bridges in June, 1905. That application was de­nied. It was renewed in June, 1906. The petitions for county aid in June, 1906, were delivered by the com­missioners of highways to Andrew A. Stranch, who presented them to the chairman of the county board and made a request that certain supervisors be named as the committee of the board to act on the petitions. The county board agreed to assist in building the two bridges. The time for letting the contracts was adver­tised for June 30, 1906. The letting of contracts for building some smaller concrete bridges was also ad­vertised for the same day. Andrew A. Strauch, prior to June 30, went to Chicago and to Minneapolis, Min­nesota, to see bridge building companies for the pur­pose of getting estimates on the bridges. He wrote to Oswald Strauch about these visits to the bridge build­ing companies. The letters were not produced, but Oswald, who testified for the defendants, said his father wrote that he went for the purpose of getting-­estimates. The only estimate he got was from a Chi­cago company. This he turned over to his sons, they say for the purpose of aiding them in making a bid on the work. On June 29, the sons say they gave up the idea of bidding on the iron bridges, and on that day Andrew A. Strauch went to Clinton, Iowa, to get estimates on the iron bridges, but without taking with him any plans or specifications. Andrew A. Strauch said to the Clinton Bridge and Iron Company that his visit was in reference to getting prices on steel for bridges, and with a view to purchasing metal in case his sons secured the contract. He told the Clinton Com­pany that, if it would give him prices, it need not attend the letting; that his sons would look after the matter; that his sons were contemplating- going into the busi­ness, and if they could make satisfactory arrangements to purchase metal they would be glad to buy from the Clinton Company, if the sons secured the contracts. The Clinton Company declined to give any estimates without plans and specifications, and also because it was unwilling to give estimates to any one who might be a competitor. He told the Clinton people that if he could not get estimates from them he would get them somewhere else. Andrew A. Stranch reported to Os­wald the next morning that he could not get anything sat­isfactory, as the Clinton company was going to be rep­resented at the letting of the contracts. On June 30, Herbert E. Hughes, president of the Continental Bridge Company of Chicago, one of the defendants, and who plead guilty to the indictment, was the only person present to bid on the iron bridges. Andrew A. Strauch introduced his son Oswald to Hughes and told Hughes his sons were intending to bid on this contract and.that he would like to have him talk it over with them. Hughes testifies that he and both plaintiffs in error went to Andrew A. Strauch’s private office and there Andrew left Hughes and Oswald, saying to them “What ever you do don’t get me mixed up in any of your deals; you and Hughes figure it over but don’t mix my name in any of your deals.” Oswald Strauch testifies that Hughes there showed his figures on the two bridges to him, $1250 on one and $1000 on the other, and then Hughes changed the figures to $1175 and $900 and that he, Oswald, went into the other room and reported this change to his father; that his father said the figures were too high, and Oswald went back to Hughes and Hughes again changed them to $1175 and $860. Andrew A. Strauch, during the fore­noon of June 30th, approached Joseph Warner, one of the supervisor’s committee having charge of the letting of the contract, and told him there was only one bridge man present to bid, and Warner told him he had never let a contract on one bid. Strauch then told Warner he had a boy who had been figuring with different iron men, and wanted to know if there was any objection to his boy bidding. Warner saw Hughes, Oswald and Andrew A. Strauch together after this conversation. After these occurrences, Hughes raised his figures, putting in a bid on the bridges for his com­pany at $885 and $1183 and Oswald Strauch testifies that he put in an accommodation bid $50 higher than Hughes because his father wanted the contract let, and Hughes agreed not to bid on the concrete bridges, and agreed that Oswald Strauch might do the hauling for him. The contract for the two iron bridges was let to the company Hughes represented on June 30. Two days later Oswald Strauch visited the office in Chicago of the bridge company that Hughes repre­sented and received a check for $50 and gave a receipt for $50 on account of services at Chadwick on June 30.</p>
+                <p pgmap="303(257) 304(160)" id="b303-5">The foregoing matters shown by the evidence are not controverted. Hughes plead guilty and counsel for Oswald Strauch say in their argument, “It is not contended that plaintiff in error, Oswald Strauch, stands free from censure in this matter. The placing of the accommodation bid is censurable, and would naturally raise a suspicion. The payment of the $50 together with the receipt adds materially to such sus­picion.” This amounts to an admission of the guilt of Oswald Strauch. The evidence shows that Andrew Strauch was engaged in attempting to get the contract for his sons, which was inconsistent with his duty as a supervisor. It is also shown that the Clinton Bridge Company intended to be present at the letting of the contract, but when Andrew A. Strauch visited that company the day before the contracts were to be let, and had the peculiar conversation he had in the office of that company, it would hardly be expected that that company would be represented at the letting the con­tracts. An agreement was obtained by plaintiff in error Oswald Strauch from the Continental Bridge Company the day the contracts were let not to bid against the sons on the concrete bridges. After the making of that agreement the sons secured the con­tracts for building those bridges. The sons also secured $50 graft from the Continental Bridge Com­pany besides the withdrawal of that company from competing for the building of the concrete bridges in return for the sons not bidding in good faith on the iron bridges but putting in a sham bid slightly above the bid of the Continental Company. All the facts and circumstances surrounding the undisputed facts point to the participation of Andrew A. Strauch in the conspiracy. His statement “whatever you do don’t get me mixed up in any of your deals,” after intro­ducing his son to Hughes, is very suggestive. No ex­planation is offered of all the many circumstances pointing so unmistakably to the guilt of the plaintiffs in error. Conspiracy is necessarily proved by cir­cumstances, and when the circumstances proven are such that no other reasonable conclusion can be drawn from the evidence but that the defendants are beyond a reasonable doubt guilty as charged, the conspiracy is proven. It is unnecessary to recite the many minor incriminating circumstances and acts of the plaintiffs in error shown by the record. Sufficient of the evi­dence has been recited to show that the indictment was clearly proven.</p>
+                <p pgmap="304" id="b304-5">Complaint is made concerning the language of the attorneys in stating and arguing the case. When the nature of the case under discussion and the character of the evidence is considered, we do not think the lan­guage used is seriously objectionable.</p>
+                <p pgmap="304" id="b304-6">It is assigned for error that the court erred in giving five instructions at the request of the people. We have examined them and do not find that they are incor­rect. Plaintiffs in error insist that all the law on any branch of the case must be stated in each instruction. The first instruction given directed the jury to con­sider all the instructions together as one series, and the twenty-seven instructions given for the plaintiffs in error removed any obscurity there might be in the people’s instructions. We find no prejudicial error in the case, and the judgment is affirmed.</p>
+                <p pgmap="304" id="b304-7">J firmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="299" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jp2_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.2" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.1" BETYPE="IDREF" FILEID="alto_00150_0"/>
+              <area BEGIN="BL_299.3" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="284" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.3" BETYPE="IDREF" FILEID="alto_00150_1"/>
+              <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="285" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+              <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="286" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.3" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.2" BETYPE="IDREF" FILEID="alto_00151_1"/>
+              <area BEGIN="BL_302.4" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="303" ORDERLABEL="287" TYPE="page">
+        <fptr FILEID="tiff_00152_0"/>
+        <fptr FILEID="jp2_00152_0"/>
+        <fptr FILEID="alto_00152_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.3" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.2" BETYPE="IDREF" FILEID="alto_00152_0"/>
+              <area BEGIN="BL_303.4" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="304" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jp2_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.2" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.3" BETYPE="IDREF" FILEID="alto_00152_1"/>
+              <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsA" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.10" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.5" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            <area BEGIN="BL_304.1" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxuE" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.11" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_299.12" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.6" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqu" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.16" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_299.17" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.5" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.5" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-15" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.18" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-14" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.15" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-11" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.8" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.7" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-13" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.14" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-12" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.13" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.4" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQC" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.9" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.6" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            <area BEGIN="BL_301.1" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_303.1" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

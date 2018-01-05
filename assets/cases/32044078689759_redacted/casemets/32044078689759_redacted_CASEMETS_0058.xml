@@ -1,0 +1,796 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0058" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Tyma v. Tarrant Foundry Co.">Jacob Tyma, Appellee, v. Tarrant Foundry Company, Appellant</name>
+          <docketnumber>Gen. No. 14,153</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 454</citation>
+          <decisiondate>1908-11-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="981b2b96d6d860692d6e06c9ba9a9c5d" CHECKSUMTYPE="MD5" SIZE="44376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00235_1.tif"/>
+      </file>
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="6cee42b13d181b5e824790b2d4b3db86" CHECKSUMTYPE="MD5" SIZE="51798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="af9ebb5ce8e02a366259faebcd792434" CHECKSUMTYPE="MD5" SIZE="54964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00236_1.tif"/>
+      </file>
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="2306d2b2aa70d2cf4024a73ad7c9c1aa" CHECKSUMTYPE="MD5" SIZE="48124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00237_0.tif"/>
+      </file>
+      <file ID="tiff_00237_1" MIMETYPE="image/tiff" CHECKSUM="65eae4889b1ee190718c30b7be908c61" CHECKSUMTYPE="MD5" SIZE="51224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00237_1.tif"/>
+      </file>
+      <file ID="tiff_00238_0" MIMETYPE="image/tiff" CHECKSUM="c2217f7353a1aea546da0d4e0c6542fc" CHECKSUMTYPE="MD5" SIZE="50266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00238_0.tif"/>
+      </file>
+      <file ID="tiff_00238_1" MIMETYPE="image/tiff" CHECKSUM="28826c6b8a89119bdd2dcfb4f083a6b9" CHECKSUMTYPE="MD5" SIZE="54028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00238_1.tif"/>
+      </file>
+      <file ID="tiff_00239_0" MIMETYPE="image/tiff" CHECKSUM="06c037bbbcec324802b516c7cc2c5b7b" CHECKSUMTYPE="MD5" SIZE="52888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00239_0.tif"/>
+      </file>
+      <file ID="tiff_00239_1" MIMETYPE="image/tiff" CHECKSUM="31d08807bcca80c44e0e1c289c820f7a" CHECKSUMTYPE="MD5" SIZE="42524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00239_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="fe780202dfdedfe367f4078f24e4f06c" CHECKSUMTYPE="MD5" SIZE="2306108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00235_1.jp2"/>
+      </file>
+      <file ID="jp2_00236_0" MIMETYPE="image/jp2" CHECKSUM="b4ea8ee1b0826a867667ca2520eab0f2" CHECKSUMTYPE="MD5" SIZE="2408691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00236_0.jp2"/>
+      </file>
+      <file ID="jp2_00236_1" MIMETYPE="image/jp2" CHECKSUM="94feef2aaa8e19064200fa552b9a933f" CHECKSUMTYPE="MD5" SIZE="2371370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00236_1.jp2"/>
+      </file>
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="ebfb9d56f016cc1e3da0de56e0d54fee" CHECKSUMTYPE="MD5" SIZE="2361297">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00237_0.jp2"/>
+      </file>
+      <file ID="jp2_00237_1" MIMETYPE="image/jp2" CHECKSUM="6aa21940ac20af7c5e91b4fd9b1e5062" CHECKSUMTYPE="MD5" SIZE="2364236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00237_1.jp2"/>
+      </file>
+      <file ID="jp2_00238_0" MIMETYPE="image/jp2" CHECKSUM="330757edab620e2d7bd15c99d7529920" CHECKSUMTYPE="MD5" SIZE="2395268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00238_0.jp2"/>
+      </file>
+      <file ID="jp2_00238_1" MIMETYPE="image/jp2" CHECKSUM="fe55064d606816788d35941301a895c5" CHECKSUMTYPE="MD5" SIZE="2365150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00238_1.jp2"/>
+      </file>
+      <file ID="jp2_00239_0" MIMETYPE="image/jp2" CHECKSUM="9b542e8d8e706697b85d77b059e046f1" CHECKSUMTYPE="MD5" SIZE="2403428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00239_0.jp2"/>
+      </file>
+      <file ID="jp2_00239_1" MIMETYPE="image/jp2" CHECKSUM="084367496624b32841cf502adb8e4212" CHECKSUMTYPE="MD5" SIZE="2289470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00239_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="f1f19232b9a8aa12cdecb93d79f432e4" CHECKSUMTYPE="MD5" SIZE="83218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00235_1.xml"/>
+      </file>
+      <file ID="alto_00236_0" MIMETYPE="text/xml" CHECKSUM="da55cf15d581d2c74fc8d3a64d3e46ca" CHECKSUMTYPE="MD5" SIZE="89115">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00236_0.xml"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml" CHECKSUM="354a1c8232c5c61e7169f62395c32ae4" CHECKSUMTYPE="MD5" SIZE="89254">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00236_1.xml"/>
+      </file>
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="b8f73ca46c5963ddcef3c161f8dee53d" CHECKSUMTYPE="MD5" SIZE="83170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00237_0.xml"/>
+      </file>
+      <file ID="alto_00237_1" MIMETYPE="text/xml" CHECKSUM="54d012eb465831710db9fca56e53b137" CHECKSUMTYPE="MD5" SIZE="90726">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00237_1.xml"/>
+      </file>
+      <file ID="alto_00238_0" MIMETYPE="text/xml" CHECKSUM="785b4dc827d4e2ea4bcafcb27aff2640" CHECKSUMTYPE="MD5" SIZE="88478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00238_0.xml"/>
+      </file>
+      <file ID="alto_00238_1" MIMETYPE="text/xml" CHECKSUM="456cee06b501b2c0f32399e0d6e22a93" CHECKSUMTYPE="MD5" SIZE="90263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00238_1.xml"/>
+      </file>
+      <file ID="alto_00239_0" MIMETYPE="text/xml" CHECKSUM="ea3a336bae74fbf65d660024a4bd794a" CHECKSUMTYPE="MD5" SIZE="86304">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00239_0.xml"/>
+      </file>
+      <file ID="alto_00239_1" MIMETYPE="text/xml" CHECKSUM="7203f27444949bfa75d57c151c0bbe73" CHECKSUMTYPE="MD5" SIZE="80790">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00239_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0058" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="462" firstpage="454">
+              <docketnumber pgmap="470" id="b470-9">Gen. No. 14,153.</docketnumber>
+              <parties pgmap="470" id="b470-7">Jacob Tyma, Appellee, v. Tarrant Foundry Company, Appellant.</parties>
+              <decisiondate pgmap="471" id="A0Z">Opinion filed November 6, 1908.</decisiondate>
+              <otherdate pgmap="471" id="Aq4l">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <attorneys pgmap="473" id="b473-8">Horton, Brown &amp; Miller, for appellant.</attorneys>
+              <attorneys pgmap="473" id="b473-9">W. D. Munhall, for appellee.</attorneys>
+              <summary pgmap="471" id="b471-4">Action in case for personal injuries. Appeal from the Circuit Court of book county; the Hon. Charles M. Walker, Judge, presid­ing.</summary>
+              <disposition pgmap="471" id="Aei">Reversed with finding of fact.</disposition>
+              <headnotes pgmap="470" id="b470-10">1. Master and servant—what essential to sustain recovery for injury caused by defective appliances. A servant in order to recover for defects in the appliances of the business is called upon to estab­lish three propositions: first, that the appliance was defective; sec­ond, that the master had notice thereof or knowledge or ought to have had, and third, that the servant did not know of the defect and had not equal means of knowing with the master.</headnotes>
+              <headnotes pgmap="470" id="b470-11">2. Master and servant—when former not obligated to cover gearing. The master is not bound in law to cover the gearing, which is in plain sight, of a machine on which the servant has agreed to work, and is not liable to an action by a servant injured thereby for neglecting to do so, especially where there was no evi­dence tending to show that it was proper, practicable or feasible to cover the gearing on the machine in question.</headnotes>
+              <headnotes pgmap="471" id="b471-3">8. Master and servant—what within doctrine of assumed risTc. The risk of injury from working upon a derrick which is without covering to its gearing, if apparent, is assumed by the servant.</headnotes>
+              <p pgmap="471" id="b471-7">Statement by the Court. Appellee Tyma brought suit against Tarrant Foundry Company, appellant, to recover damages for personal injuries sustained by him January 13, 1903, while he was employed by appellant in its foundry in the city of Chicago as a moulder’s helper.</p>
+              <p pgmap="471" id="b471-8">The declaration consists of two counts. The first count avers that appellant was negligent in failing to use ordinary care to put and keep its crane and the windlass and gearing thereto attached in a safe con­dition and in good repair so that persons working on or about the same would not be injured, but it permitted one of the handles of the windlass of said derrick to become worn out, loose and in bad and unsafe condition, and commanded appellee then and there to use said handle and wind said windlass with said defective handle, in order to elevate a heavy piece of iron; and that appellee at such command, using due care for his own safety, took hold and commenced to wind and revolve said wind­lass, when through the carelessness of appellant as aforesaid, the defective handle became separated from and flew out of and away from said windlass with great force and throwing the right hand of appellee between certain cogs of the said derrick, and his right hand was thereby badly cut, crushed and wounded, so that four of the fingers of said right hand were then and there amputated, etc.</p>
+              <p pgmap="471(40) 472(70)" id="b471-9">The second count alleges the duty of appellant to use ordinary care to cover and keep covered the gearing of said crane or derrick, so as to prevent injury to persons working upon said crane, and that it did not regard its duty in that behalf, and did not use ordi­nary care to cover and keep covered said gearing, but negligently permitted said gearing to remain open and uncovered to the danger of persons working there­about, and that by reason thereof, when the handle of the windlass of said crane became loose, the right hand of appellee was caught between the unprotected gearings of said derrick and injured.</p>
+              <p pgmap="472" id="b472-5">The evidence in the record tends to show that ap­pellee Tyma commenced to work for appellant Jan­uary 2, 1903, as a common laborer, at first. Subse­quently he worked as a moulder’s helper in a certain room in appellant’s-foundry. About seven o’clock on the morning of the day he received the injury ap­pellee began his usual work in the room where he had been working up to that time, and continued his work for about one-half hour, when appellant’s foreman took appellee into another room and to one of its moulders and informed the moulder that appellee would be his helper; and then instructed appellee to do whatever the moulder told him to do.</p>
+              <p pgmap="472(178) 473(52)" id="b472-6">There was an ordinary hand derrick or crane near by, used for elevating and moving for short distances castings, etc. The crane was equipped with a shaft run­ning across two upright timbers and attached thereto. On this shaft was a small cog-wheel or pinion which intermeshed with a much larger cog-wheel attached to a drum. The weight to be raised and moved was attached to a rope which wound around the drum. The crane was operated by an iron crank or handle through the end of which was a square hole which fitted over the squared end of the shaft upon which the pinion or small cog-wheel was fastened. On one side of the crane was the slow gear and on the other side a faster gear, and this handle was used interchangeably for either gear. When the operative desired to use the slow gear he slipped the crank on the squared end of the shaft to which was fastened the slow gear; and if he desired to use the fast gear he would put the handle on the end of the shaft connected with that gear. At the time of the accident appellee was using the slow gear. The handle or crank had been in use many years at the time of the accident in question, and the square hole in the end was somewhat worn by use.</p>
+              <p pgmap="473" id="b473-4">According to the testimony of appellee, he had never used this crank or handle prior to the day of the ac­cident. On that day he had used it twice, and while using it the third time was injured.</p>
+              <p pgmap="473" id="b473-5">At the time in question the moulder had prepared, with the assistance of appellee, a large receptacle called a cope, weighing about 700 pounds, which was filled with sand. When thus filled the total weight of cope and sand was about two tons. The moulder directed appellee to raise it up by turning the drum of the crane with the handle. In obedience to the command of the moulder, appellee raised the cope to a height of four or five feet, and was then directed to lower it, which he proceeded to do by reversing the motion of the handle. While doing so the handle was jerked off, or it slipped off the end of the shaft and fell to the floor, and appellee either fell, throwing his hand into the gearing, or endeavored to stop the crane by taking hold of the gear, and his hand was drawn be­tween the cog wheels.</p>
+              <p pgmap="473" id="b473-6">The trial resulted in a verdict against appellant, upon which judgment was entered.</p>
+              <p pgmap="473" id="b473-7">A motion was made at the close of the plaintiff’s evidence to instruct the jury for the defendant, which was denied. A similar motion was made at the close of all the evidence and denied; and exceptions to the rulings of the court were preserved.</p>
+              <opinion type="majority">
+                <author pgmap="473" id="b473-10">Mr. Presiding Justice Smith</author>
+                <p pgmap="473" id="ATl">delivered the opinion of the court.</p>
+                <p pgmap="473(9) 474(72)" id="b473-11">A reversal of the judgment is urged upon the grounds that the evidence is insufficient to maintain a cause of action under either count of the declaration; that the trial court erred in refusing an instruction re­quested by appellant; and on the ground that counsel for appellee made improper remarks in his argument to the jury. In the view we take of the case it will be unnecessary for us to consider any other than the first ground above stated.</p>
+                <p pgmap="474" id="b474-5">The rule of law in respect to the burden of proof that is imposed upon a servant in a suit against his master for injuries resulting from defective machinery is stated in section 414 of Wood on the Law of Master and Servant, as follows: “The servant, in order to recover for defects in the appliances of the business, is called upon to establish three propositions: 1st. That the appliance was defective; 2nd. That the master had notice thereof, or knowledge, or ought to have had; 3rd. That the servant did not know of the defect, and had not equal means of knowing with the master”. This is the well settled law of this State. Goldie v. Werner, 151 Ill. 551; Armour v. Brazeau, 191 id. 117, 126; Sargent v. Baublis, 215 id. 428, 432, 433; Montgomery Coal Co. v. Barringer, 218 id. 327, 329.</p>
+                <p pgmap="474(155) 475(140)" id="b474-7">The evidence shows that the crank which appellee was using was the simplest possible appliance, and that it was designed to slip on and off the shaft readily and easily as it was desired to use it on one end or the other of the shaft. No method or means was pro­vided for fastening the crank on the shaft. The crank is not shown to be in a bad or unsafe condition, although it was worn, and it fitted loosely on the shaft. Everything about it was open and obvious at a glance, and appellee, by the exercise of ordinary care in the use of it, must have had full knowledge of all defects in it, and was therefore bound to take notice of any such defects. As said in Armour v. Brazeau, supra, he could not assume a fact against his own knowledge, and assume that a defect open to his observation did not exist. The evidence does not tend to prove that the handle was so worn out that it did not engage the shaft when properly placed thereon. On the contrary, it shows that the handle did engage and control the shaft when properly placed thereon, and that the cause of the injury, on appellee’s theory of the case, was the removal of the handle in some way from the shaft, whereby appellee lost control of the derrick after the load had been lifted to the desired height, and while appellee was endeavoring to lower it. The witness Motzny testified that when he saw appellee’s hand in the gearing the handle was on the ground, and the wit­ness picked it up and put it on the shaft. This he did doubtless in order to use it in releasing appellee’s hand.</p>
+                <p pgmap="475" id="b475-4">The witness Storz testified: “I examined the handle right after Tyma was hurt. I found it worn out, it fell out. The handle was loose there in the hole. The hole in the handle was worn out. The hole there was too big, and that is all. I couldn’t tell how much it was too loose. * * * I used the same crank handle there during the week that I worked there after this accident. We hoisted whatever loads happend to come along, quite a few were copes, lifted the same kind of cope that was being lifted at the time this man was hurt ’ ’.</p>
+                <p pgmap="475" id="b475-5">Appellee Tyma’s account of the accident is as fol­lows: “I raised the cope with both hands, then the moulder said ‘down’ and I commenced to let it down. The handle was loose and it kind of jerked and the handle flew off, and I got my hand in there. The handle went onto the floor”.</p>
+                <p pgmap="475" id="b475-6">This is all the evidence in the record to support the allegations in the first count of the declaration that the defective handle caused the injury to appellee. It does not warrant the inference, we think, that ap­pellee was injured through or by reason of any defect in the handle.</p>
+                <p pgmap="475(6) 476(159)" id="b475-7">Appellant called as witnesses Johnson, Abplanalp, Black, McIntyre, Stnmpf and Ingstead. All of these witnesses testified that the handle was not ont of re­pair at the time appellee was injured, and that the same handle was nsed every day on the same shaft for six months after the accident to appellee, without any change or repairs on either handle or shaft. Some of the witnesses testified that the handle in question had been used constantly from the day of the accident to appellee, January 13,1903, until the day of the trial of the case, May 14, 1907, without any change or re­pairs. We think, therefore, that the testimony on be­half of appellee fails to make out the cause of action averred in the first count of the declaration and, further, the great preponderance of the evidence in the case shows that the appliance furnished appellee was not defective, and that appellee’s injury was not caused by the worn condition of the handle.</p>
+                <p pgmap="476(211) 477(82)" id="b476-5">As to the negligence averred in the second count of the declaration that appellant neglected and failed to use ordinary care to cover and keep covered the gear­ing of the derrick and that in consequence of such neg­ligence appellee’s hand was thrown into and between the gearing and injured, the evidence fails to show that there was anything about the cog-wheels which made them dangerous, uncovered as they were, to an operative in the ordinary course of his employment in the operation of the derrick. It was not necessary for appellee in operating the derrick to put any part of his body in close proximity to the wheels. The un­controverted fact shown by testimony offered by ap­pellant is that appellee did not properly place the handle on the shaft or he pulled it off the shaft in some manner and it fell to the ground, and thereupon appellee took hold of one of the gear wheels and tried to keep it from turning and so keep the cope from going down to the ground; that he held on so long that his hand was forced around between the small pin­ion and the large wheel. After this testimony was given by Johnson and Abplanalp and Stumpf, appel­lee was recalled on rebuttal and made no denial of the statement of these witnesses. No evidence was offered in behalf of appellee controverting the testi­mony of these witnesses. Their evidence therefore stands uncontradicted or explained; and if true, as we think it must be considered, the negligence averred in the declaration was not the cause of the injury. On the contrary it appears that the injury to appellee’s hand was the result of his own inconsiderate and im­pulsive act.</p>
+                <p pgmap="477" id="b477-4">Furthermore, as the court said in Kolb v. Chicago Stamping Co., 33 Ill. App. 488, speaking through Mr. Justice Moran, at page 490 of the opinion: “There is no evidence tending to show that the appliances for doing the work were not of the usual kind, or that they lacked any safeguard that was in use on such machines, or that its operation was attended with any danger not plainly apparent and not easily avoided by ordinary attention. Counsel for appellant strenu­ously argues that it was negligence not to have the treadle boxed, but there is no evidence introduced to show that it could be boxed, or that it was usual or customary to box treadles on such machines”.</p>
+                <p pgmap="477" id="b477-5">So here, there is no evidence in this record that it is proper, practicable or feasible to cover the gearings on the derrick in question; or that on similar machines such gearings were covered or that it was usual and customary to cover them.</p>
+                <p pgmap="477" id="b477-6">A master is not bound in law to cover the gearing, which is in plain sight, of a machine on which the servant has agreed to work, and is not liable to an action by a servant injured thereby for neglecting to do so. McGuerty v. Hale, 161 Mass. 51; Wilson v. Mass. Cotton Mills, 169 id. 67.</p>
+                <p pgmap="477(46) 478(40)" id="b477-7">Appellee was a man forty years of age and of ordi­nary intelligence and powers of observation. He as­sumed to work on the derrick in its then condition without the gearing covered and without making any complaint as to its condition. The danger of getting caught in the gearing was an obvious one, and was as apparent to appellee as it would have been had he been particularly cautioned against it. Appellee, therefore, assumed the risk of operating the derrick without a guard or cover.</p>
+                <p pgmap="478" id="b478-5">Appellant’s motion at the close of all the evidence to instruct the jury to find the defendant not guilty should have been allowed and the jury should have been so instructed.</p>
+                <p pgmap="478" id="b478-6">The judgment of the Circuit Court is reversed, but the cause is not remanded, and a finding of fact is made.</p>
+                <p pgmap="478" id="b478-7">Reversed with finding of fact.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="470" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.2" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+              <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="471" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jp2_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.2" BETYPE="IDREF" FILEID="alto_00236_0"/>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jp2_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.2" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.3" BETYPE="IDREF" FILEID="alto_00236_1"/>
+              <area BEGIN="BL_472.4" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="473" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.2" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+              <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="474" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00237_1"/>
+        <fptr FILEID="jp2_00237_1"/>
+        <fptr FILEID="alto_00237_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.2" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.3" BETYPE="IDREF" FILEID="alto_00237_1"/>
+              <area BEGIN="BL_474.4" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="475" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00238_0"/>
+        <fptr FILEID="jp2_00238_0"/>
+        <fptr FILEID="alto_00238_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.2" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.3" BETYPE="IDREF" FILEID="alto_00238_0"/>
+              <area BEGIN="BL_475.4" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="476" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00238_1"/>
+        <fptr FILEID="jp2_00238_1"/>
+        <fptr FILEID="alto_00238_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_476.2" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_476.3" BETYPE="IDREF" FILEID="alto_00238_1"/>
+              <area BEGIN="BL_476.4" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="477" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00239_0"/>
+        <fptr FILEID="jp2_00239_0"/>
+        <fptr FILEID="alto_00239_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_477.2" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_477.3" BETYPE="IDREF" FILEID="alto_00239_0"/>
+              <area BEGIN="BL_477.4" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="478" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00239_1"/>
+        <fptr FILEID="jp2_00239_1"/>
+        <fptr FILEID="alto_00239_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.2" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.3" BETYPE="IDREF" FILEID="alto_00239_1"/>
+              <area BEGIN="BL_478.4" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.6" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            <area BEGIN="BL_473.1" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.5" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.7" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.5" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.7" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.9" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.10" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.6" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.6" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.5" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.6" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.10" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.5" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.6" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            <area BEGIN="BL_475.1" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.5" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0Z" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.10" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.11" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.8" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            <area BEGIN="BL_476.1" BETYPE="IDREF" FILEID="alto_00238_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.6" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aei" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.9" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-10" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.11" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.5" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq4l" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.7" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.8" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.8" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b476-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_476.5" BETYPE="IDREF" FILEID="alto_00238_1"/>
+            <area BEGIN="BL_477.1" BETYPE="IDREF" FILEID="alto_00239_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.7" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.8" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-6" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.7" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-5" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.6" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-4" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.5" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b477-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_477.8" BETYPE="IDREF" FILEID="alto_00239_0"/>
+            <area BEGIN="BL_478.1" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-9" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.14" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.1" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-7" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.12" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.9" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATl" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.12" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_473.13" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-11" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.14" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_474.1" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-3" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.4" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-8" BETYPE="IDREF" FILEID="casebody_0058"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.13" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

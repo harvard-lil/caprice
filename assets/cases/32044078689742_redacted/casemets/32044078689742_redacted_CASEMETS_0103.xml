@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0103" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kennedy v. Town of Normal">H. C. Kennedy, Plaintiff in Error, v. Town of Normal et al., Defendants in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 523</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00271_0" MIMETYPE="image/tiff" CHECKSUM="ef47c9b81a9d53a13e27f77626ae5de0" CHECKSUMTYPE="MD5" SIZE="43668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00271_0.tif"/>
+      </file>
+      <file ID="tiff_00271_1" MIMETYPE="image/tiff" CHECKSUM="4d04baaadac1f0c2aeb10abd36663b24" CHECKSUMTYPE="MD5" SIZE="55292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00271_1.tif"/>
+      </file>
+      <file ID="tiff_00272_0" MIMETYPE="image/tiff" CHECKSUM="7d6784e48b3148e4128fd7f81ec4e2db" CHECKSUMTYPE="MD5" SIZE="55174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00272_0.tif"/>
+      </file>
+      <file ID="tiff_00272_1" MIMETYPE="image/tiff" CHECKSUM="d186cfe5518f7bb0e0c4fe11fe90348f" CHECKSUMTYPE="MD5" SIZE="53410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00272_1.tif"/>
+      </file>
+      <file ID="tiff_00273_0" MIMETYPE="image/tiff" CHECKSUM="e4db5fb3750d32d2660999b9188b36de" CHECKSUMTYPE="MD5" SIZE="51284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00273_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00271_0" MIMETYPE="image/jp2" CHECKSUM="c0b894161fa1f94a1117440bd3d69055" CHECKSUMTYPE="MD5" SIZE="2397018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00271_0.jp2"/>
+      </file>
+      <file ID="jp2_00271_1" MIMETYPE="image/jp2" CHECKSUM="f481a13361b98dda5df2a8bbb6c1aa31" CHECKSUMTYPE="MD5" SIZE="2420599">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00271_1.jp2"/>
+      </file>
+      <file ID="jp2_00272_0" MIMETYPE="image/jp2" CHECKSUM="f724a95117e2b9a8ab19108d77d6cf9b" CHECKSUMTYPE="MD5" SIZE="2458182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00272_0.jp2"/>
+      </file>
+      <file ID="jp2_00272_1" MIMETYPE="image/jp2" CHECKSUM="013ed9724b0d0d99f2961875184535a6" CHECKSUMTYPE="MD5" SIZE="2430882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00272_1.jp2"/>
+      </file>
+      <file ID="jp2_00273_0" MIMETYPE="image/jp2" CHECKSUM="d5594f78e6c952433dac8d1de9b43195" CHECKSUMTYPE="MD5" SIZE="2447916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00273_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00271_0" MIMETYPE="text/xml" CHECKSUM="74b6c1e1df28343a1ed5e17b1fa44c4d" CHECKSUMTYPE="MD5" SIZE="79867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00271_0.xml"/>
+      </file>
+      <file ID="alto_00271_1" MIMETYPE="text/xml" CHECKSUM="0f7c5ed7c76b57cc6835e79a9947928d" CHECKSUMTYPE="MD5" SIZE="93041">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00271_1.xml"/>
+      </file>
+      <file ID="alto_00272_0" MIMETYPE="text/xml" CHECKSUM="63bca4346bfb0e055ab6d6f3e2bb0b8e" CHECKSUMTYPE="MD5" SIZE="90818">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00272_0.xml"/>
+      </file>
+      <file ID="alto_00272_1" MIMETYPE="text/xml" CHECKSUM="682baa250deff48cdbdf119f99f09b62" CHECKSUMTYPE="MD5" SIZE="87836">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00272_1.xml"/>
+      </file>
+      <file ID="alto_00273_0" MIMETYPE="text/xml" CHECKSUM="108d16c7c493ccd2502a242f28d42afd" CHECKSUMTYPE="MD5" SIZE="86556">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00273_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0103" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="527" firstpage="523">
+              <parties id="b541-4" pgmap="541">H. C. Kennedy, Plaintiff in Error, v. Town of Normal et al., Defendants in Error.</parties>
+              <decisiondate id="AyD" pgmap="541">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b541-8" pgmap="541">Bracken, Young &amp; Pierce, for plaintiff in error.</attorneys>
+              <attorneys id="b541-9" pgmap="541">R. L. Fleming, for defendants in error; Harvey Hart, of counsel.</attorneys>
+              <summary id="b541-7" pgmap="541">Mandamus. Error to the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AVs" pgmap="541">Affirmed.</disposition>
+              <headnotes id="b541-5" pgmap="541">1. Mandamus—when lies. The remedy by mandamus can only be invoked where the relator sets forth and establishes the right to coerce the respondent to do the thing sought to be done.</headnotes>
+              <headnotes id="b541-6" pgmap="541">2. Mandamus-—when not awarded to compel municipality to pay salary. Unless the right to the salary sought to be collected by mandamus is clear, the right to the remedy will be denied.</headnotes>
+              <opinion type="majority">
+                <author id="b541-10" pgmap="541">Mr. Justice Baume</author>
+                <p id="Asy" pgmap="541">delivered the opinion of the court.</p>
+                <p id="b541-11" pgmap="541">Plaintiff in error on March 11 and March 30, 1908, filed his original and amended petition for mandamus in the Circuit Court of McLean county against the town of Normal and the president, clerk, and treasurer of said town, defendants in error, to compel the pay­ment of an alleged balance due him for salary as street commissioner of said town, for the term beginning April 2, 1907, and ending April 1, 1908.</p>
+                <p id="b541-12" pgmap="541(101) 542(280)">The petition alleges that the town of Normal is a municipal corporation organized under the laws of the state and a certain special charter granted to it by the state on February 25, 1867; that on March 18, 1905, the town council of said town enacted an ordi­nance known as Ordinance VIII, section 1 of which ordinance provided that at the first regular meeting of the town council after the regular annual election the said town council should appoint various town officers, including a street commissioner, which officers should hold their respective offices for a term of one year and until their successors were appointed and qualified, and that they might be removed from office for any good cause shown; that by the several sections of said ordinance it was provided that the compensation to be received by said officers should be fixed annually prior to their appointment; that it should be the duty of the street commissioner, under and by direction of the town council, to keep the streets, alleys, sidewalks and crossings in good repair, to keep the streets clean from rubbish and obstruction, and to do all other acts in re­lation thereto required by the said council, and that it should be the duty of the town treasurer to collect and receive all moneys belonging to the town and to pay over to the proper parties money on all orders signed by the president and town clerk; that b.y a public record of its proceedings then made and entered in said town council on April 1, 1907, it appointed plaintiff in error street commissioner of said town and fixed his salary at $2 per day; that plaintiff in error accepted said appointment and qualified and entered upon the per­formance of the duties of said office; that he has been paid on account of his salary as such officer the sum of $297.60, and that all the balance of his salary for such portion of his term of office as had expired re­mained due and unpaid; that after the payment to him of $142 on account of his salary the said town council on July 1, 1907, enacted an appropriation ordinance which included an apportionment of $600 for the sal­ary of the street commissioner.</p>
+                <p id="b542-5" pgmap="542(102) 543(372) 544(271)">The petition further alleges the duty of the presi­dent, clerk and treasurer of the said town in the prem­ises, a demand by plaintiff in error, a refusal by the defendants in error, and that at the time of said de­mand and refusal there was ample funds in the hands of the treasurer of said town appropriated for the sal­ary of street commissioner to meet said demand. The defendants in error filed their joint and several an­swer to the petition, wherein they deny that the salary of plaintiff in error was fixed at $2 per day for each and every day in the year, and aver that said salary was fixed at $2 per day for each and every day that the plaintiff in error should be employed in and about the duties of his office. The answer avers that at the first regular meeting of the town council held in each of the months of May, June, July, August, September and October, 1907, plaintiff in error presented to said council a written bill for services as street commis­sioner for the preceding month, which several bills were paid as presented and such payment was ac­cepted by him as in full for all services during each of the said several months; that said bills as so presented included services during each of said several months as follows: April, 24-2/5 secular days; May, 22 days and 2 hours; June, 24 days and 2 hours; July, 26 days; August, 26% days, and September, 25% days; that for each of said months plaintiff in error made no claim for any services on Sunday, except for one-half day in September, as to which he especially reported that he had performed necessary services; that by so present­ing his bills and accepting payment in accordance therewith plaintiff in error thereby construed the order fixing his salary as following: $2 per day for such days as he should be engaged in performing the duties of his office, and that by so presenting his bills and accepting payment in accordance therewith, plaintiff in error was estopped from setting up any claim for additional services up to October 1, 1907; that at the regular meeting in November plaintiff in error pre­sented his bill for services for all of the working days in the month of October, when as a matter of fact he had been engaged only one-half of said days in per­forming his duties, and for that reason the committee of the town council refused to recommend the payment of said bill in full, but recommended the payment of only so much thereof as represented the days upon which plaintiff in error had actually performed any duty; that at the regular meeting in December, 1907, plaintiff in error presented his bill for salary for thirty-one days in October and thirty days in Novem­ber, which bill the town council declined to approve because plaintiff in error performed no services on any of four Sundays in each of said months and be­cause he was only engaged thirteen days in perform­ing services during the month of October, but said council was ready and willing and offered to pay plaintiff in error his salary for all of the days he was actually employed during said months. The answer further avers that plaintiff in error was not then and had not been street commissioner of said town since December 9,1907, upon which day the plaintiff in error notified said town council in writing that all orders or commands from the council or its members to him should be in writing signed by them and delivered to the clerk and that thereby plaintiff in error declined to further discharge the duties of street commissioner as required by law, and thereafter ceased to be enti­tled to any salary as such street commissioner; that at the regular meeting of the said town council held December 16,1907, the committee on streets and alleys presented its report upon the conduct of plaintiff in error, wherein said committee recited the conduct of plaintiff in error in presenting his bill for services as theretofore stated, and in giving the written notice re­ferred to, and adjudged that such conduct of plaintiff in error was good cause for his removal .from office; and that by a resolution then adopted by the town council plaintiff in error was removed from office for good cause shown.</p>
+                <p id="b544-5" pgmap="544">A demurrer interposed by plaintiff in error to said answer was sustained by the court and plaintiff in error abiding his demurrer judgment was rendered against him in bar of his action and for costs.</p>
+                <p id="b544-6" pgmap="544(51) 545(70)">It is elementary that the remedy by mandamus can only be invoked where the relator sets forth and estab­lishes a clear right to coerce the respondent to do the thing which the relator seeks to have done. In The People v. Rose, 225 Ill. 496, it was said: “The writ of mandamus has always been regarded as one of the highest writs known to our system of jurisprudence, and it only issues where there is a clear legal right to be enforced or a duty which ought to be performed. It is never issued in doubtful cases. (People v. Salomon, 46 Ill. 415; People v. Trustees of Schools, 86 id. 613; People v. Town of Old Town, 88 id. 202.)</p>
+                <p id="b545-5" pgmap="545">“The award of this writ even in cases where the relator has an undoubted legal right, is in the wise judicial discretion of the court.”</p>
+                <p id="b545-6" pgmap="545">In the People v. Getzendaner, 137 Ill. 234, the court quotes approvingly from High on Extraordinary Rem­edies, as follows: “It is not the province of manda­mus to settle the differences of opinion between mu­nicipal authorities and claimants as to the amount due for services rendered. All such cases of disputed accounts or claims against the municipality should be referred to the arbitrament of a jury or to the ordi­nary process of the courts; and they cannot be deter­mined by proceedings in mandamus.”</p>
+                <p id="b545-7" pgmap="545">The order of the town council fixing the salary of plaintiff in error at $2 per day is not necessarily to be construed as entitling plaintiff in error to $2 for each and every day in the year, and considering the fact that the amount appropriated to cover the salary of the street commissioner for the entire year was only $600, and considering also the conduct of plaint­iff in error in presenting bills for his services which covered only as many days in each month as he was actually engaged in the performance of his duties, we think, to say the least, that the right of plaintiff in error to a judgment awarding a peremptory writ of mandamus as prayed in his petition, is very doubtful, and that the trial court did not err in overruling the demurrer to the answer to the petition. The denial of the writ was not a clear abuse of judicial discretion. Accordingly the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b545-8" pgmap="545">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="541" ORDERLABEL="523" TYPE="page">
+        <fptr FILEID="tiff_00271_0"/>
+        <fptr FILEID="jp2_00271_0"/>
+        <fptr FILEID="alto_00271_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_541.2" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_541.1" BETYPE="IDREF" FILEID="alto_00271_0"/>
+              <area BEGIN="BL_541.3" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="542" ORDERLABEL="524" TYPE="page">
+        <fptr FILEID="tiff_00271_1"/>
+        <fptr FILEID="jp2_00271_1"/>
+        <fptr FILEID="alto_00271_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_542.2" BETYPE="IDREF" FILEID="alto_00271_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_542.3" BETYPE="IDREF" FILEID="alto_00271_1"/>
+              <area BEGIN="BL_542.4" BETYPE="IDREF" FILEID="alto_00271_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="543" ORDERLABEL="525" TYPE="page">
+        <fptr FILEID="tiff_00272_0"/>
+        <fptr FILEID="jp2_00272_0"/>
+        <fptr FILEID="alto_00272_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_543.3" BETYPE="IDREF" FILEID="alto_00272_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_543.2" BETYPE="IDREF" FILEID="alto_00272_0"/>
+              <area BEGIN="BL_543.4" BETYPE="IDREF" FILEID="alto_00272_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="544" ORDERLABEL="526" TYPE="page">
+        <fptr FILEID="tiff_00272_1"/>
+        <fptr FILEID="jp2_00272_1"/>
+        <fptr FILEID="alto_00272_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_544.2" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_544.3" BETYPE="IDREF" FILEID="alto_00272_1"/>
+              <area BEGIN="BL_544.4" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="545" ORDERLABEL="527" TYPE="page">
+        <fptr FILEID="tiff_00273_0"/>
+        <fptr FILEID="jp2_00273_0"/>
+        <fptr FILEID="alto_00273_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.3" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.2" BETYPE="IDREF" FILEID="alto_00273_0"/>
+              <area BEGIN="BL_545.4" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyD" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.10" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.6" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            <area BEGIN="BL_545.1" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-4" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.4" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.5" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.6" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.7" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            <area BEGIN="BL_541.8" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.11" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-9" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.12" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-6" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.6" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-7" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.7" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.5" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b542-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_542.5" BETYPE="IDREF" FILEID="alto_00271_1"/>
+            <area BEGIN="BL_543.1" BETYPE="IDREF" FILEID="alto_00272_0"/>
+            <area BEGIN="BL_544.1" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asy" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.14" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            <area BEGIN="BL_541.15" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-5" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.5" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-12" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.17" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            <area BEGIN="BL_542.1" BETYPE="IDREF" FILEID="alto_00271_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-8" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.8" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-10" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.13" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-11" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.16" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVs" BETYPE="IDREF" FILEID="casebody_0103"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.9" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

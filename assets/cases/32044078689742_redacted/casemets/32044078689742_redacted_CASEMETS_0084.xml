@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0084" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Mathias v. Miller">Walter Mathias, Appellee, v. George W. Miller, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 455</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="635d6921539e2d4e4979df962f98a036" CHECKSUMTYPE="MD5" SIZE="43834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_0.tif"/>
+      </file>
+      <file ID="tiff_00237_1" MIMETYPE="image/tiff" CHECKSUM="51654fe729825abbcda5cd917c23523f" CHECKSUMTYPE="MD5" SIZE="52716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_1.tif"/>
+      </file>
+      <file ID="tiff_00238_0" MIMETYPE="image/tiff" CHECKSUM="9d72e40f0e78edff763d479a18c2f77b" CHECKSUMTYPE="MD5" SIZE="45844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="2578263dae28f2887d8647319f50558d" CHECKSUMTYPE="MD5" SIZE="2397301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_0.jp2"/>
+      </file>
+      <file ID="jp2_00237_1" MIMETYPE="image/jp2" CHECKSUM="fde26802c28f06117d36b2a623b729fe" CHECKSUMTYPE="MD5" SIZE="2446152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_1.jp2"/>
+      </file>
+      <file ID="jp2_00238_0" MIMETYPE="image/jp2" CHECKSUM="85343be0f667466b1fe1b3a0890465c5" CHECKSUMTYPE="MD5" SIZE="2425471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00238_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="2281c6916a7e2d42c8de1fc8b1ae67cb" CHECKSUMTYPE="MD5" SIZE="74798">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00237_0.xml"/>
+      </file>
+      <file ID="alto_00237_1" MIMETYPE="text/xml" CHECKSUM="c0dac85ec8271ee2ce2c32ee0f60b4c5" CHECKSUMTYPE="MD5" SIZE="87284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00237_1.xml"/>
+      </file>
+      <file ID="alto_00238_0" MIMETYPE="text/xml" CHECKSUM="840b7ef3f8a5e0e9a49177eca385af05" CHECKSUMTYPE="MD5" SIZE="80131">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00238_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0084" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="457" firstpage="455">
+              <parties id="b473-8" pgmap="473">Walter Mathias, Appellee, v. George W. Miller, Ap­pellant.</parties>
+              <decisiondate id="A-2B" pgmap="473">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b473-11" pgmap="473">Walter Eden and Eden &amp; Martin, for appellant.</attorneys>
+              <attorneys id="b474-4" pgmap="474">R. M. Peadro and M. A. Mattox, for appellee.</attorneys>
+              <summary id="b473-10" pgmap="473">Bill for injunction. Appeal from the Circuit Court of Moultrie county; the Hon. W. G. Cochran, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A7k" pgmap="473">Reversed and remanded.</disposition>
+              <headnotes id="b473-9" pgmap="473">Injunctions—when should he denied. If a remedy at law exists, as in this case for replevin, an injunction should not be awarded.</headnotes>
+              <opinion type="majority">
+                <author id="b474-5" pgmap="474">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A7q" pgmap="474">delivered the opinion of the court.</p>
+                <p id="b474-6" pgmap="474(336) 475(127)">This is an appeal from a decree of the Circuit Court refusing to dissolve an injunction. The following facts are averred in the bill: Peter Mathias, the father of ap­pellee, leased from the defendant Miller 160 acres of land for the year ending March 1, 1908, at a rental of $1100, payable in equal installments on October 1,1907, and January 1, 1908. On March 15, 1907, Peter Math­ias sublet to appellee 80 acres of said land, upon his agreement to pay one-half the rent stipulated, where­upon appellee went into possession of said 80 acres and raised crops thereon. In August, 1907, Peter Mathias was adjudged bankrupt, and his trustee Webb took pos­session of all his property and appraised the same. Ap­pellant then filed against the estate of said bankrupt his claim for rent due under the lease, in the sum of $1100, which claim was allowed by the bankruptcy court as a first lien upon the crops belonging to said bankrupt, which were of the value of $1300. On September 28,1907, appellee tendered appellant $520, the amount that he had agreed to pay to his father as rent for the land sublet by him, but appellant refused to accept the same, where­upon said sum was deposited in a bank with instruc­tions to pay the same to appellant upon presentation of a receipt therefor. The money so tendered was bor­rowed by appellee, and payment of the same secured by a mortgage upon personal property including the crop raised by him upon the premises rented by him of his father. On October 16,1907, appellant caused a dis­tress warrant to be issued against the property of Peter Mathias and to be levied upon the crops which appellee had raised upon the premises in quesion. Upon the return of the distress warrant into court, appellant intervened in the proceeding, and on November 19, 1907, without notice to appellee, and with full knowl­edge that the property was that of appellee, procured an order for the sale of such of said property as was perishable. A temporary injunction was ordered against appellant, in accordance with the prayer of the bill, restraining him from further interference with said property or the rights of the orator in his manage­ment, control and sale of the same, conditioned upon appellee paying into court the sum of $550 for the use of appellant. On April 28,1908, a supplemental bill was filed by appellee, setting up that on the 11th day of April, 1908, a decree was entered by the bankruptcy court ordering the trustee to pay to appellant the sum of $550, which amount appellant refused to accept. A motion to dissolve said injunction was heard by the court upon affidavits, and denied.</p>
+                <p id="b475-5" pgmap="475">We are of opinion that the chancellor erred in refus­ing to dissolve the injunction. Appellee had a com­plete and adequate remedy at law. It is manifest that if the property levied upon was his property and not that of his father, he could have proceeded by replevin to obtain possession of the same, or have had his rights protected and adjudicated by intervening in the dis­tress proceeding, or by a trial of the right of property under the statute. The decree of the Circuit Court will accordingly be reversed and remanded with directions to dismiss the bill for want of equity.</p>
+                <p id="b475-6" pgmap="475">jReversed and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="473" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.2" BETYPE="IDREF" FILEID="alto_00237_0"/>
+              <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="474" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00237_1"/>
+        <fptr FILEID="jp2_00237_1"/>
+        <fptr FILEID="alto_00237_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.1" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_474.2" BETYPE="IDREF" FILEID="alto_00237_1"/>
+              <area BEGIN="BL_474.3" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="475" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00238_0"/>
+        <fptr FILEID="jp2_00238_0"/>
+        <fptr FILEID="alto_00238_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.3" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_475.2" BETYPE="IDREF" FILEID="alto_00238_0"/>
+              <area BEGIN="BL_475.4" BETYPE="IDREF" FILEID="alto_00238_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7k" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.12" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.5" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b475-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_475.6" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.5" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.4" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.8" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b474-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.8" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            <area BEGIN="BL_475.1" BETYPE="IDREF" FILEID="alto_00238_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-2B" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.13" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_473.14" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7q" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_474.6" BETYPE="IDREF" FILEID="alto_00237_1"/>
+            <area BEGIN="BL_474.7" BETYPE="IDREF" FILEID="alto_00237_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-10" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.10" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            <area BEGIN="BL_473.11" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-11" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.15" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-9" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.9" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

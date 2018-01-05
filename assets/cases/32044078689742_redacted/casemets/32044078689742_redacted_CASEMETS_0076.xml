@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0076" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Null v. Parsons">William D. Null et al., Appellees, v. Thomas Parsons et al., Appellants</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 436</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00227_1" MIMETYPE="image/tiff" CHECKSUM="fa28cc6c6a7b37a82586203e1c2ff7fb" CHECKSUMTYPE="MD5" SIZE="41564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00227_1.tif"/>
+      </file>
+      <file ID="tiff_00228_0" MIMETYPE="image/tiff" CHECKSUM="0f08e9861026db4afc9aead7b74236a9" CHECKSUMTYPE="MD5" SIZE="55438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00228_0.tif"/>
+      </file>
+      <file ID="tiff_00228_1" MIMETYPE="image/tiff" CHECKSUM="deb5d74c4d19240a0b856d83723b39c2" CHECKSUMTYPE="MD5" SIZE="51850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00228_1.tif"/>
+      </file>
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="5e5b66e62e62f3693a19601db96347c7" CHECKSUMTYPE="MD5" SIZE="43500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00227_1" MIMETYPE="image/jp2" CHECKSUM="ba0888b3596ceb1fc3d6999996323a60" CHECKSUMTYPE="MD5" SIZE="2309720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00227_1.jp2"/>
+      </file>
+      <file ID="jp2_00228_0" MIMETYPE="image/jp2" CHECKSUM="21b70ee78e516493a42efe803c6b8733" CHECKSUMTYPE="MD5" SIZE="2486482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00228_0.jp2"/>
+      </file>
+      <file ID="jp2_00228_1" MIMETYPE="image/jp2" CHECKSUM="90e49fbae049bab0c9e471c478485fbf" CHECKSUMTYPE="MD5" SIZE="2436995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00228_1.jp2"/>
+      </file>
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="fa5979845f9081f6180a11a0e2566f7b" CHECKSUMTYPE="MD5" SIZE="2405967">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00227_1" MIMETYPE="text/xml" CHECKSUM="631309131b457ed02563f2e22db28487" CHECKSUMTYPE="MD5" SIZE="76602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00227_1.xml"/>
+      </file>
+      <file ID="alto_00228_0" MIMETYPE="text/xml" CHECKSUM="70d0f085700e2b7dd45877afded67573" CHECKSUMTYPE="MD5" SIZE="81881">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00228_0.xml"/>
+      </file>
+      <file ID="alto_00228_1" MIMETYPE="text/xml" CHECKSUM="8c06ffa2bfe7471b4de5ec49f45ab5a3" CHECKSUMTYPE="MD5" SIZE="86771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00228_1.xml"/>
+      </file>
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="d00b61a4160c402e719dd57f49a52cda" CHECKSUMTYPE="MD5" SIZE="76132">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00229_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0076" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="439" firstpage="436">
+              <parties id="b454-4" pgmap="454">William D. Null et al., Appellees, v. Thomas Parsons et al., Appellants.</parties>
+              <decisiondate id="ACn" pgmap="454">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b454-10" pgmap="454">S. L. McCroby and William; H. Hartzell, for ap­pellants.</attorneys>
+              <attorneys id="b454-11" pgmap="454">Charles J. Scofield and John W. Williams, for appellees.</attorneys>
+              <summary id="b454-9" pgmap="454">Bill in chancery. Appeal from the Circuit Court of Hancock county; the Hon. John A. Gray, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AXE" pgmap="454">Affirmed.</disposition>
+              <headnotes id="b454-5" pgmap="454">1. Corporations—when principles of partnership applied to. If a corporation closely partakes of the nature of a partnership it will be governed by the rules and principles applied to partner­ships.</headnotes>
+              <headnotes id="b454-6" pgmap="454">2. Corporation—when dissolution of will he decreed. A cor­poration will be dissolved if it so closely partakes of the nature of a partnership as to be governed by the rules and principles of partnerships and it is shown that ill-will and dissension has arisen between the members forming the joint enterprise.</headnotes>
+              <headnotes id="b454-7" pgmap="454">3. Equity—when remedy at law does not oust jurisdiction. Under the law of partnerships, the existence of a remedy at; law will not preclude the interposition of equity to grant the relief of dissolution.</headnotes>
+              <headnotes id="b454-8" pgmap="454">4. Decree—when cannot he attached for insufficiency of prayer for relief. A decree entered pro confesso cannot be questioned on review upon the ground that it was not authorized by the relief prayed.</headnotes>
+              <opinion type="majority">
+                <author id="b454-12" pgmap="454">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A14" pgmap="454">delivered the opinion of the court.</p>
+                <p id="b454-13" pgmap="454(71) 455(334) 456(46)">This is a bill in chancery by appellees against ap­pellants, charging that appellees and appellants, all of whom lived in the vicinity of Burnside, in the lat­ter part of the year 1900, organized a company for mutual convenience in securing telephone service by a system of telephones; that they entered into a writ­ten agreement, which provided among other things that each member should share equally in the expense of construction, maintenance or extension of the line and should have equal privileges in its benefits; that such organization should be known as the Shake Bag Telephone Company; that pursuant to said agreement they expended about $600 in installing the system; that prior to January 1, 1907, they had contracts with divers switchboard companies located at Burnside, Illi­nois, for the exchange of telephone service; that in July, 1906, permission was granted to all who desired to do so, to connect with the Burnside Telephone Ex­change, and pursuant thereto appellees contracted with such exchanges and their respective telephones were connected therewith; that about February 1, 1907, appellants connected the line of said Shake Bag Telephone Company with the switchboard of Man­ning &amp; Steel at Burnside, Illinois, thus making two connections; that such connections had caused confus­ion and interruption in the use of the Shake Bag Tele­phone Company’s line, had greatly injured its effi­ciency and rendered the same wholly without a value for telephone purposes; that at the meeting of the members of said Shake Bag Telephone Company on March 1, 1907, a resolution was adopted providing that all members of the company who then had con­nection by the wires and poles of the company with the Burnside telephone exchange, should sever such connection within two days, and that in default thereof such connection might be severed by the board of man­agers of the company, or that a meeting might be called for the purpose of expelling such member, or other proceedings be taken to enforce obedience of the rule; that the board of managers thereafter severed the wire of said company which connected with the Manning &amp; Steel Switch, and that appellants again connected the same, thereby inflicting an irreparable injury to the use of property; that ill-will and dissen­sion had arisen between appellants and appellees and their relations had become so strained that they could no longer work in harmony, and said telephone line had become out of repair and its use entirely destroyed; that they own no other property in common and that a dissolution of said company and a sale of its prop­erty and division of the proceeds was necessary in order to preserve the rights of all.</p>
+                <p id="b456-5" pgmap="456">The bill prays that the court ascertain and declare the rights and interests of all the parties to the suit; that a dissolution of said company be decreed; that its property be partitioned among the several parties en­titled thereto, if practicable, and if not practicable that the same be sold and the proceeds divided among the parties in interest; and that if necessary a receiver be appointed to wind up the affairs of the company; to which is added the prayer for general relief. A general and special demurrer interposed by appellants to the bill was overruled. They abided by their, de­murrer, whereupon a decree was entered dissolving the co-partnership and ordering the master in chan­cery to make sale of the assets.</p>
+                <p id="b456-6" pgmap="456">We are of opinion that the facts set forth in the bill are sufficient to entitle the complainants to equitable relief and that the chancellor properly so held. It is manifest that the Shake Bag Telephone Company was a joint enterprise and so closely partook of the nature of a partnership as to be governed by the rules and principles of partnerships. Being a partnership at will, it could be terminated at any time. Metcalfe v. Bradshaw, 145 Ill. 124.</p>
+                <p id="b456-7" pgmap="456(105) 457(42)">The bill avers that ill-will and dissension had arisen between the members so that they could no longer work together in harmony. In such case a court of equity will dissolve a partnership. Whalen v. Stephens, 193 Ill. 121. This is not a proceeding for partition of either real or personal estate, as contended by appel­lants. It is in effect but a bill for the dissolution of a partnership. If any of the partnership property is real estate, for the purposes of the partnership the same will be in equity considered as personal prop­erty. The only interest of the members in the part­nership property, whether real or personal, is their proportionate share of the residue upon a final settle­ment of the partnership business. Simpson v. Leech, 86 Ill. 286; Galbraith v. Tracy, 153 Ill. 54; Van Hou­sen v. Copeland, 180 Ill. 74.</p>
+                <p id="b457-4" pgmap="457">That appellees had not a full and complete remedy at law under section 8 of the by-laws, which provides for the expulsion of any member for a refusal to obey the rules, is too obvious to warrant discussion; but if it were otherwise, such remedy at law would not pre­clude a suit in equity of the present character. 2 Bates Partnership, sec. 907; 2 Bindley Partnership, p. 486. It is unnecessary to consider the contention that the specific prayer for relief is insufficient to war­rant the decree rendered, or that the decree fails to declare the rights of the respective parties. Appellants by abiding by their demurrer, failing to answer, and permitting a default pro confesso to go against them, cannot now question the decree. It appears upon the face of the bill that all members of the partnership are made either parties complainant or defendant. There is therefore no want of proper parties, as is contended, by appellants.</p>
+                <p id="b457-5" pgmap="457">The decree of the Circuit Court will be affirmed.</p>
+                <p id="b457-6" pgmap="457">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="454" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00227_1"/>
+        <fptr FILEID="jp2_00227_1"/>
+        <fptr FILEID="alto_00227_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.1" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.2" BETYPE="IDREF" FILEID="alto_00227_1"/>
+              <area BEGIN="BL_454.3" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="455" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00228_0"/>
+        <fptr FILEID="jp2_00228_0"/>
+        <fptr FILEID="alto_00228_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.3" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.2" BETYPE="IDREF" FILEID="alto_00228_0"/>
+              <area BEGIN="BL_455.4" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="456" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00228_1"/>
+        <fptr FILEID="jp2_00228_1"/>
+        <fptr FILEID="alto_00228_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.2" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.3" BETYPE="IDREF" FILEID="alto_00228_1"/>
+              <area BEGIN="BL_456.4" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="457" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.2" BETYPE="IDREF" FILEID="alto_00229_0"/>
+              <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.9" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_454.10" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.8" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.5" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.6" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.7" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACn" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.12" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_454.13" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.7" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            <area BEGIN="BL_457.1" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.6" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.7" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.6" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.5" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.4" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A14" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.17" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_454.18" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b456-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_456.5" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-13" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.19" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_455.1" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            <area BEGIN="BL_456.1" BETYPE="IDREF" FILEID="alto_00228_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-12" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.16" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.15" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b454-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.14" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXE" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_454.11" BETYPE="IDREF" FILEID="alto_00227_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

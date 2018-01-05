@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0106" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kuhn v. Eppstein">Isaac Kuhn, Appellee, v. Samuel Eppstein et al., Appellants</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 536</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00277_1" MIMETYPE="image/tiff" CHECKSUM="0019d65c2974eacce87cf33a73da976c" CHECKSUMTYPE="MD5" SIZE="36668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_1.tif"/>
+      </file>
+      <file ID="tiff_00278_0" MIMETYPE="image/tiff" CHECKSUM="a060f9992688c5cd111f09f355e4bd7b" CHECKSUMTYPE="MD5" SIZE="51810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00278_0.tif"/>
+      </file>
+      <file ID="tiff_00278_1" MIMETYPE="image/tiff" CHECKSUM="a7c41f7673288d695420fe7afab5f39e" CHECKSUMTYPE="MD5" SIZE="53376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00278_1.tif"/>
+      </file>
+      <file ID="tiff_00279_0" MIMETYPE="image/tiff" CHECKSUM="b8c2581aa15538f175ddb3c3008e0965" CHECKSUMTYPE="MD5" SIZE="53410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00279_0.tif"/>
+      </file>
+      <file ID="tiff_00279_1" MIMETYPE="image/tiff" CHECKSUM="b37c5e1795fea66ced97332e61d361df" CHECKSUMTYPE="MD5" SIZE="53384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00279_1.tif"/>
+      </file>
+      <file ID="tiff_00280_0" MIMETYPE="image/tiff" CHECKSUM="6bbb05b3f35783c93e8f66ca5e36b7bb" CHECKSUMTYPE="MD5" SIZE="54716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00280_0.tif"/>
+      </file>
+      <file ID="tiff_00280_1" MIMETYPE="image/tiff" CHECKSUM="aa33c71195ae60ece218a7c7506b0d5f" CHECKSUMTYPE="MD5" SIZE="53220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00280_1.tif"/>
+      </file>
+      <file ID="tiff_00281_0" MIMETYPE="image/tiff" CHECKSUM="b0cdca39ba6d6e236cc800bfb054582c" CHECKSUMTYPE="MD5" SIZE="44194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00277_1" MIMETYPE="image/jp2" CHECKSUM="69f890917cbcef5d9234a65a7883290b" CHECKSUMTYPE="MD5" SIZE="2290852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_1.jp2"/>
+      </file>
+      <file ID="jp2_00278_0" MIMETYPE="image/jp2" CHECKSUM="3a9bf117015dd5620c5a2f4bcedd70b7" CHECKSUMTYPE="MD5" SIZE="2442551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00278_0.jp2"/>
+      </file>
+      <file ID="jp2_00278_1" MIMETYPE="image/jp2" CHECKSUM="6227e2af62bf7ccbe4c5a9c735e6c472" CHECKSUMTYPE="MD5" SIZE="2388917">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00278_1.jp2"/>
+      </file>
+      <file ID="jp2_00279_0" MIMETYPE="image/jp2" CHECKSUM="479e469484d4c19431ccedbcdc2601f2" CHECKSUMTYPE="MD5" SIZE="2435136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00279_0.jp2"/>
+      </file>
+      <file ID="jp2_00279_1" MIMETYPE="image/jp2" CHECKSUM="0c8b4a69f384a0135c6c229d2ed1e59b" CHECKSUMTYPE="MD5" SIZE="2413145">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00279_1.jp2"/>
+      </file>
+      <file ID="jp2_00280_0" MIMETYPE="image/jp2" CHECKSUM="ada73cf9a5c99feed8a7c80dabe9869e" CHECKSUMTYPE="MD5" SIZE="2467303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00280_0.jp2"/>
+      </file>
+      <file ID="jp2_00280_1" MIMETYPE="image/jp2" CHECKSUM="3b873740e36e43a99bfda739c4e2dba2" CHECKSUMTYPE="MD5" SIZE="2398491">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00280_1.jp2"/>
+      </file>
+      <file ID="jp2_00281_0" MIMETYPE="image/jp2" CHECKSUM="7b6f619edfece271c5b37a02792da0cb" CHECKSUMTYPE="MD5" SIZE="2364904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00277_1" MIMETYPE="text/xml" CHECKSUM="aa58db97ffc8203bd44dcdbc5395b2e5" CHECKSUMTYPE="MD5" SIZE="64831">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00277_1.xml"/>
+      </file>
+      <file ID="alto_00278_0" MIMETYPE="text/xml" CHECKSUM="5bcff2d62a27c2045f020a96861f805d" CHECKSUMTYPE="MD5" SIZE="84405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00278_0.xml"/>
+      </file>
+      <file ID="alto_00278_1" MIMETYPE="text/xml" CHECKSUM="ad76971a1061f2bb7e3fa8ef94719fad" CHECKSUMTYPE="MD5" SIZE="88907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00278_1.xml"/>
+      </file>
+      <file ID="alto_00279_0" MIMETYPE="text/xml" CHECKSUM="a51c35a498b01ebde06e6d94a5ab4196" CHECKSUMTYPE="MD5" SIZE="85894">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00279_0.xml"/>
+      </file>
+      <file ID="alto_00279_1" MIMETYPE="text/xml" CHECKSUM="ac34418af90247b0966d54ab03095897" CHECKSUMTYPE="MD5" SIZE="87796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00279_1.xml"/>
+      </file>
+      <file ID="alto_00280_0" MIMETYPE="text/xml" CHECKSUM="1b527db594da8c143ec3cc3493b6af92" CHECKSUMTYPE="MD5" SIZE="86842">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00280_0.xml"/>
+      </file>
+      <file ID="alto_00280_1" MIMETYPE="text/xml" CHECKSUM="252d0bf9e931ff0ec15ed7edbfed4942" CHECKSUMTYPE="MD5" SIZE="90760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00280_1.xml"/>
+      </file>
+      <file ID="alto_00281_0" MIMETYPE="text/xml" CHECKSUM="64cbde92ce08ee85d7363e7e8ec567b3" CHECKSUMTYPE="MD5" SIZE="72668">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00281_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0106" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="543" firstpage="536">
+              <parties id="b554-7" pgmap="554">Isaac Kuhn, Appellee, v. Samuel Eppstein et al., Ap­pellants.</parties>
+              <decisiondate id="AbA" pgmap="554">Opinion filed Novem­ber 17, 1908.</decisiondate>
+              <attorneys id="b554-10" pgmap="554">William E. O’Neill and A. D. Mulliken, for ap­pellants.</attorneys>
+              <attorneys id="b554-11" pgmap="554">Ray &amp; Dobbins, for appellee.</attorneys>
+              <summary id="b554-9" pgmap="554">Bill in equity. Appeal from the Circuit Court of Champaign county; the Hon. Solon Philbrick, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AZr" pgmap="554">Affirmed.</disposition>
+              <headnotes id="b554-8" pgmap="554">Specific performance—relief accorded where property sought to be obtained pursuant to contract has been destroyed pendente lite. In a proceeding to enforce specific performance of a contract for the sale and conveyance of improved property if the improvements upon such property have been destroyed pendente lite, the difference between the market value of the land immediately before the de­struction of such improvements and the like value immediately thereafter should be ascertained and a corresponding abatement made in the purchase price provided for in the contract.</headnotes>
+              <opinion type="majority">
+                <author id="b555-4" pgmap="555">Mr. Justice Baume</author>
+                <p id="A8" pgmap="555">delivered the opinion of the court.</p>
+                <p id="b555-5" pgmap="555">This is an original and supplemental bill in equity filed by appellee against appellant to enforce specific performance of the following contract:</p>
+                <p id="b555-6" pgmap="555">“Champaign, Illinois, June 7, 1904.</p>
+                <p id="b555-7" pgmap="555">“I herewith acknowledge receipt of five hundred dollars as part payment on my building, 41 Main Street, which I sell and convey to Isaac Kuhn for sev­enty-five hundred dollars; and I hereby agree to de­liver to Isaac Kuhn, Champaign, Illinois, on or before July 1, a clear title and deed, free of any and all en­cumbrances whatsoever, taxes paid by me to date of delivery of abstract, on payment of balance by said Isaac Kuhn of seven thousand dollars.</p>
+                <p id="b555-8" pgmap="555">Samuel EHPSTEiisr.”</p>
+                <p id="b555-9" pgmap="555(216) 556(317)">At the date of the contract Samuel Eppstein was the equitable owner of the premises involved, the legal title to which was in his son, William D., and said premises were then occupied by one McDonnell as a tenant of Samuel Eppstein. Prior to July 1, 1904, William D. Eppstein executed a deed conveying said premises to appellee and the deed was sent to a bank in Champaign with instructions to deliver the same to appellee, upon the payment by him of $7,000, the balance of the purchase price. On July 1, 1904, appel­lee tendered to the bank the sum of $7,000 and then demanded a delivery to him of the deed and possession of the premises. The officers of the bank having no authority with reference to the delivery of the posses­sion of the premises then occupied by McDonnell, re­fused the demand of appellee and he thereafter filed his bill for a specific performance of the contract, and for an abatement of the purchase price on account of damages claimed to have been sustained by reason of the failure of Samuel Eppstein to perform the con­tract. McDonnell remained in possession of the prem­ises until December 22, 1904, when the building thereon was destroyed by fire, whereupon he vacated the same and claimed no further right or interest therein. Ap­pellee then filed his supplemental bill wherein he al­leged the destruction of the building by fire, and prayed that an abatement be made from the contract price of the amount of deterioration in the value of the premises resulting from the fire. The right of appellee to the relief prayed was sustained by the Supreme Court in an opinion reported in 219 Ill. 154. The cause was then heard" in the Circuit Court to determine the amount of damages to which appellee was entitled for the non-performance of the contract and the abate­ment to be made from the contract price by reason of the deterioration in the market value of the premises resulting from the fire. Upon such hearing a decree was entered, from which decree, appellants here pros­ecuted an appeal to the Supreme Court. Upon that appeal the decree of the Circuit Court was reversed and the cause remanded “with directions to the Cir­cuit Court to hear further testimony of the parties, or either of them, as to the difference in the value of the premises, if any, resulting from the encumbrance by virtue of the lease to McDonnell and the deterioration in the market value caused by the fire,” and it was there further said by the court: “If the proof shows that the market value of the premises has been dimin­ished by one or both of these causes, the amount of such diminution is to be deducted from the $7,000 and a conveyance ordered made to appellee upon payment of the balance.” Eppstein v. Kuhn, 225 Ill. 115. Upon the remandment of said cause to the Circuit Court the same was referred to a special master to take and re­port the proofs together with his findings thereon, and thereafter the said special master filed his report wherein he found:</p>
+                <p id="b556-5" pgmap="556(48) 557(18)">“First. That while the evidence shows that the probable market value of the premises at the time of the sale to complainant Kuhn was less than if said premises had been free and clear of said lease thereon to McDonnell, still the evidence fails to show any defi­nite amount, so that a finding of nominal damages is all that can he made on said account.</p>
+                <p id="b557-5" pgmap="557">“Second. That the evidence shows that the market value of the premises in question has been damaged or deteriorated on account of the fire in question, which occurred on the 22nd day of December, 1904, to the amount of $3,918.”</p>
+                <p id="b557-6" pgmap="557">Objections were filed both by the appellee and the appellants to said report of the master, which objec­tions were by him overruled, and upon said objections standing as exceptions to said report, the cause was heard by the chancellor who overruled the exceptions and entered a decree finding that the market value of the premises had been damaged in the amount of $3,918, and that said sum should be deducted from the balance of the contract price of $7,000, leaving a bal­ance of $3,082 due the appellants. The decree fur­ther directed that upon the payment of said sum of $3,082 by appellee to appellants, or to the clerk of the court for said appellants, that the bank deliver to ap­pellee the deed for the premises in controversy; that upon the failure or refusal of the bank so to do, the special master execute the decree by conveying the said premises to said appellee.</p>
+                <p id="b557-7" pgmap="557">It is insisted on behalf of appellants that the decree is predicated upon the admission and consideration by the chancellor of incompetent and improper evidence as to the damage resulting from the destruction by fire of the building upon the premises; that the destruction of the building by fire resulted in a permanent injury to the premises and that in such case the true measure of damages is the difference between the market value of the land immediately before the fire occurred and the like value immediately after the fire.</p>
+                <p id="b557-8" pgmap="557">The evidence discloses that the building upon the premises was not merely damaged or rendered less capable of use for the purpose for which it was in­tended and used, but was practically wholly destroyed by fire. In such case the injury to the premises may</p>
+                <p id="b558-4" pgmap="558">properly be held to be permanent in character and the measure of damages as contended for by appellants, should be applied. The case of Fitz Simons v. Braun, 199 Ill. 390, relied upon by appellee as announcing a different rule, is to be distinguished from the case at bar. The Fitz Simons case was an action to recover damages for an injury to a building caused by the use of dynamite in excavating a tunnel, where the evidence tended to show that the injury to the building was of such a character that it could be precisely remedied by repairs, and where no interest or right in the land apart from the building was involved, and it was held that the cost of repairing the building and restoring it to its proper condition was the true measure of the damages.</p>
+                <p id="b558-5" pgmap="558">In Lombard v. Chicago Sinai Congregation, 64 Ill. 477, Lombard filed a bill to enforce the specific performance of a contract to convey to him certain premises including a church edifice, and before the contract was executed the building was destroyed by fire. It was held that Lombard was entitled to maintain his bill and to ob­tain so much of the property agreed to be sold as he could get and compensation to be deducted from the purchase money for the portion of the property de­stroyed, pending the option of the vendors. The com­pensation here mentioned we take to mean the amount required to make the vendee whole; that is, to give to him the equivalent of what he lost by the failure of the vendor to convey the premises contracted to be con­veyed. And where, as in the case at bar, the premises contracted to be conveyed are permanently injured or are impossible of restoration, the compensation to be awarded to the complainant vendee is the difference between the market value of the property in its con­dition immediately before the injury and the like value immediately after the injury.</p>
+                <p id="b558-6" pgmap="558(25) 559(284)">Appellants assume a somewhat anomalous position in this case. Notwithstanding their contention that evi­dence as to the cost of the restoration of the building upon the premises, or rather the cost of the construction of a new building similar in design to the one destroyed by fire, was improperly admitted and considered by the court, the record discloses that the only evidence introduced on behalf of appellants except the testi­mony of the witness Hefferman, was evidence of that character. Charles M. Ford and George S. Meades, two building contractors, called as witnesses on behalf of appellants, testified that they would be willing to put the building in its former condition for $2,100 and $2,140 respectively. Hefferman, the other witness called on behalf of appellants, did not assume to state his opinion as to the value of the premises before the fire, but merely testified that the property in its then condition was worth between $6,000 and $6,500 and that he would then give for it $6,500 in cash. The witness testified in February, 1907, or thereafter, and the valuations fixed by him were as of the date when he testified. It is obvious, therefore, that his testi­mony did not shed any light upon the real question at issue,, which was the value of the property at the date of the contract, July 1, 1904. That appellants have shifted their position with reference to the compe­tency of evidence tending to show the cost of replacing the building upon the premises, as a proper element to be considered in determining the amount of dam­ages to be awarded appellee, is apparent also from the fact that they interposed no objection to evidence of that character given by the witnesses Charles C. Glenn, J. H. Vredenburg, Frank H. Jahr and B. F. Miller, called upon behalf of appellee.</p>
+                <p id="b559-4" pgmap="559(71) 560(302)">Appellee, however, offered competent evidence to determine the amount of damages under the correct rule. The uncontradicted evidence tends to show that the lot without the building was worth on July 1, 1904, from $3,000 to $3,500. F. H. Jahr testified that the improvements on the lot were worth $5,000 prior to the fire. Seeley Brown testified that the building without regard to the lot was worth probably from $3,500 to $4,000 at the time of the fire. Charles J. Mulliken tes­tified that the building without reference to the lot was worth about $4,000 at the time of the fire, and that the building and lot free and clear of encumbrances was worth about $7,000 on July 1, 1904. Robert C. Wag­ner testified that the property on July 1,1904, prior to the fire was worth about $7,000. E. A. Gardner testi­fied that the building was worth about $4,000 just prior to the fire. John B. Weeks testified that the build­ing was worth about $5,000 just prior to the fire. J. F. Hessel testified that the building was worth at least $4,900 at the time of the fire. H. T. Sperry testi­fied that the value of the building prior to the fire was about $4,500. There is ample competent evidence in the case to determine the amount of damages which appellee is entitled to recover measuring the same by the true rule, and we are of opinion that the finding of the master approved by the chancellor, fixing the amount of such damages at $3,918, is approximately correct and .should be sustained. The evidence tends to show that there was a marked advance in the mar­ket value of business property in the city of Cham­paign following July 1, 1904, and in view of the fact that much of the evidence as to the value of the build­ing prior to the fire related to the 22nd of December, 1904, when the fire occurred, it is probable that such advance in the market value of property following July 1, 1904, influenced the witnesses to fix the value of the building immediately before the fire at a greater amount than the building was actually worth on July 1, 1904.</p>
+                <p id="b560-5" pgmap="560(72) 561(190)">Appellee has assigned cross errors on the finding of the master approved by the chancellor that the evi­dence fails to show any definite amount of damage sustained by appellee by reason of the fact that the premises involved were subject to an encumbrance thereon of a lease to McDonnell, and that appellee was entitled to no more than nominal damages on that account, and also upon the finding that appellee was only entitled to $3,918 as damages for deterioration in the market value of the premises caused by the fire. Appellee insists that the evidence in the record is ample to sustain a finding that damages amounting to at least $500 were sustained by him because of the leasehold encumbrance. Aside from the testimony of appellee that he gave at least $1,000 or $1,200 more for the property than he would have given if there had not been a lease on it, there is no evidence in the record to sustain the claim of appellee for damages upon that account. Such testimony was wholly insufficient to justify a finding in favor of appellee of any depre­ciation in the market value of the premises occasioned by the leasehold encumbrance. Appellee was only en­titled to recover the damages to the market value of the premises occasioned by said encumbrance, and any personal considerations which may have moved him to pay more for the property without such encumbrance manifestly constituted no proper basis upon which to determine the depreciation, if any, in the market value of the premises occasioned by such encumbrance.</p>
+                <p id="b561-5" pgmap="561">Upon a consideration of the whole record we are not persuaded that the decree is erroneous and it will, therefore, be affirmed.</p>
+                <p id="b561-6" pgmap="561">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="554" ORDERLABEL="536" TYPE="page">
+        <fptr FILEID="tiff_00277_1"/>
+        <fptr FILEID="jp2_00277_1"/>
+        <fptr FILEID="alto_00277_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.1" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.2" BETYPE="IDREF" FILEID="alto_00277_1"/>
+              <area BEGIN="BL_554.3" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="555" ORDERLABEL="537" TYPE="page">
+        <fptr FILEID="tiff_00278_0"/>
+        <fptr FILEID="jp2_00278_0"/>
+        <fptr FILEID="alto_00278_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_555.2" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_555.1" BETYPE="IDREF" FILEID="alto_00278_0"/>
+              <area BEGIN="BL_555.3" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="556" ORDERLABEL="538" TYPE="page">
+        <fptr FILEID="tiff_00278_1"/>
+        <fptr FILEID="jp2_00278_1"/>
+        <fptr FILEID="alto_00278_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_556.2" BETYPE="IDREF" FILEID="alto_00278_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_556.3" BETYPE="IDREF" FILEID="alto_00278_1"/>
+              <area BEGIN="BL_556.4" BETYPE="IDREF" FILEID="alto_00278_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="557" ORDERLABEL="539" TYPE="page">
+        <fptr FILEID="tiff_00279_0"/>
+        <fptr FILEID="jp2_00279_0"/>
+        <fptr FILEID="alto_00279_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_557.3" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_557.2" BETYPE="IDREF" FILEID="alto_00279_0"/>
+              <area BEGIN="BL_557.4" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="558" ORDERLABEL="540" TYPE="page">
+        <fptr FILEID="tiff_00279_1"/>
+        <fptr FILEID="jp2_00279_1"/>
+        <fptr FILEID="alto_00279_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_558.1" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_558.2" BETYPE="IDREF" FILEID="alto_00279_1"/>
+              <area BEGIN="BL_558.3" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="559" ORDERLABEL="541" TYPE="page">
+        <fptr FILEID="tiff_00280_0"/>
+        <fptr FILEID="jp2_00280_0"/>
+        <fptr FILEID="alto_00280_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_559.3" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_559.2" BETYPE="IDREF" FILEID="alto_00280_0"/>
+              <area BEGIN="BL_559.4" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="560" ORDERLABEL="542" TYPE="page">
+        <fptr FILEID="tiff_00280_1"/>
+        <fptr FILEID="jp2_00280_1"/>
+        <fptr FILEID="alto_00280_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_560.2" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_560.3" BETYPE="IDREF" FILEID="alto_00280_1"/>
+              <area BEGIN="BL_560.4" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="561" ORDERLABEL="543" TYPE="page">
+        <fptr FILEID="tiff_00281_0"/>
+        <fptr FILEID="jp2_00281_0"/>
+        <fptr FILEID="alto_00281_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.3" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.2" BETYPE="IDREF" FILEID="alto_00281_0"/>
+              <area BEGIN="BL_561.4" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.8" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-9" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.9" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            <area BEGIN="BL_554.10" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.6" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.7" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.5" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.6" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            <area BEGIN="BL_559.1" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b556-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_556.5" BETYPE="IDREF" FILEID="alto_00278_1"/>
+            <area BEGIN="BL_557.1" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.8" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.5" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.5" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.7" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.6" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.5" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            <area BEGIN="BL_560.1" BETYPE="IDREF" FILEID="alto_00280_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZr" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.11" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-10" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.14" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-11" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.15" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbA" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.12" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            <area BEGIN="BL_554.13" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b560-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_560.5" BETYPE="IDREF" FILEID="alto_00280_1"/>
+            <area BEGIN="BL_561.1" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-7" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.9" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-6" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.8" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-5" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.7" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.4" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.5" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            <area BEGIN="BL_555.6" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-4" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.4" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-9" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.11" BETYPE="IDREF" FILEID="alto_00278_0"/>
+            <area BEGIN="BL_556.1" BETYPE="IDREF" FILEID="alto_00278_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b555-8" BETYPE="IDREF" FILEID="casebody_0106"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_555.10" BETYPE="IDREF" FILEID="alto_00278_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

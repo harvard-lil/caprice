@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0041" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Barni v. Springer">Joe Barni, Defendant in Error, v. Warren Springer, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,228</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 300</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00159_1" MIMETYPE="image/tiff" CHECKSUM="b35157af15ea6945a291c23a08a1eef5" CHECKSUMTYPE="MD5" SIZE="39550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_1.tif"/>
+      </file>
+      <file ID="tiff_00160_0" MIMETYPE="image/tiff" CHECKSUM="5c808cb8fa6f354d239d00966a0caf29" CHECKSUMTYPE="MD5" SIZE="46870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00160_0.tif"/>
+      </file>
+      <file ID="tiff_00160_1" MIMETYPE="image/tiff" CHECKSUM="d043406eaf93ba840bd9d3c6358cef8b" CHECKSUMTYPE="MD5" SIZE="54120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00160_1.tif"/>
+      </file>
+      <file ID="tiff_00161_0" MIMETYPE="image/tiff" CHECKSUM="88169c5737fd0e7523536e01a30ba7ea" CHECKSUMTYPE="MD5" SIZE="54514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00161_0.tif"/>
+      </file>
+      <file ID="tiff_00161_1" MIMETYPE="image/tiff" CHECKSUM="38cbad265cfeba0f9901eb534152eaeb" CHECKSUMTYPE="MD5" SIZE="47952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00161_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00159_1" MIMETYPE="image/jp2" CHECKSUM="dba6e9993e497474b583ec92099f42f4" CHECKSUMTYPE="MD5" SIZE="2301121">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_1.jp2"/>
+      </file>
+      <file ID="jp2_00160_0" MIMETYPE="image/jp2" CHECKSUM="81fd93539171e833f467dc049bd59659" CHECKSUMTYPE="MD5" SIZE="2407408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00160_0.jp2"/>
+      </file>
+      <file ID="jp2_00160_1" MIMETYPE="image/jp2" CHECKSUM="f01918b77337e87649f05343c6f58c8d" CHECKSUMTYPE="MD5" SIZE="2448458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00160_1.jp2"/>
+      </file>
+      <file ID="jp2_00161_0" MIMETYPE="image/jp2" CHECKSUM="85a3065822417bbe9a0e99938baacbaa" CHECKSUMTYPE="MD5" SIZE="2466689">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00161_0.jp2"/>
+      </file>
+      <file ID="jp2_00161_1" MIMETYPE="image/jp2" CHECKSUM="11d8cae099c6b5109c1c6103605e78b7" CHECKSUMTYPE="MD5" SIZE="2362246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00161_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00159_1" MIMETYPE="text/xml" CHECKSUM="8249282f3c5c0c01d15a740573a81b0e" CHECKSUMTYPE="MD5" SIZE="75813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00159_1.xml"/>
+      </file>
+      <file ID="alto_00160_0" MIMETYPE="text/xml" CHECKSUM="6740c8da37abf6acd5aa3afabf72d20b" CHECKSUMTYPE="MD5" SIZE="81927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00160_0.xml"/>
+      </file>
+      <file ID="alto_00160_1" MIMETYPE="text/xml" CHECKSUM="51d2c7aa8d46a2ca8d44eadf234e15cc" CHECKSUMTYPE="MD5" SIZE="92153">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00160_1.xml"/>
+      </file>
+      <file ID="alto_00161_0" MIMETYPE="text/xml" CHECKSUM="05affb0d426b39900e0ae53255a0d4ae" CHECKSUMTYPE="MD5" SIZE="90212">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00161_0.xml"/>
+      </file>
+      <file ID="alto_00161_1" MIMETYPE="text/xml" CHECKSUM="957aca46510f2c898c4359cac4142afe" CHECKSUMTYPE="MD5" SIZE="79926">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00161_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="304" firstpage="300">
+              <docketnumber id="b318-9" pgmap="318">Gen. No. 14,228.</docketnumber>
+              <parties id="b318-8" pgmap="318">Joe Barni, Defendant in Error, v. Warren Springer, Plaintiff in Error.</parties>
+              <decisiondate id="AA4" pgmap="318">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b319-4" pgmap="319">Stedman &amp; Soelke, for plaintiff in error.</attorneys>
+              <attorneys id="b319-5" pgmap="319">Peckham, Packard, ApMadoc &amp; Walsh, for defend­ant in error.</attorneys>
+              <summary id="b318-11" pgmap="318">Action in case for personal injuries. Error to the Municipal Court of Chicago; the Hon. Freeman K. Blake, Judge, presiding. Heard in the Branch Appellate Court at the March term, 1908.</summary>
+              <disposition id="AFo" pgmap="318">Affirmed.</disposition>
+              <headnotes id="b318-10" pgmap="318">Master and servant—duty to furnish safe place. It is the duty of a master to exercise reasonable care to furnish his servant a reasonably safe place in which to perform his duties to the master; when the nature of the business in and about which the servant is employed is such that the exercise of reasonable care requires it, then there is on the part of the master an active and continu­ous duty of inspection to discover hidden or latent defects. The servant may rely upon the discharge by the master of his duty in this respect.</headnotes>
+              <p id="b318-12" pgmap="318">Statement by the Court. Plaintiff in error sued out this writ of error to reverse a judgment obtained - against him in the Municipal Court for $1,000, in an action on the case for a personal injury.</p>
+              <p id="b318-13" pgmap="318(48) 319(233)">Joe Barni, defendant in error, who recovered the judgment, was employed by plaintiff in error, Warren Springer, as a fireman in the latter’s building. There were an east and a west boiler room in the building. In the west room the boilers are placed in a row along the north side of the room. In front of them there is a space ten or twelve feet wide. But south of the boilers manure, used for fuel, is piled, beginning three feet in front of them and running to the south wall, so that a lane or passage-way three feet wide is left open. Approximately over this lane, parallel to the line of boilers and fifteen or twenty feet overhead, runs the main steam pipe which carries the steam from all the boilers to the engine room. The pipe is a ten-inch pipe. December 10, 1906, at about six o’clock in the morning, Barni was called to this west boiler room to fix a loose bolt on the face of a boiler. Five or six men, including Falvo, who was engineer and foreman, stood around and watched. Barni stood in the lane, working at the bolt on the boiler. Suddenly the main steam pipe overhead blew out and filled the room with steam and hot water. The pipe pulled out of a T fitting. The threads, as the witness Wishart and Springer himself inform us, were badly strained, weak­ened and not full enough to hold the parts together. The other men escaped with but slight injuries, but Barni was blinded by the steam and was horribly scalded. There is no dispute but what the injury sus­tained warrants the amount awarded.</p>
+              <opinion type="majority">
+                <author id="b319-6" pgmap="319">Mr. Justice Chyteaus</author>
+                <p id="Ayf" pgmap="319">delivered the opinion of the court.</p>
+                <p id="b319-7" pgmap="319">We find here a total absence of negligence on the part of the servant. Barni was in no way at fault.</p>
+                <p id="b319-8" pgmap="319(49) 320(380) 321(224)">It is the duty of a master to exercise reasonable care and prudence to furnish the servant a reasonably safe place in which to work and perform his duties to the master. When the nature of the business in and about which the servant is employed is such that the exercise of reasonable care requires it, then there is on the part of the master an active and continuous duty of inspection to discover hidden or latent defects. Bailey’s Master’s Liability, pp. 93, 101, 107-8. The servant may rely upon the discharge by the master of his duty in this respect. “In other words, the mas­ter has a duty of inspection as well as of observation; the obligation of the servant is that of observation”. Illinois Steel Co. v. Mann, 100 Ill. App. 367, 376; Crib­ben v. Callaghan, 57 Ill. App. 544; affirmed in 156 Ill. 549; Libby v. Scherman, 146 Ill. 540; Baier v. Selke, 211 Ill. 512, 517; Armour v. Brazeau, 191 Ill. 117, 125. “The master cannot screen himself from liability upon the ground that he did not know of the defects in his appliance, if he might know of them by the exercise of due care. ‘The law will imply and infer notice of any defect, which, by the use of ordinary care, might have been known to the master’.”, Missouri etc. v. Dillon, 206 Ill. 145, 152. The verdict being against Springer, the jury found as a fact that the operation by him of his steam plant was a business of such character that, for the safety of his servants employed about it, it imposed upon him the duty of active and continuous inspection to discover hidden or latent de­fects. Of .course, only such duty of inspection was im­posed as ordinary care required, the steam plant and its nature being considered. The evidence shows that the building wherein he maintained the steam plant was put up by Springer about fifteen years previous to the time Barni was injured. Springer testified that he did not put in the boiler room until five or six years after the building was put up and that the steam main was put in “about eight, nine or maybe ten years ago ’’. Wishart, a mechanical engineer who had previously done work for Springer, was called in by him immediately after this “blow out” to advise him, and together they inspected this ten-inch main. Wishart says of the main, that right at the joint the pipé was out of line and “it was piped rather care­less ’ ’; that if the joints were not square with each other it would result in an undue strain at some particular point; that where the threads are is the weakest point in the pipe and the strain would come where they were out of square and that the fittings were in fact badly strained; that when they subsequently used part of the pipe a good deal of it was found to be crystallized and “pitted”, i. e. little molecules rusted out, but that the fact it was pitted would not “have affected it if it had not been weakened by crystallization”. It ap­pears that the main leaked at some points, not where it burst, however, and leakage shows weakness of threads at the point of the leak. If a pipe is a good grade of pipe crystallization will not occur for years, but in a poor piece of pipe it may happen in a week from vibration and strain. The possibility of crystal­lization is one of the things that suggests the necessity of constant inspection. Crystallization, says the wit­ness Wishart, “is the same as if we take a piece of wire and bend it back and forth until crystallization takes place and it breaks”. There is evidence tending, to show that the pipe was rusted and corrugated with slate.</p>
+                <p id="b321-4" pgmap="321(146) 322(313)">One John Snyder had been master mechanic for Springer at this building for three months, but quit the morning after the accident happened. Mr. Springer tells us he did not tell Snyder that the plant needed a general overhauling but that his, Snyder’s, duty was to inspect and report to him, Springer. Snyder tes­tified that while he had no conversation with Springer about this main pipe he did speak to him about the condition of the plant generally and that the plant needed an overhauling in several instances, and to this Springer said: “When we get more tenants we will make a general overhauling and straighten these things up ’ ’. In his cross-examination however Snyder said that in this conversation with Springer this par­ticular steam line that ran in front of the boilers was spoken of. The evidence shows no inspection or over­hauling of the steam plant since it was put in. Springer had the affirmative of this proposition and could readily adduce the evidence had there been any inspection. As he showed none the jury could fairly infer that there had been none. The plant was allowed to wear out with the wear and tear of age. The de­fense is advanced that the particular defect which caused the injury to Barni was not obvious and in­dicated by leakage at the joint that pulled out—that it was not observable by those who saw the pipe. This may be considered as true but it is not a sufficient defense in a case such as this where there is a duty of active and continuous inspection. To hold such de­fense sufficient here would be to totally abrogate the active duty of inspection. It was testified to by wit­nesses for the defense that the probable life of such a steam pipe is twenty to twenty-five years. But in this same connection the witness Wishart testified that the probability of life depends upon the care and at­tention the pipe receives; that undue vibration might bring on an accident at any time even two hours after the installation of the plant; that where the pipe would be out of square there would the greatest strain be, that the weakest part is where the threads are, and that if a pipe wore out there is where it would pull out. And so it happened here. We cannot escape the conclusion that had the pipe been inspected—over­hauled—according to Snyder’s request of Springer, then Barni would not have been injured. As it hap­pened Springer did not perform his duty to defendant in error in that respect and did not exercise reason­able care and prudence to furnish him a reasonably safe place in which to work..</p>
+                <p id="b322-5" pgmap="322">The judgment of the Municipal Court will be af­firmed.</p>
+                <p id="b322-6" pgmap="322">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="318" ORDERLABEL="300" TYPE="page">
+        <fptr FILEID="tiff_00159_1"/>
+        <fptr FILEID="jp2_00159_1"/>
+        <fptr FILEID="alto_00159_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.2" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.3" BETYPE="IDREF" FILEID="alto_00159_1"/>
+              <area BEGIN="BL_318.4" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="319" ORDERLABEL="301" TYPE="page">
+        <fptr FILEID="tiff_00160_0"/>
+        <fptr FILEID="jp2_00160_0"/>
+        <fptr FILEID="alto_00160_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_319.3" BETYPE="IDREF" FILEID="alto_00160_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_319.2" BETYPE="IDREF" FILEID="alto_00160_0"/>
+              <area BEGIN="BL_319.4" BETYPE="IDREF" FILEID="alto_00160_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="320" ORDERLABEL="302" TYPE="page">
+        <fptr FILEID="tiff_00160_1"/>
+        <fptr FILEID="jp2_00160_1"/>
+        <fptr FILEID="alto_00160_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_320.2" BETYPE="IDREF" FILEID="alto_00160_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_320.3" BETYPE="IDREF" FILEID="alto_00160_1"/>
+              <area BEGIN="BL_320.4" BETYPE="IDREF" FILEID="alto_00160_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="321" ORDERLABEL="303" TYPE="page">
+        <fptr FILEID="tiff_00161_0"/>
+        <fptr FILEID="jp2_00161_0"/>
+        <fptr FILEID="alto_00161_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.3" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.2" BETYPE="IDREF" FILEID="alto_00161_0"/>
+              <area BEGIN="BL_321.4" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="322" ORDERLABEL="304" TYPE="page">
+        <fptr FILEID="tiff_00161_1"/>
+        <fptr FILEID="jp2_00161_1"/>
+        <fptr FILEID="alto_00161_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.2" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.3" BETYPE="IDREF" FILEID="alto_00161_1"/>
+              <area BEGIN="BL_322.4" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.6" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayf" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.8" BETYPE="IDREF" FILEID="alto_00160_0"/>
+            <area BEGIN="BL_319.9" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b319-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.6" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.5" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.5" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            <area BEGIN="BL_322.1" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b319-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.5" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b319-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.11" BETYPE="IDREF" FILEID="alto_00160_0"/>
+            <area BEGIN="BL_320.1" BETYPE="IDREF" FILEID="alto_00160_1"/>
+            <area BEGIN="BL_321.1" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFo" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.12" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.8" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.9" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.13" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b319-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.10" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.11" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-12" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.14" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-13" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.15" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            <area BEGIN="BL_319.1" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.10" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b319-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_319.7" BETYPE="IDREF" FILEID="alto_00160_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

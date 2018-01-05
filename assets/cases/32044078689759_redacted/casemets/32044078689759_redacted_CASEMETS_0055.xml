@@ -1,0 +1,881 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0055" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Rose v. Mutual Life Insurance">Don T. Rose, Appellant, v. Mutual Life Insurance Com­pany, Appellee</name>
+          <docketnumber>Gen. No. 5,023</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 434</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="85a45d0291a2864b269f4d05254979e1" CHECKSUMTYPE="MD5" SIZE="43868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_1.tif"/>
+      </file>
+      <file ID="tiff_00226_0" MIMETYPE="image/tiff" CHECKSUM="59160d8d373fb0dcb15ff5514849039c" CHECKSUMTYPE="MD5" SIZE="47524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00226_0.tif"/>
+      </file>
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="40ddfb8727d5ab0857b919458ef5c9d1" CHECKSUMTYPE="MD5" SIZE="53862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00226_1.tif"/>
+      </file>
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="8f0664aec67803cf56b307f9a3ab4df1" CHECKSUMTYPE="MD5" SIZE="52954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00227_0.tif"/>
+      </file>
+      <file ID="tiff_00227_1" MIMETYPE="image/tiff" CHECKSUM="180a0e9d8b40581a1150807d37b1a5d8" CHECKSUMTYPE="MD5" SIZE="53592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00227_1.tif"/>
+      </file>
+      <file ID="tiff_00228_0" MIMETYPE="image/tiff" CHECKSUM="d3c902cb93c32d0fab20361382255b99" CHECKSUMTYPE="MD5" SIZE="53798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00228_0.tif"/>
+      </file>
+      <file ID="tiff_00228_1" MIMETYPE="image/tiff" CHECKSUM="301a7b304a853849984157ce0e8d9868" CHECKSUMTYPE="MD5" SIZE="52910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00228_1.tif"/>
+      </file>
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="b91656241a5dd71eccbe88fbc4dd6424" CHECKSUMTYPE="MD5" SIZE="52694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00229_0.tif"/>
+      </file>
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="22ad32c1647a81a7cbcbf8e8850d51b3" CHECKSUMTYPE="MD5" SIZE="53124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00229_1.tif"/>
+      </file>
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="646181f2d5e46198b939b9b14f618f1f" CHECKSUMTYPE="MD5" SIZE="52956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00230_0.tif"/>
+      </file>
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="a5d007a971a501b4cb78467b0874512b" CHECKSUMTYPE="MD5" SIZE="52216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="cde5561772dfc62b373ef1a49fe9efba" CHECKSUMTYPE="MD5" SIZE="53660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_0.tif"/>
+      </file>
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="5c54977d535bfe31cafe8fd31945a567" CHECKSUMTYPE="MD5" SIZE="35742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00225_1" MIMETYPE="image/jp2" CHECKSUM="df90642c3d3f91020e38f43b8c32ddbe" CHECKSUMTYPE="MD5" SIZE="2291577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_1.jp2"/>
+      </file>
+      <file ID="jp2_00226_0" MIMETYPE="image/jp2" CHECKSUM="fef75162b19d2254d3941cf61d3bbe84" CHECKSUMTYPE="MD5" SIZE="2372324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00226_0.jp2"/>
+      </file>
+      <file ID="jp2_00226_1" MIMETYPE="image/jp2" CHECKSUM="ed421f1b42f3be9182cfc5ad50fa8c31" CHECKSUMTYPE="MD5" SIZE="2366015">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00226_1.jp2"/>
+      </file>
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="2513f4ba734ffd90ebfe447d35012e3c" CHECKSUMTYPE="MD5" SIZE="2389914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00227_0.jp2"/>
+      </file>
+      <file ID="jp2_00227_1" MIMETYPE="image/jp2" CHECKSUM="70f8952346af919da3748a63c39c3bf9" CHECKSUMTYPE="MD5" SIZE="2374312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00227_1.jp2"/>
+      </file>
+      <file ID="jp2_00228_0" MIMETYPE="image/jp2" CHECKSUM="f195d4c39a4221d09aff30d017778fc9" CHECKSUMTYPE="MD5" SIZE="2418669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00228_0.jp2"/>
+      </file>
+      <file ID="jp2_00228_1" MIMETYPE="image/jp2" CHECKSUM="9dc63ef99b1336f4c9a0b36d3076d56c" CHECKSUMTYPE="MD5" SIZE="2356271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00228_1.jp2"/>
+      </file>
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="1a76f7887ec22a325946fc26bd5498b1" CHECKSUMTYPE="MD5" SIZE="2390050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00229_0.jp2"/>
+      </file>
+      <file ID="jp2_00229_1" MIMETYPE="image/jp2" CHECKSUM="ea40b93f0ea62bb375c50a86aeb4c5a1" CHECKSUMTYPE="MD5" SIZE="2393262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00229_1.jp2"/>
+      </file>
+      <file ID="jp2_00230_0" MIMETYPE="image/jp2" CHECKSUM="c7a798c6c98e21cdb64cd1b208a204f0" CHECKSUMTYPE="MD5" SIZE="2419726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00230_0.jp2"/>
+      </file>
+      <file ID="jp2_00230_1" MIMETYPE="image/jp2" CHECKSUM="27545c1b07c390e54271d75b88493c6b" CHECKSUMTYPE="MD5" SIZE="2366323">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00230_1.jp2"/>
+      </file>
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="aa312a5265f8787a44241ed15b49c338" CHECKSUMTYPE="MD5" SIZE="2402808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_0.jp2"/>
+      </file>
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="5885d83c50ed1d57afd65ba2b4af1a63" CHECKSUMTYPE="MD5" SIZE="2260702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00225_1" MIMETYPE="text/xml" CHECKSUM="f828808e32609572bd188c44fc6efb00" CHECKSUMTYPE="MD5" SIZE="84722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00225_1.xml"/>
+      </file>
+      <file ID="alto_00226_0" MIMETYPE="text/xml" CHECKSUM="ac7c8dae4d44005fae13f516b3ca0097" CHECKSUMTYPE="MD5" SIZE="80118">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00226_0.xml"/>
+      </file>
+      <file ID="alto_00226_1" MIMETYPE="text/xml" CHECKSUM="21903a60f7994bfcdf4c3e5f69eaa834" CHECKSUMTYPE="MD5" SIZE="92787">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00226_1.xml"/>
+      </file>
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="d01c2d660440a4c2ade4e5ed9f8b47a5" CHECKSUMTYPE="MD5" SIZE="89206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00227_0.xml"/>
+      </file>
+      <file ID="alto_00227_1" MIMETYPE="text/xml" CHECKSUM="dbddb26407c5f63f0520418b71b34878" CHECKSUMTYPE="MD5" SIZE="93981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00227_1.xml"/>
+      </file>
+      <file ID="alto_00228_0" MIMETYPE="text/xml" CHECKSUM="30263226498cd7a5adec546eb1992ea1" CHECKSUMTYPE="MD5" SIZE="86503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00228_0.xml"/>
+      </file>
+      <file ID="alto_00228_1" MIMETYPE="text/xml" CHECKSUM="fc89173beade675913aa4925bc53ff6f" CHECKSUMTYPE="MD5" SIZE="90696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00228_1.xml"/>
+      </file>
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="b091df271f3495a4181ac1de3eee414e" CHECKSUMTYPE="MD5" SIZE="86761">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00229_0.xml"/>
+      </file>
+      <file ID="alto_00229_1" MIMETYPE="text/xml" CHECKSUM="5277c49ebb369db6a4871deef78c6801" CHECKSUMTYPE="MD5" SIZE="92392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00229_1.xml"/>
+      </file>
+      <file ID="alto_00230_0" MIMETYPE="text/xml" CHECKSUM="9910e016b93c6a57c7ff56a424b976dc" CHECKSUMTYPE="MD5" SIZE="90858">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00230_0.xml"/>
+      </file>
+      <file ID="alto_00230_1" MIMETYPE="text/xml" CHECKSUM="f0f00487222f1e840ef9bff5855e6f3d" CHECKSUMTYPE="MD5" SIZE="89873">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00230_1.xml"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="0649d1b25e7242ca64821fda2dbb17c1" CHECKSUMTYPE="MD5" SIZE="85034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00231_0.xml"/>
+      </file>
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="80f36501784620b33ff9f56143f7cda6" CHECKSUMTYPE="MD5" SIZE="66381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00231_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0055" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="446" firstpage="434">
+              <docketnumber pgmap="450" id="b450-8">Gen. No. 5,023.</docketnumber>
+              <parties pgmap="450" id="b450-7">Don T. Rose, Appellant, v. Mutual Life Insurance Com­pany, Appellee.</parties>
+              <decisiondate pgmap="451" id="A0q">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="451" id="ATc">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="451" id="b451-4">Frederick A. Brown, for appellant; Wm. R. T. Ewen, Jr., of counsel.</attorneys>
+              <attorneys pgmap="451" id="b451-5">Winston, Payne, Strawn &amp; Shaw, for appellee; M. H. Whitney, of counsel.</attorneys>
+              <summary pgmap="451" id="b451-3">Assumpsit. Appeal from the Circuit Court of Kane county; the Hon. Linus C. Ruth, Judge, presiding.</summary>
+              <disposition pgmap="451" id="Ad5">Affirmed.</disposition>
+              <headnotes pgmap="450" id="b450-9">1. Insurance—how days of grace for payment of premium com­puted. Days of grace allowed for the payment of the second pre­mium upon a policy are computed from the anniversary of the date upon which the policy became effective.</headnotes>
+              <headnotes pgmap="450" id="b450-10">2. Insurance—what laws govern construction of policy. An insurance contract is governed by the laws of the place of the deliv­ery of the policy, except so far as the laws of another state are by contract made a part thereof.</headnotes>
+              <headnotes pgmap="450" id="b450-11">3. Insurance—effect of special upon general provision of policy. A special provision of a policy providing how payment of premium must be made, prevails over a general provision which makes a policy subject to the laws of a particular state which state has a statute providing a different method of payment.</headnotes>
+              <headnotes pgmap="450" id="b450-12">4. Insurance.—when declaration does not state cause of action. Held, that the several counts of a declaration which relied upon a policy of insurance failed to state a cause of action.</headnotes>
+              <headnotes pgmap="450" id="b450-13">5. Pleading—effect of allegation under videlicet. Matter other than that of essential description alleged under a videlicet need not be proved precisely as laid.</headnotes>
+              <headnotes pgmap="450" id="b450-14">6. Pleading—what not positive allegation. An allegation under a videlicet that a policy of insurance was issued and delivered on a particular date, is not a positive allegation.</headnotes>
+              <headnotes pgmap="450" id="b450-15">7. Pleading—what not allegation of payment of premium. An allegation as follows, is indefinite and argumentative: Rose “there­after paid to said defendant all premiums due under said policy of which due notice was given him by the defendant as required by said laws of New York.”</headnotes>
+              <opinion type="majority">
+                <author pgmap="451" id="b451-6">Mr. Justice Dibell</author>
+                <p pgmap="451" id="ACn">delivered the opinion of the court.</p>
+                <p pgmap="451" id="b451-7">In this suit by appellant against appellee to recover insurance upon the life of appellant’s father, de­ceased, after two partial trials appellant withdrew the common counts and filed additional counts, and ap­pellee refiled to the whole declaration a general and special demurrer, previously filed to the original counts, and that demurrer was sustained. Appellant elected to abide by her declaration, which then con­sisted of seven special counts. Appellee had judg-' ment and plaintiff below prosecutes this appeal.</p>
+                <p pgmap="451" id="b451-8">The first count set out a policy of insurance executed by appellee whereby it agreed to pay appellant $5,000 upon the death of Herbert A. Bose. It described ap­pellant as the wife of Herbert A. Bose, whereas she was his daughter. It also set out certain “provisions, requirements and benefits”, stated on the back of the policy and made a part thereof. The policy was dated May 23, 1904, acknowledged receipt of the first annual premium of $169.40, and provided for the payment of that sum annually thereafter on May 23, till the premiums for twenty years had been paid. Among the statements on the back of the policy set out in the first count, were the following:</p>
+                <blockquote pgmap="451(49) 452(83)" id="b451-9">“Each premium is due and payable at the Head Office of the Company in the City of New York, or, at the option of the insured, at any Agency of the Com­pany, in exchange for the Company’s receipt signed by the President or Secretary. Notice that each and every such, payment is due is given and accepted by the delivery and acceptance of this policy, and any further notice which may be required by any statute is thereby expressly waived. * * * After this policy has been in force one year, thirty days of grace will be allowed in payment of premiums, with interest for the time taken at the rate of five per cent, per annum, during which time this policy shall remain in force for the full amount.”</blockquote>
+                <p pgmap="452(297) 453(40)" id="b452-6">The count averred that appellee issued and de­livered said policy to Herbert A. Bose, hereinafter called Bose, “on to wit, the 17th day of July, 1904.” The count averred that the application for said policy provided that said application should be a part of the contract of insurance between Bose and appellee and that said contract should be subject to the laws of New York. It then set out a certain statute of New York adopted in 1897, and alleged that it was in force then and thereafter till the death of Bose, which stat­ute provided that no life insurance company doing business in. that state should declare a policy for­feited for non-payment of premium within one year after default in payment thereof by reason of such non-payment, unless a notice stating the amount of the premium, the place when it should be paid and the person to whom payable, should have been duly addressed and mailed to the person whose life is in­sured “at his or her last known postoffice address in this state”, at least fifteen days and not more than forty-five days prior to the day when the same is pay­able; and that such notice should also state that un­less such premium is paid by or before the day it falls due, the policy will become forfeited and void. The count averred that Bose paid appellee the first premium, and thereafter paid all premiums of which due notice was given him as required by the laws of New York; that Bose died at Paducah, Kentucky, on August 3, 1905; that notice of death was given ap­pellee, with a call for blanks on which to make proofs of death, which a provision on the back of the policy required should be on forms which appellee would furnish on request; and that appellee refused to fur­nish the blanks and refused to pay the policy at all, and informed the appellant that the policy was for­feited and void.</p>
+                <p pgmap="453" id="b453-4">The count does not allege when Bose paid the first premium, but the policy set out therein acknowledges the receipt thereof, and if the allegation above stated that the policy was issued and delivered “on to wit, July 17, 1904,” is a positive allegation that it was issued and delivered on that date, then we regard it as a sufficient allegation that the contract became effective on that date, although dated May 23, 1904. The payment was for insurance for one year, and if the policy first became effective as a binding contract on July 17, 1904, the payment carried the insurance to July 17, 1905, and the provision for thirty days of grace after the policy had been in force one year car­ried the period for which the insurance was valid to August 16, 1905 (McMaster v. New York Life Ins. Co., 183 U. S. 25), even though Bose failed to pay the second premium, due May 23, 1905, by the terms of the policy. In the case just cited it was said that the company could not be allowed “by making the second premium payable within the period covered by the payment of the first premium, to defeat the right to the month of grace which had been proffered as the inducement to the application, and had been relied upon as secured by the payment.” Bose died August 3, 1905, while the policy was therefore in force, under the allegations of the first count, if that count avers posi­tively that it was issued and delivered on July 17, 1904.</p>
+                <p pgmap="453(61) 454(385) 455(50)" id="b453-5">Does the allegation under a videlicet of the date when the policy was issued and delivered amount to a positive averment that it was delivered on that par­ticular day? If issue had been joined, and at the trial the proof had been that the policy was issued on July 16 or 18, or on May 23, and not on July 17, would that have been a fatal variance from this count, or would such proof have been competent and sustained the count! In 1 Chitty’s Pleading, 318, it is said: “Where a party does not mean to be con­cluded by a precise sum or day stated, he ought to plead it under a videlicet, for if he do not he will be bound to prove the exact sum or day laid; it being a settled distinction that where anything which is not material is laid under a videlicet, the party is not concluded by it, but he is where there is no videlicet.” In Brown v. Berry, 47 Ill. 175, the court said: “The use of the videlicet is to avoid a variance, and to avoid a positive averment which must be strictly proved.” In Long v. Conklin, 75 Ill. 32, where the declaration alleged, under a videlicet, that the contract sued upon was made on November 28, 1871, and the proof showed that, it was made in January, 1872, the court said: “The day of making the contract is laid under a videlicet, and according to the familiar rule of plead­ing is not required to be proved as laid.” In Chicago G. W. Ry. Co. v. People, 79 Ill. App. 529, where the dates of making certain contracts were stated in the pleadings under a videlicet, and it was argued that they must be proved as laid, we said: “These dates are each laid under a videlicet, and by well-known rules of pleading petitioner was not bound to prove the precise dates.” That judgment was affirmed un­der the same title in 179 Ill. 441, without mentioning that question. We conclude that under this videlicet plaintiff could prove any other date, and that plaintiff used the videlicet because she intended not to bind herself to prove that the policy was issued and de­livered on July 17, 1904, but wished to avail of what­ever the proof might show as to the date when it be­came a binding contract. It must be assumed that she would have made a positive averment if she had intended to rely upon that precise date. We. are therefore of opinion that this count does not contain a positive averment that the policy was issued and delivered and a binding contract of insurance first completed on July 17, 1904. In the absence of any positive averment of a precise date when the contract became effective, we must presume, against the pleader, that the policy went into force on the day of its date, May 23, 1904.</p>
+                <p pgmap="455(302) 456(370) 457(352)" id="b455-4">This count therefore shows that the policy had lapsed by its own terms, unless the allegation that Bose “thereafter paid to said defendant all premiums due under said policy' of which due notice was given him by the defendant as required by said laws of New York,” amounts to an allegation that within thirteen months after the policy became effective he paid an­other premium of $169.40, or that he received no notice and unless because of a lack of such notice the policy could not be forfeited prior to his death. We consider the allegation above quoted insufficient for several reasons. It is indefinite and argumentative. It does not positively allege that he paid a second premium. If he paid a second premium it does not allege that he paid it within thirteen months, but the allegation would be satisfied by proof that he paid it after the thirteen months had expired. It does not allege that appellee accepted the payment. Again, though this contract does not state where the contract was de­livered by appellee to Bose, yet the policy set out described the-person whose life was insured as “Her­bert A. Bose, Paducah, in the county of McCracken, State of Kentucky,” and has on its back the indorse­ment or stamp of “Biscoe Hindman, general agent, Louisville, Kentucky.” The count avers that Bose died at Paducah, Kentucky. In the absence of a con­trary averment, it is a reasonable inference against the pleader that the policy was delivered by appellee’s agent to Bose in Kentucky. It was therefore a Ken­tucky contract and was not governed by the laws of New York, except so far as they were by the contract made a part thereof. Equitable Life Society v. Clem­ents, 140 U. S. 226, 232; Mutual Life Insurance Co. v. Cohen, 179 U. S. 262; Mutual Life Ins. Co. v. Hill, 193 U. S. 551. We have already stated the sub­stance of the New York statute of 1897, which this count averred was by the application made a part of the contract of insurance. Before the words “in this state” had been put into the statute it was held that this statutory provision of the state of New York in reference to forfeitures did not of itself apply to contracts made by a New York company outside of that state, but only to business transacted within the state of New York. Mutual Life Ins. Co. v. Cohen, supra; Mutual Life Ins. Co. v. Hill, supra. Strong-­reasons why such statutes cannot have extra-territo­rial effect are given in the Cohen case. Said former statute of New York is set out in full in Mutual Life Ins. Co. v. Phinney, 178 U. S. 327, 330. In 1897 said statute was re-enacted and the words “at his or her last-known post-office address” were changed to read “at his or her last known post-office address in this state.” This made it still clearer that the act could not be operative, and that these provisions as to notice before forfeiture were not intended to be oper­ative, outside of New York state, and cannot' apply to a policy-holder whose address is in another state. Therefore no notice to Bose was required before a forfeiture would- follow his non-payment of the pre­mium for the second year. Again, according to the allegation of this count, the contract was only made subject in general terms to the laws of New York, while in the contract there was an express stipula­tion as above quoted that notice that each and every such payment of premium is due is given and ac­cepted by the delivery and acceptance of the policy, and any further notice required by the statute is expressly waived. While the reference to the laws of New York-is general, the provision of the contract above referred to is special and is directed particu­larly to the subject of notice when a payment of premium will become due. Upon the subject of ap­parent conflict between general and special provisions of a contract the court in Mutual Life Ins. Co. v. Hill, supra, made the following observations: “The ordi­nary rule in respect to the construction of contracts is this: that where there are two clauses in any respect conflicting, that which is specially directed to a par­ticular matter controls in respect thereto over one which is general in its terms, although within its gen­eral terms the particular may be included. Because when the parties express themselves in reference to a particular matter the attention is directed to that, and it must be assumed that it expresses their intent, whereas a reference to some general matter, within which the particular may be included, does not neces­sarily indicate that the parties had the particular mat­ter in thought. Here, when the parties stipulate that no other notice shall be required, attention is directed to the particular matter of notice. When the stipula­tion is that the contract shall be construéd to have been made in New York, no particular statute is re­ferred to, and the attention may not be directed to the matter of notice, or any other special feature of New York law. The special controlled the general; that which must have been in the minds of the con­tracting parties controls that which may not have been, although included within the language of the latter stipulation. This is the general rule in the construction of all documents—contracts as well as statutes.” For these reasons we hold that the refer­ence in the contract to the laws of New York did not require appellee to give notice to Bose when a pre­mium became due, as a condition precedent to the lapse of the policy for non-payment thereof, and therefore the averment that Bose paid all premiums of which due notice was given him by appellee as re­quired by the laws of New York was not an averment that Bose paid any premium after the first. We therefore hold that the first count did not state a cause of action.</p>
+                <p pgmap="458(378) 459(79)" id="b458-4">The second count averred that “on, to wit, May 12, 1904,” Bose paid appellee $169.40, in consideration of which appellee agreed to make and deliver to Bose a contract insuring his life for $5,000 in favor of ap­pellee, his daughter, and agreed to give him one year of insurance, and to continue said insurance provided he would within thirty days after the expiration of the first year, and after the expiration of each subse­quent year pay appellee $169.40; that thereafter, “on, to wit, July 17, 1904,” appellee delivered to Bose a policy of insurance which is set out in the count and is the same as set out in the first count. The sec­ond count averred that Bose refused to accept said policy, and gives the reasons which he stated to ap­pellee for so refusing, and that appellee thereupon agreed to have another policy issued as of that day, properly describing the beneficiary, and otherwise' identical with that set out; that Bose relying on said promises, 'retained the policy, but that appellee did not deliver a new policy as agreed; and it averred the death of Bose, notice of death and denial of lia­bility, as before. If the use of the videlicet in alleg­ing these dates be treated as having the effect al­ready stated, then there is no date positively stated in this count except the date of the policy, and if that is the date when the contract became effective-, then the policy had become forfeited by its own terms before Bose died, and the verbal contract, if any, is not shown to have been in force when Bose died. If the use of the videlicet be disregarded, the substance of the count is that Bose paid the pre­mium for .one year on May 12, 1904, and that appellee agreed to issue a policy which should be effective for thirteen months; that it delivered to Bose a policy which he refused to accept; that it agreed to issue another policy to meet his requirements and did not do so, and that Bose died August 3, 1905. The count does not allege a contract that Bose should be treated as insured from May 12, 1904, or from any other date. The count does not allege the payment of any further premiums. It does not allege that the policy which Rose retained but refused to accept was ever in force. It therefore does not state a cause of action at law in behalf of appellant. "Whether she can maintain a bill to compel the issue of the policy promised, or whether-­the personal representative of Rose can maintain a suit to recover the $169.40 cannot be determined in this suit.</p>
+                <p pgmap="459" id="b459-5">The third count is substantially like the second, except that it alleges that when Rose stated to ap­pellee the reasons why he refused to accept the policy, appellee agreed to have the date of the policy changed from May 23, 1904, “to, to wit, July 17, 1904,” and to correct the description of the beneficiary from wife to daughter, the other terms to be identical with the ones set out, and that appellee did not change the policy as agreed. This count shows that.the policy set out was not accepted and did not become a binding contract, but that appellee promised to prepare a dif­ferent policy. As the date which the changed policy was to bear is stated under a videlicet the contract does not show that the date was to be within thirteen months before Rose died. If this count can be said to state a verbal contract to insure for thirteen months in consideration of the sum paid, then that contract either went into effect on May 12, 1904, or as that date is also laid under a videlicet, the time when it went into effect is not positively stated. If it went into effect on May 12, 1904, it had become forfeited before Rose died. If it went into effect on some other date, the count does not show that it was in force when Rose died.</p>
+                <p pgmap="459(60) 460(129)" id="b459-6">The fourth count alleges that “on, to wit, the 12th day of May, 1904,” Rose paid appellee $169.40 and that for that consideration appellee agreed to pay appellant $5,000 on the death of Rose; that appellee agreed to execute and deliver to Rose a policy to that effect to be in force from the time of its issue, and that said $169.40 should keep said policy in force thirteen months from its issue; that appellee did not execute said policy hut retains the $169.40; that Bose died on August 3, 1905, and it alleges notice of death and denial of liability as before. If this alleges a verbal contract of insurance made on May 12, 1904, it also alleges that the payment was to keep the insurance in force for thirteen months and that that time had expired before Bose died. If the use of the videlicet in connection with the date of May 12, 1904, gave ap­pellant the right to prove thereunder any date other than May 12, then the allegations are uncertain and do not show that the verbal contract was in force when Bose died.</p>
+                <p pgmap="460" id="b460-5">The fifth count alleges that “on, to wit, the 22nd day of May, 1904,” appellee made and • afterwards issued the policy set out. It makes the same aver­ments concerning the New York statute as in the first count, makes the same allegations as in the first count of the payment of the first premium, and that Bose thereafter paid all premiums of which due notice was given him under the laws of New York, and avers the death of Bose, and notice thereof and denial of liability in the first count. It does not aver when the policy was issued. It must therefore be assumed that it was issued at its date, May 23, 1904. The payment of the first premium therefore only kept the policy in force till June 22, 1905, and under the views expressed by us in discussing the first count the policy had lapsed by its own terms before Bose died, under the allegations of this count.</p>
+                <p pgmap="460(75) 461(131)" id="b460-6">The sixth count is like the first, except as herein­after stated. It sets out in full the application and medical examiner’s report. The application states that it is subject to the laws of the state of New York. It contains the following answers: “I reside at 319 Jackson street, in the city of Paducah, county of Mc-­Cracken, State of Kentucky.” “My former residence were same.” “My place of business is 104 and 105 Fraternity Building:” “My P. 0. address is same.” It also contains the following at the close of the-ap­plication: “I have paid $............ to the subscribing soliciting Agent, who has furnished me with a bind­ing receipt therefor, signed by the Secretary of the Company, making the insurance in force from this date, provided this application shall be approved, and the policy duly signed by the Secretary at the Head Office of the Company and issued. Dated at Paducah, Ky., May 12, 1904. Signature of person whose life is proposed for insurance, (Signed) Herbert A. Bose. I have known the above named applicant for about three months and saw him sign this application. I have issued binding receipt No,.... on account of this policy contract. (Signed) L. A. Werner, Soliciting Agent.”</p>
+                <p pgmap="461" id="b461-6">If the fact that the blanks are not filled up in the part of the application last above quoted and in the agent’s certificate thereunder means that said parts of the application and certificate were not intended to be adopted by the signers, then they have no bearing on this count. If, however, they are effective parts of the application and of the certificate of the agent, then this insurance was to take effect from May 12, 1904. Under the other language of this count, which is exactly the same as that discussed under the first count, there is no averment of the payment of any premium after that covering the first year. The thir­teen months had therefore expired according to this count long before Bose died.</p>
+                <p pgmap="461(86) 462(25)" id="b461-7">This count also states that appellee claims to have sent to Bose at 319 Jackson street, Paducah, Ken­tucky, a notice of the time when the second premium became due, and it sets out the alleged notice. It then avers that 319 Jackson street, Paducah, Kentucky, was never the post-office address of Bose, but was merely his boarding house when in Paducah, and that he was never there but once or twice a month and never received said notice. As we have already held that by the contract notice was waived and that appellee was not bound to give notice of the maturity of the second premium, this averment was immaterial.</p>
+                <p pgmap="462" id="b462-5">The seventh count is like the sixth, except that it omits all allegations in reference to an attempt by appellee to notify Eose of the maturity of the second premium. If the views we have hereinbefore ex­pressed are correct, no count of this declaration states a cause of action.</p>
+                <p pgmap="462" id="b462-6">The judgment is therefore affirmed.</p>
+                <p pgmap="462" id="b462-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="450" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jp2_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.3" BETYPE="IDREF" FILEID="alto_00225_1"/>
+              <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="451" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00226_0"/>
+        <fptr FILEID="jp2_00226_0"/>
+        <fptr FILEID="alto_00226_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.1" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_451.2" BETYPE="IDREF" FILEID="alto_00226_0"/>
+              <area BEGIN="BL_451.3" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="452" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jp2_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.3" BETYPE="IDREF" FILEID="alto_00226_1"/>
+              <area BEGIN="BL_452.4" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="453" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.2" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+              <area BEGIN="BL_453.4" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="454" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00227_1"/>
+        <fptr FILEID="jp2_00227_1"/>
+        <fptr FILEID="alto_00227_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.2" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_454.3" BETYPE="IDREF" FILEID="alto_00227_1"/>
+              <area BEGIN="BL_454.4" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="455" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00228_0"/>
+        <fptr FILEID="jp2_00228_0"/>
+        <fptr FILEID="alto_00228_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.2" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.3" BETYPE="IDREF" FILEID="alto_00228_0"/>
+              <area BEGIN="BL_455.4" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="456" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00228_1"/>
+        <fptr FILEID="jp2_00228_1"/>
+        <fptr FILEID="alto_00228_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.2" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.3" BETYPE="IDREF" FILEID="alto_00228_1"/>
+              <area BEGIN="BL_456.4" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="457" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.2" BETYPE="IDREF" FILEID="alto_00229_0"/>
+              <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="458" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jp2_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.1" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.2" BETYPE="IDREF" FILEID="alto_00229_1"/>
+              <area BEGIN="BL_458.3" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="459" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jp2_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.3" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.2" BETYPE="IDREF" FILEID="alto_00230_0"/>
+              <area BEGIN="BL_459.4" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="460" ORDERLABEL="444" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jp2_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.2" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.3" BETYPE="IDREF" FILEID="alto_00230_1"/>
+              <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+              <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="462" ORDERLABEL="446" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.3" BETYPE="IDREF" FILEID="alto_00231_1"/>
+              <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.4" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_459.1" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.5" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            <area BEGIN="BL_456.1" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            <area BEGIN="BL_457.1" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-14" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.14" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-15" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.15" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.10" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.11" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.12" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0q" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.9" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.17" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_452.1" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.16" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-3" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.4" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_451.5" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.6" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            <area BEGIN="BL_462.1" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-13" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.13" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.15" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.12" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.11" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACn" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.13" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_451.14" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.6" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            <area BEGIN="BL_454.1" BETYPE="IDREF" FILEID="alto_00227_1"/>
+            <area BEGIN="BL_455.1" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.5" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.8" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.5" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.9" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.7" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.6" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATc" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.6" BETYPE="IDREF" FILEID="alto_00226_0"/>
+            <area BEGIN="BL_451.7" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.8" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.5" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.6" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_461.1" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b451-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_451.10" BETYPE="IDREF" FILEID="alto_00226_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.5" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.7" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.6" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            <area BEGIN="BL_460.1" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

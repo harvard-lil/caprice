@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0107" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Lunger v. City of Chrisman">Abraham Lunger, Appellee, v. City of Chrisman, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 543</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00281_0" MIMETYPE="image/tiff" CHECKSUM="b0cdca39ba6d6e236cc800bfb054582c" CHECKSUMTYPE="MD5" SIZE="44194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_0.tif"/>
+      </file>
+      <file ID="tiff_00281_1" MIMETYPE="image/tiff" CHECKSUM="2db1d071476d8253e918b53218362288" CHECKSUMTYPE="MD5" SIZE="47488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_1.tif"/>
+      </file>
+      <file ID="tiff_00282_0" MIMETYPE="image/tiff" CHECKSUM="e959acf6cb22dc550bfabeb22395b732" CHECKSUMTYPE="MD5" SIZE="44352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00281_0" MIMETYPE="image/jp2" CHECKSUM="7b6f619edfece271c5b37a02792da0cb" CHECKSUMTYPE="MD5" SIZE="2364904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_0.jp2"/>
+      </file>
+      <file ID="jp2_00281_1" MIMETYPE="image/jp2" CHECKSUM="9f4c239f973975ac440c7a661f66c5f1" CHECKSUMTYPE="MD5" SIZE="2381175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00281_1.jp2"/>
+      </file>
+      <file ID="jp2_00282_0" MIMETYPE="image/jp2" CHECKSUM="936c4be702ecc74c2250f62c6e65da90" CHECKSUMTYPE="MD5" SIZE="2389211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00281_0" MIMETYPE="text/xml" CHECKSUM="64cbde92ce08ee85d7363e7e8ec567b3" CHECKSUMTYPE="MD5" SIZE="72668">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00281_0.xml"/>
+      </file>
+      <file ID="alto_00281_1" MIMETYPE="text/xml" CHECKSUM="5b244324b1ff7d2ed074ab9d941c28b5" CHECKSUMTYPE="MD5" SIZE="83580">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00281_1.xml"/>
+      </file>
+      <file ID="alto_00282_0" MIMETYPE="text/xml" CHECKSUM="3a4acf38ae16bd1fd0f1d6bef23e7109" CHECKSUMTYPE="MD5" SIZE="78849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00282_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0107" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="545" firstpage="543">
+              <parties id="b561-7" pgmap="561">Abraham Lunger, Appellee, v. City of Chrisman, Appellant.</parties>
+              <decisiondate id="AKtI" pgmap="562">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b562-5" pgmap="562">Dyas &amp; Dyas, for appellant.</attorneys>
+              <attorneys id="b562-6" pgmap="562">W. H. Clinton, for appellee.</attorneys>
+              <summary id="b561-10" pgmap="561(11) 562(17)">Action on the case. Appeal from the Circuit Court of Edgar county; the Hon. James W. Craig, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="ABA" pgmap="562">Affirmed.</disposition>
+              <headnotes id="b561-8" pgmap="561">1. Drainage—when obligation to repair arises. Having volun­tarily assumed to construct a drain, a district, by virtue thereof, impliedly assumes the obligation to keep such drain in repair.</headnotes>
+              <headnotes id="b561-9" pgmap="561">2. Verdict—when not disturbed as against the evidence. A ver­dict not clearly against the weight of the evidence will not be set aside on review.</headnotes>
+              <opinion type="majority">
+                <author id="b562-7" pgmap="562">Me. Justice Baume</author>
+                <p id="ADdH" pgmap="562">delivered the opinion of the court.</p>
+                <p id="b562-8" pgmap="562">This is a suit by appellee against appellant to re­cover damages for wrongfully causing the natural flow of surface water over and across appellee’s premises to become obstructed, whereby said surface water was caused to back up and stand upon appellee’s premises, thereby injuring and destroying his garden and dam­aging his well and other property. A trial by jury resulted in a verdict and judgment against appellant for $200. The only ground urged for a reversal of the judgment is, that the evidence does not sustain the charge that the injuries complained of resulted from the negligent and wrongful acts of appellant.</p>
+                <p id="b562-9" pgmap="562(182) 563(78)">Appellee is the owner of and resides upon three ad­jacent lots, located in the southwest .part of the city of Chrisman. The right of way of the C., H. &amp; D. Ry. Co. adjoins appellee’s premises on the south, and the right of way of the C., C., C. &amp; St. L. Ry. Co. is located about 400 feet west of appellee’s premises. The natu­ral flow of the surface water in that locality is toward the north and east. Some time prior to the injuries complained of, appellant constructed a 15-inch tile drain from the right of way of the C., H. &amp; D. Ry. Co. northeasterly through the premises of appellee, thence east in an alley through the middle of the block east of appellee’s premises, thence north on Illinois street a distance of a block and a half, thence east and north to its outlet. The evidence tends to show that appellant permitted this tile drain to become partially choked up and obstructed by mud, roots of trees and debris. Through the middle of the block, situated east and northeast of appellee’s premises, an alley is laid out, which the evidence tends to show was graded by appellant to a height of several inches above the natu­ral level of the ground in that locality, without pro­viding any outlet for the surface water, and that this elevation in the grade of the alley prevented the sur­face water from escaping from appellee’s premises to the east and north in the course of its .natural flow.</p>
+                <p id="b563-5" pgmap="563">While the obligation of the appellant to construct drains was voluntarily assumed, yet, when it con­structed such drain for the benefit of the public, it then became the duty of appellant to see that said drain was kept in repair. City of Chicago v. Seben, 165 Ill. 371. And while a municipal corporation may regu­late and establish the grade of its streets and alleys it may not do so in such manner as to obstruct the nat­ural flow of surface water and thereby cast it upon the property of a citizen, to his injury, without being liable to respond in damages therefor. City of Dixon v. Baker, 65 Ill. 518; Elser v. Village of Cross Point, 223 Ill. 230.</p>
+                <p id="b563-6" pgmap="563">The evidence in the record fully sustains the charges of negligence against appellant in the respects men­tioned, and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b563-7" pgmap="563">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="561" ORDERLABEL="543" TYPE="page">
+        <fptr FILEID="tiff_00281_0"/>
+        <fptr FILEID="jp2_00281_0"/>
+        <fptr FILEID="alto_00281_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.3" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_561.2" BETYPE="IDREF" FILEID="alto_00281_0"/>
+              <area BEGIN="BL_561.4" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="562" ORDERLABEL="544" TYPE="page">
+        <fptr FILEID="tiff_00281_1"/>
+        <fptr FILEID="jp2_00281_1"/>
+        <fptr FILEID="alto_00281_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_562.3" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_562.4" BETYPE="IDREF" FILEID="alto_00281_1"/>
+              <area BEGIN="BL_562.5" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="563" ORDERLABEL="545" TYPE="page">
+        <fptr FILEID="tiff_00282_0"/>
+        <fptr FILEID="jp2_00282_0"/>
+        <fptr FILEID="alto_00282_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.3" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.2" BETYPE="IDREF" FILEID="alto_00282_0"/>
+              <area BEGIN="BL_563.4" BETYPE="IDREF" FILEID="alto_00282_0"/>
+              <area BEGIN="BL_563.11" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.10" BETYPE="IDREF" FILEID="alto_00281_0"/>
+            <area BEGIN="BL_562.1" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            <area BEGIN="BL_562.2" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.14" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.7" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.7" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABA" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.6" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.5" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.8" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b561-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_561.9" BETYPE="IDREF" FILEID="alto_00281_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.9" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.11" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.10" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b562-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.15" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            <area BEGIN="BL_563.1" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADdH" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.12" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            <area BEGIN="BL_562.13" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.6" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKtI" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_562.7" BETYPE="IDREF" FILEID="alto_00281_1"/>
+            <area BEGIN="BL_562.8" BETYPE="IDREF" FILEID="alto_00281_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

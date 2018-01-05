@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0050" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Burek v. Western Electric Co.">Andrew Burek, Appellee, v. Western Electric Company, Appellant</name>
+          <docketnumber>Gen. No. 14,092</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 349</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="d5f36fc85aef9f3334d32a9b8d644ea8" CHECKSUMTYPE="MD5" SIZE="44324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="5acfd06f85f5e4a1878d942827a7d9f9" CHECKSUMTYPE="MD5" SIZE="46424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_1.tif"/>
+      </file>
+      <file ID="tiff_00185_0" MIMETYPE="image/tiff" CHECKSUM="ad65a4af450f7a41f5da13f139e37cad" CHECKSUMTYPE="MD5" SIZE="53880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00185_0.tif"/>
+      </file>
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="61e1802cebef5007e9f725ec8e49c8d8" CHECKSUMTYPE="MD5" SIZE="53724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00185_1.tif"/>
+      </file>
+      <file ID="tiff_00186_0" MIMETYPE="image/tiff" CHECKSUM="d678d10538e095e36310335ca6e29a4a" CHECKSUMTYPE="MD5" SIZE="51914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00186_0.tif"/>
+      </file>
+      <file ID="tiff_00186_1" MIMETYPE="image/tiff" CHECKSUM="962aa3f61d2f6f55c32e9706f90311f1" CHECKSUMTYPE="MD5" SIZE="38502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00186_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="6c1c412ab5135cc40262e5413b9c69ca" CHECKSUMTYPE="MD5" SIZE="2406533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_0.jp2"/>
+      </file>
+      <file ID="jp2_00184_1" MIMETYPE="image/jp2" CHECKSUM="6f8124e9e858ca0593d9407709b71aae" CHECKSUMTYPE="MD5" SIZE="2346713">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_1.jp2"/>
+      </file>
+      <file ID="jp2_00185_0" MIMETYPE="image/jp2" CHECKSUM="9a108b73cbb1d100db8e782c69666dab" CHECKSUMTYPE="MD5" SIZE="2475862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00185_0.jp2"/>
+      </file>
+      <file ID="jp2_00185_1" MIMETYPE="image/jp2" CHECKSUM="7d28bc27c1de70f06ce64401dec679fb" CHECKSUMTYPE="MD5" SIZE="2464638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00185_1.jp2"/>
+      </file>
+      <file ID="jp2_00186_0" MIMETYPE="image/jp2" CHECKSUM="fafa21306d9250d02fcf524052e928fd" CHECKSUMTYPE="MD5" SIZE="2503770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00186_0.jp2"/>
+      </file>
+      <file ID="jp2_00186_1" MIMETYPE="image/jp2" CHECKSUM="c7ff3bb417656fe563725bc0a51cf47b" CHECKSUMTYPE="MD5" SIZE="2320420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00186_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="c17fee204e66bd636165cfbcbc9ab0f1" CHECKSUMTYPE="MD5" SIZE="75519">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00184_0.xml"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml" CHECKSUM="2c9426cf3e2b3d5326db873d2cc912a5" CHECKSUMTYPE="MD5" SIZE="86764">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00184_1.xml"/>
+      </file>
+      <file ID="alto_00185_0" MIMETYPE="text/xml" CHECKSUM="f7d8d5969f920b78192a05da7ba00d9b" CHECKSUMTYPE="MD5" SIZE="87630">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00185_0.xml"/>
+      </file>
+      <file ID="alto_00185_1" MIMETYPE="text/xml" CHECKSUM="bff4d1f7bfce0ffc21c6dc7e3c34d37c" CHECKSUMTYPE="MD5" SIZE="92147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00185_1.xml"/>
+      </file>
+      <file ID="alto_00186_0" MIMETYPE="text/xml" CHECKSUM="86ac11d448778f60b6a52bcb53cc37ee" CHECKSUMTYPE="MD5" SIZE="89472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00186_0.xml"/>
+      </file>
+      <file ID="alto_00186_1" MIMETYPE="text/xml" CHECKSUM="438c3b39948729c050abe2d5368bd499" CHECKSUMTYPE="MD5" SIZE="62137">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00186_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0050" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="354" firstpage="349">
+              <docketnumber id="b367-8" pgmap="367">Gen. No. 14,092.</docketnumber>
+              <parties id="b367-7" pgmap="367">Andrew Burek, Appellee, v. Western Electric Com­pany, Appellant.</parties>
+              <decisiondate id="Axk" pgmap="368">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b368-8" pgmap="368">Holt, Wheeler &amp; Sidley, for appellant.</attorneys>
+              <attorneys id="b368-9" pgmap="368">L. A. Kapsa and Charles C. Spencer, for appellee.</attorneys>
+              <summary id="b368-7" pgmap="368">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Richard W. Clifford, Judge, pre­siding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="Amg" pgmap="368">Affirmed.</disposition>
+              <headnotes id="b367-9" pgmap="367(41) 368(49)">1. Assignments of error—what waiver of action of court in denying new trial. Where the brief of counsel for appellant calls upon the Appellate Court either to reverse without remandment or to affirm, the Appellate Court will so affirm, notwithstanding it may be of opinion that the verdict is contrary to the weight of the evidence but not so as to justify reversal without remand­ment, the request being treated as a waiver of the assignment of error on the refusal of the lower court to grant a new trial.</headnotes>
+              <headnotes id="b368-5" pgmap="368">2. Appeals and errors—power to reverse without remandment. The Appellate Court when called upon may weigh the evidence and if there be a clear preponderance against the verdict and judgment, may reverse without remanding.</headnotes>
+              <headnotes id="b368-6" pgmap="368">3. Appeals and errors—when power to reverse without remand­ing exercised. It is only in extreme cases in the exercise of great care, that the Appellate Court will exercise its power to reverse without remanding.</headnotes>
+              <opinion type="majority">
+                <author id="b368-10" pgmap="368">Mr. Justice Brown</author>
+                <p id="ASK" pgmap="368">delivered the opinion of the court.</p>
+                <p id="b368-11" pgmap="368">The plaintiff in this cause unfortunately lost the first joints of the two middle fingers of his left hand while working for the defendant running a drill press. He sued the defendant in the Circuit Court, alleging himself to be a youth of nineteen years (the evidence showed him to be even younger) at the time of the accident, and in one count of the declaration that the defendant, after setting him to work on the drill press, with which he was unacquainted, gave him improper and neglected to give him proper instructions in regard thereto, and in the second count that the defendant neg­ligently permitted said drills and pulleys connected therewith “to be out of repair and carelessly furnished the plaintiff with a certain wire with which to clean a certain countersink drill which the plaintiff was then and there using, which wire was unsafe and improper for such use”.</p>
+                <p id="b368-12" pgmap="368(10) 369(68)">On the trial the jury returned a verdict for $700 in favor of the plaintiff. The defendant moved for a new trial and in arrest of judgment, but its motions were overruled and judgment was entered on the ver­dict. From that judgment this appeal has been taken by the defendant. In giving the case to the jury the court instructed them that the plaintiff was not en­titled to recover on the first count of his declaration.</p>
+                <p id="b369-4" pgmap="369">In this court it has been assigned by the appellant for error that the court erred in rulings on evidence and in giving and refusing instructions, in overruling the defendant’s motion for a new trial and in arrest of judgment; that the evidence was variant from the declaration, and that the declaration did not support the judgment; that the verdict was contrary to the weight of the evidence, to all the evidence, and to the instructions, and, finally, that the court erred in re­fusing at the close of the plaintiff’s evidence, and again at the close of all the evidence, a peremptory instruc­tion for the defendant.</p>
+                <p id="b369-5" pgmap="369">At the conclusion of their argument in chief the counsel for appellant, however, say: “We submit that the evidence wholly failing to sustain' a single one of the charges of negligence brought against de­fendant, but on the contrary showing conclusively that the proximate cause of plaintiff’s injury was his own rash and voluntary act in looping the wire around his fingers, the trial court should have instructed the jury at the close of all the evidence as requested by the de­fendant, to find the defendant not guilty, and that this court should correct a manifest miscarriage of jus­tice by reversing the judgment herein without remand­ment. Unless such order is entered we prefer to sub­mit to one of affirmance</p>
+                <p id="b369-7" pgmap="369">Of this the appellee argues that it is a practical waiver of all the assigned errors except that of refus­ing the peremptory instruction, and that all that there­fore we have to consider is whether the plaintiff’s evi­dence, taken by itself, is sufficient to sustain a recovery.</p>
+                <p id="b369-8" pgmap="369(7) 370(103)">This construction of their language appellant’s coun­sel repudiate, pointing out that the Supreme Court in many cases has held and that it is the firmly estab­lished law of the state, that an appellate court, when it determines that the facts were not correctly found by the lower court, may reverse a judgment of that court in favor of the plaintiff without remanding the case for another trial. In other words, the Appellate Court, even in cases tried by a jury, must weigh the evidence if requested to do so; and if there be a clear and mani­fest preponderance against the verdict and judgment, may reverse without remanding.</p>
+                <p id="b370-4" pgmap="370">This is undoubtedly a correct statement of the law as laid down in Borg v. R. R. Co., 162 Ill. 348, and cases before and since, and the power and duty thus con­fided to the Appellate Court has been often exercised. The Supreme Court has-held too that such reversal without remandment is a bar to. a subsequent suit in the court of original jurisdiction on the same cause of action—a point for a long time in dispute. Larkins v. Terminal R. R. Assn., 221 Ill. 428.</p>
+                <p id="b370-5" pgmap="370(187) 371(75)">Nevertheless, we must hold the language of the de­fendant’s argument in this cause, and the request im­plied in it, a waiver of that assignment of error which attacked the denial of the Circuit Court of a motion for a new trial. Otherwise we could give it no effect at all —a consummation obviously not to be wished. Ques­tions on instructions, variance, and rulings on evidence, are thus brushed out of the way. Under the peculiar powers given us by the state of the law, however, in that regard, an assignment of error in this court that the verdict is against the weight of the evidence, is logi­cally something more than a corollary or. subsidiary proposition to the assignment of error that a new trial was improperly refused below. To decide that a new trial should have been given leads naturally to the exercise of our power to give it. To reverse without remanding—as we may and must in' the exer­cise of our duty sometimes do—is not to give a new trial, but to cancel the results of the old one and for­ever bar the plaintiff from pursuing his supposed cause of action. This power is properly invoked when the record warrants it under the assignment of error that the verdict is contrary to the weight of the evidence. Therefore, as we have said, we are obliged to give to this assignment of error in the present case a wider effect than that of questioning the ruling of the court on the motion for a new trial.</p>
+                <p id="b371-4" pgmap="371">But although the power and duty of the Appellate Court under the law thus to deny to a litigant both the result and the right of a jury trial of his cause (which is the effect of a reversal without remandment of a judgment based on the verdict of a jury) is unques­tionable, the responsibility assumed in doing it is al­ways carefully weighed by us.</p>
+                <p id="b371-5" pgmap="371">When by the submission of a cause to the court without a jury, a jury has been waived in the court of primary jurisdiction, the statute is plain and the usage of the court accords therewith. We regard the waiver as made for this court as well as for the trial court, and give final judgment as we deem the law and facts require.</p>
+                <p id="b371-6" pgmap="371">But when no waiver of a jury has been made, either express or implied, we are reluctant unless moved by strong considerations, finally to deprive a litigant of the opportunity to secure the judgment of a jury. Thus, although as pointed out by counsel for appel­lant in this case, we have been given the power to pass even on the credibility of witnesses, it is very unusual for us, when the evidence is conflicting and its weight depends on the relative credibility of witnesses who have appeared before a jury, to imply by reversal without remandment that we can judge better, by reading the printed report of the words of witnesses, of their veracity, that can the jurymen who have'seen them and heard them testify.</p>
+                <p id="b371-7" pgmap="371(29) 372(79)">In the case at bar we have studied the testimony as it appears in the record carefully. It would be use­less—a mere waste of time—to discuss it, considering the conclusions to which we have arrived, which are that the preponderance of the evidence is with the defendant, and that had we not been expressly re­quested not to do it, by what must be considered a waiver of the errors assigned so far as they would require that result, we should reverse the judgment and remand the case for another trial; but that it is not a case in which the judgment should be reversed without remandment.</p>
+                <p id="b372-5" pgmap="372">While to us it seems improbable that this accident happened as the plaintiff says it did—without his having previously looped the wire around his fingers —yet we are unwilling to say as a matter of law that it was impossible. We are unwilling, as a matter of law, to say that a defective condition of the machine had nothing to do with the catching of the plaintiff’s fingers, although we think it improbable that it did. We are unwilling to say, as a matter of law, that the wire furnished the plaintiff, considering its size, his age and experience and the exceedingly rapid motions of the machine, was a safe and proper instrument, al­though we are inclined to think it was. In fine, we are unwilling in this case to take forever from the plaintiff the opportunity to present his contentions on his al­leged contributory negligence and assumption of risk, to a jury.</p>
+                <p id="b372-6" pgmap="372">Therefore the judgment of the Circuit Court is af­firmed.</p>
+                <p id="b372-7" pgmap="372">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="367" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.2" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jp2_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.2" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.3" BETYPE="IDREF" FILEID="alto_00184_1"/>
+              <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="369" ORDERLABEL="351" TYPE="page">
+        <fptr FILEID="tiff_00185_0"/>
+        <fptr FILEID="jp2_00185_0"/>
+        <fptr FILEID="alto_00185_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.3" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.2" BETYPE="IDREF" FILEID="alto_00185_0"/>
+              <area BEGIN="BL_369.4" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="370" ORDERLABEL="352" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jp2_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.2" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.3" BETYPE="IDREF" FILEID="alto_00185_1"/>
+              <area BEGIN="BL_370.4" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="371" ORDERLABEL="353" TYPE="page">
+        <fptr FILEID="tiff_00186_0"/>
+        <fptr FILEID="jp2_00186_0"/>
+        <fptr FILEID="alto_00186_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.3" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.2" BETYPE="IDREF" FILEID="alto_00186_0"/>
+              <area BEGIN="BL_371.4" BETYPE="IDREF" FILEID="alto_00186_0"/>
+              <area BEGIN="BL_371.9" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="372" ORDERLABEL="354" TYPE="page">
+        <fptr FILEID="tiff_00186_1"/>
+        <fptr FILEID="jp2_00186_1"/>
+        <fptr FILEID="alto_00186_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.2" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_372.3" BETYPE="IDREF" FILEID="alto_00186_1"/>
+              <area BEGIN="BL_372.4" BETYPE="IDREF" FILEID="alto_00186_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.6" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            <area BEGIN="BL_371.1" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-11" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.16" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.13" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.5" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-12" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.17" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_369.1" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axk" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.10" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.5" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.6" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b372-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_372.7" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.8" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            <area BEGIN="BL_372.1" BETYPE="IDREF" FILEID="alto_00186_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.7" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.6" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.5" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.5" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.6" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.9" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.10" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.12" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.11" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.7" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.7" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_368.8" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.6" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.8" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amg" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.9" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.8" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASK" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.14" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_368.15" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

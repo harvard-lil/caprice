@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0054" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Reidel v. Chicago, Rock Island &amp; Pacific Railway Co.">Frank Reidel, Appellee, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 5,009</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 424</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="2b77087a615060d3efcf0982580deb84" CHECKSUMTYPE="MD5" SIZE="43630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="8359322bc1311da2d979afa2fd53ea58" CHECKSUMTYPE="MD5" SIZE="54668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00221_0.tif"/>
+      </file>
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="9f26c31323bcfffd4b4d580e97f0cde0" CHECKSUMTYPE="MD5" SIZE="52584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="066f7a28412ac400b32adc6b70e2fc33" CHECKSUMTYPE="MD5" SIZE="52994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="3718dfc00e105817c6984ecd9588db65" CHECKSUMTYPE="MD5" SIZE="47490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="bb402317462cc454536aa56b4c7a0028" CHECKSUMTYPE="MD5" SIZE="54640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="4b0cf16097d2335b72b779a966e98033" CHECKSUMTYPE="MD5" SIZE="53656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00223_1.tif"/>
+      </file>
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="cad8c90bff6c2174c211ae7c7e0cd4f6" CHECKSUMTYPE="MD5" SIZE="53012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="ed8dfcd1dc00f7a2d96e41262db74b45" CHECKSUMTYPE="MD5" SIZE="53140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00224_1.tif"/>
+      </file>
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="c8596359e5d3357a61116e3fd5f90a7b" CHECKSUMTYPE="MD5" SIZE="52474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_0.tif"/>
+      </file>
+      <file ID="tiff_00225_1" MIMETYPE="image/tiff" CHECKSUM="85a45d0291a2864b269f4d05254979e1" CHECKSUMTYPE="MD5" SIZE="43868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="af9e20a1f935d9690f4fd934f0c8f9cd" CHECKSUMTYPE="MD5" SIZE="2276932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_1.jp2"/>
+      </file>
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="2a4bd52adf5a3962d7f24935f1a47fe5" CHECKSUMTYPE="MD5" SIZE="2404081">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00221_0.jp2"/>
+      </file>
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="17881d5512cbdf02bb60badfa9acec80" CHECKSUMTYPE="MD5" SIZE="2365270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00221_1.jp2"/>
+      </file>
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="0929e75a86b7354f6c3cc2fb977c8f38" CHECKSUMTYPE="MD5" SIZE="2399320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="233074a399b121045c229ba252a1adb4" CHECKSUMTYPE="MD5" SIZE="2313409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00222_1.jp2"/>
+      </file>
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="a45aef2a085880bb2d087ce0381342e0" CHECKSUMTYPE="MD5" SIZE="2395664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00223_0.jp2"/>
+      </file>
+      <file ID="jp2_00223_1" MIMETYPE="image/jp2" CHECKSUM="2d722f175cd86380300f343e46857f5e" CHECKSUMTYPE="MD5" SIZE="2352112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00223_1.jp2"/>
+      </file>
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="6b154a8abd38fe3228ab0fbe80900eb4" CHECKSUMTYPE="MD5" SIZE="2403354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00224_0.jp2"/>
+      </file>
+      <file ID="jp2_00224_1" MIMETYPE="image/jp2" CHECKSUM="e51716a81e295350726480c31948ea78" CHECKSUMTYPE="MD5" SIZE="2355166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00224_1.jp2"/>
+      </file>
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="c6214f707ee71dc5f6278d26da04971e" CHECKSUMTYPE="MD5" SIZE="2375661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_0.jp2"/>
+      </file>
+      <file ID="jp2_00225_1" MIMETYPE="image/jp2" CHECKSUM="df90642c3d3f91020e38f43b8c32ddbe" CHECKSUMTYPE="MD5" SIZE="2291577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00225_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="0ae36f0c50bfb5e343570df182ef9493" CHECKSUMTYPE="MD5" SIZE="82980">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00220_1.xml"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="aa97a10bc4604e693a550752f1b2a132" CHECKSUMTYPE="MD5" SIZE="87953">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00221_0.xml"/>
+      </file>
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="fddbed4b89562d5dfa0cc258d8df9d53" CHECKSUMTYPE="MD5" SIZE="90609">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00221_1.xml"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="de9839e0717c0654f948e01cb8baf267" CHECKSUMTYPE="MD5" SIZE="94939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="30903c06297d53589cd3b78c3a2b9dce" CHECKSUMTYPE="MD5" SIZE="82733">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00222_1.xml"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="db003a998d9fc65dff76b01cf112c6aa" CHECKSUMTYPE="MD5" SIZE="95845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00223_0.xml"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml" CHECKSUM="80769db9ca994f3cd3b354ddeb071da8" CHECKSUMTYPE="MD5" SIZE="94380">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00223_1.xml"/>
+      </file>
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="707567ac985941f4e7609fa0e0d3372e" CHECKSUMTYPE="MD5" SIZE="93264">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00224_0.xml"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml" CHECKSUM="8e1a1a706265d6736a83647a5ec4f1a9" CHECKSUMTYPE="MD5" SIZE="97218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00224_1.xml"/>
+      </file>
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="00d33525bd0cf35e6beb84ac55817ad1" CHECKSUMTYPE="MD5" SIZE="90339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00225_0.xml"/>
+      </file>
+      <file ID="alto_00225_1" MIMETYPE="text/xml" CHECKSUM="f828808e32609572bd188c44fc6efb00" CHECKSUMTYPE="MD5" SIZE="84722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00225_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0054" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="434" firstpage="424">
+              <docketnumber pgmap="440" id="b440-7">Gen. No. 5,009.</docketnumber>
+              <parties pgmap="440" id="b440-6">Frank Reidel, Appellee, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant.</parties>
+              <decisiondate pgmap="440" id="AAk">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="440" id="AeDt2">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="444" id="b444-4">William D. Fullerton, for appellant; Benjamin S. Cable, of counsel.</attorneys>
+              <attorneys pgmap="444" id="b444-5">Coleman &amp; Coleman and Duncan, Doyle &amp; O ’Conor, for appellee.</attorneys>
+              <summary pgmap="440" id="b440-12">Action in case for personal injuries. Appeal from the Circuit Court of LaSalle county; the Hon. R. M. Skinneb, Judge, presiding.</summary>
+              <disposition pgmap="440" id="AhW">Affirmed.</disposition>
+              <headnotes pgmap="440" id="b440-8">1. Negligence—how question to he determined. If the testimony is conflicting the question of negligence is one of fact to be deter­mined hy the jury.</headnotes>
+              <headnotes pgmap="440" id="b440-9">2. Contbibtjtoby negligence—when person struck hy cars mak­ing flying switch not guilty of. A laborer at work in private yards containing railroad tracks, is not under the same obligations with respect to keeping a lookout as is one employed in railroad yards where engines and cars are frequently moving about. In the former case the question of the exercise of ordinary care is one of fact for the jury.</headnotes>
+              <headnotes pgmap="440" id="b440-10">3. Evidence—who competent to testify to matter of speed. Suffi­cient experience qualifies a witness to testify to the rate of speed at which a string of cars was moving; expert evidence is not essen­tial.</headnotes>
+              <headnotes pgmap="440" id="b440-11">4. Evidence—when testimony as to failure to ring hell compe­tent, notioithstanding no such allegation is contained in the declara­tion. Notwithstanding the declaration does not charge failure to ring a hell, it is competent to show the failure of the railroad com­pany to ring a hell or blow a whistle as bearing upon the question of the exercise of due care hy the plaintiff.</headnotes>
+              <p pgmap="440(42) 441(249)" id="b440-13">Statement by the Court. On October 27, 1905, Frank Reidel, the appellee, was at work assisting in moving some empty box cars in the yards of the Q-er-­man-American Portland Cement Works, near La­Salle, and walking between two switch tracks, when he was struck by a corner of a loaded coal car at the head of a string of cars which were making a flying switch into said yards without an engine attached. He was knocked across another switch track and against a warehouse, and became unconscious and re­ceived severe injuries. Said flying switch was made by a switching crew in the employ of the Chicago, Rock Island and Pacific Railway Company, appel­lant; and under a contract between the cement com­pany and appellant said switch tracks were in the exclusive direction and control of the appellant while the same were in use in placing cars thereon or tak­ing cars therefrom. Appellee sued appellant for in­juries so received, and filed a declaration, the suffi­ciency of which to meet the proofs and support the verdict is not questioned. Appellant filed the general issue. The Cement Company was also originally a defendant. Afterwards the suit was dismissed as to the Cement Company. Appellant introduced proof at the trial tending to show a settlement with the Cement Company, but no point is made here upon that matter. There was a jury trial and a verdict and a judgment for plaintiff for $3,500. It is not contended that the verdict is excessive if appellant is liable. Appellant contends that the proof did not warrant a verdict that it had been guilty of negligence, causing said injury, but its main defense is that appellee was guilty of con­tributory negligence.</p>
+              <p pgmap="441(107) 442(367) 443(87)" id="b441-4">The cement works are about one mile east of the railroad depot in La Salle, and north of the main line of appellant. Appellant’s ‘railroad at that point runs nearly due east and west. It is a double track road, the south track being used by the east-bound trains and the north track by the west-bound trains. A little distance east of the cement works a switch track leaves the west-bound track and goes first in a westerly di­rection, curving to the northwest and north, sharply down grade. This switch track is a single track for about 371 feet, and from that point two switch tracks proceed substantially north, and pass between the warehouse of the cement works on the west side of said tracks and its furnace room and engine room on the east side thereof. The west of these two switch tracks runs next to the warehouse and ends in a stub far enough north of the warehouse to hold six or seven cars. It is called the house track. The east track, next.to the furnace room and engine room, is called the coal track, and runs north some distance past the furnace room and engine room, and then curves to the northeast, past a building called a crusher. Between the warehouse on the west side and the furnace room on the east the railroad tracks are on level ground, and as the coal track curves off to the crusher the grade rises. Appellee was struck and injured between these two tracks and a little north of the most south­ern of the eastern doors of the warehouse. The ware­house comes further south than the furnace room, so that there was no building directly east of where ap­pellee was struck. The cement works are situated in a deep valley or ravine. The top of the bluff directly west of the factory premises was forty-five or fifty feet above the level of the ground at the cement works. The warehouse was 178 feet long north and south and seventy-three feet wide, and between fifty and sixty feet high. The furnace room was 142 feet long from north to south and fifty-two feet wide east and west, and between twenty-five and thirty feet high. The engine room was eighty-four feet long north and south, and fifty-three feet wide east and west. The cement was manufactured in other buildings still farther east than those above described, and was carried there­from to the warehouse in an open conveyor above the switch tracks, which open conveyor had a roof above it. This conveyor, however, seems to have crossed over the tracks farther north than the place where appellee was injured. When the cement reached the warehouse it was placed in bags which were then loaded into box cars placed opposite the various east doors of the warehouse on the house track. There were ten doors on the east side of the warehouse, the south door being number one and the north door num­ber ten. The two switch tracks were seven feet apart, and each box car and coal car extends two feet or more beyond the rail, so that the space between a box car on the house track and a coal car on the coal track within which a person could safely walk was less than three feet.</p>
+              <p pgmap="443(301) 444(285)" id="b443-5">The Cement Company received its coal to operate its machinery and shipped its product over appellant’s road. Each afternoon a switching gang left La Salle and went east on the south track as far as the works, pushing ahead of the engine loaded cars of slack next to the engine, loaded cars of other coal next, and empty box cars farthest east. When this switch engine with cars reached the cement works it passed over to the north or west-bound track and shoved all these cars east of the switch that led into the cement works, and sent a flagman east to protect the track. The engine then left that string of cars and went down into the works, and upon the house track, and pulled out all the loaded cars thereon and any empties that might be- on the house track south of the loaded cars, then went back to the main track and set the loads out west of the switch on the main track, and then returned these empty box cars to the house track and some­times placed the empties opposite various doors of the warehouse. The engine then crossed over to the coal track, hitched on to the empty coal cars at the fur­nace room and went back to the crusher, and hitched on to the empties there, and then went out upon the main track and set all those empty cars upon the main track west of the switch. The engine then hitched on to the train of cars which had been brought from La Salle and started them sharply west. Then a man on the head coal car uncoupled the engine and the engine ran ahead past the switch, and a man at the switch then threw the switch and this string of cars brought from La Salle passed in on the switch, down the grade, and up between the warehouse and the furnace room as far as the momentum applied to it would carry it. The engine then came down on the switch track arid hitched on to the other end of said string of cars, pushed the head end up as far as the crusher, left there all cars loaded with slack, and then came down opposite the furnace room and left there all cars loaded with other coal, then put over upon the house track the empty box cars, then returned to the main track and pushed back to La Salle the cars standing on the main track west of the switch. While this was the course ordinarily pursued, that order was sometimes departed from. When the switching, crew first came into the yards in the afternoon their fore­man communicated with the foreman of the cement works, and if for any reason he directed that the work should be done in a different order, his directions were followed. Sometimes a carload of cement was being loaded, and the work was not quite completed, and the foreman of the cement works would direct that the coal track be pulled first, and such directions were obeyed. The entire work at the cement plant usually occupied the switching crew an hour or an hour and a half. It was usually begun between two and three o’clock in afternoon, but sometimes it was done later than that. The evidence for appellee tends to show that on this day the work by which he was injured was being done between five and half past five o’clock in the evening.</p>
+              <opinion type="majority">
+                <author pgmap="444" id="b444-6">Mr. Justice Dibell</author>
+                <p pgmap="444" id="A4-">delivered the opinion of the court.</p>
+                <p pgmap="444(11) 445(392) 446(385) 447(264)" id="b444-7">On the day in question the train came from La Salle later than usual. The loaded cars were pulled from the house track and set on the main track west of the switch; the empty coal cars were then pulled from the coal track and also set on the main line west of the switch. The engine then hitched on to the string of cars east of the switch and started the flying switch, which ran down an incline and into the yards of the Cement Company on the coal track. The proof favor­able to appellee tends to show that the engine and cars had been gone from the yards forty minutes when this flying switch was made. It was between five o’clock and half past five p. m. of October 27th. The height of the bluff on the west side of these buildings, and the height of the warehouse and furnace room and con­veyor above, all tended to make it much darker east of the warehouse on the house track than it was out in the open on the main line of the railroad. Appel­lee’s proof tends to show that it was a dark or foggy afternoon and that no wind was blowing, and that when there is no wind there is much cement dust in the air about the plant, and that this increases the dark­ness. Appellee was at work inside of the ware­house. Shortly before the injury several men were called from the warehouse to move empty box cars to positions exactly opposite the side doors. One or two witnesses on each side testfied that a car was moved from south to north opposite door number one. A very clear preponderance of the proof on each side shows, however, that the car was moved from the north to the south. Appellee had a bar and worked under the northeast wheel of the car, barring it south, while others pushed and appellee’s brother went ahead to block the car when exactly opposite door number one. When the car was set or spotted, appellee from his place over the east rail of the house track looked down the other track and saw nothing. He then turned around and walked on the cinder path between the two switch tracks to the north for the purpose of bar­ring down the next empty car. He was a German and did not speak English. Some one gave an alarm, and a fellow workman who was situated as he was jumped out of the way. Just at this instant the string of cars came north, not attached to an engine. Loaded slack cars for the crusher were ahead. Trevillian, the foreman of the switching crew, stood in about the mid­dle of the head car.' The brakes had been set to some extent at the south end of the first and at the north end of the second loaded cars to check the speed of the string of cars down the incline to the plant. Proof offered by appellee tended to show that the speed of the cars as they went by the warehouse was ten- or fifteen miles per hour. The proof favorable to ap­pellant tended to show it was about five miles per hour. The corner of the head car struck appellee as he was thus walking north between the two tracks, and he was thrown and injured as already stated. In determining whether appellant was negligent in mak­ing this flying switch into that plant the jury were entitled to consider, among other things, the fact that it was later than the usual time for making the switch, and -that it was then dusk in between the buildings, if the jury found that appellee’s evidence to that ef­fect was true. The evidence of Trevillian for de­fendant strongly tended to warrant the jury in find­ing that what was there done by appellant was negli­gent. He testified that as he approached these build­ings he called out, because there was so much noise there (meaning from the machinery and cement works, the noise from which the proof showed was very great), that one could hardly hear when the cars were coming; that he saw that men were at work moving these box cars, and saw a man pinching or barring one of the cars, and saw that the man did not make any move. Trevillian testified that he called out be­cause “he wanted to give them a show, because they were working at the car and probably would not know that the other cars were coming down the other track. I don’t think that they knew that they were coming.” The foreman of the switching crew there­fore saw that these men were in a perilous position, in a comparatively dark place, and he knew that the noise of the machinery of the cement works was so great that they might not hear the string of cars com­ing, and he saw that they continued at their work, and thought they did not hear the string coming. His statement that he wanted to give them a chance shows that he thought they were in danger of being struck. Except his shouting, which he knew was not likely to be heard, no alarm was given. There was another man on the next car back, but no one set any more brakes or made any effort to stop the cars. Under all these circumstances we are of opinion that we cannot say that a verdict that appellant was negligent, and that this negligence caused the injury to appellee, ought to be set aside for want of proof to support it. Appellant had proof to meet some of these conditions. It was shown, for instance, that no head-light or other light was required on the train as they went back to La­Salle. But the light on the main track in the open did not rebut the proof of darkness existing in this ravine between these buildings and east of the ware­house. All of these matters, including the speed of the string of cars at the time appellee was struck, were questions of fact to be settled by the jury, where the evidence was conflicting.</p>
+                <p pgmap="447(116) 448(398) 449(94)" id="b447-4">The main question is whether appellee was exercis­ing due care for his personal safety. He had worked in the warehouse over two years, and while his work was mostly inside the warehouse, yet he was some­times outside. His work was packing cement in sacks and loading the cars, and incidentally assisting in mov­ing box cars to the doors when the switching crew had not performed that service and also at times moving loaded cars away from the doors. The switching crew came in and did this work every day during all the time he had been there, and he must have had a gen­eral knowledge of the manner in which they per­formed their work. A running switch was made every­day in substantially the same way as this was made. On the other hand, no duty required him to know or to closely observe in what order or manner the switch­ing crew moved the various cars. He had nothing to do with the coal cars on the coal track, and had no duty to observe when they were set in or whether they had been set in. When the loaded cars had been set in on the coal track they were left opposite the crusher and opposite the furnace room, and the furnace room was further north than the south end of the warehouse where he was injured, so that he might not notice that the loaded coal cars had not yet been set in. He would not necessarily know whether or not they had been set in. Appellee’s proof tended to show that forty minutes had passed since the switching crew had left the plant. Appellee testified that he did not know that the coal cars were yet to be set in. Some of his fellow employes in the warehouse did know that the loaded cars were yet to come in, but appellee did not talk English, and there is no proof that this knowledge had been communicated to him. The west bluff and the high warehouse and the dust in the air and the lateness in the afternoon all tended to produce a dark­ness at that place. He had looked south on the coal track and had seen nothing. He testified that he had never known cars to be set in so late. This is not like the case of railroad yards where engines and cars are frequently moving hack and forth all day long, and where an employe of the railroad company work­ing in such yards must necessarily know that an en­gine or a car is likely to pass him at any moment, and is required to be on the lookout therefor. Under all these circumstances, we are of opinion that it was a question of fact for the jury whether appellee was exercising due care for his own safety when he turned from the car left at door number one, after having looked south on the coal track and having seen noth­ing approaching, and walked north on the path be­tween the two switch tracks for the purpose of barring-­down another car standing only a few feet further north. We regard it as a close question whether he was exereis­ing such due care, and if the jury had found that he was not, we should not feel at liberty to interfere with that conclusion. But we also conclude that the evi­dence warranted a verdict either way upon that subject, and that we ought not to disturb the verdict of the jury, which means in effect that appellee was exercising due care.</p>
+                <p pgmap="449(270) 450(11)" id="b449-5">It is argued that it was error to permit the witness Climek to testify to the speed of this string of cars as it came into the yards, because he had not shown special knowledge as to the speed of cars. It was held in C., B. &amp; Q. R. R. Co. v. Gunderson, 174 Ill. 495, that persons familiar with trains are competent to testify to the speed thereof, and that it is not a matter for expert evidence; and the witness in question showed that he possessed sufficient experience in re­gard to trains to make him competent to give an opinion on that subject. The court permitted wit­nesses to testify that no bell or whistle was heard as this string of cars came into the plant. It is argued that this was error, as the declaration did not charge failure to ring the bell or sound the whistle. The evidence was not introduced for the purpose of charging appellant with a failure to perform a statu­tory duty, but for its bearing upon the question whether appellee was exercising due care. This proof showed that no whistle was sounded and no bell was rung which should have attracted his attention and caused him to ascertain that the cars were coming in. For that purpose we think the proof was properly admitted. If appellant feared that the jury would suppose that a cause of action arose from the failure to ring the bell or sound the whistle, it should have asked an instruction upon that subject, which would no doubt have been given, and any possible misappre­hension in the minds of the jury would have been removed.</p>
+                <p pgmap="450" id="b450-5">We conclude that the cause was tried without sub­stantial error, and that the case involves only ques­tions of fact, and that the conclusion of the jury thereon, approved by the trial judge, should not be disturbed. The judgment is therefore affirmed. ■</p>
+                <p pgmap="450" id="b450-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="440" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.3" BETYPE="IDREF" FILEID="alto_00220_1"/>
+              <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="425" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.3" BETYPE="IDREF" FILEID="alto_00221_0"/>
+              <area BEGIN="BL_441.4" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="442" ORDERLABEL="426" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.3" BETYPE="IDREF" FILEID="alto_00221_1"/>
+              <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="427" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.2" BETYPE="IDREF" FILEID="alto_00222_0"/>
+              <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="428" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.3" BETYPE="IDREF" FILEID="alto_00222_1"/>
+              <area BEGIN="BL_444.4" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="429" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.2" BETYPE="IDREF" FILEID="alto_00223_0"/>
+              <area BEGIN="BL_445.4" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="430" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jp2_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.2" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.3" BETYPE="IDREF" FILEID="alto_00223_1"/>
+              <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="447" ORDERLABEL="431" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.2" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+              <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jp2_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.3" BETYPE="IDREF" FILEID="alto_00224_1"/>
+              <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="449" ORDERLABEL="433" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.2" BETYPE="IDREF" FILEID="alto_00225_0"/>
+              <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+              <area BEGIN="BL_449.6" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="450" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00225_1"/>
+        <fptr FILEID="jp2_00225_1"/>
+        <fptr FILEID="alto_00225_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.2" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_450.3" BETYPE="IDREF" FILEID="alto_00225_1"/>
+              <area BEGIN="BL_450.4" BETYPE="IDREF" FILEID="alto_00225_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.5" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAk" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.15" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_440.16" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.10" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_445.1" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.7" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-11" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.11" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.10" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.17" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_441.1" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-12" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.12" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.6" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4-" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.8" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_444.9" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeDt2" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.13" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.7" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.6" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.5" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            <area BEGIN="BL_442.1" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_443.1" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b450-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_450.6" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.9" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.8" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhW" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.14" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            <area BEGIN="BL_450.1" BETYPE="IDREF" FILEID="alto_00225_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

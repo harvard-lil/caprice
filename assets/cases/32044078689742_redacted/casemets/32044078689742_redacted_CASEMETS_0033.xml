@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0033" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Smith v. Eustace">James J. Smith, Plaintiff in Error, v. Daniel Eustace, Defendant in Error</name>
+          <docketnumber>Gen. No. 14,216</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 261</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="398207ea116b831d08aabc87d05f54db" CHECKSUMTYPE="MD5" SIZE="41862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00140_0.tif"/>
+      </file>
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="436d65f2023360579c4dda9d9401cc29" CHECKSUMTYPE="MD5" SIZE="40800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00140_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00140_0" MIMETYPE="image/jp2" CHECKSUM="834210bb3a9122834302daf63a91e34b" CHECKSUMTYPE="MD5" SIZE="2375951">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00140_0.jp2"/>
+      </file>
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="89812153376fbb510ab4c6db445c0517" CHECKSUMTYPE="MD5" SIZE="2355345">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00140_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00140_0" MIMETYPE="text/xml" CHECKSUM="59fb4823971b4cf17a7e37a1b8f3fea7" CHECKSUMTYPE="MD5" SIZE="73509">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00140_0.xml"/>
+      </file>
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="ee3c07c785cf304485eeb45430c75383" CHECKSUMTYPE="MD5" SIZE="66266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00140_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="262" firstpage="261">
+              <docketnumber id="b279-8" pgmap="279">Gen. No. 14,216.</docketnumber>
+              <parties id="b279-7" pgmap="279">James J. Smith, Plaintiff in Error, v. Daniel Eustace, Defendant in Error.</parties>
+              <decisiondate id="AcX" pgmap="279">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b279-11" pgmap="279">H. A. Tiffany, for plaintiff in error.</attorneys>
+              <attorneys id="b280-4" pgmap="280">No appearance by defendant in error.</attorneys>
+              <summary id="b279-10" pgmap="279">Forcible detainer. Error to the .Municipal Court of Chicago; the Hon. Mancha Bruggemeyer, Judge, presiding. Heard in the Branch Appellate Court at the March term, 1908.</summary>
+              <disposition id="A3W" pgmap="279">Reversed and remanded.</disposition>
+              <headnotes id="b279-9" pgmap="279">Verdict—when set aside as against the evidence. A verdict will be set aside on review as against the weight of the evidence where clearly and manifestly so.</headnotes>
+              <opinion type="majority">
+                <author id="b280-5" pgmap="280">Mr. Presiding Justice Smith</author>
+                <p id="ArC" pgmap="280">delivered the opinion of the court.</p>
+                <p id="b280-6" pgmap="280">This is a writ of error which brings before the court the record of the Municipal Court of Chicago in an action of forcible detainer brought by James J. Smith, plaintiff in error, against Daniel Eustace, defendant in error, for possession of certain premises in the city of Chicago.</p>
+                <p id="b280-7" pgmap="280">The evidence shows that plaintiff was the owner of the premises in question, and in October, 1902, sold by a verbal contract the property to defendant for the sum of $900, payable in instalments of $10 per month until the whole amount was paid with interest at six per cent, on the deferred payments. The defendant with his family took possession of the premises and remained in possession thereof until the action was brought for the possession. The plaintiff paid all instalments as they fell due up to September 24, 1906, and thereafter failed to make payments until demand in writing was made by plaintiff for possession. At this time $120 was due and unpaid. Defendant refused to deliver possession of the premises on demand, and thereupon the action was commenced.</p>
+                <p id="b280-8" pgmap="280">The jury returned a verdict for the defendant, and the court entered judgment on the verdict.</p>
+                <p id="b280-9" pgmap="280">Tn our opinion the verdict is manifestly against the clear weight of the evidence, and the trial court should have set aside the verdict and awarded a new trial.</p>
+                <p id="b280-10" pgmap="280">The judgment is therefore reversed and the cause is remanded for a new trial.</p>
+                <p id="b280-11" pgmap="280">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="279" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jp2_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.2" BETYPE="IDREF" FILEID="alto_00140_0"/>
+              <area BEGIN="BL_279.4" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="280" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.2" BETYPE="IDREF" FILEID="alto_00140_1"/>
+              <area BEGIN="BL_280.3" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3W" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.13" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_279.14" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.9" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.11" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_279.12" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.16" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.10" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.11" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.12" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.9" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.10" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.8" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.8" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.5" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArC" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.6" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_280.7" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcX" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.15" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.13" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0056" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Bettis v. Chicago Coated Board Co.">Frank Bettis, Appellee, v. Chicago Coated Board Company, Appellant</name>
+          <docketnumber>Gen. No. 14,100</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 390</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="1bb5dbb6945d8b2fb4779e553dee7d41" CHECKSUMTYPE="MD5" SIZE="42812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="cd695c7784ef74065c0fb6e8750876a4" CHECKSUMTYPE="MD5" SIZE="46308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="6daefacdc78422a39f81d8824f3cec7b" CHECKSUMTYPE="MD5" SIZE="49880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="effe6ad080cce04d17484405b9b79c56" CHECKSUMTYPE="MD5" SIZE="52978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="fc370506828e4304df7b169326f66005" CHECKSUMTYPE="MD5" SIZE="42560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00206_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="6dc4b55f746e76f8783dba29bbd0c1e2" CHECKSUMTYPE="MD5" SIZE="2356248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="dd3f565041e724a68c425776bae89f07" CHECKSUMTYPE="MD5" SIZE="2429671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="ab5dfd78b9fb028d0192a6d04eb5c6d1" CHECKSUMTYPE="MD5" SIZE="2405580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00205_1.jp2"/>
+      </file>
+      <file ID="jp2_00206_0" MIMETYPE="image/jp2" CHECKSUM="893220d4d4a489d271c3353f6179dc8f" CHECKSUMTYPE="MD5" SIZE="2478363">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00206_0.jp2"/>
+      </file>
+      <file ID="jp2_00206_1" MIMETYPE="image/jp2" CHECKSUM="5ccb82ec50f8dd9f37da63e9e1a3e42b" CHECKSUMTYPE="MD5" SIZE="2346394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00206_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="5ce05ff43bead4abafeccc5f18e329e3" CHECKSUMTYPE="MD5" SIZE="77137">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="342f707cbe936a70474a3a10ed9c9a25" CHECKSUMTYPE="MD5" SIZE="82846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="96edbf0bcfbdd9f7e22dfd1391163d28" CHECKSUMTYPE="MD5" SIZE="87263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00205_1.xml"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml" CHECKSUM="53c2002331dad93091532f48278a54ab" CHECKSUMTYPE="MD5" SIZE="88760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00206_0.xml"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml" CHECKSUM="d28f940a27fe46cb998f4cc86b9a6878" CHECKSUMTYPE="MD5" SIZE="70778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00206_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="394" firstpage="390">
+              <docketnumber id="b408-10" pgmap="408">Gen. No. 14,100.</docketnumber>
+              <parties id="b408-9" pgmap="408">Frank Bettis, Appellee, v. Chicago Coated Board Com­pany, Appellant.</parties>
+              <decisiondate id="AO-" pgmap="409">Opinion filed December 21, 1908.</decisiondate>
+              <otherdate id="A04" pgmap="409">Rehearing denied January 7, 1909.</otherdate>
+              <attorneys id="b409-5" pgmap="409">Horton, Brown &amp; Miller, for appellant.</attorneys>
+              <attorneys id="b409-6" pgmap="409">Harry R. Hurlbut, Samuel B. King and Jule F. Brower, for appellee.</attorneys>
+              <summary id="b409-4" pgmap="409">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Richard S. Tuthill, Judge, pre­siding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AqI" pgmap="409">Reversed with finding of fact.</disposition>
+              <headnotes id="b408-11" pgmap="408">1. Master and servant—when latter cannot recover. A servant is not entitled to recover for injuries sustained while in the serv­ice of his master unless he has established that he did not know of the defects which caused his injury and did not have equal opportunities with his master of knowing thereof at the time he was so injured.</headnotes>
+              <headnotes id="b408-12" pgmap="408(19) 409(21)">2. Contributory negligence—when servant guilty of. A servant who undertakes to select his own implements and chooses one that is defective, is not in the exercise of ordinary care and cannot re­cover for an injury resulting from such defect.</headnotes>
+              <opinion type="majority">
+                <author id="b409-7" pgmap="409">Mr. Justice Holdom</author>
+                <p id="AXv" pgmap="409">delivered the opinion of the court.</p>
+                <p id="b409-8" pgmap="409">The relationship of the parties at the time plaint­iff sustained injuries to his person, compensation for which a jury rendered a verdict and the trial court entered a judgment for $2,500, was that of master and servant.</p>
+                <p id="b409-9" pgmap="409">The declaration originally consisted of five counts, but the court, by instruction, eliminated the second, third, fourth and fifth counts from the cause, and the case was submitted to the jury on the first count.</p>
+                <p id="b409-10" pgmap="409">The negligence averred in the first count is, that defendant’s duty was to furnish plaintiff with a safe place in which to work, in smoothing out wrinkles in the paper which was wound about rollers in a machine used by him for that purpose, and that defendant was negligent in that it neglected to perform that duty by furnishing plaintiff a board which was defective, in that it had in it longitudinally a crack or split, of which defect plaintiff had no notice, but of which de­fendant either had actual notice, or in the exercise of reasonable care, might have had such notice.</p>
+                <p id="b409-11" pgmap="409(51) 410(100)">The evidence is substantially to the effect that at the time of plaintiff’s suffering the injury complained about, he was trying to smooth out a wrinkle that ap­peared in the paper upon the roll; that he picked up a piece of board and used it in an endeavor to accom­plish such purpose. The manner of so doing was by putting one end of the board down upon the floor and holding it in position, with the foot, and then applying force to the other end of the board, which had the effect of smoothing out the wrinkle. In the machine at which plaintiff was at work, there were two rollers, one above the other, upon which the paper was rolled. These rollers were so worked that when revolving any substance placed between them large enough to en­gage the surface of both would be drawn in and through them.</p>
+                <p id="b410-5" pgmap="410">At the close of plaintiff’s proofs and again at the close of all the evidence, defendant made a motion in writing and tendered a written instruction with each motion, that the jury be instructed to find a ver­dict in favor of the defendant. Both these motions were denied and exceptions to the ruling of the court preserved. The court’s rulings in this regard are like­wise assigned upon the record for error, and while other assignments of error appear upon the record and are urged upon us in argument, we shall confine our reasons in the conclusions to which we have arrived to the ruling of the court in refusing to instruct a verdict for defendant, as asked at the close of all the proofs.</p>
+                <p id="b410-6" pgmap="410">Plaintiff’s hand and arm, the proof shows, were in­jured while plaintiff was using the board, with a crack in it, in an endeavor to smooth out a wrinkle in the paper which he was engaged in rolling; that the wrinkle in the paper caught in the crack in the board, which had the effect of throwing the board up and in some way, not clearly explained, caused plaintiff’s hand to be caught between the rollers and drawn be­tween them.</p>
+                <p id="b410-7" pgmap="410(48) 411(274)">The case of plaintiff rests in the charge that de­fendant furnished him a board to work with which was defective, knowledge of which defect i's imputable to defendant. There is no charge that there was any­thing out of repair in the rolling machine, or that it was not of approved construction and safe to work at by persons exercising ordinary care in so doing. Therefore any testimony on the part of plaintiff in­dicating any defect in the machine was incompetent, and therefore should have been excluded. The tes­timony of plaintiff unquestionably establishes the fact that boards used to straighten out wrinkles in the paper occurring during the process of rolling, were not furnished by defendant, nor was any other imple­ment furnished for that purpose. It was customary to use such a board in rolling paper when smoothing out wrinkles. In this instance defendant did not fur­nish the board, which plaintiff insists was defective. Petrie, the foreman of defendant, did not instruct plaintiff to use the board he did use, or direct him to use any particular board. Plaintiff selected his own board, both on the occasion when he was injured, as well as at other times when he smoothed out wrinkles. The board used by plaintiff at the time of his injury, he picked up off the floor from underneath the ma­chine on which he was at work, where it was lying, without making any particular examination of it to ascertain its condition. The testimony of plaintiff makes it very doubtful whether the board was cracked at the time he started to use it, or was cracked by the machine while being used in it to straighten or smooth out the wrinkle in the paper being rolled. However this may be is unimportant, for it is clear that de­fendant was not responsible for the board used, whether in a defective or good usable condition.</p>
+                <p id="b411-4" pgmap="411(87) 412(36)">The rule governing this case is stated in E. J. &amp; E. Ry. Co. v. Myers, 226 Ill. 358, where the court say: "Still, the appellee was not entitled to recover in this case unless he established that he did not know of such defects, and did not. have equal opportunities with appellant of knowing thereof at the time he was injured”. This rule was established by the court in many of its preceding decisions, notably, Goldie v. Werner, 151 ibid. 551; Howe v. Medaris, 183 ibid. 288; Lake Erie &amp; Western R. R. v. Wilson, 189 ibid. 89; Armour v. Brazeau, 191 ibid. 117; Montgomery Coal Co. v. Barringer, 218 ibid. 327; and McCormick Harvester Machine Co. v. Zakzewski, 220 ibid. 522.</p>
+                <p id="b412-5" pgmap="412">The board used by the plaintiff was not furnished by defendant, nor was the plaintiff directed as to the manner of its use by its foreman, or any other servant of defendant. Nor was the defect in the board, if any existed, known to defendant. Neither was such knowl­edge imputable to it. Plaintiff selected his own board, and if he used one that was defective, he was not in the exercise of reasonable care in so doing, but was guilty of negligence which resulted in his injuries. The doctrine of Goldie v. Werner, supra, has been adhered to by this court in International Packing Co. v. Cichowicz, 107 Ill. App. 234; Casey v. Daugherty, 118 ibid. 134; and Dalton v. Ogden Gas Co., 126 ibid. 502.</p>
+                <p id="b412-6" pgmap="412">The motion to direct a verdict in favor of defend­ant is in the nature of a demurrer to the evidence. As the proof then stood plaintiff had failed to estab­lish the negligence charged against defendant in his declaration, and therefore was not entitled to recover. In so far as such proof may have tended to establish negligence other than that charged in the declaration, it was inadmissible, and therefore not competent to be considered in determining its weight. The trial court erred in not directing the verdict requested by defendant, at the close of all the proofs. The judg­ment of the Circuit Court is therefore reversed with a finding of fact.</p>
+                <p id="b412-7" pgmap="412">Reversed ivith finding of fact.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="408" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+              <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.2" BETYPE="IDREF" FILEID="alto_00205_0"/>
+              <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+              <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jp2_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.2" BETYPE="IDREF" FILEID="alto_00206_0"/>
+              <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jp2_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.3" BETYPE="IDREF" FILEID="alto_00206_1"/>
+              <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-11" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.20" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.19" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO-" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.9" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.5" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqI" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.7" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.8" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.12" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.14" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.13" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.18" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.17" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A04" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.10" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.11" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.8" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXv" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.15" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.16" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-12" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.11" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.9" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-11" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.10" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.5" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.7" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.6" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.6" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

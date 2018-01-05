@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0079" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Johnston v. Loar">V. W. Johnston, Defendant in Error, v. A. M. Loar, Plaintiff in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 443</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="dea46da2ab6576c457aedd3ee7bddb0b" CHECKSUMTYPE="MD5" SIZE="45224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_0.tif"/>
+      </file>
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="f64fb1188044b1251a26da91361bfaf1" CHECKSUMTYPE="MD5" SIZE="48630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_1.tif"/>
+      </file>
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="70f5baaf56d60c5fe3b2002023f324d5" CHECKSUMTYPE="MD5" SIZE="52606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00232_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="425ed74dd19c30454400ebbae4f69025" CHECKSUMTYPE="MD5" SIZE="2412754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_0.jp2"/>
+      </file>
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="5ac89c333a7be166f804d62bf4c03b3d" CHECKSUMTYPE="MD5" SIZE="2387008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_1.jp2"/>
+      </file>
+      <file ID="jp2_00232_0" MIMETYPE="image/jp2" CHECKSUM="17188bc01ce3fa38c873623718a20f3c" CHECKSUMTYPE="MD5" SIZE="2447418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00232_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="f2f24e351442bd216996e9c303e9b6d7" CHECKSUMTYPE="MD5" SIZE="83694">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00231_0.xml"/>
+      </file>
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="4b58ae5f2c7606b3482844323d3b567d" CHECKSUMTYPE="MD5" SIZE="84416">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00231_1.xml"/>
+      </file>
+      <file ID="alto_00232_0" MIMETYPE="text/xml" CHECKSUM="5c16b71e3682af6cae614f54db0eb85d" CHECKSUMTYPE="MD5" SIZE="83802">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00232_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0079" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="445" firstpage="443">
+              <parties id="b461-9" pgmap="461">V. W. Johnston, Defendant in Error, v. A. M. Loar, Plaintiff in Error.</parties>
+              <decisiondate id="A06" pgmap="462">Opinion filed No­vember 17, 1908.</decisiondate>
+              <attorneys id="b462-5" pgmap="462">W. K. Whitfield and James L. Loar, for plaintiff in error.</attorneys>
+              <attorneys id="b462-6" pgmap="462">E. J. Miller, for defendant in error.</attorneys>
+              <summary id="b461-13" pgmap="461(21) 462(4)">Assumpsit. Error to the Circuit Court of Moultrie county; the Hon. W. G. Cochran, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A7n" pgmap="462">Reversed and remanded.</disposition>
+              <headnotes id="b461-10" pgmap="461">1. Pleading—effect of verified plea of non est factum. The in­terposition of a verified plea of non est factum imposes upon the plaintiff the burden of proving the execution of the notes and the endorsement, assignments and respective deliveries of the notes, as averred in the declaration.</headnotes>
+              <headnotes id="b461-11" pgmap="461">2. Negotiable instruments—presumption as to time of assign­ment. In the absence of proof as to the time of assignment of a note, it would be presumed that it was made before maturity.</headnotes>
+              <headnotes id="b461-12" pgmap="461">3. Negotiable instruments—when fraud in inducing execution competent as against assignee. If an assignee, at the time of the assignment to it of the notes in suit, was manifestly not a bona fide purchaser and holder thereof, fraud which induced the exe­cution of such notes may be shown by way of defense to an action brought by such an assignee.</headnotes>
+              <opinion type="majority">
+                <author id="b462-7" pgmap="462">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AhFT" pgmap="462">delivered the opinion of the court.</p>
+                <p id="b462-8" pgmap="462">This is an action in assumpsit by defendant in error against plaintiff in error for the recovery of the amount alleged to be due upon two judgment notes for the sum of $500 each, signed by plaintiff in error, due in six and nine months respectively, and payable to the order of William E. White. Upon the back of each note appears the following endorsement: “Pay to the order of V. W. Johnson without recourse. William E. White.” The declaration alleges that on August 18, 1903, the day the notes bear date, they were assigned and delivered by White, the payee, to the German-­American Bank of Bloomington, Ill., and that said bank afterward sold and delivered the same to the plaintiff. The defendant interposed a verified plea denying the transfer and delivery of the notes by White to the bank, or by the bank to the plaintiff, or that they were purchased by the bank in good faith for a valuable consideration before maturity, or at any other time; also special pleas alleging in substance that the notes were purchased by the bank and the plaint­iff long after their maturity and were procured to be executed and delivered by the defendant to White pur­suant to and in furtherance of an unlawful scheme similar to that described and detailed in White v. Moran, 134 Ill. App. 480; and that there was no othei consideration for the notes, of which fact the bank and plaintiff had notice at the time they acquired the same.</p>
+                <p id="b462-9" pgmap="462(39) 463(12)">Issues were joined upon said pleas. Upon the trial, at the close of all the evidence, the court directed a ver­dict for the plaintiff.. Judgment was rendered thereon for $1250.82 being the amount due upon the notes. To reverse such judgment this writ of error is prosecuted by the defendant.</p>
+                <p id="b463-5" pgmap="463">The interposition of the verified plea of non est factum imposed upon the plaintiff the burden of prov­ing the execution of the notes and the endorsement, as­signments and respective deliveries of the notes, as averred in the declaration. Walsh v. Marvel, 130 Ill. App. 305. The evidence offered by the plaintiff upon these issues, while meager and somewhat unsatis­factory was sufficient, we think, in the absence of con­tradictory evidence, to warrant the admission of the notes in evidence.</p>
+                <p id="b463-6" pgmap="463">In the absence of proof as to the time of the assign­ment of a note it will be presumed that it was made be­fore maturity. Cook v. Norwood, 106 Ill. 558. No evidence was offered by the defendant upon this issue, while the plaintiff offered evidence tending to show that the assignment of the notes was made before ma­turity.</p>
+                <p id="b463-7" pgmap="463">The defendant on the trial sought to introduce evi­dence which tended to show the fraudulent and void character of the notes, and that the bank through its cashier had notice of the fraudulent and void character of the notes at the time it purchased them, but the court held such evidence incompetent. This was error. We have heretofore held, in White v. Moran, supra, that a promissory note executed and delivered under the cir­cumstances and for the purposes alleged in the pleas, is without legal consideration and void as between the original parties. If the bank at the time the notes in suit were transferred to it had notice of such facts, it was manifestly not a bona fide holder of the same, and took them subject to all defenses, notwithstanding it may have acquired them for a valuable-consideration before maturity and in the regular course of business.</p>
+                <p id="b463-8" pgmap="463">Other questions are presented and argued which it is at this time unnecessary to consider or determine. The judgment of the Circuit Court will be reversed and the cause remanded.</p>
+                <p id="b463-9" pgmap="463">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="461" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+              <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="462" ORDERLABEL="444" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.3" BETYPE="IDREF" FILEID="alto_00231_1"/>
+              <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="463" ORDERLABEL="445" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jp2_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.3" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.2" BETYPE="IDREF" FILEID="alto_00232_0"/>
+              <area BEGIN="BL_463.4" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.9" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.9" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7n" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.5" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.8" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.9" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.10" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-8" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.13" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A06" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.6" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.7" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-7" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.7" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-6" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.6" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-5" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.5" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-9" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.14" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_463.1" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-13" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.13" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            <area BEGIN="BL_462.1" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-12" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.12" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-11" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.11" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-10" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.10" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-8" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.8" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhFT" BETYPE="IDREF" FILEID="casebody_0079"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.11" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.12" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

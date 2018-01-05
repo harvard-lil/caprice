@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0011" publicationstatus="published">
+          <court abbreviation="q" jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Fitzgerald v. Chicago &amp; Erie Rail­road">John H. Fitzgerald, Appellee, v. Chicago &amp; Erie Rail­road Company, Appellant</name>
+          <docketnumber>Gen. No. 13,990</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 100</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="59b31ab9b42d0b6b7ef86c1d92351ca1" CHECKSUMTYPE="MD5" SIZE="38852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_1.tif"/>
+      </file>
+      <file ID="tiff_00059_0" MIMETYPE="image/tiff" CHECKSUM="a6f94f90a5eec0a75283261c92e83be4" CHECKSUMTYPE="MD5" SIZE="51932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00059_0.tif"/>
+      </file>
+      <file ID="tiff_00059_1" MIMETYPE="image/tiff" CHECKSUM="239d35cacfc58f7c4649b24cc7d851d6" CHECKSUMTYPE="MD5" SIZE="53600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00059_1.tif"/>
+      </file>
+      <file ID="tiff_00060_0" MIMETYPE="image/tiff" CHECKSUM="97ec8e5b5c1410a82a81b91a97c6220f" CHECKSUMTYPE="MD5" SIZE="42464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="7ee2d3246803f99f6d751cf4f3918bbc" CHECKSUMTYPE="MD5" SIZE="2235656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_1.jp2"/>
+      </file>
+      <file ID="jp2_00059_0" MIMETYPE="image/jp2" CHECKSUM="b6b0ee90c7273c0011ea6efd1a82d482" CHECKSUMTYPE="MD5" SIZE="2398612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00059_0.jp2"/>
+      </file>
+      <file ID="jp2_00059_1" MIMETYPE="image/jp2" CHECKSUM="31ce3993355ad3b39e6a9f00567d22a0" CHECKSUMTYPE="MD5" SIZE="2346994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00059_1.jp2"/>
+      </file>
+      <file ID="jp2_00060_0" MIMETYPE="image/jp2" CHECKSUM="2a8f54d2547207c53bc7c4ae9d010e6e" CHECKSUMTYPE="MD5" SIZE="2311049">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00060_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="b39682f3230ab8b548ecefff3b2ec43e" CHECKSUMTYPE="MD5" SIZE="70636">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00058_1.xml"/>
+      </file>
+      <file ID="alto_00059_0" MIMETYPE="text/xml" CHECKSUM="43ccee7df291980ac8cd5ec5d1dc1a07" CHECKSUMTYPE="MD5" SIZE="87666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00059_0.xml"/>
+      </file>
+      <file ID="alto_00059_1" MIMETYPE="text/xml" CHECKSUM="70c9b2ac5f9c0345317a31673ec4cdd0" CHECKSUMTYPE="MD5" SIZE="85455">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00059_1.xml"/>
+      </file>
+      <file ID="alto_00060_0" MIMETYPE="text/xml" CHECKSUM="9d18e29a427cd34b3ba9cd24965a08d1" CHECKSUMTYPE="MD5" SIZE="76629">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00060_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="103" firstpage="100">
+              <docketnumber pgmap="116" id="b116-7">Gen. No. 13,990.</docketnumber>
+              <parties pgmap="116" id="b116-6">John H. Fitzgerald, Appellee, v. Chicago &amp; Erie Rail­road Company, Appellant.</parties>
+              <decisiondate pgmap="116" id="A-2">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="116" id="Ar7">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="116" id="b116-10">W. O. Johnson and Gale &amp; Johnson, for appellant.</attorneys>
+              <attorneys pgmap="116" id="b116-11">Coburn &amp; Case, for appellee.</attorneys>
+              <summary pgmap="116" id="b116-9">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. William H. McSurely, Judge, presid­ing.</summary>
+              <disposition pgmap="116" id="AZx">Reversed and remanded.</disposition>
+              <headnotes pgmap="116" id="b116-8">Verdict—when set aside as against the evidence. A verdict mani­festly contrary to the probative force of the evidence will be set aside on appeal.</headnotes>
+              <opinion type="majority">
+                <author pgmap="116" id="b116-12">Mr. Justice Holdom</author>
+                <p pgmap="116" id="AiN">delivered the opinion of the court.</p>
+                <p pgmap="116" id="b116-13">This is an appeal from a judgment of $1,990, en­tered on the verdict of a jury as compensation for personal injuries suffered by appellee as a result of the claimed negligence of appellant.</p>
+                <p pgmap="116" id="b116-14">Appellee’s contention is that while a passenger upon the train of appellant, and after having paid his fare, he was wantonly thrown by the servants of appellant from the train while it was in motion, as a result of which he was injured.</p>
+                <p pgmap="117" id="b117-3">In the conclusion to which we have arrived upon the facts in evidence, it becomes unnecessary for us to dis­cuss in this opinion any of the questions raised by counsel other than whether the verdict and judgment are supported by the evidence, or so manifestly con­trary to its probative force that it is our duty to re­verse the judgment of the trial court.</p>
+                <p pgmap="117" id="b117-4">Appellee’s narrative of the occurrence is, that while standing upon the platform of the train of appellant as it was passing in a southerly direction on Thirty-­seventh street, the conductor and brakeman came out upon the platform, assaulted him and threw him off the train about the time it reached Fortieth street, and while the train was proceeding south at a rapid rate of speed.</p>
+                <p pgmap="117" id="b117-5">But one witness, James Dowling, testified in an at­tempt to substantiate the evidence of appellee. How­ever, his testimony utterly fails to do so on the crucial point. Dowling saw the accident, but he did not see any one throw appellee off the car. He testified he saw other men at the car door, but none on the plat­form. It stands to reason that if appellee had been thrown off the platform by the conductor and brake­man, as he claims, these servants must have been on the platform of the car when they did such a dastardly act. If they were, Dowling could not help but see them. On cross-examination Dowling testified that appellee stepped off the side of the car, walked right out on the platform, stepped down off the step and got rolled. So far from Dowling’s testimony lending any corroboration to appellee’s claim of being thrown off the car by the conductor and brakeman of appel­lant, it discredits it. This evidence is not confirma­tive; it is flat contradiction.</p>
+                <p pgmap="117(46) 118(140)" id="b117-6">Arrayed against this testimony is that of the conduc­tor and brakeman, who on every essential and ma­terial point contradict the narrative of the occurrence by appellee. They both deny having seen appellee at all until he had fallen from the train, and then only on the train stopping in response to the alarm given following the occurrence. These witnesses positively and unequivocally testify that they saw appellee for the first time after he suffered the injuries consequent upon his falling from the train. Another of appel­lant’s witnesses, McCall, who saw the accident from the Thirty-ninth street station of the Chicago &amp; East­ern Illinois Eailroad, testified that when he first saw appellee he was standing between two coaches and fell off while the train was going, without slacking its speed, at Fortieth street. This witness does say that from where he stood it was impossible for him to tell whether appellee was pushed off, jumped off, or fell off, yet he is positive in his statement that no persons were on the platform at the time the train passed him at Thirty-ninth street.</p>
+                <p pgmap="118" id="b118-5">Dr. Parschie testified that he attended appellee at the Provident Hospital where he arrived for treat­ment, and that appellee told him the train was going too fast when he attempted to get off, and that he fell on his head, and that the accident resulted from his own fault. A written statement signed by appellee was also received in evidence. Its statements were substantially in accord with Dr. Parschie’s evidence, including the statement that the train was going too fast when he attempted to get off, that he fell on his head, and that the accident was his own fault.</p>
+                <p pgmap="118(103) 119(71)" id="b118-6">It would seem that comment as to the probative force of the foregoing evidence is superfluous. The burden of proving that the accident was the result of appellant’s conductor and brakeman forcing appellee from the train, as charged in the declaration, rested on appellee, and he failed to maintain the burden which the law so imposed. The countervailing proof is overwhelming in contradiction of appellee’s conten­tion. Courts of review should give great weight to the finding of a jury, and ought not to disturb such finding unless not sustained by a clear preponderance of the evidence or manifestly contrary to its probative force. But where there is a conflict in the evidence, and such evidence clearly preponderates in favor of the party against whom the verdict is rendered, then such verdict is in law manifestly against the weight of the evidence, and in such a condition it is the duty of a court of review to reverse the judgment entered thereon. Bradley v. Palmer, 193 Ill. 15; Peaslee v. Glass, 61 Ill. 94.</p>
+                <p pgmap="119" id="b119-4">It is the province and duty of this court to see to it that no judgment he allowed to stand upon the ver­dict of a jury not resting upon a preponderance of the evidence, hut which is plainly the result of the whim or prejudice of the jury rendering it.</p>
+                <p pgmap="119" id="b119-5">• Appellee failed to establish his claim, counted upon in his declaration, by a preponderance of the evi­dence, and the verdict rendered is contrary to its pro­bative force.</p>
+                <p pgmap="119" id="b119-6">The judgment of the Superior Court is reversed and the cause remanded for a new trial in conformity with the views here expressed.</p>
+                <p pgmap="119" id="b119-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="116" ORDERLABEL="100" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.2" BETYPE="IDREF" FILEID="alto_00058_1"/>
+              <area BEGIN="BL_116.3" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="117" ORDERLABEL="101" TYPE="page">
+        <fptr FILEID="tiff_00059_0"/>
+        <fptr FILEID="jp2_00059_0"/>
+        <fptr FILEID="alto_00059_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.1" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.2" BETYPE="IDREF" FILEID="alto_00059_0"/>
+              <area BEGIN="BL_117.3" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="118" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00059_1"/>
+        <fptr FILEID="jp2_00059_1"/>
+        <fptr FILEID="alto_00059_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_118.2" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_118.3" BETYPE="IDREF" FILEID="alto_00059_1"/>
+              <area BEGIN="BL_118.4" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="119" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00060_0"/>
+        <fptr FILEID="jp2_00060_0"/>
+        <fptr FILEID="alto_00060_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.3" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.2" BETYPE="IDREF" FILEID="alto_00060_0"/>
+              <area BEGIN="BL_119.4" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZx" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.14" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_116.15" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-11" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.18" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.17" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-13" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.22" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-12" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.19" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-14" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.23" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.7" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.7" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            <area BEGIN="BL_118.1" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.8" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.9" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.8" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.5" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.6" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.5" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.6" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-2" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.16" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.11" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_116.12" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.10" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.13" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiN" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.20" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_116.21" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.6" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            <area BEGIN="BL_119.1" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.5" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-3" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.4" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

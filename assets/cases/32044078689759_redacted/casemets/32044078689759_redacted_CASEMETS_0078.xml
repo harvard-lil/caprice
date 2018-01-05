@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0078" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Wilson v. Chicago City Railway Co.">George H. Wilson, Appellee, v. Chicago City Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 13,983</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 604</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00310_1" MIMETYPE="image/tiff" CHECKSUM="9bf3578e98c99866c646deb33df39495" CHECKSUMTYPE="MD5" SIZE="44390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00310_1.tif"/>
+      </file>
+      <file ID="tiff_00311_0" MIMETYPE="image/tiff" CHECKSUM="03cc46011c1f515a034d0bce9558ec5c" CHECKSUMTYPE="MD5" SIZE="53588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00311_0.tif"/>
+      </file>
+      <file ID="tiff_00311_1" MIMETYPE="image/tiff" CHECKSUM="3d8d064890a0241b249fd65367b806c0" CHECKSUMTYPE="MD5" SIZE="53992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00311_1.tif"/>
+      </file>
+      <file ID="tiff_00312_0" MIMETYPE="image/tiff" CHECKSUM="a8c772124ac497b5ef1bddfdba301b9e" CHECKSUMTYPE="MD5" SIZE="46778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00312_0.tif"/>
+      </file>
+      <file ID="tiff_00312_1" MIMETYPE="image/tiff" CHECKSUM="e506451e86e72600bee14f230b6593e2" CHECKSUMTYPE="MD5" SIZE="55108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00312_1.tif"/>
+      </file>
+      <file ID="tiff_00313_0" MIMETYPE="image/tiff" CHECKSUM="207faa543752cf906e9a58ac7a888111" CHECKSUMTYPE="MD5" SIZE="55582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00313_0.tif"/>
+      </file>
+      <file ID="tiff_00313_1" MIMETYPE="image/tiff" CHECKSUM="92e3dcc41977ebf24eddc1354f7eefab" CHECKSUMTYPE="MD5" SIZE="55034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00313_1.tif"/>
+      </file>
+      <file ID="tiff_00314_0" MIMETYPE="image/tiff" CHECKSUM="a2276521be03fc0db017eb381ba75053" CHECKSUMTYPE="MD5" SIZE="57310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_0.tif"/>
+      </file>
+      <file ID="tiff_00314_1" MIMETYPE="image/tiff" CHECKSUM="b2b5e670e5c86cca9f697d88629a9611" CHECKSUMTYPE="MD5" SIZE="45394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00310_1" MIMETYPE="image/jp2" CHECKSUM="1be34577d57457a429520c599fb1edb0" CHECKSUMTYPE="MD5" SIZE="2262254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00310_1.jp2"/>
+      </file>
+      <file ID="jp2_00311_0" MIMETYPE="image/jp2" CHECKSUM="2872f03241abe48cdeba5551e605c8d4" CHECKSUMTYPE="MD5" SIZE="2353312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00311_0.jp2"/>
+      </file>
+      <file ID="jp2_00311_1" MIMETYPE="image/jp2" CHECKSUM="c3d1a24dbd52890fc046b85c22a13505" CHECKSUMTYPE="MD5" SIZE="2340212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00311_1.jp2"/>
+      </file>
+      <file ID="jp2_00312_0" MIMETYPE="image/jp2" CHECKSUM="3c0ca46048d2185dd6d859aba1f1b5de" CHECKSUMTYPE="MD5" SIZE="2330448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00312_0.jp2"/>
+      </file>
+      <file ID="jp2_00312_1" MIMETYPE="image/jp2" CHECKSUM="8328d2c7d47691da92e69286040c7171" CHECKSUMTYPE="MD5" SIZE="2337414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00312_1.jp2"/>
+      </file>
+      <file ID="jp2_00313_0" MIMETYPE="image/jp2" CHECKSUM="6f880ec5b8f8bfcf840bd29c3cd5ff4c" CHECKSUMTYPE="MD5" SIZE="2397504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00313_0.jp2"/>
+      </file>
+      <file ID="jp2_00313_1" MIMETYPE="image/jp2" CHECKSUM="f840c5a534a5a28deac971898d3d0c15" CHECKSUMTYPE="MD5" SIZE="2352971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00313_1.jp2"/>
+      </file>
+      <file ID="jp2_00314_0" MIMETYPE="image/jp2" CHECKSUM="9483cd80479b8bdf71cd52f0970274b2" CHECKSUMTYPE="MD5" SIZE="2403916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_0.jp2"/>
+      </file>
+      <file ID="jp2_00314_1" MIMETYPE="image/jp2" CHECKSUM="89c082399ccbb9245d6056e90d2dcb8b" CHECKSUMTYPE="MD5" SIZE="2286087">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00314_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00310_1" MIMETYPE="text/xml" CHECKSUM="40c1341a1ba119fb9161501c8882a2f3" CHECKSUMTYPE="MD5" SIZE="80114">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00310_1.xml"/>
+      </file>
+      <file ID="alto_00311_0" MIMETYPE="text/xml" CHECKSUM="275ad20a95c93dbcd4cd1d9555be68e3" CHECKSUMTYPE="MD5" SIZE="93467">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00311_0.xml"/>
+      </file>
+      <file ID="alto_00311_1" MIMETYPE="text/xml" CHECKSUM="954c43d6f507e2e6b649a8668f4c82d8" CHECKSUMTYPE="MD5" SIZE="90954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00311_1.xml"/>
+      </file>
+      <file ID="alto_00312_0" MIMETYPE="text/xml" CHECKSUM="f2fc46f2fe5c6ebbb5e0fc0d58575847" CHECKSUMTYPE="MD5" SIZE="73736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00312_0.xml"/>
+      </file>
+      <file ID="alto_00312_1" MIMETYPE="text/xml" CHECKSUM="49b095b0ce316fd83f01fdde561814af" CHECKSUMTYPE="MD5" SIZE="91933">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00312_1.xml"/>
+      </file>
+      <file ID="alto_00313_0" MIMETYPE="text/xml" CHECKSUM="091ff889efd9b833ebfae7d3dad8cf30" CHECKSUMTYPE="MD5" SIZE="89314">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00313_0.xml"/>
+      </file>
+      <file ID="alto_00313_1" MIMETYPE="text/xml" CHECKSUM="993f884923be45fabe6693bb657db973" CHECKSUMTYPE="MD5" SIZE="87116">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00313_1.xml"/>
+      </file>
+      <file ID="alto_00314_0" MIMETYPE="text/xml" CHECKSUM="1cf23ab5a485f31485935c1cb8c49071" CHECKSUMTYPE="MD5" SIZE="89354">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00314_0.xml"/>
+      </file>
+      <file ID="alto_00314_1" MIMETYPE="text/xml" CHECKSUM="8caa82d9f346114743fe77277e3534ca" CHECKSUMTYPE="MD5" SIZE="69702">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00314_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0078" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="612" firstpage="604">
+              <docketnumber pgmap="620" id="b620-26">Gen. No. 13,983.</docketnumber>
+              <parties pgmap="620" id="b620-24">George H. Wilson, Appellee, v. Chicago City Railway Company, Appellant.</parties>
+              <decisiondate pgmap="621" id="A4T">Opinion filed Novem­ber 12, 1908.</decisiondate>
+              <otherdate pgmap="621" id="AHP">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="623" id="b623-5">William J. Hynes, John E. Kehoe and Watson J. Ferry, for appellant.</attorneys>
+              <attorneys pgmap="623" id="b623-6">Gann &amp; Peaks and Charles G. Neely, for appellee.</attorneys>
+              <summary pgmap="621" id="b621-8">Trespass on the case. Appeal from the Superior Court of Cook county; the Hon. Akthub H. Fbost, Judge, presiding.</summary>
+              <disposition pgmap="621" id="ALd">Affirmed.</disposition>
+              <headnotes pgmap="620" id="b620-27">1. PASSaNGER AND CARRIER-what essential to establish prim~a facie case of negligence. The allegations of negligence being shown, a pri~rta facie case in favor of the plaintiff is established by evidence tending to show that the defendant was the owner of and oper­ating the cars in collision, that the plaintiff was a passenger upon one of the colliding cars, that the cars came into collision while he was in the exercise of due care for his own safety, and that he was injured as a result of such collision. The fact that the plaintiff at the trial attempted to prove specific acts of negligence is not material as affecting the prima facie case thus made out; such prima facie case being made out, the burden is shifted to the de­fendant to exculpate or excuse itself from the liability so cast</headnotes>
+              <headnotes pgmap="621" id="b621-3">upon it by the evidence of the plaintiff that the collision of its cars occurred from negligence imputable to it from that fact.</headnotes>
+              <headnotes pgmap="621" id="b621-4">2. Vebdict—when not excessive. A verdict of $2,500 in an action for personal injuries is not excessive where it appears that as a result of the accident the plaintiff suffered a severe injury to the drum of his ear, that the impairment of his hearing was permanent, and that he suffered pain in consequence of his injuries.</headnotes>
+              <headnotes pgmap="621" id="b621-5">3. Damages—when medical expenses may properly he allowed. Evidence of payment or assumption of the obligation for the pay­ment of medical services is not essential to the allowance thereof as damages, if the evidence shows that the liability has in fact been incurred.</headnotes>
+              <headnotes pgmap="621" id="b621-6">^4. Evidence—what testimony attending physician may give. An attending physician may properly be permitted to testify concern­ing his knowledge, acquired as such attending physician, of the plaintiff’s suffering pain from an injury made the basis of the action.</headnotes>
+              <headnotes pgmap="621" id="b621-7">5. Evidence—what test competent in proof of injury. A watch ticking test made by an attending physician to determine the hear­ing of the plaintiff held competent.</headnotes>
+              <p pgmap="621" id="b621-9">Statement toy the Court. This is an action of tres­pass on the case for the recovery of damages for per­sonal injuries suffered by plaintiff as the result of a collision between two cars of the defendant, upon the east-bound of which he was a passenger.</p>
+              <p pgmap="621" id="b621-10">The declaration consists of one count, and charges negligence generally in these words: that defendant “so negligently, carelessly and unsafely managed and operated the said car upon which the plaintiff was riding as aforesaid, and said other car, that said cars through such negligence, careless and unsafe opera­tion and management collided and came together with great force and violence at the intersection of said Thirty-fifth and Halsted streets”.</p>
+              <p pgmap="621(29) 622(268)" id="b621-11">Plaintiff on the morning of June 10, 1902, left his home, 3810 Honoré street, Chicago, to go to the place of his employment at Schlesinger &amp; Mayers, at the corner of Madison and State streets in the business district of Chicago, and in so doing took a car of de­fendant running east on Thirty-fifth ■ street. Defend­ant also operates a line of cars north and south on Halsted street, which intersects the line upon which plaintiff was riding as a passenger at Thirty-fifth street. The Halsted street car had the right of way across Thirty-fifth street, making it incumbent upon the motormen in charge of cars on Thirty-fifth street when approaching Halsted street to stop their cars so as to accord that right and avoid the risk of colliding with a passing Halsted stret car. The motorman in charge of the car upon which plaintiff was a passenger failed to arrest the progress of his car at the point mentioned, such failure resulting in a collision with a Halsted street car proceeding south across the Thirty-­fifth street tracks. The excuse made by defend­ant for the collision is the greasiness of the track, occasioned by the sprinkling of water upon the street over which the tracks were laid, and that notwith­standing the motorman exerted himself to the utmost and made application of all the appliances at hand in an endeavor to stop the car before reaching the west crossing of Halsted street, all of such appliances on the car being in good order, and the fact that he re­versed the wheels of the car, still the car slipped along the track and the collision resulted without the fault of the motorman and in spite of all his efforts to avoid the impact.</p>
+              <p pgmap="622(103) 623(19)" id="b622-5">The force of the colliding of the cars was such as to throw plaintiff from his seat, striking' his mouth against the rail on the top of the rear dashboard; his body then rebounded backwards, striking'the back of his head and neck on the sill of a window in the par­tition back of the seat on which he was sitting at the moment of the contact between the cars. As a con­sequence of the collision plaintiff had one of his teeth knocked out and three others loosened, all of which he subsequently lost; his lip and gum were cut; the drum of his ear was injured, from which he suffered great pain and an impairment of his ability to hear.</p>
+              <p pgmap="623" id="b623-4">Defendant pleaded the general issue and the cause proceeded to trial before the court with a jury and resulted in a verdict and judgment for $2,500. After the court overruled defendant’s motion for a new trial and in arrest of judgment, to which the usual excep­tions were preserved, defendant prayed and was al­lowed this appeal, and the record is before us for review.</p>
+              <opinion type="majority">
+                <author pgmap="623" id="b623-7">Mr. Justice Holdom</author>
+                <p pgmap="623" id="AFv">delivered the opinion of the court.</p>
+                <p pgmap="623" id="b623-8">The errors assigned and argued as constituting grounds for reversal of the judgment of the trial court are: that the verdict is not justified by the evidence, but it is contrary to its manifest weight; that the trial court excluded proper and admitted improper evi­dence; refused to submit to the jury certain instruc­tions tendered by defendant, and gave certain other instructions at the instance of plaintiff, and that the damages are excessive.</p>
+                <p pgmap="623(100) 624(95)" id="b623-9">The insistence of defendant that the plaintiff did not prove acts of defendant which were negligent and through which negligent acts the collision between the defendant’s cars was brought about, with the result­ing injury to plaintiff, seems to be occasioned by a misconception of that degree of proof made necessary by the pleadings. Plaintiff’s declaration charges de­fendant with negligence generally as bringing about the collision between its cars at Halsted and Thirty-­fifth streets. Had the allegation been of specific acts of negligence, then plaintiff would have been re­stricted to his right of recovery to proofs sufficient to sustain such specific acts. Under the pleadings found in the record, all the law required plaintiff to prove by competent evidence, in order to make a prima facie case entitling him to recover in the absence of countervailing proof, was that defendant was the owner of and operating the cars in collision; that plaintiff was a passenger upon the colliding Thirty-­fifth street car; that the cars came into collision while he was in the exercise of due care for his own safety; and that he was injured as a result of such collision.</p>
+                <p pgmap="624(280) 625(294)" id="b624-5">It is true that plaintiff attempted upon the trial to prove specific acts of negligence, such as the failure of the motorman to exercise diligence in the management of the car, and that the motorman of the Halsted street car was negligent in not using due diligence to avoid the collision. Even admitting that proof of specific acts of negligence did not appear from the evidence at the time plaintiff closed his main case, yet, as it con­tained the proof incumbent upon him to make under the averments of his declaration to entitle him to recover, he had satisfied all legal requirements. The burden was thereupon shifted to defendant to exculpate or excuse itself from the liability so cast upon it by 'the evidence of plaintiff, .that the collision of its cars oc­curred from negligence imputable to it from that fact. Much of the argument of defendant is without force, in the light of our ruling as to the limitations of plaint­iff’s proof. It is, however, urged as a complete de­fense that the accident was without the fault of defendant because all was done that possibly could be done with the approved agencies at hand to prevent it. The failure of the motorman sufficiently to control the movements of the car so as to stop it before the collision, is attributed to the greasiness of the track brought about by the sprinkling of the street with water; that the day was bright, the air clear and the sun shining, and that the effect of the sun’s rays was to evaporate some of the water and make a greasy, muddy condition upon the tracks, which prevented the motorman from observing their condition in time to stop the car. There was testimony tending to show that the motorman made no attempt to arrest the speed of his car so as to stop it before crossing Hal­sted street, and furthermore there is an entire ab­sence of any evidence of a sprinkling cart or wagon being in the neighborhood of Thirty-fifth street west of Halsted street the morning before the accident. On the contrary there was some evidence to the effect that the street car tracks at that time and place were dry. The jury may have believed from this evidence that the claim that the street had been sprinkled and the car track was greasy was a fabrication. There is also some evidence tending to demonstrate that the motorman of the Halsted street car might have stopped his car in the exercise of due care in time to have avoided the collision, and that his not so doing was negligence. The jury may have regarded the testi­mony of the numerous witnesses of defendant as in­sufficient to relieve it from the liability for negligence imputable to it from plaintiff’s proofs. The jury saw the witnesses—a privilege denied us—and from’ their manner of testifying, their appearance upon the wit­ness stand, their impartiality or bias, whichever was apparent, were better able than we to say which of them was the most worthy of belief; and as plaintiff made all the proof necessary under the averments of his declaration to entitle him to prevail, we cannot say that the verdict is not justified by the evidence or that it is contrary to its manifest weight. On the contrary, we do not perceive how the jury could have decided otherwise than they did.</p>
+                <p pgmap="625(65) 626(217)" id="b625-4">The injuries of plaintiff are deemed trifling by de­fendant, and for that reason it regards the damages awarded as excessive. It is quite true that plaintiff immediately after the accident did not regard himself as seriously injured, for he at once acted the part of a good Samaritan and helped carry an injured woman to the office of a medical practitioner. After doing this humane act he proceeded to his employment, and there for the first time discovered blood flowing from his ear, whereupon he returned home. He affirms that from the injury to his ear he suffered great pain and has a permanent impairment of his hearing. The morning after the accident he wrote to the general attorney of defendant, explaining his condition. This afforded defendant an opportunity to test by inquiry the relia­bility of plaintiff’s statements and the extent of his injury. Defendant did not avail of the opportunity thus within its power. The injury to the car and hear­ing of plaintiff is corroborated by Dr. Bobertson, a reputable practitioner of medicine, as we assume, the record showing nothing to the contrary. The measure of damages is primarily for the jury to fix, and we are not warranted in disturbing their award unless we are convinced from the record that it is excessive. Plaintiff’s injuries were of a serious character. The pain suffered from the injury to the drum of the ear was severe, and this was followed by a permanent impairment of his hearing. Plaintiff also lost four teeth as a result of the accident. We are not inclined to hold that $2,500 is more than a reasonable compen­sation for so painful and permanent injuries.</p>
+                <p pgmap="626" id="b626-5">Complaint is made about the evidence in relation to expense for necessary medical attendance. Dr. Bob­ertson testified that his services to plaintiff were worth $200, but there is lacking any evidence that plaintiff either paid this or obligated himself to do so. This is not the legal test. In Chicago &amp; Erie R. R. Co. v. Cleminger, 178 Ill. 536, it was held that the true test was whether a liability had been incurred to pay for the medical services. From the undisputed evidence of Dr. Bobertson it is very plain that plaintiff incurred a liability to pay Dr. Bobertson the amount the service rendered him was worth.</p>
+                <p pgmap="626(26) 627(56)" id="b626-6">We have examined the evidence and rulings of the trial court thereon, about which defendant complains, and do not discover any reversible error in either the admission or rejection of such evidence. The question asked Miss Tully concerning the speed of the car and her answer that “there was no change in speed”, is of no importance as affecting the merits or the ulti­mate result, even conceding, as claimed by counsel, that the question asked was suggestive of the answer given.</p>
+                <p pgmap="627" id="b627-4">Dr. Robertson was the attending physician, and it was permissible for him to testify concerning his knowledge, acquired as such attending physician, of plaintiff’s suffering pain from the injury to his ear. These are said to be self-serving statements and as such inadmissible, and Chicago City Ry. Co. v. Mauger, 128 Ill. App. 512, and other cases to a like import are cited as authorities sustaining such contention. What was said in the cases cited had reference to physicians testifying as experts from examinations made of the injured party with the express purpose in view of qualifying to give testimony upon the trial. Were Dr. Robertson an expert witness and not the attending physician, the point would be well taken. But a dif­ferent rule obtains in the ease of an attending physi­cian. This was stated in W. C. St. Ry. Co. v. Carr, 170 Ill. 478, in these words. “We think, however, the correct rule to be deduced from that laid down by Greenleaf and most conducive to justice, is that such declarations, being in favor of the party making them, are only competent when made as part of the res gestae, or to a physician during treatment. * * * This view is in harmony with what we said in the Illi­nois Central Railway Company v. Sutton, 42 Ill. 438”.</p>
+                <p pgmap="627(84) 628(8)" id="b627-5">The watch-ticking test made by Dr. Robertson in an endeavor to test the hearing of plaintiff did not trans­gress the rules of evidence, nor did the testimony of Dr. Robertson describing the method pursued infringe any like rule. His statement was in effect as to what distance plaintiff indicated he could hear the watch tick, and in no sense an opinion of the witness as to whether he could hear the ticking of the watch at any particular distance. The attending-physician rule is likewise invokable in support of this latter evidence.</p>
+                <p pgmap="628" id="b628-5">It follows from what has heretofore been said con­cerning the proofs that instruction 4, given at the re­quest of plaintiff, states a correct legal principle ap­plicable to this case. The burden of proof did shift to defendant, after plaintiff had made out his prima facie case, to repel by facts and circumstances the liability imputable to it under the case made by the plaintiff’s evidence in chief. It would be otherwise ímder a dec­laration charging specific acts of negligence, for in such case the burden of proving the specific negligence charged by a preponderance of the evidence is the burden of the plaintiff throughout the trial.</p>
+                <p pgmap="628" id="b628-6">Instruction 7 is also without error, for as we have already indicated, plaintiff was entitled to recover as a part of his damages any reasonable sum he was liable to pay for medical attendance. The complaint concerning the refusal to give instruction 28 is obvi­ously imprudently made, for what appears in No. 28 was embodied in instruction No. 2, given at the in­stance of plaintiff. The latter instruction included the wilful exaggeration as well as wilfully swearing-falsely theory.</p>
+                <p pgmap="628" id="b628-7">The whole record considered, justice seems to have prevailed, and the judgment of the Superior Court is affirmed.</p>
+                <p pgmap="628" id="b628-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="620" ORDERLABEL="604" TYPE="page">
+        <fptr FILEID="tiff_00310_1"/>
+        <fptr FILEID="jp2_00310_1"/>
+        <fptr FILEID="alto_00310_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.2" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.3" BETYPE="IDREF" FILEID="alto_00310_1"/>
+              <area BEGIN="BL_620.4" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="621" ORDERLABEL="605" TYPE="page">
+        <fptr FILEID="tiff_00311_0"/>
+        <fptr FILEID="jp2_00311_0"/>
+        <fptr FILEID="alto_00311_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.1" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.2" BETYPE="IDREF" FILEID="alto_00311_0"/>
+              <area BEGIN="BL_621.3" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="622" ORDERLABEL="606" TYPE="page">
+        <fptr FILEID="tiff_00311_1"/>
+        <fptr FILEID="jp2_00311_1"/>
+        <fptr FILEID="alto_00311_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.2" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.3" BETYPE="IDREF" FILEID="alto_00311_1"/>
+              <area BEGIN="BL_622.4" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="623" ORDERLABEL="607" TYPE="page">
+        <fptr FILEID="tiff_00312_0"/>
+        <fptr FILEID="jp2_00312_0"/>
+        <fptr FILEID="alto_00312_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.2" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.3" BETYPE="IDREF" FILEID="alto_00312_0"/>
+              <area BEGIN="BL_623.4" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="624" ORDERLABEL="608" TYPE="page">
+        <fptr FILEID="tiff_00312_1"/>
+        <fptr FILEID="jp2_00312_1"/>
+        <fptr FILEID="alto_00312_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.2" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.3" BETYPE="IDREF" FILEID="alto_00312_1"/>
+              <area BEGIN="BL_624.4" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="625" ORDERLABEL="609" TYPE="page">
+        <fptr FILEID="tiff_00313_0"/>
+        <fptr FILEID="jp2_00313_0"/>
+        <fptr FILEID="alto_00313_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.2" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.3" BETYPE="IDREF" FILEID="alto_00313_0"/>
+              <area BEGIN="BL_625.4" BETYPE="IDREF" FILEID="alto_00313_0"/>
+              <area BEGIN="BL_625.6" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="626" ORDERLABEL="610" TYPE="page">
+        <fptr FILEID="tiff_00313_1"/>
+        <fptr FILEID="jp2_00313_1"/>
+        <fptr FILEID="alto_00313_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.2" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.3" BETYPE="IDREF" FILEID="alto_00313_1"/>
+              <area BEGIN="BL_626.4" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="627" ORDERLABEL="611" TYPE="page">
+        <fptr FILEID="tiff_00314_0"/>
+        <fptr FILEID="jp2_00314_0"/>
+        <fptr FILEID="alto_00314_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.2" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.3" BETYPE="IDREF" FILEID="alto_00314_0"/>
+              <area BEGIN="BL_627.4" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="628" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00314_1"/>
+        <fptr FILEID="jp2_00314_1"/>
+        <fptr FILEID="alto_00314_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.2" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.3" BETYPE="IDREF" FILEID="alto_00314_1"/>
+              <area BEGIN="BL_628.4" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.6" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_627.1" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.17" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-11" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.18" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_622.1" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.5" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            <area BEGIN="BL_625.1" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.5" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            <area BEGIN="BL_626.1" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALd" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.13" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.5" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-24" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.9" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-26" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.10" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-27" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.11" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHP" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.11" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_621.12" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.5" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.12" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            <area BEGIN="BL_624.1" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFv" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.9" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            <area BEGIN="BL_623.10" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.5" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_623.1" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-3" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.4" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4T" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.14" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_621.15" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.6" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.7" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.8" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.9" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_621.10" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.16" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.5" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.6" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.5" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.6" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            <area BEGIN="BL_628.1" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.7" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.11" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.8" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.5" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.7" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.6" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.8" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0068" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="White v. Illinois Collieries Co.">Harry W. White, Appellee, v. Illinois Collieries Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 417</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="5fd38f1686305acb8622ddd8d63232c8" CHECKSUMTYPE="MD5" SIZE="44498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_0.tif"/>
+      </file>
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="dda7e2291c4b888353bad07c5ff33322" CHECKSUMTYPE="MD5" SIZE="47632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_1.tif"/>
+      </file>
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="afa2b92b30684e1abfcf75edecee4f9b" CHECKSUMTYPE="MD5" SIZE="39938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00218_0" MIMETYPE="image/jp2" CHECKSUM="ed93bc2b6880926f13cae3be2e59a642" CHECKSUMTYPE="MD5" SIZE="2385111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_0.jp2"/>
+      </file>
+      <file ID="jp2_00218_1" MIMETYPE="image/jp2" CHECKSUM="7e02b58108535f084ceb4c4f707eec1e" CHECKSUMTYPE="MD5" SIZE="2385498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00218_1.jp2"/>
+      </file>
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="6b05a3a83d446c030b71112d4053a68b" CHECKSUMTYPE="MD5" SIZE="2392566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00219_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00218_0" MIMETYPE="text/xml" CHECKSUM="1fae135870d199f18a0a1c9bf7908a0f" CHECKSUMTYPE="MD5" SIZE="73767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00218_0.xml"/>
+      </file>
+      <file ID="alto_00218_1" MIMETYPE="text/xml" CHECKSUM="6db85ea3b84500d7a9b25ffd7ad8bfd5" CHECKSUMTYPE="MD5" SIZE="83148">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00218_1.xml"/>
+      </file>
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="9fc645cee311b0c51d3c66f4760eea14" CHECKSUMTYPE="MD5" SIZE="68647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00219_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0068" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="419" firstpage="417">
+              <parties id="b435-8" pgmap="435">Harry W. White, Appellee, v. Illinois Collieries Co., Appellant.</parties>
+              <decisiondate id="A6k" pgmap="436">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b436-5" pgmap="436">Jett &amp; Kinder, for appellant.</attorneys>
+              <attorneys id="b436-6" pgmap="436">L. V. Hill and Harry C. Stuttle, for appellee.</attorneys>
+              <summary id="b435-11" pgmap="435(10) 436(20)">Action in case for personal injuries. Appeal from the Circuit Court of Montgomery county; the Hon. Truman E. Ames, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AqL" pgmap="436">Reversed and remanded.</disposition>
+              <headnotes id="b435-10" pgmap="435">Instbuctioks—erroneous to exclude issue of negligence. The rule res ipsa loquitur not being invoked, it is error to authorize a jury in an action for personal injuries to render a verdict for the plaintiff without proof of negligence.</headnotes>
+              <opinion type="majority">
+                <author id="b436-7" pgmap="436">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AeH" pgmap="436">delivered the opinion of the court.</p>
+                <p id="b436-8" pgmap="436(274) 437(17)">Appellee, a minor, by his next friend, brought suit to recover damages for personal injuries received by him through the alleged negligence of appellant com­pany while he was in its employ as a mule driver in its mines. Upon a trial by jury he recovered judg­ment for $1,000, to reverse which this appeal is prose­cuted. The declaration' charges that plaintiff was a coal miner and was requested by defendant to act as a driver on the day he was injured; that he informed defendant he was not an experienced driver and had no knowledge whatever of driving; that defendant ad­vised him it would furnish a gentle mule and that it was necessary for him to drive that day; that it was the duty of defendant to provide a reasonably safe, gentle and well-trained mule, and to inform plaintiff of any peculiar habits possessed by the mule he was provided with; that defendant negligently ordered and commanded plaintiff to use an unsafe mule, in that he' was possessed of a peculiar habit of stopping at a certain low place in a certain entry, where the roof bulged downward and diminished the distance between the bottom and top; that plaintiff did not know of such habit of the mule and that defendant had known the same for a year; that while plaintiff was driving the mule, in the exercise of ordinary care, through said entry, and while he was riding on a car pulled by said mule, the animal came to said low place and suddenly stopped and refused to go further, whereby the car ran against the mule and plaintiff was thrown from the car and was caught between the car and the rib of coal, and injured.</p>
+                <p id="b437-5" pgmap="437">As the judgment must be reversed for the reason hereinafter stated we shall not discuss the evidence at length or in detail. The third instruction given at the request of the plaintiff told the jury that if the plaint­iff received the injuries charged in the declaration while in the exercise of ordinary care, and that the mule suddenly stopped when he came to the low place in the roof of the entry" and that such sudden stop­ping was the cause of the plaintiff being injured, the verdict should be for the plaintiff. Such instruction which directs a verdict for the plaintiff without re­quiring any negligence on the part of the defendant to be shown, made the defendant an absolute insurer of the safety of the plaintiff, and is so obviously er­roneous and prejudicial as to necessitate a reversal of the judgment. The cause will therefore he remanded for another trial.</p>
+                <p id="b437-6" pgmap="437">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="435" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jp2_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.3" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.2" BETYPE="IDREF" FILEID="alto_00218_0"/>
+              <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+              <area BEGIN="BL_435.11" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="436" ORDERLABEL="418" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jp2_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.3" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.4" BETYPE="IDREF" FILEID="alto_00218_1"/>
+              <area BEGIN="BL_436.5" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="437" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.2" BETYPE="IDREF" FILEID="alto_00219_0"/>
+              <area BEGIN="BL_437.4" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-8" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.8" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6k" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.8" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeH" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.12" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.13" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-5" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.5" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqL" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.6" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.7" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-6" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.6" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-10" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.9" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-11" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.10" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            <area BEGIN="BL_436.1" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.2" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-7" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.11" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-6" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.10" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-5" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.9" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-8" BETYPE="IDREF" FILEID="casebody_0068"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.14" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.15" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.16" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_436.17" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_437.1" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

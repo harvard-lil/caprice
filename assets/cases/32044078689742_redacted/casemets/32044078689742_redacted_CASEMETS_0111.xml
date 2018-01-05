@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0111" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Newcomb v. County of Champaign">W. K. Newcomb, Appellee, v. County of Champaign, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 561</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00290_0" MIMETYPE="image/tiff" CHECKSUM="3b6217cf5fcc90036744745185c35b8a" CHECKSUMTYPE="MD5" SIZE="39726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00290_0.tif"/>
+      </file>
+      <file ID="tiff_00290_1" MIMETYPE="image/tiff" CHECKSUM="b061f5ae3cc9251934ecdb09205933c4" CHECKSUMTYPE="MD5" SIZE="51948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00290_1.tif"/>
+      </file>
+      <file ID="tiff_00291_0" MIMETYPE="image/tiff" CHECKSUM="f90f64ea2a20a0a34f169b06169ff376" CHECKSUMTYPE="MD5" SIZE="51928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_0.tif"/>
+      </file>
+      <file ID="tiff_00291_1" MIMETYPE="image/tiff" CHECKSUM="d2f88c424e2378b8a66ba0cbd9213fcf" CHECKSUMTYPE="MD5" SIZE="47172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00290_0" MIMETYPE="image/jp2" CHECKSUM="1d7225dbb1b6232e596a90f94424f0c8" CHECKSUMTYPE="MD5" SIZE="2346442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00290_0.jp2"/>
+      </file>
+      <file ID="jp2_00290_1" MIMETYPE="image/jp2" CHECKSUM="65c144f1f97530a0c32d348e049464b4" CHECKSUMTYPE="MD5" SIZE="2422935">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00290_1.jp2"/>
+      </file>
+      <file ID="jp2_00291_0" MIMETYPE="image/jp2" CHECKSUM="b6cf14fd082b21efd063d50e7f212cbd" CHECKSUMTYPE="MD5" SIZE="2459183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_0.jp2"/>
+      </file>
+      <file ID="jp2_00291_1" MIMETYPE="image/jp2" CHECKSUM="8448b1557d87abb3699296d2bc8c20b5" CHECKSUMTYPE="MD5" SIZE="2364634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00291_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00290_0" MIMETYPE="text/xml" CHECKSUM="91248e4e781bddca42653768cb79b2bc" CHECKSUMTYPE="MD5" SIZE="67750">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00290_0.xml"/>
+      </file>
+      <file ID="alto_00290_1" MIMETYPE="text/xml" CHECKSUM="252326220f5acd3b359fafac3046d308" CHECKSUMTYPE="MD5" SIZE="88143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00290_1.xml"/>
+      </file>
+      <file ID="alto_00291_0" MIMETYPE="text/xml" CHECKSUM="049a0c9e45cdc2f1e7e4d564cca46fd9" CHECKSUMTYPE="MD5" SIZE="86394">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00291_0.xml"/>
+      </file>
+      <file ID="alto_00291_1" MIMETYPE="text/xml" CHECKSUM="44b6cebfcc37f1a486085db353103aa9" CHECKSUMTYPE="MD5" SIZE="78849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00291_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0111" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="564" firstpage="561">
+              <parties id="b579-4" pgmap="579">W. K. Newcomb, Appellee, v. County of Champaign, Appellant.</parties>
+              <decisiondate id="AW-" pgmap="579">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b579-9" pgmap="579">F. A. Coggeshall, for appellant; F. M. &amp; H. I. Green, of counsel.</attorneys>
+              <attorneys id="b579-10" pgmap="579">Bat &amp; Dobbins, for appellee.</attorneys>
+              <summary id="b579-8" pgmap="579">Assumpsit. Appeal from the County Court of Champaign county; the Hon. Thomas J. Roth, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AUBZ" pgmap="579">Reversed and remanded.</disposition>
+              <headnotes id="b579-6" pgmap="579">1. County courts—character of jurisdiction of. County courts are not courts of general jurisdiction within the meaning of section 31 of the Counties Act.</headnotes>
+              <headnotes id="b579-7" pgmap="579">2. County courts—when without jurisdiction. County courts have no jurisdiction with respect to counties sued in actions of as­sumpsit.</headnotes>
+              <opinion type="majority">
+                <author id="b579-11" pgmap="579">Mr. Justice Baume</author>
+                <p id="AW_" pgmap="579">delivered the opinion of the court.</p>
+                <p id="b579-12" pgmap="579">This is a suit by W. K. Newcomb, appellee, against the county of Champaign, appellant, instituted in the County Court of Champaign county to recover for professional services in performing certain surgical operations upon Martha Smith and Henry Knell, poor persons, residents of said county. A trial by jury resulted in a verdict and judgment against appellant for $75.</p>
+                <p id="b579-13" pgmap="579(81) 580(37)">Appellant has filed its motion to reverse the judg­ment and to remand the cause with directions to the County Court to dismiss the suit, upon the ground that the County Court had no jurisdiction of the cause of action. Section 31 of Chapter 34 entitled “Coun­ties,” provides as follows: “All actions, local or transitory, against any county, may be commenced and prosecuted to final judgment in the Circuit Court, or any court of general jurisdiction, in the county against which the action is brought. Any action, local or tran­sitory, in which any county shall be plaintiff, may be commenced and prosecuted to final judgment in the county in which the defendant in such action resides.”</p>
+                <p id="b580-5" pgmap="580">In the County of Schuyler v. The County of Mercer, 4 Gilm. 20, the word “may” as used in this section of the statute was held to mean “must,” or “shall,” in conformity with the rule there announced that, in cases where the public interests and rights are con­cerned, and when the public or third persons have a claim de jure that the power should be exercised, the word may means must or shall. Brokaw v. Com’r. of Highways, 130 Ill. 482.</p>
+                <p id="b580-6" pgmap="580">It is insisted by appellant in support of its motion that the County Court is not a court of general juris­diction, within the meaning of the section of the stat­ute in question. Prior to its amendment, that section of the statute provided that “All actions, local or transitory, against any county may be commenced and prosecuted to final judgment in the Circuit Court of the county against which the action is brought.” By the amendment, the words “Or any court of general jurisdiction,” were added after the words “Circuit Court.” Section 7 of the Act relating to County Courts, provides that such courts “shall have con­current jurisdiction with the Circuit Courts in all that class of cases wherein justices of the peace now have or may hereafter have jurisdiction, where the amount claimed or the value of the property in controversy shall not exceed $1,000, and concurrent jurisdiction in all cases of appeals from justices of the peace and police magistrates.” Hurd’s Stat. 1905, 618.</p>
+                <p id="b580-7" pgmap="580(71) 581(193)">While it has been repeatedly held that the County Court is a court of limited jurisdiction, it has also been repeatedly held that it is not a court of inferior juris­diction. Propst v. Meadows, 13 Ill. 157; Von Kettler v. Johnson, 57 Ill. 109; Barnett v. Wolf, 70 Ill. 76; Cassell v. Joseph, 184 Ill. 378. It has also been held that every presumption will be indulged in favor of the regularity of the proceedings and in favor of the jurisdiction of county courts, and that county courts in this state are courts of general jurisdiction with respect to all matters coming within the scope of their jurisdiction as given by law. Field v. Peeples, 180 Ill. 376; Bradley v. Drone, 187 Ill. 175; Commissioners of Highways v. Drainage District, 207 Ill. 17. Whether the jurisdiction exercised by a County Court is to be designated or termed general is under the authorities cited, dependent wholly upon whether or not the juris­diction so exercised is conferred upon that court by the legislature. It is to be observed that In every instance in which the County Court has been char­acterized a court of general jurisdiction, such char­acterization has been expressly limited to those cases in which it exercised jurisdiction under and by virtue of legislative authority. If no jurisdiction to act in a particular case is conferred upon the County Court by the legislature, the exercise of jurisdiction by such court in such case is unwarranted, and when so acting such court is not, in any sense, a court of general jurisdiction.</p>
+                <p id="b581-5" pgmap="581">The case at bar is an action at law in assumpsit. Section 7 of the act relating to County Courts does not confer jurisdiction upon County Courts in all actions at law where the amount claimed or the value of the property in controversy does not exceed $1,000, but its jurisdiction in that respect is limited to “that class of cases wherein justices of the peace now have or may hereafter have jurisdiction.”</p>
+                <p id="b581-6" pgmap="581(85) 582(195)">It is not pretended nor can it be successfully urged that a justice of the peace ever had or now has juris­diction in any action local or transitory against a county. Justices of the peace having no such juris­diction and the jurisdiction conferred by the statute upon county courts being limited to that class of cases wherein justices of the peace have jurisdiction, except as to the amount or the value of the property in­volved, it necessarily follows that no jurisdiction is conferred by the statute upon county courts in actions against counties, and with respect to its exercise of jurisdiction in such actions, the County Court cannot be said to be a court of general jurisdiction. In Dan­durand v. County of Kankakee, 196 Ill. 537, where a suit was brought by the county of Kankakee, against one Dandurand, for board, lodging, etc., and the de­fendant filed a plea to the jurisdiction of the court, averring that the County Court did not have juris­diction of a suit brought by the county, it was held that, while section 31 of the chapter entitled “Coun­ties,” restricts the courts in which suit against a county may be brought, said section contains no such restriction in cases of suits brought by a county, and that the county in bringing a suit may resort to any court having jurisdiction of the subject-matter in the county where the defendant resides. It is clearly in­ferable from the holding of the court in that case that if the suit had been against the county it would have been held that the County Court was without juris­diction in the case.</p>
+                <p id="b582-5" pgmap="582">The motion filed by appellant will be allowed, and the judgment of the County Court will be reversed and the cause remanded with directions to dismiss the suit for want of jurisdiction.</p>
+                <p id="b582-6" pgmap="582">Reversed and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="579" ORDERLABEL="561" TYPE="page">
+        <fptr FILEID="tiff_00290_0"/>
+        <fptr FILEID="jp2_00290_0"/>
+        <fptr FILEID="alto_00290_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_579.2" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_579.1" BETYPE="IDREF" FILEID="alto_00290_0"/>
+              <area BEGIN="BL_579.3" BETYPE="IDREF" FILEID="alto_00290_0"/>
+              <area BEGIN="BL_579.19" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="580" ORDERLABEL="562" TYPE="page">
+        <fptr FILEID="tiff_00290_1"/>
+        <fptr FILEID="jp2_00290_1"/>
+        <fptr FILEID="alto_00290_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_580.2" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_580.3" BETYPE="IDREF" FILEID="alto_00290_1"/>
+              <area BEGIN="BL_580.4" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="581" ORDERLABEL="563" TYPE="page">
+        <fptr FILEID="tiff_00291_0"/>
+        <fptr FILEID="jp2_00291_0"/>
+        <fptr FILEID="alto_00291_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.3" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.2" BETYPE="IDREF" FILEID="alto_00291_0"/>
+              <area BEGIN="BL_581.4" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="582" ORDERLABEL="564" TYPE="page">
+        <fptr FILEID="tiff_00291_1"/>
+        <fptr FILEID="jp2_00291_1"/>
+        <fptr FILEID="alto_00291_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.2" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.3" BETYPE="IDREF" FILEID="alto_00291_1"/>
+              <area BEGIN="BL_582.4" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.5" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-9" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.12" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-8" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.7" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            <area BEGIN="BL_579.8" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW-" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.10" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            <area BEGIN="BL_579.11" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-11" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.14" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-4" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.4" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-7" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.6" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-12" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.17" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-5" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.5" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-7" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.7" BETYPE="IDREF" FILEID="alto_00290_1"/>
+            <area BEGIN="BL_581.1" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b580-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_580.6" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.6" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b582-5" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_582.5" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW_" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.15" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            <area BEGIN="BL_579.16" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-10" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.13" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-5" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.5" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-6" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.6" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            <area BEGIN="BL_582.1" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b579-13" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.18" BETYPE="IDREF" FILEID="alto_00290_0"/>
+            <area BEGIN="BL_580.1" BETYPE="IDREF" FILEID="alto_00290_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUBZ" BETYPE="IDREF" FILEID="casebody_0111"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_579.9" BETYPE="IDREF" FILEID="alto_00290_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

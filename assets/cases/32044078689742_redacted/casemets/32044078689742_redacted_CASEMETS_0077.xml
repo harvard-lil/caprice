@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0077" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="McDonald v. B. &amp; O. S. W. R. R.">Henry McDonald, Admr., Appellee, v. B. &amp; O. S. W. R. R. Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 439</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="5e5b66e62e62f3693a19601db96347c7" CHECKSUMTYPE="MD5" SIZE="43500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_0.tif"/>
+      </file>
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="29a02914cc2abafe242bdef51e7f21f4" CHECKSUMTYPE="MD5" SIZE="48866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_1.tif"/>
+      </file>
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="4d49fc4198847d0dbe3f40a7c5b5c14b" CHECKSUMTYPE="MD5" SIZE="45568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00230_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="fa5979845f9081f6180a11a0e2566f7b" CHECKSUMTYPE="MD5" SIZE="2405967">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_0.jp2"/>
+      </file>
+      <file ID="jp2_00229_1" MIMETYPE="image/jp2" CHECKSUM="5b2a916b7a78ad8d24da1611c875873e" CHECKSUMTYPE="MD5" SIZE="2369477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00229_1.jp2"/>
+      </file>
+      <file ID="jp2_00230_0" MIMETYPE="image/jp2" CHECKSUM="204fe32682eceaed7e411d1a2f8ecf26" CHECKSUMTYPE="MD5" SIZE="2380869">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00230_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="d00b61a4160c402e719dd57f49a52cda" CHECKSUMTYPE="MD5" SIZE="76132">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00229_0.xml"/>
+      </file>
+      <file ID="alto_00229_1" MIMETYPE="text/xml" CHECKSUM="d60785b4dc67a8a2ca9eba387eada051" CHECKSUMTYPE="MD5" SIZE="83088">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00229_1.xml"/>
+      </file>
+      <file ID="alto_00230_0" MIMETYPE="text/xml" CHECKSUM="ee6d4b45f718b08651bfbdf16b13039c" CHECKSUMTYPE="MD5" SIZE="76588">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00230_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0077" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="441" firstpage="439">
+              <parties id="b457-7" pgmap="457">Henry McDonald, Admr., Appellee, v. B. &amp; O. S. W. R. R. Co., Appellant.</parties>
+              <decisiondate id="AUP" pgmap="458">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b458-4" pgmap="458">Graham &amp; Graham for appellant; Edward Barton, of counsel.</attorneys>
+              <attorneys id="b458-5" pgmap="458">A. A. Leeper, for appellee.</attorneys>
+              <summary id="b458-3" pgmap="458">Action in case. Appeal from the Circuit Court of Cass county; the Hon. Harry Higbee, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Ad4" pgmap="458">Affirmed.</disposition>
+              <headnotes id="b457-8" pgmap="457">Negligence—duty of railroad company to warn pedestrians of intended movement of cars. If a railroad company leaves a string of cars standing within a few feet of a public thoroughfare over which pedestrians might reasonably be expected to pass at any time, it is the duty of such company’s servants, in the exercise of ordinary care, in some manner to give timely warning to passers­by of the impending movement of such cars.</headnotes>
+              <opinion type="majority">
+                <author id="b458-6" pgmap="458">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A-X" pgmap="458">delivered the opinion of the court.</p>
+                <p id="b458-7" pgmap="458">This is an action in case by appellee against appel­lant, to recover damages for causing the death of ap­pellee’s intestate, which it is charged was the result of the negligence of appellant. A trial by jury re­sulted in a verdict and judgment in favor of the plaint­iff for $750. The deceased was struck and killed by a car upon appellant’s track at a point where the same crossed the public sidewalk upon which he was walking, such car having been set in motion by the impact of a locomotive and string of cars which were being backed over the track which led over the sidewalk. The negli­gence charged in the declaration is that the car which struck the deceased was within six feet of the sidewalk, with the brake thereon unset, and that appellant negli­gently ran its locomotive and string of cars against said car, forcing the same against the deceased, thereby causing his death; and further that no servant of appel­lant was stationed at the crossing to warn persons who might be passing over the same.</p>
+                <p id="b458-8" pgmap="458(80) 459(81)">The evidence discloses that the. appellant’s tracks and its yards at Beardstown, near the passenger depot, run in a general north and south direction; that all of such tracks terminate on the south side of Fourth street near the passenger depot, except the “city” track, which runs across Fourth street, at right angles, to some local industries. Immediately prior to the accident, a string consisting of six freight cars, was standing on the “city” track in front of the station and but a few feet from the south line of Fourth street. The deceased had walked north along the sta­tion platform until he reached the sidewalk on the south side of Fourth street, when he started west across the “city” track, and was run over by the string of cars in question, which had been set in motion by the impact of three other cars which were being pushed by a switch engine over the “city” track from the south.</p>
+                <p id="b459-5" pgmap="459">The evidence tends to show that the brakes upon the latter cars were at the time unset; and further, that a brakeman who was stationed on the north side of Fourth street, endeavored by shouting to the deceased to warn him of his danger prior to stepping upon the track. We are of opinion that in view of the fact that the string of cars were left standing within a few feet of the public thoroughfare over which pedestrians might reasonably be expected to pass at any time, it was the duty of appellant’s servants, in the exercise of ordinary care, in some manner to give timely warning to passersby of the impending movement of such cars. Whether the presence of a brakeman on the opposite side of the street was a suficient compliance with such duty was a question for the jury, as were the further issues as to whether the negligence shown was the prox­imate cause of the death of plaintiff’s intestate, and whether he was, immediately prior to and at the time he was killed, in the exercise of ordinary care for his own safety. Inasmuch as the conclusion of the jury thereupon was not clearly contrary °to the evidence, we are not at liberty to disturb the same.</p>
+                <p id="b459-6" pgmap="459">The judgment of the Circuit Court is accordingly aErmed.</p>
+                <p id="b459-7" pgmap="459">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="457" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.3" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.2" BETYPE="IDREF" FILEID="alto_00229_0"/>
+              <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="458" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jp2_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.1" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.2" BETYPE="IDREF" FILEID="alto_00229_1"/>
+              <area BEGIN="BL_458.3" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="459" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jp2_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.3" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.2" BETYPE="IDREF" FILEID="alto_00230_0"/>
+              <area BEGIN="BL_459.4" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUP" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.7" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.8" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.9" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-8" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.14" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_459.1" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.6" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.7" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.5" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-X" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.11" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_458.12" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad4" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.6" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-7" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.13" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-6" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.10" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-5" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.9" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-4" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.8" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-3" BETYPE="IDREF" FILEID="casebody_0077"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.4" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_458.5" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

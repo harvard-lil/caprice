@@ -1,0 +1,883 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0044" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Craney v. Schloeman">Louis Craney, Appellee, v. Ernest Schloeman et al., Appellants</name>
+          <docketnumber>Gen. No. 14,093</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 313</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00166_0" MIMETYPE="image/tiff" CHECKSUM="6988a32e2887c978be50e3d863a26c63" CHECKSUMTYPE="MD5" SIZE="44602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_0.tif"/>
+      </file>
+      <file ID="tiff_00166_1" MIMETYPE="image/tiff" CHECKSUM="b35a878dac4a90807e07a10b23879796" CHECKSUMTYPE="MD5" SIZE="47984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_1.tif"/>
+      </file>
+      <file ID="tiff_00167_0" MIMETYPE="image/tiff" CHECKSUM="5b8451804def2721736925e180764f1d" CHECKSUMTYPE="MD5" SIZE="52208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00167_0.tif"/>
+      </file>
+      <file ID="tiff_00167_1" MIMETYPE="image/tiff" CHECKSUM="654a855d477591f83fb003a69201bd87" CHECKSUMTYPE="MD5" SIZE="52730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00167_1.tif"/>
+      </file>
+      <file ID="tiff_00168_0" MIMETYPE="image/tiff" CHECKSUM="6caf0458cdd9c21c3884c64be84083ff" CHECKSUMTYPE="MD5" SIZE="51616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00168_0.tif"/>
+      </file>
+      <file ID="tiff_00168_1" MIMETYPE="image/tiff" CHECKSUM="22dcc75d8ce3058353a622eabcbe180e" CHECKSUMTYPE="MD5" SIZE="50030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00168_1.tif"/>
+      </file>
+      <file ID="tiff_00169_0" MIMETYPE="image/tiff" CHECKSUM="0b3050860fb08f3c8ee8fd6e0a09cb17" CHECKSUMTYPE="MD5" SIZE="50376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00169_0.tif"/>
+      </file>
+      <file ID="tiff_00169_1" MIMETYPE="image/tiff" CHECKSUM="e5ea21848efc0a81828e16fa7efd2b9c" CHECKSUMTYPE="MD5" SIZE="49310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00169_1.tif"/>
+      </file>
+      <file ID="tiff_00170_0" MIMETYPE="image/tiff" CHECKSUM="935c82e6e6b07b2aaa9e42e25d75ddd4" CHECKSUMTYPE="MD5" SIZE="54296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00170_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00166_0" MIMETYPE="image/jp2" CHECKSUM="b4ba09df2ca72a649eb8adf94428712c" CHECKSUMTYPE="MD5" SIZE="2394294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_0.jp2"/>
+      </file>
+      <file ID="jp2_00166_1" MIMETYPE="image/jp2" CHECKSUM="25392514d5c58ccdebaf4467ad84d688" CHECKSUMTYPE="MD5" SIZE="2386706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_1.jp2"/>
+      </file>
+      <file ID="jp2_00167_0" MIMETYPE="image/jp2" CHECKSUM="98d20d63fa887c80cffc67856b73b915" CHECKSUMTYPE="MD5" SIZE="2447299">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00167_0.jp2"/>
+      </file>
+      <file ID="jp2_00167_1" MIMETYPE="image/jp2" CHECKSUM="60e74b28205f5b1140d8cdce62a018d4" CHECKSUMTYPE="MD5" SIZE="2419848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00167_1.jp2"/>
+      </file>
+      <file ID="jp2_00168_0" MIMETYPE="image/jp2" CHECKSUM="0b4ce05e1350c06ca9afcab571db2117" CHECKSUMTYPE="MD5" SIZE="2447323">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00168_0.jp2"/>
+      </file>
+      <file ID="jp2_00168_1" MIMETYPE="image/jp2" CHECKSUM="974c9cefda8617de843ee7fa34e02bc1" CHECKSUMTYPE="MD5" SIZE="2410777">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00168_1.jp2"/>
+      </file>
+      <file ID="jp2_00169_0" MIMETYPE="image/jp2" CHECKSUM="2c992ed6d869cc84c2d6be96d75fb5c9" CHECKSUMTYPE="MD5" SIZE="2431155">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00169_0.jp2"/>
+      </file>
+      <file ID="jp2_00169_1" MIMETYPE="image/jp2" CHECKSUM="74f54be89766461dc02816b3765a0cb6" CHECKSUMTYPE="MD5" SIZE="2375004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00169_1.jp2"/>
+      </file>
+      <file ID="jp2_00170_0" MIMETYPE="image/jp2" CHECKSUM="dd8a1b8ef4f8d34701a8a4e175931379" CHECKSUMTYPE="MD5" SIZE="2447194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00170_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00166_0" MIMETYPE="text/xml" CHECKSUM="49a4f1791294f4fe5a3482fc5052261d" CHECKSUMTYPE="MD5" SIZE="77372">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00166_0.xml"/>
+      </file>
+      <file ID="alto_00166_1" MIMETYPE="text/xml" CHECKSUM="62d2423cf8f5397bf25397682d3cbd1e" CHECKSUMTYPE="MD5" SIZE="91869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00166_1.xml"/>
+      </file>
+      <file ID="alto_00167_0" MIMETYPE="text/xml" CHECKSUM="73926a992a2db60874a761f26f5decbd" CHECKSUMTYPE="MD5" SIZE="83856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00167_0.xml"/>
+      </file>
+      <file ID="alto_00167_1" MIMETYPE="text/xml" CHECKSUM="d51ca96f0554f0a0012cb945b7502f3d" CHECKSUMTYPE="MD5" SIZE="89054">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00167_1.xml"/>
+      </file>
+      <file ID="alto_00168_0" MIMETYPE="text/xml" CHECKSUM="8d814338fed4e9c86d94ac09b08f111b" CHECKSUMTYPE="MD5" SIZE="87479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00168_0.xml"/>
+      </file>
+      <file ID="alto_00168_1" MIMETYPE="text/xml" CHECKSUM="c77d7c0b698e84e12be7eee55454a36b" CHECKSUMTYPE="MD5" SIZE="98914">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00168_1.xml"/>
+      </file>
+      <file ID="alto_00169_0" MIMETYPE="text/xml" CHECKSUM="e68a2e7daa9859dec3b02a3489349e20" CHECKSUMTYPE="MD5" SIZE="88476">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00169_0.xml"/>
+      </file>
+      <file ID="alto_00169_1" MIMETYPE="text/xml" CHECKSUM="33816a488e6023cac367f28dde2e6e3b" CHECKSUMTYPE="MD5" SIZE="81855">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00169_1.xml"/>
+      </file>
+      <file ID="alto_00170_0" MIMETYPE="text/xml" CHECKSUM="047bb9426eeb6191752d6f214db839b4" CHECKSUMTYPE="MD5" SIZE="85814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00170_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0044" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="321" firstpage="313">
+              <docketnumber id="b331-10" pgmap="331">Gen. No. 14,093.</docketnumber>
+              <parties id="b331-8" pgmap="331">Louis Craney, Appellee, v. Ernest Schloeman et al., Appellants.</parties>
+              <decisiondate id="AoA" pgmap="332">Opinion filed December 21, 1908.</decisiondate>
+              <otherdate id="Aqf" pgmap="332">Rehearing denied January 7, 1909.</otherdate>
+              <attorneys id="b332-8" pgmap="332">Winston, Payne, Stbawn &amp; Shaw, for appellants; John D. Black, of counsel.</attorneys>
+              <attorneys id="b332-9" pgmap="332">Miles J. Devine, for appellee; John T. Mttebay, of counsel.</attorneys>
+              <summary id="b332-7" pgmap="332">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Richard W. Clifford, Judge, pre­siding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AA-" pgmap="332">Affirmed.</disposition>
+              <headnotes id="b331-11" pgmap="331">1. Licensees—who not mere. A person who enters upon prem­ises upon which an auction is to be conducted, for the purpose of purchasing at such auction, is not a mere licensee but is upon such premises by implied invitation.</headnotes>
+              <headnotes id="b331-12" pgmap="331">2. Contributory negligence—when person standing in horse auction ring not guilty of, as a matter of law. Held, under the evidence in this case, that it was for the jury to determine whether a person injured while standing in an auction ring where horses were being exhibited prior to sale, was in the exercise of ordinary care.</headnotes>
+              <headnotes id="b331-13" pgmap="331">3. Practice—when general objection will not avail. A general objection will not reach the irresponsiveness of an answer.</headnotes>
+              <headnotes id="b331-14" pgmap="331">4. Instructions—when modification requiring knowledge in plaintiff of loaning sign, proper. Held, that the modification of the following instruction by the insertion of the italicized words, was proper:</headnotes>
+              <headnotes id="b332-4" pgmap="332">“You are instructed that if you believe from the evidence that at the time of the injury to the plaintiff there was displayed con­spicuously in the ring in question a sign reading as follows: ‘Do not stand in the ring. Persons standing in this ring do so at their own risk’; and that the plaintiff knew of said sign, and that the plaintiff received his injuries while standing in the ring in ques­tion, then you are instructed that the plaintiff cannot recover and your verdict must be for the defendants.”</headnotes>
+              <headnotes id="b332-6" pgmap="332">5. Verdict—when not excessive. A verdict for $3,500 rendered in an action for personal injuries is not excessive where it ap­pears that plaintiff suffered as a result of the accident three fractured ribs, contusions to the back, stomach trouble, pleurisy, pain, etc.</headnotes>
+              <opinion type="majority">
+                <author id="b332-10" pgmap="332">Mr. Presiding Justice Adams</author>
+                <p id="A6t" pgmap="332">delivered the opinion of the court.</p>
+                <p id="b332-11" pgmap="332(158) 333(136)">This is an appeal from a judgment for $3,500, re­covered in an action on the case by appellee against appellants. The Union Stock Yards and Transit Com­pany of the city of Chicago owns a building in said city, in which is a large arena surrounded by station­ary seats, used for conducting auction sales of horses, which that company permits persons to hold. The size of the arena is variously estimated by the wit­nesses at sixty to eighty feet from south to north and from twenty-five to thirty feet from east to west. There are tiers of seats around the ring in which the horses are exhibited; these tiers rise gradually from the front backwards and are easy of access from the floor of the ring. On each side of the ring where the horses are exhibited, and near the centre of the ring, are two posts extending from the floor to the roof, and the auctioneer’s box is between the two posts on the east side of the ring. The defendant, Ernest H. Schloe­man, was in the horse commission business and, on Tuesday, August 5, 1902, he had the use of the prem­ises mentioned, for the purpose of selling horses at auction, and his sale commenced about 11:30 o’clock in the forenoon of that day. The plaintiff, Louis Craney, was engaged in the teaming business and went to the auction sale that day for the purpose of buying a horse. He was standing at one of the posts on the east side of the ring, near the auctioneer’s box, when a blind horse, which was being led in the ring, broke away from its leader and ran against plaintiff, crushing him against the post and seriously injuring him.</p>
+                <p id="b333-4" pgmap="333">The propositions argued by appellants’ counsel are, that plaintiff, in attending the sale, was a mere li­censee, and took his license subject to the manner in which the business was conducted; that plaintiff was guilty of contributory negligence; and that the trial court erred in its rulings on evidence and instruc­tions. The plaintiff was not, in going into the auction room, a mere licensee. There was an implied invi­tation by the defendant Schloeman, to all persons desiring to purchase horses to attend the auction. Schloeman was engaged in selling horses at auction, and the plaintiff attended the sale for the purpose of purchasing a horse. The business, therefore, which was being carried on, was one in which the plaintiff and Schloeman were mutually interested. In Pauck­ner v. Wakem, 231 Ill. 276, the court distinguishes between a mere licensee and “one who comes on the premises of another by invitation express or implied”, and says, “An implied invitation means more than a mere license—means that the visitor was there for a purpose connected with the business in which the occupant is engaged, or which he permits to he car­ried on”. Ib. 281.</p>
+                <p id="b333-5" pgmap="333(10) 334(366)">In Hart v. Washington Park Club, 157 Ill. 9, the plaintiff attended a public exhibition of horse-racing given by the club, and was injured by a runaway horse attached to a vehicle. Held, that the plaintiff was entitled to recover, the court saying, among other things: “If an owner or occupier of land, either directly or by implication, induces persons to come upon his premises, he thereby assumes an obligation that such premises are in a reasonably safe condition, so that the persons there by his invitation shall not be injured by them, or in their use for the purpose for which the invitation was extended”. Citing cases. See, also, Calvert v. Springfield Light Co., 231 Ill. 290, and 1 Thompson on Law of Neg., sec. 968. The only case cited by appellants’ counsel in support of their contention is Bentley v. Loverock, 102 Ill. App. 166. The case is not, in the least, in point. The plaintiff in that case was the representative of an in­surance company, and went into a place on the de­fendant’s premises without invitation, express or im­plied, of his own volition, and solely in the interest of the insurance company. The basis of the contention that the plaintiff was guilty of contributory negligence is the claim that there was $a sign in front of the auctioneer’s box, reading, “Do not stand in ring; per­sons standing in this ring do so at their own risk”, and that, notwithstanding this sign, the plaintiff stood in the ring, next a post, as hereinbefore men­tioned. The evidence is conflicting as to whether there was such a sign at the time of the accident. The plaintiff testified that there was not, and there is no evidence that, if there was such sign, he' knew of it; also that if there was such sign, it was customarily and persistently disregarded, with the permission of the defendants. Mr. Schloeman, defendant, testified: “It was customary for the men who wanted to buy horses to be in the ring, the object being to get close to a horse, to see what kind of a horse he is, to see whatever defects may be on him, and they cannot do that very well from a seat”.</p>
+                <p id="b335-3" pgmap="335">There is no conflict in the evidence that, at the time of the accident, there were a number of men standing-­in the ring while the horses were being exhibited. Higgins, witness for plaintiff, and in Schloeman’s em­ploy at the time in question, testified that there were from 100 to 150 men standing in the ring when the accident happened.</p>
+                <p id="b335-4" pgmap="335">"Arthur O’Neil, clerk at the auction, called as a wit­ness by defendants, testified that the “ring was crowded with people that day of the sale”. There is other evidence to the same effect. It was a question for the jury, whether, in view of this evidence, plaint­iff did not exercise ordinary care. The horse which injured the plaintiff was blind. He was led by a halter into the ring by one Anderson, who was in Schloeman’s employ, and was turned over by Ander­son to Michael G-. Higgins, also in Schloeman’s em­ploy, whose duty it was to lead the horses round the ring.</p>
+                <p id="b335-5" pgmap="335(193) 336(364)">Anderson testified that he told Higgins, when he delivered the horse to him, to be careful with him, that, “he was off in the eyes”. That this informa­tion and caution were proper is shown by Mr. Schloe­man’s evidence. He testified: “A blind horse is liable to run into anybody, or into the auctioneer’s stand; that is the reason I give them precaution to be careful—the men that handled the horses down in the ring, Mr. Ramp and Mr. Higgins, the man that led the horse; I told them to be careful, out of the auction box. I told Mr. Ramp to be careful”. Ramp was Mr. Schloeman’s ringman, and it appears from the evidence chat it was his duty to drive the horses, while they were being led, round the ring. Higgins, after testifying that Anderson told him that the horse was blind and cautioning him to be careful, testified as follows: “I examined the horse and I noticed that the horse was totally blind. I led the horse to the centre of the ring and Mr. Schloeman, the auctioneer, was in the auction box, and Mr. Ramp said that the horse is sound and right except a little off in the wind, and I says to Mr. Ramp; ‘The horse is blind’, and Mr. Ramp says to me: ‘Keep your mouth shut; take a short hold of him and don’t mind’. So I went and winded the horse to the best of my ability. He said he was sound and right except a little off in the wind. I got a short hold of the horse’s head and led him to the centre of the auction ring. I led the horse north for to wind him. I turned him once and went south three sucessive times. Mr. Ramp was whip­ping the horse. I had the check on him and I had the rope attached to that. The halter check would be two and one-half feet and the rope would be three feet. I told Mr. Ramp, says I, ‘Ease up on the horse’. Mr. Ramp as a rule don’t pay much attention to me. * * * I was just losing control of the horse when I told him to keep the whip off the horse. He kept whipping the horse. I was coming on up and I lost control of the horse down the centre of the ring. The horse got away from me and he was going right straight south. I had him by the head and I lost control of him and I ran into the end of the room, and while I hung onto the horse, the horse got off at an angle and ran right into this man Craney and doubled him up against a post and he kind of moaned round and swooped right down and fell onto the plat­form right in line with the auction box. As the horse fell backwards I lost control of the horse. I couldn’t hold him”. This witness also testified, “I spoke to Mr. Ramp four or five times. I told him the horse was blind. I told him not to light on the horse—whip him up, I was losing control of the horse, and he says, ‘Never mind, take a short hold of him, go ahead and wind him’.”</p>
+                <p id="b336-5" pgmap="336(48) 337(29)">O’Brien, witness for plaintiff, testified that the horse was being whipped, and Mr. Craney, the plaint­iff, testified: “Mr. Ramp was whipping him all the time, he was whipping him most of the time; * * * I saw him hit the horse, and saw the horse break loose from the other man. * * * I have seen them whip all kinds of horses; but I have not seen them whip as bad as this one”.</p>
+                <p id="b337-4" pgmap="337">Ramp denied whipping the horse. Piso, for de­fendant, testified: “Nobody in the ring hit him with a whip. We never hit a blind horse. Mr. Ramp did not hit him that I know of”. Hayden, called by de­fendant, testified: “I saw Mr. Ramp in the ring this day in question. He was ring-master. He was whip­ping the horses. I did not see him whip this gray horse. I did not see him whip the blind horse”.</p>
+                <p id="b337-5" pgmap="337">Our conclusion from the evidence is, that it was a question for the jury to decide, from all the evidence, whether the horse was whipped by Ramp, the servant of the defendant, Schloeman, and whether the whip­ping was negligence and the proximate cause of the injury to the plaintiff. This, certainly, is not a ques­tion of law on the evidence, nor can we say that the verdict is contrary to the evidence. Anderson was questioned and answered as follows:</p>
+                <p id="b337-6" pgmap="337">“Q. Did you hear any one, that day, when this horse was brought out, say that this horse was blind?</p>
+                <p id="b337-7" pgmap="337">A. I was the one that told Mr. Higgins to be care­ful of him, that he was off in the eyes.”</p>
+                <p id="b337-8" pgmap="337">The answer is not strictly responsive; but counsel objected merely generally, specifying no ground of objection. We do not think the court erred in over­ruling the objection.</p>
+                <p id="b337-9" pgmap="337">The Court: “Did any one beside you say any­thing about that horse, and, if so, who was it?</p>
+                <p id="b337-11" pgmap="337">A. There was nothing mentioned about the horse being blind to me. I told Mike Higgins to be careful, that he was off in the eyes, and I took the horse Mike Higgins had and gave him this one”.</p>
+                <p id="b337-12" pgmap="337(44) 338(22)">Counsel moved to strike out the answer, stating no reason for the motion, and the court overruled the motion. We perceive no reversible error in the ruling. The foregoing answers could not have prejudiced de­fendants. It is not controverted that the horse was blind, and the defendant, Schloeman, himself, testified that he had cautioned Ramp and Higgins to be careful, as the horse was blind.</p>
+                <p id="b338-5" pgmap="338">The following question was asked Higgins and an­swer made:</p>
+                <p id="b338-6" pgmap="338">“Q. What, if anything, did you'say to him, An­derson, after he got the horse?</p>
+                <p id="b338-7" pgmap="338">A. Anderson told me the horse was totally blind, and to look out for him, that he would step on. me”.</p>
+                <p id="b338-8" pgmap="338">Counsel objected generally to the question and the objection was overruled. The ruling is not reversible error.</p>
+                <p id="b338-9" pgmap="338">The plaintiff asked the following instruction, except the words italicized, which the court modified by in­serting the italicized words, and gave it as modified:</p>
+                <p id="b338-10" pgmap="338">“You are instructed that if you believe from the evidence that at the time of the injury to the plaintiff there was displayed conspicuously in the ring in ques­tion a sign reading as follows: ‘Do not stand in the ring. Persons standing in this ring do so as at their own risk’; and that the plaintiff knew of said sign, and that the plaintiff received his injuries while stand­ing in the ring in question, then you are instructed that the plaintiff cannot recover and your verdict must be for the defendants”.</p>
+                <p id="b338-11" pgmap="338">The instruction as asked was bad, and the modi­fication was proper.</p>
+                <p id="b338-12" pgmap="338">Objection is made to two instructions in respect to the care which the plaintiff should have exercised, and in respect to whether he failed to exercise rea­sonable care. These instructions are substantially included in five instructions given at the request of the defendants, to which we cannot refer by numbers, as the instructions are not numbered, as they should be.</p>
+                <p id="b338-13" pgmap="338">Lastly, it is urged that the damages are excessive.</p>
+                <p id="b338-14" pgmap="338(40) 339(189)">The post against which the plaintiff was crowded by the horse was a rough timber post eight by eight or ten by ten inches in lateral dimensions, supporting the roof of the structure, and the weight of the horse, as testified by one witness, was 1,300 pounds and by another 1,400 pounds. Dr. Flanagan testified that he was called to the Stock Yards to attend plaintiff, at the time of the accident, and, on the examination, found that he had three fractured ribs on the left side and contusions on his back, and was suffering great pain; that the fractures were alongside the sternum, and that he, witness, at that time gave him a little stimulant and immobilized his side as well as he could with bandages and adhesive plaster; and that he saw him again about two weeks after the accident, and had seen him since the accident, in all about twenty times, and examined him about four days before giv­ing his testimony, and found that his third and fourth ribs were not united as well as they should be, and that, in his opinion, they would never be any better. He further testified that, two weeks after the accident, he treated plaintiff for cough and stomach trouble, and examined his chest and diagnosed his complaint as pleurisy, and that the pleurisy resulted from the ac­cident.</p>
+                <p id="b339-4" pgmap="339">Doctor McGregor testified that he examined plaint­iff in the latter part of July, or in August, 1903, and also the day before he testified, and found that there had been a separation of the sternal ends of the ribs, and that the indication was that the ligaments which hold the ribs to the sternum had been torn and had not united, and that, in his opinion, the condition would be permanent, and would affect plaintiff in the movement of his chest and arms, and would limit his ability to work, and would cause pain if he worked.</p>
+                <p id="b339-5" pgmap="339">The evidence shows that before the accident plaint­iff was a very strong man, could lift heavy weights and was healthy, and that, since the accident, he has been weak and cannot work or lift as formerly. We do not feel warranted in disturbing the jury’s assess­ment of damages.</p>
+                <p id="b339-6" pgmap="339">The judgment will be affirmed.</p>
+                <p id="b339-8" pgmap="339">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="331" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00166_0"/>
+        <fptr FILEID="jp2_00166_0"/>
+        <fptr FILEID="alto_00166_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.3" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.2" BETYPE="IDREF" FILEID="alto_00166_0"/>
+              <area BEGIN="BL_331.4" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="332" ORDERLABEL="314" TYPE="page">
+        <fptr FILEID="tiff_00166_1"/>
+        <fptr FILEID="jp2_00166_1"/>
+        <fptr FILEID="alto_00166_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_332.1" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_332.2" BETYPE="IDREF" FILEID="alto_00166_1"/>
+              <area BEGIN="BL_332.3" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="333" ORDERLABEL="315" TYPE="page">
+        <fptr FILEID="tiff_00167_0"/>
+        <fptr FILEID="jp2_00167_0"/>
+        <fptr FILEID="alto_00167_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_333.3" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_333.2" BETYPE="IDREF" FILEID="alto_00167_0"/>
+              <area BEGIN="BL_333.4" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="334" ORDERLABEL="316" TYPE="page">
+        <fptr FILEID="tiff_00167_1"/>
+        <fptr FILEID="jp2_00167_1"/>
+        <fptr FILEID="alto_00167_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_334.2" BETYPE="IDREF" FILEID="alto_00167_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_334.3" BETYPE="IDREF" FILEID="alto_00167_1"/>
+              <area BEGIN="BL_334.4" BETYPE="IDREF" FILEID="alto_00167_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="335" ORDERLABEL="317" TYPE="page">
+        <fptr FILEID="tiff_00168_0"/>
+        <fptr FILEID="jp2_00168_0"/>
+        <fptr FILEID="alto_00168_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_335.2" BETYPE="IDREF" FILEID="alto_00168_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_335.1" BETYPE="IDREF" FILEID="alto_00168_0"/>
+              <area BEGIN="BL_335.3" BETYPE="IDREF" FILEID="alto_00168_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="336" ORDERLABEL="318" TYPE="page">
+        <fptr FILEID="tiff_00168_1"/>
+        <fptr FILEID="jp2_00168_1"/>
+        <fptr FILEID="alto_00168_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.2" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.3" BETYPE="IDREF" FILEID="alto_00168_1"/>
+              <area BEGIN="BL_336.4" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="337" ORDERLABEL="319" TYPE="page">
+        <fptr FILEID="tiff_00169_0"/>
+        <fptr FILEID="jp2_00169_0"/>
+        <fptr FILEID="alto_00169_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.3" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.2" BETYPE="IDREF" FILEID="alto_00169_0"/>
+              <area BEGIN="BL_337.4" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="338" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00169_1"/>
+        <fptr FILEID="jp2_00169_1"/>
+        <fptr FILEID="alto_00169_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.2" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.3" BETYPE="IDREF" FILEID="alto_00169_1"/>
+              <area BEGIN="BL_338.4" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="339" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00170_0"/>
+        <fptr FILEID="jp2_00170_0"/>
+        <fptr FILEID="alto_00170_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.3" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.2" BETYPE="IDREF" FILEID="alto_00170_0"/>
+              <area BEGIN="BL_339.4" BETYPE="IDREF" FILEID="alto_00170_0"/>
+              <area BEGIN="BL_339.9" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.12" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.13" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.4" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6t" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.15" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_332.16" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.5" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.6" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_332.7" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.6" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            <area BEGIN="BL_334.1" BETYPE="IDREF" FILEID="alto_00167_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.5" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-12" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.12" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_338.1" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.8" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.7" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.6" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.5" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.8" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.9" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.10" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.5" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            <area BEGIN="BL_337.1" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.6" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.5" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.8" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.7" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.6" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.7" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b335-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_335.6" BETYPE="IDREF" FILEID="alto_00168_0"/>
+            <area BEGIN="BL_336.1" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.5" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoA" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.9" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.7" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.9" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.11" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-14" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.12" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-13" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.11" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-12" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.10" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.9" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.8" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA-" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.8" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.10" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.11" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-12" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.12" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-13" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.13" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-14" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.14" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            <area BEGIN="BL_339.1" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b335-3" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_335.4" BETYPE="IDREF" FILEID="alto_00168_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqf" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.10" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_332.11" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b335-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_335.5" BETYPE="IDREF" FILEID="alto_00168_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.14" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.17" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_333.1" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

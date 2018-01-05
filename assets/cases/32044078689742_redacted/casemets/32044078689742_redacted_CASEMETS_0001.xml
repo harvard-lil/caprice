@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0001" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kircher v. M. Keating &amp; Sons Co.">John G. Kircher, Plaintiff in Error, v. M. Keating &amp; Sons Company et al., Defendants in Error</name>
+          <docketnumber>Gen. No. 12,908</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 1</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00010_0" MIMETYPE="image/tiff" CHECKSUM="f27f1f17b58db1a1c9f2f09203e7300a" CHECKSUMTYPE="MD5" SIZE="34204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00010_0.tif"/>
+      </file>
+      <file ID="tiff_00010_1" MIMETYPE="image/tiff" CHECKSUM="76fb29f34c9e93e8a1de3fed1a3728bd" CHECKSUMTYPE="MD5" SIZE="46390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00010_1.tif"/>
+      </file>
+      <file ID="tiff_00011_0" MIMETYPE="image/tiff" CHECKSUM="237030efd56387199edc809d466695f7" CHECKSUMTYPE="MD5" SIZE="52160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00011_0.tif"/>
+      </file>
+      <file ID="tiff_00011_1" MIMETYPE="image/tiff" CHECKSUM="85f55710fd85dd4765bce51fea9919d3" CHECKSUMTYPE="MD5" SIZE="52740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00011_1.tif"/>
+      </file>
+      <file ID="tiff_00012_0" MIMETYPE="image/tiff" CHECKSUM="6f0fdd488939f4b6abe647d082548296" CHECKSUMTYPE="MD5" SIZE="50446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00012_0.tif"/>
+      </file>
+      <file ID="tiff_00012_1" MIMETYPE="image/tiff" CHECKSUM="627ca7ea90950400db222c069b3ef589" CHECKSUMTYPE="MD5" SIZE="52634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00012_1.tif"/>
+      </file>
+      <file ID="tiff_00013_0" MIMETYPE="image/tiff" CHECKSUM="f545de3f8db8207c7499ac10cd10933a" CHECKSUMTYPE="MD5" SIZE="39184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00013_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00010_0" MIMETYPE="image/jp2" CHECKSUM="65b57e48e5bf3975a78f8615f8f769a8" CHECKSUMTYPE="MD5" SIZE="2331927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00010_0.jp2"/>
+      </file>
+      <file ID="jp2_00010_1" MIMETYPE="image/jp2" CHECKSUM="317ad95202c86aff1b955ba024dca4d6" CHECKSUMTYPE="MD5" SIZE="2391666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00010_1.jp2"/>
+      </file>
+      <file ID="jp2_00011_0" MIMETYPE="image/jp2" CHECKSUM="8b3edea8a430212f636a2dedb2c0a1d2" CHECKSUMTYPE="MD5" SIZE="2485351">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00011_0.jp2"/>
+      </file>
+      <file ID="jp2_00011_1" MIMETYPE="image/jp2" CHECKSUM="3f78360bf12fb51a26c7a76748a61f3a" CHECKSUMTYPE="MD5" SIZE="2429265">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00011_1.jp2"/>
+      </file>
+      <file ID="jp2_00012_0" MIMETYPE="image/jp2" CHECKSUM="d84c3fe3f496c602965e51605bd74a4f" CHECKSUMTYPE="MD5" SIZE="2476695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00012_0.jp2"/>
+      </file>
+      <file ID="jp2_00012_1" MIMETYPE="image/jp2" CHECKSUM="16360ad4de1dfa063725630935b0b9e9" CHECKSUMTYPE="MD5" SIZE="2437130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00012_1.jp2"/>
+      </file>
+      <file ID="jp2_00013_0" MIMETYPE="image/jp2" CHECKSUM="6853a5a6b10b7b87b16382665bdef377" CHECKSUMTYPE="MD5" SIZE="2369721">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00013_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00010_0" MIMETYPE="text/xml" CHECKSUM="fdcd4b1d971734ce4351d0135fbb4f68" CHECKSUMTYPE="MD5" SIZE="65285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00010_0.xml"/>
+      </file>
+      <file ID="alto_00010_1" MIMETYPE="text/xml" CHECKSUM="f1c0de9047d75aaa593123c385d2f7a1" CHECKSUMTYPE="MD5" SIZE="78548">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00010_1.xml"/>
+      </file>
+      <file ID="alto_00011_0" MIMETYPE="text/xml" CHECKSUM="9c920c6c817a455e2c48767745093d43" CHECKSUMTYPE="MD5" SIZE="85499">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00011_0.xml"/>
+      </file>
+      <file ID="alto_00011_1" MIMETYPE="text/xml" CHECKSUM="4a553e2eec40b5bdd8687911c27f5989" CHECKSUMTYPE="MD5" SIZE="89718">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00011_1.xml"/>
+      </file>
+      <file ID="alto_00012_0" MIMETYPE="text/xml" CHECKSUM="9b81f2e141e6876bc870f5cf8a38f098" CHECKSUMTYPE="MD5" SIZE="85998">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00012_0.xml"/>
+      </file>
+      <file ID="alto_00012_1" MIMETYPE="text/xml" CHECKSUM="f816ba4837710a57e479b5c680e09bba" CHECKSUMTYPE="MD5" SIZE="88098">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00012_1.xml"/>
+      </file>
+      <file ID="alto_00013_0" MIMETYPE="text/xml" CHECKSUM="92811bd436cd96555c2dbd86c24e5a3c" CHECKSUMTYPE="MD5" SIZE="62537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00013_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="7" firstpage="1">
+              <docketnumber id="b19-8" pgmap="19">Gen. No. 12,908.</docketnumber>
+              <parties id="b19-7" pgmap="19">John G. Kircher, Plaintiff in Error, v. M. Keating &amp; Sons Company et al., Defendants in Error.</parties>
+              <decisiondate id="Aa" pgmap="20">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b20-5" pgmap="20">Carl R. Chindblom, for plaintiff in error.</attorneys>
+              <attorneys id="b20-6" pgmap="20">Dunn &amp; Hayes and Charles H. Pease, for defend­ants in error.</attorneys>
+              <summary id="b19-14" pgmap="19(10) 20(17)">Mechanic’s lien. Error to the Superior Court of Cook county; the Hon. Jesse Holdom, Judge presiding; Heard in the Branch Appellate Court at the March term, 1908.</summary>
+              <summary id="AN" pgmap="20">Petition for rehearing dismissed for want of notice.</summary>
+              <disposition id="AQ" pgmap="20">Reversed and remanded.</disposition>
+              <headnotes id="b19-9" pgmap="19">1. Appeals and errors—effect of joinder in error. Joining in error waives irregularities in suing out a writ of error.</headnotes>
+              <headnotes id="b19-10" pgmap="19">2. Appeals and errors—status of “unknown owner.” A party joined in an action not by name but as an “unknown owner” may prosecute a writ of error in Ms own name.</headnotes>
+              <headnotes id="b19-11" pgmap="19">3. Service by publication—when affidavit as to “unknown owners” insufficient. An affidavit as to “unknown owners” is in­sufficient which, first, instead of saying that the defendants cannot be found, states that the name or names of said persons cannot be found, and second, instead of saying that the place of residence of the defendants is not known and that upon “diligent inquiry”, as required by statute, “their places of residence cannot be ascer­tained”, states that on “due inquiry” the place or places of residence cannot be ascertained.</headnotes>
+              <headnotes id="b19-12" pgmap="19">4. Service by publication—how statutory procedure must be followed. In order to confer jurisdiction upon “unknown owners” by publication the statutory procedure must be observed and followed exactly.</headnotes>
+              <headnotes id="b19-13" pgmap="19">5. Mechanic’s hens—when do not affect encumbrances. Trust deeds securing loans made and recorded prior to the making of contracts by the owner for the improvement of the property covered by such trust deeds, are not affected or disturbed by the subsequent improvements or betterments made pursuant to such contracts.</headnotes>
+              <opinion type="majority">
+                <author id="b20-7" pgmap="20">Mr. Presiding Justice Smith</author>
+                <p id="AT" pgmap="20">delivered the opinion of the court.</p>
+                <p id="b20-8" pgmap="20">This proceeding brings before us the record and de­cree in the foreclosure of two mechanics’ liens in the Superior Court of Cook county, aggregating $1,330.47 with interest, costs and attorneys’ fees.</p>
+                <p id="b20-9" pgmap="20">It appears from the record that George R. Gott owned the four pieces of property involved on October 15 and 25,1901, when the contracts were made with the Central Lumber Company and M. Keating &amp; Sons Company, defendants in error, to furnish the lumber and mill-work necessary to complete the buildings, and to furnish eight consoles for the same. The lumber and mill-work furnished. amounted to $1,259.28. On this amount $228.81 was paid, leaving a balance due on this claim of $1,030.47 for which a lien is claimed. The contract price with,, M. Keating &amp; Sons Company for the consoles put in was $300, for which a lien is also claimed.</p>
+                <p id="b20-10" pgmap="20(101) 21(42)">When these contracts were made by the owner with the lienors, the four properties in question were sub­ject to twelve trust deeds or mortgages, three on each lot and building thereon, given to secure a part of the purchase money of the land, and money borrowed by the owner as a building loan to construct the buildings. Eight of these trust deeds, two upon each property, conveyed respectively the properties to defendant in error, Edward G. Pauling, as trustee, to secure the payment of the building loan, and four of the twelve trust deeds, one upon each property, conveyed respect­ively the properties to defendant in error, Axel Chy­traus, as trustee, to secure part of the purchase money of the land. Plaintiff: in error owns a note of $3,500 secured by one of the trust deeds to Edward G. Paul­ing.</p>
+                <p id="b21-4" pgmap="21">The proceedings were commenced by the filing of a petition by M. Keating &amp; Sons Company, a corpora­tion, on February 6, 1902, to establish and foreclose a mechanic’s lien upon these four adjacent properties for $300, or $75 on each of the premises, and George E. Gott and Ada B. Gott, his wife, Edward G. Paul­ing, trustee, Axel Chytraus, trustee, and the “unknown owners” of the notes secured by the several trust deeds were made parties defendant. Gott and his wife and Pauling and Chytraus were personally served and an­swered. Substituted or constructive service only, based on an affidavit, was made on the “unknown owners”, none of whom appeared. The Central Lum­ber Company was not then a party defendant. It was given leave later, on April 15, 1902, to file its answer instcmter, and it filed an answer setting up its claim for a mechanic’s lien for the amount above mentioned with interest, and praying that its lien be established. The “unknown owners” were all defaulted on May 9, 1902, on publication made from February 11,1902, to March 4, 1902.</p>
+                <p id="b21-5" pgmap="21">Upon a reference the master in chancery reported the testimony taken before him and the exhibits, and his findings; and on February 18,1903, the court entered a decree finding that on and prior to October 25, 1901, George E. Gott was the owner of the premises, and that on that date he made a contract with the petitioner, M. Keating &amp; Sons Company, to furnish and set in place eight consoles, two in each building, and that this work was completed on November 25, 1901, and peti­tioner was entitled to a lien for a total of $300 with interest thereon from December 21, 1901, and for ten per cent, on that amount for solicitors’ fees for the enforcement of said lien.</p>
+                <p id="b22-4" pgmap="22">The decree also finds that on or about October 15, 1901, the Central Lumber Company contracted with Gott to furnish lumber and mill-work necessary to com­plete the buildings,' and that the Lumber Company completed its contract on November 20, 1901, and that on February 20, 1902, there was due it a balance of $1,030.47 for which, with interest and like solicitors’ fees, it was entitled to a lien.</p>
+                <p id="b22-5" pgmap="22">The decree also finds that the trust deeds to Paul­ing as trustee, were executed and delivered on May 14, 1901, each securing the payment of a note for $3,500 bearing interest at six per cent.; and also, that on the same date four other trust deeds to Pauling were exe­cuted and delivered, each securing a note of $250 with interest at the same rate; that all these trust deeds were duly filed for record respectively on June 14 and June 17, 1901; that the four trust deeds to Chytraus were executed and delivered on April 17, 1901, one on each of said properties, and each securing the payment of one note of said Gott for $500 with like interest; that the court is unable to determine, because there is no competent evidence, whether said papers represent any present indebtedness or not, but the decree finds that the liens of the trust deeds, if they are liens, are prior and superior to the said mechanics’ liens to the extent of the value of the land at the time of the mak­ing of the respective contracts of said lienors; and that the liens of said lienors are prior and superior to the liens of the trust deeds upon the buildings erected upon the land.</p>
+                <p id="b22-6" pgmap="22(85) 23(16)">These proceedings in error are irregular and with­out precedent. The plaintiff in error sued out this writ of error, in his own name alone, against his co-­defendants below, and the original petitioner. No ob­jection, however, is made to the prosecution of the writ on the ground of such irregularity, and all defend­ants in error have waived the irregularity by joining-­in error. The motion of defendant in error M. Keat­ing &amp; Sons Company to dismiss the writ of error, and reserved to the hearing, is based on other and wholly insufficient grounds, and must be denied.</p>
+                <p id="b23-4" pgmap="23">Plaintiff in error was made a party to the cause, not by name, but as an unknown owner. He may pros­ecute this writ of error in his own name. Unknown Heirs, etc., v. Rouse, 3 Gilm. 408. He questions by his assignment of errors the jurisdiction of the Su­perior Court to hear and determine the cause on the ground that the affidavit filed as the foundation of the notice given to “unknown owners” was insufficient. Cross errors are also assigned raising the same ques­tion.</p>
+                <p id="b23-5" pgmap="23">Section 12 of chapter 22 of the Revised Statutes provides that upon the filing of an affidavit by any com­plainant or his attorney, showing that any defendant, * * * “on due inquiry cannot be found”, * * * “and stating the place of residence of such defend­ant if known, or that upon diligent inquiry his place of residence cannot be ascertained”. Section 7 of the same chapter provides for making unknown owners, who are interested in the lands title to which is sought to be obtained in suits in chancery, parties to said suits or proceedings by the name and description of un­known owners, etc., and for notice by publication as re­quired in the Act.</p>
+                <p id="b23-7" pgmap="23">The affidavit filed in this cause in the attempt to comply with the provisions of the above sections of the statute, after other statements not material in this connection, says: “Affiant further says that on due in­quiry the name or names of said persons cannot be found and on due inquiry the place or places of resi­dence of said persons cannot be ascertained.”</p>
+                <p id="b23-8" pgmap="23(64) 24(127)">This affidavit, in our opinion, does not comply with the provisions of the statute. Instead of saying that the defendants cannot be found, the affidavit states that the name or names of said persons cannot be found. Instead of saying that the place of residence of the defendants is not known, and that upon “dili­gent inquiry” as required by the statute, “their places of residence cannot be ascertained ’ the affidavit states that on “due inquiry” the place or places of residence of said persons cannot be ascertained. "Where a court is exercising an extraordinary power under a special statute prescribing its course of proceeding, that course must be observed and followed exactly, in order to show that its proceedings are coram judice. Hay­wood v. Collins, 60 Ill. 328; Galpin v. Page, 18 Wall. 350. The facts which give jurisdiction over the per­son of the defendant ought to appear of record, and if they do not appear the decree may be questioned in both direct and collateral proceedings. Clark v. Thompson, 47 Ill. 26; Schnell v. City of Chicago, 38 id. 383; Morris v. Hogle, 37 id. 150.</p>
+                <p id="b24-5" pgmap="24">It appears from the record that the four trust deeds executed to Axel Chytraus, trustee, each secured two notes for $500 each, making $1,000. There is no con­troversy or dispute as to this fact in the record. The decree finds that each of said trust deeds was given to secure one note for the sum of $500. This is a sub­stantive and material error.</p>
+                <p id="b24-6" pgmap="24">At the time the contracts of October 15 and 25, 1901, were made with the lienors, respectively, the several buildings upon which the decree establishes a lien had been nearly completed. The liens of the lienors under the provisions of Section 1 of the Act to revise the law in relation to mechanics’ liens approved June 26, 1895, which governs this proceeding, attached as of the date of the contracts respectively; and the lien ex­tends only to the estate or interest the owner may have in the lot or land at the time of making the con­tract, or may acquire subsequently. By Section 16 of that Act, it is provided: “Where, after a trust deed or mortgage has been recorded, contracts shall be made for the improvement of the property, and the owner shall pay for labor or material in such improvement, the enhanced value thereby given shall be treated as a fund in which the mortgage and lien-holder shall par­ticipate pro rata.”</p>
+                <p id="b25-3" pgmap="25">The trust deeds to Pauling and Chytraus, trustees, were executed and recorded in April, May and June, 1901, long before the lien claimants made their con­tracts in October, 1901. The status of the property, therefore, with respect to the encumbrances existing on the days when the lien claimants made their con­tracts is not to be affected or disturbed, under the provisions of the statute, by the subsequent improve­ments or betterments. This accords also with the principles of equity, for, the lien should not be given such a retroactive effect or force that it would dimin­ish the security of the mortgagees as it existed at the date of the contract. The mortgagees having put their money into the buildings, whereby the buildings had been brought to the point of completion where they were at the dates of the lien claimants’ contracts, are not, by the statute, and should not in equity be dis­turbed or affected as to their security by the making of new contracts for additional work or materials.</p>
+                <p id="b25-4" pgmap="25">This order of priority, as decreed, is obviously, we think, contrary to the provisions of the mechanics’ lien law and is inequitable.</p>
+                <p id="b25-5" pgmap="25">For the errors indicated the decree is reversed and the cause is remanded for further proceedings in ac­cordance with the views here expressed, the costs of this court to be taxed against the lienors.</p>
+                <p id="b25-6" pgmap="25">Reversed and remanded.</p>
+                <p id="b25-7" pgmap="25">Mr. Justice Chytraus took no part in the consider­ation of this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="19" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00010_0"/>
+        <fptr FILEID="jp2_00010_0"/>
+        <fptr FILEID="alto_00010_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_19.10" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="20" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00010_1"/>
+        <fptr FILEID="jp2_00010_1"/>
+        <fptr FILEID="alto_00010_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_20.7" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_20.8" BETYPE="IDREF" FILEID="alto_00010_1"/>
+              <area BEGIN="BL_20.9" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="21" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00011_0"/>
+        <fptr FILEID="jp2_00011_0"/>
+        <fptr FILEID="alto_00011_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.4" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.3" BETYPE="IDREF" FILEID="alto_00011_0"/>
+              <area BEGIN="BL_21.5" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="22" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00011_1"/>
+        <fptr FILEID="jp2_00011_1"/>
+        <fptr FILEID="alto_00011_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.1" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.2" BETYPE="IDREF" FILEID="alto_00011_1"/>
+              <area BEGIN="BL_22.3" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="23" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00012_0"/>
+        <fptr FILEID="jp2_00012_0"/>
+        <fptr FILEID="alto_00012_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.3" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.2" BETYPE="IDREF" FILEID="alto_00012_0"/>
+              <area BEGIN="BL_23.4" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="24" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00012_1"/>
+        <fptr FILEID="jp2_00012_1"/>
+        <fptr FILEID="alto_00012_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.2" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.3" BETYPE="IDREF" FILEID="alto_00012_1"/>
+              <area BEGIN="BL_24.4" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="25" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00013_0"/>
+        <fptr FILEID="jp2_00013_0"/>
+        <fptr FILEID="alto_00013_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_25.2" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_25.1" BETYPE="IDREF" FILEID="alto_00013_0"/>
+              <area BEGIN="BL_25.3" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.5" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            <area BEGIN="BL_20.6" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.2" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.5" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.4" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.3" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.7" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.8" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            <area BEGIN="BL_24.1" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.12" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.11" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.10" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.4" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.8" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.7" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.16" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.15" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.5" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.6" BETYPE="IDREF" FILEID="alto_00010_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b19-14" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_19.9" BETYPE="IDREF" FILEID="alto_00010_0"/>
+            <area BEGIN="BL_20.1" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            <area BEGIN="BL_20.2" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.6" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.7" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.7" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b20-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.17" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            <area BEGIN="BL_21.1" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            <area BEGIN="BL_21.2" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.4" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.5" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.4" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.6" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_23.1" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.6" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.9" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.5" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            <area BEGIN="BL_24.6" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            <area BEGIN="BL_24.7" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            <area BEGIN="BL_24.8" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.3" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_20.13" BETYPE="IDREF" FILEID="alto_00010_1"/>
+            <area BEGIN="BL_20.14" BETYPE="IDREF" FILEID="alto_00010_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.8" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.5" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.6" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

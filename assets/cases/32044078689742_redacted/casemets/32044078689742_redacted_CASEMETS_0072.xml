@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0072" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Reed v. Ziemans">George W. Reed et al., Appellants, v. John Ziemans, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 425</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="1d2bc5cdaab99e1ffee8d30d01064639" CHECKSUMTYPE="MD5" SIZE="38534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="a88dbc726ace82e3fc819ee7f0e5f1a3" CHECKSUMTYPE="MD5" SIZE="53580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="e7158354f5e3421a1b01cef8cae32fb4" CHECKSUMTYPE="MD5" SIZE="52766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="d86a9f7ec31909f5f8f2a5f9d6130f0a" CHECKSUMTYPE="MD5" SIZE="41292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00223_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="12f7d161c662a6f30da17dace4a0e247" CHECKSUMTYPE="MD5" SIZE="2365021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="256091c7feb2648ce6e825c63f0b1fdf" CHECKSUMTYPE="MD5" SIZE="2453815">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_1.jp2"/>
+      </file>
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="97b0e1b087e6f62b285aa7c871a9a23b" CHECKSUMTYPE="MD5" SIZE="2483807">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00223_0.jp2"/>
+      </file>
+      <file ID="jp2_00223_1" MIMETYPE="image/jp2" CHECKSUM="c0947101acffc5e5d907d2b3fe8b9e22" CHECKSUMTYPE="MD5" SIZE="2339350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00223_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="c51c1b9a9d9426154862a58f2920c69e" CHECKSUMTYPE="MD5" SIZE="67530">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="73a7f3fae886b444a3bae8be8e117bcd" CHECKSUMTYPE="MD5" SIZE="82224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00222_1.xml"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="6dc35bcbc10f36802cef8379dc4aec37" CHECKSUMTYPE="MD5" SIZE="82650">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00223_0.xml"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml" CHECKSUM="8ddcbff56cb72c7f304226e2d9dd1d3d" CHECKSUMTYPE="MD5" SIZE="67960">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00223_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0072" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="428" firstpage="425">
+              <parties id="b443-6" pgmap="443">George W. Reed et al., Appellants, v. John Ziemans, Appellee.</parties>
+              <decisiondate id="AP4" pgmap="443">Opinion filed November 17, 1908.</decisiondate>
+              <otherdate id="A-HT" pgmap="443">Rehearing denied December 17, 1908.</otherdate>
+              <attorneys id="b443-11" pgmap="443">Charles M. Peirce and W. W. Whitmore, for ap­pellants.</attorneys>
+              <attorneys id="b443-12" pgmap="443">Charles I. Will and Barry &amp; Morrissey, for appel­lee.</attorneys>
+              <summary id="b443-10" pgmap="443">Assumpsit. Appeal from the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AKc" pgmap="443">Affirmed.</disposition>
+              <headnotes id="b443-8" pgmap="443">1. Brokers and factors—when real estate commissions cannot he recovered. If the broker has been guilty of bad faith to his principal in connection with the consummation of the sale for which he claims commissions, no recovery can be had.</headnotes>
+              <headnotes id="b443-9" pgmap="443">2. Verdict—how incapacity of juror may not he established. The mental incapacity of a juror is not ground for reversal unless established by affidavits of persons competent to testify to such mental incapacity.</headnotes>
+              <opinion type="majority">
+                <author id="b443-13" pgmap="443">Mr. Presiding Justice Puterbaugh</author>
+                <p id="ATo" pgmap="443">delivered the opinion of the court.</p>
+                <p id="b443-14" pgmap="443(63) 444(46)">This is an action in assumpsit by the firm of Reed &amp; Welch, real estate agents, against John Ziemans and Frank McKennan, to recover commissions alleged to be due them under a written contract for services ren­dered in procuring the exchange of certain of their real estate for other property belonging, to one Mickel­berry. Judgment was rendered in the Circuit Court for the defendants and the plaintiffs appeal. By the first count of their declaration they seek to recover upon a quantum meruit, and by the second an alleged stipulated commission of $960, being one dollar per acre. McKennan was defaulted and Ziemans pleaded the general issue.</p>
+                <p id="b444-5" pgmap="444(288) 445(117)">The evidence discloses that Ziemans and McKennan each owned an undivided one-half interest in certain lands in Iroquois county, Illinois; that the property in question was encumbered to the extent of $21,000; that McKennan owed $6,050 to other parties for which Ziemans was security; that they owed jointly $3,811.35; that on June 15, 1905, they entered into a written agreement which recited the existence and character of. the aforesaid indebtedness and then provided that McKennan should convey the land to Ziemans; that $1,000 should be borrowed by them to be secured by a trust deed upon the land to one Welty; that out of the proceeds of such loan Welty should pay the joint indebtedness of the parties and apply the balance on the indebtedness of McKennan for which Ziemans was security; that the property should be sold as soon as consistent with the best interests of the parties, and out of the proceeds each of them should be repaid any advances made by them, and the balance, if any, should be divided between them, McKennan agreeing to pro­tect Ziemans against any deficit. One Mickelberry owned a building and stock of goods at Clinton, Illi­nois, which'he had listed with appellants for sale or exchange. Through the efforts of appellants negotia­tions were begun between McKennan and Mickelberry for the exchange of the Iroquois county farm for said Clinton property, which finally terminated, on May 9, 1906, in a written contract between Mickel­berry, Ziemans and McKennan for the exchange of the property. Said contract provided that all deeds and papers necessary for the proper transfer of the property should be executed and delivered to a bank in Bloomington, to be held in escrow and delivered to the respective parties in interest as soon as the pro­visions of the contract were complied with. It also provided that the personal property should be con­veyed by bill of sale to a trustee for McKennan’s use, as provided in a certain contract to be entered into between McKennan and Ziemans, and which was to be of even date therewith. Ziemans and McKennan were unable to agree upon the terms of said latter proposed contract, and the same was never executed. Appellee thereupon refused to abide by the contract of exchange and the same was never consummated. McKennan then filed a bill for specific performance against ap­pellee and Mickelberry and appellant instituted the present action.-</p>
+                <p id="b445-5" pgmap="445">The evidence tends to show that appellants were employed by McKennan and rendered the services for which they seek to recover and that they were the pro­curing cause of the contract between Ziemans, McKen­nan and Mickelberry; but appellee contends, and so testified, that he neither employed, nor agreed to pay appellants a commission for their services.</p>
+                <p id="b445-6" pgmap="445">It is not controverted that during the time negotia­tions for an exchange of the two properties were pending appellants entered into an arrangement with Mickel­berry whereby Mickelberry agreed to pay to them a commission of $500 in the event that the proposed deal was consummated. There is evidence tending to show that appellants also agreed with McKennan to divide with him such commissions as they might re­ceive in the transaction, and further that Ziemans was not a party to or cognizant of either of such agree­ments for the payment and division of commissions. While it is true that the evidence upon that issue was in close conflict, if the jury gave credence to the testi­mony of. Ziemans they were warranted in finding that" the latter agreement was in fact made and that Zie­mans had no knowledge of either of such agreements and did not consent thereto.</p>
+                <p id="b445-7" pgmap="445(10) 446(32)">It follows that as appellants were in the employ of both Mickelberry and Ziemans without the knowledge or consent of Ziemans they were guilty of bad faith toward the latter and cannot recover commissions from him. Bunn v. Keach, 214 Ill. 259.</p>
+                <p id="b446-5" pgmap="446">It is contended by counsel for appellants that "the effect of the contract between McKennan and Zie­mans was to constitute them partners in the owner­ship of the farm and that Ziemans was therefore bound by the acts of McKennan in the premises.</p>
+                <p id="b446-6" pgmap="446">The obvious purpose of Ziemans in entering into the contract was to procure a settlement with McKen­nan to obtain security for the money he had advanced as well as that for which he was liable on surety for him, and to facilitate the sale and conveyance of the property. It was in no sense a joint venture or enter­prise within the meaning of the law governing part­nerships and the rule invoked is therefore inappli­cable.</p>
+                <p id="b446-7" pgmap="446">We have carefully considered the objections urged to the rulings of the court upon the instructions, and are satisfied that the same are not prejudical to ap­pellants. It is insisted that a new trial should have been granted for the reason that it developed after the trial that a member of the jury was mentally incom­petent to sit as such. It will suffice to say that such fact does not satisfactorily appear from affidavits of those whose evidence would be competent upon the question. The merits of the case appear to be clearly with appellee, and inasmuch as no error harmful to the appellants was committed upon the trial the judg­ment will be affirmed,</p>
+                <p id="b446-8" pgmap="446">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="443" ORDERLABEL="425" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.2" BETYPE="IDREF" FILEID="alto_00222_0"/>
+              <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="426" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.3" BETYPE="IDREF" FILEID="alto_00222_1"/>
+              <area BEGIN="BL_444.4" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="427" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.2" BETYPE="IDREF" FILEID="alto_00223_0"/>
+              <area BEGIN="BL_445.4" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="428" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jp2_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.2" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.3" BETYPE="IDREF" FILEID="alto_00223_1"/>
+              <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.8" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.7" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-12" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.15" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.6" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP4" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.12" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_445.1" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKc" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.11" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.5" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-13" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.16" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-HT" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.13" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-11" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.14" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-10" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.9" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_443.10" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-5" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.5" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.6" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-7" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.7" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-14" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.19" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-6" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.6" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-9" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.8" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-8" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.7" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATo" BETYPE="IDREF" FILEID="casebody_0072"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.17" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_443.18" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

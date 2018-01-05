@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0126" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Henry v. Miller">Joseph Henry et al., Appellees, v. Samuel M. Miller, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 628</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="6c7494085da80bfcc376a95b766bf6a4" CHECKSUMTYPE="MD5" SIZE="43448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00323_1.tif"/>
+      </file>
+      <file ID="tiff_00324_0" MIMETYPE="image/tiff" CHECKSUM="67e278ca85e5bec52cf183c7454633fe" CHECKSUMTYPE="MD5" SIZE="54080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00324_0.tif"/>
+      </file>
+      <file ID="tiff_00324_1" MIMETYPE="image/tiff" CHECKSUM="c286b6cf221d75a72b2b6308be66e6d7" CHECKSUMTYPE="MD5" SIZE="40638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00324_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00323_1" MIMETYPE="image/jp2" CHECKSUM="fae9b1ce56273d4d352db61b61b18fbc" CHECKSUMTYPE="MD5" SIZE="2366959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00323_1.jp2"/>
+      </file>
+      <file ID="jp2_00324_0" MIMETYPE="image/jp2" CHECKSUM="b81b9ab7491f38235b938e3697c8b4b2" CHECKSUMTYPE="MD5" SIZE="2456212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00324_0.jp2"/>
+      </file>
+      <file ID="jp2_00324_1" MIMETYPE="image/jp2" CHECKSUM="4486c9c013840f8d29d4746e8f39b92d" CHECKSUMTYPE="MD5" SIZE="2331013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00324_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00323_1" MIMETYPE="text/xml" CHECKSUM="56f0514b899c6e5c6ef7e1482a5cbbdf" CHECKSUMTYPE="MD5" SIZE="78153">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00323_1.xml"/>
+      </file>
+      <file ID="alto_00324_0" MIMETYPE="text/xml" CHECKSUM="fe06757fe7db2cc3c17b57c579b5c803" CHECKSUMTYPE="MD5" SIZE="84368">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00324_0.xml"/>
+      </file>
+      <file ID="alto_00324_1" MIMETYPE="text/xml" CHECKSUM="0e12828350259fbc958ab05747b13698" CHECKSUMTYPE="MD5" SIZE="66254">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00324_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0126" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="630" firstpage="628">
+              <parties id="b646-4" pgmap="646">Joseph Henry et al., Appellees, v. Samuel M. Miller, Appellant.</parties>
+              <decisiondate id="AUv" pgmap="646">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b646-10" pgmap="646">Jett &amp; Kinder, for appellant.</attorneys>
+              <attorneys id="b646-11" pgmap="646">Lane &amp; Cooper, for appellees.</attorneys>
+              <summary id="b646-9" pgmap="646">Bill in equity. Appeal from the Circuit Court of Montgomery county; the Hon. Samuel L. Dwight, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AU_" pgmap="646">Affirmed in part and reversed in part and remanded.</disposition>
+              <headnotes id="b646-6" pgmap="646">1. Mechanic’s liens—when owner liable for repairs made by lessee. A lien will be enforced against the owner of land for re­pairs made by his lessee where the lease provided that the lessee shall make such improvements and that the same shall become the property of the lessor at the expiration of the lease.</headnotes>
+              <headnotes id="b646-7" pgmap="646">2. Mechanic’s liens—what not subject of. Labor performed in mining coal in the regular course of operating a mine is not per­formed in the making of any improvement within the meaning of the statute providing for mechanic’s liens and therefore cannot be made the basis of mechanic’s lien relief.</headnotes>
+              <headnotes id="b646-8" pgmap="646">3. Mechanic’s liens—allowance of solicitor's fees improper. The mechanic’s lien statute which provides for the allowance of solic­itor’s fees to the plaintiff’s solicitor, is unconstitutional and such an allowance is improper.</headnotes>
+              <opinion type="majority">
+                <author id="b646-12" pgmap="646">Mr. Justice Baume</author>
+                <p id="A5l" pgmap="646">delivered the opinion of the court.</p>
+                <p id="b646-13" pgmap="646(99) 647(218)">On June 30, 1906, the appellant, Samuel M. Miller, leased to Louis J. Robertson certain lands and prem­ises, including buildings, improvements and machin­ery, to be operated as a coal mine, for a term ending April 1, 1912. The lease provided that Robertson should put in a good boiler and electric bells within ninety days from the date thereof at his own expense, and also make any other improvements he might de­sire, such improvements to become the property of Miller at the expiration of the lease. The lease further provided that Robertson should have the privilege of purchasing the leased premises at any time during the life of the lease for the sum of $20,000 in cash. Rob­ertson went into possession of the premises- under the lease and thereafter employed laborers and mechanics to do necessary work in and about the construction and repair of the tipple and top works at the coal mine. Robertson also employed miners to dig coal. On No­vember 29 or 30, 1906, the lessor, Miller, declared a forfeiture of the lease for non-payment of rent and took possession of the premises. Thereafter appellees filed their bill in equity against Miller and Robertson to establish and enforce a mechanic’s lien upon the premises for work performed and material furnished by them in repairing and constructing said tipple and top works at the mine, and for labor performed in mining coal therein. On the hearing before the chan­cellor upon the evidence taken and reported by the master in chancery, a decree was entered finding that the several petitioners were entitled to a mechanic’s lien upon the premises involved for the several amounts due said petitioners, aggregating the sum of $304.53, together with the sum of $60 as their reasonable soli­citor’s fees to be taxed as costs. To reverse this de­cree Samuel M. Miller appeals to this court.</p>
+                <p id="b647-5" pgmap="647(127) 648(73)">Appellees predicate their right to the enforcement of a lien in said case upon the provisions of section 1 of the Mechanic’s Lien Act of this state. Hurd’s Stat. 1905, 1317. The evidence tends to show that the top works and tipple at the mine in question, at the time Robertson took possession under his lease from appellant, were dilapidated and out of repair, and that it was necessary to construct and repair the same to properly operate the mine. The evidence further tends to show that appellant was present while the work of construction and repair was being performed and that he made no objection thereto. The conduct of appellant in this regard taken in connection with the provisions of the lease, which authorized the mak­ing of improvements by the lessee, which improve­ments were to become the property of the lessor at the expiration of the term, entitles appellees to a lien therefor within the terms of the statute, which pro­vides that, the person furnishing material or perform­ing labor under contract with the owner, “or with one whom such owner has authorized or knowingly permitted to contract for the improvements,” shall have a lien, etc.</p>
+                <p id="b648-5" pgmap="648">In so far as the several amounts awarded to appel­lees include pay for their labor in mining coal the de­cree cannot be sustained. The labor performed in mining coal in the regular course of operating the mine was not performed in the making of any im­provement within the meaning of the statute provid­ing for a lien. The allowance of solicitor’s fees to be taxed as costs was also erroneous. Manowsky v. Stephan, 233 Ill. 409.</p>
+                <p id="b648-6" pgmap="648">The decree of the Circuit Court awarding a lien to appellees for labor performed and material furnished in constructing and repairing the top works and tipple at the mine will be affirmed, and such decree will be reversed wherein it awards to appellees a lien for labor performed in mining coal, and wherein it pro­vides for the payment of solicitor’s fees by appellant. One half of the costs herein will be taxed against ap­pellant and one-half against the appellees.</p>
+                <p id="b648-7" pgmap="648">Decree affirmed in part and reversed in part and ' the cause remanded for further proceedings not in­consistent with the views here expressed.</p>
+                <p id="b648-8" pgmap="648">Affirmed in part, reversed in part and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="646" ORDERLABEL="628" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jp2_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.1" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.2" BETYPE="IDREF" FILEID="alto_00323_1"/>
+              <area BEGIN="BL_646.3" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="647" ORDERLABEL="629" TYPE="page">
+        <fptr FILEID="tiff_00324_0"/>
+        <fptr FILEID="jp2_00324_0"/>
+        <fptr FILEID="alto_00324_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_647.3" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_647.2" BETYPE="IDREF" FILEID="alto_00324_0"/>
+              <area BEGIN="BL_647.4" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="648" ORDERLABEL="630" TYPE="page">
+        <fptr FILEID="tiff_00324_1"/>
+        <fptr FILEID="jp2_00324_1"/>
+        <fptr FILEID="alto_00324_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.2" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.3" BETYPE="IDREF" FILEID="alto_00324_1"/>
+              <area BEGIN="BL_648.4" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-4" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-6" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.5" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-7" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.6" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-5" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.5" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            <area BEGIN="BL_648.1" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUv" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.12" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-8" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.7" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-9" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.8" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.9" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU_" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.10" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.11" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-6" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.6" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-7" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.7" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-5" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.5" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-12" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.15" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-13" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.18" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_647.1" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-10" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.13" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-11" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.14" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5l" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.16" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.17" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-8" BETYPE="IDREF" FILEID="casebody_0126"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.8" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

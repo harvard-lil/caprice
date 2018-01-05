@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0071" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Leeper v. Rogers Grain Co.">Charles O. Leeper, Appellee, v. Rogers Grain Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 424</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="d845d5b9b0afe16b71a7d7d1bbbf1a8d" CHECKSUMTYPE="MD5" SIZE="42782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="1d2bc5cdaab99e1ffee8d30d01064639" CHECKSUMTYPE="MD5" SIZE="38534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="4114caff438ff5b68df0c354077e004c" CHECKSUMTYPE="MD5" SIZE="2340185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00221_1.jp2"/>
+      </file>
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="12f7d161c662a6f30da17dace4a0e247" CHECKSUMTYPE="MD5" SIZE="2365021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00222_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="401ca3e6d559f18aaf266834a23a15cd" CHECKSUMTYPE="MD5" SIZE="76941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00221_1.xml"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="c51c1b9a9d9426154862a58f2920c69e" CHECKSUMTYPE="MD5" SIZE="67530">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00222_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="425" firstpage="424">
+              <parties id="b442-4" pgmap="442">Charles O. Leeper, Appellee, v. Rogers Grain Co., Ap­pellant.</parties>
+              <decisiondate id="Ahxq" pgmap="442">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b442-7" pgmap="442">Herrick &amp; Herrick, for appellant.</attorneys>
+              <attorneys id="b442-8" pgmap="442">Ingham &amp; Ingham, for appellee.</attorneys>
+              <summary id="b442-6" pgmap="442">Trover. Appeal from the Circuit Court of De Witt county; the Hon. W. G. Cochean, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A964" pgmap="442">Reversed and remanded.</disposition>
+              <headnotes id="b442-5" pgmap="442">Instructions—must not ignore material issue. An instruction which authorizes a verdict in disregard of how a particular issue may he determined, is erroneous and cannot be cured by other in­structions given.</headnotes>
+              <opinion type="majority">
+                <author id="b442-9" pgmap="442">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A-j" pgmap="442">delivered the opinion of the court.</p>
+                <p id="b442-10" pgmap="442(200) 443(42)">This is an action in trover by Leeper against Rog­ers Grain Co., a corporation, for the recovery of the value of certain corn. The plaintiff recovered a judg­ment for $220.45, to reverse which the defendant ap­peals. The declaration charges that Leeper, the plaint­iff, owned a farm, which he rented to one Huffman for the year beginning March 1, 1906; that the defendant corporation bought and paid for the corn raised by Huffman upon the premises during that year; that Huffman had not paid the full amount of rent due, by reason of which the defendant became liable to the plaintiff therefor. The evidence establishes the averments of the declaration, and that the amount for which judgment was rendered was still due Leeper at the time suit was brought. There is also evidence tending to show that appellee consented to or acqui­esced in the payment by appellant to the tenant of the proceeds of the corn raised on the farm, in which case he must be held to have waived his lien. This ques­tion, which is decisive of the case, was one of fact for a jury. Several of the instructions given at the re­quest of appellee directed a verdict without regard to the issue whether the lien had been waived or not. This was palpable error, which was not cured by the other instructions given. The judgment will -therefore be reversed and the cause remanded.</p>
+                <p id="b443-5" pgmap="443">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="442" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.1" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.2" BETYPE="IDREF" FILEID="alto_00221_1"/>
+              <area BEGIN="BL_442.3" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="425" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.2" BETYPE="IDREF" FILEID="alto_00222_0"/>
+              <area BEGIN="BL_443.4" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.13" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-j" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.14" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_442.15" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.5" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.16" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_443.1" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.12" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.11" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.6" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_442.7" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahxq" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.9" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_442.10" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b442-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A964" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.8" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

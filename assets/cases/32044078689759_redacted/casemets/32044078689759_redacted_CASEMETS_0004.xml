@@ -1,0 +1,828 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0004" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="International Salt Co. v. Tennant">International Salt Company, Appellee, v. Robert G. Tennant, Appellant</name>
+          <docketnumber>Gen. No. 14,019</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 30</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="1fb67bbd47aeee661a8222fb2d4ea968" CHECKSUMTYPE="MD5" SIZE="42604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00023_1.tif"/>
+      </file>
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="8a9ca4621967bd9d7c843f13c4a13f8b" CHECKSUMTYPE="MD5" SIZE="52476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00024_0.tif"/>
+      </file>
+      <file ID="tiff_00024_1" MIMETYPE="image/tiff" CHECKSUM="ec254c58f16dc557c68e86ad327b2508" CHECKSUMTYPE="MD5" SIZE="53586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00024_1.tif"/>
+      </file>
+      <file ID="tiff_00025_0" MIMETYPE="image/tiff" CHECKSUM="a7848dfd85e56e768ce1c7dd70362d80" CHECKSUMTYPE="MD5" SIZE="49320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00025_0.tif"/>
+      </file>
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="b904f536e8a9ff0442da165a45f3e453" CHECKSUMTYPE="MD5" SIZE="50910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="6318882d1b0f10f837490b3ed40b6703" CHECKSUMTYPE="MD5" SIZE="52720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="dcfaa2ecefd560e36f70bd3719d66d97" CHECKSUMTYPE="MD5" SIZE="52658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00026_1.tif"/>
+      </file>
+      <file ID="tiff_00027_0" MIMETYPE="image/tiff" CHECKSUM="95723bb24fbdf4f1bde2b26f349aef51" CHECKSUMTYPE="MD5" SIZE="48680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00027_0.tif"/>
+      </file>
+      <file ID="tiff_00027_1" MIMETYPE="image/tiff" CHECKSUM="4229955d149cee3663991dd9fe0d7a2e" CHECKSUMTYPE="MD5" SIZE="44080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00027_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00023_1" MIMETYPE="image/jp2" CHECKSUM="108ca92b3998fd9739852cf31199c5d8" CHECKSUMTYPE="MD5" SIZE="2264210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00023_1.jp2"/>
+      </file>
+      <file ID="jp2_00024_0" MIMETYPE="image/jp2" CHECKSUM="7d75731c465cbd221d776a2c618d93b5" CHECKSUMTYPE="MD5" SIZE="2394013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00024_0.jp2"/>
+      </file>
+      <file ID="jp2_00024_1" MIMETYPE="image/jp2" CHECKSUM="8e96ced25707d2eb7d72da5cb815e893" CHECKSUMTYPE="MD5" SIZE="2375385">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00024_1.jp2"/>
+      </file>
+      <file ID="jp2_00025_0" MIMETYPE="image/jp2" CHECKSUM="bf1fbe301e709bea057c371ac600a68f" CHECKSUMTYPE="MD5" SIZE="2395149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00025_0.jp2"/>
+      </file>
+      <file ID="jp2_00025_1" MIMETYPE="image/jp2" CHECKSUM="d0389ea133b3cf75ca4d44a8319a046b" CHECKSUMTYPE="MD5" SIZE="2323494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00025_1.jp2"/>
+      </file>
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="42672fa254955a1389e2de0b09de2e4e" CHECKSUMTYPE="MD5" SIZE="2400919">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00026_0.jp2"/>
+      </file>
+      <file ID="jp2_00026_1" MIMETYPE="image/jp2" CHECKSUM="d7bab8e49918b0966bfc2d929b4a19fe" CHECKSUMTYPE="MD5" SIZE="2346286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00026_1.jp2"/>
+      </file>
+      <file ID="jp2_00027_0" MIMETYPE="image/jp2" CHECKSUM="604cf06bdf73cf8f1ea43c6c8a14e8a6" CHECKSUMTYPE="MD5" SIZE="2367949">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00027_0.jp2"/>
+      </file>
+      <file ID="jp2_00027_1" MIMETYPE="image/jp2" CHECKSUM="aa6d754644624a7584b1bf92be8b9db3" CHECKSUMTYPE="MD5" SIZE="2284726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00027_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00023_1" MIMETYPE="text/xml" CHECKSUM="248d9e0937bf6e23a2e880ce1d4460d7" CHECKSUMTYPE="MD5" SIZE="79697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00023_1.xml"/>
+      </file>
+      <file ID="alto_00024_0" MIMETYPE="text/xml" CHECKSUM="4014b1c9423b4167c56c9d208cb24af8" CHECKSUMTYPE="MD5" SIZE="84435">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00024_0.xml"/>
+      </file>
+      <file ID="alto_00024_1" MIMETYPE="text/xml" CHECKSUM="4111362e9d9909233445fa1b73673d69" CHECKSUMTYPE="MD5" SIZE="86508">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00024_1.xml"/>
+      </file>
+      <file ID="alto_00025_0" MIMETYPE="text/xml" CHECKSUM="de3718f97ef05a244d7b9be0d840e629" CHECKSUMTYPE="MD5" SIZE="82706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00025_0.xml"/>
+      </file>
+      <file ID="alto_00025_1" MIMETYPE="text/xml" CHECKSUM="2ed33e826fe2cb0ed08f5c1b52de3cee" CHECKSUMTYPE="MD5" SIZE="82599">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00025_1.xml"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="d98b506966d44d77ffbdd6d5bd85b060" CHECKSUMTYPE="MD5" SIZE="84009">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00026_0.xml"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml" CHECKSUM="873731ec6eb9f42af27563a2ae57de1e" CHECKSUMTYPE="MD5" SIZE="84902">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00026_1.xml"/>
+      </file>
+      <file ID="alto_00027_0" MIMETYPE="text/xml" CHECKSUM="924be0296452fc1c23a99dbfc591ff7c" CHECKSUMTYPE="MD5" SIZE="82022">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00027_0.xml"/>
+      </file>
+      <file ID="alto_00027_1" MIMETYPE="text/xml" CHECKSUM="b3f91254bf680ab3e60995afd5b7e7f7" CHECKSUMTYPE="MD5" SIZE="71910">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00027_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="38" firstpage="30">
+              <docketnumber pgmap="46" id="b46-5">Gen. No. 14,019.</docketnumber>
+              <parties pgmap="46" id="b46-4">International Salt Company, Appellee, v. Robert G. Tennant, Appellant.</parties>
+              <decisiondate pgmap="46" id="A5">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="46" id="AQ">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="46" id="b46-10">William E. Olotes, for appellant.</attorneys>
+              <attorneys pgmap="46" id="b46-11">Robert S. Iles and Robert D. Martin, for appellee.</attorneys>
+              <summary pgmap="46" id="b46-9">Action commenced before justice of the peace. Appeal from the Circuit Court of Cook county; the Hon. Richabd S. Tuthill, Judge, presiding.</summary>
+              <disposition pgmap="46" id="A2U">Affirmed.</disposition>
+              <headnotes pgmap="46" id="b46-6">1. Insurance—what does not operate as an ipso facto cancelation of a Lloyd’s policy. Held, that the Lloyd’s policy involved in this suit, the going into effect of which was dependent upon the existence of another policy of insurance, did not ipso facto terminate upon the cancelation of such collateral policy.</headnotes>
+              <headnotes pgmap="46" id="b46-7">2. Contbacts—when custom binding; when not. A custom to bind a party to a contract must be known to the party sought to he bound or be so universally established as to be presumed to be within the knowledge of such party.</headnotes>
+              <headnotes pgmap="46" id="b46-8">3. Insurance—when proof of notice waived. Proof of notice of a fire within the time allowed by the policy, held waived by the placing of the defense on another ground in the court below.</headnotes>
+              <opinion type="majority">
+                <author pgmap="46" id="b46-12">Mr. Justice Brown</author>
+                <p pgmap="46" id="AShm">delivered the opinion of the court.</p>
+                <p pgmap="46" id="b46-13">■ The judgment appealed from in this case was for $144.06, and was rendered by the Circuit Court sitting without a jury and trying de novo an appeal from a justice of the peace in Cook county. Before the jus­tice the plaintiff, the International Salt Company, had recovered a judgment against the defendant, Robert G-. Tennant, for $125.28, and the judgment in the Cir­cuit Court was for the same amount with interest added for the interval between the trials. It is as­signed here as error that the judgment was against the law and the evidence, and that the court received improper evidence and excluded proper evidence at the hearing.</p>
+                <p pgmap="47" id="b47-3">The suit was upon a so-called “Lloyd’s” insurance policy, which was produced in evidence, in and by which the defendant, Robert G-. Tennant, with nine other persons, under the name of “Tennant’s Fire Underwriters,” in consideration of a premium of $46.50, bound themselves to pay to the said Interna­tional Salt Company of Ulinois, all loss or damage by fire between November 17, 1902, and November 17, 1903, on merchandise belonging to or in possession of said company in South Chicago, to the amount of $2,500, within sixty days after such loss was proved. But the liability of any one of the ten underwriters was not to exceed his proportionate part of the entire liability resting on the ten; that is, each underwriter insured for $250; nor in case of partial loss was the liability of any underwriter to exceed a sum which should bear the same proportion to the amount of loss recoverable under the policy as the amount of such underwriter’s subscription should bear to $2,500.</p>
+                <p pgmap="47" id="b47-4">The following provisions are in the policy:</p>
+                <blockquote pgmap="47" id="b47-5">“This policy is issued on the representation and with the warranty by the assured that the Phoenix Insurance Company of New York have a policy or policies in force on the identical property described herein during the existence of this policy to the amount of at least $50,000, in form concurrent here­with on the identical subject-matter, and in identically the same proportion on each separate part thereof.</blockquote>
+                <blockquote pgmap="47" id="b47-6">“It is hereby further warranted and is a condition on which this insurance is based, that this policy is subject to all the clauses, conditions, rates and pro­portions, and will follow identically the same adjust­ment and settlement of any loss that may be sustained under this policy, as that made on policy or policies above issued by the Phoenix Insurance Company of New York.</blockquote>
+                <blockquote pgmap="47(36) 48(172)" id="b47-7">“This policy can be canceled at any time at request of insured by surrender of policy to Robert Gr. Ten­nant, attorney, said Robert Gr. Tennant retaining for the underwriters the customary short rate, or policy may be canceled by the said Eobert Gr. Tennant, attor­ney, or either of the underwriters hereto by giving five days’ notice of such cancelation to the insured, and surrendering to the insured the unearned portion of the premium actually paid to said Eobert Gr. Tennant. This policy is made and accepted, subject to the fore­going stipulations and conditions, together with such other provisions or agreements or conditions as may be endorsed hereon or added hereto, and no one shall have power to waive any provision or condition of this policy except such as by the terms of this policy may be the subject of agreement endorsed hereon or added hereto, and as to such provisions and conditions, no one shall have power or be deemed or held to have waived such provisions or conditions unless such waiver, if any, shall be written upon or attached hereto, nor shall any privilege or permission affecting the insurance under this policy exist or be claimed by the insured, unless so written or attached.”</blockquote>
+                <p pgmap="48" id="b48-5">There was a policy covering the same property is­sued by the Phoenix Insurance Company on May 15, 1902, and running from the 24th day of May, 1902, to May 24, 1903, in existence at the time that the Ten­nant policy was issued on November 18, 1902, and the Tennant Underwriters made no separate investigation of the risk, but issued their policy, as was their cus­tom, on the faith of the previous issue of the Phoenix policy. The Phoenix policy contained, however, the usual provision that it might be canceled at any time by the company on giving five days notice of such cancelation, and on April 20, 1903, the Phoenix Com­pany gave notice of cancelation to the firm of Moore, James, Lyman &amp; Herrick, who were the insurance agents who placed the order of the International Salt Co. for insurance both with the Phoenix Company and the Tennant Underwriters. Mr. Moore of that firm testified:</p>
+                <blockquote pgmap="48(23) 49(13)" id="b48-6">“We as insurance agents representing a number of insurance companies, receive orders from people de­siring insurance. We undertake to fill their orders for insurance—that is, as far as we are agents for them. ’ ’</blockquote>
+                <p pgmap="49" id="b49-4">The custom, he said, was to send cancelation notices to the agents who placed the ihsurance.</p>
+                <p pgmap="49" id="b49-5">Moore, James, Lyman &amp; Herrick received the can­celation notice of the Phoenix policy, which was given as of April 20, 1903, and purported to effect the cancelation of the policy on April 25th. The Inter­national Salt Company, unless the knowledge of Moore, James, Lyman &amp; Herrick was its knowledge, did not know of the cancelation of the Phoenix policy on April 28th. On that day a fire occurred which damaged to the extent of $71,534.82 the insured prop­erty, which was covered by policies (excluding the Phoenix policy) aggregating $142,750.</p>
+                <blockquote pgmap="49" id="b49-6">Mr. Moore testified: “We, as a matter of fact, knew that the cancelation notice” (of the Phoenix Company) “had been served on the 20th. We had no authority to act for the International Salt Com­pany in receiving that notice of cancelation, but in this case we told them we had accepted notice that the policy was canceled on the 25th, three days before the fire; consequently they gave up the policy at my request the morning after the fire.”</blockquote>
+                <p pgmap="49(132) 50(44)" id="b49-8">Proofs of loss, conceded to be in due form and ade­quate, and to be for the proper amount if the Ten­nant’s policy was in force and the Phoenix policy was not, were under date of May 26, 1903, presented by Moore, James, Lyman &amp; Herrick to the “Tennant’s Fire Underwriters” through Mr. Tennant, who was their “attorney in fact” for this insurance business. They were returned by Mr. Tennant and payment re­fused on the ground that the Phoenix Company must sign them to show that it had adjusted the loss and paid their pro rata proportion of it, before the Ten­nant Underwriters would be liable for it. The amount claimed by the proofs of loss from the Tennant Under­writers was $1,252.80, for one-tenth of which each un­derwriter was liable if the amount of the claim was due on the policy. On account of the refusal to pay, suit was brought against the defendant Tennant for $125.80 on September 14, 1903, before Justice Under­wood, with the subsequent results before noted.</p>
+                <p pgmap="50" id="b50-5">The defendant has argued in this court that as there was a provision in the Phoenix Insurance Company policy which must be considered as read into the Ten­nant policy, that “if fire occur, the insured shall give immediate notice of any loss thereby in writing to this company,” and as no evidence was offered by the plaintiff showing any such notice prior to the exe­cution of the proofs of loss twenty-eight days after the fire, the plaintiff cannot recover on the policy.</p>
+                <p pgmap="50" id="b50-6">There is no merit in this contention. If we were willing to hold—which we are not—that failure to notify the insurer of a fire within twenty-eight days necessarily worked a forefeiture, it would be a matter of defense. There is no evidence here that the insurer was not notified “immediately;” the evidence which defendant must refer to in his argument from which he draws this inference is only that of Mr. Tennant that no “proofs of loss” except that marked plaint­iff’s exhibit 2 was ever tendered him—a very different thing.</p>
+                <p pgmap="50" id="b50-7">For the proofs of loss sixty days were allowed; they were given in perfectly regular form within thirty. If proof of notice within some shorter time were other­wise necessary, the plaintiff was certainly excused from making it by the explicit placing of the defense, by the defendant himself and his counsel at the trial below, entirely on the absence of the Phoenix Insur­ance Company from the list of insurers in the proofs of loss, and on the demand that before settlement an adjustment should have been made by the Phoenix Company.</p>
+                <p pgmap="50(25) 51(47)" id="b50-8">diving the widest interpretation to this claim, it included only these two points: First, that the Ten­nant policy requiring an adjustment by the Phoenix Company made, in the language of the defendant’s argument, “the Phoenix Company an arbitrator or umpire between the appellee and the appellant and his associates;” and, second, that the cancelation of the Phoenix policy ipso facto canceled the Tennant policy. We do not think either position tenable.</p>
+                <p pgmap="51" id="b51-4">The Tennant policy did read into itself the “clauses and conditions ’ ’ of the Phoenix policy, and that policy provided a method of appraisement and adjustment in the event of a disagreement “as to the amount of the loss,” “the insured and this company each selecting an appraiser,” etc. Beading this into the Tennant policy, however, does not involve making the Phoenix Company an umpire. There was no disagreement “as to the amount of loss” shown, and if there were, the clause in the Tennant Policy would require the selec­tion of an appraiser by the Tennant Underwriters, not by the Phoenix Company.</p>
+                <p pgmap="51(193) 52(68)" id="b51-5">But there is a clause in the Tennant policy which provides that “this policy * * * will follow identi­cally the same adjustment and settlement of any loss that may be sustained under this policy as that made on policy or policies above issued by the Phoenix In­surance Company;” and it is insisted that this made an adjustment by the Phoenix Company an indispen­sable condition of liability under the Tennant policy, and that therefore “upon the cancelation by the Phoenix Insurance Company of its policy it became impossible for the contract between appellant and appellee to be carried out according to its terms, and it therefore ceased.” This is equivalent to saying that the existence of the Tennant policy was depend­ent on the synchronous coincident existence of a Phoe­nix policy, and that when the Phoenix policy ceased by its expiration or cancelation, the Tennant policy necessarily did the same. This is in fact the chief defense made in this case, and, as we view it, the only significant one. It is based not only on the clause we have last quoted, but also on the provision of the policy that it “is issued on the representation' and with the warranty by the assured that the Phoenix Insurance Company of New York have a policy or policies in force on the identical property described herein during the existence of this policy to the amount of at least $5,000, in form concurrent herewith, on the identical subject-matter, and in identically the same proportion on each separate part thereof.”</p>
+                <p pgmap="52" id="b52-5">The plaintiff’s claim rests on the proposition that this only requires that at the time the Tennant policy was issued, and for an appreciable time thereafter (“during,” that is, in the sense of “in the time of”) a Phoenix policy should be in existence; the defend­ant’s answer is based on a different interpretation of “during,” which would make it mean “throughout the whole time of.”</p>
+                <p pgmap="52(214) 53(21)" id="b52-6">In consideration of the undoubted rule that the terms of an insurance policy must be construed most strongly in favor of the insured, and of the facts that a sufficient reason for the existence of the provision appears, if it is construed only as involving a substi­tute for a separate investigation of the risk by the insurers, who signify it by their willingness to rely on the investigation that must have been made by the Phoenix Company; that it would have been very easy, had that intention been present, by explicit words to have made the cancelation of the Phoenix policy terminate the Tennant policy; that the Phoenix policy, on which the Tennant policy was based (as might by inquiry have been learned by Mr. Tennant if he did not otherwise know it) expired by its own terms through lapse of time on May 24, 1903, while the Tennant policy ran to November 17, 1903, and was paid for until that time, and that the Tennant Under­writers expressly retained the power formally to can­cel on five days notice their own policy (which they might have used, but did not use, when the Phoenix canceled its policy), we must hold that the plaintiff’s and not .the defendant’s construction of the clause in question is correct, and that the cancelation of the Phoenix policy did not ipso facto - terminate the Ten­nant policy.</p>
+                <p pgmap="53" id="b53-4">Nor do we think that the court erred in rejecting the offer of defendant’s counsel to prove by his client “that there is a well known usage and custom in the insurance world, under which * * * the cancela­tion of the original insurance policy, the warranty policy * * * —in this case the Phoenix policy—­operated as a cancelation and termination of this contract of insurance on which this suit was brought, and that that is a well known usage and custom in this state.”</p>
+                <p pgmap="53" id="b53-7">This falls short of offering to prove a custom or usage known to the insured, or so universal and estab­lished as to be presumed to be within its knowledge, which state of things alone, if the custom were other­wise competent, would make it binding on the plaint­iff, or read it into the contract between it and the de­fendant.</p>
+                <p pgmap="53" id="b53-8">But in any event, while custom may explain a con­tract, it cannot make or break a contract, and we think that here the construction of the policy must be de­termined from the face of the instrument.</p>
+                <p pgmap="53" id="b53-9">There is raised by the plaintiff a question whether the Phoenix policy was itself validly canceled before the fire. We have assumed that it was, since the plaintiff evidently ratified the action of the insurance agents in accepting service of the necessary notice. We are not deciding, however, that such service on the agents was in itself sufficient; we have had occasion to hold the other way in other cases and under other circumstances.</p>
+                <p pgmap="53(51) 54(179)" id="b53-10">The position of the defendant that the insurance agents, Moore, James, Lyman &amp; Herrick, bound the plaintiff by receiving and retaining a payment for un­earned premiums on the Tennant policy from April 20, 1903, to its stipulated termination in November, and that thereby the claim for loss was waived, is manifestly untenable. Mr. Moore’s testimony shows the situation and is apparently confirmed by an in­spection of the receipt—defendant’s exhibit 1 in the record. According to a running account between Moore, James, Lyman &amp; Herrick and the Tennant Un­derwriters, the former, long after the fire, sent a bill for unearned premiums on cancelled policies to the latter. It did not include an item for this policy. On receipt of the bill Mr. Tennant, or some one for him representing the Underwriters, added an item for the International Salt Company policy and two other items (the three items are in a different handwriting and in different ink), and sent a check for the aggre­gate amount. Moore, James, Lyman &amp; Herrick, who had no authority to consent to any cancelation of the policy or accept return premiums or waive the claim on the policy, crossed out the “International Salt Co.” item of $26.90, and tendered that amount back to Tennant, who refused, for the Underwriters, to ac­cept it. There was nothing in this affecting the plaint­iff’s rights.</p>
+                <p pgmap="54" id="b54-5">The judgment of the Circuit Court is affirmed.</p>
+                <p pgmap="54" id="b54-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="46" ORDERLABEL="30" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jp2_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.1" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+              <area BEGIN="BL_46.3" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="47" ORDERLABEL="31" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jp2_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.1" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.2" BETYPE="IDREF" FILEID="alto_00024_0"/>
+              <area BEGIN="BL_47.3" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="48" ORDERLABEL="32" TYPE="page">
+        <fptr FILEID="tiff_00024_1"/>
+        <fptr FILEID="jp2_00024_1"/>
+        <fptr FILEID="alto_00024_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_48.2" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_48.3" BETYPE="IDREF" FILEID="alto_00024_1"/>
+              <area BEGIN="BL_48.4" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="49" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00025_0"/>
+        <fptr FILEID="jp2_00025_0"/>
+        <fptr FILEID="alto_00025_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.2" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.3" BETYPE="IDREF" FILEID="alto_00025_0"/>
+              <area BEGIN="BL_49.4" BETYPE="IDREF" FILEID="alto_00025_0"/>
+              <area BEGIN="BL_49.9" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="50" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jp2_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.2" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.3" BETYPE="IDREF" FILEID="alto_00025_1"/>
+              <area BEGIN="BL_50.4" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.2" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.3" BETYPE="IDREF" FILEID="alto_00026_0"/>
+              <area BEGIN="BL_51.4" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jp2_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.2" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.3" BETYPE="IDREF" FILEID="alto_00026_1"/>
+              <area BEGIN="BL_52.4" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="53" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00027_0"/>
+        <fptr FILEID="jp2_00027_0"/>
+        <fptr FILEID="alto_00027_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.2" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.3" BETYPE="IDREF" FILEID="alto_00027_0"/>
+              <area BEGIN="BL_53.4" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="54" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00027_1"/>
+        <fptr FILEID="jp2_00027_1"/>
+        <fptr FILEID="alto_00027_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.2" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.3" BETYPE="IDREF" FILEID="alto_00027_1"/>
+              <area BEGIN="BL_54.4" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.7" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.8" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.4" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.5" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.6" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.7" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.8" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.9" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            <area BEGIN="BL_46.10" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.8" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            <area BEGIN="BL_50.1" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.7" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.5" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.6" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.6" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.5" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.8" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            <area BEGIN="BL_48.1" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.7" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.6" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            <area BEGIN="BL_49.1" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.8" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_51.1" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.4" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.5" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.7" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.6" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.5" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.9" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            <area BEGIN="BL_54.1" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.6" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.5" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_53.1" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.6" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_52.1" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.13" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.5" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2U" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.12" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.5" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.11" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AShm" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.17" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            <area BEGIN="BL_46.18" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.16" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-13" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.19" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.14" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.15" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

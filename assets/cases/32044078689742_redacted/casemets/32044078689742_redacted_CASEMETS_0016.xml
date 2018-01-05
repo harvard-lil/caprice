@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0016" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Jacob v. Chicago &amp; Eastern Illinois Railroad">Abraham Jacob et al., on appeal of Charles B. Calhoun, Appellant, v. Chicago &amp; Eastern Illinois Railroad Company, Appellee</name>
+          <docketnumber>Gen. No. 14,068</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 140</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="80e1985e1ac33a46ec2ce4c403d2d9f4" CHECKSUMTYPE="MD5" SIZE="37828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="202409d9342ad51223605099e1482308" CHECKSUMTYPE="MD5" SIZE="55032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="ebb8a2b73c47e0cb8f82b2022847337c" CHECKSUMTYPE="MD5" SIZE="50414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="da5d11489d93de3e8815f0e6e5937ef7" CHECKSUMTYPE="MD5" SIZE="40308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00081_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="5fd22e9b7b1ebe764e7868de957f95c4" CHECKSUMTYPE="MD5" SIZE="2316915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_1.jp2"/>
+      </file>
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="99f925be7759509eaa5e89707bb7d170" CHECKSUMTYPE="MD5" SIZE="2495608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="60159073971f3405de3de33ec8a290e0" CHECKSUMTYPE="MD5" SIZE="2456855">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="4c35344eafebed5d8876c6ab5485c4d8" CHECKSUMTYPE="MD5" SIZE="2352705">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00081_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="7c33d6573324c0ee496a938241b2b1f5" CHECKSUMTYPE="MD5" SIZE="69794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00079_1.xml"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="32bfd0b2a9ddef00bb079a13dbcfdb6f" CHECKSUMTYPE="MD5" SIZE="92407">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="fc9d402209f0348a6d4f0cc87ec8e3cc" CHECKSUMTYPE="MD5" SIZE="91057">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="8c06c4b1f522fd8c90dabb9c2fd10bb8" CHECKSUMTYPE="MD5" SIZE="68586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00081_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="143" firstpage="140">
+              <docketnumber id="b158-9" pgmap="158">Gen. No. 14,068.</docketnumber>
+              <parties id="b158-7" pgmap="158">Abraham Jacob et al., on appeal of Charles B. Calhoun, Appellant, v. Chicago &amp; Eastern Illinois Railroad Company, Appellee.</parties>
+              <decisiondate id="AvM" pgmap="158">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b158-13" pgmap="158">Charles A. Butler, for appellant.</attorneys>
+              <attorneys id="b158-14" pgmap="158">Calhoun, Lyford &amp; Sheean, for appellee; E. H. Seneee, of counsel.</attorneys>
+              <summary id="b158-12" pgmap="158">Action on the case. Appeal from the County Court of Cook county; the Hon. David T. Smiley, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AB5" pgmap="158">Affirmed.</disposition>
+              <headnotes id="b158-10" pgmap="158">1. Appeals and errors—what exception essential to review. An exception to the finding and judgment of the court in a cause tried without a jury must be preserved by bill of exceptions to entitle an appellant to a review of the cause on the evidence.</headnotes>
+              <headnotes id="b158-11" pgmap="158">2. Appeals and errors—when denial of non-suit not subject to review. The denial of a motion for a voluntary non-suit is not sub­ject to review unless an exception was preserved to the ruling, and the motion, ruling and exception preserved by bill of exceptions.</headnotes>
+              <opinion type="majority">
+                <author id="b158-15" pgmap="158">Mr. Presiding Justice Adams</author>
+                <p id="AaO" pgmap="158">delivered the opinion of the court.</p>
+                <p id="b158-16" pgmap="158(8) 159(67)">Appellant sued appellee in case for damages alleged to have been caused by appellee’s breach of contract. The cause was tried by the court, without a jury, by agreement of the parties. The court found for appellee and entered judgment on the finding. The greater part of the argument of counsel for appellant is devoted to consideration of the evidence and to the contention that the finding of the court is contrary to the evidence.</p>
+                <p id="b159-4" pgmap="159">It does not appear from the bill of exceptions that appellant excepted to the finding and judgment of the court, or either of them. Such exception must appear in the bill of exceptions, to entitle appellant to a re­view of the cause on the evidence. Dickinson v. Gray, 72 Ill. App. 55; Ettlinger Printing Co. v. Copelin, 76 ib. 520; Hughey v. Rokker, 84 ib. 473; Ill. Cen. R. R. Co. v. O’Keefe, 154 Ill. 508, 511; Bailey v. Smith, 168 ib. 84; Jones v. Village of Milford, 208 ib. 621.</p>
+                <p id="b159-5" pgmap="159">Counsel for appellant contends that the court erred in overruling appellant’s motion for leave to enter a voluntary non-suit. To entitle this contention to con­sideration here, it should appear in the bill of excep­tions that such motion was made, the ruling of the court on the motion; and an exception by appellant. People v. Drainage Commrs., 156 Ill. 614; C., R. I. &amp; Pac. Ry. v. Town of Calumet, 151 ib. 512, and cases cited.</p>
+                <p id="b159-6" pgmap="159">It appears from the record proper that appellant excepted to the finding of the court; also that appellant moved the court for leave to take a voluntary non-­suit, which motion the court denied, etc.; but motions and rulings thereon are not part of the common law record, and can only be preserved for review by a bill of exceptions. This has been decided in very numerous cases in respect to motions for new trials; but it is the law as to all motions made in the progress of a cause. Aden v. Road District No. 3, 197 Ill. 220.</p>
+                <p id="b159-7" pgmap="159(38) 160(12)">In Van Cott v. Sprague, 5 Brad. 99, the court, Mr. Justice McAllister delivering the opinion, points out of what the record proper, or common law record, con­sists, and shows that matters not belonging to the com­mon law record must, if desired, be preserved by bill of exceptions.</p>
+                <p id="b160-5" pgmap="160">Appellant has assigned as error the refusal of the court to hold certain propositions of law. A motion for a new trial is unnecessary when a cause is tried by the court, without a jury. Dickinson v. Gray, supra; Sands v. Kagey, 150 Ill. 109; Union Ins. Co. v. Crosby, 172 ib. 336.</p>
+                <p id="b160-6" pgmap="160">Section 60 of the Practice Act, in force when this cause was heard, substitutes for a motion for a new trial, in causes tried by the court, without a jury, ex­ceptions to the decisions of the court. Last two cases cited and Bailey v. Smith, 168 Ill. 84. It necessarily follows that the result of an omission in the bill of exceptions, in a cause tried by the court, to show ex­ceptions to the finding and judgment, is the same as an omission in the bill of exceptions in a cause tried by jury, to show a motion for a new trial, the over­ruling thereof, and an exception to the overruling. In the latter case, viz.: where the trial was by a jury, the court, in E. St. Louis R. R. Co. v. Cauley, 148 111; 490, say: “A bill of exceptions must show the entering of a motion for a new trial, its being overruled, and an exception to the order overruling the same, before an appellate court can consider any question of the ad­mission or sufficiency of evidence or error in giving or refusing instructions. The failure of the bill of ex­ceptions to show this cannot be obviated by the recitals of the judgment”.</p>
+                <p id="b160-7" pgmap="160">Gage v. Goudy, 128 Ill. 566, was tried by the court, without a jury. The bill of exceptions failed to show an exception to the finding or judgment of the court. Held, that there was no question for the court to con­sider.</p>
+                <p id="b160-8" pgmap="160">We are of opinion that no exception to the finding or judgment of the court appearing in the bill of ex­ceptions, and there being no contention that there is any error of form or irregularity in the common law record, there is nothing before us for review.</p>
+                <p id="b161-3" pgmap="161">In Hawley v. Huth, 114 Ill. App. 29, the court, in an elaborate and very able opinion, discussed the effect of an omission in the bill of exceptions to show exceptions to the finding and judgment in a cause tried by the court, and say: “In East St. Louis Electric R. R. Co. v. Cauley, 148 Ill. 490, it was held in that case, tried by a jury, the bill of exceptions must show an excep­tion to an order overruling a motion for a new trial, before an appellate court could consider any question of the admission of evidence, and that where the bill of exceptions does not show an exception to the order overruling a motion for a new trial, ‘whatever would be cause for a motion for a new trial stands as if not objected to’. So, in a case tried without a jury, if the defeated party does not except to the finding or the judgment, he acquiesces therein, and we think he should be held to have waived every error occurring during the trial, which he could have asserted against the finding and judgment, if he had duly excepted thereto, including rulings upon the admission or rejection of testimony. If a party has thus waived any exception he could have presented to the finding and judgment, how can he afterwards be heard to say the judgment should nevertheless be reversed because of some error in the rulings at the trial? That would be to permit him the same advantage as if he had excepted to the finding and judgment”.</p>
+                <p id="b161-4" pgmap="161">The judgment will be affirmed.</p>
+                <p id="b161-5" pgmap="161">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="158" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.2" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.3" BETYPE="IDREF" FILEID="alto_00079_1"/>
+              <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+              <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.3" BETYPE="IDREF" FILEID="alto_00080_1"/>
+              <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.2" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.8" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-14" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.17" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvM" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.14" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_158.15" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaO" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.19" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_158.20" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.7" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.5" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.9" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.10" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.11" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_158.12" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-13" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.16" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-15" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.18" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-16" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.21" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_159.1" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.7" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.8" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.13" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

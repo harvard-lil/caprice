@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0100" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Haywood v. Dering Coal Co.">William T. Haywood, Appellee, v. Dering Coal Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 506</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00262_1" MIMETYPE="image/tiff" CHECKSUM="47d3741895e2aa09929be894f9ce0f49" CHECKSUMTYPE="MD5" SIZE="44990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_1.tif"/>
+      </file>
+      <file ID="tiff_00263_0" MIMETYPE="image/tiff" CHECKSUM="17d7f0e9ff893cba6a45bd1c2cdf8229" CHECKSUMTYPE="MD5" SIZE="48150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00263_0.tif"/>
+      </file>
+      <file ID="tiff_00263_1" MIMETYPE="image/tiff" CHECKSUM="586227a130a22b3cee1a535cf57f4429" CHECKSUMTYPE="MD5" SIZE="52200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00263_1.tif"/>
+      </file>
+      <file ID="tiff_00264_0" MIMETYPE="image/tiff" CHECKSUM="4d0e78f6f5f49339e12cd0f518771a56" CHECKSUMTYPE="MD5" SIZE="53668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00264_0.tif"/>
+      </file>
+      <file ID="tiff_00264_1" MIMETYPE="image/tiff" CHECKSUM="f7b5ec9177660988755bad3ee295cb9d" CHECKSUMTYPE="MD5" SIZE="52084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00264_1.tif"/>
+      </file>
+      <file ID="tiff_00265_0" MIMETYPE="image/tiff" CHECKSUM="dff761e65d4a29eaf1db073db58051ad" CHECKSUMTYPE="MD5" SIZE="51720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00265_0.tif"/>
+      </file>
+      <file ID="tiff_00265_1" MIMETYPE="image/tiff" CHECKSUM="148095334c146612b6dc5cac31337a4c" CHECKSUMTYPE="MD5" SIZE="49552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00265_1.tif"/>
+      </file>
+      <file ID="tiff_00266_0" MIMETYPE="image/tiff" CHECKSUM="759f78af66566231f3f0bba6df758161" CHECKSUMTYPE="MD5" SIZE="51478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00266_0.tif"/>
+      </file>
+      <file ID="tiff_00266_1" MIMETYPE="image/tiff" CHECKSUM="40ed4ec320b82d265402493f11149b11" CHECKSUMTYPE="MD5" SIZE="52988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00266_1.tif"/>
+      </file>
+      <file ID="tiff_00267_0" MIMETYPE="image/tiff" CHECKSUM="22268cf478b5aa207e34f6eda8a4eaf7" CHECKSUMTYPE="MD5" SIZE="40464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00262_1" MIMETYPE="image/jp2" CHECKSUM="dc04ff2a3a2d6e7205444286e74774f2" CHECKSUMTYPE="MD5" SIZE="2333356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00262_1.jp2"/>
+      </file>
+      <file ID="jp2_00263_0" MIMETYPE="image/jp2" CHECKSUM="2448352088cc1ab07b732025089f5f67" CHECKSUMTYPE="MD5" SIZE="2422217">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00263_0.jp2"/>
+      </file>
+      <file ID="jp2_00263_1" MIMETYPE="image/jp2" CHECKSUM="1fb1d1fdc6c86327d5512a59f932bba7" CHECKSUMTYPE="MD5" SIZE="2444623">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00263_1.jp2"/>
+      </file>
+      <file ID="jp2_00264_0" MIMETYPE="image/jp2" CHECKSUM="033e95ff347e19075577c6d7dbd111ea" CHECKSUMTYPE="MD5" SIZE="2491517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00264_0.jp2"/>
+      </file>
+      <file ID="jp2_00264_1" MIMETYPE="image/jp2" CHECKSUM="7b7879e563c1728cdf5b96de89cce970" CHECKSUMTYPE="MD5" SIZE="2403901">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00264_1.jp2"/>
+      </file>
+      <file ID="jp2_00265_0" MIMETYPE="image/jp2" CHECKSUM="d6a397f60f56c6bc16b1b1fbdafcc71c" CHECKSUMTYPE="MD5" SIZE="2443289">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00265_0.jp2"/>
+      </file>
+      <file ID="jp2_00265_1" MIMETYPE="image/jp2" CHECKSUM="c6b85b1d67dd807c507012741f7de2e8" CHECKSUMTYPE="MD5" SIZE="2425253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00265_1.jp2"/>
+      </file>
+      <file ID="jp2_00266_0" MIMETYPE="image/jp2" CHECKSUM="4c276a122d72a39df5c56c5c65037486" CHECKSUMTYPE="MD5" SIZE="2460674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00266_0.jp2"/>
+      </file>
+      <file ID="jp2_00266_1" MIMETYPE="image/jp2" CHECKSUM="07c453bb9f5eea2c657caa38e6fe03d4" CHECKSUMTYPE="MD5" SIZE="2421739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00266_1.jp2"/>
+      </file>
+      <file ID="jp2_00267_0" MIMETYPE="image/jp2" CHECKSUM="5082889994e0d4e21e27a0cf4933b298" CHECKSUMTYPE="MD5" SIZE="2386710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00262_1" MIMETYPE="text/xml" CHECKSUM="e52799b1746b798a77ee76f3baf5ceb3" CHECKSUMTYPE="MD5" SIZE="92050">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00262_1.xml"/>
+      </file>
+      <file ID="alto_00263_0" MIMETYPE="text/xml" CHECKSUM="afeb278f35afcc23b263f94b6d0e6127" CHECKSUMTYPE="MD5" SIZE="88973">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00263_0.xml"/>
+      </file>
+      <file ID="alto_00263_1" MIMETYPE="text/xml" CHECKSUM="8e4992f67f2a8a02c85a9df61b793721" CHECKSUMTYPE="MD5" SIZE="91696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00263_1.xml"/>
+      </file>
+      <file ID="alto_00264_0" MIMETYPE="text/xml" CHECKSUM="7b28b7669338b2e2dd5f4062ebbe1583" CHECKSUMTYPE="MD5" SIZE="89616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00264_0.xml"/>
+      </file>
+      <file ID="alto_00264_1" MIMETYPE="text/xml" CHECKSUM="c1e0e4d171e496e5a2f30f0f203ff8f5" CHECKSUMTYPE="MD5" SIZE="83849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00264_1.xml"/>
+      </file>
+      <file ID="alto_00265_0" MIMETYPE="text/xml" CHECKSUM="8ccd0e334ca6f1c094464d55df65b5fc" CHECKSUMTYPE="MD5" SIZE="87220">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00265_0.xml"/>
+      </file>
+      <file ID="alto_00265_1" MIMETYPE="text/xml" CHECKSUM="55c6b0aed24a83a7870faff5cb838a50" CHECKSUMTYPE="MD5" SIZE="82159">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00265_1.xml"/>
+      </file>
+      <file ID="alto_00266_0" MIMETYPE="text/xml" CHECKSUM="ef4cd2f0f6c95bb32f721026cf35d02e" CHECKSUMTYPE="MD5" SIZE="87035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00266_0.xml"/>
+      </file>
+      <file ID="alto_00266_1" MIMETYPE="text/xml" CHECKSUM="4ead64d21bf508330c9c54091e2eddb4" CHECKSUMTYPE="MD5" SIZE="95670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00266_1.xml"/>
+      </file>
+      <file ID="alto_00267_0" MIMETYPE="text/xml" CHECKSUM="50700eeb010e03a6f9abe40e694a5ba1" CHECKSUMTYPE="MD5" SIZE="75715">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00267_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0100" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="515" firstpage="506">
+              <parties id="b524-7" pgmap="524">William T. Haywood, Appellee, v. Dering Coal Com­pany, Appellant.</parties>
+              <decisiondate id="A1" pgmap="525">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b525-6" pgmap="525">Lane, Cooper &amp; Miller, for appellant.</attorneys>
+              <attorneys id="b525-7" pgmap="525">L. V. Hill and Hogan &amp; Wallace, for appellee.</attorneys>
+              <summary id="b525-5" pgmap="525">Action in case for personal injuries. Appeal from the Circuit Court of Montgomery county; the Hon. Truman E. Ames, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Ajn" pgmap="525">Reversed and remanded.</disposition>
+              <headnotes id="b524-8" pgmap="524">1. Evidence—effect of sheriff’s recitals upon return as independ­ent evidence. The recitals of service upon a summons are not sub­stantive evidence in the cause. Held, in this case, that it was error to permit the.summons and the return to be admitted in order to show operation of the mine in question by the defendant.</headnotes>
+              <headnotes id="b524-9" pgmap="524">2. Evidence—when failure to report accident should not he shown. Where not involved in the issues of the cause, it is error to permit the plaintiff to show that the defendant mine owner failed to report the accident in question to the state inspector hav­ing supervision of such mine.</headnotes>
+              <headnotes id="b524-10" pgmap="524">3. Evidence—competency of X-ray photographs. Upon a proper foundation being made, X-ray photographs are competent to show the extent of the injury.</headnotes>
+              <headnotes id="b524-11" pgmap="524">4. Evidence—what pari of res gestee. Exclamations and dec­larations of pain made while under debris are competent as part of the res gestee.</headnotes>
+              <headnotes id="b524-12" pgmap="524">5. Instructions—when in language of statute should not he given. An instruction is properly refused which incorporates only such parts of the statute as are favorable to the party asking it if it leaves out other portions of the same statute which may be favorable to the contention, of the opposite party.</headnotes>
+              <headnotes id="b524-13" pgmap="524">6. Instructions—must not give undue prominence to particular evidence. An instruction is improper which gives special and un­due' prominence to particular evidence.</headnotes>
+              <headnotes id="b524-14" pgmap="524(100) 525(75)">7. Verdict—when excessive. A verdict of $2,500 rendered in an action for personal injuries is excessive, it appearing that the plaintiff as a result of the accident in question suffered intense pain in his back, legs and feet at the time of and for some time subsequent to his injury; that at the time of his injury he was earning $4 a day; that he remained in bed six weeks and was only able to move his hand; that for about three weeks he was in a chair and after that was able to get around on crutches; that he used the crutches until warm weather; that on a certain day, some time after the accident, he was employed at the mine as a check weighman; that at the end of such day his back was very painful and his ankle was also painful and swollen; that he could not move as he did before the injury because of the pain, and that by reason of his injury the amount of his wages became less.</headnotes>
+              <opinion type="majority">
+                <author id="b525-8" pgmap="525">Mr. Justice Baume</author>
+                <p id="Atj" pgmap="525">delivered the opinion of the court.</p>
+                <p id="b525-9" pgmap="525(216) 526(185)">This is a suit by William T. Haywood, appellee, against the Dering Coal Co., appellant, to recover damages for personal injuries alleged to have been sustained by reason of the wilful violation by appel­lant of certain provisions of the Mines and Miners Act. Upon a trial by jury there was a verdict and judgment against appellant for $2,500. The case was submitted to the jury upon two- counts of the declara­tion. The first count charges, in substance, that the mine examiner of appellant wilfully failed to visit the mine before the men were permitted to enter to work therein, and wilfully failed to inspect all places where men were expected to pass or to work, and to observe whether there were any unsafe conditions in the rooms or roadways in the mine, and wilfully failed to inscribe with chalk on the walls of the working place of ap­pellee or the roadways in said mine, the month and day of the month of his visit, and wilfully failed to place a conspicuous mark at the entrance of all road­ways or working places, where dangerous conditions existed, as notice to all men to keep out, and wilfully failed to report his finding to the mine manager; and that appellant wilfully permitted appellee to enter said mine to work, not under the direction of the mine manager, at a time when unsafe conditions existed therein; and that the mine examiner wilfully failed to make a detailed record of the condition of the mine as he found it in a book kept for that purpose, as pro­vided in Section 18 of the Mines and Miners Act. The second count charges the mine manager of appellant with a wilful failure to see that all dangerous places above and below were properly marked, and with a wilful failure to see that danger signals were dis­played where required. To the declaration appellant pleaded the general issue and also filed a special plea, averring that appellee was not in its employ as a coal miner or in any other capacity at the time of his al­leged injury; that appellant did not then own, operate and possess the coal mine described in the declaration, and that it was not then engaged in mining and re­moving coal from said mine. The record does not disclose that appellee joined issue upon the special plea.</p>
+                <p id="b526-5" pgmap="526(192) 527(69)">On September 18, 1906, and for about two years and a half prior thereto, appellee was employed as a coal miner in a coal mine known as Mine No. 24 located at Witt, in Montgomery county. At half past six o ’clock on the morning of that day he entered the mine for the purpose of resuming his work, in driving the entry at the face of the sixth east entry on the north side, and while he was walking along said entry, and at a point near a coal car upon the track in said entry, loose rock and slate in the roof of the entry fell upon him causing the injuries complained of. The evidence tends to show that no conspicuous marks were then placed at the entrance of said entry to indicate that any dangerous condition existed therein. The evi­dence further tends to show that at or near the place where appellee was injured a cross-cut had been driven a distance of about seventeen feet toward the fifth east entry, which entry had not then been extended up to that point. The evidence further tends to show that there were no marks either on the walls or on the roof of the entry at the place where appellee was injured, indicating that the mine examiner had inspected that portion of the entry or that any dangerous or unsafe conditions existed there. It is uncontroverted that the roof of the entry at the place in question was unsafe and dangerous and was not supported by props or cross-bars.</p>
+                <p id="b527-5" pgmap="527(298) 528(33)">It is insisted on behalf of appellant that the place where appellee was injured was his working place and that as appellee had been directed some time previous to his injury to prop the roof of his working place, and as conspicious marks indicating dangerous conditions in the roof had then been placed by the mine examiner, appellant is not liable. The evidence tends to show that the working place of a miner extends from the face of the coal to the rear of the car when in position to be loaded, or a distance of sixteen to seventeen feet from the face of the coal. The evidence further tends to show that when men are engaged in driving an entry and a cross-cut at the same time they usually work in both places alternately, and that under such conditions the working place of the men includes the face of the entry and the cross-cut and the space be­tween the face of the entry and the cross-cut. The contention of appellant in this respect is predicated wholly upon the fact that appellee was injured at the place where his car was standing, immediately op­posite the cross-cut which had previously been driven by appellee and his buddy. The evidence, however, tends to show that the car was then standing forty or fifty feet from the face of the entry which appellee was engaged in driving, and that appellee and his buddy had completed their work in the cross-cut about a week previous to the day appellee was injured. The evidence further tends to show that the props which miners are required to set to support the roof of their working place are only intended to serve a temporary purpose while the work is being prosecuted, and that thereafter the duty of setting props and cross pieces for the purpose of permanently supporting the roof of an entry, as a road-way or passage-way in the mine, devolves upon the mine operator.</p>
+                <p id="b528-5" pgmap="528">We think the jury were justified in finding that the place where appellee was injured was not his work­ing place and that the mine operator had wilfully failed to comply with the provisions of the statute in the particulars alleged in the declaration.</p>
+                <p id="b528-6" pgmap="528">The evidence bearing upon the question as to whether or not appellant was operating the mine in which appellee was injured is conflicting, and we should not be disposed to interfere with the verdict upon that issue if the court had not admitted incompetent evi­dence offered by appellee over the objection of appel­lant.</p>
+                <p id="b528-7" pgmap="528">The summons in the case and the return of the sheriff thereon, showing that the same had been served upon appellant, did not in the least tend to show that appellant was in possession of the mine in question, and the admission of the summons and return in evi­dence could not have been otherwise than prejudicial to appellant. Whether or not Edward Bottomlee was the superintendent in the employ of appellant, or of the Burnwell Coal Company, was a controverted issue affecting the question whether the mine was operated by appellant or by said Burnwell Coal Company. The return of the sheriff that he had served the writ upon appellant by reading the same to Edward Bottomlee, superintendent of appellant, and at the same time de­livering to him a true copy of said writ, amounted to nothing less than an ex parte unsworn statement by the sheriff of the county in his official capacity, that Bottomlee was the superintendent of the mine in the employ of appellant.</p>
+                <p id="b528-8" pgmap="528(37) 529(67)">The witness W. W. Williams, a state mine inspector, called on behalf of appellee, was permitted to testify over the objection of appellant, that the company oper­ating the mine at the time appellee was injured had made no report of such injury to Mm. The evidence of this witness in that regard was foreign to any issue in the case, and its admission, taken in connection with the statement by one of the counsel for appellee, that it tended to show a disposition on the part of ap­pellant to conceal the accident and what occasioned it, we think was harmful to appellant.</p>
+                <p id="b529-5" pgmap="529">The court did not err in admitting in evidence the X-ray photographs of the bones of appellee’s foot after his injury and of the foot of a person showing the normal position of similar bones. The proper foundation was laid for the admission of such evidence within the rule announced in Chicago City Ry. Co. v. Smith, 226 Ill. 178.</p>
+                <p id="b529-6" pgmap="529">Exclamations and declarations made by appellee while he was under the fallen rock and slate relative to his pain and suffering and his situation there, were properly admitted in evidence as a part of the res gestæ. Springfield Ry. Co. v. Hoeffner, 175 Ill. 634; Muren Coal &amp; Ice Co. v. Howell, 217 Ill. 190.</p>
+                <p id="b529-7" pgmap="529">The several exhibits consisting of pay slips and en­velopes tending to show that the mine in question was operated by appellant were properly admitted in evi­dence, so far as they related to the mine in question known as Mine No. 24, and so far as they related to transactions at or about the time appellee was injured, but such of the exhibits as related to transactions con­nected with the operation of the mine known as Mine No. 22, and so far as such exhibits related to transac­tions with the mine in question long subsequent to the injury to appellee, were improperly admitted in evi­dence.</p>
+                <p id="b529-8" pgmap="529(64) 530(40)">Appellee’s first instruction as offered and given is wholly inconsistent with appellee’s contention that he was injured in a place other than Ms workmg place, where no duty devolved upon him to prop the roof. This is the contention most strongly urged by appellee in this court in support of his right to a recovery. The instruction as offered and given was not tanta­mount to an instruction authorizing a verdict for ap­pellee upon proof of the allegations of his declaration, because it recited only a portion of the section of the statute, the wilful violation of which was alleged in the declaraton.</p>
+                <p id="b530-5" pgmap="530">While it has been held not to be error to give an in­struction in the language of the statute (Reisch v. The People, 229 Ill. 574), we know of no authority which justifies a party in incorporating in an instruction only such portions of the statute as are conceived to be favorable to his contention, and excluding other por­tions of the same statute which may be favorable to the contention of the opposite party. We perceive no fault in appellee’s second instruction. As we under­stand the law, the duty devolving upon a mine oper­ator not to permit persons to enter the mine to work therein, except under the direction of the mine man­ager, until all known dangerous conditions shall have been made safe, relates to such dangerous conditions existing as well in the miner’s working place as else­where.</p>
+                <p id="b530-6" pgmap="530">The fourth instruction given at the instance of ap­pellee singles out and' gives undue prominence to cer­tain evidence offered by appellee bearing upon the is­sue as to whether or not appellant operated the mine in question.</p>
+                <p id="b530-7" pgmap="530">Appellee’s fifth instruction omits the requirement that the wilful failure of appellant to observe the pro­visions of the statute, as alleged in the declaration, must be shown to have been the proximate cause of his injury. Appellee’s sixth instruction sufficiently ad­vised the jury what constituted a wilful violation of the provisions of the statutes, within the meaning of the law, and it was unnecessary to give appellee’s eighth instruction in abstract form relating to the same sub­ject.</p>
+                <p id="b530-8" pgmap="530(29) 531(66)">The damages resulting from an injury caused by the wilful failure of a mine operator to comply with the provisions of the statute are limited to the direct pecu­niary damages sustained. The ninth instruction does not accurately advise the jury as to their province in determining the amount of damages to be awarded to appellee. Appellee’s tenth instruction states the rule in that regard more accurately, although it directs the attention of the jury to some elements of damage not shown by the evidence. The third instruction as offered by appellant was as follows:</p>
+                <p id="b531-5" pgmap="531">“The court instructs the' jury that if you believe from the evidence, in this case, that the Burnwell Coal Company was the owner of and in the possession of and operating the coal mine in question on the 18th day of September, 1906, then you must find the defend­ant not guilty.’'’</p>
+                <p id="b531-6" pgmap="531">This instruction the court modified by inserting the words “a preponderance of” after the word “from” and before the word “the”, and gave it to the jury as so modified. It is urged in criticism of this instruc­tion as modified by the court, that it changed the bur­den of proof and cast it upon the appellant, when, under the issues, the burden of proving that the mine in question was operated by appellant was upon ap­pellee.</p>
+                <p id="b531-7" pgmap="531(153) 532(55)">A majority of the court, the writer not concurring, are of the opinion that the instruction was improperly modified. The writer is of the opinion that by the in­struction as offered, appellant assumed the burden of proof upon that issue, and that the modification by the court affected no change in the instruction in that re­gard; that by the instruction as offered the jury was called upon to weigh the evidence in determining that issue and that the phraseology of the instruction as offered cast the burden of proof upon the appellant. In C. &amp; E. I. R. R. Co. v. Cleminger, 77 Ill. App. 186, it was held that an objection to an instruction which used the word “evidence” instead of the term “pre­ponderance of evidence” was fanciful rather than sub­stantial. If the instruction had advised the jury that the burden of proving that appellant was operating the coal mine in question was upon appellee, and that if ap­pellee had failed to establish that fact by a prepon­derance of the evidence, they should find appellant not guilty, it would, in the opinion of the writer, have more properly expressed the intention of counsel for appel­lant when the instruction was drafted.</p>
+                <p id="b532-5" pgmap="532(339) 533(109)">It is lastly urged that the damages awarded to ap­pellee are excessive. Appellee testified that he suf­fered intense pain in his back, legs and feet at the time of and for some time subsequent to his injury; that at the time of his injury he was earning $4 a day; that he remained in bed six weeks and was only able to move his hands; that for about three weeks he was in a chair and after that was able to get around on crutches; that he used the crutches until warm weather; that on December 22, 1906, he was employed at the mine as a check weigh man; that at the end of the day his back is very painful and his ankle is also very painful and swollen; that he could not move as he did before the injury because of the pain. Dr. Lockhart, the physician who attended appellee, testified that when he was called to see appellee he examined him and found that his back was sprained and his left ankle was fractured in the joint; that the pain in ap­pellee’s back was rather severe, but he did not com­plain of much pain in his ankle; that there was noth­ing noticeable in the way of injuries in his back; that at first for about a week he visited appellee twice a day and after that not so often; that he thought the injury occasioned pain for about a week or so; that he never examined appellee’s back since he discon­tinued his visits; that he saw appellee’s ankle in the spring or summer of 1907, and found nothing the matter with it, except that it was stiff; that he was inclined to think the stiffness of the ankle would be permanent, but was not sure; that he found no evi­dence external or otherwise of injury to the back; that there was no shortening of the foot or leg, and that the fractured parts had all united. It further appears from the evidence that since appellee commenced work as a check weigh man he has earned about $3.60 a day. A careful consideration of the evidence bearing upon the question of appellee.’s injuries impels us to the conclusion that the sum of $2,500, awarded to him as damages for such injuries, is excessive. There is no evidence in the record that appellee paid, or that he became liable to pay, anything for medical attendance or nursing. For the reasons stated the judgment of the circuit court will be reversed and the cause re­manded. The cost of the additional abstract furn­ished by appellee will be taxed against appellant.</p>
+                <p id="b533-5" pgmap="533">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="524" ORDERLABEL="506" TYPE="page">
+        <fptr FILEID="tiff_00262_1"/>
+        <fptr FILEID="jp2_00262_1"/>
+        <fptr FILEID="alto_00262_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_524.2" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_524.3" BETYPE="IDREF" FILEID="alto_00262_1"/>
+              <area BEGIN="BL_524.4" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="525" ORDERLABEL="507" TYPE="page">
+        <fptr FILEID="tiff_00263_0"/>
+        <fptr FILEID="jp2_00263_0"/>
+        <fptr FILEID="alto_00263_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.3" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.2" BETYPE="IDREF" FILEID="alto_00263_0"/>
+              <area BEGIN="BL_525.4" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="526" ORDERLABEL="508" TYPE="page">
+        <fptr FILEID="tiff_00263_1"/>
+        <fptr FILEID="jp2_00263_1"/>
+        <fptr FILEID="alto_00263_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.2" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.3" BETYPE="IDREF" FILEID="alto_00263_1"/>
+              <area BEGIN="BL_526.4" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="527" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00264_0"/>
+        <fptr FILEID="jp2_00264_0"/>
+        <fptr FILEID="alto_00264_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.3" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.2" BETYPE="IDREF" FILEID="alto_00264_0"/>
+              <area BEGIN="BL_527.4" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="528" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00264_1"/>
+        <fptr FILEID="jp2_00264_1"/>
+        <fptr FILEID="alto_00264_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_528.2" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_528.3" BETYPE="IDREF" FILEID="alto_00264_1"/>
+              <area BEGIN="BL_528.4" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="529" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00265_0"/>
+        <fptr FILEID="jp2_00265_0"/>
+        <fptr FILEID="alto_00265_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_529.3" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_529.2" BETYPE="IDREF" FILEID="alto_00265_0"/>
+              <area BEGIN="BL_529.4" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="530" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00265_1"/>
+        <fptr FILEID="jp2_00265_1"/>
+        <fptr FILEID="alto_00265_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.2" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_530.3" BETYPE="IDREF" FILEID="alto_00265_1"/>
+              <area BEGIN="BL_530.4" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="531" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00266_0"/>
+        <fptr FILEID="jp2_00266_0"/>
+        <fptr FILEID="alto_00266_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_531.3" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_531.2" BETYPE="IDREF" FILEID="alto_00266_0"/>
+              <area BEGIN="BL_531.4" BETYPE="IDREF" FILEID="alto_00266_0"/>
+              <area BEGIN="BL_531.8" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="532" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00266_1"/>
+        <fptr FILEID="jp2_00266_1"/>
+        <fptr FILEID="alto_00266_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_532.2" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_532.3" BETYPE="IDREF" FILEID="alto_00266_1"/>
+              <area BEGIN="BL_532.4" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="533" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00267_0"/>
+        <fptr FILEID="jp2_00267_0"/>
+        <fptr FILEID="alto_00267_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.3" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.2" BETYPE="IDREF" FILEID="alto_00267_0"/>
+              <area BEGIN="BL_533.4" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.7" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.7" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.6" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b532-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_532.5" BETYPE="IDREF" FILEID="alto_00266_1"/>
+            <area BEGIN="BL_533.1" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.8" BETYPE="IDREF" FILEID="alto_00265_1"/>
+            <area BEGIN="BL_531.1" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.5" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.9" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.8" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.6" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.10" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.11" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.8" BETYPE="IDREF" FILEID="alto_00265_0"/>
+            <area BEGIN="BL_530.1" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.5" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_525.6" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.6" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.5" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            <area BEGIN="BL_528.1" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.12" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-14" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.14" BETYPE="IDREF" FILEID="alto_00262_1"/>
+            <area BEGIN="BL_525.1" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.5" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            <area BEGIN="BL_527.1" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-12" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.12" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-11" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.11" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajn" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.7" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_525.8" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.5" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-9" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.15" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_526.1" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.7" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-6" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.6" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.5" BETYPE="IDREF" FILEID="alto_00264_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-13" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.13" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b528-8" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_528.8" BETYPE="IDREF" FILEID="alto_00264_1"/>
+            <area BEGIN="BL_529.1" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b530-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_530.7" BETYPE="IDREF" FILEID="alto_00265_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.5" BETYPE="IDREF" FILEID="alto_00266_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b531-7" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_531.7" BETYPE="IDREF" FILEID="alto_00266_0"/>
+            <area BEGIN="BL_532.1" BETYPE="IDREF" FILEID="alto_00266_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Atj" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.13" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_525.14" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b524-10" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_524.10" BETYPE="IDREF" FILEID="alto_00262_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b529-5" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_529.5" BETYPE="IDREF" FILEID="alto_00265_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.9" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

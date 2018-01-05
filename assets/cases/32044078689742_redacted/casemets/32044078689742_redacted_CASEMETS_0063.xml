@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0063" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Geddes-Brown Shoe Co. v. Suttle">Geddes-Brown Shoe Company, Appellant, v. Henry C. Suttle, Assignee, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 407</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00213_0" MIMETYPE="image/tiff" CHECKSUM="8e082b87c22e542ede7e4c1e62865e79" CHECKSUMTYPE="MD5" SIZE="44212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00213_0.tif"/>
+      </file>
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="65f8f56a40d346ae94c5ac17f33e5c16" CHECKSUMTYPE="MD5" SIZE="47332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="d855184d9402634156dd586af98980a8" CHECKSUMTYPE="MD5" SIZE="43954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00213_0" MIMETYPE="image/jp2" CHECKSUM="b90e2c3afd0270ddde599545e65cd026" CHECKSUMTYPE="MD5" SIZE="2409125">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00213_0.jp2"/>
+      </file>
+      <file ID="jp2_00213_1" MIMETYPE="image/jp2" CHECKSUM="51184371f884a6e1582fb47c2ead7917" CHECKSUMTYPE="MD5" SIZE="2405897">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00213_1.jp2"/>
+      </file>
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="fb20d81d998e9ddaabe35cdcae7face2" CHECKSUMTYPE="MD5" SIZE="2415188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00213_0" MIMETYPE="text/xml" CHECKSUM="b1245bf3bbc03a01557634af9ec04011" CHECKSUMTYPE="MD5" SIZE="74086">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00213_0.xml"/>
+      </file>
+      <file ID="alto_00213_1" MIMETYPE="text/xml" CHECKSUM="c89ce7732eac9de04fe3a83bd1daeac9" CHECKSUMTYPE="MD5" SIZE="83755">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00213_1.xml"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="eab3903e6e23c117d1a80f9e5f1344ec" CHECKSUMTYPE="MD5" SIZE="75052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00214_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0063" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="409" firstpage="407">
+              <parties id="b425-8" pgmap="425">Geddes-Brown Shoe Company, Appellant, v. Henry C. Suttle, Assignee, Appellee.</parties>
+              <decisiondate id="A8D" pgmap="426">Opinion filed Novem­ber 17, 1908.</decisiondate>
+              <attorneys id="b426-6" pgmap="426">Monson &amp; Gray, for appellant.</attorneys>
+              <attorneys id="b426-7" pgmap="426">E. J. Sweeney and L. O. Williams, for appellee.</attorneys>
+              <summary id="b426-5" pgmap="426">Objections to assignee’s report. Appeal from the County Court of De Witt County; the Hon. Fred C. Hill, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AMT" pgmap="426">Affirmed.</disposition>
+              <headnotes id="b425-10" pgmap="425">1. Statute of Limitations—what does not toll running of. A voluntary assignment for the benefit of creditors and the appoint­ment of an assignee does not toll the running of the Statute of Limitations against an open account.</headnotes>
+              <headnotes id="b425-11" pgmap="425(18) 426(14)">2. Voluntary assignments—when objections to report of as­signee properly stricken. Objections to the report of an assignee interposed by a creditor whose claim is outlawed are properly stricken from the files.</headnotes>
+              <opinion type="majority">
+                <author id="b426-8" pgmap="426">Mr. Presiding Justice Puterbaugh</author>
+                <p id="Arr" pgmap="426">delivered the opinion of the court.</p>
+                <p id="b426-9" pgmap="426">This is an appeal from the order of the County Court refusing to strike from the files the objections of appellant to the report of appellee as assignee of one Glazebrook, who made a voluntary assignment to appellee under the statute, for the benefit of his credi­tors, on February 8, 1898. On August 29, 1898, appel­lee filed in the County Court a report of claims filed against his insolvent, among which appeared that of appellant, in the sum of $170.70, but upon which he reported that according to the insolvent’s books there should be allowed a credit of $169.79. On September 5, 1907, appellant filed a petition asking that appellee be cited to report his acts and doings as such assignee. Pursuant thereto, on January 3, 1908, he filed his re­port showing that he had paid claims slightly in ex­cess of the proceeds of the assets coming into his hands, but that he had paid nothing upon the claim of appellant. Appellant filed objections to said report, alleging that the same was neither full, true nor cor­rect; that credit was taken for claims paid which had never been filed, and that others were paid without authority of law or order of court. The objections, upon motion of appellee, were stricken from the files, for the reason among others, that the claim of appel­lant was barred by the Statute of Limitations. Such ruling of the court was proper. The Statute of Limi­tations began to run against appellant’s claim prior</p>
+                <p id="b427-4" pgmap="427">to the assignment by Glazebrook. The last item of the account bears date October 21, 1897, while the assign­ment was not made until February, 1898. The ap­pointment of an assignee did not affect" the running of the statute. White v. Meadowcroft, 91 Ill. App. 293; High on Receivers, Sec. 135. The account was there­fore outlawed on October 21, 1902. The contention of appellant that the statute did not run because the re­lation of trustee and cestui que trust existed between the parties, is untenable. A trust to be exempt from the Statute of Limitations must be a direct trust. It must he exclusively within the jurisdiction of a court of equity and the question touching it must arise be­tween the trustee and the cestui que trust. Beers v. Myers, 28 Ill. App. 653; Hayward v. Gunn, 82 Ill. 385. A county court is not by the Voluntary Assignment Act vested with general chancery powers and jurisdic­tion (Preston v. Spaulding, 120 Ill. 209), nor can the claim be said to have been exclusively within the juris­diction of the County Court. Appellant could have maintained an action at law against Glazebrook at any time prior to the outlawry of the claim.</p>
+                <p id="b427-5" pgmap="427">The judgment of the County Court was warranted and is affirmed.</p>
+                <p id="b427-6" pgmap="427">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="425" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00213_0"/>
+        <fptr FILEID="jp2_00213_0"/>
+        <fptr FILEID="alto_00213_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.3" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.2" BETYPE="IDREF" FILEID="alto_00213_0"/>
+              <area BEGIN="BL_425.4" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="426" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jp2_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.2" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.3" BETYPE="IDREF" FILEID="alto_00213_1"/>
+              <area BEGIN="BL_426.4" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="409" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.2" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.1" BETYPE="IDREF" FILEID="alto_00214_0"/>
+              <area BEGIN="BL_427.3" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.12" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-9" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.15" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8D" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.8" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.9" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arr" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.13" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.14" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.5" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.6" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.10" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-7" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.11" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-5" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.5" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-4" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.4" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-11" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.10" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            <area BEGIN="BL_426.1" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-10" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.9" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-6" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.6" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-8" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.8" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMT" BETYPE="IDREF" FILEID="casebody_0063"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.7" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

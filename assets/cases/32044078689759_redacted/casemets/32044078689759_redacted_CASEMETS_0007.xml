@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0007" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Coats v. Chicago, Rock Island &amp; Pacific Railway Co.">J. M. Coats et al., Appellees, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 13,961</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 81</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="9cb27742062f81ce2599f35b75fc39b2" CHECKSUMTYPE="MD5" SIZE="46104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="6e9d5dfd37542f22221da03834b0085a" CHECKSUMTYPE="MD5" SIZE="45732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="e40b2292c6986b38c49bb3c501d6f44e" CHECKSUMTYPE="MD5" SIZE="50148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="5bfd5dd6c1a4d8d48fd9e14194dc7578" CHECKSUMTYPE="MD5" SIZE="51714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="8a950b1ed6a2f734e6a509f3d62add66" CHECKSUMTYPE="MD5" SIZE="51880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="06357dde082b2aaacf44e228123fa5d2" CHECKSUMTYPE="MD5" SIZE="45326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="d8b028eb65c3434100aeb504acf7df28" CHECKSUMTYPE="MD5" SIZE="2347600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="ebc971ecb3ade2f4c84de25c38e04613" CHECKSUMTYPE="MD5" SIZE="2294938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="418770fc53da014295025b4f784623fc" CHECKSUMTYPE="MD5" SIZE="2385229">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="804c775679ff807253025382e659ff9d" CHECKSUMTYPE="MD5" SIZE="2348944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="8ea72d00e9ca9849a1f2d2b5b3f842d7" CHECKSUMTYPE="MD5" SIZE="2395532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_0.jp2"/>
+      </file>
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="ab894a7d86b4d5d357d320a29b589e9d" CHECKSUMTYPE="MD5" SIZE="2279885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="3cad691e5c7328a468ce82811c7a977d" CHECKSUMTYPE="MD5" SIZE="82906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="5454765a55b145e8aa0ccc891c65c3ca" CHECKSUMTYPE="MD5" SIZE="81700">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="faf38fd481a09a19a1ae7f9d57fd80b0" CHECKSUMTYPE="MD5" SIZE="86191">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="6bc93523545def831feb14a924b5aa56" CHECKSUMTYPE="MD5" SIZE="85838">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="7b31f60d798c78b3abd8dbea0c039335" CHECKSUMTYPE="MD5" SIZE="87242">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00051_0.xml"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="ab07157a11393e0be378cff7417ceb9c" CHECKSUMTYPE="MD5" SIZE="74014">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00051_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="86" firstpage="81">
+              <docketnumber pgmap="97" id="b97-8">Gen. No. 13,961.</docketnumber>
+              <parties pgmap="97" id="b97-7">J. M. Coats et al., Appellees, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant.</parties>
+              <decisiondate pgmap="98" id="AKY">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="98" id="Aur">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="98" id="b98-6">M. L. Bell, for appellant; Benjamin S. Cable, of counsel.</attorneys>
+              <attorneys pgmap="98" id="b98-7">Magruder, Thompson &amp; Candee, for appellees.</attorneys>
+              <summary pgmap="98" id="b98-5">Action on the case. Appeal from the Superior Court of Cook county; the Hon. Samuel C. Stough, Judge, presiding.</summary>
+              <disposition pgmap="98" id="AP4">Affirmed upon remittitur.</disposition>
+              <headnotes pgmap="97" id="b97-9">1. Appeals and erbobs—effect of former decision. All questions decided upon one appeal of a cause are conclusively determined with respect to such cause in the second appeal thereof.</headnotes>
+              <headnotes pgmap="97" id="b97-10">2. Common cabeiers—what statute with respect to, not interstate commerce regulation. The statute forbidding common carriers to limit their common law liability is not legislation with respect to interstate commerce in the constitutional sense. Even though it were, the failure of Congress to legislate, would permit the state to enact on this particular subject. However, while a statute may in its practical operation reach beyond the state, that fact alone does not constitute it an interference with interstate commerce.</headnotes>
+              <headnotes pgmap="97" id="b97-11">3. Measure oe damages—what element of, in action for failure to transport as per contract. Interest, if the property is lost by failure to transport as per contract, may be awarded.</headnotes>
+              <headnotes pgmap="98" id="b98-4">4. Instructions'—upon what must he predicated. Each instruc­tion must be predicated upon some evidence supporting its hy­pothesis.</headnotes>
+              <opinion type="majority">
+                <author pgmap="98" id="b98-8">Mr. Justice Holdom</author>
+                <p pgmap="98" id="AR5">delivered the opinion of the court.</p>
+                <p pgmap="98" id="b98-9">This case was before this court on an appeal by the appellees from a judgment of the Superior Court against them, and our opinion on that appeal will be found in the 134 Ill. App. 217. Notwithstanding this fact, counsel for both parties have argued every ques­tion in the case, including those made on the former appeal and decided by the court. This they should not have done, because all the questions decided on the prior appeal are res adjudicata binding upon the par­ties as well as the court. All parties are concluded as to every question settled in that' decision, none of which are open for further review. On a second ap­peal from the trial court all questions considered on the first appeal must be regarded as res adjudicata in the subsequent proceedings in the case, and the first decision is the law of the case on. the second appeal. The cases supporting this rule are numerous and uni­form. We cite the following as sufficient to support these propositions: Sweet v. West Chicago Park Comms., 177 Ill. 492; C. &amp; A. v. Kelly, 182 ibid, 267; Keokuk Hamberg Bridge Co. v. The People, 185 ibid, 276; James v. I. C. R. R., 93 Ill. App. 294; Whitney v. Bolen, 56 ibid, 287; Christiansen v. Dunham Towing &amp; Wrecking Co., 75 ibid, 267.</p>
+                <p pgmap="98(9) 99(35)" id="b98-11">It was held in Wilson v. Carlinville Nat’l Bank, 87 ibid, 364, that under the provisions of the Appellate Court Act the previous opinion rendered in a cause is of binding authority in such cause, not only on the parties but upon the court.</p>
+                <p pgmap="99" id="b99-4">We refer to our former decision in Coats v. C., R. I. &amp; P. Ry. Co., 134 Ill. App. 217, and adopt the same as our decision in this case so far as every question here presented was there decided, and will now pro­ceed to dispose of those matters which were not before us on the former appeal and which have been added to the case on the second hearing in the trial court. The questions which we are now to decide relate exclus­ively to the facts developed by the last trial and the evidence supporting such facts. It is contended that the statute of Illinois forbidding a common carrier to limit its common law liability is a regulation of inter­state commerce in violation of the Federal constitu­tion, and error is assigned on the refusal of the court to give to the jury the fifth instruction requested by appellant.</p>
+                <p pgmap="99" id="b99-5">We will decide the questions in the inverse order in which they are stated.</p>
+                <p pgmap="99(149) 100(16)" id="b99-6">We think instruction 5 was calculated to mislead the jury upon the material question of liability. The suit was for unreasonable delay in transit through which the shippers lost the market for their potatoes. The facts constituting the right to recover were fairly stated in the second instruction given at the instance of appellees. By this instruction the jury were told that the damages recoverable was such as shown by the evi­dence to have proximately resulted from delay in trans­portation, while in the instruction complained óf the lia­bility of appellant is limited to deterioration of the po­tatoes during transit, not resulting from natural decay, but due to detention in transit in excess of a reasonable time. The instruction might have been refused, as it probably was, because there is no evidence in the rec­ord of the actual condition of the potatoes at the time they should have arrived at their destination in the exercise of due diligence by the carrier.</p>
+                <p pgmap="100" id="b100-5">The Illinois statute forbidding common carriers to limit their common law liability is in no sense an inter­ference with interstate commerce. This statute comes within the definition laid down in Peik v. Chicago, etc., Ry. Co., 94 U. S. 164, where it is said: “As to the effect of the statute as a regulation of interstate com­merce, the law is confined to state commerce, or such interstate commerce as directly affects the people of Wisconsin. Until congress acts in reference to the re­lations of this company to interstate commerce, it is certainly within the power of Wisconsin to regulate its fares, etc., so far as they are of domestic concern. With the people of Wisconsin this company has do­mestic relations. Incidentally they may reach beyond the state. But certainly until congress undertakes to legislate for those who are without the state, Wiscon­sin may provide for those within, even though it may indirectly affect those without.”</p>
+                <p pgmap="100" id="b100-6">The failure of congress to legislate upon this subject relieves the state statute from the charge of being in conflict with the Federal law. While the statute may in its practical operation reach beyond the state, that fact alone does not constitute it an interference with inter­state commerce. Osborne v. Mobile, 16 Wall. 482. It may not be amiss to observe that if the constitutional­ity of this statute is involved in this appeal, this tri­bunal has no jurisdiction to decide that question.</p>
+                <p pgmap="100(84) 101(95)" id="b100-7">The evidence establishes as a fact that appellant did not carry the potatoes the subject-matter of this suit, within a reasonable time, as the law required. A rea­sonable time was between four and six days; the actual time occupied in transit ranged from twenty-one to forty days. The evidence is amply sufficient to estab­lish a right of recovery for such unreasonable delay in transporting the potatoes to their'point of destination, and the verdict of the jury is, as to that right, sus­tained by the evidence. We think it was the province of the jury to allow interest as an element of damage in their assessment of damag’es. Appellees, if entitled to recover, had been deprived of the value of the pota­toes, lost to them by the negligence of appellant, for more than seventeen years, and the loss of interest upon that amount was an element of damage suffered by appellees. Seymour v. Fueling Company, 103 Ill. App. 631; I. C. R. R. Co. v. Foulks, 191 Ill. 57; Nevin v. Pullman Co., 106 Ill. 222.</p>
+                <p pgmap="101" id="b101-4">We regard the assessment of damages, under the evi­dence, as excessive and not warranted by it. In the light of the testimony of dealers upon the Philadelphia potato market, which was the destination and place of intended sale of the potatoes, as to the value of the potatoes, we do not think the jury were justified in dis­regarding such testimony, as they seem to have done, and giving full credence to the evidence of Coats, Hat-­ton and Foulkes, whose estimates were the highest value at which the best potatoes were sold at the top of a short market before the arrival of potatoes from the West, which apparently glutted the market, and while not detracting from the force of the testimony of Coats, Hatton and Foulkes, it cannot be gainsaid but that the testimony of the witnesses of appellant, who had been actively engaged in business in the Philadelphia potato market, was entitled to much weight with the jury and ought not to have been ignored by them. They had the better advantage of familiarity with local condi­tions and market prices, while Coats, Hatton and Foulkes had neither of them done business in the Phil­adelphia market before the shipment of the potatoes in dispute. -</p>
+                <p pgmap="101(48) 102(220)" id="b101-5">There was a sharp conflict in the evidence as to the value of the potatoes. Coats, Hatton and Foulkes, ap­pellees’ witnesses, put the price at from $1 to $1.25 per bushel. On the other hand, appellant’s witnesses, Dar­mon and Brown, both dealers on the Philadelphia po­tato market, put the price of potatoes during the months of April and May, at from thirty cents to eighty-five cents per bushel. There was also much tes­timony that the potatoes were of an inferior kind and quality. Appellees’ proof proceeded upon the assump­tion that the potatoes were of the highest grade and of the best quality. All the evidence considered as to the values, we think the jury failed to appreciate that a conscientious weighing of the evidence should have led them to a medium course between the sworn max­imum and minimum prices. There were 7,862% bush­els of potatoes lost to appellees. The verdict of $16,000 is based upon a price in excess of $1 per bushel, with added interest. This we have concluded is excessive and not sustained by an impartial interpretation of the evidence. This is the only material error injuriously affecting appellant’s rights found in the record. As a corrective, we shall require from appellees a remittitur of $4,000 from the judgment, to be entered within ten days, as a condition of the affirmance of the judgment. Upon such remittitur being made within the time afore­said, the judgment of the Superior Court will be af­firmed ; otherwise the judgment will be reversed and the cause remanded for a new trial.</p>
+                <p pgmap="102" id="b102-5">Affirmed on remittitur $4,000; otherwise reversed and remanded.</p>
+                <p pgmap="102" id="b102-6">Remittitur filed and judgment affirmed October 15, 1908.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="97" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.2" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.13" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+              <area BEGIN="BL_98.3" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.2" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+              <area BEGIN="BL_99.4" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.3" BETYPE="IDREF" FILEID="alto_00050_1"/>
+              <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+              <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.3" BETYPE="IDREF" FILEID="alto_00051_1"/>
+              <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aur" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.7" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.5" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.17" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.11" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.12" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKY" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.14" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.15" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.16" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.13" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            <area BEGIN="BL_101.1" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.12" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.10" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.6" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

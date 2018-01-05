@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0036" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Whitney v. Bullock">John B. Whitney et al., Defendants in Error, v. Caroline Bullock et al., Plaintiffs in Error</name>
+          <docketnumber>Gen. No. 14,222</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 269</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="859e07f48667bee8805075117f3f0804" CHECKSUMTYPE="MD5" SIZE="44398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00144_0.tif"/>
+      </file>
+      <file ID="tiff_00144_1" MIMETYPE="image/tiff" CHECKSUM="0a2215db7fe541a2efba2641b97e2b32" CHECKSUMTYPE="MD5" SIZE="55756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00144_1.tif"/>
+      </file>
+      <file ID="tiff_00145_0" MIMETYPE="image/tiff" CHECKSUM="e4e9e5bd74ae8bbb09ce4b3a0b705ac0" CHECKSUMTYPE="MD5" SIZE="54264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00145_0.tif"/>
+      </file>
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="79e106770ca49541152779b38e312de0" CHECKSUMTYPE="MD5" SIZE="54282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00145_1.tif"/>
+      </file>
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="0da162bd776a22e6e6554b9b197e80c1" CHECKSUMTYPE="MD5" SIZE="52880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="6f43926b62c6e73d2a07b4b940983b6b" CHECKSUMTYPE="MD5" SIZE="42770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00144_0" MIMETYPE="image/jp2" CHECKSUM="264aed4299067bef17b76eed75c88e0f" CHECKSUMTYPE="MD5" SIZE="2395478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00144_0.jp2"/>
+      </file>
+      <file ID="jp2_00144_1" MIMETYPE="image/jp2" CHECKSUM="907aeacc55bfff23eb6ca0f8c8de89b4" CHECKSUMTYPE="MD5" SIZE="2461570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00144_1.jp2"/>
+      </file>
+      <file ID="jp2_00145_0" MIMETYPE="image/jp2" CHECKSUM="61067e9691905aa293706fe9f48de927" CHECKSUMTYPE="MD5" SIZE="2456129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00145_0.jp2"/>
+      </file>
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="1825aa1de18f8bb2b5a5a2c5a22953eb" CHECKSUMTYPE="MD5" SIZE="2415446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00145_1.jp2"/>
+      </file>
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="2a548c88540d7bac0406045a676be64b" CHECKSUMTYPE="MD5" SIZE="2449836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="7d667cf7815d83c3f5217246408f4a50" CHECKSUMTYPE="MD5" SIZE="2309107">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00144_0" MIMETYPE="text/xml" CHECKSUM="4cf253fc34dc10d2053af2c554904726" CHECKSUMTYPE="MD5" SIZE="83607">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00144_0.xml"/>
+      </file>
+      <file ID="alto_00144_1" MIMETYPE="text/xml" CHECKSUM="fdf43dcbf47372c54b4f9059a34734cb" CHECKSUMTYPE="MD5" SIZE="84659">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00144_1.xml"/>
+      </file>
+      <file ID="alto_00145_0" MIMETYPE="text/xml" CHECKSUM="9ca4fb1d38c0d87b32f656770cb27ce4" CHECKSUMTYPE="MD5" SIZE="82097">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00145_0.xml"/>
+      </file>
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="903601b433596e186ffc30ce8b241482" CHECKSUMTYPE="MD5" SIZE="83565">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00145_1.xml"/>
+      </file>
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="1947f8444ffa67dce498af392f36107b" CHECKSUMTYPE="MD5" SIZE="79987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="2f2581001c43f78f574cf9bb81d999dd" CHECKSUMTYPE="MD5" SIZE="79004">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00146_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0036" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="274" firstpage="269">
+              <docketnumber id="b287-4" pgmap="287">Gen. No. 14,222.</docketnumber>
+              <parties id="b287-3" pgmap="287">John B. Whitney et al., Defendants in Error, v. Caro­line Bullock et al., Plaintiffs in Error.</parties>
+              <decisiondate id="AsU" pgmap="287">Opinion filed Decem­ber 18, 1908.</decisiondate>
+              <attorneys id="b287-10" pgmap="287">Masoh &amp; Wymau, for plaintiffs in error.</attorneys>
+              <attorneys id="b287-11" pgmap="287">Adams &amp; Froehlich, for defendants in error.</attorneys>
+              <summary id="b287-9" pgmap="287">Assumpsit. Error to the Municipal Court of Chicago; the Hon. Thomas B. Lantry, Judge, presiding. Heard in the Branch Appel­late Court at the March term, 1908.</summary>
+              <disposition id="Asv" pgmap="287">Reversed.</disposition>
+              <headnotes id="b287-5" pgmap="287">1. Contracts—what incompetent to aid construction of. It is incompetent to show by the parol evidence of one of the parties to the contract the purpose of providing for the payment there­under of certain installments of money.</headnotes>
+              <headnotes id="b287-6" pgmap="287">2. Contracts—what incompetent to aid construction of. The statement of an attorney who drafted an instrument made at the time of its execution as to the effect thereof, is incompetent to aid in the construction thereof.</headnotes>
+              <headnotes id="b287-7" pgmap="287">3. Contracts—how obligations imposed by determined. The obligations imposed by a contract are those created by the instru­ment and that instrument affords the only evidence of its terms and conditions.</headnotes>
+              <headnotes id="b287-8" pgmap="287">4. Contracts—what not, of indemnity. A release by the pro­spective heirs of one to whom money is to be paid given to those who have undertaken to pay such money, such a release only to be operative in the event of the death of the ancestor to whom such money was to be paid, is not an agreement for indemnity against the enforcement of such obligation of payment by the per­sonal representatives of such ancestor.</headnotes>
+              <opinion type="majority">
+                <author id="b287-12" pgmap="287">Mr. Justice Baker</author>
+                <p id="Al9" pgmap="287">delivered the opinion of the court.</p>
+                <p id="b287-13" pgmap="287">This writ of error brings before us for review the record of a judgment for $907.70 recovered by defend­ants in error against plaintiffs in error in the Munici­pal Court of Chicago in a cause tried by the court with­out a jury.</p>
+                <p id="b287-14" pgmap="287(26) 288(11)">Milo S. Bullock was the husband of the defendant Caroline Bullock and the father of the defendant Blanche B. Cone. He and the plaintiffs were partners in business. In February 1906 they entered into the following agreement:</p>
+                <p id="b288-5" pgmap="288">“Whereas each of the members of the co-partner­ship of Whitney, Christenson &amp; Bullock, of Chicago, Illinois, doing business as clothing manufacturers in the City of Chicago, Illinois, and consisting of John B. Whitney, August Christenson and Milo S. Bullock, all residents of Chicago, Illinois, desires to dissolve the co-partnership heretofore formed and now existing by mutual consent.</p>
+                <p id="b288-6" pgmap="288">And whereas the said John B. Whitney and August Christenson desire to acquire the entire interest of the said Milo S. Bullock and assume all existing liabilities of the said co-partnership:</p>
+                <p id="b288-7" pgmap="288">And whereas the said Milo S. Bullock desires to dis­pose of his entire one-third interest in the said co-part­nership and business now existing for cash and retire from the said co-partnership, on condition that all the present existing liabilities of the said co-partnership of every kind, character and nature be assumed and paid by the said John B. Whitney and August Christen-­son, their heirs, executors, administrators and assigns, when due and payable:</p>
+                <p id="b288-8" pgmap="288">Now therefore, this agreement witnesseth: that John B. Whitney and August Christenson have in hand paid Milo S. Bullock the sum of six thousand ($6,000.00) dollars, in cash, and covenant and agree to pay the further sum of one thousand ($1,000) dollars, in equal monthly installments consecutively of one hundred and twenty-five ($125.00) dollars cash each and every month beginning March 1st, 1906, to and in­cluding October 1st, 1906, until said sum of one thou­sand ($1,000) dollars has been fully paid to the said Milo S. Bullock, the total sums aforesaid of seven thousand ($7,000) dollars shall be in full of his entire one-third interest in the said co-partnership and busi­ness, including all capital contributed, all profits, if any have accrued during the continuance of the said co-­partnership and business to the date hereof.</p>
+                <p id="b288-10" pgmap="288(29) 289(159)">The said Milo S. Bullock hereby acknowledges the re­ceipt of six thousand ($6,000) dollars in cash and does hereby grant, bargain, sell and convey to the said John B. Whitney and August Christenson, their and each of their heirs, executors, administrators and assigns, for­ever, his entire one-third interest in the said co-part­nership of Whitney, Christenson &amp; Bullock, of Chicago, Illinois, to have and to hold all and singular the said grantor’s entire title, right and interest in the assets of the said co-partnership, without any manner of account whatever, and the said John B. Whitney and August Christenson their and each of their heirs, exec­utors, administrators and assigns, hereby assume and agree to pay in full all of the debts, bills, notes or liabilities of the said co-partnership of every kind and character, and all notes, bills for merchandise, or other­wise, wages or material, or other demands of every kind and character now existing against the said co-­partnership or individuals thereof, to which said Milo S. Bullock may be in any way liable in law or equity by reason of said co-partnership.</p>
+                <p id="b289-4" pgmap="289">In witness whereof we have hereunto set out hands and seals this 20th day of February, 1906.</p>
+                <p id="b289-5" pgmap="289">John B. Whitney [Seal.]</p>
+                <p id="b289-6" pgmap="289">Aug. Christenson [Seal.]</p>
+                <p id="b289-7" pgmap="289">&amp; Milo S. Bullock. [Seal.]</p>
+                <p id="b289-8" pgmap="289">Signed, sealed and delivered in the presence of</p>
+                <p id="b289-9" pgmap="289">W. W. Wade</p>
+                <p id="b289-10" pgmap="289">Blanche Bullock Cone.”</p>
+                <p id="b289-11" pgmap="289">After this agreement was executed, but on the same day, the defendants, without the knowledge of Milo S. Bullock executed and delivered to the plaintiffs the fol­lowing instrument:</p>
+                <p id="b289-12" pgmap="289">“We, the undersigned, natural and only heirs of Milo S. Bullock, of Chicago, Illinois, do hereby agree as follows:</p>
+                <p id="b289-13" pgmap="289">That should the said Milo S. Bullock depart this life before October 1st, 1906, the period named and pro­vided for the payment of eight certain monthly install­ments of one hundred and twenty-five ($125,00) dol­lars each in a certain agreement of dissolution of even date herewith of the co-partnership of Whitney, Christenson &amp; Bullock, by mutual consent, which said co-partnership is this day dissolved.</p>
+                <p id="b289-14" pgmap="289(9) 290(50)">In consideration of one ($1.00) dollar and other valu­able consideration, we hereby agree to release and dis­charge John B. Whitney and August Christenson, both of the City of Chicago, from any further payments of the said installments upon the demise and decease of the said Milo ¡3. Bullock, should it occur as aforesaid before October 1st, 1906.</p>
+                <p id="b290-5" pgmap="290">Witness our hands and seals this 2nd day of Febru­ary, 1906.</p>
+                <p id="b290-6" pgmap="290">Mrs. Caroline Bullock, [Seal.]</p>
+                <p id="b290-7" pgmap="290">Blanche Bullock Cone. [Seal.]</p>
+                <p id="b290-8" pgmap="290">Signed, sealed and delivered in the presence of</p>
+                <p id="b290-9" pgmap="290">Geo. J. Kuebler.”</p>
+                <p id="b290-10" pgmap="290">Milo S. Bullock was then ill and died March 7, 1906, intestate. His administrator recovered a judgment against plaintiffs in the Superior Court December 10, 1906, for $893.70, for the installments falling due under said agreement after March 1, 1906, and interest thereon. This judgment the plaintiffs in this action paid at once to the plaintiffs in the judgment and the judgment was satisfied. The recovery in this case was for the amount so paid by the plaintiffs in satisfaction of said judgment and interest thereon. The cause of action, as set out in plaintiffs’ statement of their de­mand, was for a breach of the instrument signed by the defendants, and the theory of the plaintiffs was, that said instrument was an agreement to indemnify plaint­iffs against any installments falling due after the death of Milo S. Bullock, under the agreement between plaint­iffs and Bullock, which they might be compelled to pay to his administrator. Both of said instruments were drawn by George J. Kuebler, an attorney who represented Bullock, and plaintiffs had no lawyer.</p>
+                <p id="b290-11" pgmap="290(74) 291(135)">Plaintiff Whitney testified, over the objection of de­fendants, that he estimated the value of Bullock’s in­terest in the co-partnership at $6,000, and that the in­tention of the parties, in “having said additional $1000, payable in installments, put in the agreement, was to assure to Milo S. Bullock an income of $125 per month for eight months or so long as he should live”. This testimony was clearly incompetent, and in construing the instrument sued on, will be disregarded. Whitney also testified, over the objection of the defendants, that after said instruments were drafted but before they were executed, “Kuebler informed said Wiitney that the effect of the same would be that said Whitney and Christenson would not have to pay any installments on said Exhibit 'A’ which would become due after the death of Milo S. Bullock”. Exhibit “A” is the instru­ment executed by the defendants. The instrument signed by plaintiffs and Bullock is Exhibit “B”. It is that agreement and not Exhibit “A” that obligated plaintiffs to pay certain installments to Milo S. Bullock. But if by any construction it can be held that Kuebler’s declaration referred to the installments falling due under Exhibit “B”, the evidence was incompetent and will also be disregarded.</p>
+                <p id="b291-4" pgmap="291">Said Wiitney also testified on behalf of plaintiffs, over objection of defendants, “that the reason (as understood between himself and Kuebler, before the execution of said instrument), that the provision to re­lease said Wiitney and Christenson from further pay­ments upon the death of the said Milo S. Bullock, was not incorporated in said agreement, ‘Exhibit B’, was owing to the critical illness of the said Bullock, and the desire of both the said "Whitney and the said Kue­bler to save said Bullock unnecessary worry over the transaction”.</p>
+                <p id="b291-5" pgmap="291">This evidence was also incompetent and will be dis­regarded.</p>
+                <p id="b291-6" pgmap="291">The obligations of defendants to plaintiffs are those created by the instrument they executed, and that in­strument affords the only evidence of its terms and conditions. Osgood v. Skinner, 211 Ill. 229.</p>
+                <p id="b291-7" pgmap="291">By the terms of that instrument defendants, ‘‘ agreed to release and discharge (plaintiffs) from any further payments of the installments (mentioned in the con­tract between plaintiffs and Milo S. Bullock) upon the demise of the said Milo S. Bullock should it occur as aforesaid before October 1st, 1906”.</p>
+                <p id="b292-4" pgmap="292">We know of no rule of construction under which this instrument can be held to be a covenant to indemnify the plaintiffs in case they should be compelled to pay to the personal representatives of Milo S. Bullock in­stallments falling due after the death of Bullock, under the contract between him and the plaintiffs. No doubt as a release the instrument was inoperative for a re­lease, “supposeth a right in being”, and defendants had no “right in being”, in the contract between plaint­iffs and Milo S. Bullock. But it does not follow that because the instrument is inoperative as a release, that it can be held to be a contract to indemnify plaintiffs in case they should be compelled to pay installments falling due after the death of Milo S. Bullock. To so hold would be to give a construction to the instrument not warranted by its language.</p>
+                <p id="b292-5" pgmap="292">In our opinion, the evidence discloses no right of action in the plaintiffs against the defendants on said instrument, and the judgment will therefore be re­versed with a finding of facts, and the cause will not be remanded.</p>
+                <p id="b292-6" pgmap="292">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="287" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jp2_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.2" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.1" BETYPE="IDREF" FILEID="alto_00144_0"/>
+              <area BEGIN="BL_287.3" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="288" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00144_1"/>
+        <fptr FILEID="jp2_00144_1"/>
+        <fptr FILEID="alto_00144_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.2" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.3" BETYPE="IDREF" FILEID="alto_00144_1"/>
+              <area BEGIN="BL_288.4" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="289" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00145_0"/>
+        <fptr FILEID="jp2_00145_0"/>
+        <fptr FILEID="alto_00145_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.3" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.2" BETYPE="IDREF" FILEID="alto_00145_0"/>
+              <area BEGIN="BL_289.4" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="290" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.2" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.3" BETYPE="IDREF" FILEID="alto_00145_1"/>
+              <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="291" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.2" BETYPE="IDREF" FILEID="alto_00146_0"/>
+              <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+              <area BEGIN="BL_291.9" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+              <area BEGIN="BL_292.3" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-14" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.20" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_288.1" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-11" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.16" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.15" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-13" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.19" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-12" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.17" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.9" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            <area BEGIN="BL_289.1" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.6" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.7" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.5" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.8" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.8" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-3" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.4" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.6" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.5" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.8" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.7" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.10" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_287.11" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.9" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-11" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.12" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.11" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-14" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.15" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.10" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.9" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.7" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.8" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.7" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.6" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.5" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsU" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.13" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_287.14" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asv" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.12" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-7" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-6" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.6" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-5" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-4" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-13" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.14" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.9" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-8" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.8" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-11" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.11" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-10" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.10" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al9" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.18" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-12" BETYPE="IDREF" FILEID="casebody_0036"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.13" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

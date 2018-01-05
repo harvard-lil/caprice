@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0089" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Ganey v. Hohlman">M. J. Ganey et al., Appellants, v. Edward Hohlman et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 467</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00243_0" MIMETYPE="image/tiff" CHECKSUM="b3275b0d2f9294b14d19972ef6044967" CHECKSUMTYPE="MD5" SIZE="44940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00243_0.tif"/>
+      </file>
+      <file ID="tiff_00243_1" MIMETYPE="image/tiff" CHECKSUM="952bfdfd1439bda2e4946b2623254a5c" CHECKSUMTYPE="MD5" SIZE="54962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00243_1.tif"/>
+      </file>
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="582c3d8d4b279278ce5ec6fb0c465294" CHECKSUMTYPE="MD5" SIZE="44760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00243_0" MIMETYPE="image/jp2" CHECKSUM="8a6adc16093f6a0a0454fce1a0b7ffa4" CHECKSUMTYPE="MD5" SIZE="2422539">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00243_0.jp2"/>
+      </file>
+      <file ID="jp2_00243_1" MIMETYPE="image/jp2" CHECKSUM="b7aa59a56b034d26e63b4b458128a403" CHECKSUMTYPE="MD5" SIZE="2479461">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00243_1.jp2"/>
+      </file>
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="3ee269b86f1d8034a11d4fa2a3542edc" CHECKSUMTYPE="MD5" SIZE="2421810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00243_0" MIMETYPE="text/xml" CHECKSUM="14fed9583ba993baa464b898116a3ef6" CHECKSUMTYPE="MD5" SIZE="74794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00243_0.xml"/>
+      </file>
+      <file ID="alto_00243_1" MIMETYPE="text/xml" CHECKSUM="da99c9e00d24f7557681c067fe1eec8a" CHECKSUMTYPE="MD5" SIZE="86441">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00243_1.xml"/>
+      </file>
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="db33521d3678876fc8c20a0542fcfb43" CHECKSUMTYPE="MD5" SIZE="80856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00244_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0089" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="469" firstpage="467">
+              <parties id="b485-4" pgmap="485">M. J. Ganey et al., Appellants, v. Edward Hohlman et al., Appellees.</parties>
+              <decisiondate id="AXV" pgmap="485">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b485-7" pgmap="485">Amos Miller, L. V. Hill and Jesse Peebles, for ap­pellants.</attorneys>
+              <attorneys id="b485-8" pgmap="485">Jett &amp; Kinder, for appellees.</attorneys>
+              <summary id="b485-6" pgmap="485">Action of debt. Appeal from the Circuit Court of Montgomery county; the Hon. Samuel L. Dwight, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aua" pgmap="485">Reversed and remanded.</disposition>
+              <headnotes id="b485-5" pgmap="485">Principal and surety—when alteration of original undertaking does not release latter. Where the alterations in the terms of a contract did not operate to the prejudice of the surety, or put him in worse position, or increase his risk, or impair the ultimate liabil­ity over to him, such alteration does not operate by way of dis­charge.</headnotes>
+              <opinion type="majority">
+                <author id="b485-9" pgmap="485">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AvTg" pgmap="485">delivered the opinion of the court.</p>
+                <p id="b485-10" pgmap="485(160) 486(71)">This is an action of debt on a penal bond in the sum of $2,000 executed by appellees Mohlman and Mil-­nor, to appellants, conditioned upon the faithful per­formance by Mohlman of a certain contract entered into contemporaneously therewith between appellants and Mohlman, by the terms of which Mohlman agreed to furnish all the material and do all the work neces­sary in the construction of two brick buildings in the city of Gillespie, according to certain plans and speci­fications. The breach of the bond charged in the dec­laration is that appellee Mohlman did not pay for all the material necessary to complete the two buildings, by reason whereof appellants were compelled to pay for such materials the sum of $1,404.93. Both defend­ants filed pleas alleging performance and denying that the plaintiffs had been compelled to furnish or pay for materials as alleged. Appellant Milnor filed two further pleas, alleging, first, that the plans and speci­fications had been modified and changed by the parties to the contract, without his knowledge, whereby he was released; and second, that he had notified appel­lants not to pay Mohlman any further sums on account of said buildings until all materials had been paid for, and that at the time of such notice there was more money due to Mohlman from appellants than they had since been compelled to pay.</p>
+                <p id="b486-5" pgmap="486">Issue was joined on the several pleas, and a trial had before the court without a jury, resulting in a judgment against appellees in debt for $2,000, and for $1 damages. The evidence discloses that Ganey and the bank owned adjoining lots having a total frontage of 66 feet, upon which they arranged to erect two buildings jointly, that of the bank to be 20 feet and that of Ganey to be forty-six feet in width. Plans and specifications were prepared, and the contract for erecting the buildings let to Mohlman at $9,998.77, of which the bank was to pay $3,666.97 and Ganey $6,331-­.80. Before work was begun on the buildings, it was decided to build the bank building two feet narrower, which was done. With this exception the buildings were completed in accordance with the original plans and specifications. Thereafter additional work was done by Mohlman upon both buildings, the materials for which were paid for by him. Mohlman failed, however, to pay a balance of $1,000 due for lumber used in filling the original contract, and a decree for a lien for that amount was obtained against appellants, which they were compelled to pay, together with the sum of $301.32 costs of the proceeding.</p>
+                <p id="b486-6" pgmap="486(76) 487(158)">We are of opinion that the change in the contract whereby the width of the bank building was lessened two feet, did not serve to release the surety Milnor upon his bond. The evidence shows that although as a result of the change, the actual cost to Mohlman, the contractor, was less than had he built the building the full width prescribed by the original contract, he was paid the full original price therefor. The altera­tion in the terms of the contract did not operate to the prejudice of the surety, or put him in worse posi­tion, or increase his risk, or impair the ultimate lia­bility over to Mohlman to him, one or more of which elements must be present before a surety will be re­leased. Appellees contend that inasmuch as the con­tract and the bond did not state specifically that the contractor was to pay for the materials, but used the words “furnish all the material and labor therefor,” Mohlman was under no obligation to pay for the ma­terials, and consequently there was no breach of the bond. We construe the language quoted to mean that Mohlman was to furnish the materials necessary, free of cost to appellants. In the cases cited by appellees in support of the contrary view, it will be observed that the actions were brought by or for the benefit of third parties.</p>
+                <p id="b487-5" pgmap="487">Under the foregoing views it will be unnecessary to determine the sufficiency of the cross errors assigned.</p>
+                <p id="b487-6" pgmap="487">The judgment will be reversed and the cause re­manded.</p>
+                <p id="b487-7" pgmap="487">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="485" ORDERLABEL="467" TYPE="page">
+        <fptr FILEID="tiff_00243_0"/>
+        <fptr FILEID="jp2_00243_0"/>
+        <fptr FILEID="alto_00243_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.2" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.1" BETYPE="IDREF" FILEID="alto_00243_0"/>
+              <area BEGIN="BL_485.3" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="486" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00243_1"/>
+        <fptr FILEID="jp2_00243_1"/>
+        <fptr FILEID="alto_00243_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.2" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.3" BETYPE="IDREF" FILEID="alto_00243_1"/>
+              <area BEGIN="BL_486.4" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="487" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.2" BETYPE="IDREF" FILEID="alto_00244_0"/>
+              <area BEGIN="BL_487.4" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-10" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.16" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_486.1" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXV" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.9" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.10" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.6" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.5" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvTg" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.14" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.15" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.5" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-4" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.4" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-7" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.11" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.6" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.7" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-7" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.7" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-6" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.6" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-5" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.5" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-9" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.13" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-8" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.12" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aua" BETYPE="IDREF" FILEID="casebody_0089"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.8" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

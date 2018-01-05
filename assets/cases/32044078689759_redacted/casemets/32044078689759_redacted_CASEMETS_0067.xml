@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0067" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Molway v. City of Chicago">Alfred Molway, Appellee, v. City of Chicago, Appellant</name>
+          <docketnumber>Gen. No. 14,161</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 509</citation>
+          <decisiondate>1908-11-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00263_0" MIMETYPE="image/tiff" CHECKSUM="efd6d2f277013441b441701572815497" CHECKSUMTYPE="MD5" SIZE="47192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00263_0.tif"/>
+      </file>
+      <file ID="tiff_00263_1" MIMETYPE="image/tiff" CHECKSUM="2f5142fb8c23ff6c8667d7eaeb54ebd9" CHECKSUMTYPE="MD5" SIZE="46902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00263_1.tif"/>
+      </file>
+      <file ID="tiff_00264_0" MIMETYPE="image/tiff" CHECKSUM="f128d37576143bcf5331ffe0709682ca" CHECKSUMTYPE="MD5" SIZE="51118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00264_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00263_0" MIMETYPE="image/jp2" CHECKSUM="22b765e619125f54b78e7da8d903d4c4" CHECKSUMTYPE="MD5" SIZE="2342081">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00263_0.jp2"/>
+      </file>
+      <file ID="jp2_00263_1" MIMETYPE="image/jp2" CHECKSUM="da7ad16a14e6273f960345a032190eb5" CHECKSUMTYPE="MD5" SIZE="2299684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00263_1.jp2"/>
+      </file>
+      <file ID="jp2_00264_0" MIMETYPE="image/jp2" CHECKSUM="2682564026521fef35c0cd955bddb59b" CHECKSUMTYPE="MD5" SIZE="2373911">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00264_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00263_0" MIMETYPE="text/xml" CHECKSUM="60f1ec3725c084ae84f5e16900530af9" CHECKSUMTYPE="MD5" SIZE="88577">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00263_0.xml"/>
+      </file>
+      <file ID="alto_00263_1" MIMETYPE="text/xml" CHECKSUM="b36257051b4f1255744525e71cf00661" CHECKSUMTYPE="MD5" SIZE="85148">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00263_1.xml"/>
+      </file>
+      <file ID="alto_00264_0" MIMETYPE="text/xml" CHECKSUM="b5506608351426c89eacaaf4714d80e8" CHECKSUMTYPE="MD5" SIZE="85857">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00264_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0067" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="511" firstpage="509">
+              <docketnumber pgmap="525" id="ApD5">Gen. No. 14,161.</docketnumber>
+              <parties pgmap="525" id="b525-3">Alfred Molway, Appellee, v. City of Chicago, Appellant.</parties>
+              <decisiondate pgmap="525" id="A08">Opinion filed November 6, 1908.</decisiondate>
+              <otherdate pgmap="525" id="AA-">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <attorneys pgmap="525" id="b525-10">Edward J. Brundage and John R. Caverly, for ap­pellant; George L. Reker and Edward C. Fitch, of counsel.</attorneys>
+              <attorneys pgmap="526" id="b526-4">Horton, Brown &amp; Miller, for appellee.</attorneys>
+              <summary pgmap="525" id="b525-7">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Robert W. Wright, Judge, presid­ing.</summary>
+              <disposition pgmap="525" id="AZG">Affirmed.</disposition>
+              <headnotes pgmap="525" id="b525-4">1. Streets—what ordinary travel. A person riding a bicycle upon a public street is using it for the purposes of ordinary travel and to such a person a municipality owes the duty to use ordinary care to keep the street in reasonably safe condition.</headnotes>
+              <headnotes pgmap="525" id="b525-5">2. Streets—how question of exercise of care by municipality determined. Whether the street in question, with a hole in the roadway a foot or fifteen inches deep, with sloping sides, was or was not reasonably safe for ordinary travel thereon, is a question of fact to be determined by the jury.</headnotes>
+              <headnotes pgmap="525" id="b525-6">3. Verdict—when not excessive. A verdict for $6,000 in an action for personal injuries is not excessive where it appears that as a result of the accident the plaintiff, whose left leg had thereto­fore been amputated below the knee, sustained a permanent dis­location to the hip of his right leg.</headnotes>
+              <p pgmap="525" id="b525-8">Statement Tb&gt;y the Court. In an action on the case for personal injuries plaintiff had judgment for $6,000 and the defendant appealed.</p>
+              <p pgmap="525" id="b525-9">In Wells street, Chicago, was an asphalt pavement. In this pavement there was at the time plaintiff was injured a hole twelve or fifteen inches deep, eighteen inches wide and three feet long. Plaintiff at the time of his injury was fifteen years old. Six years before his left leg had been amputated, three inches below the knee. Not knowing that there was such a hole in the pavement, he rode his bicycle into it, when it was quite dark, was thrown from his bicycle and in his fall sustained the injuries complained of. The hole into which he rode had been in the pavement two or three months before the accident.</p>
+              <opinion type="majority">
+                <author pgmap="526" id="b526-5">Mr. Justice Baker</author>
+                <p pgmap="526" id="AMe">delivered the opinion of the court.</p>
+                <p pgmap="526" id="b526-6">The defendant asked the court to instruct the jury, “that ordinary travel does not include the use of a street by one riding a bicycle thereon, * * * that a person when riding’ a bicycle on a street is not using said street for the purpose of ordinary travel thereon”, and the court refused to so instruct the jury.</p>
+                <p pgmap="526" id="b526-7">_ Plaintiff had a right to ride his bicycle in a public street, and a bicycle is a vehicle. N. C. S. R. R. Co. v. Cossar, 203 Ill. 608. It is a matter of common knowledge that bicycles have for many years been in common use on the streets of Chicago and other cities. We think the court did not err in refusing to give said instruction.</p>
+                <p pgmap="526" id="b526-8">The court also refused to give for the defendant the following instruction:</p>
+                <blockquote pgmap="526" id="b526-9">“If you believe from the evidence that the street in question at the time and place of the alleged accident was reasonably safe for ordinary travel thereon by persons riding in vehicles, such as wagons, carriages and other similar vehicles, then you are instructed that you should find the defendant, City of Chicago, not guilty, whether you believe that said street at said time and place was or was not reasonably safe for travel by a person riding a bicycle thereon. ’’</blockquote>
+                <p pgmap="526" id="b526-10">The duty of the city to use reasonable care to keep its streets in a reasonably safe condition for use as a street as a highway, is a general duty owing to all who use the street as a street, as a highway, for travel in ordinary modes. Bicycles are in common use, and th® rider of a bicycle in a public street must, we think, be held to use the street as a street for travel in an ordi­nary mode. It follows that, in our opinion, the in­struction was properly refused.</p>
+                <p pgmap="526(9) 527(150)" id="b526-11">The court for the defendant instructed the jury that the plaintiff could not recover unless they believed that it had been proven by the preponderance of the evidence, “that the street in question, at the time and place of the alleged accident, was not reasonably safe for ordinary travel thereon by persons exercising due care and caution for their safety”, and also that: “A city is not bound under the law to keep its streets absolutely safe, nor is it bound under the law to keep them in reasonably safe condition; it is only bound to use reasonable care to keep its streets reasonably safe for ordinary travel thereon by persons using due care and caution for their own safety.” The jury must under these instructions find, in order to find the de­fendant guilty, that the street in question was not “reasonably safe for ordinary travel thereon by per­sons exercising due care and caution for their safety.”</p>
+                <p pgmap="527" id="b527-4">Whether the street in question, with a hole in the roadway a foot or fifteen inches deep, with sloping sides, was or was not reasonably safe for ordinary travel thereon, was a question of fact for the jury on which their verdict must be held conclusive on us.</p>
+                <p pgmap="527" id="b527-5">It is further contended that the damages are excess­ive. In his fall from the bicycle, plaintiff’s left hip was injured. His left leg had before that time been amputated below the knee. The injuries to his hip consisted of a fracture of the back lip of the acetabu­lum, the cavity in the hip bone which receives the head, of the thigh bone, and a dislocation of the hip joint. As a result the hip joint is fixed, rigid; the thigh bone is shortened one inch, the muscles of the thigh are somewhat atrophied, so that his left thigh is now five inches smaller than his right, and his condition can­not be remedied.</p>
+                <p pgmap="527" id="b527-6">We cannot say that for such injuries, followed by such consequences, the damages are excessive.</p>
+                <p pgmap="527" id="b527-7">The record is, we think, free from error, and the judgment of the Superior Court will be affirmed.</p>
+                <p pgmap="527" id="b527-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="525" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00263_0"/>
+        <fptr FILEID="jp2_00263_0"/>
+        <fptr FILEID="alto_00263_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.1" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_525.2" BETYPE="IDREF" FILEID="alto_00263_0"/>
+              <area BEGIN="BL_525.3" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="526" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00263_1"/>
+        <fptr FILEID="jp2_00263_1"/>
+        <fptr FILEID="alto_00263_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.1" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_526.2" BETYPE="IDREF" FILEID="alto_00263_1"/>
+              <area BEGIN="BL_526.3" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="527" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00264_0"/>
+        <fptr FILEID="jp2_00264_0"/>
+        <fptr FILEID="alto_00264_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.2" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_527.3" BETYPE="IDREF" FILEID="alto_00264_0"/>
+              <area BEGIN="BL_527.4" BETYPE="IDREF" FILEID="alto_00264_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApD5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.5" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.10" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA-" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.11" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_525.12" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.7" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A08" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.14" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.17" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMe" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.6" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            <area BEGIN="BL_526.7" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.9" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-3" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.4" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.11" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.9" BETYPE="IDREF" FILEID="alto_00263_0"/>
+            <area BEGIN="BL_525.10" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.8" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.7" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.6" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.6" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.5" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-9" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.16" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b525-8" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.15" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.4" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.5" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.8" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.9" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZG" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_525.13" BETYPE="IDREF" FILEID="alto_00263_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-10" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.12" BETYPE="IDREF" FILEID="alto_00263_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b526-11" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_526.13" BETYPE="IDREF" FILEID="alto_00263_1"/>
+            <area BEGIN="BL_527.1" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b527-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_527.8" BETYPE="IDREF" FILEID="alto_00264_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

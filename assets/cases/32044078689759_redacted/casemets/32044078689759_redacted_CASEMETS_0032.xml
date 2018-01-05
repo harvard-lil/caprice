@@ -1,0 +1,738 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0032" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People ex rel. Johnson v. Blake">The People of the State of Illinois, ex rel. B. R. John­son, Plaintiff in Error, v. Daniel Blake, Defendant in Error</name>
+          <docketnumber>Gen. No. 5,032</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 246</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="e88647443379e49ca3adbb539df3e461" CHECKSUMTYPE="MD5" SIZE="42368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_1.tif"/>
+      </file>
+      <file ID="tiff_00132_0" MIMETYPE="image/tiff" CHECKSUM="696fa3bf1c1c8589e388169b4bc87b53" CHECKSUMTYPE="MD5" SIZE="45544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00132_0.tif"/>
+      </file>
+      <file ID="tiff_00132_1" MIMETYPE="image/tiff" CHECKSUM="6975a27e4a20bb4a8fe995016af6508b" CHECKSUMTYPE="MD5" SIZE="53536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00132_1.tif"/>
+      </file>
+      <file ID="tiff_00133_0" MIMETYPE="image/tiff" CHECKSUM="c8ba0e90ce12518c2b7e54457b3326c1" CHECKSUMTYPE="MD5" SIZE="57460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00133_0.tif"/>
+      </file>
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="e86e6c832f58107e2149bbbc1cb16d0a" CHECKSUMTYPE="MD5" SIZE="52460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="e39afcb6ddf2b58292315493621ad0b7" CHECKSUMTYPE="MD5" SIZE="53292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00134_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00131_1" MIMETYPE="image/jp2" CHECKSUM="b38d065bff4c37612122234789dfc732" CHECKSUMTYPE="MD5" SIZE="2289807">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_1.jp2"/>
+      </file>
+      <file ID="jp2_00132_0" MIMETYPE="image/jp2" CHECKSUM="f766cadc2becdd125058175d83b6285c" CHECKSUMTYPE="MD5" SIZE="2384397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00132_0.jp2"/>
+      </file>
+      <file ID="jp2_00132_1" MIMETYPE="image/jp2" CHECKSUM="00933f0e928bc3cb44cc78a165e9f7e0" CHECKSUMTYPE="MD5" SIZE="2363946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00132_1.jp2"/>
+      </file>
+      <file ID="jp2_00133_0" MIMETYPE="image/jp2" CHECKSUM="99006e66506ee953a150c7511c2d5ac6" CHECKSUMTYPE="MD5" SIZE="2437060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00133_0.jp2"/>
+      </file>
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="c3d1213d7af2ccaf335b9361fca868e6" CHECKSUMTYPE="MD5" SIZE="2379895">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="91dff6f68a78104fa9e6384611dba95c" CHECKSUMTYPE="MD5" SIZE="2412351">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00134_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00131_1" MIMETYPE="text/xml" CHECKSUM="da33fcd4d438e68052f4f6f8bf0e1de6" CHECKSUMTYPE="MD5" SIZE="78535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00131_1.xml"/>
+      </file>
+      <file ID="alto_00132_0" MIMETYPE="text/xml" CHECKSUM="333da806bd552c882cdd1fdac47cde50" CHECKSUMTYPE="MD5" SIZE="85579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00132_0.xml"/>
+      </file>
+      <file ID="alto_00132_1" MIMETYPE="text/xml" CHECKSUM="a733fe5b16bdf6dd77124931141b9275" CHECKSUMTYPE="MD5" SIZE="93660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00132_1.xml"/>
+      </file>
+      <file ID="alto_00133_0" MIMETYPE="text/xml" CHECKSUM="3f3170185dcff46029fa46c11edac71a" CHECKSUMTYPE="MD5" SIZE="95936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00133_0.xml"/>
+      </file>
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="41509a85658443b204ee074afcca0d2f" CHECKSUMTYPE="MD5" SIZE="89229">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="98bbbc1c4b5951d620e3354019c610d5" CHECKSUMTYPE="MD5" SIZE="91700">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00134_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="251" firstpage="246">
+              <docketnumber pgmap="262" id="b262-10">Gen. No. 5,032.</docketnumber>
+              <parties pgmap="262" id="b262-9">The People of the State of Illinois, ex rel. B. R. John­son, Plaintiff in Error, v. Daniel Blake, Defendant in Error.</parties>
+              <decisiondate pgmap="263" id="Aa0">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="263" id="ALM">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="263" id="b263-5">A. C. Ball, State’s Attorney, and A. C. Norton, for plaintiff in error.</attorneys>
+              <attorneys pgmap="263" id="b263-6">White &amp; Tuesburg, for defendant in error.</attorneys>
+              <summary pgmap="263" id="b263-4">Petition for quo warranto. Error to the Circuit Court of Liv­ingston county; the Hon. Geobge W. Patton, Judge, presiding.</summary>
+              <disposition pgmap="263" id="AZ2">Reversed and re­manded with directions.</disposition>
+              <headnotes pgmap="262" id="b262-11">1. Constitutional law—who ineligible to hold state office. Any person holding under the United States government the office of post-master with an annual compensation in excess of $300 is ineligible to hold at the same time the office of president of the village board of trustees.</headnotes>
+              <headnotes pgmap="262" id="b262-12">2. Quo wabbanto—what essential to right to file information. Only probable cause is required to be shown to entitle a proper application for leave to file an information; unless an absolute showing is made against the application, leave should be granted.</headnotes>
+              <headnotes pgmap="262" id="b262-13">3. Quo wabbanto—what should not be determined upon applicar tion for leave to file information. While affidavits and counter-­affidavits may properly be heard upon an application for leave to file an information, the court should not, upon such preliminary hearing, try or determine the merits of the controversy.</headnotes>
+              <headnotes pgmap="262(9) 263(28)" id="b262-14">4. State’s attorney—when presence of, at proceedings not es­sential. Proceedings which are required by law to be conducted in the name of the attorney-general or the state’s attorney, may be conducted by others in his behalf.</headnotes>
+              <opinion type="majority">
+                <author pgmap="263" id="b263-7">Mr. Justice Willis</author>
+                <p pgmap="263" id="A0j">delivered the opinion of the court.</p>
+                <p pgmap="263" id="b263-8">This is an appeal from the Circuit Court of Livings­ton county to reverse the judgment of that court in re­fusing to grant leave to A. C. Ball, state’s attorney of Livingston county, at the relation of B. R. Johnson, to file an information in the nature of quo warranto against Daniel W. Blake, appellee, to have him show by what right he claims to hold and execute the duties of the office of president of the board of trustees of the vil­lage of Cornell in Livingston county.</p>
+                <p pgmap="263" id="b263-9">On May 25, 1907, the following petition was filed in the Circuit Court of said county:</p>
+                <blockquote pgmap="263" id="b263-10">"State oe Illinois, / Circuit Court Livingston county, I ss‘ May Term, A. D. 1907.</blockquote>
+                <blockquote pgmap="263(118) 264(18)" id="b263-11">Now comes A. C. Ball, State’s Attorney in and for said county of Livingston and State of Illinois, on the relation of B. R. Johnson, and shows to this Honorable Court that one Daniel W. Blake has since the 6th day of May, 1907, in the county aforesaid unlawfully held and executed, and still does hold and execute, without any warrant or right whatever, the office of President of the Board of Trustees of the village of Cornell, an incorporated village of said county and state; and in support of said showing presents herewith the affidavit of B. R. Johnson hereto attached and made part hereof, and asks leave of the court for leave to file an infer­mation in nature of a quo warranto in the name of the people of the State of Illinois.</blockquote>
+                <blockquote pgmap="264" id="b264-5">(Signed) A. C. Ball,</blockquote>
+                <blockquote pgmap="264" id="b264-6">State’s Attorney for Livingston county.”</blockquote>
+                <p pgmap="264" id="AdU">With the above petition was the affidavit of B. B. Johnson, relator, the body of which was as follows:</p>
+                <blockquote pgmap="264" id="A9u">“B. B. Johnson on oath states that he is and has been for many years last past, a resident of and a qualified voter in the village of Cornell, an incorporated village situated in the county of Livingston and State of Illi­nois.</blockquote>
+                <blockquote pgmap="264" id="b264-7">“Affiant further states that on the 16th day of April, 1907, a village election for the election of a presi­dent of the Board of Trustees of said village was held in said village of Cornell, and at said election one Dan­iel W. Blake was declared elected to the office of presi­dent of the Board of Trustees, and that afterwards or about the 6th day of May, 1907, the said Daniel W. Blake qualified, took the oath of office as such president of the Board of Trustees of the said village of Cornell, and began exercising the office of president of the said Board of Trustees of said village, and has ever since been and is still acting as such.</blockquote>
+                <blockquote pgmap="264" id="b264-8">“Affiant further states that on the 16th day of April, 1907, and for several years continuously prior thereto, and from that time down to the present, the said Daniel W. Blake has continuously held, and still holds, an office under the Government of the' United States, said office being that of postmaster, at the post-­office of Cornell in said county and state.</blockquote>
+                <blockquote pgmap="264" id="b264-9">“Affiant further states that for several years last past and at the present time, the annual compensation of said Daniel W. Blake, as such postmaster, has ex­ceeded the sum of $300 and still exceeds that sum; and the said Daniel W. Blake, while exercising the office of president of the Board of Trustees of said village has at the same time been, and was for a long time prior thereto, holding the said office of postmaster, and is still holding and exercising the same.”</blockquote>
+                <p pgmap="264(20) 265(37)" id="b264-10">On June 6, 1907, a rule was entered requiring ap­pellee to show cause by June 10, why leave should not be granted to appellant to file said information. On June 10, appellee appeared by counsel to resist the granting of leave to file the information, and filed an affidavit, the body of which was as follows:</p>
+                <blockquote pgmap="265" id="b265-5">“Daniel W. Blake, being duly sworn, on oath states that he is the Daniel W. Blake, who is the deféndant in the above entitled cause and affiant states that on the 16th day of April, 1907, he was elected to the office of president of the Board of Trustees of the village of Cornell, in the county and state aforesaid, and that on or about the 6th day of May, 1907, he duly qualified and took the oath of office as such president and began exercising and is now exercising the office of presi­dent of the Board of Trustees of said village.</blockquote>
+                <blockquote pgmap="265" id="b265-6">“Affiant further states that he is now and has been for several years last past, postmaster of the said vil­lage of Cornell.</blockquote>
+                <blockquote pgmap="265" id="b265-7">“Affiant further states that neither at the present time nor during any of the several years during which he has been such posmaster, has the net annual com­pensation as such postmaster, after paying clerk hire and other expenses of said office, exceeded the sum of $300 per annum, but that for each year during which he has held said office, the said net compensation has been less than $300 per annum.”</blockquote>
+                <p pgmap="265" id="b265-8">Leave was given by the court to file additional af­fidavits by appellee and to appellant to reply. Appel­lee filed affidavits showing that the relator was pres­ent at the meeting of the board of village trustees and concurred in the action of approving the bond of ap­pellee and in other official matters of appellee. He also filed affidavit showing the receipts of the office of postmaster, and giving the various items, also af­fidavit showing the rental value of the property occu­pied by the post-office and the reasonable value of clerk hire, etc., about the conducting of the post-office.</p>
+                <p pgmap="265(56) 266(24)" id="b265-9">Appellant filed affidavits denying the statements in affidavits of appellee in regard to the rental value of the post-office and the necessity of clerk hire and other things. Motions were made to strike all the affidavits from the files and after the hearing upon the affidavits the court took the case under advisement and on De­cember 14, 1907, denied the prayer of the petition and refused leave to the appellant to file the information and gave the following reasons:</p>
+                <p pgmap="266" id="b266-5">First, because the state’s attorney at no time ap­peared in said cause and had no connection with it observable to the court, except signing the petition; second, the evidence fails to show the net salary of the defendant, and if it has at any time equaled $300. To the order of the court in denying the leave appellant excepted, and prayed an appeal to this court, which was allowed.</p>
+                <p pgmap="266" id="b266-6">The petition, as filed by state’s attorney A. C. Ball, was in the proper form and the affidavit of the relator B. R. Johnson stated that appellee held and executed the office of the president of the village board of trus­tees, and was at the same time holding and executing the office of postmaster of the village of. Cornell. The Constitution of the State of Illinois, article 4, section 3 provides: “Nor shall any person holding any office of honor or profit under any foreign government or under the government of the United States, except postmaster (whose annual compensation does not ex­ceed the sum of $300) hold any office of honor or profit under the authority of this state.”</p>
+                <p pgmap="266" id="b266-7">Appellee admitted in his affidavit that he held two offices, but denied that his net annual compensation as postmaster was over $300, and from the other affidavits filed an issue of fact was raised, and upon which there was dispute, and as our statute only requires probable grounds for granting leave to file the information, we think leave should have been given to file the informa­tion, as this was shown by the affidavit.</p>
+                <p pgmap="266" id="b266-8">While it is the proper practice to file affidavits and counter affidavits on the motion for leave to file an information (People ex rel. v. North Chicago Railway Company, 88 Ill. 537, People ex rel. Lewis v. Waite, 70 Ill. 25), the merits of the case should not be tried on the preliminary hearing.</p>
+                <p pgmap="266(21) 267(87)" id="b266-9">The law is that when the rule nisi is entered unless cause is shown such as puts the matter beyond dispute the court should make the rule absolute for the infor­mation in order that the question concerning the right may be properly determined (17 Ency. Pleading and Practice, 451; Attorney General v. C. &amp; E. R. R. Co., 112 Ill. 520-535); then the case can be heard and tried the same as any other case when the evidence may be produced by witnesses and cross-examination be al­lowed. It is therefore unnecessary for us to express any opinion on the merits of the case on this appeal.</p>
+                <p pgmap="267" id="b267-5">There is another question which demands our con­sideration, that of the parties and the conduct of a proceeding of this kind. Our statute permits no case of this kind to be instituted except by the attorney-­general of the state, or the state’s attorney of the county in which it is brought. From this provision the trial court evidently thought it was the duty of the state’s attorney to prosecute this case in person. In this he is mistaken. It is only necessary that the case shall be carried on in the name and by the authority of the People of the State of Illinois and as long as it is carried on in the name of the People under the name of the state’s. attorney, it is immaterial whether he is personally present at all proceedings in the case or not. Chesshire v. People ex rel., 116 Ill. 493-500; Mc­Gahan v. People ex rel. Deneen, 191 Ill. 493.</p>
+                <p pgmap="267" id="b267-6">The petition in this case and the proceedings were according to law. This was a proceeding in which the public was interested, and the mere fact that there was a relator and another attorney in the case would make no difference. The state’s attorney had a right to let his name be used in the proceeding if he thought proper, and to do as little or much in the actual trial of the case as he deemed proper, and the court erred in holding that he had to be personally present to con­duct this proceeding.</p>
+                <p pgmap="267" id="b267-7">The judgment of the Circuit Court is reversed and the cause remanded with directions to the Circuit Court to grant leave to appellant to file the information.</p>
+                <p pgmap="267" id="b267-8">Reversed and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="262" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jp2_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.3" BETYPE="IDREF" FILEID="alto_00131_1"/>
+              <area BEGIN="BL_262.4" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="263" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00132_0"/>
+        <fptr FILEID="jp2_00132_0"/>
+        <fptr FILEID="alto_00132_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.2" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_263.3" BETYPE="IDREF" FILEID="alto_00132_0"/>
+              <area BEGIN="BL_263.4" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="264" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00132_1"/>
+        <fptr FILEID="jp2_00132_1"/>
+        <fptr FILEID="alto_00132_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.2" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_264.3" BETYPE="IDREF" FILEID="alto_00132_1"/>
+              <area BEGIN="BL_264.4" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="265" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00133_0"/>
+        <fptr FILEID="jp2_00133_0"/>
+        <fptr FILEID="alto_00133_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.3" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_265.2" BETYPE="IDREF" FILEID="alto_00133_0"/>
+              <area BEGIN="BL_265.4" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="266" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.2" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.3" BETYPE="IDREF" FILEID="alto_00133_1"/>
+              <area BEGIN="BL_266.4" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.4" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.2" BETYPE="IDREF" FILEID="alto_00134_0"/>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.9" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.8" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.5" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-14" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.14" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            <area BEGIN="BL_263.1" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ2" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.7" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            <area BEGIN="BL_263.8" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9u" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.8" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.7" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.9" BETYPE="IDREF" FILEID="alto_00133_0"/>
+            <area BEGIN="BL_266.1" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.5" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.5" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdU" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.7" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0j" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.13" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            <area BEGIN="BL_263.14" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.6" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.11" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.10" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.6" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.7" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.17" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.18" BETYPE="IDREF" FILEID="alto_00132_0"/>
+            <area BEGIN="BL_264.1" BETYPE="IDREF" FILEID="alto_00132_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.9" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_267.1" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.8" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.5" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.9" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.6" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b264-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_264.12" BETYPE="IDREF" FILEID="alto_00132_1"/>
+            <area BEGIN="BL_265.1" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-13" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.13" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.12" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.11" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.10" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALM" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.6" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.15" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.16" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.11" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.12" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.5" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b263-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.10" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.6" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.7" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b265-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_265.8" BETYPE="IDREF" FILEID="alto_00133_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa0" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_263.9" BETYPE="IDREF" FILEID="alto_00132_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0083" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Miller v. Kelly Coal Co.">Joseph Miller, Appellee, v. Kelly Coal Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 452</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="c5209e5a6c40340759245fd3dfdf9d3e" CHECKSUMTYPE="MD5" SIZE="45992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_1.tif"/>
+      </file>
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="dda3a8124f906f6acdca4b1ae44ee7ef" CHECKSUMTYPE="MD5" SIZE="50230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="fbe8536fd768e8c89f5e71a804a6f4c4" CHECKSUMTYPE="MD5" SIZE="51812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00236_1.tif"/>
+      </file>
+      <file ID="tiff_00237_0" MIMETYPE="image/tiff" CHECKSUM="635d6921539e2d4e4979df962f98a036" CHECKSUMTYPE="MD5" SIZE="43834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="1456493e9afd877791bf01ae7ae3ee4c" CHECKSUMTYPE="MD5" SIZE="2401076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_1.jp2"/>
+      </file>
+      <file ID="jp2_00236_0" MIMETYPE="image/jp2" CHECKSUM="4a48fcc11590b3832c39c18924a7253e" CHECKSUMTYPE="MD5" SIZE="2486265">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00236_0.jp2"/>
+      </file>
+      <file ID="jp2_00236_1" MIMETYPE="image/jp2" CHECKSUM="7d25cb0751d23537bf86c3a3315c280e" CHECKSUMTYPE="MD5" SIZE="2438385">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00236_1.jp2"/>
+      </file>
+      <file ID="jp2_00237_0" MIMETYPE="image/jp2" CHECKSUM="2578263dae28f2887d8647319f50558d" CHECKSUMTYPE="MD5" SIZE="2397301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00237_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="899201001856ca0e0f99c5c8f5988c69" CHECKSUMTYPE="MD5" SIZE="79583">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00235_1.xml"/>
+      </file>
+      <file ID="alto_00236_0" MIMETYPE="text/xml" CHECKSUM="e41d68d795a6fbbc065d40764d75c98d" CHECKSUMTYPE="MD5" SIZE="83130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00236_0.xml"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml" CHECKSUM="7a5505f40e810b40735c3e88e8cc593e" CHECKSUMTYPE="MD5" SIZE="91450">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00236_1.xml"/>
+      </file>
+      <file ID="alto_00237_0" MIMETYPE="text/xml" CHECKSUM="2281c6916a7e2d42c8de1fc8b1ae67cb" CHECKSUMTYPE="MD5" SIZE="74798">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00237_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0083" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="455" firstpage="452">
+              <parties id="b470-7" pgmap="470">Joseph Miller, Appellee, v. Kelly Coal Co., Appellant.</parties>
+              <decisiondate id="AtRs" pgmap="471">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b471-5" pgmap="471">Buckingham &amp; Troup, for appellant.</attorneys>
+              <attorneys id="b471-6" pgmap="471">S. F. Schecter and Acton &amp; Acton, for appellee.</attorneys>
+              <summary id="b470-11" pgmap="470(10) 471(21)">Action in case for personal injuries. Appeal from the Circuit Court of Vermilion county; the Hon. E. R E. Kimbrough, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A9n" pgmap="471">Affirmed.</disposition>
+              <headnotes id="b470-8" pgmap="470">1. Proximate cause—defined. The proximate cause of an injury is that act or omission which immediately causes and without which the injury would not have happened, notwithstanding other conditions or omissions concurred therewith.</headnotes>
+              <headnotes id="b470-9" pgmap="470">2. Negligence—what does not excuse. The presence of a con­curring or intervening cause does not excuse liability for negli­gence which proximately results in the injury.</headnotes>
+              <headnotes id="b470-10" pgmap="470">3. Master and servant—what risk not assumed. No duty of inspection or inquiry is imposed upon the servant, and he has the right, in the absence of knowledge or means of knowledge to the contrary, to assume that the master would not supply him with im­proper means to perform his work, as in this case a vicious mule.</headnotes>
+              <opinion type="majority">
+                <author id="b471-7" pgmap="471">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AStf" pgmap="471">delivered the opinion of the court.</p>
+                <p id="b471-8" pgmap="471">This is an action in case by appellee against the ap­pellant corporation to recover damages for personal injuries sustained by appellee while working as a mule driver in appellant’s mine. The jury returned a ver­dict in favor of appellee and assessed his damages at $3,000. Judgment was rendered thereon. To reverse such judgment this appeal is prosecuted. The first count of the declaration under which the verdict was returned alleged in substance, that appellee on May 31, 1907, was working for defendant as a mule driver and in the usual course of his employment was engaged in hauling coal along the sixth northwest entry; that the defendant negligently furnished the plaintiff with a mule that was vicious and disposed to kick, and other­wise to be and become dangerous and unmanageable, of which facts the defendant was then and there well aware, and of which the plaintiff had no notice; that on the morning of the second day the plaintiff had driven said mule, he was hauling coal along said entry, and that when about opposite room 30 of said entry the said mule, without provocation other than its vicious disposition, as aforesaid, began kicking and struck plaintiff and knocked him down in front of the car; that because of a gob of debris that defendant had permit­ted to accumulate there on either side of said track, plaintiff was unable to get away, and was caught be­neath said car loaded with coal, and the car pulled up against and upon him, thereby injuring him.</p>
+                <p id="b471-9" pgmap="471(18) 472(182)">Appellee testified that he had been driving along the entry where he was injured, for about three months prior to the day he was injured; that the accumulation of gob along the entry at the place he was engaged was about as high as the entry itself and extended close to the side of the car; that he had known of the proximity of the gob ever since he had driven in the entry; that upon his first trip in the morning, of the second day he had driven this particular mule, it began kicking; that after the mule kicked him the first time he stepped off the car to one side and tried to climb over the gob, but was unable to do so; that the mule kicked him again and he fell under the car, and that if it had not been for the presence of the gob he would have escaped injury. There is evidence tending to show that the mule was vicious and disposed to kick, and that appellant had notice through a former boss mule driver of such pro­pensity, and we are unable to say that the jury was un­warranted in so finding.</p>
+                <p id="b472-5" pgmap="472">It is first urged that the presence of the gob was the proximate cause of the injury; that inasmuch as appel­lee knew of the presence of the gob and continued to work without complaint, he assumed the risk of injury therefrom. The proximate cause of an injury is that act or omission which immediately causes and without which the injury would not have happened, notwith­standing other conditions or omissions concurred there­with. 1 Thomp. Neg. 56; Weick v. Lander, 75 Ill. 93; Carterville Coal Co. v. Cook, 129 Ill. 152. It is obvious that in the case at bar the immediate cause of appellee’s injuries was the kicks he received from the mule; that had not the mule kicked, appellee would not have been harmed by the presence of the gob. Even though the gob be held to have been a concurring or intervening cause of the injury, appellant would be nevertheless liable for the reason stated.</p>
+                <p id="b472-6" pgmap="472(35) 473(13)">The assignment of error that the damages are ex­cessive, is not argued by counsel. The contentions that the court erred in admitting improper evidence, and in improperly giving an instruction for the plaintiff rel­ative to the assessment of damages, are therefore un­necessary to be considered.</p>
+                <p id="b473-5" pgmap="473">It is urged that the court erred in giving an instruc­tion that if the jury believed from the evidence that the plaintiff had proved his case as set forth in the' first count of the declaration, it was their duty to find in his favor, for the reason that it did not negative the assumption of risk. There was no evidence which would have justified the jury in finding that appellee had knowledge of the disposition of the mule to kick, or that by the exercise of due care he would have ac­quired such knowledge, or that he had the same or equal means as appellant of ascertaining such fact. No duty of inspection or inquiry was imposed upon him, and he had the right, in the absence of knowledge or means of knowledge to the contrary, to assume that appellant would not furnish him with a vicious mule. The risk was clearly not ordinarily incident to his employment. The question of assumed risk was not involved in the case, and any inaccuracies in other instructions criti­cized could not have been harmful to appellant.</p>
+                <p id="b473-6" pgmap="473">There was sufficient competent evidence in the record to warrant the verdict, and the judgment will be af­firmed.</p>
+                <p id="b473-7" pgmap="473">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="470" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.2" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+              <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="471" ORDERLABEL="453" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jp2_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.4" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+              <area BEGIN="BL_471.5" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jp2_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.2" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.3" BETYPE="IDREF" FILEID="alto_00236_1"/>
+              <area BEGIN="BL_472.4" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="473" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00237_0"/>
+        <fptr FILEID="jp2_00237_0"/>
+        <fptr FILEID="alto_00237_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.3" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_473.2" BETYPE="IDREF" FILEID="alto_00237_0"/>
+              <area BEGIN="BL_473.4" BETYPE="IDREF" FILEID="alto_00237_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.6" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.14" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.1" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.13" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.9" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.8" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.9" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.10" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-11" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.11" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.2" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AStf" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.11" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.12" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.6" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            <area BEGIN="BL_473.1" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b472-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_472.5" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtRs" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.7" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.5" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-10" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.10" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b473-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_473.7" BETYPE="IDREF" FILEID="alto_00237_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9n" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.6" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.8" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

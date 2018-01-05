@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0034" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Coulter v. Travelers’ Protective Ass'n of America">Minnie C. Coulter, Appellee, v. Travelers’ Protective Association of America, Appellant</name>
+          <docketnumber>Gen. No. 4,928</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 255</citation>
+          <decisiondate>1908-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="3d35ec1c8319d4d12c6e0149163666b3" CHECKSUMTYPE="MD5" SIZE="46700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="7feefe43ccb8d63379709535faf7d159" CHECKSUMTYPE="MD5" SIZE="53294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_1.tif"/>
+      </file>
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="dfb678ee3cc9adcbaa2dc9f69cbf5f13" CHECKSUMTYPE="MD5" SIZE="53982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00137_0.tif"/>
+      </file>
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="5f50035027d0a102edef21593f4279c4" CHECKSUMTYPE="MD5" SIZE="54416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00137_1.tif"/>
+      </file>
+      <file ID="tiff_00138_0" MIMETYPE="image/tiff" CHECKSUM="f0ff0f3089eb27a87d1ff8a2b9b26b86" CHECKSUMTYPE="MD5" SIZE="53230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00138_0.tif"/>
+      </file>
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="f6e20230931dc1b1c18290245608a3f3" CHECKSUMTYPE="MD5" SIZE="48730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00138_1.tif"/>
+      </file>
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="7f5a3e88c87fe8f41924c0358a826bea" CHECKSUMTYPE="MD5" SIZE="51326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00139_0.tif"/>
+      </file>
+      <file ID="tiff_00139_1" MIMETYPE="image/tiff" CHECKSUM="f0bb9486a64866e9b08f25dc5cc94c07" CHECKSUMTYPE="MD5" SIZE="53222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00139_1.tif"/>
+      </file>
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="406f93a76c400875370e51e193dab591" CHECKSUMTYPE="MD5" SIZE="56296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00140_0.tif"/>
+      </file>
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="1d73eb90abb167f41978206c39e88deb" CHECKSUMTYPE="MD5" SIZE="54822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="58b8fb423702b9487cf5a195252631a1" CHECKSUMTYPE="MD5" SIZE="54114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="1b23ce990cb1f599daa92f40634a2f70" CHECKSUMTYPE="MD5" SIZE="53796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00141_1.tif"/>
+      </file>
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="553b817e30831ee6fc73d567335e9ce3" CHECKSUMTYPE="MD5" SIZE="37528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="9b868c4bb9aa42f32a2d02bb52b909a8" CHECKSUMTYPE="MD5" SIZE="2355440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_0.jp2"/>
+      </file>
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="ebedd5fb77c8a32525521f1526b249c0" CHECKSUMTYPE="MD5" SIZE="2343957">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_1.jp2"/>
+      </file>
+      <file ID="jp2_00137_0" MIMETYPE="image/jp2" CHECKSUM="1e6a9d53b2ee42340d1708854418d141" CHECKSUMTYPE="MD5" SIZE="2406368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00137_0.jp2"/>
+      </file>
+      <file ID="jp2_00137_1" MIMETYPE="image/jp2" CHECKSUM="c0baa1c7ef1a2e9141b689757930e75e" CHECKSUMTYPE="MD5" SIZE="2361710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00137_1.jp2"/>
+      </file>
+      <file ID="jp2_00138_0" MIMETYPE="image/jp2" CHECKSUM="df5eb37ea3672dcd5ea261bf43f74ae3" CHECKSUMTYPE="MD5" SIZE="2410928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00138_0.jp2"/>
+      </file>
+      <file ID="jp2_00138_1" MIMETYPE="image/jp2" CHECKSUM="e2df00f6d263c3e1b9af22834ade0fda" CHECKSUMTYPE="MD5" SIZE="2326564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00138_1.jp2"/>
+      </file>
+      <file ID="jp2_00139_0" MIMETYPE="image/jp2" CHECKSUM="94bd7368b63d58c32e94c40c71977795" CHECKSUMTYPE="MD5" SIZE="2398822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00139_0.jp2"/>
+      </file>
+      <file ID="jp2_00139_1" MIMETYPE="image/jp2" CHECKSUM="3b29ca3460d6e4bb9141d377c782f774" CHECKSUMTYPE="MD5" SIZE="2370620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00139_1.jp2"/>
+      </file>
+      <file ID="jp2_00140_0" MIMETYPE="image/jp2" CHECKSUM="ccab9117e941e838c035f955abb3edcc" CHECKSUMTYPE="MD5" SIZE="2408042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00140_0.jp2"/>
+      </file>
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="d5abd9a1a328588dba91b8a58801f5c0" CHECKSUMTYPE="MD5" SIZE="2365997">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00140_1.jp2"/>
+      </file>
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="cf5832abcd53a7c9ed7a192be2b522a8" CHECKSUMTYPE="MD5" SIZE="2419738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00141_0.jp2"/>
+      </file>
+      <file ID="jp2_00141_1" MIMETYPE="image/jp2" CHECKSUM="1898dc223b0d1236a030701beb674473" CHECKSUMTYPE="MD5" SIZE="2375125">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00141_1.jp2"/>
+      </file>
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="7e6b78e6789df85fff773b97ae63cfa9" CHECKSUMTYPE="MD5" SIZE="2293891">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="712be25a9b9e6980914ad5d8f482a3e2" CHECKSUMTYPE="MD5" SIZE="79269">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00136_0.xml"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="fa61066429fe7365aa4a9bf00e286196" CHECKSUMTYPE="MD5" SIZE="108924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00136_1.xml"/>
+      </file>
+      <file ID="alto_00137_0" MIMETYPE="text/xml" CHECKSUM="9b9538711ce3945643e5adb7335da7d6" CHECKSUMTYPE="MD5" SIZE="85973">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00137_0.xml"/>
+      </file>
+      <file ID="alto_00137_1" MIMETYPE="text/xml" CHECKSUM="c13bbfc19cf139685c72620539be5056" CHECKSUMTYPE="MD5" SIZE="85432">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00137_1.xml"/>
+      </file>
+      <file ID="alto_00138_0" MIMETYPE="text/xml" CHECKSUM="36e4f5cc9f49baf58356daad3e9e1fad" CHECKSUMTYPE="MD5" SIZE="87757">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00138_0.xml"/>
+      </file>
+      <file ID="alto_00138_1" MIMETYPE="text/xml" CHECKSUM="64e1e054a27801de535a7fdbb91807db" CHECKSUMTYPE="MD5" SIZE="77633">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00138_1.xml"/>
+      </file>
+      <file ID="alto_00139_0" MIMETYPE="text/xml" CHECKSUM="eb96ccd25438253239f97eba283bc070" CHECKSUMTYPE="MD5" SIZE="85927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00139_0.xml"/>
+      </file>
+      <file ID="alto_00139_1" MIMETYPE="text/xml" CHECKSUM="6446824f5dbe5e8db217b05e546ec919" CHECKSUMTYPE="MD5" SIZE="86047">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00139_1.xml"/>
+      </file>
+      <file ID="alto_00140_0" MIMETYPE="text/xml" CHECKSUM="6c9c20a1e1e5ab83884c26f090257c7d" CHECKSUMTYPE="MD5" SIZE="91218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00140_0.xml"/>
+      </file>
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="4b1e049a25742b6e9d48db5e0ed2a68c" CHECKSUMTYPE="MD5" SIZE="88454">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00140_1.xml"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="85f3ded19733f955cb9fe2d0532a3b3a" CHECKSUMTYPE="MD5" SIZE="91493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00141_0.xml"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml" CHECKSUM="c58222527ab8cffc4e8c024ad2cbf755" CHECKSUMTYPE="MD5" SIZE="89336">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00141_1.xml"/>
+      </file>
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="8bfda469049da12eda5ae03affeae662" CHECKSUMTYPE="MD5" SIZE="66135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00142_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="267" firstpage="255">
+              <docketnumber pgmap="271" id="b271-9">Gen. No. 4,928.</docketnumber>
+              <parties pgmap="271" id="b271-8">Minnie C. Coulter, Appellee, v. Travelers’ Protective Association of America, Appellant.</parties>
+              <decisiondate pgmap="272" id="AMn">Opinion filed April 14, 1908.</decisiondate>
+              <otherdate pgmap="272" id="ABdv">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="272" id="ABdP">Rehearing denied October 14, 1908.</otherdate>
+              <attorneys pgmap="276" id="b276-5">Jackson, Hurst &amp; Stafford, for appellant; Henry T. Kent, of counsel.</attorneys>
+              <attorneys pgmap="276" id="b276-6">Searle &amp; Marshall, for appellee.</attorneys>
+              <summary pgmap="272" id="b272-11">Assumpsit. Appeal from the Circuit Court of Rock Island county; the Hon. William H. Gest, Judge, presiding.</summary>
+              <disposition pgmap="272" id="Air">Reversed and remanded.</disposition>
+              <headnotes pgmap="271(32) 272(12)" id="b271-10">1. Pleading—when special plea not essential. It is not neces­sary to plead specially any defense that may properly be offered under the general issue; a demurrer is properly sustained to a special plea which interposes á defense admissible under the gen­eral issue.</headnotes>
+              <headnotes pgmap="272" id="b272-5">2. Pleading—what defenses admissible under general issue. Payment and a release may be offered in evidence under the gen­eral issue.</headnotes>
+              <headnotes pgmap="272" id="b272-6">3. Pleading—when provision of constitution of fraternal benefit society not considered. A section of the constitution of a fraternal benefit society pleaded in connection with a release set up by way of defense to an action instituted upon a certificate, will not be considered if the logical connection or effect between such section of the constitution and the release is not averred.</headnotes>
+              <headnotes pgmap="272" id="b272-7">4. Fkatebnal benefit societies—when release does not discharge death claims. A release in full by a member for benefits to which he was entitled by virtue of injuries does not discharge the right of the beneficiary to recover death claims if ■ death ensued from such injuries.</headnotes>
+              <headnotes pgmap="272" id="b272-8">5. Fbatebnal benefit societies—when full death claim should not be awarded. If the full liability provided for by a certificate is $5,000, such amount should not be allowed if prior to death, benefits with respect to the accident which caused the death of the member, had been paid to him. "</headnotes>
+              <headnotes pgmap="272" id="b272-9">6. Evidence—what competent as admission against interest. Proofs of loss containing answers by a physician, sworn to as true by the beneficiary, are competent against her as admissions against interest, and the defendant offering them may select such portions as it sees fit and offer the same, if material, subject to the right of such beneficiary to offer such other parts of the document as qualify or modify such admission or declaration against interest.</headnotes>
+              <headnotes pgmap="272" id="b272-10">7. Instbuctions—what proper in action upon accident benefit certificate providing for non-liability when death results wholly or in part from disease. In such a case an instruction is proper which tells the jury that though they believe from the evidence that the death of a member was caused in part by bodily infirm­ity or disease, yet that if the jury further believe from the evi­dence that said member received accidental injuries and that such bodily infirmity or disease was caused by or was a natural, direct, proximate and necessary result of such accidental injuries, and that such accidental injuries were the direct cause of his death, then the fact that such bodily infirmity or disease contributed to cause the death of such member, would not constitute a defense to the action.</headnotes>
+              <p pgmap="273(345) 274(239)" id="b273-4">Statement by the Court. This is an action in as­sumpsit brought by Minnie G-. Coulter of Bock Island, Illinois, appellee, against the Travelers’ Protective Association of America, appellant, for five thousand dollars indemnity, on a certificate of membership for the death of her son, Harry W. Coulter. The declara­tion was filed to the January term, 1905, of the Bock Island Circuit Court. It alleges that the Travelers’ Protective Association of America is a fraternal ben­eficiary society or corporation organized under the laws of the state of Missouri, and doing business in the state of Illinois, by virtue of the statutes of Illi­nois in such case made and provided; that on June 21, 1902, said defendant company executed and delivered to one Harry W. Coulter, deceased, the son of plaint­iff, its benefit certificate or policy, to wit, a certificate of membership in said association, in and by which it is provided and agreed by said defendant association that said Harry W. Coulter is entitled to all the ben­efits accruing from such membership under the pro­visions of the constitution and by-laws of said asso­ciation, said benefits, in case of the death of said Harry W. Coulter, being payable to plaintiff under the. name of Minnie Gr. Coulter as therein stated; that at the time said certificate was so executed and delivered to said Harry W. Coulter and from thence hitherto the by-laws of said defendant association in that behalf, provided that five thousand dollars shall be paid to the beneficiary named in the certificate of any deceased member in case of the death of said member by ac­cident, provided such death shall occur within three months after such accident and such accident be within the conditions and limitations of the benefit certificate. Plaintiff avers that, to wit, June 1, 1904, while said benefit certificate was in full force, the said Harry W. Coulter received by accident, while about his business as a traveling salesman riding on a rail­way train and not in any manner or while engaged in any occupation prohibited by the rules or conditions of said certificate, a bruise on and sprain of the back and divers internal injuries, from the effect of which accident said Harry W. Coulter thereafter on August 24, 1904, died. It is further averred that Harry W. Coulter kept and performed on his part all the condi­tions and requirements in accordance with the terms of said certificate and of the constitution and by-laws of said association; that within four days after receiving said accident said Harry W. Coulter notified the de­fendant of the particulars of the same and gave the defendant the name of his attending physician; that the plaintiff notified defendant of said death of de­ceased, and made the proofs required by defendant on blanks furnished by defendant for that purpose; by means whereof the defendant became liable, etc. A copy of the certificate of membership, it being No. 43406, is attached to the declaration. On the back of the certificate is a set of rules specifying in what in­stances the defendant shall not be liable. One of these rules is: The member agrees that the Travelers ’ Pro­tective Association of America shall not be liable for injuries incurred by a member in an occupation more hazardous than specified in his application * * * or death or disability when caused wholly or in part by any bodily or mental infirmity or disease.</p>
+              <p pgmap="274(108) 275(231)" id="b274-5">The defendant filed the plea of the general issue with six special pleas. The second special plea avers that the plaintiff has no cause of action because, under the terms of the certificate issued to Harry W. Coulter, said Coulter was entitled to all benefits accruing from his certificate of membership under the provisions of the constitution and by-laws of defendant as in the declaration set forth; that a-t the time said certificate was issued and at the time of said injuries and death the constitution contained the following provisions: Section 7. “All claims for benefits or indemnity under the benefit certificate of a member and this constitution must be made to the National Board of Directors on the regular blank furnished by the board. Such claims are not divisible and must be presented after the total recovery of the member or after his death;” that after said Coulter received the injuries mentioned in the declaration he notified defendant of said injuries for the purpose of obtaining full payment of his benefits; that after he notified defendant of said injuries, de­fendant on the 16th day of July, 1904, during the lifetime of said Coulter, for the purpose of making full satisfaction, discharge and payment for said in­juries issued to him a draft for the sum of $75 in words and figures as follows, to wit, “Travelers’ Pro­tective Association of America. St. Louis, Mo., July 16, 1904. This check will not be paid if detached from receipt or if the receipt is not signed by the claimant.” Here follows the draft for $75 which is followed by the words, “This check will not be paid if detached from the receipt, or if the receipt is not signed by the claimant.” It is further averred, that after said draft was received said Coulter on the 19th day of July, 1904, executed and delivered to the defendant a release and discharge of his claim to said defendant, which said release is in words and figures as follows, to wit:</p>
+              <p pgmap="275" id="b275-5">“Claim No. 8324. Certificate No. 43406. Know all men by these presents, that I Harry W. Coulter in con­sideration of the sum of seventy-five dollars to me paid by the Travelers’ Protective Association of America the receipt whereof is hereby acknowledged, do hereby release and forever discharge said Travelers’ Pro­tective Association of America from all liability for or on account of accidental injuries received by me on or about the first day of June, 1904. Witness my hand and seal at Rock Island Ill. this 19th day of July, 1904.</p>
+              <p pgmap="275" id="b275-6">Done in the presence of</p>
+              <p pgmap="275" id="b275-7">W. J. Coulter. Harry W. Coulter,</p>
+              <p pgmap="275" id="b275-8">Claimant.”</p>
+              <p pgmap="275(19) 276(295)" id="b275-9">That by the terms of said release said Harry W. Coulter did then and there release all claims, demands and causes of action which he then had against the defendant, or might thereafter have or allege against it and did release and discharge to defendant any claim or demand plaintiff might thereafter have or allege against it for said injuries. The first special plea is the same as the second except that in the first no ref­erence is made to the clause of defendant’s constitution set up in the second special plea. The other four special pleas plead the rule on the hack of the certificate that the defendant is not liable for death or disability when caused wholly or in part by any bodily or mental infirmity .or disease, and aver in different forms that said Coulter did not die solely from the effects of the accident and injuries mentioned in the declaration but that his death was caused in part by the disease known as typhoid fever. A demurrer was sustained to the first and second special pleas, and replications were filed to the other pleas. After the evidence for the plaintiff was closed, the declaration was amended by changing the allegation that the deceased was injured while riding on a railway train to “in a manner to plaintiff unknown.” The original pleas were refiled, with two additional special pleas averring contractual limitations. A demurrer was filed and sustained to the first, second and seventh special pleas, and issues joined upon the others. A verdict was returned for plaintiff for $5537.50. The defendant made a motion for a new trial. The plaintiff remitted $83 and the court over­ruled the motion for a new trial and rendered judg­ment for $5454 in favor of plaintiff. Exceptions were properly preserved by the defendant who brings the ease to this court by appeal.</p>
+              <opinion type="majority">
+                <author pgmap="277" id="b277-4">Mr. Presiding Justice Thompson</author>
+                <p pgmap="277" id="ATR">delivered the opin­ion of the court.</p>
+                <p pgmap="277" id="b277-5">It is assigned for error that the court erred in sus­taining the demurrer to the first and second special pleas, and in sustaining the objection of appellee to admitting in evidence on behalf of appellant the release from further damages which is set forth in the special pleas, and the section of the constitution of appellant which is set forth in the third special plea. These pleas are pleas of payment and release. The rule is that it is not necessary to plead specially any defense that may be properly offered under the general issue. Pay­ment and a release may be offered in evidence under the general issue. Kassing v. International Bank, 74 Ill. 16; Chicago W. &amp; V. Coal Co. v. Peterson, 45 Ill. App. 507; 18 Encyc. Pl. &amp; Pr. 88. The general issue was filed in this case, so that the release itself was admissible in evidence without a special plea, if it was competent and material evidence. It is not error to sustain a demurrer to a special plea which does not set up some matter which is not available under the gen­eral issue.</p>
+                <p pgmap="277" id="b277-6">The third special plea also set forth a part of the constitution of appellant. The plea does not aver the legal effect of the section of the constitution and does not aver any logical conclusion or effect between the constitution and the release, and hence that part of the plea referring to the constitution is incomplete and insensible. We express no opinion about the meaning or effect of this section had it been properly pleaded. The third special plea cannot be considered as any­thing more than a plea of satisfaction based on the release alone. There was no error in sustaining the demurrer to the pleas.</p>
+                <p pgmap="277(38) 278(208)" id="b277-7">Where a corporation bases its defense upon its charter or by-laws the same must be properly pleaded. 5 Encyc. Pl. &amp; Pr. 94. There was no plea based on the section of the constitution offered in evidence, and therefore the objection thereto might have.been prop­erly sustained because there was no foundation for its introduction in the pleading unless there was some other reason why the objection should have been over­ruled. The record shows that the appellee offered cer­tain pages of appellant’s constitution and by-laws in force July 1, 1901, and that it was stipulated that “either side may introduce in evidence such parts of such book as they may desire, without further proof in regard to the authenticity of the book and contents.” This stipulation apparently waives all objections to the section of the constitution and by-laws in the book offered by appellee, and would permit anything in the book material to the case to be offered in evidence without respect to the pleading. The offer by appel­lant however is of the constitution and by-laws in effect July 1, 1902, to July. 1903, which is a date subsequent to that of the book offered by appellee and subsequent to the contract for indemnity and benefits issued to the deceased. The objection to the section of the consti­tution from a book other than that the stipulation con­cerned was properly sustained as there was no founda­tion for it in the pleading.</p>
+                <p pgmap="278(142) 279(129)" id="b278-5">The release was executed July 19, 1904, by the in­sured, Harry W. Coulter, now deceased, and recites that it is in consideration of seventy-five dollars to him paid by appellant and purports to release and discharge appellant from liability for or on account of accidental injuries received by him on June 1, 1904. At the time of the execution of the release Harry W. Coulter was the only party who had any vested interest in the in­demnity or benefits. Minnie Gr. Coulter, the beneficiary in case of his death, had no vested interest in the certificate at that time. The declaration alleges that the appellant is a fraternal beneficiary association. The interest of a beneficiary in a certificate is a mere ex­pectancy which becomes vested only on the death of the assured. Middeke v. Balder, 198 Ill. 601; Martin v. Stubbing, 126 Ill. 404; Voigt v. Kusten, 164 Ill. 320; Grand Legion S. K. v. Beaty, 224 Ill. 349. This certif­icate has a dual nature under the by-laws in providing for indemnity to the member for accidents during his lifetime and death benefits to the beneficiary named in the certificate after the death of the member caused by accident. As the pleadings were at the time of trial no reason appears why a payment of indemnity to the member in his lifetime of what was then due him and over which there was no dispute would be any consider­ation for the release of death benefits to the beneficiary after the death of the member, and the objection was properly sustained to the introduction of the release.</p>
+                <p pgmap="279(246) 280(361) 281(154)" id="b279-5">The rules of appellant printed on the back of the certificate of membership provided that appellant is not liable for death or disability when caused wholly or in part by any bodily or mental infirmity or disease. The proof shows that the deceased claimed to have been injured June 1,1904, at Wapello, Iowa; that he arrived at his home in Bock Island June 6, suffering from a bruise on his back, and went to bed and was confined to his bed until the 13th of June and from that date he was able to be around walking with a cane. On July 7th he appeared to be so far recovered that he went to work in a mattress factory where he worked until July 16th, when he went home sick and took to his bed where he died on August 24,1904. The contention of appellee is that deceased died from injuries received June 1, while the contention of appellant is that the deceased died wholly or in part from some bodily disease which it is claimed was typhoid fever. A large amount of testimony was presented by both sides tending to sup­port their respective contentions. It is insisted that the court erred in excluding proper testimony offered by appellant on that issue. Appellee offered in evidence certain proofs of death for the purpose of showing that the rule of the appellant requiring notice and proofs of death to be furnished on blanks furnished by appel­lant had been complied with. These proofs were ad­mitted, the court stating in his. ruling that they were admitted “for that purpose only as tending to prove notice to the defendant of the alleged injury and death of the insured.” Among the proofs of death are cer­tain questions and answers thereto made by J. E. Assay, M. D., one of the attending physicians of the de­ceased. The seventh question and answer is: “How long in your opinion, will the claimant be totally dis­abled?” “Patient died August 24,1904, in my opinion of injury to spine and typhoid fever.” Question ten and answer thereto from another of the proofs of death is: “Was the deceased to your knowledge afflicted with any affection or disease, acute or chronic, at the time? If so to what extent did it contribute to his death? Answer. Tes, by causing injury to sympathetic nervous system and paretic condition of bowels. ’ ’ The ■appellee made an affidavit that she is the beneficiary, and setting forth among other things that she had read (or heard read) the foregoing statements and affidavits and each and every one thereof and knows the contents; that they are true of her own knowledge. Appellant offered in evidence said question seven and the answer and said question ten and the answer, in connection with the affidavit of the appellee stating she had read the proofs of death and that they were true. The court admitted the affidavit of the appellee, but sustained an objection to the admission of the questions and answers of the physician on the- ground that the party had no right to select out and offer a part of the proofs. The appellee offered to admit the papers as an entirety. Appellant did not accept the offer, but insists on its right to the parts it offered. We are of the opinion that the appellee having made an affidavit that the an­swers of the physician were true, thereby made such questions and answers material and competent evidence against her. They were, in connection with her affidavit, in the nature of an admission against her interest, but not conclusive. 7 Encyc. of Ev. 576; Commercial Ins. Co. v. Huckberger, 52 Ill. 464; Supreme Tent of K. of M. v. Stensland, 206 Ill. 124. We conclude that appel­lant was only required to offer so much of the docu­ment as it considered material and pertinent as a declaration by appellee against her interest, subject to the right of appellee to read in evidence such other parts of the document as qualify or modify such admis­sion or declaration by appellee against her interest. 9 Encyc. of Ev. 176; Slingloff v. Bruner, 174 Ill. 561; Heinsen v. Lamb, 117 Ill. 549; Imperial Hotel Co. v. H. B. Claffin Co., 55 Ill. App. 337. The evidence upon the question of what was the cause of the death of the as­sured was very conflicting and had the evidence to which objection was improperly sustained been ad­mitted the verdict might have been different.</p>
+                <p pgmap="281" id="b281-5">Appellant offered in evidence the affidavit of the de­ceased made June 22, for the purpose of securing in­demnity for the three weeks from June 1 to June 22, that he was disabled from attending to his business, in connection with the draft for $75 and the release. Ap­pellant did not offer this for the purpose of showing or inferring therefrom an admission that Harry W. Coulter had recovered from the injury, but stated that it was offered “for the purpose of proving that Harry W. Coulter during his lifetime made application to defendant for three weeks ’ indemnity at the rate of $25 per week, and stated in said application that when said claim was paid it should be in full satisfaction of all claims which he had or might have against defendant on account of injury, and that the injury for which said claim was made is the identical injury alleged in plaint­iff’s declaration.” We hold that it was not proper evidence for that purpose, for the reason that it does not appear but that he had a claim for indemnity and plaintiff also had a claim for death benefits. The pur­pose of the offer having been thus limited, we hold the objection thereto was properly sustained.</p>
+                <p pgmap="281(8) 282(137)" id="b281-6">Appellant assigns error on the giving of appellee’s fourth instruction. The instruction is that though the jury believe from the evidence that the death of Coulter was caused in part by bodily infirmity or disease; yet if you believe from the evidence that said Coulter re­ceived accidental injuries and that such bodily infirmity or disease was caused by or was a natural, direct, prox­imate and necessary result of such accidental injuries and that such accidental injuries were the direct cause of his death, then the fact that such bodily infirmities or disease contributed to cause the death of the de­ceased would not constitute a defense to this action. This instruction is in accordance with the rule an­nounced in Central Accident Ins. Co. v. Rembe, 220 Ill. 151; and U. S. Health &amp; Accident Ins. Co. v. Harvey, 129 Ill. App. 104.</p>
+                <p pgmap="282(228) 283(55)" id="b282-5">The appellant introduced in evidence sections 2 and 3 of Article IX of the constitution in force July 1,1903. These were admitted in evidence apparently under the stipulation referred to, although the stipulation was concerning a constitution of an earlier date. Section 2 provides that “Five thousand dollars shall be paid .to the beneficiaries named in the certificate of a de­ceased member in case of death by accident.” Sec­tion 3 provides that “whenever a member of this asso­ciation shall through external accidental means receive bodily injuries * * * he shall be paid for loss of time occasioned thereby the sum of $25 per week * * * but such sum shall not be paid in addition to benefits re­ceived from section 2 of this article. ’ ’ The court at the request of appellee instructed the jury that the clause, “But such sum shall not be paid in addition to benefits received under section 2 of this Article of appellant’s constitution, is of no significance in this case, and the jury will not consider the same.” Even applying the rule that policies of insurance are construed most strongly against the insurer, and if susceptible of two constructions that most favorable to the insured will be adopted, the appellant would not be liable to the assured for the indemnity and to the beneficiary for the full benefits. The total liability is $5000. That instruction was erroneous in the form it was given; that error was however attempted to be corrected by the remittitur. We do not find any error in the refusal of instructions asked by appellant, for the reason that all proper instructions were contained in those given.</p>
+                <p pgmap="283" id="b283-5">For the error in sustaining objections to proper evi­dence the judgment is reversed and the cause re­manded.</p>
+                <p pgmap="283" id="b283-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="271" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.2" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+              <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="256" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.3" BETYPE="IDREF" FILEID="alto_00136_1"/>
+              <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="273" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jp2_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.1" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.2" BETYPE="IDREF" FILEID="alto_00137_0"/>
+              <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+              <area BEGIN="BL_273.5" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="274" ORDERLABEL="258" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jp2_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.2" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.3" BETYPE="IDREF" FILEID="alto_00137_1"/>
+              <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="275" ORDERLABEL="259" TYPE="page">
+        <fptr FILEID="tiff_00138_0"/>
+        <fptr FILEID="jp2_00138_0"/>
+        <fptr FILEID="alto_00138_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.2" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.3" BETYPE="IDREF" FILEID="alto_00138_0"/>
+              <area BEGIN="BL_275.4" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="276" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jp2_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.2" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.3" BETYPE="IDREF" FILEID="alto_00138_1"/>
+              <area BEGIN="BL_276.4" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="277" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jp2_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.1" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.2" BETYPE="IDREF" FILEID="alto_00139_0"/>
+              <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="278" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00139_1"/>
+        <fptr FILEID="jp2_00139_1"/>
+        <fptr FILEID="alto_00139_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.2" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.3" BETYPE="IDREF" FILEID="alto_00139_1"/>
+              <area BEGIN="BL_278.4" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="279" ORDERLABEL="263" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jp2_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.2" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+              <area BEGIN="BL_279.4" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="280" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.2" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.3" BETYPE="IDREF" FILEID="alto_00140_1"/>
+              <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.2" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.3" BETYPE="IDREF" FILEID="alto_00141_0"/>
+              <area BEGIN="BL_281.4" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jp2_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.2" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.3" BETYPE="IDREF" FILEID="alto_00141_1"/>
+              <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="283" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.2" BETYPE="IDREF" FILEID="alto_00142_0"/>
+              <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABdv" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.13" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_272.14" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATR" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.5" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_277.6" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.6" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.4" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.5" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            <area BEGIN="BL_279.1" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.7" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.6" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.5" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.11" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_272.12" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.7" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Air" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.15" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.9" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_278.1" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.8" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.6" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_282.1" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.5" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.6" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.5" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.9" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            <area BEGIN="BL_276.1" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.8" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.5" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_283.1" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.9" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.8" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.5" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_281.1" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABdP" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.17" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.10" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.4" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            <area BEGIN="BL_274.1" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.5" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.10" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.8" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.9" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.5" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            <area BEGIN="BL_275.1" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMn" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.16" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

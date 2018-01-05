@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0009" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Northwestern Fuel Co. v. Western Fuel Co.">Northwestern Fuel Company, Appellee, v. Western Fuel Company, Appellant</name>
+          <docketnumber>Gen. No. 13,971</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 92</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="ebbbdbc8018bbf8f44141e1cc479c489" CHECKSUMTYPE="MD5" SIZE="42556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="c87615b1711a1f37638aa1f5d8a7153c" CHECKSUMTYPE="MD5" SIZE="54136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="c00ae88ceebf0cd94a58ca499c554a79" CHECKSUMTYPE="MD5" SIZE="54732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="0d6e83c9ea23d4220f7896451993d25d" CHECKSUMTYPE="MD5" SIZE="50802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_0.tif"/>
+      </file>
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="c1f32483b3f36cf56c0560d7468133e5" CHECKSUMTYPE="MD5" SIZE="38182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="f31a57e1c85770b8a1923b7d64a8c17a" CHECKSUMTYPE="MD5" SIZE="2271709">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="fbd7c958d2a7cb62c0ce4c1622a0d960" CHECKSUMTYPE="MD5" SIZE="2414393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="ca0833636386c07636ade77c2761b2a2" CHECKSUMTYPE="MD5" SIZE="2358261">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="1491aba61280aee79d03f99316191e72" CHECKSUMTYPE="MD5" SIZE="2374539">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_0.jp2"/>
+      </file>
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="8fa9c44a8bf43161d23c315c5841f2a3" CHECKSUMTYPE="MD5" SIZE="2235335">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="68d1bf8902eca60493f34bcdac7ca860" CHECKSUMTYPE="MD5" SIZE="79606">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="3c2a6bc856bf8546f22fc7b797e77299" CHECKSUMTYPE="MD5" SIZE="89651">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="fe55489f5f5d2a7ea0baa9f88bc8574c" CHECKSUMTYPE="MD5" SIZE="89776">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="332aba5ef145d0b2816932d0d4d010a1" CHECKSUMTYPE="MD5" SIZE="85320">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00056_0.xml"/>
+      </file>
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="e1d1863066f15ad069752d638809186d" CHECKSUMTYPE="MD5" SIZE="67379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00056_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0009" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="96" firstpage="92">
+              <docketnumber pgmap="108" id="b108-5">Gen. No. 13,971.</docketnumber>
+              <parties pgmap="108" id="b108-4">Northwestern Fuel Company, Appellee, v. Western Fuel Company, Appellant.</parties>
+              <decisiondate pgmap="108" id="AxC">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="108" id="A_t">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="108" id="b108-11">Harvey Strickles, for appellant.</attorneys>
+              <attorneys pgmap="108" id="b108-12">Tenney, Coffeen, Harding &amp; Sherman, for appel­lee; James H. Wilkerson, of counsel.</attorneys>
+              <summary pgmap="108" id="b108-10">Assumpsit. Appeal from the Municipal Court of Chicago; the Hon. John C. Scovel, Judge, presiding.</summary>
+              <disposition pgmap="108" id="AZW">Affirmed.</disposition>
+              <headnotes pgmap="108" id="b108-6">1. Pbactice—how sufficiency of plaintiff’s evidence to sustain action should be raised. In order to preserve for review the question as to the sufficiency of the plaintiff’s evidence, standing alone, to sustain the action, the defendant must move the court at the con­clusion of the plaintiff’s evidence for a finding in favor of the de­fendant.</headnotes>
+              <headnotes pgmap="108" id="b108-7">2. Pbactice—when propositions of law properly refused. Propo­sitions of law are properly refused which are alien to the law as affecting the facts deducible from the proofs.</headnotes>
+              <headnotes pgmap="108" id="b108-8">3. Evidence—burden of proof to establish right to discount. A defense to the effect that the defendant is entitled to a discount is affirmative and the burden to establish the same is upon the defend­ant.</headnotes>
+              <headnotes pgmap="108" id="b108-9">4. Account stated—what evidence tends to establish. The re­ceipt of itemized statements and the retention thereof for months without objection tends to establish an account stated.</headnotes>
+              <opinion type="majority">
+                <author pgmap="108" id="b108-13">Mr. Justice Holdom</author>
+                <p pgmap="108" id="Aav">delivered the opinion of the court.</p>
+                <p pgmap="108(88) 109(50)" id="b108-14">This action is indebitatus assumpsit, and the issues rest on the common counts with a bill of particulars filed by plaintiff and the general issue filed by defend­ant, with a plea of tender of $288.91 before suit and a replication denying tender. The trial was before the learned trial judge, the parties having waived a jury. The claim was for coal sold and delivered. The de­fense did not rest in a dispute over the amount of coal delivered, but upon two claims: first, that on 3,784 tons of coal defendant was entitled to a deduction of forty cents per ton and to a further discount of five per cent upon the purchase price of 5,968 tons of coal. The finding was in favor of plaintiff in the suxn of $2,136.79, upon which finding judgment was entered.</p>
+                <p pgmap="109" id="b109-4">There is no dispute between the parties as to the prices at which coal was billed to defendant. The only item of dispute between them, aside from the subsequent claim for deduction on certain coal of forty cents per ton and five per cent discount on other coal, was a freight item of $35.65, and this item was con­ceded by plaintiff to defendant and credited on the amount of the original claim.</p>
+                <p pgmap="109" id="b109-5">Defendant urges as a complete defense to plaintiff’s claim, that under the pleadings plaintiff must prevail, if at all, on the theory of an account stated; that the evidence in chief is insufficient to support the claim upon the theory of an account stated between the par­ties. We are not inclined to accord our assent to this contention as justified from the probative force of such evidence. Statements were rendered by plaintiff and received by defendant for every shipment of coal. These statements contained the price at which the coal was billed; they were retained by defendant without objection or -complaint as to price charged. The re­ceipt of many of these statements was acknowledged.</p>
+                <p pgmap="109" id="b109-6">It is apparent to us that the evidence in chief, stand­ing uncontradicted, is sufficient to sustain the judg­ment upon the theory of an account stated between the parties for the coal billed to them in the several accounts rendered. Still, if defendant was desirous of availing of the now claimed defects in this evidence, in the trial court and on appeal, it should have moved, at the time when plaintiff rested its case, for a find­ing in its favor. Having failed to do so, the question which was before the trial court and is now before us is: All the evidence considered, is plaintiff entitled to recover for the coal sold and delivered at the prices at which it was billed to defendant?</p>
+                <p pgmap="110" id="b110-4">Without reciting the evidence, which we have care­fully perused and weighed, we are clearly of the opin­ion that it sustains the right of the plaintiff to pay­ment for the coal at the prices charged. We are not limited in our investigation to the determination of the single proposition, as claimed by defendant, as to whether the evidence is sufficient to warrant a recov­ery on an account stated, but on the contrary, it is our duty to determine whether the evidence in the rec­ord is of that character which entitles the plaintiff, on the merits of the case so established, to recover the amount charged for the coal delivered. The claim of defendant to an allowance of forty cents per ton on some of the coal and to a discount of five per cent, on all of it, is a substantive affirmative defense, which to be effectual the law cast upon the defendant the burden of maintaining by a preponderance of the evidence.</p>
+                <p pgmap="110(198) 111(45)" id="b110-5">We agree with the trial court that the evidence falls far short of preponderating in defendant’s favor on this contention. The greater weight of the evidence is to the effect that defendant was to pay for the March and April coal deliveries the price fixed for April coal. This is further substantiated from the fact that the March and April coal was so charged upon the statements received by defendant from plaintiff, and that no objection was made at the time, and that not for several months after their receipt was the counter claim to deduction and discount made. On the contrary, defendant made written acknowledg­ment of the orders covering the March and April de­liveries, which included the price on the basis of the price fixed for April coal. And, furthermore, defend­ant at the request of plaintiff sent a statement of coal received, with the price attached, being the same at which the coal was billed to it for March and April, and thereafter subsequent deliveries at the same price were acknowledged without complaint or protest. A statement in evidence rendered by plaintiff to defend­ant as late as January 31, 1907, bears an indorsement in the handwriting of defendant’s bookkeeper, “W. F. Co. bal. $2,110.91,” which was the amount claimed on this statement, less the conceded freight item of $35.57. We regard this, in the light of the other proof, as highly significant—the force of which defendant cannot escape.</p>
+                <p pgmap="111" id="b111-4">The claim of defendant for a discount of five per cent, it has equally failed to substantiate by its proof.</p>
+                <p pgmap="111" id="b111-5">The finding of the trial judge, in a submitted cause, is as to the facts entitled to the same weight as the ver­dict of a jury, and the court of review cannot reverse such finding unless it clearly appears that the finding of fact is manifestly contrary to the probative force of the evidence. Baumgartner v. Bradt, 207 Ill. 345; Burgett v. Osborne, 172 ibid, 227.</p>
+                <p pgmap="111" id="b111-6">Because other items than those in controversy were upon the statements rendered, in no way detracted from their constituting, as to such controverted items, an account stated, in view of no objection being made to any of such items for many months after the receipt of the statements containing them. In such circum­stances a defendant will be held to have acquiesced in them. Green v. Smith, 21 Ill. App. 198.</p>
+                <p pgmap="111" id="b111-7">The propositions of law tendered by defendant were properly refused. They were alien to the law as affecting the facts deducible from the proofs. Pratt v. Davis, 224 Ill. 300.</p>
+                <p pgmap="111" id="b111-8">Upon the theory that the plaintiff did not establish between the parties, by its testimony in chief, an ac­count stated, which, so far from conceding we deny, yet plaintiff on all the proof in the record is entitled to the judgment • it obtained under the doctrine an­nounced in Sandoval v. Main, 23 Ill. App. 395, where the court say:</p>
+                <blockquote pgmap="111(48) 112(55)" id="b111-9">“The action of indebitatus assumpsit is in the na­ture of an equitable one; and if the plaintiff should fail to sustain his particular theory of the case, yet if the testimony of the defendant should show, although introduced upon -a different view of the case, in con­nection with the other testimony in the case, that the defendant was indebted to the plaintiff upon any of the counts in the declaration, it would be the duty of the court to give judgment accordingly without regard to the source of the evidence from which the real rights of the parties were made manifest.”</blockquote>
+                <p pgmap="112" id="b112-5">The finding and judgment of the trial court does justice between the parties, and finding no error in the record the judgment of the Municipal Court is af­firmed.</p>
+                <p pgmap="112" id="b112-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="108" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.1" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+              <area BEGIN="BL_108.3" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.2" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+              <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+              <area BEGIN="BL_110.3" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.2" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+              <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="112" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.3" BETYPE="IDREF" FILEID="alto_00056_1"/>
+              <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            <area BEGIN="BL_111.1" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.6" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-12" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.17" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-13" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.18" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-10" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.10" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_108.11" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-11" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.16" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-14" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.21" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxC" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.15" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_t" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.12" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_108.13" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.9" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.10" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_112.1" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZW" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.14" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.7" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.8" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.5" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-8" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.8" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-9" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.9" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.6" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aav" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.19" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_108.20" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.7" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-4" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.4" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-5" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.5" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-6" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.6" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-7" BETYPE="IDREF" FILEID="casebody_0009"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.7" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

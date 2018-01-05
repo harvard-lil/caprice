@@ -1,0 +1,751 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0053" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Marren v. North American Union">Ann Marren, Appellee, v. North American Union, Appellant</name>
+          <docketnumber>Gen. No. 14,083</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 375</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00197_0" MIMETYPE="image/tiff" CHECKSUM="a7dcf423a1da00bb3f4b5ff21af96b06" CHECKSUMTYPE="MD5" SIZE="38960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_0.tif"/>
+      </file>
+      <file ID="tiff_00197_1" MIMETYPE="image/tiff" CHECKSUM="ca760de0b011e2df345a660c432dbdb7" CHECKSUMTYPE="MD5" SIZE="45122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_1.tif"/>
+      </file>
+      <file ID="tiff_00198_0" MIMETYPE="image/tiff" CHECKSUM="6f72fa43858c3184b684095ae284093f" CHECKSUMTYPE="MD5" SIZE="53196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00198_0.tif"/>
+      </file>
+      <file ID="tiff_00198_1" MIMETYPE="image/tiff" CHECKSUM="689c248329d56278d1c9050af383d528" CHECKSUMTYPE="MD5" SIZE="52182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00198_1.tif"/>
+      </file>
+      <file ID="tiff_00199_0" MIMETYPE="image/tiff" CHECKSUM="465e21131ca7491e87091d8d48024637" CHECKSUMTYPE="MD5" SIZE="52762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00199_0.tif"/>
+      </file>
+      <file ID="tiff_00199_1" MIMETYPE="image/tiff" CHECKSUM="6f2ab4511c076a49a1df2d24f8820dca" CHECKSUMTYPE="MD5" SIZE="52920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00199_1.tif"/>
+      </file>
+      <file ID="tiff_00200_0" MIMETYPE="image/tiff" CHECKSUM="c4f295eeacb48797848833222b01f76a" CHECKSUMTYPE="MD5" SIZE="52756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00200_0.tif"/>
+      </file>
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="37b2726e1861c586c0563e172ef2b4f2" CHECKSUMTYPE="MD5" SIZE="51560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="4f07774a97a4aae70f01a6a5219d7291" CHECKSUMTYPE="MD5" SIZE="36562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00197_0" MIMETYPE="image/jp2" CHECKSUM="d7e0e33b7d886d674787f1cd6159b16c" CHECKSUMTYPE="MD5" SIZE="2366609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_0.jp2"/>
+      </file>
+      <file ID="jp2_00197_1" MIMETYPE="image/jp2" CHECKSUM="1b31a58d9c6c409f5cb0cae163334c78" CHECKSUMTYPE="MD5" SIZE="2378857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_1.jp2"/>
+      </file>
+      <file ID="jp2_00198_0" MIMETYPE="image/jp2" CHECKSUM="d2c7d397edbf2ea64f261fb84a1885cb" CHECKSUMTYPE="MD5" SIZE="2475585">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00198_0.jp2"/>
+      </file>
+      <file ID="jp2_00198_1" MIMETYPE="image/jp2" CHECKSUM="c36b70b70dd8287e0371b239e1fc9fae" CHECKSUMTYPE="MD5" SIZE="2426452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00198_1.jp2"/>
+      </file>
+      <file ID="jp2_00199_0" MIMETYPE="image/jp2" CHECKSUM="31e08b6acefd007f542afec5c834163e" CHECKSUMTYPE="MD5" SIZE="2477794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00199_0.jp2"/>
+      </file>
+      <file ID="jp2_00199_1" MIMETYPE="image/jp2" CHECKSUM="8385c50cf9b00df9a106c48273e38f9b" CHECKSUMTYPE="MD5" SIZE="2437271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00199_1.jp2"/>
+      </file>
+      <file ID="jp2_00200_0" MIMETYPE="image/jp2" CHECKSUM="7ba115f9c6f6765fbbd0b531cddab2cb" CHECKSUMTYPE="MD5" SIZE="2465709">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00200_0.jp2"/>
+      </file>
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="ebdf04d3010efad361acdc10c236f045" CHECKSUMTYPE="MD5" SIZE="2434031">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="8739b91964b6d3c8cf0d8bdd1b607dd7" CHECKSUMTYPE="MD5" SIZE="2345617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00197_0" MIMETYPE="text/xml" CHECKSUM="ddd418fff96bdfd31d6a16325ee4a569" CHECKSUMTYPE="MD5" SIZE="69597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00197_0.xml"/>
+      </file>
+      <file ID="alto_00197_1" MIMETYPE="text/xml" CHECKSUM="481ac2a83944e0a6cc102a61ec701a26" CHECKSUMTYPE="MD5" SIZE="83196">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00197_1.xml"/>
+      </file>
+      <file ID="alto_00198_0" MIMETYPE="text/xml" CHECKSUM="ad3d5918f41eb31e8b67f47664239fa2" CHECKSUMTYPE="MD5" SIZE="84092">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00198_0.xml"/>
+      </file>
+      <file ID="alto_00198_1" MIMETYPE="text/xml" CHECKSUM="7f0cd8b12beea0216bff8278b978bbb5" CHECKSUMTYPE="MD5" SIZE="87108">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00198_1.xml"/>
+      </file>
+      <file ID="alto_00199_0" MIMETYPE="text/xml" CHECKSUM="dcfb93f0d4d86b25bdb2d9aa599b40e2" CHECKSUMTYPE="MD5" SIZE="83182">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00199_0.xml"/>
+      </file>
+      <file ID="alto_00199_1" MIMETYPE="text/xml" CHECKSUM="347d3629c312aae2da4f1e0b427dee23" CHECKSUMTYPE="MD5" SIZE="84479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00199_1.xml"/>
+      </file>
+      <file ID="alto_00200_0" MIMETYPE="text/xml" CHECKSUM="ba70b1ff2acef4985eedca19ad8d865a" CHECKSUMTYPE="MD5" SIZE="83774">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00200_0.xml"/>
+      </file>
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="0184edfa459b7185e34faf08281499a5" CHECKSUMTYPE="MD5" SIZE="83706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="739be7bd55ec394df1c741b04076ff0e" CHECKSUMTYPE="MD5" SIZE="68130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00201_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="383" firstpage="375">
+              <docketnumber id="b393-10" pgmap="393">Gen. No. 14,083.</docketnumber>
+              <parties id="b393-9" pgmap="393">Ann Marren, Appellee, v. North American Union, Ap­pellant.</parties>
+              <decisiondate id="AFR" pgmap="394">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b394-9" pgmap="394">R. E. Hamilton, for appellant.</attorneys>
+              <attorneys id="b394-10" pgmap="394">Thomas Taylor, Jr., and James W. Taylor, for ap­pellee.</attorneys>
+              <summary id="b394-8" pgmap="394">Assumpsit. Appeal from the Superior Court of Cook county; the Hon. William H. McSurely, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AGf" pgmap="394">Reversed and remanded.</disposition>
+              <headnotes id="b393-11" pgmap="393">1. Practice—when not error to strike special plea. A special plea filed after the regular pleadings have been interposed is properly stricken when it has been so filed without leave of court.</headnotes>
+              <headnotes id="b393-12" pgmap="393">2. Practice—when not error to strike special plea. It is not error to strike from the files a special plea which is double and obnoxious to demurrer.</headnotes>
+              <headnotes id="b393-13" pgmap="393">3. Pleading—what defenses not admissible under general issue. In an action upon a fraternal benefit certificate the defense that a member was addicted to the excessive use of intoxicating liquor is not admissible under the general issue.</headnotes>
+              <headnotes id="b394-4" pgmap="394">4. Evidence—what does not tend to prove drunkenness. The sole fact of residence in the Washingtonian home is inadmissible as evidence to prove drunkenness.</headnotes>
+              <headnotes id="b394-5" pgmap="394">5. Fraternal benefit societies—construction of insurance con­tract. If ambiguity exists in an insurance contract the construc­tion given to such contract will be most favorable to the insured.</headnotes>
+              <headnotes id="b394-6" pgmap="394">6. Fraternal benefit societies—-what does not affect misrepre­sentation by applicant. The fact that one in becoming a member of a fraternal benefit society falsely represented that he was not addicted to the excessive use of intoxicating liquors, will preclude recovery by the beneficiaries if his death resulted from the use of such liquors, notwithstanding under the rules of the order such member could not have been expelled therefrom without proof of “habitual” excessive use of such liquors.</headnotes>
+              <headnotes id="b394-7" pgmap="394">7. Verdict—when set aside as against the evidence. A verdict manifestly against the weight of the evidence will be set aside on appeal.</headnotes>
+              <opinion type="majority">
+                <author id="b394-11" pgmap="394">Mr. Justice Holdom</author>
+                <p id="Ak1" pgmap="394">delivered the opinion of the court.</p>
+                <p id="AHc" pgmap="394">This is an appeal from a judgment of the Superior Court rendered upon the verdict of a jury, for one thousand dollars. The argument of appellant is prin­cipally directed to the proposition that the verdict and judgment are manifestly contrary to the weight of the evidence and contrary to law. This involves the rulings of the trial court in striking the additional pleas from the files and in overruling appellant’s mo­tion for a new trial.</p>
+                <p id="b394-13" pgmap="394(36) 395(106)">John Marren was a member of appellant, a frater­nal mutual benefit insurance* company, which on February 7, 1900, issued to John Marren a contract of insurance in the sum of $1,000, in which his mother, the appellee, is named as the beneficiary. The decla­ration consists of two counts, in the first of which it is alleged that the contract of insurance was issued to John Marren by the Union, by which it agreed, in consideration that he while a member of the Union would comply with its charter, constitution, laws, rules and regulations, it would, at his death, pay the sum of one thousand dollars to his mother, the ap­pellee; averred that John Marren was dead, and that during the time he was a member he did comply with the charter, constitution, laws, rules and regulations of the Union.</p>
+                <p id="b395-4" pgmap="395">In the second count the contract of insurance is set forth in haec verba, including the application for mem­bership, containing the medical examiner’s report and John Marren’s answers to questions put by the medical examiner and an undertaking to comply with the laws, rules and regulations of the Union.</p>
+                <p id="b395-5" pgmap="395">Among the several clauses of the contract of insur­ance is the so-called “incontestable” clause, and as we shall hereafter comment upon its bearing upon the rights of the parties, we here quote its substance: “This contract shall be incontestable after two years from the date hereof, except for the non-payment of dues, assessments, fines or premiums, engaging in prohibited occupations or becoming habitually ad­dicted to the excessive use of intoxicating liquors * * * contrary to the laws, rules and regulations of the association and the agreement of the member”.</p>
+                <p id="b395-6" pgmap="395(93) 396(27)">Appellant filed first a plea of the general issue De­cember 30, 1905, and afterwards, on January 4, 1906, filed a special plea, setting forth a violation by the member, John Marren, of certain of the laws, rules and regulations of the Union, specifically mentioning them, and also charging that said John Marren was, for a long time during his membership, addicted to the excessive use of intoxicants, and that for several days prior to March 14, 1905, when he died, he was under their influence, and that his death was the re-­suit of drunkenness. This special plea further avers that John Marren made false statements to the medi­cal examiner, rendering the contract of insurance null and void.</p>
+                <p id="b396-5" pgmap="396">The trial court struck the special plea from the 'files on the motion of appellee, because it was filed (after appearance and the filing of the plea of the ¡general issue, without first obtaining, leave of court Jo place it upon the files. An. examination of the record fails to disclose an order granting leave to file this special plea; nor is there anything in the record contradicting the statement of counsel when making the motion to strike, that the plea was filed without leave of court. The court did not, therefore, err in eliminating the special plea on the motion of appellee. Appellant, if it still desired to avail of the defenses claimed in. the special plea, should have asked for leave to refile it. This was not done. Again, the special plea is double and obnoxious to a demurrer. It is not a good plea. The defense sought to be inter­posed was breach of the conditions of the contract of insurance by John Marren, resulting in its forfeit­ure. It was claimed that John Marren, before and since the issuing of the contract of membership, was addicted to the excessive use of intoxicating liquors. Such defenses are not admissible under a plea of the general issue. To be availed of they must be pleaded specially. The authorities so holding are numerous, and this rule is well settled by a uniformity of decis­ion on the subject. Ills. Fire Ins. Co. v. Stanton, 57 Ill. 354; Am. Ins. Co. v. Egyptian Lodge, 128 Ill. App. 164; Modern Woodmen v. Davis, 184 Ill. 236; Con­cordia Fire Ins. Co. v. Bowen, 121 Ill. App. 35; Con­tinental Ins. Co. v. Rogers, 119 Ill. 474; Metropolitan Life Ins. Co. v. Zeigler, 69 Ill. App. 448.</p>
+                <p id="b396-6" pgmap="396(32) 397(60)">As to the matters claimed to constitute defenses to appellant’s liability under its contract of insurance, we think the so-called incontestable clause has no ap­plication. Such defenses consist of matters specially excepted from the operation of that clause. These matters, however, in order to be available as a de­fense, should have been specially pleaded, however many of the matters so involved were admitted in evidence by the trial court under the general issue. The correctness of this ruling is not involved in this appeal, as appellee has not assigned cross-errors.</p>
+                <p id="b397-4" pgmap="397">In no event were the admissions, at many times, of John Marren to the Washingtonian Home in Chicago, competent evidence, unexplained as to his condition as to sobriety or drunkenness at the several times of' his admission and the purpose of his becoming an inmate and the course of his treatment while there. The fact of a person being at some time in the Wash­ingtonian Home does not ipso facto raise a presump­tion that such person is addicted to the excessive use of intoxicants. Even under appropriate special plead­ing, the sole fact of residence in the Washingtonian Home would be inadmissible as evidence to prove, drunkenness. Such fact does not dispense with proof necessary to establish as a fact the defense that John Marren violated the condition of his insurance by be­ing addicted to the excessive use of intoxicating liquor.</p>
+                <p id="b397-5" pgmap="397">Were the incontestable clause susceptible of two constructions, or were there any reasonable doubt as to its intended effect, it would be our duty, under welh. settled legal doctrine, to adopt that construction which favored the upholding of the claim made under the insurance contract of which this clause is a part. But we do not regard this clause as at all ambiguous or susceptible of a dual meaning. Under appropriate special pleas the defenses endeavored to be interposed to the right of appellee to recover are admissible.</p>
+                <p id="b397-6" pgmap="397">It is obvious, from the terms of the contract of in­surance, the requirements of the rules of the Union and the statements in the medical examiner’s report, "that the Union would not insure against the excessive indulgence of the member in intoxicating liquor.</p>
+                <p id="b398-4" pgmap="398">We think that the finding of the jury is so palpably contrary to the manifest weight of the evidence in the record, that the judgment of the Superior Court must be reversed and a new trial ordered.</p>
+                <p id="b398-5" pgmap="398(306) 399(173)">It is impossible to escape the conclusion, from the greater weight of the evidence, that John Marren met his death as the result of an excessive indulgence in intoxicating liquors. That he was what is commonly known as a drinking man who went on “sprees”, is but the reasonable deduction from the evidence of his immediate friends, who testified at the instance of appellee. The verdict of the coroner’s jury and the statement of Dr. Lewke, the coroner’s physician, who held the autopsy upon the dead body of John Marren —admitted with the consent of appellee, although a motion was later made to strike it out—conclusively establish as a fact that John Marren came to his death from alcoholism. Dr. Lewke stated that “on opening the body I found the lungs congested, the heart fatty, the liver fatty and congested, the kidneys degenerated and inflamed, and the stomach inflamed”. Other medical men testified that the condition of the organs of John Marren as set forth by Dr. Lewke was the result of alcoholism. This evidence was fortified by the report of a committee of three members, ap­pointed by the Union under its rules to inquire into the death of John Marren, and they reported that he died from alcoholism. This report was part of ap­pellee’s proof. Appellee attempted to prove by other medical testimony that the condition of the organs of John Marren might be attributable to other causes, such as “Bright’s disease”, but in view of all the facts we regard such opinions as unsatisfactory. On the other hand, a tacit admission by appellee of in­ebriety arises from the condition that such a defense is barred and the Union estopped from now seeking to escape the payment of the claim by reason of John Marren’s use to excess of intoxicants, because Byan, the collector of the Union, who collected dues and assessments from John Marren, knew of his excessive indulgence in intoxicating liquors and of his result­ing drunkenness, and appellee complains of the rul­ing of the trial judge in not permitting Ryan to testify concerning his knowledge of John Marren’s drinking habits. It is therefore apparent from this evidence that John Marren came to his death as a result of the violation of that clause of his contract of insur­ance against the excessive use of intoxicants, which vitiated it and worked a forfeiture of all rights of the beneficiary thereunder. The medical examiner’s report, signed by John Marren, contains the follow­ing: “I am not now addicted to the excessive use of intoxicating liquors. * * * Should I become so addicted * * * my so doing shall forfeit and abso­lutely terminate thereafter all right, interest, pay­ment, benefits or privileges of myself * * * or beneficiaries without proceedings for expulsion or otherwise on the part of said association.”</p>
+                <p id="b399-6" pgmap="399(168) 400(26)">It is urged that Section 3 of Law 19 of the Union must control in this case, and that no rights can be held to be forfeited because the insured could not be tried or expelled from the Union for the excessive use of intoxicating liquors, but only for the “habitual” excessive use of such liquors. Whatever the rights of John Marren would have been in a trial under this rule, we do not think affect this case. The rule ap­plied to a trial and expulsion. The representation of John Marren was, that at the time he made appli­cation for membership he was not addicted to the excessive use of intoxicating liquors, and he agreed that should he become so addicted all rights, benefits and payments should become forfeited both to him­self and beneficiary “without proceedings for expul­sion or otherwise”. Expulsion, under the law of the Union last quoted, was not a condition precedent to a forfeiture under the terms of the insurance con­tract. Such proceeding was expressly and in terms waived by the member in his application for member­ship, which forms an'integral part of his insurance contract.</p>
+                <p id="b400-5" pgmap="400">It was sought to rebut the evidence of the defense concerning the drinking habits of John Marren, by calling his mother and brother as witnesses in rebuttal. Their testimony is highly unsatisfactory and in no way weakens the force of appellant’s proof on this subject. The testimony of these witnesses was un­doubtedly honest and true, but it did not touch the subject inquired about. They were gently led to the point of inquiry, but astutely avoided the subject in their responses. Mrs. Marren, the mother of John, the beneficiary named in the contract of insurance and the appellee, was asked, “What were his habits, if you know?” and answered, “His habits was good to me”. The court then asked this question of appellee, “What were his general habits?” to which she answered, “Well, I don’t know; he was nice going to his work and coming home”. She also testified in re­buttal that “He always supported me; he was my sup­port all my life. I never was hungry or cold, never”. The testimony of the brother was of an equally negative character, remarkable principally for what he did not see, with the exception that he admitted that his brother John went on “sprees”.</p>
+                <p id="b400-6" pgmap="400(108) 401(10)">The pathos of the widowed mother’s story and her lauding of the filial virtues of her dead son John, told in all probability in a touching manner, together with the—it may be assumed—somewhat forlorn ap­pearance of the old woman who had in the death of her son John lost her sole support, was enough not only to stir the sympathetic feelings of the jury, but to so overcome their better judgment as to cause them to lose sight of the evidential facts material to be considered in weighing impartially the evidence and reaching a just verdict therefrom. The verdict impresses us as being the offspring of sympathy—an emotional verdict, which the evidence does not justify or sustain.</p>
+                <p id="b401-4" pgmap="401">The judgment of the Superior Court is reversed and the cause remanded for a new trial in conformity with the views expressed in this opinion.</p>
+                <p id="b401-5" pgmap="401">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="393" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00197_0"/>
+        <fptr FILEID="jp2_00197_0"/>
+        <fptr FILEID="alto_00197_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.3" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.2" BETYPE="IDREF" FILEID="alto_00197_0"/>
+              <area BEGIN="BL_393.4" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="394" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00197_1"/>
+        <fptr FILEID="jp2_00197_1"/>
+        <fptr FILEID="alto_00197_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.1" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_394.2" BETYPE="IDREF" FILEID="alto_00197_1"/>
+              <area BEGIN="BL_394.3" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="395" ORDERLABEL="377" TYPE="page">
+        <fptr FILEID="tiff_00198_0"/>
+        <fptr FILEID="jp2_00198_0"/>
+        <fptr FILEID="alto_00198_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.3" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_395.2" BETYPE="IDREF" FILEID="alto_00198_0"/>
+              <area BEGIN="BL_395.4" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="396" ORDERLABEL="378" TYPE="page">
+        <fptr FILEID="tiff_00198_1"/>
+        <fptr FILEID="jp2_00198_1"/>
+        <fptr FILEID="alto_00198_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.2" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_396.3" BETYPE="IDREF" FILEID="alto_00198_1"/>
+              <area BEGIN="BL_396.4" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="397" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00199_0"/>
+        <fptr FILEID="jp2_00199_0"/>
+        <fptr FILEID="alto_00199_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.3" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_397.2" BETYPE="IDREF" FILEID="alto_00199_0"/>
+              <area BEGIN="BL_397.4" BETYPE="IDREF" FILEID="alto_00199_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="398" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00199_1"/>
+        <fptr FILEID="jp2_00199_1"/>
+        <fptr FILEID="alto_00199_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.1" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.2" BETYPE="IDREF" FILEID="alto_00199_1"/>
+              <area BEGIN="BL_398.3" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="399" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00200_0"/>
+        <fptr FILEID="jp2_00200_0"/>
+        <fptr FILEID="alto_00200_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.3" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.2" BETYPE="IDREF" FILEID="alto_00200_0"/>
+              <area BEGIN="BL_399.4" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="400" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.3" BETYPE="IDREF" FILEID="alto_00200_1"/>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+              <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.6" BETYPE="IDREF" FILEID="alto_00198_1"/>
+            <area BEGIN="BL_397.1" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b396-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_396.5" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-13" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.14" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.13" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.12" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.11" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.4" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.5" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            <area BEGIN="BL_399.1" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.5" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_400.1" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.5" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.6" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFR" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.11" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_394.12" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.4" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.5" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.6" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.7" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.8" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_394.9" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.13" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.7" BETYPE="IDREF" FILEID="alto_00198_0"/>
+            <area BEGIN="BL_396.1" BETYPE="IDREF" FILEID="alto_00198_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.7" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.6" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b397-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_397.5" BETYPE="IDREF" FILEID="alto_00199_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.6" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHc" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.18" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_394.19" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b395-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_395.5" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-13" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.20" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_395.1" BETYPE="IDREF" FILEID="alto_00198_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.14" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b394-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.15" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGf" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.10" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.10" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak1" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_394.16" BETYPE="IDREF" FILEID="alto_00197_1"/>
+            <area BEGIN="BL_394.17" BETYPE="IDREF" FILEID="alto_00197_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0088" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Miller v. Mathias">Joseph A. Miller, Administrator, Appellant, v. Peter Mathias and Mary Mathias, Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 465</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00242_0" MIMETYPE="image/tiff" CHECKSUM="88330f49989617b10ebab6ecd0bbc958" CHECKSUMTYPE="MD5" SIZE="44620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00242_0.tif"/>
+      </file>
+      <file ID="tiff_00242_1" MIMETYPE="image/tiff" CHECKSUM="a939f4345dcc14d302de5134b5a9e2fd" CHECKSUMTYPE="MD5" SIZE="46328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00242_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00242_0" MIMETYPE="image/jp2" CHECKSUM="bd967aa73aaeff4a0f56013e26305336" CHECKSUMTYPE="MD5" SIZE="2420168">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00242_0.jp2"/>
+      </file>
+      <file ID="jp2_00242_1" MIMETYPE="image/jp2" CHECKSUM="8c4d72bb792712b49b06a64fa51565f0" CHECKSUMTYPE="MD5" SIZE="2399956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00242_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00242_0" MIMETYPE="text/xml" CHECKSUM="bf4a084e0a474f5d71798f571c2687b2" CHECKSUMTYPE="MD5" SIZE="75628">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00242_0.xml"/>
+      </file>
+      <file ID="alto_00242_1" MIMETYPE="text/xml" CHECKSUM="9211efc25c20ab152f906116e3e00f8a" CHECKSUMTYPE="MD5" SIZE="73613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00242_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0088" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="466" firstpage="465">
+              <parties id="b483-4" pgmap="483">Joseph A. Miller, Administrator, Appellant, v. Peter Mathias and Mary Mathias, Appellees.</parties>
+              <decisiondate id="AzI" pgmap="483">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b483-8" pgmap="483">Walter Eden and Eden &amp; Martin, for appellant.</attorneys>
+              <attorneys id="b483-9" pgmap="483">R. M. Peadro and M. A. Mattox, for appellees.</attorneys>
+              <summary id="b483-7" pgmap="483">Assumpsit. Appeal from the County Court of Moultrie county; the Hon. E. D. Hutchinson, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AP0" pgmap="483">Reversed and remanded.</disposition>
+              <headnotes id="b483-5" pgmap="483">1. Evidence—when party incompetent by virtue of interest. Where the adverse party sues or defends in a representative capacity, the other party in interest is incompetent.</headnotes>
+              <headnotes id="b483-6" pgmap="483">2. Evidence—when admissions of one party hind another. The admission of one joint lessee is general evidence against both lessees.</headnotes>
+              <opinion type="majority">
+                <author id="b483-10" pgmap="483">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A1P" pgmap="483">delivered the opinion of the court.</p>
+                <p id="b483-11" pgmap="483(172) 484(178)">This is an action by appellant to recover rent alleged to be due under a verbal lease by the terms of which appellant’s intestate, Salathiel Miller, rented to ap­pellees certain farm lands for the year beginning March 1, 1905, at the rental of $1,440. The jury re­turned a verdict in favor of the defendants, upon which judgment was duly rendered. It is conceded that all of said rent has been paid except the sum of $400, which is the amount now in controversy. Upon the trial appellant testified that all he knew had been paid on account of the rent was $1,050, which would leave still due the sum of $400, and that he had heard ap­pellees say that they had rented the land in question from his father, his intestate. Counsel for appellees then contended that they were entitled to show the entire conversation between the deceased and the wit­ness, and under such pretext the court, over the ob­jection of appellant, permitted Mrs. Mathias to relate in detail a conversation which she claimed to have had with the deceased and to have repeated to appel­lant after his appointment as administrator. She was thus allowed to testify in effect that she told appellant that she paid the deceased $400 in September, 1906; and that she at that time exhibited to appellant an account book containing an entry pertaining to the transaction made on the day the money was paid. A party to a suit of the present character is an incompe­tent witness under the statute as to any transaction with the deceased. There was- nothing in the cross-exam­ination of the witness which rendered the conversa­tion in question competent. The jury doubtless be­lieved from the testimony of Mrs. Mathias' that she had paid the deceased the sum in controversy in the ease, on the day in question, that she had shown him an entry to that effect in her account book and that he failed to object to the correctness of the same. The error was therefore clearly prejudicial to appellant.</p>
+                <p id="b484-5" pgmap="484">To sustain his contention that the sum in contro­versy was still due under the lease, appellant proved certain alleged admissions by Peter Mathias which tended to support such claim. The court instructed the jury that such admissions were not binding upon Mary Mathias. This also was error. Being joint lessees of the premises, it will be presumed in the absence of proof to the contrary, that they shared in the bene­fits. They therefore had a joint interest in the suit, and an admission by one was general evidence against both. 1 Greenleaf Evidence, sec. 174; McMillan v. Mc­Dill, 110 Ill. 51.</p>
+                <p id="b484-6" pgmap="484">For the reasons stated the judgment is reversed and the cause remanded.</p>
+                <p id="b484-7" pgmap="484">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="483" ORDERLABEL="465" TYPE="page">
+        <fptr FILEID="tiff_00242_0"/>
+        <fptr FILEID="jp2_00242_0"/>
+        <fptr FILEID="alto_00242_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_483.2" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_483.1" BETYPE="IDREF" FILEID="alto_00242_0"/>
+              <area BEGIN="BL_483.3" BETYPE="IDREF" FILEID="alto_00242_0"/>
+              <area BEGIN="BL_483.18" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="484" ORDERLABEL="466" TYPE="page">
+        <fptr FILEID="tiff_00242_1"/>
+        <fptr FILEID="jp2_00242_1"/>
+        <fptr FILEID="alto_00242_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.2" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.3" BETYPE="IDREF" FILEID="alto_00242_1"/>
+              <area BEGIN="BL_484.4" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-11" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.17" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_484.1" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.14" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzI" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.10" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_483.11" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1P" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.15" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_483.16" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.5" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.6" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP0" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.9" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.7" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.13" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.12" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.7" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_483.8" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-6" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.6" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.5" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.4" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0064" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Cleef v. City of Chicago">Anna Van Cleef, Appellee, v. City of Chicago, Ap­pellant</name>
+          <docketnumber>Gen. No. 13,671</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 488</citation>
+          <decisiondate>1908-11-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="1598bbf2f54ce4233362af5f63733879" CHECKSUMTYPE="MD5" SIZE="39888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00252_1.tif"/>
+      </file>
+      <file ID="tiff_00253_0" MIMETYPE="image/tiff" CHECKSUM="2e8e78566ae48f60ad95465e95b7c2ce" CHECKSUMTYPE="MD5" SIZE="54532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00253_0.tif"/>
+      </file>
+      <file ID="tiff_00253_1" MIMETYPE="image/tiff" CHECKSUM="501048c80b2c2555fd128037d5a355c3" CHECKSUMTYPE="MD5" SIZE="53024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00253_1.tif"/>
+      </file>
+      <file ID="tiff_00254_0" MIMETYPE="image/tiff" CHECKSUM="3f1390a9e700a365d32f3870bcf32802" CHECKSUMTYPE="MD5" SIZE="53330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00254_0.tif"/>
+      </file>
+      <file ID="tiff_00254_1" MIMETYPE="image/tiff" CHECKSUM="f5f98272c23d4429790ba44449493a25" CHECKSUMTYPE="MD5" SIZE="49934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00254_1.tif"/>
+      </file>
+      <file ID="tiff_00255_0" MIMETYPE="image/tiff" CHECKSUM="964d91ac2d4349b369fae997a1241187" CHECKSUMTYPE="MD5" SIZE="52596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00255_0.tif"/>
+      </file>
+      <file ID="tiff_00255_1" MIMETYPE="image/tiff" CHECKSUM="287d81d53673f97b1042b397a32033a6" CHECKSUMTYPE="MD5" SIZE="51638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00255_1.tif"/>
+      </file>
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="b5bfba7a77a1ed2214f036139d8699d2" CHECKSUMTYPE="MD5" SIZE="52350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="0a613242974818d12a72e6ec752d4d05" CHECKSUMTYPE="MD5" SIZE="39390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00256_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00252_1" MIMETYPE="image/jp2" CHECKSUM="9c114d3bacec84464cf741ad418b32fe" CHECKSUMTYPE="MD5" SIZE="2256166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00252_1.jp2"/>
+      </file>
+      <file ID="jp2_00253_0" MIMETYPE="image/jp2" CHECKSUM="cfdac4db56e999222a24d2bf504066dd" CHECKSUMTYPE="MD5" SIZE="2401073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00253_0.jp2"/>
+      </file>
+      <file ID="jp2_00253_1" MIMETYPE="image/jp2" CHECKSUM="ccc60227e04f8813f154bc7ea484bdfe" CHECKSUMTYPE="MD5" SIZE="2376800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00253_1.jp2"/>
+      </file>
+      <file ID="jp2_00254_0" MIMETYPE="image/jp2" CHECKSUM="cf967f25164133a7ee05fe38efada022" CHECKSUMTYPE="MD5" SIZE="2399163">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00254_0.jp2"/>
+      </file>
+      <file ID="jp2_00254_1" MIMETYPE="image/jp2" CHECKSUM="bea3bf11216862a10cb793619d492f64" CHECKSUMTYPE="MD5" SIZE="2326449">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00254_1.jp2"/>
+      </file>
+      <file ID="jp2_00255_0" MIMETYPE="image/jp2" CHECKSUM="a6b637aaa481e929351a169d0c9fcf3f" CHECKSUMTYPE="MD5" SIZE="2388529">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00255_0.jp2"/>
+      </file>
+      <file ID="jp2_00255_1" MIMETYPE="image/jp2" CHECKSUM="d2d4544e329925f6ab08075beb3b595e" CHECKSUMTYPE="MD5" SIZE="2357920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00255_1.jp2"/>
+      </file>
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="304008564bbaf82ded5bd48f20fe6c6a" CHECKSUMTYPE="MD5" SIZE="2400739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00256_0.jp2"/>
+      </file>
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="c2ed6a0aaa9211bb49d3f1e97c1d2e53" CHECKSUMTYPE="MD5" SIZE="2235649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00256_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00252_1" MIMETYPE="text/xml" CHECKSUM="1a310f4c2abb73606cabbbb3dd7f7cb3" CHECKSUMTYPE="MD5" SIZE="78660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00252_1.xml"/>
+      </file>
+      <file ID="alto_00253_0" MIMETYPE="text/xml" CHECKSUM="535c317200f99e0a9fd8d59a064ccdc5" CHECKSUMTYPE="MD5" SIZE="88109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00253_0.xml"/>
+      </file>
+      <file ID="alto_00253_1" MIMETYPE="text/xml" CHECKSUM="e89f4984c23f5e170772c89b6b420d2f" CHECKSUMTYPE="MD5" SIZE="85521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00253_1.xml"/>
+      </file>
+      <file ID="alto_00254_0" MIMETYPE="text/xml" CHECKSUM="004a268888b532c78477ad6c88f4ab9a" CHECKSUMTYPE="MD5" SIZE="92691">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00254_0.xml"/>
+      </file>
+      <file ID="alto_00254_1" MIMETYPE="text/xml" CHECKSUM="f65faeefe9de4da03da0942179e387f1" CHECKSUMTYPE="MD5" SIZE="87932">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00254_1.xml"/>
+      </file>
+      <file ID="alto_00255_0" MIMETYPE="text/xml" CHECKSUM="3e67d9f968679f2d0eaebb7066607d0b" CHECKSUMTYPE="MD5" SIZE="86225">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00255_0.xml"/>
+      </file>
+      <file ID="alto_00255_1" MIMETYPE="text/xml" CHECKSUM="7cb531ad68c51f483b5c4e1c50e4d603" CHECKSUMTYPE="MD5" SIZE="89482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00255_1.xml"/>
+      </file>
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="7cc4fbd5da33082a19703595b179e06a" CHECKSUMTYPE="MD5" SIZE="88430">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00256_0.xml"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="8a1175b3fd75fda05d654f481cdc8153" CHECKSUMTYPE="MD5" SIZE="71013">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00256_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0064" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="496" firstpage="488">
+              <docketnumber pgmap="504" id="b504-5">Gen. No. 13,671.</docketnumber>
+              <parties pgmap="504" id="b504-4">Anna Van Cleef, Appellee, v. City of Chicago, Ap­pellant.</parties>
+              <decisiondate pgmap="504" id="Atb">Opinion filed November 6, 1908.</decisiondate>
+              <otherdate pgmap="504" id="AkmV">Heard in the Branch Appellate Court at the March term, 1907.</otherdate>
+              <otherdate pgmap="504" id="AM4">Rehearing denied No­vember 20, 1908.</otherdate>
+              <attorneys pgmap="504" id="b504-10">John R. Caverly, for appellant; Sigmund Zeisler, of counsel.</attorneys>
+              <attorneys pgmap="504" id="b504-11">Darrow, Masters &amp; Wilson, for appellee.</attorneys>
+              <summary pgmap="504" id="b504-9">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Arthur H. Chetlain, Judge,presid­ing.</summary>
+              <disposition pgmap="504" id="AnH">Affirmed.</disposition>
+              <headnotes pgmap="504" id="b504-6">1. Streets—when municipality liable for injury occurring upon. A person injured while attending a street fair by being pushed from the steps leading from a platform, which steps led from the entrance to a tent to the open street, is entitled to recover,from the municipality which has authorized the holding of such fair in such manner, notwithstanding the person so injured was not using the street in question for purposes of travel.</headnotes>
+              <headnotes pgmap="504" id="b504-7">2. Nuisance—when authorization of use of street illegal. A municipality is without power to authorize the holding of a street fair upon a public street and to do so is to authorize the creation of a public nuisance, rendering it liable to persons injured thereby while in the exercise of ordinary care, the liability of the municipal­ity in such case attaching even where the parties holding such fair have been guilty of negligent • construction from which the injury results.</headnotes>
+              <p pgmap="504" id="b504-8">Smith, P. X, dissenting.</p>
+              <opinion type="majority">
+                <author pgmap="504" id="b504-12">Mr. Justice Baker</author>
+                <p pgmap="504" id="AyU">delivered the opinion of the court.</p>
+                <p pgmap="504" id="b504-13">This is an. appeal by the defendant, the City of Chicago, from a judgment for $15,000 recovered in an action on the case for personal injuries.</p>
+                <p pgmap="504(37) 505(136)" id="b504-14">The amended declaration contains three counts. The first count avers that the city, being on July 24, 1903, a municipal corporation and in the control of its streets, did, in violation of its duty, “to so manage and control its said streets as not to injure the plaintiff”, knowingly authorize and permit a certain building to be erected at and in the intersection of Ninety-second street and Exchange avenue; that '‘ said building was erected in an unsafe and dangerous manner, particu­larly in that a certain stairway in and about said building was unguarded by guard-rails, so that by reason thereof plaintiff, while coming out of said building, together with a large number of other per­sons, and in the exercise of all due care and caution for her own safety, was pushed and crowded off of and from said stairway, and by reason thereof, fell to and upon the ground”, as a result of which fall she suf­fered a fracture of the right leg and other injuries and permanent disability.</p>
+                <p pgmap="505(222) 506(16)" id="b505-4">The second count repeats the allegations of the first as to the stairway mentioned in that count; avers that the city council of the defendant city duly passed, June 15,1903, an order whereby permission was given to use certain enumerated streets, including those where the building in question was erected, for a “merchants’ carnival and open street fair, to be held from July 20 to July 25,1903, with all necessary authority and permis­sion to regulate and conduct a street carnival and neces­sary shows, stands and attractions in the business center of South Chicago; ’ ’ that by virtue and in pur­suance of this permission “a certain building was erected upon and in said streets of said city as afore­said, which said building was for the purpose of giving entertainments and performances”; that said building was “in direct violation of” section 1882 of the city ordinances, which provides that “no person' shall erect or place any building, in whole or in part, upon any street, alley, sidewalk or other public ground within this city, under a penalty of not more than fifty dollars”; and that on the day of the acci­dent the plaintiff was in said building and “was in the act of coming out of and from said building after a certain entertainment or performance”, when she was crowded off said stairway, which was “unpro­tected or guarded by any guard-rail or protection”.</p>
+                <p pgmap="506" id="b506-5">The third count is substantially the same as the first count, except that it avers that the city knowingly permitted said building to be erected and to remain “for a considerable space of time” in said street in­tersection prior to the accident; that by reason thereof “said building became and was a nuisance, and concerning which the. city knew or should have known, and which said building was in an unsafe and unstable condition in this, to wit, that the said stairs leading to and from said building were unprotected and with­out a guard-rail and concerning which the city knew or should have known”.</p>
+                <p pgmap="506" id="b506-6">June 15, 1903, the city council of the City of Chi­cago passed the following order:</p>
+                <blockquote pgmap="506" id="b506-7">“Ordered that permission be and is hereby given to use the following streets in the City of Chicago for the Merchants Carnival and open street fair to be held from July 20th to July 26th, 1903, with all necessary ■ authority and permission to regulate and conduct a street carnival and necessary shows, stands and at­tractions in the business center of South Chicago. Said street fair being given by the business men of the Eighth Ward; 90th street, from South Chi­cago avenue to the strand; 91st street, from South Chicago to the foot of Green Bay avenue; 92nd street, from South Chicago to Harbor ave­nue ; 93rd street, from South Chicago avenue to Harbor avenue; Muskegon avenue, from South Chicago avenue to 90th street; Waukenbaugh ave­nue, from 91st to 90th street; Exchange, from Lake Shore and Michigan Southern Bailroad to 90th street; Huston, from 93rd to 90th, Erie, from South Chicago to 90th street, Ontario, from South Chi­cago avenue to 90th; Superior, from Harbor to 90th; Buffalo, from 92nd to 90th; Mackinaw, from Harbor to 90th street; Green Bay, from Harbor to 90th street; Strand, from Harbor to 90th street; South Chicago, from 90th to Erie.”</blockquote>
+                <p pgmap="506(6) 507(380)" id="b506-8">Ninety-second street crosses Exchange avenue “be­tween Ninetieth street and the Lake Shore and Michi­gan Southern Bailroad”, and the intersection of said street and avenue was therefore a portion of the streets mentioned in said order. In said streets, at their intersection during the time limited by said or­der three shows were conducted; an animal show, Lilliputians, and Enoch the Waterman, each in a tent set up for that purpose. The tent in which the show of “Enoch” was conducted was large enough to hold three hundred people. In front of it was a platform six feet wide, fifteen or twenty feet long, and four or five feet above the street. From this platform a stair­way, five or six feet wide, led down to the level of the . street. There was no guard-rail or other protection at either end of this stairway. To go into the show people passed up said stairway and across said plat­form, and in coming out they recrossed the platform and went down said stairway to the open street. The show of “Enoch” lasted about fifteen minutes. It was repeated from time to time, and at the close of each exhibition those in attendance left the tent. A charge was made for admission to the show, but the city received no part of such admission fees. Plaintiff went with her husband to said show. When the show was over they, with the other people in attendance, two or three hundred in number, started to go out. Plaintiff crossed the platform and began to go down the stairs. As she was stepping from the first step from the top of the stairway to the next lower step, she was pushed or crowded by the people alongside of and behind her, from the end of the step, and fell to the ground. In her fall her right thigh bone was broken a few inches below the hip, and her right arm a few inches below the shoulder. Before she had fully recovered, while in the act of sitting down in a chair her thigh was again broken at the point of the first fracture. Before she had fully recovered she slipped from a wheel chair to the floor, and again her thigh bone was broken at the same point.</p>
+                <p pgmap="508" id="b508-4">Up to the time of her first injury, plaintiff’s health had been good and she had done the housework for her family. Since that time she has not been able to walk, even with the aid of crutches.</p>
+                <p pgmap="508" id="b508-5">Appellant does not question that plaintiff’s present condition of almost total disability is permanent, but insists that at the time of her first injury she was suffering from a disease of the bone, ' called osteo­malicia.</p>
+                <p pgmap="508" id="b508-6">Prom the evidence, the jury might properly find that said stairway was not reasonably safe for the purpose for which it was used, but was unsafe and dangerous, and also that the plaintiff was not guilty of contributory negligence.</p>
+                <p pgmap="508" id="b508-7">The legislature has given to city councils in this state power, “to open streets; to regulate the use of the same; to prevent or remove obstructions or en­croachments upon the same, and to license, suppress and prohibit * * * theatrical and other exhibitions, shows and amusements.” It has not given to city councils any authority to grant permission to hold a street fair or conduct a show in a street. Permission to conduct a “show” in a street carries with it per­mission to erect in such street a tent or other struc­ture in which to conduct such show. The council of defendant therefore, in passing the order in ques­tion, attempted to authorize the setting up of the tent in question in a public stret for the purpose of con­ducting a show therein.</p>
+                <p pgmap="508(106) 509(68)" id="b508-8">The general duty of the city in respect to its streets is to use reasonable care to keep its streets reasonably safe and convenient for travel. It owes that duty only to those who use the street as a street or highway. Plaintiff when she was injured was not using the street as a street or highway. She had left that part of the street which remained open and unobstructed, gone into the tent to see the show and on her way out, in go­ing down the stars which led from the entrance to the tent to the open street, was pushed or crowded from the stairway and thereby injured. We think that the defendant cannot be held liable to the plaintiff for the injuries so sustained by her, on the ground of a breach of its duty to use care to keep its streets rea­sonably safe for travel, for the reason that the plaint­iff was not, when injured, using the street as a street or for the purpose of travel.</p>
+                <p pgmap="509" id="b509-4">The question remains, however, whether the defend­ant is not liable to the plaintiff on another ground. The criminal code declares that it is a public nuisance “to obstruct or encroach upon public streets”. The council of defendant in the attempted exercise of the power given by the legislature, “to regulate the use of streets and to license shows”, exceeded its author­ity and passed an order which in terms gave permis­sion to obstruct and encroach upon certain of its streets for a purpose not authorized by law, to place an unlawful structure, a public nuisance, in said streets.</p>
+                <p pgmap="509" id="b509-5">In Schultz v. Milwaukee, 49 Wis. 254,260, it was said by Mr. Justice Lyon: “If a municipal corporation, in the attempted exercise of any power conferred upon it by law, as to license shows, amusements and the like, exceeds its authority and licenses the placing of a public nuisance in the street, or the unlawful and dangerous use of a street for any purpose, and an injury results therefrom, without negligence on the part of the person injured, the municipality is liable to respond in damages for such injury.”</p>
+                <p pgmap="509(93) 510(132)" id="b509-6">In Johnson v. New York, 186 N. Y. 139, the board of aldermen, by special ordinance, granted a certain club permission to conduct speed trials for automo­biles in a certain boulevard on a certain day. The ordinance provided that at such trials a greater speed than eight miles per hour might be allowed. The statute then in force made it a misdemeanor to drive an automobile at a greater speed than eight miles an hour in any city, except where a greater speed was permitted by ordinance. Plaintiff went to see the speed contest and was in a field adjoining said boule­vard when an automobile was deflected from the road, ran into the field where plaintiff was and struck and injured her. In the opinion it was said at page 145: ‘ ‘ That this ordinance, which did not assume to author­ize the operation of automobiles generally at a greater rate of speed than that prescribed in the statute, and permitted only certain specified persons to use the highway as a race course on a particular occasion, was not only invalid as a regulation of the speed of automobiles, but also operated as a participation by the defendant in an unlawful act, is settled by the recent decision of this court in Landau v. City of New York, 180 N. Y. 48.”</p>
+                <p pgmap="510" id="b510-5">In Cohen v. Mayor, etc., of New York, 113 N. Y. 533, the City of New York granted to M. permission to store his wagon in the street in front of his store. He negligently tied up the thills. Another wagon struck said wagon, turned it around, the string which held up the thills broke and the thills fell, striking plaintiff’s intestate, who was passing by on the sidewalk, and inflicted on him injuries from which he died. It was held that the license was issued without authority, that the storing of the wagon in the street was a public nuisance; that the defendant by licensing it made itself liable for any damages resulting therefrom, the same as if it had itself maintained the nuisance.</p>
+                <p pgmap="510(109) 511(114)" id="b510-6">In the opinion in that case it was said, p. 537: “But assuming that the city had no right to issue the permit, it is urged that such license did not authorize the negligence which caused Cohen’s death, and that the act of the defendant was too remote to be regarded as the proximate cause of the damage herein. We do not think so. The act of the defendant was wrongful, it consisted in setting up an obstruction in the public highway, and the accident happened because of the presence of the obstruction at the point in question. It was there by the act of the defendant, and being there it has caused the injury. To he sure it may be said that if the thills had not been negligently tied, they would not have fallen. But that was simply the way in which, by reason of the presence of the ob­struction, the accident occurred. There is always rea­sonable ground for apprehending accidents from ob­structions in a public highway, and any person who wrongfully places them or aids in so doing, must be held responsible for such accidents as occur by rea­son of their presence. The obstruction in such case must be regarded, within the meaning of the law on the subject, as the proximate cause of the damage.”</p>
+                <p pgmap="511" id="b511-4">In Wheeler v. Fort Dodge, 131 Iowa, 566, the coun­cil of the defendant granted a certain club “the pri­vilege of the streets for a Fourth of July celebration * * * , the privilege of selling privileges for booths and entertainment,” etc. The club arranged with a certain person to give an exhibition called a “Slide for Life”. A wire was strung across the street down which the performer was expected to slide in some sort of harness. The harness gave way and the performer fell, striking and injuring the plaintiff, and it was held that the city was a participant in the maintenance of a public nuisance, and that the breaking of the har­ness was a concurrent and not an independent cause of plaintiff’s injury.</p>
+                <p pgmap="511" id="b511-5">In this ease there is no controversy as to the evi­dentiary facts. From the evidence the jury might properly find that the stairway was not reasonably safe for the purpose for which it was provided and used. In the attempted exercise of the power to regu­late the use of streets and to license shows, the coun­cil of defendant by affirmative act authorized the erec­tion and continuance of a public nuisance in its streets. The defendant thereby became a participant in creat­ing and maintaining such nuisance. The negligent construction of the stairway was a concurrent and not an independent cause of plaintiff’s injury.</p>
+                <p pgmap="511(11) 512(21)" id="b511-6">In the opinion of the majority of the court the de~ fendant is liable to the plaintiff for her injuries, although sustained when she was not using the street as a street.</p>
+                <p pgmap="512" id="b512-5">Whether the subsequent fractures of plaintiff’s thigh at the point where it was fractured in her fall from, the stairway resulted from and were the direct consequence of such fall was, we think, on the evidence in this record a question for the jury. If such subse­quent fractures and her disabled and crippled condition resulted from and were the consequence of the first fracture and injury, the damages awarded cannot be held excessive.</p>
+                <p pgmap="512" id="b512-6">The judgment of the Superior Court will be af­firmed.</p>
+                <p pgmap="512" id="b512-7">Affirmed.</p>
+                <p pgmap="512" id="b512-8">Mr. Justice Chyteaus concurring in the conclusion, but not in all of the reasoning of the opinion.</p>
+                <p pgmap="512" id="b512-9">Mr. Presiding Justice Smith dissenting.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="504" ORDERLABEL="488" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jp2_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.2" BETYPE="IDREF" FILEID="alto_00252_1"/>
+              <area BEGIN="BL_504.3" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="505" ORDERLABEL="489" TYPE="page">
+        <fptr FILEID="tiff_00253_0"/>
+        <fptr FILEID="jp2_00253_0"/>
+        <fptr FILEID="alto_00253_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.2" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.3" BETYPE="IDREF" FILEID="alto_00253_0"/>
+              <area BEGIN="BL_505.4" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="506" ORDERLABEL="490" TYPE="page">
+        <fptr FILEID="tiff_00253_1"/>
+        <fptr FILEID="jp2_00253_1"/>
+        <fptr FILEID="alto_00253_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.2" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.3" BETYPE="IDREF" FILEID="alto_00253_1"/>
+              <area BEGIN="BL_506.4" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="507" ORDERLABEL="491" TYPE="page">
+        <fptr FILEID="tiff_00254_0"/>
+        <fptr FILEID="jp2_00254_0"/>
+        <fptr FILEID="alto_00254_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.2" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.3" BETYPE="IDREF" FILEID="alto_00254_0"/>
+              <area BEGIN="BL_507.4" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="508" ORDERLABEL="492" TYPE="page">
+        <fptr FILEID="tiff_00254_1"/>
+        <fptr FILEID="jp2_00254_1"/>
+        <fptr FILEID="alto_00254_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.1" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_508.2" BETYPE="IDREF" FILEID="alto_00254_1"/>
+              <area BEGIN="BL_508.3" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="509" ORDERLABEL="493" TYPE="page">
+        <fptr FILEID="tiff_00255_0"/>
+        <fptr FILEID="jp2_00255_0"/>
+        <fptr FILEID="alto_00255_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.2" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_509.3" BETYPE="IDREF" FILEID="alto_00255_0"/>
+              <area BEGIN="BL_509.4" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="510" ORDERLABEL="494" TYPE="page">
+        <fptr FILEID="tiff_00255_1"/>
+        <fptr FILEID="jp2_00255_1"/>
+        <fptr FILEID="alto_00255_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.2" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_510.3" BETYPE="IDREF" FILEID="alto_00255_1"/>
+              <area BEGIN="BL_510.4" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="511" ORDERLABEL="495" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.3" BETYPE="IDREF" FILEID="alto_00256_0"/>
+              <area BEGIN="BL_511.4" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="496" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.2" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.3" BETYPE="IDREF" FILEID="alto_00256_1"/>
+              <area BEGIN="BL_512.4" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-12" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.18" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-13" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.21" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-10" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.16" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-11" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.17" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-14" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.22" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_505.1" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkmV" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.11" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.6" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyU" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.19" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_504.20" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.6" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.14" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_504.15" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.5" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Atb" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.13" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.5" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.9" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.5" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.4" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.5" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            <area BEGIN="BL_506.1" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.6" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.7" BETYPE="IDREF" FILEID="alto_00254_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.4" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.5" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.6" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.7" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.8" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.9" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_504.10" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnH" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.12" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.5" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b508-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_508.8" BETYPE="IDREF" FILEID="alto_00254_1"/>
+            <area BEGIN="BL_509.1" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.5" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.7" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.6" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-4" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.5" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b510-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_510.6" BETYPE="IDREF" FILEID="alto_00255_1"/>
+            <area BEGIN="BL_511.1" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.7" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.7" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.8" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.6" BETYPE="IDREF" FILEID="alto_00255_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.8" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            <area BEGIN="BL_507.1" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b509-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_509.7" BETYPE="IDREF" FILEID="alto_00255_0"/>
+            <area BEGIN="BL_510.1" BETYPE="IDREF" FILEID="alto_00255_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,614 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0050" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Keenan v. Drew">Frank Keenan, Appellee, v. John E. Drew, Appellant</name>
+          <docketnumber>den. No. 4,974</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 388</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="d79851b308265028b88405a3e98e9030" CHECKSUMTYPE="MD5" SIZE="42388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_1.tif"/>
+      </file>
+      <file ID="tiff_00203_0" MIMETYPE="image/tiff" CHECKSUM="05ddb147233d8ea1269caf3d07d5b2b6" CHECKSUMTYPE="MD5" SIZE="49852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00203_0.tif"/>
+      </file>
+      <file ID="tiff_00203_1" MIMETYPE="image/tiff" CHECKSUM="b2a94b4f73c0cef272fd6683a1d34f00" CHECKSUMTYPE="MD5" SIZE="46190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00203_1.tif"/>
+      </file>
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="77de036ffeb9ad9e97ebd2908b8d5571" CHECKSUMTYPE="MD5" SIZE="53528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="2be15bea21582e0fa14de9fada0438a5" CHECKSUMTYPE="MD5" SIZE="54182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="53edbf98359a8320055561f060178d20" CHECKSUMTYPE="MD5" SIZE="52866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="12bd32a1ab9e8e1e8d2ccd886e039a0b" CHECKSUMTYPE="MD5" SIZE="41454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00205_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="38286ebf4cfcdcfd170b1f8b87193c80" CHECKSUMTYPE="MD5" SIZE="2291704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_1.jp2"/>
+      </file>
+      <file ID="jp2_00203_0" MIMETYPE="image/jp2" CHECKSUM="e9529c4c6c4a332f7cec2e68a29cfc1c" CHECKSUMTYPE="MD5" SIZE="2393970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00203_0.jp2"/>
+      </file>
+      <file ID="jp2_00203_1" MIMETYPE="image/jp2" CHECKSUM="d890cb3ff0d5415bde2402d1bbda46e5" CHECKSUMTYPE="MD5" SIZE="2319752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00203_1.jp2"/>
+      </file>
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="23bd4891d4d1d1fe30e77ced8a8b3574" CHECKSUMTYPE="MD5" SIZE="2417656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="0e0b4679ee8607d5132c677a89117db9" CHECKSUMTYPE="MD5" SIZE="2373753">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="06032ea58c1ec731248c7f100d73e408" CHECKSUMTYPE="MD5" SIZE="2409495">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="4b4ac41a4e5efda535f8681d21f998a2" CHECKSUMTYPE="MD5" SIZE="2281838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00205_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="ad01cf0ba5f8de190422291d9ddd3552" CHECKSUMTYPE="MD5" SIZE="73228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00202_1.xml"/>
+      </file>
+      <file ID="alto_00203_0" MIMETYPE="text/xml" CHECKSUM="d4f57eb611b9362edf7de19c9f5a3b95" CHECKSUMTYPE="MD5" SIZE="85391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00203_0.xml"/>
+      </file>
+      <file ID="alto_00203_1" MIMETYPE="text/xml" CHECKSUM="4115a538a7dbd5aa0be13fc6c7425f00" CHECKSUMTYPE="MD5" SIZE="77441">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00203_1.xml"/>
+      </file>
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="ad23c1af2421695e6bd29668563008c7" CHECKSUMTYPE="MD5" SIZE="88992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="0ffb580d36fe3e4020a014560f67d02c" CHECKSUMTYPE="MD5" SIZE="87699">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="858c0b641b453dcc5175087c3b3b8d18" CHECKSUMTYPE="MD5" SIZE="85214">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="fc20da0b5345172813c786c74b651ad5" CHECKSUMTYPE="MD5" SIZE="75316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00205_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0050" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="394" firstpage="388">
+              <docketnumber pgmap="404" id="ABdI">den. No. 4,974.</docketnumber>
+              <parties pgmap="404" id="b404-8">Frank Keenan, Appellee, v. John E. Drew, Appellant.</parties>
+              <decisiondate pgmap="405" id="AfD">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="405" id="AnA">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="406" id="b406-5">C. L. &amp; C. E. Sheldon and Henry S. Dixon, for appellant.</attorneys>
+              <attorneys pgmap="406" id="b406-6">Brooks &amp; Brooks and J. W. Watts, for appellee.</attorneys>
+              <summary pgmap="405" id="b405-7">Trespass. Appeal from the County Court of Lee county; the Hon. Robebt H. Scott, Judge, presiding.</summary>
+              <disposition pgmap="405" id="AS7">Affirmed upon remittitur.</disposition>
+              <headnotes pgmap="404" id="b404-9">1.' Pleading—when count in trespass sufficient after verdict. Held, that the count in trespass for an illegal sale under execution in question in this case, was sufficient after verdict.</headnotes>
+              <headnotes pgmap="404" id="b404-10">g. Trespass—when officer selling under execution guilty of. A constable who after levy sells the property levied upon after the same has been duly claimed as exempt, becomes guilty of a tres­pass.</headnotes>
+              <headnotes pgmap="404" id="b404-11">3. Exemptions—when description in schedule sufficient. Held, that the jury were justified in finding that a field of corn claimed by schedule as exempt was the same field of corn that had been levied upon and sold.</headnotes>
+              <headnotes pgmap="405" id="b405-4">4. Exemptions—effect of omission from schedule. An omission ■of property from a schedule does not affect the right of the judgment debtor to claim that the included articles were exempt, unless the omission was fraudulent.</headnotes>
+              <headnotes pgmap="405" id="b405-5">5. Evidence—when offer of proof insufficient. An offer of proof must embody an offer to prove facts which will establish the legal claim or defense relied upon.</headnotes>
+              <headnotes pgmap="405" id="b405-6">6. Damages—when exemplary should not he awarded. Held, that under the facts of this case exemplary damages should not be awarded against a constable who had illegally sold exempt prop­erty.</headnotes>
+              <p pgmap="405" id="b405-8">Statement by the Court. In August, 1905, appel­lant, a constable of Lee county, received two execu­tions against appellee, upon judgments rendered by a justice. Appellee caused a schedule to be prepared and presented to appellant under each execution within the time fixed by law. He therein described his personal property as four horses, valued at $180; one buggy valued at $10; one circular wood-saw valued at $10; one set of double harness valued at $5; thirty acres of growing corn, upon which there is a mortgage, value of crop unknown; one corn plow valued at $1; cash on hand, none; and a debt of $2.50, due appellee from John Lutgens. Appellant did not cause any apprais.ement to be made, but levied upon a field of corn which appellee owned, growing upon land he had leased from one Moriarity, and sold it at execution sale to one of the plaintiffs in execution for $305. Thereafter appellee brought this suit against ap­pellant, and filed a declaration containing four counts, to which appellant filed the plea of not guilty and fol­lowing which there were numerous special pleas, special replications and special rejoinders. Upon the fourth trial appellee had a verdict and a judgment for $305, from which defendant below prosecutes this ap­peal.</p>
+              <p pgmap="406" id="b406-4">At the last trial appellee withdrew all counts of the declaration except the fourth, and it was agreed that the pleas should stand to that count. The fourth count was a general count in trespass, alleging that at the time and place in question appellant with force and arms, “took, drove and léd away” thirty-five acres of standing corn of appellee, of the value of $425,' and converted and disposed of the same to his own use, to the damage of appellee. The special pleas set up the issuing and delivery of said executions to appellant as constable, and averred that he seized and took said goods and chattels of appellee in execution to make the money in said execution mentioned, as he lawfully might, said property being liable to be taken by virtue of said writs, which were in full force. The special pleas, replications and rejoinders, raised the issues whether appellee scheduled this field of com, whether he described it with reasonable certainty in his schedule, whether it was liable to be seized and sold on said executions, whether appellant had a legal right to disregard the schedules and to levy said ex­ecutions on said field of corn without appointing appraisers, whether appellee was entitled to select $100 worth of property as exempt from levy and sale on said executions, and whether appellee fraudulently omitted to schedule a sum of money due him for oats sold Frank Hettinger.</p>
+              <opinion type="majority">
+                <author pgmap="406" id="b406-7">Mr. Justice Dibell</author>
+                <p pgmap="406" id="AY6Q">delivered the opinion of the court.</p>
+                <p pgmap="406(39) 407(239)" id="b406-8">It is contended that the fourth count, the only one now remaining in the declaration, is so defective that it will not support a judgment. It is said that it is impossible that appellant “took, drove and led away” thirty-five acres of standing corn. The words “drove and led away” may be disregarded. Appellant levied his executions upon a field of standing com owned by appellee, and sold it at public sale. We think the allegation that appellant took this corn and converted it to his own use is sufficient after verdict. If the field of corn described in the schedule was that upon which the execution was levied, then appellant had no law­ful authority to sell it without first causing it to be appraised and giving appellee an opportunity to make his selection therefrom-. When he levied upon and sold this corn without causing an appraisement to be made, he became a trespasser, if this was the same com described in the schedule, and in such case his executions did not justify him and he was liable to appellee in an ordinary action of trespass. As appel­lee did not seek to recover a penalty, the common form of a declaration in trespass was sufficient. Pace v. Vaughn, 1 Gilm. 30; Cornelia v. Ellis, 11 Ill. 585; Amend v. Murphy, 69 Ill. 337; Race v. Oldridge, 90 Ill. 250. When an officer Sells property on execution before the time when the statute permits him to sell, he becomes a trespasser ab initio. Camp v. Ganley, 6 Ill. App. 499; Barrett v. Bogardus, 71 Ill. App. 407; 12 Am. &amp; Eng. Ency. of Law, 2nd Ed. 252.</p>
+                <p pgmap="407(126) 408(152)" id="b407-5">One of the issues was whether this was the field of com which was scheduled and whether it was suffi­ciently described in the schedule. The description in the schedule was vague, as it did not locate the field in which the com was growing. The proof showed that appellant and one of the execution plaintiffs measured the corn-field on the Moriarity farm, which was afterward sold, and found it to contain over thirty-five acres instead of thirty acres. The schedule said there was a mortgage upon the corn so scheduled. Appellant and the recorder searched the county rec­ords and did not find of record any mortgage upon this corn. Appellee’s father had certain other land, known as the Haley land, rented, and appellant knew that appellee worked other land besides the Moriarity land, and had seen him working on the land his father had rented, and knew he worked on the west eighty of the Haley land. In this state of the proof the court gave two instructions requested by appellee, which seemed to assume that the corn levied upon and sold was the corn scheduled, and also modified an instruc­tion requested by appellant as to seem to make a like assumption. This language should have been more carefully guarded, but other instructions were ex­plicit that if this corn was not scheduled, appellee could not recover, and the proof did not show that appellee owned any corn except this one field on the Moriarity land, and we conclude the jury could not have reasonably found that the schedule referred to any field of corn except that growing on the Moriarity land rented by appellee.</p>
+                <p pgmap="408" id="b408-5">The court refused to permit appellant to prove that appellee’s landlord issued a distress for rent, and tfiat the purchaser of this corn at the execution sale paid the landlord $250 thereon. The offer did not go far enough. If the offer had been to prove facts which gave the landlord a lien on this corn, the proof should have been admitted, as tending to limit and diminish the interest which appellee had in the corn, though not to establish a set-off. But there was no offer to prove such facts as would give the landlord a lien.</p>
+                <p pgmap="408(110) 409(177)" id="b408-6">The court sustained an objection to an offer by ap­pellant to prove that appellee had delivered certain oats at Hettinger’s elevator before this schedule was made, and that they had not been paid for and were worth $94.82, and that appellee either owned the oats or had a claim against Hettinger for their value when the schedule was made, which did not include them; and “that said oats had been fraudulently concealed from the judgment creditors”. The omission of prop­erty from the schedule did not deprive appellee of Ms right to claim his exemptions out of the articles named in the schedule, at least unless said omission was. fraudulent. Berry v. Hanks, 28 Ill. App. 51; Horton v. Smith, 46 Ill. App. 241. Moreover, the principal of the two executions was but $108.69, and the costs were slight, while appellee scheduled property valued at over $200, besides this corn which sold for $305; so that he scheduled property worth about $500. He was a single man, and entitled to select but $100 from this property as exempt. It is not easy to see there­fore how the failure to schedule the oats or money at Hettinger’s could have been fraudulent. While ap­pellant offered to prove that these oats or this money had been “fraudulently” concealed, he did not offer to prove any facts which would tend to establish a fraudulent concealment. As no competent specific evidence of "fraud was offered, the question whether proper proof should have been received, if offered, and whether the fraudulent concealment of property from a schedule will invalidate a schedule as to the property named therein, is not preserved for review. Goodrich v. City of Chicago, 218 Ill. 18.</p>
+                <p pgmap="409(173) 410(73)" id="b409-5">We, however, conclude that the judgment is excess­ive. Ho fact appears which would justify vindictive damages. Appellee was only entitled to compensa­tion for the wrong done him in not permitting him to make his selection out of this field of corn. The purchaser paid $305 for it, and the proof is that 962 bushels of corn were taken from the field, worth in the field from $259 to $288. But if proper appraisement had been made, appellee could only have selected and claimed as exempt $100 worth of this corn. The cases relied upon by appellee, are mainly where the specific property levied upon was exempt. This corn was not specifically exempt, but appellee was entitled to $100 worth therefrom, and was only deprived of that amount. Under these circumstances we fail to see why he should be allowed to recover the entire value of the property. To illustrate the injustice of this recovery, let us suppose that the executions were much larger and that the property was worth $10,000, and that from it the debtor was entitled to select $100 worth, and was deprived of that right by the failure of the officer to have the property appraised and to permit him to make his selection of $100 worth. It would shock the sense of justice of any reasonable man to permit the debtor in such a case to recover $10,000 from the officer, when he had only been de­prived of $100.</p>
+                <p pgmap="410" id="b410-5">This opinion will be lodged with the clerk, and counsel for both parties will be notified thereof. If, within seven days, appellee files a remittitur of all the principal of said judgment except $100, it will be affirmed at the sum of $100 and the costs of this court will be adjudged, against appellee. If such remittitur is not filed the judgment will be reversed and the cause remanded.</p>
+                <p pgmap="410" id="b410-6">Affirmed upon remittitur.</p>
+                <p pgmap="410" id="b410-7">Thereafter appellee filed a remittitur of all said judgment except $100. The judgment is therefore affirmed in the sum of $100. The costs of this court are adjudged against appellee.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="404" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.3" BETYPE="IDREF" FILEID="alto_00202_1"/>
+              <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="405" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00203_0"/>
+        <fptr FILEID="jp2_00203_0"/>
+        <fptr FILEID="alto_00203_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.2" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.1" BETYPE="IDREF" FILEID="alto_00203_0"/>
+              <area BEGIN="BL_405.3" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="406" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00203_1"/>
+        <fptr FILEID="jp2_00203_1"/>
+        <fptr FILEID="alto_00203_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.1" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.2" BETYPE="IDREF" FILEID="alto_00203_1"/>
+              <area BEGIN="BL_406.3" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="407" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.2" BETYPE="IDREF" FILEID="alto_00204_0"/>
+              <area BEGIN="BL_407.4" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+              <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.2" BETYPE="IDREF" FILEID="alto_00205_0"/>
+              <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+              <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-11" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.12" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-10" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.11" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfD" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.12" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.13" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY6Q" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.8" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            <area BEGIN="BL_406.9" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.6" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.11" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.7" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.6" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.14" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnA" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.9" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.10" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-9" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.10" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.8" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.5" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.4" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-8" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.10" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            <area BEGIN="BL_407.1" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-4" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.4" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.5" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.6" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-7" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.7" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.8" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.5" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-6" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.6" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-5" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABdI" BETYPE="IDREF" FILEID="casebody_0050"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.9" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

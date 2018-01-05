@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0127" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Whitsett v. Wellington Starch Co.">Grant Whitsett, Appellant, v. Wellington Starch Company, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 631</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00325_0" MIMETYPE="image/tiff" CHECKSUM="37a9ac9d7fc1b9ce328b35e1571e0050" CHECKSUMTYPE="MD5" SIZE="42462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00325_0.tif"/>
+      </file>
+      <file ID="tiff_00325_1" MIMETYPE="image/tiff" CHECKSUM="c26a82a918e431af5f1870b7af178eff" CHECKSUMTYPE="MD5" SIZE="54938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00325_1.tif"/>
+      </file>
+      <file ID="tiff_00326_0" MIMETYPE="image/tiff" CHECKSUM="e4baf0efd707e0e193578beb4f0cf8d4" CHECKSUMTYPE="MD5" SIZE="53888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00326_0.tif"/>
+      </file>
+      <file ID="tiff_00326_1" MIMETYPE="image/tiff" CHECKSUM="ad9211eef455e4e375c3b7fb0a0266e2" CHECKSUMTYPE="MD5" SIZE="52684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00326_1.tif"/>
+      </file>
+      <file ID="tiff_00327_0" MIMETYPE="image/tiff" CHECKSUM="8479981f2f5ec23e0d68167bfc2d9f9b" CHECKSUMTYPE="MD5" SIZE="53554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00327_0.tif"/>
+      </file>
+      <file ID="tiff_00327_1" MIMETYPE="image/tiff" CHECKSUM="df5e7b34c003337542ddeb751d800092" CHECKSUMTYPE="MD5" SIZE="54440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00327_1.tif"/>
+      </file>
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="5095d8199c6e64d7fc4f30098fe2e67f" CHECKSUMTYPE="MD5" SIZE="42490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00325_0" MIMETYPE="image/jp2" CHECKSUM="3eb60cd42614e77aab2df4c54831c0dc" CHECKSUMTYPE="MD5" SIZE="2388784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00325_0.jp2"/>
+      </file>
+      <file ID="jp2_00325_1" MIMETYPE="image/jp2" CHECKSUM="3ee5063cf30d7c6cf1dfe3633d7309c4" CHECKSUMTYPE="MD5" SIZE="2409008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00325_1.jp2"/>
+      </file>
+      <file ID="jp2_00326_0" MIMETYPE="image/jp2" CHECKSUM="a995560561dc88da058af84ad6306883" CHECKSUMTYPE="MD5" SIZE="2475279">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00326_0.jp2"/>
+      </file>
+      <file ID="jp2_00326_1" MIMETYPE="image/jp2" CHECKSUM="5b8c299aec4d611bdb481e6e2af81741" CHECKSUMTYPE="MD5" SIZE="2431319">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00326_1.jp2"/>
+      </file>
+      <file ID="jp2_00327_0" MIMETYPE="image/jp2" CHECKSUM="a6eaba305b6bd75a23ec4511190c49df" CHECKSUMTYPE="MD5" SIZE="2456012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00327_0.jp2"/>
+      </file>
+      <file ID="jp2_00327_1" MIMETYPE="image/jp2" CHECKSUM="16a1cb6badb2c15527250e14a72f7dd5" CHECKSUMTYPE="MD5" SIZE="2447611">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00327_1.jp2"/>
+      </file>
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="0b777328794a652fbfe13309aaa014c0" CHECKSUMTYPE="MD5" SIZE="2394538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00325_0" MIMETYPE="text/xml" CHECKSUM="a131a4d33adca858fd7a251dd829b745" CHECKSUMTYPE="MD5" SIZE="75733">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00325_0.xml"/>
+      </file>
+      <file ID="alto_00325_1" MIMETYPE="text/xml" CHECKSUM="b18d25fe70329e592d1bd979cdaabffa" CHECKSUMTYPE="MD5" SIZE="87564">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00325_1.xml"/>
+      </file>
+      <file ID="alto_00326_0" MIMETYPE="text/xml" CHECKSUM="2981febfe9d2e53be321b1f28df7669e" CHECKSUMTYPE="MD5" SIZE="90123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00326_0.xml"/>
+      </file>
+      <file ID="alto_00326_1" MIMETYPE="text/xml" CHECKSUM="35647212d5b2ea1f94b64d7d4c610e39" CHECKSUMTYPE="MD5" SIZE="88092">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00326_1.xml"/>
+      </file>
+      <file ID="alto_00327_0" MIMETYPE="text/xml" CHECKSUM="1fcedb5b546c354db389cfe4c1464297" CHECKSUMTYPE="MD5" SIZE="84722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00327_0.xml"/>
+      </file>
+      <file ID="alto_00327_1" MIMETYPE="text/xml" CHECKSUM="c70094fe330315cfdf2a58f31736b8bd" CHECKSUMTYPE="MD5" SIZE="88075">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00327_1.xml"/>
+      </file>
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="21bd75c415c7d2c2817d5dcfc0fe4b2a" CHECKSUMTYPE="MD5" SIZE="79371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00328_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0127" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="637" firstpage="631">
+              <parties id="b649-3" pgmap="649">Grant Whitsett, Appellant, v. Wellington Starch Com­pany, Appellee.</parties>
+              <decisiondate id="AY5" pgmap="649">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b649-6" pgmap="649">Buckingham &amp; Gray, for appellant.</attorneys>
+              <attorneys id="b649-7" pgmap="649">Le Forgee &amp; Vail and Beach, Hodnett &amp; Trapp, for appellee.</attorneys>
+              <summary id="b649-5" pgmap="649">Action in case for personal injuries. Appeal from the Circuit, Court of Macon county; the Hon. William C. Johns, Judge, pre­siding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AAx" pgmap="649">Affirmed.</disposition>
+              <headnotes id="b649-4" pgmap="649">Master and servant—when doctrine of assumed risk applies. A servant of mature years is barred from a recovery for injuries sus­tained while in the service of his master if such injuries were the result of a risk open and obvious and understood by him, and of the existence of which he had made no complaint.</headnotes>
+              <opinion type="majority">
+                <author id="b649-8" pgmap="649">Mr. Justice Baume</author>
+                <p id="APK" pgmap="649">delivered the opinion of the court.</p>
+                <p id="b649-9" pgmap="649">This is an action on the case by appellant against appellee to recover damages for a personal injury re­sulting from the alleged negligence of appellee. At the close of the plaintiff’s evidence the trial court, upon the motion of defendant, instructed the jury to find the defendant not guilty, and upon the verdict so returned judgment was entered against plaintiff for costs.</p>
+                <p id="b649-10" pgmap="649(104) 650(299)">The declaration contains two counts. The first count alleges that on April 9, 1907, appellee was operating a starch-mill wherein there was an elevator used in carrying unfinished starch from the first floor to the floors above; that the starch was placed in recep­tacles which were packed in a crate which was three feet wide, five feet long and seven feet six inches high, equipped with two wheels upon an axle near the cen­ter and bottom and smaller wheels at each end, which crate when loaded weighed about 3,000 pounds; that when the crate was so loaded it was wheeled from the first floor of the mill onto the platform of the elevator, whereby it was carried to the floor above; that the elevator platform was five feet ten inches in width and six feet ten inches in length; that in ascending and descending the elevator passed through, openings in the floors and that the space between the sides of such openings and the platform of the elevator was about % of an inch; that it was the duty of appellee to use due care to provide and maintain suitable appli­ances and guards upon the elevator and about the openings in the floors, to prevent persons from slip­ping off the elevator and being caught between it and the sides of the openings in the floor; that appellee not regarding its said duty negligently permitted the said elevator to be used and operated by appellant and its other employes, and negligently omitted to provide and maintain such appliances or guard; that on the day aforesaid appellant was in the employ of appellee, and the latter by its agents and servants negligently ordered and directed appellant to go upon the platform of said elevator with a crate, and to ascend with the said elevator and crate to the upper floor; that in pursuance to such order appellant got upon the elevator and started to ascend to such upper floor; that while such elevator was so ascending and while appellant was exercising due care for his own safety, by reason of the failure of appellee to provide and maintain proper appliances and guards his. right foot slipped and was caught between the platform of the elevator and the side of the opening in the floor, and was thereby so crushed and mangled as to neces­sitate amputation between the ankle and knee.</p>
+                <p id="b650-5" pgmap="650">The second count charges the same duty and breach and further alleges that the platform of the elevator was covered with starch and water thereby making the said platform slippery, and that appellee negligently permitted such starch and water to be upon the plat­form of said elevator.</p>
+                <p id="b650-6" pgmap="650(8) 651(197)">It appears from the undisputed evidence that on Friday, April 5, 1907, appellant applied to the super­intendent of appellee for work, and that such superin­tendent then introduced appellant to the foreman with directions to the latter to put appellant to work; that said foreman took appellant to the first floor of the mill and said to the latter ‘‘ Come in here and you can go to work, the boys will show you what to do;” that thereupon appellant with three other employes of ap­pellee proceeded with their work which consisted in fill­ing certain receptacles with starch, loading such recep­tacles into a crate, wheeling the crate on the platform of the elevator, and riding on the elevator to the upper-­floor of the mill. The platform of the elevator was constructed of wood, was perfectly level, and when the elevator was in position on the first floor the sur­face of the platform was flush with the surface of the floor, with a space between the edge of the floor and the edge of the platform of about % of an inch. Neither the platform of the elevator nor the floor of the building was equipped with gates or guards.</p>
+                <p id="b651-5" pgmap="651">After the crate as described in the declaration was filled, it was wheeled directly from the floor of the building onto the platform of the elevator and four employes of appellee, including appellant, rode on the elevator to the upper floor for the purpose of steady­ing the crate while it was being lifted and unloading it when the upper floor was reached. Appellant was thus employed continuously for four days and had made twenty or thirty trips per day on the elevator up to the time he was injured. When the crate was in position on the platform of the elevator there was an unoccupied space of about fifteen inches on each side of the platform and about eleven inches at each end. Some starch sifted through the crate upon the eleva­tor platform, and the evidence tends to show that employes of appellee occasionally washed screens or shakers near the elevator with a hose, and that some of the water so used sprayed upon the elevator plat­form.</p>
+                <p id="b652-4" pgmap="652">On the occasion of his injury, while appellant was standing erect riding upon the elevator and when the elevator had ascended to a point about eight inches below the opening in the second floor of the mill, his right foot slipped off the edge of the platform and before he could regain his footing or the elevator could be stopped his foot was crushed between the edge of the elevator platform and the second floor of the mill.</p>
+                <p id="b652-5" pgmap="652">Appellant testified that he had not been cautioned or warned with reference to any danger attending the use of the elevator, and that upon one occasion he remarked to one of his companions that it looked to him as if the elevator might not be perfectly safe. Whether this remark of appellant related to the slip­pery condition of the elevator platform or to the strength of the cable by which the elevator was oper­ated, is not entirely clear from the evidence. It does not, however, appear from the evidence that there was any wet starch upon the portion of the platform where appellant was standing when he was injured.</p>
+                <p id="b652-6" pgmap="652">The action of the trial court in giving to the jury a peremptory instruction to find appellee not guilty raises the decisive question in the case, viz., whether or not as a matter of law upon the evidence disclosed by the record appellant assumed the risk whereby he was injured. It is insisted on behalf of appellant that the rule that the servant assumes all ordinary risks incident to the business presumes that the master has performed the duties of caution, care and vigilance which the law requires of him; that it is those risks alone which cannot be obviated by the adoption of rea­sonable measures of precaution that the servant as­sumes. This is not a correct statement of the rule governing the doctrine of assumed risk. In Cichowicz v. International Packing Co., 206 Ill. 346, it is said: ‘‘ To say that the servant assumes no risk except such as cannot be obviated by the adoption of reasonable measures of precaution by the master is to abolish the</p>
+                <p id="b653-3" pgmap="653">doctrine altogether. Under such a rule the master is liable in every case where he has been negligent, although the servant knows of the danger and volun­tarily encounters it without objection, and if the master has been guilty of no negligence he has a complete de­fense, regardless of any question of the assumption of risk by the servant.” In McCormick Machine Co. v. Zakzewski, 220 Ill. 522, it is said: “The true rule in this regard is, that the servant assumes not only the ordi­nary risks incident to his employment, but also all dangers which are obvious and apparent, and if he voluntarily enters into or continues in the service, knowing or having the means of knowing its dangers, he is deemed to have assumed the risks and to have waived all claims against the master for damages in case of personal injury resulting from such dangers.”</p>
+                <p id="b653-4" pgmap="653">In I. C. R. R. Co. v. Fitzpatrick, 227 Ill. 478, the judgment was reversed for error in giving an instruc­tion which informed the jury that the servant did not assume dangers arising from the master’s negli­gence.</p>
+                <p id="b653-5" pgmap="653(156) 654(117)">In Klofski v. Railroad Supply Co., 235 Ill. 146, the court recognized the apparent confusion arising from the statement of the true rule as above, and the rule as sometimes stated, that the servant does not assume risks arising from the master’s negligence, and in re­conciling the authorities in this regard, said: “It will be found that the cases which exclude from the risks assumed by the servant such dangers as arise from the master’s negligence are cases involving a considera­tion of the usual and ordinary hazards of the employ­ment which are assumed by the original contract of hiring, and that the other line of cases which hold that the servant may assume dangers arising from the master’s negligence are cases where the assumption of danger depends not upon the contract of hiring but upon the knowledge of the servant of the existence of danger.” It was there further said: “If the servant has, or by the exercise of reasonable care would have, knowledge of the existence of a particular danger and continues in the employment without complaint he will be deemed to have assumed the danger; and in respect to such dangers it is wholly immaterial whether they arise from the negligence of the master or from other causes. The master’s negligence is not an ordinary and usual risk of the employment, hence the servant does not assume dangers arising therefrom by his con­tract of hiring, but the servant knowing of such negli­gence may assume it, and in such cases he assumes it because he knows of it, and not because it has become an ordinary risk.”</p>
+                <p id="b654-5" pgmap="654(242) 655(44)">In the case at bar appellant’s assumption of the risks involved must be predicated upon his knowledge of appellee’s alleged negligence in failing to equip the elevator platform with some appliance or guard and in permitting wet starch to he upon the platform, and appellant’s knowledge of the dangers incident to the use of the elevator without such appliance or guard and with wet starch upon the surface of said platform, and upon his continuance in the employment of appel­lee without complaint or protest. Appellant at the time of his injury was of mature years and had had a varied experience in several departments of labor and in working with and about machinery. The ab­sence of an appliance or guard upon the platform of the elevator and the danger incident to the use of the elevator without such appliance or guard was open and obvious to appellant, and he must be held charge­able with full knowledge both of the defect and of the danger. He also had like knowledge with respect to the presence of wet starch upon the surface of the ele­vator platform. It is not claimed on behalf of appel­lant that he made any complaint or entered any pro­test to any one sustaining the relation of vice-princi­pal to appellee, with respect to the existing conditions, having full knowledge of the alleged defects and of the dangers incident thereto, and having continued in the employment of appellee without complaint or protest, appellant must be held to have assumed the risks, and the court did not err in giving, to the jury a peremp­tory instruction to find appellee not guilty. The judg­ment will, therefore, accordingly, be affirmed.</p>
+                <p id="b655-4" pgmap="655">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="649" ORDERLABEL="631" TYPE="page">
+        <fptr FILEID="tiff_00325_0"/>
+        <fptr FILEID="jp2_00325_0"/>
+        <fptr FILEID="alto_00325_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.2" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.1" BETYPE="IDREF" FILEID="alto_00325_0"/>
+              <area BEGIN="BL_649.3" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="650" ORDERLABEL="632" TYPE="page">
+        <fptr FILEID="tiff_00325_1"/>
+        <fptr FILEID="jp2_00325_1"/>
+        <fptr FILEID="alto_00325_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.2" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.3" BETYPE="IDREF" FILEID="alto_00325_1"/>
+              <area BEGIN="BL_650.4" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="651" ORDERLABEL="633" TYPE="page">
+        <fptr FILEID="tiff_00326_0"/>
+        <fptr FILEID="jp2_00326_0"/>
+        <fptr FILEID="alto_00326_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.3" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.2" BETYPE="IDREF" FILEID="alto_00326_0"/>
+              <area BEGIN="BL_651.4" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="652" ORDERLABEL="634" TYPE="page">
+        <fptr FILEID="tiff_00326_1"/>
+        <fptr FILEID="jp2_00326_1"/>
+        <fptr FILEID="alto_00326_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.1" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.2" BETYPE="IDREF" FILEID="alto_00326_1"/>
+              <area BEGIN="BL_652.3" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="653" ORDERLABEL="635" TYPE="page">
+        <fptr FILEID="tiff_00327_0"/>
+        <fptr FILEID="jp2_00327_0"/>
+        <fptr FILEID="alto_00327_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.2" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.1" BETYPE="IDREF" FILEID="alto_00327_0"/>
+              <area BEGIN="BL_653.3" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="654" ORDERLABEL="636" TYPE="page">
+        <fptr FILEID="tiff_00327_1"/>
+        <fptr FILEID="jp2_00327_1"/>
+        <fptr FILEID="alto_00327_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.2" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.3" BETYPE="IDREF" FILEID="alto_00327_1"/>
+              <area BEGIN="BL_654.4" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="655" ORDERLABEL="637" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.2" BETYPE="IDREF" FILEID="alto_00328_0"/>
+              <area BEGIN="BL_655.4" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.5" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.5" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.6" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            <area BEGIN="BL_654.1" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-3" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.4" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.5" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.6" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            <area BEGIN="BL_651.1" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.5" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_655.1" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.6" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.5" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.4" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-10" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.16" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_650.1" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.5" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.9" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-9" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.15" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.12" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAx" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.8" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-3" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.4" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APK" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.13" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_649.14" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.11" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.10" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.6" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_649.7" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-4" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.5" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

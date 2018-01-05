@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0080" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kneip v. Schroeder">Caroline Kneip et al., Appellees, v. Charles H. Schroeder, Appellant</name>
+          <docketnumber>Gen. No. 14,778</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 620</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00318_1" MIMETYPE="image/tiff" CHECKSUM="0bdd059005d8dc2fab8940ca0c5eb013" CHECKSUMTYPE="MD5" SIZE="41476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00318_1.tif"/>
+      </file>
+      <file ID="tiff_00319_0" MIMETYPE="image/tiff" CHECKSUM="e306b173659cb1407aec5a18428e805e" CHECKSUMTYPE="MD5" SIZE="54590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00319_0.tif"/>
+      </file>
+      <file ID="tiff_00319_1" MIMETYPE="image/tiff" CHECKSUM="569053db4876a651db311fdfbbaa5919" CHECKSUMTYPE="MD5" SIZE="52900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00319_1.tif"/>
+      </file>
+      <file ID="tiff_00320_0" MIMETYPE="image/tiff" CHECKSUM="bcc7ce112a75ed765ec9e1ad0a59af4e" CHECKSUMTYPE="MD5" SIZE="45140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00320_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00318_1" MIMETYPE="image/jp2" CHECKSUM="84f41e4746c88d6facf8fb19988f9464" CHECKSUMTYPE="MD5" SIZE="2238095">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00318_1.jp2"/>
+      </file>
+      <file ID="jp2_00319_0" MIMETYPE="image/jp2" CHECKSUM="f50e449d6a95e044a155f4f70ba7235d" CHECKSUMTYPE="MD5" SIZE="2386203">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00319_0.jp2"/>
+      </file>
+      <file ID="jp2_00319_1" MIMETYPE="image/jp2" CHECKSUM="c86152bab95a0076a72c001561a44cb5" CHECKSUMTYPE="MD5" SIZE="2329209">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00319_1.jp2"/>
+      </file>
+      <file ID="jp2_00320_0" MIMETYPE="image/jp2" CHECKSUM="6c980f57d738b21b7089446371701df6" CHECKSUMTYPE="MD5" SIZE="2307915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00320_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00318_1" MIMETYPE="text/xml" CHECKSUM="5aa7d1b76f83ba043a319ba910eb713a" CHECKSUMTYPE="MD5" SIZE="79291">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00318_1.xml"/>
+      </file>
+      <file ID="alto_00319_0" MIMETYPE="text/xml" CHECKSUM="069bdf7f507772c36143be42421c6f01" CHECKSUMTYPE="MD5" SIZE="85885">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00319_0.xml"/>
+      </file>
+      <file ID="alto_00319_1" MIMETYPE="text/xml" CHECKSUM="df3bacd8416912232864b566e8b79b4e" CHECKSUMTYPE="MD5" SIZE="86141">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00319_1.xml"/>
+      </file>
+      <file ID="alto_00320_0" MIMETYPE="text/xml" CHECKSUM="3cfe1340660a655066617bdf306d74f4" CHECKSUMTYPE="MD5" SIZE="72657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00320_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="623" firstpage="620">
+              <docketnumber pgmap="636" id="b636-6">Gen. No. 14,778.</docketnumber>
+              <parties pgmap="636" id="b636-4">Caroline Kneip et al., Appellees, v. Charles H. Schroeder, Appellant.</parties>
+              <decisiondate pgmap="636" id="Ap7">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="636" id="AIrO">Heard in this court at the March term, 1908.</otherdate>
+              <attorneys pgmap="636" id="b636-11">Arnold Tripp, for appellant.</attorneys>
+              <attorneys pgmap="636" id="b636-12">Charles A. Williams and J. B. Langworthy, for appellees.</attorneys>
+              <summary pgmap="636" id="b636-10">Bill for injunction. Appeal from the Superior Court of Cook county; the Hon. Fablin Q. Ball, Judge, presiding.</summary>
+              <disposition pgmap="636" id="A23c">Affirmed.</disposition>
+              <headnotes pgmap="636" id="b636-7">1. Trial—when should he advanced. A party restrained from constructing a building should be accorded a speedy trial and the cause advanced if a hearing upon ex parte affidavits has been unsatisfactory and such as to require the chancellor in the exercise of his discretion to maintain the status quo by injunction.</headnotes>
+              <headnotes pgmap="636" id="b636-8">2. Injunctions—when should he awarded. An injunction upon ex parte affidavits should be awarded when the showing made by the respective parties is such as to preclude a satisfactory decision, if it is essential that the status quo be maintained in order that ultimate justice may be done.</headnotes>
+              <headnotes pgmap="636" id="b636-9">3. Injunctions—when order with respect to construction of building not void for uncertainty. Held, that the injunction granted in this case was not void for uncertainty where it restrained the defendant from placing the front wall of his building upon a cer­tain position with respect to the building line which was in dispute.</headnotes>
+              <opinion type="majority">
+                <author pgmap="636" id="b636-13">Mr. Justice Holdom</author>
+                <p pgmap="636" id="AS8">delivered the opinion of the court.</p>
+                <p pgmap="636" id="b636-14">The chancellor in the court below granted a tem­porary injunction, in accord with the prayer of the bill, restraining appellant from erecting a building on the property owned by him described as lot 22 and the south half of lot 21 in block 8, in Lane Park addition to Lake View, within twenty feet of the front lot line.</p>
+                <p pgmap="636(24) 637(124)" id="b636-15">The appellees are owners of property improved with residences upon Janssen avenue, the street upon which appellant intends to build an apartment house build­ing. The right to an injunction is predicated on the alleged facts that on both sides of Janssen avenue, between Boscoe and Cornelia streets, where the prop­erty of all the contestants is situated, there is, by the plat of the subdivision, a building line restricting the erection of buildings to within twenty feet of the street lot line; that this restriction has been recognized by all the owners, including the parties to the bill, who have built and maintained their several houses in ac­cord therewith; that appellant, in addition to the prem­ises in dispute, is the owner of lots 40, 41 and 42 in the same block, and on said lots has erected buildings in conformity with the restrictive building line.</p>
+                <p pgmap="637" id="b637-4">The bill, on the point of uniformity of action of the building property owners, alleges that “throughout the history of the subdivision, and from the time the first improvement began until the present time, there has never been any violation or infraction of the build­ing line as established and shown on the plat, and that all improvements were made with reference to the building line”.</p>
+                <p pgmap="637" id="b637-5">The injunctional order was granted after a hearing of the parties on proofs resting in ex parte affidavits. No witnesses were produced for cross-examinatiou, neither was the answer of appellant to the bill filed. By the affidavits of appellant it is averred that none of the property holders on either side of the Janssen avenue block designated have constructed their im­provements within the twenty-foot building line, hut that all of them, including appellant, have more or less disregarded the building line and placed portions of their buildings outside of the building line, and that to the time of the filing of the bill all the lot owners have acquiesced in such violations and refrained from making any protest. Two surveys made by different surveyors form a part of the affidavits read upon the hearing. They purport to show the front line of the several improvements, but they are not in accord.</p>
+                <p pgmap="637(8) 638(65)" id="b637-6">Appellant asks a reversal of the injunctional order upon three grounds, viz: (1) Because there exists no building line that any of the property holders, in­cluding appellees, have ever lived up to; (2) because the character of the property has changed, and appel­lant’s lot is no longer adaptable for residence pur­poses, and (3) that the injunctional order is void, be­cause it is indefinite and incapable of being under­stood.</p>
+                <p pgmap="638" id="b638-6">In the conclusion at which we have arrived it is un­necessary for us to pass upon the merits of the con­troversy, either upon the facts or the law, as they will not become factors in construing the rights of the par­ties until a full hearing has been had and a decree on such hearing rendered by the chancellor.</p>
+                <p pgmap="638(226) 639(68)" id="b638-7">Whether or not the building line, the existence of which appellant admits, has been disregarded by the property owners so as practically to work its abroga­tion as a restriction, depends upon the facts as to the manner of the construction of existing improvements with reference to said building line, and upon the law as to whether stoops, steps and piazzas erected upon the restricted twenty feet are violations of the build­ing line compact. This we are unable to decide from the conflicting affidavits of the several parties. They are ex parte, and, in the absence of cross-examination of the affiants, entirely unsatisfactory. Neither are we able to say from the affidavits submitted that the character of the property has changed so that in law the building line restriction is no longer binding. All these questions affecting the rights of the parties can be settled after a hearing upon the bill, answer and replication, where the facts may be demonstrated in the usual manner and the witnesses of the several par­ties submitted to cross-examination by the opposing party. We think that, as the cause was presented to the chancellor in the unsatisfactory way in which it was, he had no alternative but to grant the temporary restraining order sought by the bill to preserve the status quo between the parties; but we suggest that appellant should not be delayed in the construction of his proposed building more than is absolutely neces­sary to a proper and impartial hearing of this con­troversy, and we suggest that it is a case where the chancellor would be justified in speeding the cause and granting as early a hearing as the state of his docket will permit in justice to other litigants in his court.</p>
+                <p pgmap="639" id="b639-4">The state of the litigation here involved is in rea­soning and analogy very similar to the state of the case in Child v. Douglas, 54 Eng. Chan. Bep. 739, in which Lord Justice Sir Knight Bruce said: “As to three of these four points, the present impression upon my mind, on the materials before the court, is unfavorable to the plaintiff’s case. Still, if the act in­tended to be done by the defendant were one which if completed would substantially or seriously prejudice the plaintiff or his house, I should probably have been disposed, even with the view which I take of three of the points, to interfere by injunction, until the ques­tion in dispute could be decided at the hearing”. So in this case, if the temporary injunction should be de­nied and the defense of appellant fail upon the final hearing, the act of building if completed would, in such circumstances, not only substantially but seri­ously prejudice appellees and their property.</p>
+                <p pgmap="639" id="b639-5">We are unable to accord our assent to the conten­tion of counsel that the injunctional order is void for uncertainty. The restriction is solely to the placing of the front wall of the building, without regard to any other part of such structure.</p>
+                <p pgmap="639" id="b639-6">The order of the Superior Court granting a tem­porary injunction is affirmed.</p>
+                <p pgmap="639" id="b639-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="636" ORDERLABEL="620" TYPE="page">
+        <fptr FILEID="tiff_00318_1"/>
+        <fptr FILEID="jp2_00318_1"/>
+        <fptr FILEID="alto_00318_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.1" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.2" BETYPE="IDREF" FILEID="alto_00318_1"/>
+              <area BEGIN="BL_636.3" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="637" ORDERLABEL="621" TYPE="page">
+        <fptr FILEID="tiff_00319_0"/>
+        <fptr FILEID="jp2_00319_0"/>
+        <fptr FILEID="alto_00319_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.2" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.3" BETYPE="IDREF" FILEID="alto_00319_0"/>
+              <area BEGIN="BL_637.4" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="638" ORDERLABEL="622" TYPE="page">
+        <fptr FILEID="tiff_00319_1"/>
+        <fptr FILEID="jp2_00319_1"/>
+        <fptr FILEID="alto_00319_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.2" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.3" BETYPE="IDREF" FILEID="alto_00319_1"/>
+              <area BEGIN="BL_638.4" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="639" ORDERLABEL="623" TYPE="page">
+        <fptr FILEID="tiff_00320_0"/>
+        <fptr FILEID="jp2_00320_0"/>
+        <fptr FILEID="alto_00320_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.2" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.3" BETYPE="IDREF" FILEID="alto_00320_0"/>
+              <area BEGIN="BL_639.4" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.5" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b638-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.6" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            <area BEGIN="BL_639.1" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.6" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.7" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A23c" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.13" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.7" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            <area BEGIN="BL_638.1" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.4" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.5" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.14" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_636.15" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-14" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.21" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-15" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.22" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_637.1" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-12" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.17" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-13" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.18" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.9" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_636.10" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.16" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.19" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_636.20" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.6" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.5" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIrO" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.11" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_636.12" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.8" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.8" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.7" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.6" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.5" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

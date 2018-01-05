@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0010" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Blume v. Bereda Manufacturing Co.">George P. Blume, Appellee, v. Bereda Manufacturing Company, Appellant</name>
+          <docketnumber>Gen. No. 13,975</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 96</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="c1f32483b3f36cf56c0560d7468133e5" CHECKSUMTYPE="MD5" SIZE="38182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_1.tif"/>
+      </file>
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="7d832eeea3dfd04d641e772f7cc66f6d" CHECKSUMTYPE="MD5" SIZE="53872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="790bedaee38a0c32044b83ba4b7e8115" CHECKSUMTYPE="MD5" SIZE="51770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="0e96ae1bdff068d4c1987035f68bca10" CHECKSUMTYPE="MD5" SIZE="50234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_0.tif"/>
+      </file>
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="59b31ab9b42d0b6b7ef86c1d92351ca1" CHECKSUMTYPE="MD5" SIZE="38852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="8fa9c44a8bf43161d23c315c5841f2a3" CHECKSUMTYPE="MD5" SIZE="2235335">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00056_1.jp2"/>
+      </file>
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="c887730a77a1df76e6516c02db44bbc1" CHECKSUMTYPE="MD5" SIZE="2407787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="87d308493f9c59c3a57c58034e1d122e" CHECKSUMTYPE="MD5" SIZE="2333095">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="914f0a1b10d2338eaf5ba35efa4c2606" CHECKSUMTYPE="MD5" SIZE="2366809">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_0.jp2"/>
+      </file>
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="7ee2d3246803f99f6d751cf4f3918bbc" CHECKSUMTYPE="MD5" SIZE="2235656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00058_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="e1d1863066f15ad069752d638809186d" CHECKSUMTYPE="MD5" SIZE="67379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00056_1.xml"/>
+      </file>
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="0668045ac3ebcbc8911dba8ca3f9f694" CHECKSUMTYPE="MD5" SIZE="88190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="56748fc8feda4dd3c15ecab7c1a78dc3" CHECKSUMTYPE="MD5" SIZE="85781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="28a3800a9b43089bcdde40cc5a53f7f1" CHECKSUMTYPE="MD5" SIZE="80290">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00058_0.xml"/>
+      </file>
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="b39682f3230ab8b548ecefff3b2ec43e" CHECKSUMTYPE="MD5" SIZE="70636">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00058_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="100" firstpage="96">
+              <docketnumber pgmap="112" id="b112-8">Gen. No. 13,975.</docketnumber>
+              <parties pgmap="112" id="b112-7">George P. Blume, Appellee, v. Bereda Manufacturing Company, Appellant.</parties>
+              <decisiondate pgmap="112" id="AOX">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="112" id="A5p">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="112" id="b112-11">W. A. Hamilton, for appellant.</attorneys>
+              <attorneys pgmap="112" id="b112-12">Frederick A. Brown, for appellee; Wm. R. T. Ewen, Jr., of counsel.</attorneys>
+              <summary pgmap="112" id="b112-10">Assumpsit. Appeal from the Superior Court of Cook county; the Hon. Albert C. Barnes, Judge, presiding.</summary>
+              <disposition pgmap="112" id="A4r">Affirmed.</disposition>
+              <headnotes pgmap="112" id="b112-9">Attachment—what -fraudulent conveyance of property. The exe­cution and delivery of a chattel mortgage (with the understanding that it shall not be recorded) covering personal property in the pos­session of the mortgagor, is fraudulent and constitutes ground for attachment.</headnotes>
+              <opinion type="majority">
+                <author pgmap="112" id="b112-13">Mr. Justice Holdom</author>
+                <p pgmap="112" id="Amo">delivered the opinion of the court.</p>
+                <p pgmap="112" id="b112-14">Plaintiff sued defendant as the indorsee and "holder of its promissory note for $250, dated December 21, 1903, and payable twelve months after date, to the order of John L. Van Dolah, with interest at five per cent per annum. This note was indorsed and deliv­ered to plaintiff by the payee for a valuable consider­ation before maturity.</p>
+                <p pgmap="113" id="b113-3">The common counts and a special count declaring on the note constituted the declaration, to which de­fendant pleaded failure of consideration at the time of the assignment and delivery of the note to plaintiff, averring such failure was known to plaintiff at the time he received the note from the payee by indorse­ment, like failure as to all but $50, and a set-off against the payee in the note to the amount of $500. Thereafter a writ of attachment was sued out in aid of the suit in assumpsit, under a claim that defendant had within two years fraudulently conveyed or as­signed its effects, or a part thereof, so as to hinder and delay its creditors, and during the same time had concealed or disposed of its property, or a part thereof, so as to hinder and delay its creditors, and was about fraudulently to conceal, assign and other­wise dispose of its property or effects, or a part thereof, so as to hinder and delay its creditors. The attachment writ was levied upon personal property and defendant released the levy by giving a forthcom­ing bond. Defendant joined issue on the attachment by filing a plea traversing the material averments of the affidavit under which the writ was sued out.</p>
+                <p pgmap="113" id="b113-4">The cause was tried before the court without a jury, and the finding of the court upon which judgment was entered assessed plaintiff’s damages in the sum of $292.42, the amount due upon the note for principal and interest, and found the issues in the attachment in favor of plaintiff; from which finding and judg­ment defendant seeks this review of the record.</p>
+                <p pgmap="113(79) 114(83)" id="b113-5">It appears from the proofs that one John L. Van Dolah owned a secret process for the manufacture of a compound useful, so it is said, for cleaning wall paper, fresco walls, etc., called the “Excelsior Elas­tic Wall Cleaner;” that plaintiff was interested in the formula embodying such secret process and the busi­ness conducted by Van Dolah under the name of “Ex­celsior Manufacturing Co.” Plaintiff’s interest was, he contends, limited to the advancement of money to Van Dolah which Van Dolah used in this business en­terprise. The note in question was given by defendant to Van Dolah as part consideration for imparting to it the ingredients of the secret process, also for an as­signment of the good will of Van Dolah and all his interest in the business conducted by him under the name of “Excelsior Manufacturing Co.,” he to fur­nish a release from plaintiff of any interest which plaintiff might have in such secret process.</p>
+                <p pgmap="114" id="b114-5">Van Dolah fulfilled his part of the agreement, in­cluding the furnishing of plaintiff’s release of any in­terest he might have in the said secret process. In a settlement between plaintiff and Van Dolah the note in question was, long prior to its maturity, assigned and delivered to plaintiff. It is now insisted that plaintiff was a partner with Van Dolah in the busi­ness of wall paper, etc., cleaner; that the formula was worthless, because the compound from it would not keep, and that it was sticky and otherwise unusable for cleaning purposes, and that as a consequence of this condition the consideration of the note failed; that plaintiff is chargeable with knowledge of these facts, and is not to be regarded as an innocent holder for value before maturity, and that the same defenses are available to -defendant against plaintiff, with like effect as if the note were still in the hands of Van Dolah, the payee.</p>
+                <p pgmap="114" id="b114-6">There is some conflict in the evidence, hut we are satisfied that the probative force of it preponderates in favor of plaintiff, that plaintiff was not a partner with Van Dolah in the business carried on in the name of the “Excelsior Manufacturing Co.,” but that from the time the note came to his possession he was an innocent holder for a valuable consideration. This being the conclusion to which the trial court arrived and to which we have also come, the defenses inter­posed, however available as against Van Dolah, are impotent as against plaintiff.</p>
+                <p pgmap="114(10) 115(93)" id="b114-7">It is not a matter of serious controversy that de­fendant executed and delivered a chattel mortgage to one Frieda Brehme conveying the stock of goods, among other things kept in defendant’s store for sale at retail, with the understanding that the chattel mort­gage should not be recorded. This understanding the evidence shows was carried out. During the time the debt secured by the chattel mortgage remained unpaid, there was no visible change in the business of defend­ant. Goods were sold from the stock the same after the mortgage was given as before, with the knowledge and consent of the mortgagee.</p>
+                <p pgmap="115" id="b115-4">That such a mortgage is fraudulent and void as against creditors and subsequent purchasers for value, if any, of the mortgaged property, is the uniform and uninterrupted conclusion of the courts of review of this state. To the same effect are the decisions of the federal courts and the rules laid down by text writers upon this subject. Such a lien is fraudulent because it is secret and lures the uninformed and innocent creditor to give and part with his property, when he would not do so had he knowledge of the lien. Such liens are a menace to business and the mercantile world, and will not be tolerated by the courts where the interests of innocent third parties intervene. The authorities are numerous; we content ourselves by citing a few: Haas v. Sternbach, 156 Ill. 44; Forest v. Tinkham, 29 ibid. 141; Frank v. Armour, 50 ibid. 444; Barchard v. Kohn, 157 ibid. 519; Dunning v. Mead, 90 ibid. 376; McNeill v. Plows, 83 Ill. App. 186; sec. 247 Cobby on Chattel Mortgages; sec. 234 Wait on Fraudulent Conveyances; Ferguson v. Johnson, 36 Fed. Rep. 134.</p>
+                <p pgmap="115" id="b115-5">The finding and judgment of the trial court on both the assumpsit and attachment issues are sustained by the proofs and sanctioned by the law of the state, con­sequently the judgment of the Superior Court must be and it is affirmed.</p>
+                <p pgmap="115" id="b115-6">Affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="116" id="b116-4">Brown, J.,</author>
+                <p pgmap="116" id="ArM">concurring: I concur in this decision, but as to the attachment issue I do so on the ground only that from the facts of this case reasonable grounds to believe in a fraudulent intent in fact ap­pear.</p>
+                <p pgmap="116" id="b116-5">I am not prepared to hold that an unrecorded chat­tel mortgage without change of possession is in itself a sufficient ground for attachment under the statute, although it may be constructively or legally fraudu­lent as to creditors and subsequent purchasers for value.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="112" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.3" BETYPE="IDREF" FILEID="alto_00056_1"/>
+              <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="113" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.1" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.2" BETYPE="IDREF" FILEID="alto_00057_0"/>
+              <area BEGIN="BL_113.3" BETYPE="IDREF" FILEID="alto_00057_0"/>
+              <area BEGIN="BL_113.7" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="114" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.2" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.3" BETYPE="IDREF" FILEID="alto_00057_1"/>
+              <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.2" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+              <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="116" ORDERLABEL="100" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.2" BETYPE="IDREF" FILEID="alto_00058_1"/>
+              <area BEGIN="BL_116.3" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4r" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.14" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5p" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.12" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            <area BEGIN="BL_112.13" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.4" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.9" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.8" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArM" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.5" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_116.6" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.4" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            <area BEGIN="BL_115.1" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.10" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            <area BEGIN="BL_112.11" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.7" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-14" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.21" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.16" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOX" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.15" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-13" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.18" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.17" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.7" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.6" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.5" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amo" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.19" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            <area BEGIN="BL_112.20" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.6" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

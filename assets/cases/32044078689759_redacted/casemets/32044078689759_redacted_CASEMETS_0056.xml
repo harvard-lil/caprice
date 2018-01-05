@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0056" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Perido v. Chicago, Burlington &amp; Quincy Railroad">Joseph Perido, Appellee, v. Chicago, Burlington &amp; Quincy Railroad Company, Appellant</name>
+          <docketnumber>Gen. No. 5,047</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 446</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="5c54977d535bfe31cafe8fd31945a567" CHECKSUMTYPE="MD5" SIZE="35742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_1.tif"/>
+      </file>
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="ceedaa1bc07d0d78a44a1fcdd2da9357" CHECKSUMTYPE="MD5" SIZE="55022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00232_0.tif"/>
+      </file>
+      <file ID="tiff_00232_1" MIMETYPE="image/tiff" CHECKSUM="ec429380abfae9f99ca838dd1b4c42e9" CHECKSUMTYPE="MD5" SIZE="53018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00232_1.tif"/>
+      </file>
+      <file ID="tiff_00233_0" MIMETYPE="image/tiff" CHECKSUM="b4c5b5e28ebbf48df5ba5a763a087a41" CHECKSUMTYPE="MD5" SIZE="57410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00233_0.tif"/>
+      </file>
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="93be0981d2689eacd83e2a1a4f2227f1" CHECKSUMTYPE="MD5" SIZE="53520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00233_1.tif"/>
+      </file>
+      <file ID="tiff_00234_0" MIMETYPE="image/tiff" CHECKSUM="ff9e7c6bb0f1d74db53b68f9717cacbc" CHECKSUMTYPE="MD5" SIZE="53754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00234_0.tif"/>
+      </file>
+      <file ID="tiff_00234_1" MIMETYPE="image/tiff" CHECKSUM="f7c4db9e735bd3ab228784288c27b052" CHECKSUMTYPE="MD5" SIZE="33994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00234_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="5885d83c50ed1d57afd65ba2b4af1a63" CHECKSUMTYPE="MD5" SIZE="2260702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00231_1.jp2"/>
+      </file>
+      <file ID="jp2_00232_0" MIMETYPE="image/jp2" CHECKSUM="ee131c77f3a04ea9551627934a25713b" CHECKSUMTYPE="MD5" SIZE="2417518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00232_0.jp2"/>
+      </file>
+      <file ID="jp2_00232_1" MIMETYPE="image/jp2" CHECKSUM="70dde67bfef25013a3332298673c0dc1" CHECKSUMTYPE="MD5" SIZE="2359640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00232_1.jp2"/>
+      </file>
+      <file ID="jp2_00233_0" MIMETYPE="image/jp2" CHECKSUM="169320942682c205d4ff4a8d60f2684e" CHECKSUMTYPE="MD5" SIZE="2420227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00233_0.jp2"/>
+      </file>
+      <file ID="jp2_00233_1" MIMETYPE="image/jp2" CHECKSUM="874e9c18516f3808a3d241b34afd3b0f" CHECKSUMTYPE="MD5" SIZE="2385131">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00233_1.jp2"/>
+      </file>
+      <file ID="jp2_00234_0" MIMETYPE="image/jp2" CHECKSUM="6834cf34b6267e9f08991df7d230647b" CHECKSUMTYPE="MD5" SIZE="2437836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00234_0.jp2"/>
+      </file>
+      <file ID="jp2_00234_1" MIMETYPE="image/jp2" CHECKSUM="11d2c718592b4a50c95b16a2bb483f28" CHECKSUMTYPE="MD5" SIZE="2215540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00234_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="80f36501784620b33ff9f56143f7cda6" CHECKSUMTYPE="MD5" SIZE="66381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00231_1.xml"/>
+      </file>
+      <file ID="alto_00232_0" MIMETYPE="text/xml" CHECKSUM="f19efce418bd74c254e17515bc7a8453" CHECKSUMTYPE="MD5" SIZE="91537">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00232_0.xml"/>
+      </file>
+      <file ID="alto_00232_1" MIMETYPE="text/xml" CHECKSUM="30b0f7cc874cdd83c8533cbdbd2c35d8" CHECKSUMTYPE="MD5" SIZE="84737">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00232_1.xml"/>
+      </file>
+      <file ID="alto_00233_0" MIMETYPE="text/xml" CHECKSUM="05a8beae252c80db2e2b5c3ee10cf433" CHECKSUMTYPE="MD5" SIZE="93298">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00233_0.xml"/>
+      </file>
+      <file ID="alto_00233_1" MIMETYPE="text/xml" CHECKSUM="109855ee01f163800afd33f2c04f8c3f" CHECKSUMTYPE="MD5" SIZE="92962">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00233_1.xml"/>
+      </file>
+      <file ID="alto_00234_0" MIMETYPE="text/xml" CHECKSUM="b79788fef128c20ecccdec65885ced81" CHECKSUMTYPE="MD5" SIZE="90172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00234_0.xml"/>
+      </file>
+      <file ID="alto_00234_1" MIMETYPE="text/xml" CHECKSUM="3b098c289333f9a7906c41c36b2fd0b9" CHECKSUMTYPE="MD5" SIZE="52208">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00234_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="452" firstpage="446">
+              <docketnumber pgmap="462" id="b462-9">Gen. No. 5,047.</docketnumber>
+              <parties pgmap="462" id="b462-8">Joseph Perido, Appellee, v. Chicago, Burlington &amp; Quincy Railroad Company, Appellant.</parties>
+              <decisiondate pgmap="462" id="AdL">Opin­ion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="462" id="Aor">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="462" id="AJr">Rehearing denied November 11, 1908.</otherdate>
+              <attorneys pgmap="462" id="b462-13">A. A. Wolfersperger and J. A. Connell, for ap­pellant.</attorneys>
+              <attorneys pgmap="462" id="b462-14">McCalmont &amp; Ramsay and D. C. Waite, for ap­pellee ; Blodgett &amp; Riordon, of counsel.</attorneys>
+              <summary pgmap="462" id="b462-12">Trespass on the case. Appeal from the Circuit Court of Whiteside couty; the Hon. Frank D. Ramsay, Judge, presiding.</summary>
+              <disposition pgmap="462" id="A0P7">Reversed and remanded.</disposition>
+              <headnotes pgmap="462" id="b462-10">1. Evidence—should be confined to issues. Evidence which does not tend to prove any issue involved in á case is immaterial and should he excluded.</headnotes>
+              <headnotes pgmap="462" id="b462-11">2. Instructions—effect of refusing abstract proposition of law. An instruction though correct, if abstract in form, may be refused without the commission of error.</headnotes>
+              <opinion type="majority">
+                <author pgmap="462" id="b462-15">Mr. Justice Dibell</author>
+                <p pgmap="462" id="Adr">delivered the opinion of the court.</p>
+                <p pgmap="462(16) 463(372) 464(113)" id="b462-16">Johnson Creek in Whiteside county,, at the place here in question, runs in a southwesterly direction and passes through the farm of Joseph Perido, the appellee. Originally somewhat crooked, the bed of the stream has been straightened and deepened by a drainage district. The drainage district built levees of earth on each side of the new channel, and there were box culverts and iron culverts at places to allow water from the adjacent lands to pass into the creek, and these sluiceways were protected by gates to pre­vent water passing from the creek upon the lands. About a mile or a mile and a quarter below appellee’s farm, the Fenton &amp; Thompson Eailroad Company built an embankment and laid thereon its railroad tracks across the valley drained by this creek and by Otter creek, just south of this, and built a bridge over Johnson Creek. It was supported by eight rows of four wooden piles each, and the piles were twelve to eighteen inches in diameter, and said rows were about fourteen or fifteen feet apart. The rows were at right angles to the railroad track and at an angle of 42 de­grees to the stream, ánd there was proof that a person standing ten or fifteen rods up stream in the middle of the creek could not see through underneath the bridge, but the piles proved practically a solid obstruction to his vision. On December 30, 1906, after the ordinary water in the creek had been frozen over, there was a heavy rain and flood, and there was an ice gorge in Johnson Creek which dammed the water back so high at appellee’s farm that it swept away the dike on the southeast side and flooded a large portion of his farm, and the waters left the bed of the creek and flowed across his land. Johnson Creek came from sand hills some miles above. The flood carried large quantities of sand upon portions of appellee’s farm, and made the rest of it so wet and swampy that, ac­cording to appellee’s proof, it was unfit for cultiva­tion the next year. Appellee’s proof was that be­tween twenty-eight and twenty-nine acres of the farm were covered with sand to a depth of from eight and a half inches to twenty-four inches. On March 1, 1906, preceding this overflow, the Chicago, Burling­ton &amp; Quincy Bailroad Company, appellant, pur­chased the railroad of the Fenton &amp; Thompson Bail-­road Company and thereafter operated the same. Appellee brought this action against appellant to re­cover damages for the injury to his land occasioned by said overflow, charging that the manner in which the wooden piles were set and maintained across the stream caused the forming of this ice gorge and the consequent injury to his land. Appellee had a verdict for $1,610.82. The court below denied a motion by appellant for a new trial, and gave appellee a judg­ment on the verdict, from which defendant below ap­peals.</p>
+                <p pgmap="464" id="b464-5">It is contended that the court below erred in sus­taining objections to questions put by appellant to certain experts, with reference to the formula recog­nized among engineers for the capacity of bridges, and whether this bridge afforded an adequate outlet for the waters of the territory drained by Johnson Creek. It was not stated as a cause of action in ap­pellee’s declaration, nor did appellee seek to prove, that the bridge was insufficient to allow the waters to pass through but the alleged cause of action was the setting of the rows of piles at an angle of 42 de­grees with the course of the creek and thereby ob­structing the flow of ice and debris down the stream and causing an ice gorge and a consequent flood over appellee’s lands. The inquiry whether the bridge was recognized by engineers as sufficient to carry the waters of the valley was therefore immaterial.</p>
+                <p pgmap="464(71) 465(189)" id="b464-6">The trial court permitted both parties to show the conditions existing on December 30, 1906, and for a few days thereafter, immediately below the bridge, but confined that inquiry to the immediate vicinity of the bridge. The dike broke and was swept away and appellee’s farm was flooded about four o’clock in the afternoon of December 30. Appellant introduced evi­dence tending to show that there was no ice at the railroad bridge at that time, but that the gorge of ice was then formed some distance above the bridge, and that at four o’clock that afternoon at the railroad bridge the water was flowing northeast up stream. Appellant then sought to introduce a plat of all the surrounding country, showing that Otter Creek and Johnson Creek joined about a quarter of a mile below this railroad bridge, and that the joint stream was crossed a little further down by a highway bridge and still further down by railroad bridges of the Chi­cago, Milwaukee &amp; St. Paul Railroad and of another line of appellant. Appellant then inquired of wit­nesses what caused the water to run northeast up stream at the bridge in question. The trial court re­fused to admit that part of the plat which showed the union of Johnson and Otter Creeks, and the highway and railroad bridges below, and required that part of the plat to be cut out before admitting the rest of the plat in evidence, and refused to admit proof of what caused the water at the bridge to flow up stream.</p>
+                <p pgmap="465(186) 466(332)" id="b465-4">Appellee was not living upon his farm at the time of this flood. He was not present till some days later. He had but one witness who testified that the gorge of ice extended up from the railroad bridge on the afternoon of December 30, when the gorge of ice caused the water to rise above the top of the dike in appellee’s farm, to overflow upon his land and to wash out the dike, and to turn substantially the entire flood waters out of the creek and over his land, carrying with it the sand which was then deposited thereon and caused the main damage. That witness on cross-ex­amination showed that he only viewed the scene from the highway bridge northeast of appellee’s farm and from appellee’s farm that afternoon, and that he did not go to the railroad bridge till the next day. There­fore his statement that the gorge of ice began at the railroad bridge, seems to have meant merely that he so concluded from what he saw at the railroad bridge next day. Appellee’s other witnesses did not say that there was a gorge of ice at the railroad bridge that afternoon. Several of them did testify that on De­cember 31, they found the ice piled up at the railroad bridge. On the other hand, appellant produced six or eight witnesses who were at the railroad bridge on the afternoon of December 30, at the hour when the dike broke on appellee’s farm, or later that afternoon, several of them farmers living near by and who would not be likely to be prejudiced in favor of appellant, who testified that there was no gorge of ice or piling of ice at the railroad bridge that afternoon, and some of them testified that they could see that the ice was gorged or piled up at the bend in the creek some sev­enty-five rods above the railroad bridge, and that, while there was ice in the bottom of the creek at the railroad bridge, yet it had not risen, and the water was flowing over the ice. Several of them also testi­fied that the water at the railroad bridge at that time was flowing up stream. There was a very decided preponderance of evidence that there was no ice gorge at the railroad bridge that afternoon, but that the lower part of the ice gorge, and the place where the ice began to pile and create the dam which forced the water above over the dike upon appellee’s land, and washed out the dike there, was at the bend of the creek some seventy-five rods above and northeast of the railroad bridge. If that evidence was true, then the maintenance of the piles under the bridge as de­scribed did not cause the injury to appellee’s land, unless the piles caused the gorge at the bend of the creek. Certainly, under the proof mentioned, nothing at the railroad bridge could have caused that gorge to form so far above the railroad bridge, unless it was the flow of the water up-stream.</p>
+                <p pgmap="466(46) 467(127)" id="b466-5">We conclude, therefore, first, that the court should have awarded a new trial on the ground that the ver­dict for appellee was against the clear preponderance of the evidence, and, second, that the court should have permitted proof by appellant of the conditions at the wagon bridge below this railroad bridge, and at the other railroad bridge below that, so far as such proof would "tend to show what caused that water to flow up­stream. This proof is admissible, first to show that appellant was not responsible for any stoppage of ice at the bend in Johnson Creek, even if the jury concluded that such stoppage was caused or aided by the flow of water up-stream, and, second, because the jury might be disinclined to believe that the water flowed up­stream, in apparent violation of the laws of nature, and appellant had a right to remove any such defect in its proof by showing that existing conditions below, for which it was not responsible, forced the water to turn back.</p>
+                <p pgmap="467(239) 468(147)" id="b467-4">Appellant argues that the court erred in giving the first instruction requested by appellee, on the ground that it made appellant an insurer. Some of the in­structions in this record are not numbered, but those which may be called the first and second were held not erroneous in O. &amp; M. Ry. Co. v. Thillman, 143 Ill. 127. Appellant argues that the court erred in refusing to give instruction number five requested by it. It is an abstract proposition of law and does not attempt to apply that proposition to this case, and on familiar principles it was not error to refuse it. Moreover, the general question of the exercise of engineering skill in the building of this bridge across this water­way was not involved, but only the presence of these piles in the channel diagonally across the course of the water and as close together as they were, as im­peding the flow of ice when carried down by a flood. It is argued that the court erred in refusing the eighteenth instruction requested by appellant. It is said that there was no evidence that when this em­bankment and bridge were built there was any other natural passageway for the water, other than John­son Creek. The evidence was there was a deep valley there about one mile wide. The drainage district and its work and dike did not go below the bridge. In a state of nature the water would have flowed over the surrounding country if a gorge formed in the bed of the creek, and the heavy earth embankment main­tained by appellant prevented that natural flow of water. But for this embankment a gorge of ice in the bed of the creek at the place where the railroad bridge was located (if the gorge was there), would not have dammed the water back towards appellee’s farm for any considerable distance. This instruction was therefore calculated to mislead the jury. Appellant complains of the refusal of its instructions Nos. 12, 15 and 16, and of the modification of its instruction No. 11. An examination of the instructions given at appellant’s request will show that the substance of these instructions was given to the jury. We are of opinion that appellant was not injured by the rulings upon the instructions.</p>
+                <p pgmap="468" id="b468-5">But because the court should have permitted appel­lant to prove what conditions below this railroad bridge caused the water to flow up-stream under the railroad bridge, and because the verdict is contrary to a clear preponderance of the evidence, the judgment is reversed and the cause remanded.</p>
+                <p pgmap="468" id="b468-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="462" ORDERLABEL="446" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.3" BETYPE="IDREF" FILEID="alto_00231_1"/>
+              <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="463" ORDERLABEL="447" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jp2_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.2" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.3" BETYPE="IDREF" FILEID="alto_00232_0"/>
+              <area BEGIN="BL_463.4" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="464" ORDERLABEL="448" TYPE="page">
+        <fptr FILEID="tiff_00232_1"/>
+        <fptr FILEID="jp2_00232_1"/>
+        <fptr FILEID="alto_00232_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.2" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.3" BETYPE="IDREF" FILEID="alto_00232_1"/>
+              <area BEGIN="BL_464.4" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="465" ORDERLABEL="449" TYPE="page">
+        <fptr FILEID="tiff_00233_0"/>
+        <fptr FILEID="jp2_00233_0"/>
+        <fptr FILEID="alto_00233_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.2" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.3" BETYPE="IDREF" FILEID="alto_00233_0"/>
+              <area BEGIN="BL_465.4" BETYPE="IDREF" FILEID="alto_00233_0"/>
+              <area BEGIN="BL_465.6" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="466" ORDERLABEL="450" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jp2_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.2" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.3" BETYPE="IDREF" FILEID="alto_00233_1"/>
+              <area BEGIN="BL_466.4" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="467" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00234_0"/>
+        <fptr FILEID="jp2_00234_0"/>
+        <fptr FILEID="alto_00234_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.2" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_467.3" BETYPE="IDREF" FILEID="alto_00234_0"/>
+              <area BEGIN="BL_467.4" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="468" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00234_1"/>
+        <fptr FILEID="jp2_00234_1"/>
+        <fptr FILEID="alto_00234_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.2" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.3" BETYPE="IDREF" FILEID="alto_00234_1"/>
+              <area BEGIN="BL_468.4" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdL" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.17" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.18" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.6" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.5" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            <area BEGIN="BL_466.1" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b467-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_467.5" BETYPE="IDREF" FILEID="alto_00234_0"/>
+            <area BEGIN="BL_468.1" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-15" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.22" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-14" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.21" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-16" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.25" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_463.1" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            <area BEGIN="BL_464.1" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-11" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.11" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-10" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.10" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-13" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.20" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-12" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.12" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.13" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.9" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.8" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adr" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.23" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.24" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.6" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_465.1" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.5" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.5" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            <area BEGIN="BL_467.1" BETYPE="IDREF" FILEID="alto_00234_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aor" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.14" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.15" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJr" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.19" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0P7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.16" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.5" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0038" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="D. Heenan Mercantile Co. v. Welter">D. Heenan Mercantile Company, Appellee, v. William J. Welter, Appellant</name>
+          <docketnumber>Gen. No. 5,042</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 279</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="530d777b796b48833cb133cd4ec4692c" CHECKSUMTYPE="MD5" SIZE="43644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="142500096d5191c875601a461046dfa5" CHECKSUMTYPE="MD5" SIZE="48950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="bb92303ee3fdb77848050e94171e8583" CHECKSUMTYPE="MD5" SIZE="53652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="5e628b129144f007af1dd924a1e2c33f" CHECKSUMTYPE="MD5" SIZE="52318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00149_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="26a2d997087311a02719c7f1935a13e4" CHECKSUMTYPE="MD5" SIZE="2349488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00148_0.jp2"/>
+      </file>
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="49c0231e4e95704c5776504158baa836" CHECKSUMTYPE="MD5" SIZE="2330621">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="ea59ed9fd4bb25aa2b2fac56a8b49f2b" CHECKSUMTYPE="MD5" SIZE="2421372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00149_0.jp2"/>
+      </file>
+      <file ID="jp2_00149_1" MIMETYPE="image/jp2" CHECKSUM="ff5e3ca227532f375569b53045fb378e" CHECKSUMTYPE="MD5" SIZE="2367567">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00149_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="52dfdef80bc9d79a2ba3029222a8da24" CHECKSUMTYPE="MD5" SIZE="79473">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00148_0.xml"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="d09e17453f285eea7700282e08791bf7" CHECKSUMTYPE="MD5" SIZE="79643">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="8cbfbefa21599120824656597220ca34" CHECKSUMTYPE="MD5" SIZE="89078">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00149_0.xml"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml" CHECKSUM="88ef8c50f9f89254e1a7b9eb860021c8" CHECKSUMTYPE="MD5" SIZE="86622">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00149_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0038" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="282" firstpage="279">
+              <docketnumber pgmap="295" id="b295-5">Gen. No. 5,042.</docketnumber>
+              <parties pgmap="295" id="b295-4">D. Heenan Mercantile Company, Appellee, v. William J. Welter, Appellant.</parties>
+              <decisiondate pgmap="295" id="AQ9y">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="295" id="AmO">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="295" id="Ar1n">Rehearing denied October 9, 1908.</otherdate>
+              <attorneys pgmap="295" id="b295-9">Chubbuck &amp; Jones, for appellants.</attorneys>
+              <attorneys pgmap="295" id="b295-10">Reeves, Osborn &amp; Griggs, for appellee.</attorneys>
+              <summary pgmap="295" id="b295-8">Action commenced before justice of the peace. Appeal from the Circuit Court of LaSalle county; the Hon Edgar Eldredge, Judge, presiding.</summary>
+              <disposition pgmap="295" id="AUP">Re­versed and remanded.</disposition>
+              <headnotes pgmap="295" id="b295-6">1. Justice of the peace—when demands may be set off. Under the statute all demands within the limit of the justice’s jurisdic­tion should he brought in by the parties for determination and the defendant is entitled to interpose by way of set-off a debt accruing to him either under an implied or an express contract.</headnotes>
+              <headnotes pgmap="295" id="b295-7">2. Set-off—what proper subject of. Demands for work and labor performed, board, goods sold and delivered, are of such a nature that they may be set-off in an action ex contractu, whether they arise out of the subject-matter of the plaintiff’s suit or not.</headnotes>
+              <opinion type="majority">
+                <author pgmap="295" id="b295-11">Mr. Presiding Justice Thompson</author>
+                <p pgmap="295" id="ACa">delivered the opin­ion of the court.</p>
+                <p pgmap="295" id="b295-12">This is an appeal by the defendant from a judgment for $168.31 entered upon a directed verdict for the plaintiff in an action originally brought before a justice of the peace. The evidence shows that the appellee is a mercantile corporation and that it brought this suit to recover a balance claimed to be due for goods sold by it to appellant. The appellee filed a state­ment of the account between the parties, the first item of which is “Feb. 1, 1900, suit $12.00.” This is followed by several pages of items charged at various times from February. 1, 1900, to January 30, 1907, the total of which amounts to $750.93. Appellee’s account also gave the appellant credit for various items of which the following is a copy:</p>
+                <blockquote pgmap="296" id="b296-4">“May 1, 1900, to July 1, 1900, salary._$ 69.00</blockquote>
+                <blockquote pgmap="296" id="b296-5">July 7,1900, to Jan. 1,1901, salary.. 102.00</blockquote>
+                <blockquote pgmap="296" id="b296-6">Jan. 1,1901, to Jan. 1, 1902, salary...... 221.00</blockquote>
+                <blockquote pgmap="296" id="b296-7">Mar. Shirts returned,................ 4.00</blockquote>
+                <blockquote pgmap="296" id="b296-8">1906</blockquote>
+                <blockquote pgmap="296" id="b296-9">Jan. 1,1902, to Sept. 27,1902, SS1/^ wks. 162.86</blockquote>
+                <blockquote pgmap="296" id="b296-10">June 19, Due bill...................................... 1.38</blockquote>
+                <blockquote pgmap="296" id="b296-11">Nov. 20, Cash.......................................... 19.24</blockquote>
+                <blockquote pgmap="296" id="b296-12">29, Due bill.................................... 2.14</blockquote>
+                <blockquote pgmap="296" id="b296-13">1907</blockquote>
+                <blockquote pgmap="296" id="b296-14">Jan. 30, Damper.......................................50</blockquote>
+                <blockquote pgmap="296" id="b296-15">30, Cash.............................................50 582.62”</blockquote>
+                <p pgmap="296" id="b296-16">The difference between the two totals is $168.31, for which sum the court directed a verdict, and rendered judgment.</p>
+                <p pgmap="296(232) 297(150)" id="b296-17">The statements of counsel contained in the bill of ex­ceptions and the evidence offered by appellant show that the appellant was a salesman in the shoe depart­ment of appellee’s store at Streator for ten years prior to September, 1902. He received a salary of $1000 per year or $19.23 per week. During part of the time he drew $12 cash weekly, and the balance was credited to his account. The appellee claims that in November, 1900, Heenan, the president of appellee, called appel­lant into the office and informed him that the manager of the shoe department was about to leave and that they had considered appellant in connection with that position, and assured him there would be additional pay for the added responsibility. No additional com­pensation was agreed upon, Heenan saying it was neces­sary to talk it over with Miles Finlen, his associate. Appellant insists that Heenan there told him to go ahead and assume the responsibility of the department and they would pay him what it was worth. Appellant claims he had several conversations with Heenan re­garding the salary he was to receive as manager, but Heenan put him off by saying he had not seen Finlen, and assured him he need not worry, that they would pay him what it was worth. At one of these conver­sations appellant suggested $3.50 a week additional would be reasonable compensation for Ms extra serv­ices as buyer and manager, and that Heenan said “All right, I will see Pinlen about it.” Matters ran M this way until September, 1902, when appellant told Heenan the salary question must be settled. Heenan then told appellant they would not pay him any addi­tional salary. The appellant then tendered his resig­nation, but remained in the store two weeks at Hee­nan’s request. Heenan then offered appellant $1,500 per year if he would stay with appellee. Appellee claims that during the last two years appellant drew $15 per week and the balance of his salary was credited to his store account, while appellant filed a set-off and con­tends that the credits given him were erroneous and that he was entitled to a credit of an additional $3.50 per week, for the time he acted as buyer and manager.</p>
+                <p pgmap="297" id="b297-5">The trial court refused to permit appellant to make proof of the alleged agreement that he should be paid what his services were worth for the extra services ren­dered by appellant, additional to the $19.23 per week, and the value of such additional services. The rulmg of the court was based on the theory that the accounts were not mutual and that the claim for additional com­pensation to appellant was not liquidated and there­fore not the subject of set-off.</p>
+                <p pgmap="297(133) 298(349)" id="b297-6">Under the statute, when suit is begun before a jus­tice, “each party shall bring forward all his demands against the other, existing at the commencement of the action, which are of such a nature as to be consoli­dated, which do not exceed two hundred dollars when consolidated into one action or defense; and on refus­ing or neglecting to do so shall forever be barred from suing therefor.” Hurd’s Stat. chap. 79. sec. 53. Ap­pellee credited appellant, m its statements of the ac­count, with the following items; “Jan. 1, 1901, to Jan. 1, 1902, salary, $221.00; 1906, Jan. 1, 1902, to Sept. 27, 1902, 38% wks. $162.86,” bemg the balance of salary during the time appellant insists he is entitled to an additional credit. Appellant claims those credits are not what he is entitled to under the conversation he had with Heenan, when Heenan promoted appellant to be buyer and manager of the shoe department. Appellant also undertook to prove that it was the agreement, that his earnings over the amount he drew weekly, should be applied to his store account with appellee. We can see no legal reason why appellant should be bound by the credits given him by appellee, if they were not as much as he was entitled to under an implied contract. The suit having been begun before a justice, each party was required to bring forward all his demands ex­isting against the other which are of such a nature as to be consolidated, if the balance does not exceed two hundred dollars, or be barred. from .thereafter suing therefor. This applies as well to implied as to express contracts. The balance, if any, due appellee depended upon whether the items of credit it had given appellant were for the correct amounts. To hold otherwise would be to hold that the books of appellee are conclusive, and that the items therein are not open to contradiction, even although it appears from them that the credit for thirty-eight and one half weeks services rendered in 1902 was not given until 1906. Demands for work and labor performed, board, goods sold and delivered, are of such a nature that they may be set off in an action ex contractu, whether they arise out of the subject-­matter of the plaintiff’s suit or not. East v. Crow, 70 Ill. 91; Lloyd &amp; Co. v. Manufacturers &amp; Merchants Warehouse Co., 102 Ill. App. 551; Kelley, Maus &amp; Co. v. Caffrey, 79 Ill. App. 279. We hold that the set-off for services claimed by the appellee leaving a balance of less than $200, whichever contention prevails, is that character of a claim or demand that the justice act requires shall be presented or it will be barred, and that the court erred in the rejection of the evidence offered. The judgment is therefore reversed and the cause remanded.</p>
+                <p pgmap="298" id="b298-5">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="295" ORDERLABEL="279" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.2" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.1" BETYPE="IDREF" FILEID="alto_00148_0"/>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="280" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+              <area BEGIN="BL_296.3" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="281" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+              <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="282" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jp2_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.3" BETYPE="IDREF" FILEID="alto_00149_1"/>
+              <area BEGIN="BL_298.4" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUP" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.11" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.12" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-11" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.18" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.17" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-12" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.21" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACa" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.19" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.20" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ9y" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.13" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmO" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.10" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.10" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-11" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.11" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-14" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.14" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-15" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.15" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-16" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.16" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-17" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.17" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_297.1" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.16" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.8" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.9" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-12" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.12" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-13" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.13" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.5" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.7" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.6" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.7" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar1n" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.14" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.15" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.5" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.8" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.9" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

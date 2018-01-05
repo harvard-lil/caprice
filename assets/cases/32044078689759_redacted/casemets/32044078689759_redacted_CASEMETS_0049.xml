@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0049" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Smith v. Bankers’ Union">Fannie E. Smith, Appellant, v. Bankers’ Union of Chicago, Appellee</name>
+          <docketnumber>Gen. No. 4,965</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 384</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="0092686b702e154ae07bb2d6b1612b2a" CHECKSUMTYPE="MD5" SIZE="43566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="0e3fb978ba6a3302449dee8b063a2087" CHECKSUMTYPE="MD5" SIZE="49340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="1a4c73cea13cc3d8db5bff0937246b94" CHECKSUMTYPE="MD5" SIZE="54522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="c5f97856247edb9b9882d059b4cf00ae" CHECKSUMTYPE="MD5" SIZE="53794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="d79851b308265028b88405a3e98e9030" CHECKSUMTYPE="MD5" SIZE="42388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="9a9df31ff18b1139a6a442f265c44ab5" CHECKSUMTYPE="MD5" SIZE="2275508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="e00d13ea18394135890e9d4547d4bb65" CHECKSUMTYPE="MD5" SIZE="2376683">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="e5693fbca873ae7de21ebb6760573b21" CHECKSUMTYPE="MD5" SIZE="2379819">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00201_1.jp2"/>
+      </file>
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="c927eeac7ace4e1661307038f36a1f97" CHECKSUMTYPE="MD5" SIZE="2414820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_0.jp2"/>
+      </file>
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="38286ebf4cfcdcfd170b1f8b87193c80" CHECKSUMTYPE="MD5" SIZE="2291704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00202_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="2ffcca147eeba3943b4a3d4654939fdd" CHECKSUMTYPE="MD5" SIZE="80645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="4aefa103bccc21289456d7766754ee9d" CHECKSUMTYPE="MD5" SIZE="81927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="a3f393699fc9072cce9965c1b1b0ade7" CHECKSUMTYPE="MD5" SIZE="85992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00201_1.xml"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="1f2ddc958c5dae6c4adb5114c6c9d01d" CHECKSUMTYPE="MD5" SIZE="88365">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00202_0.xml"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="ad01cf0ba5f8de190422291d9ddd3552" CHECKSUMTYPE="MD5" SIZE="73228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00202_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="388" firstpage="384">
+              <docketnumber pgmap="400" id="b400-9">Gen. No. 4,965.</docketnumber>
+              <parties pgmap="400" id="b400-8">Fannie E. Smith, Appellant, v. Bankers’ Union of Chicago, Appellee.</parties>
+              <decisiondate pgmap="401" id="AqV">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="401" id="Aml">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="401" id="b401-5">W. H. A. Renner and O. M. Grove, for appellant.</attorneys>
+              <attorneys pgmap="401" id="b401-6">Ralph E. Eaton, for appellee.</attorneys>
+              <summary pgmap="400(10) 401(6)" id="b400-12">Assumpsit. Appeal from the Circuit Court of Carroll county; the Hon. Richabd S. Farrand, Judge, presiding.</summary>
+              <disposition pgmap="401" id="AU2L">Reversed and remanded.</disposition>
+              <headnotes pgmap="400" id="b400-10">1. Corporations—when may interpose defense of ultra vires. The law is that though a corporation may have received the bene­fits of a contract yet if that contract requires an act not authorized by the charter of the corporation it may raise the defense of ultra vires; but "if the contract is within the chartered authority of the corporation, then if the corporation has received the benefit of the contract, it may not raise the defense of ultra vires, even if there has been a failure to comply with some regulation, or if the power has been improperly exercised.</headnotes>
+              <headnotes pgmap="400" id="b400-11">2. Featernae benefit society—when transferee company liable upon certificate. Held, that the declaration in this case set up a good cause of action as against a transferee company by a mem­ber of the fraternal benefit society which had transferred its busi­ness.</headnotes>
+              <opinion type="majority">
+                <author pgmap="401" id="b401-7">Mr. Justice Dibell</author>
+                <p pgmap="401" id="AI1_">delivered the opinion of the court.</p>
+                <p pgmap="401" id="b401-8">This suit involves the acts of two mutual benefit life associations authorized to do a general mutual life insurance business in the State of Dlinois, the first bearing the name the Bankers’ Union o'f the World, Omaha, Nebraska, hereinafter called the Omaha Com­pany, and the other named the Bankers’ Union of Chicago, Dlinois, hereinafter called the Chicago Com­pany. The former was organized under the laws of Nebraska, and was authorized to do business and did business in Illinois. The latter was organized under the laws of Illinois. On October 23, 1903, the Omaha company issued a beneficiary certificate, No. 38172, dated October 15, 1903, for $2,000 upon the life of Oscar P. Smith of Milledgeville, Dlinois, payable to his wife, Fannie E. Smith, as beneficiary. On August 27, 1906, the Chicago Company issued a certificate, No. 1867, the body of which was as follows:</p>
+                <blockquote pgmap="401" id="b401-9">“This certifies that the attached life Insurance Policy No. 38172, heretofore issued by The Bankers Union of the World, of date October 15,1903, has been transferred to and assumed by the Bankers Union of Chicago, Illinois, and that said member and his benefi­ciary named in said certificate, each is and will be respectively entitled to the same benefits as in said policy set forth, subject to the provisions of the Con­stitution and By-Laws of the said The Bankers Union of the World, in force at the date of this transfer.”</blockquote>
+                <p pgmap="401(27) 402(65)" id="b401-10">On September 7, 1906, Oscar P. Smith indorsed thereunder his consent to said transfer and his accept­ance of the provisions thereof. This is a suit brought by said beneficiary against the Chicago Company upon said two instruments. A third amended declaration was filed containing five counts. The court sustained a demurrer to the declaration. Plaintiff elected to abide by the declaration and there was a judgment that “the defendant go hence without delay,” which we assume meant “without day”, at plaintiff’s costs. This is an appeal by plaintiff from that judgment.</p>
+                <p pgmap="402(284) 403(227)" id="b402-5">Each count of the third amended declaration set out both said instruments and averred that Oscar P. Smith died while said instruments were in force; that he was a member of the Omaha Company and by said transfer became a member of the Chicago Company; that he had paid all assessments and complied with all laws of said order; and that due proofs of death were made to and received by the Chicago Company and that it refused to pay. The third count is the fullest in allegation and, besides the foregoing, also alleged that defendant guaranteed to pay said policy No. 38172, issued by the Omaha Company; that said Omaha Company, before doing business in Illinois, complied with each of the provisions of paragraphs 255, 256, 257, and 258, of Starr &amp; Curtis’s edition of Chapter 73 of the Statutes of Illinois (which are the same as sections 3, 4, 5, and 6 of the act in relation to fraternal beneficiary societies, appearing in Hurd’s Revised Statutes of 1905 at pages 1223 to 1225); that before the Chicago Company issued said certificate No. 1867, said Omaha Company, by a two-thirds vote at a meeting of all the insured, decided to transfer its certificates to the Bankers’ Union of Chicago, which meeting was held and vote cast in full compliance with paragraph 240 of Starr &amp; Curtis’s edition of Chapter 73 of the Revised Statutes of Illinois (being section 16 of the Act of June 22, 1903, concerning life and accident insurance on the assessment plan, found in Hurd’s Revised Statutes of 1905, on page 1219), which provides when and how the corporations speci­fied in said act may transfer their risks. Said third count alleged that the transfer of said policy to said Chicago Company was in full compliance with every provision of the statute of Illinois, and was acted upon and accepted and entered of record by the proper insurance officers of the State of Illinois, and that the Chicago Company promised to pay to said beneficiary the amount named in said certificate. Said count also alleged that the Chicago Company, the defendant, held a sufficient fund in trust to guarantee and pay all the policies of the Omaha Company in full, including the certificate in question, and that the Chicago Com­pany had previously collected from the Omaha Com­pany the sum of $2,000 and held the same in trust for and to be paid over to the beneficiary in this certifi­cate on demand, after complying with the by-laws and constitution of the defendant. Said third count con­tained many other allegations. In view of section 7 of the Act of June 22, 1903, in reference to life and accident insurance on the assessment plan, we are dis­posed to hold that this company was subject to the provisions of that act. If so, then each count of this declaration shows a compliance with the provisions of section 16 thereof, and that the risk had been law­fully transferred from the Omaha Company to the Chicago Company.</p>
+                <p pgmap="403" id="b403-5">The law is that though a corporation may have re­ceived the benefits of a contract, yet, if that contract requires an act not authorized by the charter of the corporation, it may raise the defense of ultra vires; but if the contract is within the chartered authority of the corporation, then if the corporation has received the benefit of the contract, it may not raise the de­fense of ultra vires, even if there has been a failure to comply with some regulation, or if the power has been improperly exercised. Wood v. Mystic Circle, 212 Ill. 532. The certificate issued by a mutual benefit society is in the nature of a life insurance policy. Martin v. Stubbings, 126 Ill. 387, 403.</p>
+                <p pgmap="403(9) 404(151)" id="b403-6">If, however, it be held that the statutory provisions above referred to are not applicable to those com­panies, still defendant would be liable under those allegations of the third count which show that defendant collected from the Omaha Company $2,000 to pay this particular certificate, and held it in trust for the beneficiary therein, and to be paid over to her upon compliance with the by-laws and constitution of defendant. The first count would also still be good if the statutory provisions above stated were not appli­cable, because it avers that the Omaha Company and the Chicago Company are one and the same, and were one and the same, and that their by-laws, constitu­tion and certificate of membership were the same, and that they were controlled by the same persons. Un­der the allegations of that count, this was merely a change from doing-business under a Nebraska incor­poration to doing business under an Illinois incorpora­tion.</p>
+                <p pgmap="404" id="b404-5">We hold that the court erred in sustaining the de­murrer to the declaration.</p>
+                <p pgmap="404" id="b404-6">The judgment is therefore reversed and the cause remanded.</p>
+                <p pgmap="404" id="b404-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="400" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.3" BETYPE="IDREF" FILEID="alto_00200_1"/>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+              <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+              <area BEGIN="BL_401.18" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.3" BETYPE="IDREF" FILEID="alto_00201_1"/>
+              <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.2" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+              <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.3" BETYPE="IDREF" FILEID="alto_00202_1"/>
+              <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.9" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.8" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.6" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI1_" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.13" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.14" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqV" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.9" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU2L" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.7" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.16" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.7" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.10" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.11" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.12" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.15" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.17" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aml" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.6" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.11" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.10" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-12" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.12" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

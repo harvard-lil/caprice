@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0092" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Sanganois Club v. Lane">The Sanganois Club, Appellant, v. General Lane et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 475</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00247_0" MIMETYPE="image/tiff" CHECKSUM="cc1993516e49f1d01a0dc0460033dc46" CHECKSUMTYPE="MD5" SIZE="43400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00247_0.tif"/>
+      </file>
+      <file ID="tiff_00247_1" MIMETYPE="image/tiff" CHECKSUM="214865ac2d8da9fd517f644f3e9b66c6" CHECKSUMTYPE="MD5" SIZE="53298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00247_1.tif"/>
+      </file>
+      <file ID="tiff_00248_0" MIMETYPE="image/tiff" CHECKSUM="9b7f767190d65e50515121e8138a3d58" CHECKSUMTYPE="MD5" SIZE="44772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00248_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00247_0" MIMETYPE="image/jp2" CHECKSUM="26b02dff0a9e8632cb2ba23c2ebed38b" CHECKSUMTYPE="MD5" SIZE="2500521">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00247_0.jp2"/>
+      </file>
+      <file ID="jp2_00247_1" MIMETYPE="image/jp2" CHECKSUM="20fa8d5a4d91a84b60be036ec3faa5e3" CHECKSUMTYPE="MD5" SIZE="2426988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00247_1.jp2"/>
+      </file>
+      <file ID="jp2_00248_0" MIMETYPE="image/jp2" CHECKSUM="9425502ac8e469f45f046f6b57b6e8aa" CHECKSUMTYPE="MD5" SIZE="2437044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00248_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00247_0" MIMETYPE="text/xml" CHECKSUM="f8077ff932873f3410d4d73037f25a03" CHECKSUMTYPE="MD5" SIZE="74821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00247_0.xml"/>
+      </file>
+      <file ID="alto_00247_1" MIMETYPE="text/xml" CHECKSUM="4313dbd3aa54ce9673046c9bf9733b18" CHECKSUMTYPE="MD5" SIZE="85292">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00247_1.xml"/>
+      </file>
+      <file ID="alto_00248_0" MIMETYPE="text/xml" CHECKSUM="46b62a7d5738d6f31e8686c31e46ba34" CHECKSUMTYPE="MD5" SIZE="86312">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00248_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0092" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="477" firstpage="475">
+              <parties id="b493-4" pgmap="493">The Sanganois Club, Appellant, v. General Lane et al., Appellees.</parties>
+              <decisiondate id="A74" pgmap="493">Opinion filed November 17, 1908.</decisiondate>
+              <otherdate id="Aa6d" pgmap="493">Rehearing denied December 16, 1908.</otherdate>
+              <attorneys id="b493-8" pgmap="493">L. A. Jarman, for appellant.</attorneys>
+              <attorneys id="b493-9" pgmap="493">Milton McClure, for appellees.</attorneys>
+              <summary id="b493-7" pgmap="493">Bill for injunction. Appeal from the Circuit Court of Cass county; the Hon. Harry Higbee, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A9Ps" pgmap="493">Affirmed.</disposition>
+              <headnotes id="b493-6" pgmap="493">Injunctions—when should not he awarded without notice. An injunction should not be granted without notice where it does not appear from the bill or affidavit supporting the same that the rights of the complainant would have been unduly prejudiced if notice had been given to the defendants of the application. This rule is not affected by the fact that some of the defendants named in the bill reside in another county from that in which the appli­cation was made.</headnotes>
+              <opinion type="majority">
+                <author id="b493-10" pgmap="493">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AqQY" pgmap="493">delivered the opinion of the court.</p>
+                <p id="b493-11" pgmap="493">Appellant, a corporation organized for the purpose of carrying on a hunting club, filed a bill to restrain appellees and others from going upon its land for the purpose of hunting, shooting, or other purposes. A temporary injunction was ordered by the master in chancery, without notice to the defendants, -and the writ served upon ten of their number. Upon motion of all the defendants such injunction was thereafter, upon hearing, dissolved by the chancellor. Written sug­gestions of damages were thereupon filed by the de­fendants. After hearing evidence in support thereof, a decree was entered against the complainant, in favor of all the defendants, for $100 solicitor’s fees, and in favor of Kelly and Morris for $9 each. The com­plainant appealed.</p>
+                <p id="b493-12" pgmap="493(19) 494(195)">The bill avers in substance that the complainant was and had been for several years, in possession of the land in question as owner and lessee; that the defend­ants had not and never had claimed any title or interest in or right to possession of said lands; that the same being overflowed were only valuable for hunting and fishing purposes; that the complainant had expended several thousand dollars for and upon said lands that it and its members might use the same for such purposes; that the defendants had been repeatedly warned, by public and personal notice, not to hunt or trespass upon said land, but that they had repeatedly and al­most continuously for a year then last past, and were from day to day, against the protest of the complain­ant, wilfully, illegally and maliciously trespassing upon said lands, with boats and decoys, hunting and shoot­ing thereon, and would continue without cessation to so trespass unless restrained; that they were insolvent, and that the damages from such trespassers were of such a nature as are incapable of ascertaiment in a court of law; that the defendants were not residents of Cass county and could not conveniently be served with notice, and that they had threatened to continue to so trespass.</p>
+                <p id="b494-5" pgmap="494(152) 495(31)">No objection is raised to the amount of the damages assessed as solicitor’s fees. The other damages are too insignificant in amount to warrant discussion or con­sideration. The remaining errors argued are that the injunction was improperly dissolved, and that dam­ages should not have been assessed before a final hear­ing of the cause upon the merits. We think the tem­porary injunction was properly dissolved, for the rea­son that it does not appear from the bill or affidavit supporting the same, that the rights of the complain­ant would have been unduly prejudiced if notice had been given to the defendants of the application. It is manifest that no actual or substantial injury could have resulted from further trespasses of the char­acter threatened. The fact that some of the defend­ants resided in another county did not obviate the necessity of notice. Henderson v. Flanagan, 75 Ill. App. 296. It was not error to assess damages for soli­citor’s fees before the final hearing, inasmuch as the same were for services rendered solely upon the motion to dissolve.</p>
+                <p id="b495-5" pgmap="495">The decree of the circuit court is affirmed.</p>
+                <p id="b495-6" pgmap="495">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="493" ORDERLABEL="475" TYPE="page">
+        <fptr FILEID="tiff_00247_0"/>
+        <fptr FILEID="jp2_00247_0"/>
+        <fptr FILEID="alto_00247_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_493.2" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_493.1" BETYPE="IDREF" FILEID="alto_00247_0"/>
+              <area BEGIN="BL_493.3" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="494" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00247_1"/>
+        <fptr FILEID="jp2_00247_1"/>
+        <fptr FILEID="alto_00247_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_494.2" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_494.3" BETYPE="IDREF" FILEID="alto_00247_1"/>
+              <area BEGIN="BL_494.4" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="495" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00248_0"/>
+        <fptr FILEID="jp2_00248_0"/>
+        <fptr FILEID="alto_00248_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_495.4" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_495.3" BETYPE="IDREF" FILEID="alto_00248_0"/>
+              <area BEGIN="BL_495.5" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.12" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.13" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.7" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9Ps" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.8" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-4" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.4" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.5" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.6" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            <area BEGIN="BL_493.7" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.18" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            <area BEGIN="BL_494.1" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.14" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa6d" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.11" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b493-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.17" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQY" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.15" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            <area BEGIN="BL_493.16" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.5" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            <area BEGIN="BL_495.1" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            <area BEGIN="BL_495.2" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b495-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_495.6" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A74" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_493.9" BETYPE="IDREF" FILEID="alto_00247_0"/>
+            <area BEGIN="BL_493.10" BETYPE="IDREF" FILEID="alto_00247_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

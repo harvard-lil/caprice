@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0014" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Glass v. Chicago Union Traction Co.">Sara N. Glass, Appellant, v. Chicago Union Traction Company et al., Appellees</name>
+          <docketnumber>Gen. No. 14,022</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 116</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="ab5b60bda1ecbc2890714a9b0e69e03f" CHECKSUMTYPE="MD5" SIZE="44592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_1.tif"/>
+      </file>
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="0d0377073e2319c2bc8ab7ae676729ee" CHECKSUMTYPE="MD5" SIZE="46658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="56eac46f6b04ee1d110fce7e190d376c" CHECKSUMTYPE="MD5" SIZE="51628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="4f1ca314f8e2063d5a16a56eec24742a" CHECKSUMTYPE="MD5" SIZE="45740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00068_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="f9bbf9846d11a65cc6de9bd3250a463d" CHECKSUMTYPE="MD5" SIZE="2276214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00066_1.jp2"/>
+      </file>
+      <file ID="jp2_00067_0" MIMETYPE="image/jp2" CHECKSUM="f19b4f5dcfe80f519b7f05bcb4d0e525" CHECKSUMTYPE="MD5" SIZE="2347577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00067_0.jp2"/>
+      </file>
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="f94f9f281203b5bca899de572b5a680c" CHECKSUMTYPE="MD5" SIZE="2327769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="9d840d96f222c902924f45058e3f43d7" CHECKSUMTYPE="MD5" SIZE="2346686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00068_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="ae0f9aba4719a8a0f3f8ceac125662fb" CHECKSUMTYPE="MD5" SIZE="81814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00066_1.xml"/>
+      </file>
+      <file ID="alto_00067_0" MIMETYPE="text/xml" CHECKSUM="a70ce58db410ac2c8226a1173cb97467" CHECKSUMTYPE="MD5" SIZE="76784">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00067_0.xml"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="bb70067081d01c64e665bd2bdc3db440" CHECKSUMTYPE="MD5" SIZE="92272">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="35a8895ed9c20602a72ff7f217b69d35" CHECKSUMTYPE="MD5" SIZE="75526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00068_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="119" firstpage="116">
+              <docketnumber pgmap="132" id="b132-9">Gen. No. 14,022.</docketnumber>
+              <parties pgmap="132" id="b132-8">Sara N. Glass, Appellant, v. Chicago Union Traction Company et al., Appellees.</parties>
+              <decisiondate pgmap="132" id="A2c">Opin­ion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="132" id="AHR">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="133" id="b133-3">Brady &amp; Levy, for appellant; C. Stuart Beattie, of counsel.</attorneys>
+              <attorneys pgmap="133" id="b133-4">John A. Rose and Frank L. Kriete, for appellees; W. W. Gurley, of counsel.</attorneys>
+              <summary pgmap="132" id="b132-13">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Chables M. Walkeb, Judge, presid­ing.</summary>
+              <disposition pgmap="132" id="AIv">Affirmed.</disposition>
+              <headnotes pgmap="132" id="b132-10">1. Peesonal injubies—upon what recovery must he predicated. In actions for the recovery of damages for personal injuries result­ing from the negligence of the defendant, the right to recover is limited to the acts of negligence charged to he the cause of the injury suffered.</headnotes>
+              <headnotes pgmap="132" id="b132-11">2. Vaeianoe—what constitutes fatal. Proof that the car “began to run away quick” is not identical to starting and moving “with a sudden jerk” and such a variance is fatal.</headnotes>
+              <headnotes pgmap="132" id="b132-12">3. Appeals and bebdes—when rulings upon evidence and instruc­tions will not reverse. If a peremptory instruction would have been justified in favor of the successful party the action of the trial court in giving erroneous instructions and in admitting incompetent evi­dence will not reverse.</headnotes>
+              <opinion type="majority">
+                <author pgmap="133" id="b133-5">Mr. Justice Holdom</author>
+                <p pgmap="133" id="A58">delivered the opinion of the court.</p>
+                <p pgmap="133" id="b133-6">This is an action on the case for personal injuries suffered by plaintiff while a passenger upon a car operated by the defendant, Chicago Union Traction Company, as the result of negligence alleged to be imputable to defendants. The trial before court and jury resulted in a verdict and judgment for the de­fendants. Plaintiff seeks a review of the record and asks a reversal of the judgment.</p>
+                <p pgmap="133" id="b133-7">The declaration charges that defendants were negli­gent in that on the arrival of its car at Twelfth street and Lawndale avenue, and after the car had stopped for the purpose of permitting passengers to alight therefrom, and while plaintiff was in the exercise of due care and caution for her own safety and in the act of alighting from the car, the defendant, by its servants in charge of the car, negligently, wrongfully and carelessly started and moved the car with a sud­den and violent jerk, by reason whereof the plaintiff was thrown to the ground and was severely injured in a manner particularly set forth.</p>
+                <p pgmap="133" id="b133-8">It is elementary that in actions for the recovery of damages for personal injuries resulting from the negli­gence of a defendant, the right to recover is limited to the acts of negligence charged to be the cause of the injury suffered. Such proof cannot in any case be dispensed with. Without such proof there can be no recovery.</p>
+                <p pgmap="133(36) 134(135)" id="b133-9">The record shows an entire absence of proof of the particular negligence charged as resulting in the ac­cident and injury to plaintiff. Nor is there any proof of acts which constitute negligence from which the accident to plaintiff can be charged. The allegation of negligence is that the car started and moved “with a sudden and violent jerk.” We have scanned the record in vain for evidence supporting this charge. As to the occurrence the witness Wilkins testified: “I was looking out of the window and I saw the car come, going west on Twelfth street, and it stopped for a second or two, a short while, and then threw off, or somebody fell off. The car stopped and then went on again. That is all I saw of it.” The testimony of plaintiff on this point, found in the abstract, is as follows: “When I tried to get off I got one foot on the step, the car begins to run away quick. I got throwed off the car.”</p>
+                <p pgmap="134" id="b134-5">Miller testified: “I saw the car come to a stand­still and then it started again. Then the lady was thrown off the car. * * * She fell from the rear platform.” On cross-examination Miller further testi­fied: “When the car passed me I was on the side­walk. The car did not stop, it kept right on going. ’ ’</p>
+                <p pgmap="134(180) 135(18)" id="b134-7">This constitutes all the testimony covering the move­ments of the car and of plaintiff disclosed by the ab­stract. It will be observed that all of this evidence, with every reasonable inference which can be indulged from it, is insufficient to sustain the averment that the car started and moved with a sudden and violent jerk. The variance between the allegation of negligence and the proof is fatal to a recovery. It is patent that evi­dence that the car “began to run away quick,” is not tantamount to starting and moving “with a sudden jerk.” No negligence can be predicated on a car’s beginning to “run away quick.” It may have so run smoothly and without any violent motion or jerk, for aught that appears to the contrary. To “run away quick” is no more definite expression than to. run “very fast,” and as said in Chicago Union Traction Co. v. Duckstein, 136 Ill. App. 389, so we say now, for it is equally applicable: “The expression 'very fast’ used by the witness is vague, indefinite and meaning­less. Unaccompanied by other and more definite evi­dence, it does not tend to prove negligence. ’ ’</p>
+                <p pgmap="135" id="b135-4">The instructions to the jury on the crucial question, proof of the negligence charged, were in accord with precedent, for as said in Traction Co. v. Rarup, de­cided in this court November 28, 1904, and not re­ported, “The burden of proof is not upon the defend­ant to show how the plaintiff came to fall. If the pre­ponderance of the evidence does not show that he fell by reason of the car being negligently and suddenly started and moved in manner and form as charged in the declaration or some count thereof, then the plaint­iff has failed to make out his case under the declara­tion in this case.”</p>
+                <p pgmap="135" id="b135-5">Instruction 13, given at the instance of defendants, is open to much of the criticism made by plaintiff’s counsel, and the testimony of Moriarity, appellees’ investigator, was inadmissible, and the motion of ap­pellant to exclude it should have been granted. But neither of these errors in any way affected the result to plaintiff’s prejudice. The trial judge would have been justified in granting defendants’ motion, made at the close of plaintiff’s ease, to instruct the jury to find a verdict in defendants’ favor, for as the case then stood a verdict for plaintiff could not have been maintained.</p>
+                <p pgmap="135" id="b135-6">The judgment of the Circuit Court is without re­versible error, and it is affirmed.</p>
+                <p pgmap="135" id="b135-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="132" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.2" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+              <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="133" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jp2_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.2" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.1" BETYPE="IDREF" FILEID="alto_00067_0"/>
+              <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+              <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.2" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+              <area BEGIN="BL_135.4" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A58" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.7" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_133.8" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.5" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.6" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.7" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.8" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHR" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.15" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-13" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.13" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_132.14" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.12" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.11" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.10" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2c" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.17" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_132.18" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIv" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.16" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.9" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.8" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            <area BEGIN="BL_135.1" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.9" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.10" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-3" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.11" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.12" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

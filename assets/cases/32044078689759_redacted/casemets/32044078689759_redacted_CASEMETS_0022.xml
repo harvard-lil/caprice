@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0022" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Stone v. Ferry">H. O. Stone et al., Appellees, v. Albert D. Ferry, Ap­pellant</name>
+          <docketnumber>Gen. No. 14,124</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 191</citation>
+          <decisiondate>1908-10-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="d3b2a9b9ccadf235fd7bde229cbd2809" CHECKSUMTYPE="MD5" SIZE="36332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="a13d72676595a3082d71ff364a70223e" CHECKSUMTYPE="MD5" SIZE="52762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="f070281643f34dd49ead3f0e7a82753f" CHECKSUMTYPE="MD5" SIZE="55650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="195de5b2099768d2a9775aecdf266c36" CHECKSUMTYPE="MD5" SIZE="41290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00105_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="1ebf804312dc49445a6c037b65be0666" CHECKSUMTYPE="MD5" SIZE="2285144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="32b5c53619935376fa7e50219619036f" CHECKSUMTYPE="MD5" SIZE="2371742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="6875c0304b34549d4933a97290ee2dcd" CHECKSUMTYPE="MD5" SIZE="2418636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="ad1c7872a2cd7868e81192c8ed5bac7c" CHECKSUMTYPE="MD5" SIZE="2269183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00105_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="ce00709febdbcb7bec481336cf9af562" CHECKSUMTYPE="MD5" SIZE="65426">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="2d301e0eb39d349efe5ee4aa0c2e1b98" CHECKSUMTYPE="MD5" SIZE="85126">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="3865485af5f5b56e13d70045802a167a" CHECKSUMTYPE="MD5" SIZE="90544">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="e682b5498d7ee1cbc5639effd992cbde" CHECKSUMTYPE="MD5" SIZE="68151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00105_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0022" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="194" firstpage="191">
+              <docketnumber pgmap="207" id="b207-6">Gen. No. 14,124.</docketnumber>
+              <parties pgmap="207" id="b207-5">H. O. Stone et al., Appellees, v. Albert D. Ferry, Ap­pellant.</parties>
+              <decisiondate pgmap="207" id="ApZ">Opinion filed October 20, 1908.</decisiondate>
+              <otherdate pgmap="207" id="AJp">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <otherdate pgmap="207" id="APt">Rehearing denied Novem­ber 4, 1908.</otherdate>
+              <attorneys pgmap="207" id="b207-9">George W. Hess and E. R. Ede, for appellant.</attorneys>
+              <attorneys pgmap="207" id="b207-10">John M. Curran, for appellee; Simmons, Mitchell &amp; Irving, of counsel.</attorneys>
+              <summary pgmap="207" id="b207-8">Assumpsit. Appeal from the Municipal Court of Chicago; the Hon. Edward A. Dicker, Judge, presiding.</summary>
+              <disposition pgmap="207" id="AnD">Reversed with finding of fact.</disposition>
+              <headnotes pgmap="207" id="b207-7">Brokers and factors—What essential to recover commissions for effecting exchange. Before real estate brokers become entitled to a commission for effecting an exchange of property, it must appear that they were the procuring cause of both parties entering into the con­tract of exchange.</headnotes>
+              <opinion type="majority">
+                <author pgmap="207" id="b207-11">Mr. Justice Baker</author>
+                <p pgmap="207" id="ASJ">delivered the opinion of the court.</p>
+                <p pgmap="207(66) 208(148)" id="b207-12">This is an appeal by the defendant from a judgment for $2,250 recovered in an action of assumpsit for commissions on an exchange of real estate. The case was tried by the court without a jury. Plaintiffs were real estate brokers in Chicago. Defendant lived in Evanston and was the owner of a building in Evan­ston called the Ridgewood, on which there was a mort­gage for $50,000. In October, 1905, he listed said property with plaintiffs for sale or exchange. It is not claimed that an exclusive right to sell or exchange said property was given to plaintiffs, and there is evi­dence tending to show that defendant authorized Lloyd &amp; Ingersoll to sell or exchange said property for him in September, 1905. November 7, 1906, defendant made an agreement with William Q-., Junius C. and Ernest D. Hoag, who were the joint owners of a vacant lot in Evanston called the Hoag pasture lot, to exchange with them his said building for their said pasture lot. It is upon the claim of plaintiffs that it was their ser­vices that brought about and caused this exchange that the right to recover in this action is based. William G. Hoag lived in Evanston, Junius C. in Chicago, and Ernest D. in California.</p>
+                <p pgmap="208" id="b208-5">Substantially all that was said or done on the part of the plaintiffs in reference to said exchange was said and done by Walter Gr. Mitchell, one of their salesmen. Mitchell, in March, 1906, proposed to William Gr. Hoag an exchange of the Ridgewood for a lot other than said pasture lot. This proposition Mr. Hoag refused to consider, but in April he suggested to Mitchell an exchange of the Ridgewood for said pas­ture lot. He did not make a definite proposition for such exchange, but told Mitchell that he would con­sider a proposition to exchange the Ridgewood for said pasture lot, and indicated that he would be in­clined to accept such proposition.</p>
+                <p pgmap="208(83) 209(67)" id="b208-6">The testimony of Mitchell and defendant is conflict­ing as to the report made by Mitchell to defendant of said conversation with Mr. Hoag. We think the court might from the evidence properly find that Mitchell correctly reported to defendant said conversation, cor­rectly stated to him the boundaries of said pasture lot, and that the subsequent conversations between Mitchell and defendant related to an exchange of the Ridgewood for said pasture lot. Mitchell testified that when he reported to defendant his conversation with Mr. Hoag, defendant said to him, “See what you can do,” and further said, “If you do anything with him, bear in mind that it must Tie cash. I would not consider anything without the cash.” I said, “Mr. Ferry, how much cash do you require?” He said, “The minimum amount of ten thousand dollars; the more cash and less vacant you can get, the better.”</p>
+                <p pgmap="209" id="b209-4">Soon after this conversation, with the knowledge and consent of defendant, Mitchell took William GL Hoag to defendant’s building, and he inspected and examined the same. Mitchell afterwards, at the re­quest of Hoag, procured from the defendant a state­ment showing facts as to the building, its frontage, equipment, rentals, expenses, encumbrance, etc. Mitch­ell afterwards suggested to Hoag that as Ferry said that he would have to have some cash, the vacant land be subdivided into lots, and that Hoag retain a part of the lots and put in a certain amount of cash. At this interview Hoag told Mitchell that he was about to go to California, and that he wanted to take the matter up with his brother Ernest, who lived in California, and wanted more details as to the building and a picture of it. Mitchell sent him by mail a copy of the state­ment above referred to, but was unable to procure a picture of the building. William Gr. Hoag went to California and returned about the first of July. Both before he went and after his return Mitchell had fur­ther conversations with him in reference to said pro­posed exchange and reported the same to defendant. The substance of what Mr. Hoag said to Mitchell in each conversation after his return from California was that he wanted to take the matter up with his brother Junius C.; that he had tried to have him come out to Evanston for that purpose; that he had been unable to do so; that he would make further efforts to have his brother come out to Evanston, etc.</p>
+                <p pgmap="209(26) 210(117)" id="b209-5">In September, Lloyd &amp; Ingersoll began their efforts to bring about such exchange. Lloyd went to see Junius C. Hoag in Chicago and made repeated efforts to secure an appointment with him and 'William G. Hoag to examine the building. In October he suc­ceeded in making such appointment. Junius C. Hoag went to Evanston, met Lloyd and William G. Hoag and the three made a thorough examination of the Ridge-­wood. Lloyd procured from defendant’s agents a statement of the expenses and income of the building and sent copies to William G. and Junius 0. Hoag. It was after all this had been done that the contract for the exchange was entered into. There is no evi­dence that Mitchell or any one for or on behalf of the plaintiffs had any communication whatever with either Junius C. or Ernest D. Hoag.</p>
+                <p pgmap="210" id="b210-5">It was not enough that through the efforts of plaint­iffs, William G. Hoag was induced to enter into said contract for an exchange of the properties in question to entitle plaintiffs to recover from the defendant commissions for making such exchange. They were bound to prove that, through their efforts and services Junius C. and Ernest D. Hoag, the other owners, were also caused or induced to make such exchange. This, we think, the evidence fails to prove, and therefore fails to prove that the services or efforts of the plaint­iffs were the effective means or procuring cause of bringing about such exchange of properties.</p>
+                <p pgmap="210" id="b210-6">The judgment will therefore be reversed with a find­ing of facts and judgment will be entered here for the appellant, the defendant in the Municipal Court. Reversed with finding of facts and judgment here for appellant.</p>
+                <p pgmap="210" id="b210-8">Mr. Justice Chateaus took no part in the decision of this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="207" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.2" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+              <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.3" BETYPE="IDREF" FILEID="alto_00104_1"/>
+              <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.2" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+              <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+              <area BEGIN="BL_209.7" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.3" BETYPE="IDREF" FILEID="alto_00105_1"/>
+              <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.8" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnD" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.13" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.14" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApZ" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.15" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APt" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.16" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.17" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASJ" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.21" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.22" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.9" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.10" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-9" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.18" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-8" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.7" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJp" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.11" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.12" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-4" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-12" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.23" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.6" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-10" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.19" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-11" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.20" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

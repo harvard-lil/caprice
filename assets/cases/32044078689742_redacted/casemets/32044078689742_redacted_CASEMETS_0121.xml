@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0121" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Smith v. Miller">Hulda Smith, Appellee, v. Samuel T. Miller, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 606</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00312_1" MIMETYPE="image/tiff" CHECKSUM="3471ce166874cd04ca6f9a4cf842efec" CHECKSUMTYPE="MD5" SIZE="43878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00312_1.tif"/>
+      </file>
+      <file ID="tiff_00313_0" MIMETYPE="image/tiff" CHECKSUM="304919376c2f4b0230d55b21290d3507" CHECKSUMTYPE="MD5" SIZE="52406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_0.tif"/>
+      </file>
+      <file ID="tiff_00313_1" MIMETYPE="image/tiff" CHECKSUM="403252534b4324ba5771f7e84d4dea80" CHECKSUMTYPE="MD5" SIZE="38950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00312_1" MIMETYPE="image/jp2" CHECKSUM="551a6689d9cfea3b77001f75a13f4aa3" CHECKSUMTYPE="MD5" SIZE="2339709">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00312_1.jp2"/>
+      </file>
+      <file ID="jp2_00313_0" MIMETYPE="image/jp2" CHECKSUM="e9e8276d7226860b97d0c8d1b06c5d36" CHECKSUMTYPE="MD5" SIZE="2461228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_0.jp2"/>
+      </file>
+      <file ID="jp2_00313_1" MIMETYPE="image/jp2" CHECKSUM="1e921ae4a8e175bb9268cdc43e1d6ca2" CHECKSUMTYPE="MD5" SIZE="2300183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00312_1" MIMETYPE="text/xml" CHECKSUM="7a7ff7991aac983d11b08ea66848390a" CHECKSUMTYPE="MD5" SIZE="78217">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00312_1.xml"/>
+      </file>
+      <file ID="alto_00313_0" MIMETYPE="text/xml" CHECKSUM="3467331835148176d989944ae0e08c4c" CHECKSUMTYPE="MD5" SIZE="92811">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00313_0.xml"/>
+      </file>
+      <file ID="alto_00313_1" MIMETYPE="text/xml" CHECKSUM="90ed7797fca172d1223a793247f3dccf" CHECKSUMTYPE="MD5" SIZE="76015">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00313_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0121" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="608" firstpage="606">
+              <parties id="b624-4" pgmap="624">Hulda Smith, Appellee, v. Samuel T. Miller, Appel­lant.</parties>
+              <decisiondate id="A_9" pgmap="624">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b624-7" pgmap="624">Walter Eden and Eden &amp; Martin, for appellant.</attorneys>
+              <attorneys id="b624-8" pgmap="624">R. M. Peadro and M. A. Mattox, for appellee.</attorneys>
+              <summary id="b624-6" pgmap="624">Trespass. Appeal from the Circuit Court of Moultrie county; the Hon. W. G. Cochran, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AlK" pgmap="624">Affirmed.</disposition>
+              <headnotes id="b624-5" pgmap="624">Measure of damages—in action for wrongful detention of prop­erty. The rule as to the measure of damages in an action to recover for the wrongful taking and detention of personal property is that the plaintiff is entitled to recover as damages the value of the use of the property while it was detained and any depreciation in such value during its detention, produced by abuse or want of reason­able care on the part of the defendant.</headnotes>
+              <opinion type="majority">
+                <author id="b624-9" pgmap="624">Mr. Justice Baume</author>
+                <p id="AYC" pgmap="624">delivered the opinion of the court.</p>
+                <p id="b624-10" pgmap="624(162) 625(16)">Appellee, Hulda Smith, recovered a verdict and judgment against the appellant, Samuel T. Miller, for the sum of $307.41, in an action of trespass hy appellee against said appellant and others, to recover damages for wrongfully taking and detaining certain personal property, consisting of a team of horses, harness, wagon, buggy and farm machinery, the property of appellee. The property was taken by the sheriff of Moultrie county under and by virtue of an execution issued out of the County Court of said county upon a judgment in favor of appellant against the husband of appellee. Thereafter there was a trial of the right of property, resulting in a verdict and judgment in favor of- appel­lee, from which judgment an appeal was prosecuted to this court to the May term, 1907, and said judgment was there affirmed. Miller v. Smith, 137 Ill. App. 467. After the affirmance of said judgment by this court, the team of horses and harness were returned to the appellee on December 13,1907, and this snit was instituted by appellee, as before stated.</p>
+                <p id="b625-5" pgmap="625">Appellee was deprived of the use of her property by its wrongful taking and detention for a period of 254 days, and the evidence tends to show that the reason­able value of the use of the team during that time was $1 per day; that by reason of a want of reasonable care of said property by the appellant, and those act­ing for him, the property depreciated in value, during its detention, to the extent of from $63 to $113, as va­riously estimated by the witnesses.</p>
+                <p id="b625-6" pgmap="625">The main contention advanced on behalf of appel­lant for a reversal of the judgment, a determination of which is practically decisive of the case, is, that the true measure of appellee’s recovery is the interest upon the value of the property during its detention, and not the value of the use of the property during that time. This question is only involved in the case so far as it relates to the right of appellee to recover the value of the use of the team of horses.</p>
+                <p id="b625-7" pgmap="625">The measure of damages in the case at bar is the same as in an action of replevin for the wrongful tak­ing and detention of like property in Odell v. Hole, 25 Ill. 204, which involved the rule as to the measure of damages in an action to recover damages for the wrong­ful taking and detention of a mare, it was held that in an action of replevin, the plaintiff was entitled to recover as damages the value of the use of the property while it was detained, and any depreciation in the value of the property during its detention, produced by abuse or want of reasonable care on the part of the defend­ant. The same rule as to the true measure of damages in such cases is announced and applied in Alley v. McCabe, 147 Ill. 410.</p>
+                <p id="b625-8" pgmap="625(49) 626(14)">The evidence in the record is ample to sustain the finding of the jury, based upon an application of the rule respecting the measure of damages as here an­nounced, and as there is no error in the record which could have operated to the prejudice of appellant upon the merits of the case, the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b626-5" pgmap="626">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="624" ORDERLABEL="606" TYPE="page">
+        <fptr FILEID="tiff_00312_1"/>
+        <fptr FILEID="jp2_00312_1"/>
+        <fptr FILEID="alto_00312_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.1" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_624.2" BETYPE="IDREF" FILEID="alto_00312_1"/>
+              <area BEGIN="BL_624.3" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="625" ORDERLABEL="607" TYPE="page">
+        <fptr FILEID="tiff_00313_0"/>
+        <fptr FILEID="jp2_00313_0"/>
+        <fptr FILEID="alto_00313_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.3" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_625.2" BETYPE="IDREF" FILEID="alto_00313_0"/>
+              <area BEGIN="BL_625.4" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="626" ORDERLABEL="608" TYPE="page">
+        <fptr FILEID="tiff_00313_1"/>
+        <fptr FILEID="jp2_00313_1"/>
+        <fptr FILEID="alto_00313_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.2" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.3" BETYPE="IDREF" FILEID="alto_00313_1"/>
+              <area BEGIN="BL_626.4" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.11" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlK" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.8" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.5" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.7" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYC" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.13" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            <area BEGIN="BL_624.14" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.9" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-4" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.4" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.5" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.6" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            <area BEGIN="BL_624.7" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.12" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-5" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.5" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.15" BETYPE="IDREF" FILEID="alto_00312_1"/>
+            <area BEGIN="BL_625.1" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.6" BETYPE="IDREF" FILEID="alto_00313_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b624-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_624.10" BETYPE="IDREF" FILEID="alto_00312_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b625-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_625.8" BETYPE="IDREF" FILEID="alto_00313_0"/>
+            <area BEGIN="BL_626.1" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

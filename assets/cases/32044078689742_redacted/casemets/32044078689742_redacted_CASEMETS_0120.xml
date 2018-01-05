@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0120" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Goodheart v. Hall">Jesse M. Goodheart, Appellant, v. J. Whitney Hall, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 604</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00311_1" MIMETYPE="image/tiff" CHECKSUM="ddd3cc59abd9a3f3b39e24c90916734e" CHECKSUMTYPE="MD5" SIZE="37246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_1.tif"/>
+      </file>
+      <file ID="tiff_00312_0" MIMETYPE="image/tiff" CHECKSUM="5aea8adb35ec6919ef3ce4b19490ed59" CHECKSUMTYPE="MD5" SIZE="44548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00312_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00311_1" MIMETYPE="image/jp2" CHECKSUM="396a863f7119c6047e9f3823f94f1648" CHECKSUMTYPE="MD5" SIZE="2301505">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_1.jp2"/>
+      </file>
+      <file ID="jp2_00312_0" MIMETYPE="image/jp2" CHECKSUM="35cdc5d30d5c96ea8a20215c0b2be2cc" CHECKSUMTYPE="MD5" SIZE="2396682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00312_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00311_1" MIMETYPE="text/xml" CHECKSUM="47ec41e635f760c267e163b605a5e67b" CHECKSUMTYPE="MD5" SIZE="69834">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00311_1.xml"/>
+      </file>
+      <file ID="alto_00312_0" MIMETYPE="text/xml" CHECKSUM="6d1589505cc95bec68d31ccf4aba67a6" CHECKSUMTYPE="MD5" SIZE="72944">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00312_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0120" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="605" firstpage="604">
+              <parties id="b622-7" pgmap="622">Jesse M. Goodheart, Appellant, v. J. Whitney Hall, Appellee.</parties>
+              <decisiondate id="A8T" pgmap="622">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b622-12" pgmap="622">Ben L. Goodheart and Frank Y. Hamilton, for ap­pellant.</attorneys>
+              <attorneys id="b622-13" pgmap="622">M. A. Brennan and Sigmund Livingston, for appel­lee.</attorneys>
+              <summary id="b622-11" pgmap="622">Assumpsit. Appeal from the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Ag-U" pgmap="622">Affirmed.</disposition>
+              <headnotes id="b622-9" pgmap="622">1. Contracts—how to he construed. The construction of a con­tract is a question of law to be determined by the court.</headnotes>
+              <headnotes id="b622-10" pgmap="622">2. Appeals and errors—function of propositions of law. In order to save for review the question of the construction of a contract, it is necessary to present to the trial court propositions of law, where the cause has been tried by the court without the intervention of a jury.</headnotes>
+              <opinion type="majority">
+                <author id="b622-14" pgmap="622">Mr. Justice Baume</author>
+                <p id="ARv" pgmap="622">delivered the opinion of the court.</p>
+                <p id="b622-15" pgmap="622(45) 623(22)">Plaintiff brought this suit to recover the sum of $500 claimed to be due him from defendant, as a broker’s commission for procuring one Fishbeck to enter into a written contract with defendant for the purchase of certain real estate. A trial of the case by the court without a jury resulted in a finding in favor of the defendant and judgment against the plaintiff for costs.</p>
+                <p id="b623-5" pgmap="623">There is no serious controversy as to the facts and the only question which the trial court was called upon to consider and determine was whether the written agreement entered into between defendant and Fish-­beck became a valid, binding and enforceable contract for the purchase of the property by Fishbeck, or whether it merely constituted an option to purchase. The construction of the contract in this respect pre­sented a question of law purely. Chickering v. Bas­tress, 130 Ill. 206; Fleet v. Hertz, 201 Ill. 594. If the agreement constituted merely an option contract plaintiff was not entitled to recover the commission sued for. Lawrence v. Rhodes, 188 Ill. 96. The only question involved being one of law, it was necessary in order to preserve such question for review in this court that plaintiff should have submitted to the trial court propositions to be held as the law of the case. As no such propositions were submitted to the trial court and no question is raised other than that relating to the proper construction of the written contract be­tween defendant and Fishbeck, no question is prop­erly presented for our consideration and determina­tion upon this appeal. Mutual Protective League v. McKee, 223 Ill. 364; Jacobson v. Liverpool &amp; London &amp; Globe Ins. Co., 231 Ill. 61; Wight v. City of Chicago, 234 Ill. 83. The motion by plaintiff for a new trial in the court below did not supply the omission to submit written propositions of law. Jacobson v. Liverpool &amp; London &amp; Globe Ins. Co., supra.</p>
+                <p id="b623-6" pgmap="623">The judgment of the Circuit Court will be affirmed.</p>
+                <p id="b623-7" pgmap="623">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="622" ORDERLABEL="604" TYPE="page">
+        <fptr FILEID="tiff_00311_1"/>
+        <fptr FILEID="jp2_00311_1"/>
+        <fptr FILEID="alto_00311_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.2" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.3" BETYPE="IDREF" FILEID="alto_00311_1"/>
+              <area BEGIN="BL_622.4" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="623" ORDERLABEL="605" TYPE="page">
+        <fptr FILEID="tiff_00312_0"/>
+        <fptr FILEID="jp2_00312_0"/>
+        <fptr FILEID="alto_00312_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.3" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_623.2" BETYPE="IDREF" FILEID="alto_00312_0"/>
+              <area BEGIN="BL_623.4" BETYPE="IDREF" FILEID="alto_00312_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-9" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.8" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-5" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.5" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.7" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARv" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.17" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_622.18" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-7" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.7" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8T" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.13" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag-U" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.12" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b623-6" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_623.6" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-10" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.9" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-11" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.10" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_622.11" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-12" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.14" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-13" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.15" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-14" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.16" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-15" BETYPE="IDREF" FILEID="casebody_0120"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.19" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            <area BEGIN="BL_623.1" BETYPE="IDREF" FILEID="alto_00312_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

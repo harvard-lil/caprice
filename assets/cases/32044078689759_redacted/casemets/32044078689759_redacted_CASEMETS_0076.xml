@@ -1,0 +1,972 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0076" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Town of Cicero v. Hall">Town of Cicero, Appellee, v. Joseph Hall et al., Ap­pellants</name>
+          <docketnumber>Gen. No. 14,458</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 589</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00303_0" MIMETYPE="image/tiff" CHECKSUM="7fef3f90a6671a26a0d7058c02ed6050" CHECKSUMTYPE="MD5" SIZE="40334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00303_0.tif"/>
+      </file>
+      <file ID="tiff_00303_1" MIMETYPE="image/tiff" CHECKSUM="9340a7e773a56a8eb59cf59f67937e74" CHECKSUMTYPE="MD5" SIZE="49646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00303_1.tif"/>
+      </file>
+      <file ID="tiff_00304_0" MIMETYPE="image/tiff" CHECKSUM="937b48ea382d99bb10cb086c68daf45a" CHECKSUMTYPE="MD5" SIZE="45958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00304_0.tif"/>
+      </file>
+      <file ID="tiff_00304_1" MIMETYPE="image/tiff" CHECKSUM="03ffc16a5e9385fbaf137827f24133c6" CHECKSUMTYPE="MD5" SIZE="45990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00304_1.tif"/>
+      </file>
+      <file ID="tiff_00305_0" MIMETYPE="image/tiff" CHECKSUM="7a2957feab2e98c4eaedd5a2bc340411" CHECKSUMTYPE="MD5" SIZE="47106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00305_0.tif"/>
+      </file>
+      <file ID="tiff_00305_1" MIMETYPE="image/tiff" CHECKSUM="c78d29bcd5bc26c9587338d43760a1e1" CHECKSUMTYPE="MD5" SIZE="46510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00305_1.tif"/>
+      </file>
+      <file ID="tiff_00306_0" MIMETYPE="image/tiff" CHECKSUM="6a69cfbfa5a7101e5da55efea8c2c47b" CHECKSUMTYPE="MD5" SIZE="48874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00306_0.tif"/>
+      </file>
+      <file ID="tiff_00306_1" MIMETYPE="image/tiff" CHECKSUM="01a4464e76d297b5bdb6634e2e14f381" CHECKSUMTYPE="MD5" SIZE="51400">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00306_1.tif"/>
+      </file>
+      <file ID="tiff_00307_0" MIMETYPE="image/tiff" CHECKSUM="4d43e7259cb99c943f9c0f0989d37d31" CHECKSUMTYPE="MD5" SIZE="46728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00307_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00303_0" MIMETYPE="image/jp2" CHECKSUM="67afb0fa06bc9c7cf118c1d4d3d4e10a" CHECKSUMTYPE="MD5" SIZE="2296252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00303_0.jp2"/>
+      </file>
+      <file ID="jp2_00303_1" MIMETYPE="image/jp2" CHECKSUM="810f83c02c872e7671b5324c44741f9d" CHECKSUMTYPE="MD5" SIZE="2300756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00303_1.jp2"/>
+      </file>
+      <file ID="jp2_00304_0" MIMETYPE="image/jp2" CHECKSUM="56bbea6f5e1347dfef17fb60ee76dc48" CHECKSUMTYPE="MD5" SIZE="2331356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00304_0.jp2"/>
+      </file>
+      <file ID="jp2_00304_1" MIMETYPE="image/jp2" CHECKSUM="f4501eec607f27097e49cb79bb08572f" CHECKSUMTYPE="MD5" SIZE="2292958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00304_1.jp2"/>
+      </file>
+      <file ID="jp2_00305_0" MIMETYPE="image/jp2" CHECKSUM="e6e8507eb948ebc4ba5d5f2cd4227315" CHECKSUMTYPE="MD5" SIZE="2297645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00305_0.jp2"/>
+      </file>
+      <file ID="jp2_00305_1" MIMETYPE="image/jp2" CHECKSUM="50c8d12db7e4758d58580fcefcbb7166" CHECKSUMTYPE="MD5" SIZE="2268728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00305_1.jp2"/>
+      </file>
+      <file ID="jp2_00306_0" MIMETYPE="image/jp2" CHECKSUM="2554d15e5da674a91d9136340a5cc80c" CHECKSUMTYPE="MD5" SIZE="2360131">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00306_0.jp2"/>
+      </file>
+      <file ID="jp2_00306_1" MIMETYPE="image/jp2" CHECKSUM="a204a406fdf1fc5d9d0d4192449dc991" CHECKSUMTYPE="MD5" SIZE="2292350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00306_1.jp2"/>
+      </file>
+      <file ID="jp2_00307_0" MIMETYPE="image/jp2" CHECKSUM="5ee3fc55e47953aa0681297e1705d4a4" CHECKSUMTYPE="MD5" SIZE="2303288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00307_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00303_0" MIMETYPE="text/xml" CHECKSUM="47802df0c861b0283926045b6a1701ef" CHECKSUMTYPE="MD5" SIZE="72626">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00303_0.xml"/>
+      </file>
+      <file ID="alto_00303_1" MIMETYPE="text/xml" CHECKSUM="e7378f7431f7132303cc0d0c03d8b037" CHECKSUMTYPE="MD5" SIZE="90207">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00303_1.xml"/>
+      </file>
+      <file ID="alto_00304_0" MIMETYPE="text/xml" CHECKSUM="b01c18692f41c3bf9f84dff524dec15a" CHECKSUMTYPE="MD5" SIZE="75593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00304_0.xml"/>
+      </file>
+      <file ID="alto_00304_1" MIMETYPE="text/xml" CHECKSUM="5b8930bbe96f5f3303f5bb333d947b6a" CHECKSUMTYPE="MD5" SIZE="79927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00304_1.xml"/>
+      </file>
+      <file ID="alto_00305_0" MIMETYPE="text/xml" CHECKSUM="828b2d74f3bbc8ee7cad8cbf832102a7" CHECKSUMTYPE="MD5" SIZE="81663">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00305_0.xml"/>
+      </file>
+      <file ID="alto_00305_1" MIMETYPE="text/xml" CHECKSUM="3841aa9a63f39bd8782419a27d907eea" CHECKSUMTYPE="MD5" SIZE="80337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00305_1.xml"/>
+      </file>
+      <file ID="alto_00306_0" MIMETYPE="text/xml" CHECKSUM="20cc68bda5bf46c329e6c655e2c96825" CHECKSUMTYPE="MD5" SIZE="86714">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00306_0.xml"/>
+      </file>
+      <file ID="alto_00306_1" MIMETYPE="text/xml" CHECKSUM="d181345e4364c61dcefc7d5eee0e830a" CHECKSUMTYPE="MD5" SIZE="85881">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00306_1.xml"/>
+      </file>
+      <file ID="alto_00307_0" MIMETYPE="text/xml" CHECKSUM="d0cf703f849c42046d90bccca4235a12" CHECKSUMTYPE="MD5" SIZE="93744">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00307_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0076" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="597" firstpage="589">
+              <docketnumber pgmap="605" id="b605-8">Gen. No. 14,458.</docketnumber>
+              <parties pgmap="605" id="b605-7">Town of Cicero, Appellee, v. Joseph Hall et al., Ap­pellants.</parties>
+              <decisiondate pgmap="606" id="AWZ">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="606" id="ASx">Heard in this court at the March term, 1908.</otherdate>
+              <attorneys pgmap="609" id="b609-4">Runnells, Burry &amp; Johnstone, for appellant.</attorneys>
+              <attorneys pgmap="609" id="b609-5">John J. Sherlock and Hiram T. Gilbert, for ap­pellee.</attorneys>
+              <summary pgmap="606" id="b606-5">Action in debt. Appeal from the Municipal Court of Chicago; the Hon. John H. Hume, Judge, presiding.</summary>
+              <disposition pgmap="606" id="AhG">Affirmed.</disposition>
+              <headnotes pgmap="605" id="b605-9">1. Bonds—when liability as at common law enforced. If a bond initially given as a statutory bond does not comply with the stat­ute, it is none the less valid and will be enforced as a common law obligation.</headnotes>
+              <headnotes pgmap="605" id="b605-10">2. Bonds—when town collector's bond substantially in compli­ance with statute. The town collector’s bond in question in this case held substantially in accord with the statute providing there­for.</headnotes>
+              <headnotes pgmap="605(9) 606(66)" id="b605-11">3. Bonds—when surety liable upon town collector’s. Held, that under the terms of the bond of the town collector in question in this case, treated either as a statutory or as a common law obliga­tion, that the sureties upon such bond were liable for the failure of the tpwn collector to account for moneys reported by him as in Ms possession where he had deposited the same in a bank of his own choosing.</headnotes>
+              <p pgmap="606" id="b606-6">Statement by the Court. This is an appeal from a judgment of the- Municipal. Court of Chicago in favor of the Town of Cicero and against Joseph Hall and the Metropolitan Surety Company in a case of the first class in debt. The judgment was in the penal sum of a bond sued on,-the damages being assessed at $6,329.96. The judgment was by the consideration of the court, sitting without a jury. After finding the issues for the plaintiff the court overruled a motion for a new trial and a motion in arrest of judgment, and gave judgment as above stated. From this judgment the defendants have appealed to this court and have as­signed various errors. Their contention in argument is confined to the proposition that under the undis­puted facts, the finding of the court was erroneous in law.</p>
+              <p pgmap="606" id="b606-7">The facts out of which the suit grew and which appear in the record are these:</p>
+              <p pgmap="606" id="b606-8">The defendant, Joseph Hall, was on April 4, 1906, elected Collector of the Town of Cicero in Cook county, Illinois, for a period of one year. He entered on his duties April 17, 1906, at which time* he presented and the Board of Trustees of the Town of Cicero accepted and approved a bond in the penal sum of $20,000, with himself as principal and The Metropolitan Surety Company of New York as surety thereon, conditioned as follows:</p>
+              <p pgmap="606(28) 607(20)" id="b606-9">“The condition of this obligation is such, that whereas, the above bounden Joseph Hall was on the fourth day of April, A. D. 1906, duly elected to the office of Collector of said Town of Cicero, in the County of Cook aforesaid, for the period of one year.</p>
+              <p pgmap="607" id="b607-4">Now therefore,, if the said Joseph Hall shall faith­fully account for all moneys that may come into his hands as such Collector, and pay over the same pur­suant to the provisions of law or the order or resolu­tion of the Board of Trustees of the Town of Cicero, and shall faithfully perform the duties of his office to the best of his skill and ability, then this obligation to be void; otherwise to remain in full force and effect”.</p>
+              <p pgmap="607" id="b607-5">Joseph Hall continued to perform the duties of Col­lector of the Town of Cicero until April 29, 1907, at which date his successor in office, Erskine Hart, as­sumed them.</p>
+              <p pgmap="607" id="b607-6">Just prior to the relinquishment of his office Mr. Hall made a report to the Board of Trustees, which was thereafter filed in the Town Clerk’s office, show­ing accurately, as is conceded, his receipts and dis­bursements during his entire term of office.</p>
+              <p pgmap="607" id="b607-7">This report first showed the collection of $60,908.77 on general taxes, the charge against it of $1,218.77, or two per cent., as commission for collecting, and the pay­ment to the county, town, sanitary and township treasurers of the balance of $59,690.60. Then fol­lowed a separate report or section of the report, en­titled Miscellaneous Collections to April 30, 1907, which gave items of receipts from April 18, 1906, to April 30, 1907, of water rates, saloon and pool table licenses, dog licenses, undertakers’, peddlers’, junk dealers’, sewer builders’, express men’s, house movers’ and milk licenses, miscellaneous collections and build­ing, sewer and water permits and the disposition of them.</p>
+              <p pgmap="607" id="b607-8">The summary or recapitulation with which this sec­tion of the report concludes is as follows:</p>
+              <p pgmap="608" id="b608-4">“Summary.</p>
+              <p pgmap="608" id="b608-5">Total collections, 53704.29</p>
+              <p pgmap="608" id="AP1">Total commissions, 1074.09</p>
+              <p pgmap="608" id="b608-7">6102.07 Shortage Failure Lincoln Bank,</p>
+              <p pgmap="608" id="b608-8">46528.13 To Louis Grisko, Treasurer,</p>
+              <p pgmap="608" id="b608-11">53704.29 53704.29.”</p>
+              <p pgmap="608" id="b608-12">After testifying to the accuracy of this report Mr. Hall, who was called in this suit as a witness for the plaintiff, testified that he did not turn over to the Treasurer of the Town of Cicero the $6,102.07 men­tioned, but deposited it with the Lincoln Bank, which failed." “That is the reason”, he said, “I failed to turn it over”.</p>
+              <p pgmap="608" id="b608-13">On account of this failure, the present suit was brought and a declaration in debt on the bond filed. The declaration assigned as a breach of the bond that Hall did not faithfully account for all moneys that came into his hands as collector and pay over the same pursuant to the provisions of law to the Super­visor (who by law is the Treasurer) of the plaintiff and did not faithfully perform the duties of his office to the best of his skill and ability.</p>
+              <p pgmap="608" id="b608-14">The defendants filed a plea of nil debet, which was successfully demurred to, a plea of non est factum, on which issue was joined by a similiter, and the two other pleas, which were traversed with a tender of issue.</p>
+              <p pgmap="608(108) 609(54)" id="b608-15">The first of these pleas was to the effect that the said Hall paid over all the moneys that came into his hands as said Collector, pursuant to the provisions of law, by the order or resolution of the Board of Trustees of the Town of Cicero, to the Lincoln Bank-­of Morton Park) Illinois, or to other person or per­sons designated by said Board, and so did faithfully account for all moneys coming into his hands as Col­lector. The second asserts that Joseph Hall .has at all times faithfully accounted for all moneys that came into his hands as Collector of the Town of Cicero, and paid over the same pursuant to the provisions of law or the order or the resolution of the Board of Trustees of the Town of Cicero, and faithfully performed the duties of his office to the best of his skill and ability, according to the true intent and meaning of said writing obligatory.</p>
+              <opinion type="majority">
+                <author pgmap="609" id="b609-6">Mr. Justice Brown</author>
+                <p pgmap="609" id="A1D">delivered the opinion of the court.</p>
+                <p pgmap="609" id="b609-7">We have just filed an opinion in the cause of the Town ■ of Cicero v. Louis Grisko et ah, ante p. 564, in which the failure of the so-called Lincoln Bank at Morton Park, and its effect on the funds of the town in the hands of its Treasurer were involved. That opinion shows to some extent the state of things which brought about the failure. The suit at bar is one of its effects, and the defendants unfortunate victims of it. But we can see no valid defense to the claim of the town shown in this record.</p>
+                <p pgmap="609" id="b609-8">One line of argument of the appellant company which was surety on the bond sued on, as shown by a proposition of law tendered by it to the court and refused, is (a) that the bond was not in substance, even the same as the bond required by statute, and (b) that the bond given being substantially different from the satutory bond, the surety is not liable “for money which the collector in good faith and without neg­ligence” deposited in a bank, and lost by the failure of that bank.</p>
+                <p pgmap="609(50) 610(12)" id="b609-9">The second clause of the proposition is plainly a non-sequitur. If the bond is not in accordance with the statute it may still be valid as a common law bond, and the question of the liability of the surety in the ease is to be determined not arbitrarily by the fact of the difference, bnt by the terms of the bond given.</p>
+                <p pgmap="610" id="b610-5">Another line of argument of the appellants, as shown by another proposition of law rejected by the court, is that in the present case (a) the covenant “to pay over money”, found in the bond sued on, is merged in the covenant faithfully to perform the col­lector’s duties, and (b) that if the officer otherwise faithfully performed his duties and “honestly and in good faith” deposited money in a bank, which money was lost by the failure of said bank, the surety is not liable.</p>
+                <p pgmap="610" id="b610-6">The connection of these two propositions also in­volves a non-sequitur, for the question whether the collector has faithfully performed his duties when he has deposited the money in a bank of his own choos­ing, depends on what the law makes his duty with ref­erence to that money.</p>
+                <p pgmap="610" id="b610-7">Neither proposition as offered 'was sound, and they were properly refused.</p>
+                <p pgmap="610" id="b610-8">Nor is the basis on which either argument rests sound in its premises. We do not think that the bond given differed substantially from the bond prescribed by statute, nor that the covenant “to pay over money” in this case was merged in the covenant “to faith­fully perform”.</p>
+                <p pgmap="610" id="b610-9">The bond as given appears in the statement prefixed hereto. Its condition is that:</p>
+                <blockquote pgmap="610" id="b610-10">“Joseph Hall shall faithfully account for all moneys that may come into his hands as such collector, and pay over the same, pursuant to the provisions of law or the order or resolution of the Board of Trustees of the Town of Cicero, and shall faithfully perform the duties of his office to the best" of his skill and ability”.</blockquote>
+                <p pgmap="610(39) 611(28)" id="b610-11">The condition prescribed for the collector’s bond by section 6 of the charter of the Town of Cicero (Private Laws of 1869, vol. 3, p. 668) is: “That he will well and truly pay over and account for all moneys that may come into his hands as collector to the party or parties entitled thereto, and that he will faithfully discharge the duties of his said office”.</p>
+                <p pgmap="611" id="b611-4">We do not think there is any substantial difference in these conditions. To pay over money “to the party entitled thereto” is to pay it over “pursuant to the provisions of law”, and vice versa. We do not think the addition of the words “or the order or resolution of the Board of Trustees of the Town of Cicero” sub­stantially changes the required condition. It is not to be presumed that the Trustees would order the money turned over to parties not entitled by law to receive it.</p>
+                <p pgmap="611" id="b611-5">Certainly the addition of the words “to the best of his skill and ability” do not add or subtract anything •from the words “faithfully perform the duties of his office”. We know of no case where their conventional use has been held to excuse default resulting from ignorance or credulity not excusable or justifiable in a public officer.</p>
+                <p pgmap="611" id="b611-6">But if the bonds are different, and the bond given merely a common law and not a statutory bond, there is still no doubt that to escape liability in this case, where money received by Hall as collector was not paid over to any one but an insolvent bank selected by himself—which bank had no claim to it—the surety must show that the collector has, notwithstanding such failure, complied with the conditions of the bond he gave. It is plain he did not. He neither faithfully “paid over” the money that came into his hands pur­suant to the provisions of law or the order or reso­lution of the Board of Trustees of the Town of Cicero, nor did he “faithfully perform the duties of his office to the best of his skill and ability”.</p>
+                <p pgmap="611" id="b611-7">The obligations and duties of a town collector are very different from those of the officers or employes and agents mentioned in the cases cited by appel­lants.</p>
+                <p pgmap="611(14) 612(105)" id="b611-8">In C., B. &amp; Q. R. R. Co. v. Bartlett, 120 Ill. 603, for example, the principal in the hond was a paymaster of a railroad, from whom the money was stolen, and as the headnote puts it, the court held that “where the company required such agent to keep the moneys in a room not properly protected against the entry of thieves or burglars * * * ' and a large sum was stolen from the safe during the temporary absence of such agent, without any neglect of duty or want of care on his part, the agent could not be held liable on his bond conditioned that he would account for all moneys coming to his hands”.</p>
+                <p pgmap="612" id="b612-6">The difference between such a case and the present one needs no elaboration. In this case the town did not prescribe the place of deposit to the Collector. It did not oblige him to keep the money anywhere. It presumably invited him to turn it over to the treas­urer as nearly as possible as he collected it.</p>
+                <p pgmap="612" id="b612-7">That a collector for a municipality giving a bond “to faithfully perform the duties of his office”, even were there nothing else conditioned in it, should be excused from paying over money which he had col­lected for the municipality by showing that he, of his own volition, had loaned it to an insolvent speculator, whether such speculator did business under the name of a bank or otherwise, would be a very dangerous doctrine to hold.</p>
+                <p pgmap="612" id="b612-8">But that is what the defense amounts to in this case. The Lincoln Bank was William J. Atkinson. The “deposit” in the Lincoln Bank is what all general deposits in a bank are—a loan on demand to . the “Bank”—in this case William J. Atkinson. He was insolvent and could not pay it back. Mr. Hall may be morally guiltless, but he is legally responsible for the money. His bondsman is responsible with him. It would be judicious for bonding companies to keep closer watch of the investments and deposits of public money.</p>
+                <p pgmap="612(17) 613(15)" id="b612-9">The questions raised in this case concerning the necessity for demand and of the allowance of interest do not differ from those discussed in Cicero v. Grisko et al., before referred to.</p>
+                <p pgmap="613" id="b613-4">We think the judgment of the Municipal Court is correct and should be affirmed, and it is so ordered.</p>
+                <p pgmap="613" id="b613-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="605" ORDERLABEL="589" TYPE="page">
+        <fptr FILEID="tiff_00303_0"/>
+        <fptr FILEID="jp2_00303_0"/>
+        <fptr FILEID="alto_00303_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.2" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_605.3" BETYPE="IDREF" FILEID="alto_00303_0"/>
+              <area BEGIN="BL_605.4" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="606" ORDERLABEL="590" TYPE="page">
+        <fptr FILEID="tiff_00303_1"/>
+        <fptr FILEID="jp2_00303_1"/>
+        <fptr FILEID="alto_00303_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_606.2" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_606.3" BETYPE="IDREF" FILEID="alto_00303_1"/>
+              <area BEGIN="BL_606.4" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="607" ORDERLABEL="591" TYPE="page">
+        <fptr FILEID="tiff_00304_0"/>
+        <fptr FILEID="jp2_00304_0"/>
+        <fptr FILEID="alto_00304_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_607.2" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_607.3" BETYPE="IDREF" FILEID="alto_00304_0"/>
+              <area BEGIN="BL_607.4" BETYPE="IDREF" FILEID="alto_00304_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="608" ORDERLABEL="592" TYPE="page">
+        <fptr FILEID="tiff_00304_1"/>
+        <fptr FILEID="jp2_00304_1"/>
+        <fptr FILEID="alto_00304_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_608.1" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_608.2" BETYPE="IDREF" FILEID="alto_00304_1"/>
+              <area BEGIN="BL_608.3" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="609" ORDERLABEL="593" TYPE="page">
+        <fptr FILEID="tiff_00305_0"/>
+        <fptr FILEID="jp2_00305_0"/>
+        <fptr FILEID="alto_00305_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_609.2" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_609.3" BETYPE="IDREF" FILEID="alto_00305_0"/>
+              <area BEGIN="BL_609.4" BETYPE="IDREF" FILEID="alto_00305_0"/>
+              <area BEGIN="BL_609.13" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="610" ORDERLABEL="594" TYPE="page">
+        <fptr FILEID="tiff_00305_1"/>
+        <fptr FILEID="jp2_00305_1"/>
+        <fptr FILEID="alto_00305_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_610.2" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_610.3" BETYPE="IDREF" FILEID="alto_00305_1"/>
+              <area BEGIN="BL_610.4" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="611" ORDERLABEL="595" TYPE="page">
+        <fptr FILEID="tiff_00306_0"/>
+        <fptr FILEID="jp2_00306_0"/>
+        <fptr FILEID="alto_00306_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_611.2" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_611.3" BETYPE="IDREF" FILEID="alto_00306_0"/>
+              <area BEGIN="BL_611.4" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="612" ORDERLABEL="596" TYPE="page">
+        <fptr FILEID="tiff_00306_1"/>
+        <fptr FILEID="jp2_00306_1"/>
+        <fptr FILEID="alto_00306_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_612.2" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_612.3" BETYPE="IDREF" FILEID="alto_00306_1"/>
+              <area BEGIN="BL_612.4" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="613" ORDERLABEL="597" TYPE="page">
+        <fptr FILEID="tiff_00307_0"/>
+        <fptr FILEID="jp2_00307_0"/>
+        <fptr FILEID="alto_00307_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.2" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.3" BETYPE="IDREF" FILEID="alto_00307_0"/>
+              <area BEGIN="BL_613.4" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.7" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.8" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.5" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.4" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.9" BETYPE="IDREF" FILEID="alto_00306_0"/>
+            <area BEGIN="BL_612.1" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.7" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.9" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.10" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.8" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASx" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.7" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            <area BEGIN="BL_606.8" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhG" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.9" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.9" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.11" BETYPE="IDREF" FILEID="alto_00303_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.13" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.5" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            <area BEGIN="BL_606.6" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.14" BETYPE="IDREF" FILEID="alto_00303_1"/>
+            <area BEGIN="BL_607.1" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.12" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1D" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.8" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            <area BEGIN="BL_609.9" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.5" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.6" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b607-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_607.7" BETYPE="IDREF" FILEID="alto_00304_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b605-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_605.12" BETYPE="IDREF" FILEID="alto_00303_0"/>
+            <area BEGIN="BL_606.1" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.5" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.6" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.6" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-10" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.10" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.11" BETYPE="IDREF" FILEID="alto_00305_1"/>
+            <area BEGIN="BL_611.1" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.7" BETYPE="IDREF" FILEID="alto_00306_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWZ" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.10" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b612-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_612.8" BETYPE="IDREF" FILEID="alto_00306_1"/>
+            <area BEGIN="BL_613.1" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.8" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b606-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_606.11" BETYPE="IDREF" FILEID="alto_00303_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.11" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.12" BETYPE="IDREF" FILEID="alto_00305_0"/>
+            <area BEGIN="BL_610.1" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.7" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.10" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.5" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b609-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_609.6" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-8" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.8" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-9" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.9" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-15" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.13" BETYPE="IDREF" FILEID="alto_00304_1"/>
+            <area BEGIN="BL_609.1" BETYPE="IDREF" FILEID="alto_00305_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-14" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.12" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-13" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.11" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-12" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.10" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b608-11" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.9" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.5" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.6" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-4" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.5" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b611-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_611.8" BETYPE="IDREF" FILEID="alto_00306_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP1" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_608.6" BETYPE="IDREF" FILEID="alto_00304_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-5" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.5" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-6" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.6" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b610-7" BETYPE="IDREF" FILEID="casebody_0076"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_610.7" BETYPE="IDREF" FILEID="alto_00305_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

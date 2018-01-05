@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0124" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Comerford v. Morrison">Joseph Comerford et al., Appellees, v. W. W. Morrison, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 615</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00317_0" MIMETYPE="image/tiff" CHECKSUM="07e388c7e8d8c8cd2fea9aa0fc780a28" CHECKSUMTYPE="MD5" SIZE="44378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_0.tif"/>
+      </file>
+      <file ID="tiff_00317_1" MIMETYPE="image/tiff" CHECKSUM="a643b2caa9502cb102f745dddff30396" CHECKSUMTYPE="MD5" SIZE="44822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_1.tif"/>
+      </file>
+      <file ID="tiff_00318_0" MIMETYPE="image/tiff" CHECKSUM="b4f25d34d6dce1aac7527fbff0d18757" CHECKSUMTYPE="MD5" SIZE="53592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00318_0.tif"/>
+      </file>
+      <file ID="tiff_00318_1" MIMETYPE="image/tiff" CHECKSUM="9006044d4fd157b2cf3912886c6aa6af" CHECKSUMTYPE="MD5" SIZE="53524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00318_1.tif"/>
+      </file>
+      <file ID="tiff_00319_0" MIMETYPE="image/tiff" CHECKSUM="3644caf7709c4a9851d11914358dc471" CHECKSUMTYPE="MD5" SIZE="53058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00319_0.tif"/>
+      </file>
+      <file ID="tiff_00319_1" MIMETYPE="image/tiff" CHECKSUM="f4c2cdb21c9bedaf61dfef9183e6a166" CHECKSUMTYPE="MD5" SIZE="54610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00319_1.tif"/>
+      </file>
+      <file ID="tiff_00320_0" MIMETYPE="image/tiff" CHECKSUM="c5860d8fa898d94a317cceeecb298c8b" CHECKSUMTYPE="MD5" SIZE="51978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00320_0.tif"/>
+      </file>
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="9085b452d9d9f8864e41bd7e82fb9c9a" CHECKSUMTYPE="MD5" SIZE="53530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00320_1.tif"/>
+      </file>
+      <file ID="tiff_00321_0" MIMETYPE="image/tiff" CHECKSUM="70fb59fd48e2944af5e0759df8ac3c90" CHECKSUMTYPE="MD5" SIZE="48188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00321_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00317_0" MIMETYPE="image/jp2" CHECKSUM="fb9a988acc64b2aceeac6d91bbe6cd70" CHECKSUMTYPE="MD5" SIZE="2382751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_0.jp2"/>
+      </file>
+      <file ID="jp2_00317_1" MIMETYPE="image/jp2" CHECKSUM="b34385458e6dc2226329037344727b01" CHECKSUMTYPE="MD5" SIZE="2314209">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00317_1.jp2"/>
+      </file>
+      <file ID="jp2_00318_0" MIMETYPE="image/jp2" CHECKSUM="693121956d1c2cf1c9bc2ddf636de808" CHECKSUMTYPE="MD5" SIZE="2440890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00318_0.jp2"/>
+      </file>
+      <file ID="jp2_00318_1" MIMETYPE="image/jp2" CHECKSUM="dfa178a7814c0af1f075d67b5712f8ad" CHECKSUMTYPE="MD5" SIZE="2417227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00318_1.jp2"/>
+      </file>
+      <file ID="jp2_00319_0" MIMETYPE="image/jp2" CHECKSUM="df3be7b05ec129bad4d55c759c28d964" CHECKSUMTYPE="MD5" SIZE="2445746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00319_0.jp2"/>
+      </file>
+      <file ID="jp2_00319_1" MIMETYPE="image/jp2" CHECKSUM="e9e9570f87a3d8e3cdaf31643c68563d" CHECKSUMTYPE="MD5" SIZE="2418298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00319_1.jp2"/>
+      </file>
+      <file ID="jp2_00320_0" MIMETYPE="image/jp2" CHECKSUM="58dea976f16114284766d26f06e390ff" CHECKSUMTYPE="MD5" SIZE="2453896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00320_0.jp2"/>
+      </file>
+      <file ID="jp2_00320_1" MIMETYPE="image/jp2" CHECKSUM="f0050106102800cfe8ab73d02e59ea54" CHECKSUMTYPE="MD5" SIZE="2455195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00320_1.jp2"/>
+      </file>
+      <file ID="jp2_00321_0" MIMETYPE="image/jp2" CHECKSUM="02e81498530607c43510e8b2a8e424ab" CHECKSUMTYPE="MD5" SIZE="2411994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00321_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00317_0" MIMETYPE="text/xml" CHECKSUM="7fff3528544d2faebe599d7d3ff8dfbd" CHECKSUMTYPE="MD5" SIZE="79594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00317_0.xml"/>
+      </file>
+      <file ID="alto_00317_1" MIMETYPE="text/xml" CHECKSUM="51b403a10724f0a43146ed4448f14818" CHECKSUMTYPE="MD5" SIZE="84759">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00317_1.xml"/>
+      </file>
+      <file ID="alto_00318_0" MIMETYPE="text/xml" CHECKSUM="72e18dbb6f942bb7f0738f1b18b5663d" CHECKSUMTYPE="MD5" SIZE="86535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00318_0.xml"/>
+      </file>
+      <file ID="alto_00318_1" MIMETYPE="text/xml" CHECKSUM="8bd29238658fc4978194eced168596b7" CHECKSUMTYPE="MD5" SIZE="86868">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00318_1.xml"/>
+      </file>
+      <file ID="alto_00319_0" MIMETYPE="text/xml" CHECKSUM="c35edf9eacf2f4a11e2ff5879373d00a" CHECKSUMTYPE="MD5" SIZE="86043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00319_0.xml"/>
+      </file>
+      <file ID="alto_00319_1" MIMETYPE="text/xml" CHECKSUM="ebd11170c0b2f8db80b50289738744d7" CHECKSUMTYPE="MD5" SIZE="85695">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00319_1.xml"/>
+      </file>
+      <file ID="alto_00320_0" MIMETYPE="text/xml" CHECKSUM="19024ff786dda50aac1eaeddfe1b98cd" CHECKSUMTYPE="MD5" SIZE="84949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00320_0.xml"/>
+      </file>
+      <file ID="alto_00320_1" MIMETYPE="text/xml" CHECKSUM="8f669ec9daa56ce6f4f59c30a86931c6" CHECKSUMTYPE="MD5" SIZE="87286">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00320_1.xml"/>
+      </file>
+      <file ID="alto_00321_0" MIMETYPE="text/xml" CHECKSUM="216b0664a3abe152f120c15a8c1d6d23" CHECKSUMTYPE="MD5" SIZE="90128">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00321_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0124" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="623" firstpage="615">
+              <parties id="b633-9" pgmap="633">Joseph Comerford et al., Appellees, v. W. W. Morrison, Appellant.</parties>
+              <decisiondate id="AZ2" pgmap="634">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b634-8" pgmap="634">James M. Taylor, Leslie J. Taylor and Hogan &amp; Wallace, for appellant.</attorneys>
+              <attorneys id="b634-9" pgmap="634">Frank P. Drennan and J. C. &amp; W. B. McBride, for appellees.</attorneys>
+              <summary id="b634-7" pgmap="634">Action on the case. Appeal from the Circuit Court of Christian county; the Hon. A. M. Rose, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Ag8" pgmap="634">Affirmed.</disposition>
+              <headnotes id="b633-11" pgmap="633">1. Drainage—section l¡ of Farm Drainage Act construed. This section does not justify the diversion of the natural flow of sur­face water and the construction of a tile drain is not authorized thereby which does not drain the land sought to be drained in the general course of the natural drainage of the land.</headnotes>
+              <headnotes id="b633-12" pgmap="633">2. Instructions—when containing abstract proposition of law will not reverse. An instruction which contains a correct abstract proposition of law will not reverse unless misleading.</headnotes>
+              <headnotes id="b634-4" pgmap="634">3. Iktstbuctions—when error cannot he predicated upon. A party cannot be heard to complain of an instruction where he has pro­cured one of like character to be given on his own behalf.</headnotes>
+              <headnotes id="b634-5" pgmap="634">4. Measube oe damages—in action for wrongful diversion of sur­face water. In such case the true measure of damages is the rental value of the land in question together with the cost of seed and labor expended in and about the crop claimed to have been lost by reason of such diversion.</headnotes>
+              <headnotes id="b634-6" pgmap="634">5. Measube oe damages—when inaccurate instruction will not re­verse. If the damages awarded are not excessive and fairly rep­resent the damages shown by the evidence, an inaccurate instruction upon the measure of damages will not reverse.</headnotes>
+              <opinion type="majority">
+                <author id="b634-10" pgmap="634">Mr. Justice Baume</author>
+                <p id="A2x" pgmap="634">delivered the opinion of the court.</p>
+                <p id="b634-11" pgmap="634">This is a suit by appellees against appellant to re­cover damages alleged to have been occasioned by the act of appellant in wrongfully diverting the flow of surface water from his land to and upon the land of appellees, whereby the land of appellees was rendered unfit for tillage and the crops growing thereon were injured. A trial by jury in the Circuit Court of Chris­tian county resulted in a verdict and judgment against appellant for $500.</p>
+                <p id="b634-12" pgmap="634(64) 635(134)">Appellees are the owners of the east half of the southeast quarter of section 36 in Locust township, and appellant is the owner of the northwest quarter of section 6, in Pana township. The south boundary line of appellees’ land extended east from the southeast corner of said land forms the north boundary line of appellant’s land and the west boundary line of appel­lant’s land extended north from the northwest corner of said land forms the east boundary line of appellee’s land. Upon these boundary lines are two public high­ways, one running east and west and the other north and south, which highways at their intersection sepa­rate the northwest corner of appellant’s land from the southeast corner of appellees’ land. Sunning diag­onally in a northwesterly direction through the west half of appellant’s land is the right of way and track of the Baltimore and Ohio Bailroad, southwest of which lies about thirty-five acres of appellant’s land. There is also a public highway adjoining the railroad right of way on the south, which public highway inter­sects the north and south public highway before men­tioned, at the west line of appellant’s tract of land.</p>
+                <p id="b635-5" pgmap="635">In the spring of 1901 appellant constructed a tile drain beginning a short distance north of the south line of his tract at a point on the south side of the public highway which runs parallel with the railroad right of way, thence running northwesterly on the south side of said highway to a point near the west line of his land, thence north, crossing said highway and railroad right of way, to the northwest corner of his land where it was discharged into an open ditch on the east side of the north and south highways. Into this main tile drain as so constructed of seven and eight inch tile appellant ran small lateral tiles through the portion of his land lying south and west of the railroad right of way. The open ditch on the east side of the highway was of insufficient capacity to carry the water discharged into it by the tile drain and in consequence thereof the water overflowed said ditch and ran west across said highway to and upon appellees’ land, thereby causing the injury complained of.</p>
+                <p id="b635-6" pgmap="635(38) 636(310)">It is urged that the jury were actuated by passion and prejudice, and that the verdict is against the mani­fect weight of the evidence. A careful examination of the voluminous record in this case fails to disclose anything which could have operated to arouse the passion or prejudice of the jury against appellant. The case appears to have’been tried in the same man­ner as cases of like character are generally tried. It is shown by a clear preponderance of the evidence that the general course of the natural drainage of surface water upon that portion of the land of appellant which lies northeast of the' railroad right of way, and of the land immediately north thereof, owned by one Smith, is toward the northwest over and across the land belonging to appellees, and we do not under­stand that appellees are seeking to recover any dam­ages for injury resulting to their land by reason of the flow of surface water on their land from that por­tion of appellant’s land which lies northeast of the railroad. The declaration merely charges the wrong­ful diversion by appellant of the surface water from that portion of his land which lies southwest of the railroad. "Whether the general course of natural drainage of surface water upon the land of appellant which lies southwest of the railroad is toward the north over and across the land of appellees or toward the west, over and across the land belonging to one Higgins, is the crucial question of fact in the case, the solution of which question involved the examination of numerous expert and other witnesses called on behalf of the respective parties. The evidence clearly tends to show that there is a perceptible rise in appellant’s land at a point where the railroad right of way crosses the west line of his land. This situation is manifest from the fact that the tile drain constructed by appel­lant was laid at a much greater depth at the point indicated than at any other point in the line of said drain.</p>
+                <p id="b636-5" pgmap="636(45) 637(129)">Beginning at a point a short distance north of the center of the Higgins tract of land, described as the northeast quarter of section 1, in Rosemond town­ship, and which is immediately west of appellant’s land, there is a well-defined watercourse in which sur­face water flows in a northwesterly direction, and the character of the depression which forms said water­course clearly indicates that it has served as a natural outlet for surface water from a considerable territory lying southwest of the railroad right of way. Without unduly extending this opinion by a detailed considera­tion and discussion of the testimony of the several wit­nesses called by the respective parties, as the same appears in the record, we are persuaded that the jury were not unwarranted in finding that the natural course of drainage of surface water from the land of appellant which lies southwest of the railroad right of way is toward the west across the Higgins tract of land, and not toward the north across the land of appellees.</p>
+                <p id="b637-5" pgmap="637">It is uncontroverted that prior to the construction by appellant of the tile drain in question appellees’ land was not injuriously affected by the flow thereon of surface water to the extent it was so affected after the construction of such a tile drain.</p>
+                <p id="b637-6" pgmap="637(178) 638(248)">In justification of his right to construct the tile drain in question, appellant cites section 4 of the Farm Drainage Act, which is as follows: ‘ ‘ Owners of land may drain the same in the general course of natural drainage by constructing open or covered drains dis­charging the same into any natural watercourse or into any natural depression whereby the water will be carried into some natural watercourse or into some drain on the public highway, with the consent of the commissioners thereto; and when such drainage is wholly upon the owner’s land he shall not be liable in damages therefor to any person or persons or corporation. ’’ Hurd’s Stat. 1905,800. This section of the statute is ineffectual to aid appellant because the tile drain con­structed by him did not drain the portion of the land sought to be drained thereby in the general course of natural drainage of said land. Owners of land are not thereby authorized to drain the same otherwise than in the general course of natural drainage, and the right of such owners, with the consent of the commissioners, to discharge their drains into some drain in the public highway, is limited to cases in which such drainage is attempted to be affected in the general course of natu­ral drainage of the land. It is not claimed on behalf of appellant that the drain constructed by him dis­charged the water into any natural watercourse, or into any natural depression whereby the same would be carried into some natural watercourse, but it is insisted that appellant obtained the consent of the commissioners to discharge his drain into a drain upon the highway. This claim, even if it was supported by the evidence, could not avail appellant anything in the absence of a showing that he thereby drained his land in the general course of natural drainage, but we think the evidence fails to support the claim so made by appellant. While it appears from the evidence that the commissioners consented to the construction by appellant of a tile drain along the highway south of the railroad right of way, and that for the purpose of benefiting said highway said commissioners contrib­uted a portion of the cost of the tile there used by appellant in constructing a drain, it does not appear that it was contemplated by said commissioners that appellant would construct his drain across the railroad right of way and discharge it into the ditch on the east side of the north and south highway.</p>
+                <p id="AFPb" pgmap="638(102) 639(42)">Appellees’ first instruction, while abstract in form, is an accurate statement of the law applicable to the case and contains nothing which could have operated to the prejudice of appellant. There was no pretense that the drain constructed by appellant collected the surface water from his entire quarter section and discharged such surface water into the ditch in the highway. The declaration merely charges appellant with wrongfully diverting the surface water from that portion of his land, which lies southwest of the rail­road right of way, and the reference in appellees’ sec­ond, fourth, fifth and sixth instructions to the collec­tion and diversion by appellant of surface water upon his land could only have been understood by the jury as relating to the collection and diversion of surface water from the land of appellant lying southwest of the railroad right of way.</p>
+                <p id="b639-5" pgmap="639">It is urged that appellees’ third and fifth instruc­tions improperly informed the jury that appellant would be liable, notwithstanding he obtained the con­sent of the commissioners to discharge his drain into a drain in the public highway, if such drain in the public highway was insufficient to carry the water into some natural watereouse. It is a sufficient answer to this objection to say "that by the first instruction given at his instance appellant assumed the burden of prov­ing that the ditch in the highway into which he dis­charged his tile drain was of sufficient capacity to carry all the water coming into it. A - party cannot be heard to complain of an instruction where he has procured one of like character to be given on his own behalf. Chicago City Ry. Co. v. Pural, 224 Ill. 324; Purtle v. Bell, 225 Ill. 523; Chicago City Ry. Co. v. Hagenback, 228 Ill. 290.</p>
+                <p id="b639-6" pgmap="639">The several instructions offered by appellant and refused by the court were sufficiently covered by the given instructions in the case, and appellant was not in any manner prejudiced by the refusal of the court to give such instructions.</p>
+                <p id="b639-7" pgmap="639">It is urged that the seventh instruction given at the instance of appellees states an incorrect rule as to the measure of damages for the injury, if any, sustained by appellees, and that it improperly assumes that ap­pellees’ land suffered damages by the alleged wrongful act of appellant. By that instruction the jury were only authorized to consider the question of damages if they should find for appellees.</p>
+                <p id="b639-8" pgmap="639(39) 640(299)">The only issue to be determined by the jury prelimi­nary to the assessment of damages was whether or not appellant had wrongfully diverted the flow of surface water upon the land of appellees as alleged in the decla­ration, and a finding by the jury in favor of appellees upon that issue necessarily, under the evidence, deter­mined the liability of appellant for some damages. The instruction as given, therefore, cannot be said to have improperly assumed that appellees had suf­fered damage by the alleged wrongful act of appellant. The measure of damages in the case is stated in the in­struction, to be the difference in the market value of the crops raised upon the premises and the market value of the crops which would ordinarily have been raised upon the premises had they not been damaged as alleged in the declaration less the cost of harvesting and delivering such crops to the market. As applied to the facts in this case the measure of damages stated in the instruction is inaccurate, but in addition to showing the rental value of their submerged lands appellees offered evidence to establish the amount of their damages based upon the rule as stated in the in­struction and appellant offered no objection thereto upon the ground that such evidence was improper to be considered by the jury in determining the amount of appellees’ damages. Appellees claimed damages to thirty-five acres of their land and to their crops grown and attempted to be grown thereon for the years 1901, 1902, 1903 and 1904. Estimating appellees’ damages upon the basis of the rental value of the land at from $3.50 to $4.00 per acre, as shown by the evidence, to­gether with the cost of seed and value of labor ex­pended, which we think is the true measure of damages applicable to the facts in this case, the amount of damages awarded to appellees by the jury approxi­mates the amount actually recoverable by appellees and is not excessive.</p>
+                <p id="b640-5" pgmap="640(59) 641(11)">In this state of the record the giving of an instruc­tion announcing an incorrect rule as to the measure of damages should not operate to reverse the judg­ment and the error in that regard was harmless. Man­tonya v. Emerich Outfitting Co., 172 Ill. 92; Berry v. Campbell, 118 Ill. App. 646; Luick v. Scheffel, 32 Ill. App. 17; City of Pana v. Broadman, 117 Ill. App. 139.</p>
+                <p id="b641-5" pgmap="641">When crops planted are destroyed before coming up the measure of damages is the rental value of the land, the cost of the seed and the value of the labor ex­pended. Young v. West, 130 Ill. App. 216. In B. &amp; O. S. W. R. R. Co. v. Stewart, 128 Ill. App. 270, the rule governing the measure of damages in such cases is stated thus: “When the crop is not up, the damage should be estimated upon the basis of the rental value and the cost of the seed and labor in preparing the ground and planting the crop; where the crop is up but not so far matured that the product can be fairly determined, the injured party can recover, in addition to the above, the cost of any labor bestowed after the planting; where the crop is more or less matured so that the produce can be fairly determined, the value of the crop at the time of the loss is the measure of dam­ages, and it is only where the crop is fully matured and ready to be harvested that damages can be deter­mined by the market value of the crop less the cost of harvesting and marketing, which must include all care and preparation for marketing, such as packing, crating, baling, threshing and the like, according to the nature of the crop.” In Economy L. &amp; P. Co. v. Cutting, 49 Ill. App. 422, it was held, that the measure of damages for the destruction of a growing crop is the value of the crop as it was when destroyed, with the right to the owner to mature or harvest and gather it at the proper time, and .that the value of the crop is a matter of estimate or conclusion of the mind to be arrived at from all the facts that would affect it. The rule as stated in the case last cited is approved and followed in St. L., M. B. T. Ry. Ass’n v. Schultz, 226 Ill. 409.</p>
+                <p id="b641-6" pgmap="641">There is no reversible error in the record and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b641-7" pgmap="641">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="633" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00317_0"/>
+        <fptr FILEID="jp2_00317_0"/>
+        <fptr FILEID="alto_00317_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.3" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_633.2" BETYPE="IDREF" FILEID="alto_00317_0"/>
+              <area BEGIN="BL_633.4" BETYPE="IDREF" FILEID="alto_00317_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="634" ORDERLABEL="616" TYPE="page">
+        <fptr FILEID="tiff_00317_1"/>
+        <fptr FILEID="jp2_00317_1"/>
+        <fptr FILEID="alto_00317_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.1" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_634.2" BETYPE="IDREF" FILEID="alto_00317_1"/>
+              <area BEGIN="BL_634.3" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="635" ORDERLABEL="617" TYPE="page">
+        <fptr FILEID="tiff_00318_0"/>
+        <fptr FILEID="jp2_00318_0"/>
+        <fptr FILEID="alto_00318_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.3" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_635.2" BETYPE="IDREF" FILEID="alto_00318_0"/>
+              <area BEGIN="BL_635.4" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="636" ORDERLABEL="618" TYPE="page">
+        <fptr FILEID="tiff_00318_1"/>
+        <fptr FILEID="jp2_00318_1"/>
+        <fptr FILEID="alto_00318_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.2" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_636.3" BETYPE="IDREF" FILEID="alto_00318_1"/>
+              <area BEGIN="BL_636.4" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="637" ORDERLABEL="619" TYPE="page">
+        <fptr FILEID="tiff_00319_0"/>
+        <fptr FILEID="jp2_00319_0"/>
+        <fptr FILEID="alto_00319_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.3" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_637.2" BETYPE="IDREF" FILEID="alto_00319_0"/>
+              <area BEGIN="BL_637.4" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="638" ORDERLABEL="620" TYPE="page">
+        <fptr FILEID="tiff_00319_1"/>
+        <fptr FILEID="jp2_00319_1"/>
+        <fptr FILEID="alto_00319_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.2" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_638.3" BETYPE="IDREF" FILEID="alto_00319_1"/>
+              <area BEGIN="BL_638.4" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="639" ORDERLABEL="621" TYPE="page">
+        <fptr FILEID="tiff_00320_0"/>
+        <fptr FILEID="jp2_00320_0"/>
+        <fptr FILEID="alto_00320_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.3" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_639.2" BETYPE="IDREF" FILEID="alto_00320_0"/>
+              <area BEGIN="BL_639.4" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="640" ORDERLABEL="622" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jp2_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.2" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.3" BETYPE="IDREF" FILEID="alto_00320_1"/>
+              <area BEGIN="BL_640.4" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="641" ORDERLABEL="623" TYPE="page">
+        <fptr FILEID="tiff_00321_0"/>
+        <fptr FILEID="jp2_00321_0"/>
+        <fptr FILEID="alto_00321_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.3" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.2" BETYPE="IDREF" FILEID="alto_00321_0"/>
+              <area BEGIN="BL_641.4" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag8" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.9" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2x" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.15" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_634.16" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.6" BETYPE="IDREF" FILEID="alto_00318_0"/>
+            <area BEGIN="BL_636.1" BETYPE="IDREF" FILEID="alto_00318_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b635-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_635.5" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-12" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.11" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-11" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.10" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.5" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_641.1" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.6" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.6" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b633-9" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_633.9" BETYPE="IDREF" FILEID="alto_00317_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.5" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.5" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-7" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.7" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-12" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.18" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_635.1" BETYPE="IDREF" FILEID="alto_00318_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-11" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.17" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-10" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.14" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-7" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.7" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFPb" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_638.5" BETYPE="IDREF" FILEID="alto_00319_1"/>
+            <area BEGIN="BL_639.1" BETYPE="IDREF" FILEID="alto_00320_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b639-8" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_639.8" BETYPE="IDREF" FILEID="alto_00320_0"/>
+            <area BEGIN="BL_640.1" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.5" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b637-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_637.6" BETYPE="IDREF" FILEID="alto_00319_0"/>
+            <area BEGIN="BL_638.1" BETYPE="IDREF" FILEID="alto_00319_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ2" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.10" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_634.11" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b636-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_636.5" BETYPE="IDREF" FILEID="alto_00318_1"/>
+            <area BEGIN="BL_637.1" BETYPE="IDREF" FILEID="alto_00319_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-9" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.13" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-8" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.12" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-7" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.7" BETYPE="IDREF" FILEID="alto_00317_1"/>
+            <area BEGIN="BL_634.8" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-6" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.6" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.5" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b634-4" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_634.4" BETYPE="IDREF" FILEID="alto_00317_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

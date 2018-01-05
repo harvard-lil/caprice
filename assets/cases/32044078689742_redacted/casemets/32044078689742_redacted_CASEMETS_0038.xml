@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0038" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="McKay v. People">Frank J. McKay, Plaintiff in Error, v. The People of the State of Illinois, Defendant in Error</name>
+          <docketnumber>Gen. No. 13,808</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 277</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="3b4e5fd29a893197ac6b6410d1303d5b" CHECKSUMTYPE="MD5" SIZE="45516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="0d11a91790916faab2afb3252c0d9ae4" CHECKSUMTYPE="MD5" SIZE="46962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="284d3c16100d081e3bf95b343de59c38" CHECKSUMTYPE="MD5" SIZE="53536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="85c02403e8fd305220b89078e943232a" CHECKSUMTYPE="MD5" SIZE="52996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00149_1.tif"/>
+      </file>
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="f42e7c809113bfd23f38f9d779831292" CHECKSUMTYPE="MD5" SIZE="52994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="7d85181ace835b873b1c9842fae5f12e" CHECKSUMTYPE="MD5" SIZE="53088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="8b3b0c78778fe4e15bedb823f2c23f7b" CHECKSUMTYPE="MD5" SIZE="46090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="816fea34f807fbdbb624c5701d4dc7e4" CHECKSUMTYPE="MD5" SIZE="2402035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_0.jp2"/>
+      </file>
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="d1118ad51ea18def35009a1f1c856162" CHECKSUMTYPE="MD5" SIZE="2371474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="dd5c624828a25ecaaaa4303775ae3956" CHECKSUMTYPE="MD5" SIZE="2447326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00149_0.jp2"/>
+      </file>
+      <file ID="jp2_00149_1" MIMETYPE="image/jp2" CHECKSUM="0258a5e1af7af3482cfb9b56f557123d" CHECKSUMTYPE="MD5" SIZE="2409111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00149_1.jp2"/>
+      </file>
+      <file ID="jp2_00150_0" MIMETYPE="image/jp2" CHECKSUM="29d795d8c6ecc5e79e5a4362d680fb04" CHECKSUMTYPE="MD5" SIZE="2440828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00150_0.jp2"/>
+      </file>
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="a91972eb12c2e1e3b713ff255fa5dd2b" CHECKSUMTYPE="MD5" SIZE="2396664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00150_1.jp2"/>
+      </file>
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="77253003b6e9a68ff2b13ba008bae01e" CHECKSUMTYPE="MD5" SIZE="2403999">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="af591547a2f7f118c961a3daee106496" CHECKSUMTYPE="MD5" SIZE="87954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00148_0.xml"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="89331d1f71f57b676115afcb8eac0296" CHECKSUMTYPE="MD5" SIZE="83953">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="f3b3361de4e019376fd63a373b2eec45" CHECKSUMTYPE="MD5" SIZE="88888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00149_0.xml"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml" CHECKSUM="9a34e115997efae83561dab226d298c6" CHECKSUMTYPE="MD5" SIZE="90760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00149_1.xml"/>
+      </file>
+      <file ID="alto_00150_0" MIMETYPE="text/xml" CHECKSUM="66863727667a73cab7c16623ec55a5af" CHECKSUMTYPE="MD5" SIZE="85863">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00150_0.xml"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="7e84fff4fdf9adef7cb1cd92b73ed0f1" CHECKSUMTYPE="MD5" SIZE="90052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00150_1.xml"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="d2596c5343b05d6a7c688464a1c02b71" CHECKSUMTYPE="MD5" SIZE="79554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00151_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0038" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="283" firstpage="277">
+              <docketnumber id="b295-8" pgmap="295">Gen. No. 13,808.</docketnumber>
+              <parties id="b295-7" pgmap="295">Frank J. McKay, Plaintiff in Error, v. The People of the State of Illinois, Defendant in Error.</parties>
+              <decisiondate id="AcE" pgmap="296">Opinion filed December 18, 1908.</decisiondate>
+              <otherdate id="AhG" pgmap="296">Rehearing denied January 5, 1909.</otherdate>
+              <attorneys id="b296-7" pgmap="296">Charles E. Erbstein, for plaintiff in error.</attorneys>
+              <attorneys id="b296-8" pgmap="296">No appearance for defendant in error.</attorneys>
+              <summary id="b296-6" pgmap="296">Criminal prosecution for obtaining money under false pretenses. Error to the Criminal Court of Cook county; the Hon. George Kersten, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1908.</summary>
+              <disposition id="A49" pgmap="296">Affirmed.</disposition>
+              <headnotes id="b295-9" pgmap="295">1. Amendments and jeofails—when motion to amend record should he made. A motion to amend a record should not he per­mitted to he made in “ blanket” form and then continued; specifi­cation, at least in general terms, should be insisted upon by the court.</headnotes>
+              <headnotes id="b295-10" pgmap="295">2. Amendments and jeofails—when amendments may he made after lapse of judgment term. Amendments of the record of a court after the lapse of the judgment term can only he authorized where there is some official or quasi-official note or memorandum or memorial paper remaining in the files of the cause or upon the record of the court or in the minutes of the judge or in some book required to be kept by him, showing that the record as standing does not speak the truth or contains an omission.</headnotes>
+              <headnotes id="b295-11" pgmap="295">3. Appeals and errors—within what time hill of exceptions must he signed. The hill of exceptions must he signed during the term at which final judgment is entered or within such further time as may be allowed by order entered during the term or within such further time as may he fixed by the extension of such order, such latter extension being made before the expiration of the time fixed by the original order.</headnotes>
+              <headnotes id="b295-12" pgmap="295(9) 296(20)">4. Appeals and errors—when hill of exceptions not considered. A hill of exceptions signed without jurisdiction is no part of the record and will not he considered on appeal.</headnotes>
+              <headnotes id="b296-5" pgmap="296">5. False pretenses—when indictment sufficiently charges. Held, that the indictment in this case sufficiently charged false pretenses and that the conviction thereon should be sustained.</headnotes>
+              <opinion type="majority">
+                <author id="b296-9" pgmap="296">Mr. Justice Chytraus</author>
+                <p id="AW0" pgmap="296">delivered the opinion of the court.</p>
+                <p id="b296-10" pgmap="296">Plaintiff in error was convicted of obtaining money by false pretenses, on March 6, 1907. By his consent he was tried before the court without a jury.</p>
+                <p id="b296-11" pgmap="296">There is a peculiarity in the manner in which the motion to quash the indictment, the motion in arrest of judgment and the overruling of both these motions appear in this record. January 16, 1907, the plaintiff in error pleaded not guilty to the indictment. On the same day he was given a hearing and after the hear­ing the case was postponed to January 19. The cause was continued on the latter date and on several occasions thereafter, upon his motion, until on March 6, 1907, when he was found guilty and a judgment entered. The record shows an order, entered on March 30, 1907, as follows: “Counsel for said de­fendant now here moves the court to amend the record in this cause, and it is ordered that the hearing on said motion be and the same is hereby continued. ” On May 28, 1907, the record shows the following: The motion of the defendant to amend the record hereto­fore entered and continued hitherto is allowed by the court, and the court orders that the record in this cause be and the same is hereby amended.</p>
+                <p id="b297-3" pgmap="297">“And the court therefore orders as of the sixteenth day of January, 1907, that in the record of the pro­ceedings in this cause on that day, the following words be and are hereby inserted before the record of the plea of the defendant to the indictment: ‘The de­fendant now here moves the court to quash the indict­ment in this cause. And the court hearing counsel in support of said motion as well as in opposition thereto and being now fully advised in the premises doth overrule said motion and orders that the motion of the defendant to quash the indictment in this cause be and the same is hereby overruled accordingly.’</p>
+                <p id="b297-5" pgmap="297">“And the court further orders as of the sixth day of March, 1907, that in the record of the proceedings in this cause of said day the following words be and hereby are inserted after the record of the finding by the court that the defendant is guilty, and before the record of the judgment: ‘The defendant now here moves the court in arrest of judgment. And the court hearing counsel in support of said motion as well as in opposition thereto and being now fully advised in the premises doth overrule said motion and orders that the motion of the defendant in arrest of judgment be and the same is hereby overruled ac­cordingly.’ ”</p>
+                <p id="b297-7" pgmap="297(135) 298(53)">Courts should make their records speak with some degree of certainty. It is to be observed that the motion to amend is what might be termed a “blanket motion”. It fails to specify even the subject in re­spect of which emendation of the record was desired. There is no certainty whatever in the motion. We do not know that the order of May 28 was made in pur­suance of that motion. For aught the record indi­cates it may or may not have been. The form of motion is one that for future convenience it may be ex­pedient for practitioners to present in all their cases. The learned trial judge should have required counsel when making the motion to have specified, at least in some general way. Amendments of records are not permitted on the same grounds that amendments of pleadings are permitted. It is a very serious matter to amend a record by interpolating into the record a motion to quash and an order thereupon after a plea has been entered by the defendant to the indictment, and even after the entry of judgment.</p>
+                <p id="b298-5" pgmap="298">On March 6,1907, when judgment was entered, plaint­iff in error was allowed thirty days within which to present a bill of exceptions. On April 5,1907, this time was extended by the allowance of thirty days and on May 4, 1907, a further extension of seven days was allowed. According to these orders the time for filing a bill of exceptions expired on May 12, 1907. On May 13, 1907, plaintiff in error applied for and obtained a further extension of seven days. The bill of excep­tions shown in the record was not signed or filed until May 22, 1907.</p>
+                <p id="b298-6" pgmap="298(217) 299(60)">The law does not permit the entering of orders in a cause or the signing of bills of exceptions after jur­isdiction has been lost by lapse of time. It is true that after a term at which a cause has been disposed of has expired amendments of the record may be made by nunc pro tuno orders so as to make the re­cord speak the truth. But in such cases the amend­ment must be based upon some official or quasi-official note or memorandum or memorial paper remaining in the files of the case or upon the records of the court, the judge’s minutes or some entry in some book required to be kept by law. A private memorandum of a witness is not sufficient; nor can the fact pro­posed to be incorporated into the record be based upon the recollection of the judge or other person, or upon affidavits or testimony taken after the event has transpired. And the basis upon which the amend­ment was made must be shown and preserved in the order or in the record. Hubbard v. People, 197 Ill. 15; Frew v. Danforth, 126 Ill. 242. The reason for the requirement that the basis of the amendment be shown and preserved is that the warrant for the exer­cise of the new jurisdiction may appear. The power of the court to exercise jurisdiction over the parties and the subject-matter expires with the termination of the term. Jurisdiction to exert power thereafter depends upon the existence of facts extrinsic to the record. Without such facts being shown in the rec­ord, upon review the record will show no jurisdiction.</p>
+                <p id="b299-4" pgmap="299">Time may be allowed when a final judgment is entered, within which to file a bill of exceptions, and such time may be from time to time extended. But unless a bill of exceptions is presented and filed within the time allowed or before the expiration of a prop­erly allowed extension or extensions, the bill of ex­ceptions does not become a part of the record.</p>
+                <p id="b299-5" pgmap="299">In this case it appears that, by the lapse of time before the entry of the order of May 13, the court lost jurisdiction to sign a bill of exceptions herein. Futhermore, had that order of May 13 been entered in time there would, nevertheless, have been a loss of jurisdiction to sign a bill of exceptions on May 22 when the court did sign what purports to be a bill of exceptions herein. Such records should not be re­turned to this court.</p>
+                <p id="b299-6" pgmap="299">There should have been no bill of exceptions signed by the presiding judge on May 22, 1907.</p>
+                <p id="b299-7" pgmap="299">It is the imperative duty of the trial judge not to enter orders in a cause or sign any bill of exceptions after jurisdiction has ceased. The court should not be imposed upon nor should the judge presiding- per­mit himself to be imposed upon. If counsel, after jurisdiction has ceased, should culpably present orders for entry or bills of exception for signature with the design of taking advantage of the confidence a pre­siding judge is entitled to repose in the members of an honorable profession, then such counsel should be most strictly dealt with. The dates of the various orders giving extensions of time and the .periods of the extensions herein are not disclosed in the abstract of the record.</p>
+                <p id="b300-4" pgmap="300">The purported bill of exceptions in this record, therefore, has not been and cannot be considered, for it is properly no part of the record.</p>
+                <p id="b300-5" pgmap="300">On the question of the sufficiency of the indictment the argument is made that the indictment fails to show that the deceitful practices caused any pecuniary loss. It is true, as contended, that the indictment can­not be explained by extrinsic evidence, i. e., by the evidence appearing in a bill of exceptions.</p>
+                <p id="b300-6" pgmap="300">The indictment is not correctly construed by coun­sel for plaintiff in error. The indictment does pre­sent that, on March 10, 1906, Frank J. McKay pre­tended to Batchelder &amp; Hunt, co-partners, that he, McKay, had, before that time, for and on behalf of Batchelder &amp; Hunt, paid for twelve horses purchased. for them the sum of $1,132.75. That this pretense was a false pretense and this false pretense was then and there made by him with the design and purpose to then and there induce Batchelder &amp; Hunt to pay him the sum of $165. That Batchelder &amp; Hunt, then and there believing such false pretense to be true and be­ing then and there deceived thereby, were then and there by reason thereof induced to pay him said sum of $165, and by this false pretense said McKay did then and there obtain from Batchelder &amp; Hunt said sum of $165 in money. That this false pretense was then and there made by McKay to Batchelder &amp; Hunt with the design and for the purpose of then and there cheating and defrauding them of said sum of $165 so obtained. To the foregoing statement of facts, which we regard as a sufficient indictment in law, there are added averments to the effect that in truth and in fact McKay knew that he had not paid for the horses the sum of $1,132.75 but, in truth and in fact, as he well knew, he had paid for them the sum of $967.75 and he knew his pretense to be false.</p>
+                <p id="b300-7" pgmap="300(28) 301(232)">What McKay obtained by means of his false pre­tense, viz.: $165, is an entirely separate and distinct matter from obtaining a return of such money, if any, as he may have laid out and expended for Batchelder &amp; Hunt. Counsel is confused in his argument by fail­ing to differentiate between what the averments in fact are, i e., that by certain false pretense McKay succeeded in obtaining $165, which constitutes a crime and what counsel in his own mind assumes to be a fact and concerning which nothing is averred, viz.: that McKay had paid out and expended for Batchel­der &amp; Hunt a certain large sum of money which he was entitled to get back. He may and he may not, so far as the indictment is concerned, have been entitled to receive back money laid out for the firm. That is beside the question. The fact, if it he one, would not permit him to falsely represent that he had paid out for the firm $1,132.75 when he had not paid out such sum and by such false representation, as the indict­ment avers, obtain from the firm $165. The falsity of the pretense, it is averred, induced the firm to pay over to him $165. Be the fact one way or or the other as to his having advanced money which should be re­turned to him, the averments of the false pretense and the obtaining of the $165 thereby still remain. We find no error prejudicial to the plaintiff in error in this record.</p>
+                <p id="b301-4" pgmap="301">The judgment of the Criminal Court is affirmed.</p>
+                <p id="b301-5" pgmap="301">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="295" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.2" BETYPE="IDREF" FILEID="alto_00148_0"/>
+              <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="278" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.3" BETYPE="IDREF" FILEID="alto_00148_1"/>
+              <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="279" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.1" BETYPE="IDREF" FILEID="alto_00149_0"/>
+              <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="280" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jp2_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.3" BETYPE="IDREF" FILEID="alto_00149_1"/>
+              <area BEGIN="BL_298.4" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="299" ORDERLABEL="281" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jp2_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.3" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.2" BETYPE="IDREF" FILEID="alto_00150_0"/>
+              <area BEGIN="BL_299.4" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="282" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+              <area BEGIN="BL_300.3" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+              <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.5" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.7" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.8" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcE" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.9" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_296.10" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-11" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.18" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.17" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.5" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.6" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.6" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.8" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.7" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            <area BEGIN="BL_301.1" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.14" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.13" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.12" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_296.7" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A49" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.8" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.9" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.10" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhG" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.11" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-12" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.13" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.11" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-11" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.12" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.5" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-3" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW0" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.15" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_296.16" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.6" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            <area BEGIN="BL_299.1" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

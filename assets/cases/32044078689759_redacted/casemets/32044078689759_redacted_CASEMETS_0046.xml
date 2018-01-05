@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0046" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Fordham v. Thomp­son">Harry L. Fordham, Appellant, v. William C. Thomp­son, County Clerk, et al., Appellees</name>
+          <docketnumber>Hen. No. 5,040</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 342</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00179_1" MIMETYPE="image/tiff" CHECKSUM="fdd07f50c80cedd835503bd76f093a61" CHECKSUMTYPE="MD5" SIZE="47174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00179_1.tif"/>
+      </file>
+      <file ID="tiff_00180_0" MIMETYPE="image/tiff" CHECKSUM="ca21f84d21f84dc9fa32ec6981572c41" CHECKSUMTYPE="MD5" SIZE="54050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00180_0.tif"/>
+      </file>
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="c3e3c042e8e299528e9badd7752cdaf7" CHECKSUMTYPE="MD5" SIZE="53006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="5ee1dbaff43f0b7921ef4795b8220449" CHECKSUMTYPE="MD5" SIZE="53676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="7bb0289275110440cb28cfdfa784a9a0" CHECKSUMTYPE="MD5" SIZE="47036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="0b25134416dff42913669fc1a7c0c5ee" CHECKSUMTYPE="MD5" SIZE="54448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="c390e694b7e4533d2253bf54a3242ce6" CHECKSUMTYPE="MD5" SIZE="51968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="879cf139b16c3ba31bc0a14e2d001571" CHECKSUMTYPE="MD5" SIZE="53818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="0e6fc198c84d2c489fd482a93c0da072" CHECKSUMTYPE="MD5" SIZE="43320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00183_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00179_1" MIMETYPE="image/jp2" CHECKSUM="65c84580626c7638cf1bbb731f7f9297" CHECKSUMTYPE="MD5" SIZE="2315528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00179_1.jp2"/>
+      </file>
+      <file ID="jp2_00180_0" MIMETYPE="image/jp2" CHECKSUM="55b33623df1b5a1f71b520822497e4a9" CHECKSUMTYPE="MD5" SIZE="2408134">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00180_0.jp2"/>
+      </file>
+      <file ID="jp2_00180_1" MIMETYPE="image/jp2" CHECKSUM="c271fe24e669a6c890e02ab3a6328ec4" CHECKSUMTYPE="MD5" SIZE="2353191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00180_1.jp2"/>
+      </file>
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="c34e637df939b4e4b9245a4fb34301cf" CHECKSUMTYPE="MD5" SIZE="2387657">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="0595fbfeb2170549a422c35d769097b1" CHECKSUMTYPE="MD5" SIZE="2316708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="93c52eae933df3ae8ccf5e98fba63807" CHECKSUMTYPE="MD5" SIZE="2416606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00182_0.jp2"/>
+      </file>
+      <file ID="jp2_00182_1" MIMETYPE="image/jp2" CHECKSUM="3c9142dd993da6f2aa207051dc933053" CHECKSUMTYPE="MD5" SIZE="2357195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00182_1.jp2"/>
+      </file>
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="7fdf90ecdab34f447903420d9c069577" CHECKSUMTYPE="MD5" SIZE="2394091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="e350e7bcb7919aadcd2ff7b57cfe0e95" CHECKSUMTYPE="MD5" SIZE="2279197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00183_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00179_1" MIMETYPE="text/xml" CHECKSUM="8944bdc150f560c90c4b43b8465112bb" CHECKSUMTYPE="MD5" SIZE="96991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00179_1.xml"/>
+      </file>
+      <file ID="alto_00180_0" MIMETYPE="text/xml" CHECKSUM="25071cda1dc6de00438be2c7eaa84026" CHECKSUMTYPE="MD5" SIZE="86300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00180_0.xml"/>
+      </file>
+      <file ID="alto_00180_1" MIMETYPE="text/xml" CHECKSUM="f6890c25f54d6c83926dfcb4bd55eb46" CHECKSUMTYPE="MD5" SIZE="87966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00180_1.xml"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="83fe5f32eb28a5fc56bc940265ad88b9" CHECKSUMTYPE="MD5" SIZE="87122">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="5c05b444001cdd49ae441ebe5820d89f" CHECKSUMTYPE="MD5" SIZE="76955">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="fd2dd73478303eecb7fed31721ed7e37" CHECKSUMTYPE="MD5" SIZE="91258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00182_0.xml"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml" CHECKSUM="173188659ec6186ae2777f6446995f90" CHECKSUMTYPE="MD5" SIZE="90038">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00182_1.xml"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="f8883c0d688473981f90248694577cb9" CHECKSUMTYPE="MD5" SIZE="86422">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="1a77ba7bda20798cf7ebc18d732894a0" CHECKSUMTYPE="MD5" SIZE="76777">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00183_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="350" firstpage="342">
+              <docketnumber pgmap="358" id="b358-5">Hen. No. 5,040.</docketnumber>
+              <parties pgmap="358" id="b358-4">Harry L. Fordham, Appellant, v. William C. Thomp­son, County Clerk, et al., Appellees.</parties>
+              <decisiondate pgmap="358" id="AUu">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="358" id="AVdm">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="358" id="Adg">Rehearing denied October 13, 1908.</otherdate>
+              <attorneys pgmap="362" id="b362-5">John P. Devine and Brooks &amp; Brooks, for appellant.</attorneys>
+              <attorneys pgmap="362" id="b362-6">Henry S. Dixon, George C. Dixon and A. C. Bard­well, for appellees.</attorneys>
+              <summary pgmap="358" id="b358-10">Bill in equity. Appeal from the Circuit Court of Lee county; the Hon. Richard S. Farrand, Judge, presiding.</summary>
+              <disposition pgmap="358" id="AaY">Affirmed.</disposition>
+              <headnotes pgmap="358" id="b358-6">1. Counties—power to appropriate in aid of hospital. A county by virtue of statute is authorized to appropriate money to aid a non-sectarian public hospital for the sick and infirm located within its limits.</headnotes>
+              <headnotes pgmap="358" id="b358-7">2. Hospitals—what does not discharge public character of. A hospital is not prevented from being of a public character by the fact that those patients received by it who are able to pay are required to do so, or that it receives contributions from outside sources, so long as all the money it receives is devoted to the general purposes of charity, and none of it goes to the benéfit of any private individual or corporation organized for profit.</headnotes>
+              <headnotes pgmap="358" id="b358-8">3. Injunctions—when solicitor’s fees awarded upon dissolution will be sustained. An allowance of solicitor’s fees by way of dam­ages upon the dissolution of an injunction will be sustained where they have been shown to be reasonable and the usual and cus­tomary charges for such services as were rendered. It is however better practice to show what contract, if any, was made with respect to the rendition of such services.</headnotes>
+              <headnotes pgmap="358" id="b358-9">4. Injunctions—when award of solicitor’s fees in favor of county will be sustained. Upon dissolution of an injunction an award of solicitor’s fees in favor of a county against whom the injunction ran, will be sustained, notwithstanding the attorney engaged to obtain the dissolution was not the state’s attorney whose duty it might have been to represent the interests of the county, it not appearing from the record for what reason the state’s attorney did not represent the county.</headnotes>
+              <p pgmap="358(71) 359(56)" id="b358-11">Statement by the Court. The city of Dixon was in­corporated under an act found in the private laws of 1859, on page 135, which in section 9 of article 8 is declared to be a public act. Section 4 of article 5, prescribes the powers of the city council and among these are to appropriate money and provide for the payment of the debts and expenses of the city; to make regulations to prevent the introduction of con­tagious diseases into the city; to establish a hospital and make regulations for the government of the same; to make regulations to secure the general health of the inhabitants; and to make all ordinances which shall be necessary to carry into execution the powers specified in the act.</p>
+              <p pgmap="359(297) 360(11)" id="b359-5">On November 1, 1895, and while, as we understand it, the city of Dixon was still acting under said special charter, its city council adopted an ordinance entitled “An ordinance establishing a public hospital in the city of Dixon, Illinois, and regulating the control thereof. ’ ’ The first section provided “that there be established and maintained by the city of Dixon, Illinois, in said city, a public hospital for the use and benefit of the inhabitants of said city,” upon certain described real estate. The second section authorized the mayor, with the approval of the city council, to appoint a board of nine women directors of said hospital, chosen with ref­erence to their fitness for such office. Section 3 fixed the terms of office of said directors, provided for filling their places by appointment as before when they retired, and for the removal by the mayor, with the consent of the city council, of any director for mis­conduct or neglect of duty. Section 4 provided for filling vacancies in like manner, and that no director should receive compensation for services. Section 5 provided how the directors should elect their officers and adopt regulations for the government of the hos­pital, and that they should have exclusive control of the management of the hospital. Section 6 is as follows: “Any person desiring to make donations of money, personal property or real estate for the benefit of such hospital shall have the right to vest the title of the money or real estate, so donated, in the board of directors created under this ordinance, to be held and controlled by such board, when accepted, accord­ing to the terms of the deed, gift, devise or bequest of such property; and as to such property the said board shall be held and considered to be special trus­tees.”</p>
+              <p pgmap="360(349) 361(133)" id="b360-5">By an undated deed, acknowledged on May 26, 1896, Solomon H. Bethea conveyed to nine women, described as the board of directors appointed on November 1, 1895, by the city council of the city of Dixon, as pro­vided by said ordinance, certain real estate (being the same real estate which had been described in section one of said ordinance), “to have and to hold the same in trust solely and exclusively for the uses and pur­poses of a public hospital, subject to the following conditions and limitations only.” Here followed many provisions. Among them are that the board of direc­tors should have exclusive control and management of the hospital, except as to money appropriated for the hospital by the city of Dixon, which appropriation they should expend under the direction of the city council; that the directors should at least once a year report to the city council, all their acts and show all moneys • received by them or expended; and such report, so far as the the moneys appropriated by the city council were concerned, should be approved by it; that so long as the city council contributed at least $500 per year for the purposes of the hospital, if called upon there­for, the mayor, with the aproval of the city council, should appoint directors to fill vacancies occurring on the board, and that if in any year the city council did not make such appropriation when called upon to do so by the board of directors, the mayor and city council should forfeit the right to fill the vacancies, and the circuit court of Lee county, upon a bill in chancery filed for that purpose by not less than ten citizens of the city of Dixon, should fill the vacancy. The deed further provided that the directors should forever be chosen from the women of Dixon; that no physician should ever be a director; that the directors should serve without compensation; that no funds of the hospital should ever be used directly or indirectly to compensate any director for services rendered; and that neither the property conveyed by that deed nor any funds of the hospital should be used for any pur­pose of gain or profit, except such gain or profit as shall be again used for the purpose of the hospital. It provided that the directors should have the right to accept donations of money, personal property and real estate for the use and benefit of the hospital, and to hold and control the same according to the terms of the deed or gift; and that, if necessary, the board of directors might by unanimous consent of all its mem­bers, convey the property covered by that deed, pro­vided the proceeds should be invested in other prop­erty to be used for the same purposes and conducted in the same manner forever.</p>
+              <p pgmap="361" id="b361-5">The ninth clause of the deed read as follows: “There shall never be any discrimination, either in the choosing of directors or in the admission of patients, or in the selection of employes, on account of religion, national­ity or politics, nor in the employing of physicians shall there be any discrimination between the different schools of medicine.”</p>
+              <p pgmap="361" id="b361-6">The act of 1889 (Hurd’s Statutes 1905, page 261) provided: “That it shall be lawful for any county or any city of this state to contribute such sum or sums of money towards the support of any non-sectarian public hospital for the sick or infirm, located within its limits, as the county board of the county, or city council of the city shall deem discreet and proper.”</p>
+              <p pgmap="361" id="b361-7">On September 12, 1907, the board of supervisors of Lee county adopted a resolution appropriating $250 to the Dixon Public Hospital, “providing said hospital board of trustees agree to furnish the care, board and attendance of a nurse for all paupers in Lee county sent to said hospital for $1 per day.”</p>
+              <p pgmap="361(46) 362(246)" id="b361-8">On September 16, 1907, appellant, a member of said board of supervisors who voted against said appropri­ation, filed a bill in equity against the county clerk and the county treasurer of said county, appellees herein, to enjoin them from paying said $250 to said Dixon Public Hospital, on the ground, stated in said bill, that there was no authority of law for said appropriation. An injunction was ordered without notice, and was served. Appellees filed an answer asserting that said appropriation was authorized by law, and setting up and relying upon the statute above quoted, and also that the actual expense of furnishing care, board and attendance of a nurse for a pauper, or for any other person, at said hospital greatly exceeds $1 per day; that the directors of the hospital agreed with the board of supervisors to furnish such services for the paupers of Lee county at said hospital for $1 per day, and that such contract is a great financial advantage to Lee county and its taxpayers, and that said contract and the appropriation were lawful and proper. Ap­pellees entered their motion to dissolve the injunction and the same was heard upon affidavits and documen­tary evidence. There is some conflict on the question of fact in the affidavits, but in those respects the af­fidavits presented by appellees were by persons who best knew what the facts were. The court dissolved the injunction and dismissed the bill. Appellees filed a suggestion of damage upon the dissolution of the injunction, and were allowed $100 for their solicitor’s fees in procuring the dissolution of the injunction and $7 for the costs of procuring certified copies of certain documents. This is an appeal by complainant below from that decree.</p>
+              <opinion type="majority">
+                <author pgmap="362" id="b362-7">Mr. Justice Dibell</author>
+                <p pgmap="362" id="AQp">delivered the opinion of the court.</p>
+                <p pgmap="362(30) 363(375) 364(103)" id="b362-8">1. We hold that, under the proofs, this is a non­sectarian public hospital for the sick or infirm, located within the limits of Lee county and for the support of which its board could contribute a sum of money, under Sisters of St. Francis v. Board of Review, 231 Ill. 317, Board of Review v. Chicago Policlinic, 233 Ill. 268, and County of Hennepin v. Brotherhood of Grethsemane, 27 Minn. 460. It is not prevented from being a public hospital by the fact that those patients received by it who are able to pay are required to do so, or that it received contributions from outside sources, so long as all the money it receives is devoted to the general purposes of charity, and none of it goes to the benefit of any private individual or corporation organized for profit. There was no private gain to any person connected with the institution. No ob­stacle was placed in the way. of those who needed treatment, for which they were not able to pay, in ob­taining admission to the hospital and the benefit of its appliances and the services of its nurses. The word “public” applied to property may either mean the character in which it is held or the uses to which it is applied. The proof shows that up to the time this cause was heard, this property had been held and controlled by trustees appointed by the mayor and city council of the city of Dixon, that the city had annually paid $500 to the hospital, and the hospital had annually made a report to the city of its receipts and disburse­ments. Its property is therefore held and its affairs are controlled by trustees appointed by a public muni­cipal corporation, having statutory authority to estab­lish it, and it reports its receipts and disbursements to the municipality. As the municipality appoints and controls the directors, and may remove directors for misconduct and fill the vacancies thus created, it con­trols the hospital in a certain sense through the direc­tors of its appointment. This seems to us to make it a public hospital in the fullest sense. We do not think it is deprived of the character of a public hos­pital because the deed from Bethea provides that if the city ceases to contribute, the appointment of the trustees shall be made by the circuit court sitting in chancery, upon a bill to be then filed for that purpose. Bethea did not reserve to himself or to his heirs or assigns the right to nominate directors or to control the hospital. It would not cease to be a public hos­pital if the circuit court, in chancery, should be called upon to appoint its directors or administer its affairs. The court of equity is as truly a branch of the govern­ment as is the city council, and the protection and ad­ministration of charities is within the scope o,f its powers when such intervention becomes necessary to protect public interests.</p>
+                <p pgmap="364" id="b364-5">2. The uses of this hospital are public. Though those who are able to pay are charged, yet it is estab­lished and conducted without a view to profit, and without any chance for any one to make a profit out of its receipts. It is obviously operated at a loss, made up in whole or in part by the contritutions of the city and the county, and it is operated solely for the public good and for the promotion of the health of the public.</p>
+                <p pgmap="364(182) 365(40)" id="b364-6">3. The action of the board may also be sustained on the ground of contract. Though paupers should be kept at the poor-house, yet that is not necessarily true of paupers who need the nursing and appliances which can only be obtained in a hospital. If the county has in its charge paupers who need such treatment, no one would doubt its power to furnish necessary nurses and hospital appliances at the poor-house. But it might be much cheaper to employ the services and ap­pliances of a hospital already established, especially if the needs of the county in that respect would be only occasional and spasmodic. This contribution of $250 by the county board was upon condition that the hos­pital would furnish the care, board and attendance of a nurse for all paupers in Lee county sent to said hospital for $1 per day. The proof showed that such services were worth much more than $1 per day. There is nothing to show how many such pauper patients the county was likely to have or usually had in the course of a year; and for aught that appears, this appropri­ation may really have been an advantageous business arrangement for the county to make and not really a donation at all. Under the proof the court properly dissolved the injunction.</p>
+                <p pgmap="365" id="b365-5">4. Upon a suggestion of damages filed by defend­ants, it was shown that defendants hired two solici­tors who appeared for them, prepared and filed their answer and a number of affidavits, procured certain certified copies of documents used as proofs on the hearing of the motion to dissolve, at a cost of $7.50, presented the proofs and argued the motion to dis­solve and charged defendants $100 for their services, and that they had not been paid. They also proved that that was a reasonable, usual and customary fee for such services in that county. The court allowed $107. We should be better satisfied if it had been shown whether there was any express contract between appellees and their solicitors as to the amount to be paid to the solicitors for procuring the dissolution of the injunction, for there could be no recovery for a larger sum than appellees had agreed to pay, if there was an agreement. But we conclude that the proof that the solicitors had charged them $100 and that that was a reasonable, usual and customary fee for the service, and had not been paid, is- sufficient prima facie to charge appellant with that amount, under Marks v. Columbian Yacht Club, 219 Ill. 417, and Fry v. Radz­inzki, 219 Ill. 526, in which cases proof similar to that here introduced was held to justify an allowance for solicitor’s fees.</p>
+                <p pgmap="365(78) 366(41)" id="b365-6">5. But it is argued that it was the duty of the state’s attorney to defend this action, and that he could not have been allowed a solicitor’s fee, and that ap­pellees had no right to employ other solicitors and thereby create a charge against appellant. We do not decide whether the duty of the state’s attorney re­quired him to defend, nor whether, if he had done so, appellant would have escaped payment of the solici­tor’s fees necessarily incurred in procuring the dis­solution of the injunction. The state’s attorney did not defend. There was no proof that he could have done so. He may have been ill or absent or interested in sustaining the injunction.</p>
+                <p pgmap="366" id="b366-5">We do not think that the unsuccessful appellant can resist an allowance for appellees’ solicitors’ fees in such a case by merely saying that there was an attor­ney who perhaps could have been compelled to act for appellees without compensation. The law awards against appellant a reasonable fee for the solicitors who did procure the dissolution of the injunction.</p>
+                <p pgmap="366" id="b366-6">The decree is affirmed.</p>
+                <p pgmap="366" id="b366-7">'Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="358" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00179_1"/>
+        <fptr FILEID="jp2_00179_1"/>
+        <fptr FILEID="alto_00179_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_358.1" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_358.2" BETYPE="IDREF" FILEID="alto_00179_1"/>
+              <area BEGIN="BL_358.3" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="359" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00180_0"/>
+        <fptr FILEID="jp2_00180_0"/>
+        <fptr FILEID="alto_00180_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.3" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.2" BETYPE="IDREF" FILEID="alto_00180_0"/>
+              <area BEGIN="BL_359.4" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="360" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jp2_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.2" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.3" BETYPE="IDREF" FILEID="alto_00180_1"/>
+              <area BEGIN="BL_360.4" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.2" BETYPE="IDREF" FILEID="alto_00181_0"/>
+              <area BEGIN="BL_361.4" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="346" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.2" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.3" BETYPE="IDREF" FILEID="alto_00181_1"/>
+              <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jp2_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.3" BETYPE="IDREF" FILEID="alto_00182_1"/>
+              <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+              <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.3" BETYPE="IDREF" FILEID="alto_00183_1"/>
+              <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.5" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.4" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.7" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.6" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.9" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.8" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.5" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaY" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.14" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.6" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.8" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.5" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_361.1" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVdm" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.12" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_358.13" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.18" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_359.1" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.10" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_358.11" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUu" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.15" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_358.16" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adg" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.17" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQp" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.8" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_362.9" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.10" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.6" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            <area BEGIN="BL_365.1" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.5" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            <area BEGIN="BL_360.1" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.6" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.7" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.6" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.7" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.7" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.5" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

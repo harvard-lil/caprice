@@ -1,0 +1,701 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0006" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Columbia Heating Co. v. O’Halloran">Columbia Heating Company, Appellee, v. Michael O’Halloran, Appellant</name>
+          <docketnumber>Gen. No. 13,961</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 74</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00045_1" MIMETYPE="image/tiff" CHECKSUM="d8bc94ab15d2602455db2dafc8fe3d25" CHECKSUMTYPE="MD5" SIZE="39944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00045_1.tif"/>
+      </file>
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="dbbe657369717932e5156af36b7afe8b" CHECKSUMTYPE="MD5" SIZE="53300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="e78181438e367963a93e834edbbb7fa3" CHECKSUMTYPE="MD5" SIZE="51052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="ae97b91a0c8723cd3660a5fc2a67ef15" CHECKSUMTYPE="MD5" SIZE="53264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="757603e3ff075859a2eabe824669d1ea" CHECKSUMTYPE="MD5" SIZE="53380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00047_1.tif"/>
+      </file>
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="9cd096c9c46c7d3116160452bce211c4" CHECKSUMTYPE="MD5" SIZE="52836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="aefb91a6d99a3501fc53ba4c7402fd5d" CHECKSUMTYPE="MD5" SIZE="52206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="9cb27742062f81ce2599f35b75fc39b2" CHECKSUMTYPE="MD5" SIZE="46104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00045_1" MIMETYPE="image/jp2" CHECKSUM="c8cf621181c025c8008c1ae7b0142b60" CHECKSUMTYPE="MD5" SIZE="2257017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00045_1.jp2"/>
+      </file>
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="b47ea1f1ceeebe3c651a5760e7f10bd8" CHECKSUMTYPE="MD5" SIZE="2393383">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="b15f8c350b2c739ebe910a5ce92d03a6" CHECKSUMTYPE="MD5" SIZE="2342657">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="1d34cb54a056b46314887c84459115bb" CHECKSUMTYPE="MD5" SIZE="2395856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="ea767e8c93fbbd53f9e0d896f00da99e" CHECKSUMTYPE="MD5" SIZE="2350102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00047_1.jp2"/>
+      </file>
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="2299e346d73e4f3aeeee36c833284263" CHECKSUMTYPE="MD5" SIZE="2408956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="98524e6f51b9548dad01fbd18d528a98" CHECKSUMTYPE="MD5" SIZE="2341697">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="d8b028eb65c3434100aeb504acf7df28" CHECKSUMTYPE="MD5" SIZE="2347600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00049_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00045_1" MIMETYPE="text/xml" CHECKSUM="5a43c25800aebfd60f342bbad6b7caa5" CHECKSUMTYPE="MD5" SIZE="73896">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00045_1.xml"/>
+      </file>
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="b53757e816f0685afdba6346861b637b" CHECKSUMTYPE="MD5" SIZE="86888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="5c86f182c055bcca003e48bdae40951d" CHECKSUMTYPE="MD5" SIZE="86019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="d227fc0a7fb397187e59e9732fc624dc" CHECKSUMTYPE="MD5" SIZE="87707">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="262349dc086fecf862d42cfac7612f27" CHECKSUMTYPE="MD5" SIZE="89813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00047_1.xml"/>
+      </file>
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="1113478438c91b2419bde19c904a0d56" CHECKSUMTYPE="MD5" SIZE="86588">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="0d3fa32f08cc7b2771cb9a778b79ab99" CHECKSUMTYPE="MD5" SIZE="86478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="3cad691e5c7328a468ce82811c7a977d" CHECKSUMTYPE="MD5" SIZE="82906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00049_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="81" firstpage="74">
+              <docketnumber pgmap="90" id="b90-8">Gen. No. 13,961.</docketnumber>
+              <parties pgmap="90" id="b90-7">Columbia Heating Company, Appellee, v. Michael O’Halloran, Appellant.</parties>
+              <decisiondate pgmap="90" id="AOh">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="90" id="APp">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="90" id="b90-12">O’Donnell, Dillon &amp; Toolen, for appellant.</attorneys>
+              <attorneys pgmap="90" id="b90-13">Bryan Y. Craig, for appellee.</attorneys>
+              <summary pgmap="90" id="b90-11">Assumpsit. Appeal from the Superior Court of Cook county; the Hon. Albert C. Barnes, Judge, presiding.</summary>
+              <disposition pgmap="90" id="APr">Affirmed.</disposition>
+              <headnotes pgmap="90" id="b90-9">1. Amendments and jeofails—when denial of leave to file ad­ditional pleas not ground for reversal. It is not an abuse of dis­cretion to deny leave to file additional pleas at the time the cause is called for trial, especially where the issues had been fully formed for eighteen months before the application.</headnotes>
+              <headnotes pgmap="90" id="b90-10">2. Pleading—when proof of failure of consideration not admis­sible. Failure of consideration of a promissory note specially de­clared upon cannot be shown under the general issue where the note has been offered solely under the special count; nor can such defense be made under the general issue or by way of recoupment.</headnotes>
+              <opinion type="majority">
+                <author pgmap="90" id="b90-14">Mr. Justice Holdom</author>
+                <p pgmap="90" id="A3W">delivered the opinion of the ' court.</p>
+                <p pgmap="90(53) 91(120)" id="b90-15">On November 22, 1905, appellee filed its declaration in this action, containing two special counts declaring upon a promissory note in each, and also attached to the special counts the common counts. To the declara­tion as thus constituted appellant filed, December 5th thereafter, a plea of non assumpsit and an affidavit of meritorious defense. On June 18, 1907, the case being on the trial call of the learned trial judge, counsel for appellant applied for leave to enlarge his defense by filing a plea of failure of consideration and a plea that the notes were assigned after their maturity. This application was denied. The case was called and pro­ceeded to trial on the same day the motion was made to file additional pleas, and on a verdict of the jury instructed by the court a judgment was that day en­tered against appellant and in favor of appellee for $273.55. Appellant prosecutes this appeal and asks this court to review the record and reverse the judg­ment of the Superior Court.</p>
+                <p pgmap="91" id="b91-4">While twenty-one assignments of error appear upon the record, the contentions and arguments of appellant are substantially restricted to two questions: First, did the trial court erroneously deny appellant leave to file two additional pleas upon the day the cause was called for trial? and second, was the ruling of the court, in excluding the evidence proffered by appellant as a defense to the action, error?</p>
+                <p pgmap="91" id="b91-5">First, the issues had been joined for eighteen months at the time the cause was on the trial call, to which time no motion had been made by appellant to interpose any additional pleas.</p>
+                <p pgmap="91(137) 92(30)" id="b91-6">While it was permissible for the court to grant the motion even at the late date when it was made, still, whether the motion should be granted or not was a matter resting in the sound discretion of the court. Appellee, it may be assumed, had prepared to go to trial on the issues joined, and may not have been pre­pared to meet any defense not admissible under the pleadings as they stood; nor did the law require him' to anticipate that any defense would be proffered not pertinent to the pleadings or admissible under them. In some circumstances it might have been the duty of the court to allow additional pleas to be filed even at the late date the motion was made. If there was any good reason why the motion should have been granted, or any lawful excuse why the making of the motion had been so long delayed, appellant failed to apprise the court of such fact by affidavit or other­wise.</p>
+                <p pgmap="92" id="b92-5">"What this court said in Wilson v. Wilson, 125 Ill. App. 385, is of equal application here. The court say: “To grant such an application to file an additional plea at the time fixed for trial, is either to compel the plaintiff to go to trial at a disadvantage and without previous information as to the defenses to be inter­posed and preparation therefor, to which he is fairly entitled, or else to force him to a continuance when he is ready for trial on all issues previously presented. This should not be permitted unless a good reason for the delay is shown. No error was committed in refus­ing leave to file this plea.”</p>
+                <p pgmap="92" id="b92-6">Dow v. Blake, 148 Ill. 76, and Chicago v. Cook, 204 Ill. 373, are to a like effect.</p>
+                <p pgmap="92" id="b92-7">The judicial discretion vested in the trial judge, so far from having been abused in the denial of appel­lant’s motion to file additional pleas on the eve of the trial, was exercised in wisdom for the promotion of justice. To have done otherwise, in the absence of any excuse for the long continued delay in making the ap­plication, would have worked not only a hardship and injustice to appellee, but would have been contrary to the practice and the law of this state.</p>
+                <p pgmap="92(105) 93(329)" id="b92-8">Second. After the introduction of the notes in evi­dence appellant sought by cross-examination to go into and prove the consideration for which the notes were given. Upon objection by appellee to such testi­mony it was ruled out and an exception preserved to the ruling of the court in sustaining the objection. Appellant also sought to prove by appellant, as a de­fense to the notes, that the consideration for which they were given had failed, and to recoup damages sustained by such failure. This testimony was like­wise eliminated upon the objection by appellee, to which ruling of the court appellant likewise preserved an appropriate exception. It is insisted that because the common counts were a part of the declaration such proof was admissible under the plea of the general issue. Appellee, in introducing the notes in evidence, limited the offer of their introduction to the special counts, and under them in express terms they were so received by the court. It may he a mooted question whether, confining the offer of the notes in evidence to the special counts, without any proof of other indebt­edness, did not operate to eliminate the common counts from the declaration and have the same or like force and effect as if a nolle had been taken as to them. But be that as it may, we do not regard the de­termination of the legal effect of such action necessary to our decision. Counsel for appellant, however, con­tend with much vigor and some plausibility that the defense attempted is in the nature of a recoupment, and that by the common law evidence sustaining such defense was admissible under the general issue where the common counts were found in the declaration. It is also contended that while a failure of consideration cannot be availed of as a defense under our statute without being specially pleaded, yet damages may he recouped and evidence of such damages received in the present condition of the pleadings, notwithstanding such recoupment partakes of the nature of a failure or partial failure of consideration; and on this point counsel say: “Certainly the mere fact that a proper case of recoupment may also, from another point of view, constitute a failure of consideration, ought not to induce the court to say that the statute has cut off the right to rely upon such recoupment, without plead­ing it generally, where such a right existed at common law before the statute was passed.” As will appear later on in this opinion, we are unable to accede to counsel’s contention on this point.</p>
+                <p pgmap="93(31) 94(96)" id="b93-4">It is also urged that the decision of this court in Dickinson v. Citizens National Bank, 70 Ill. App. 403, is in conflict with and contrary to the ruling in Hoer­ner v. Giles, 53 Ibid. 540, and Wadhams v. Swan, 109 Ill. 46. Preliminary to a reference to cases supra it may be helpful to bear in mind that counsel for appel­lant admit in their brief that the two additional pleas, which the court declined to allow to be filed, are pleas of a total failure of consideration for which the notes were given, and the defense sought to be introduced under the plea of the general issue is without denial of the same character intended to be offered under the two rejected additional pleas.</p>
+                <p pgmap="94" id="b94-5">The Dickinson case supra is as nearly on all fours with the case at bar as it is possible for one case to be with another. It was on two promissory notes with special counts declaring on each and the common counts. The plea was the general issue. The consid­eration for the notes was a sale of horses under a war­ranty. There was a breach of the warranty and a re­sulting failure of consideration. This was sought to be recouped against the claim under the notes. The testimony was rejected, and this court say, by Mr. Justice Adams, “The law is well settled by numerous adjudications, that proof of failure or want of consid­eration cannot be made under the general issue pleaded to a declaration containing a special count on a promissory note. Rose v. Mortimer, 17 Ill. 475; Keith v. Mafit, 38 Ill. 303; Leggat v. Sands Brewing Co., 60 Ill. 158; Waterman v. Clark et al., 76 Ill. 428; Wilson v. King, 83 Ill. 232; Schroer et al. v. Wessell, 89 Ill. 113; Sheldon v. Lewis, 97 Ill. 640. The decis­ions cited are in strict .accord with section 9 of the statute entitled ‘Negotiable Instruments,’ which pro­vides that when an action is brought upon a note fail­ure of consideration, total or partial, may be pleaded. To permit of such proof under the general issue to a declaration containing a special count on the note would be virtually to repeal the statute which permits the filing of pleas of failure and partial failure of con­sideration.”</p>
+                <p pgmap="94(10) 95(173)" id="b94-6">We do not think Hoerner v. Giles supra involves the point now under discussion. In the Hoerner case it does not appear that there was a special count de­claring on the note in suit. All that appears to have been filed was the common counts, under which the notes were offered and admitted in evidence. A special plea of failure of consideration was filed, as also the general issue, and the court, in its instructions to the jury, limited the defense to the matters specially pleaded. While the court of review held that the de­fendant was not limited in recouping damages to the special plea, but that evidence supporting such recoup­ment was admissible under the general issue, the court say, “It follows that if the evidence in this record shows a proper case for the recoupment of damages, though the evidence on this point differs from the facts stated in the special plea, ’ ’ he might have availed of such defense under the general issue. The whole ruling was predicated on the showing of a proper case of recoupment.</p>
+                <p pgmap="95" id="b95-4">The Hoerner case lacking special counts, the com­mon counts being the only ones in the declaration, the defense of recoupment was admissible under the plea of the general issue. However, the Hoerner case is clearly distinguishable in its main feature from the condition which here obtains.</p>
+                <p pgmap="95(135) 96(129)" id="b95-5">Wadhams v. Swan supra in its final analysis does not, except inferentially, involve the point here made. The decision of the case did not rest upon the exclus­ion of evidence of damages for land occupied by the railroad right-of-way which Wadhams claimed he was entitled to under his deed, the title to which he as­serted had to that extent failed. The court held that he got all he bargained for. Wadhams filed, among the other pleas, a plea of total failure of consideration and the general issue, and in discussing this special plea the court say: “The proofs clearly do not sustain this statutory defense. We say statutory, for by the com­mon law such a plea to a promissory note is not admis­sible at all. Our statute, however, with certain limita­tions, allows a defendant in such an action to inter­pose as a defense either a want of consideration or a total or partial failure of consideration. Now there are three distinct defenses, and to be made available they must be pleaded specially. The defendant is not permitted to set up one of these defenses in his plea and prove another under it. Recoupment, in the strict common law sense, is a mere reduction of the damages claimed by the plaintiff, by proof, under the general issue, of mitigating circumstances connected with or growing out of the transaction upon which the plaint­iff’s claim is based, showing that it would be contrary to equity and good conscience to suffer the plaintiff to recover the full amount of his claim.”</p>
+                <p pgmap="96" id="b96-5">In the case at bar the defense, strictly speaking, does not rest in recoupment as defined in case supra, but in a failure of consideration. While it is appar­ent that if a claim by way of recoupment might be proven under a plea of the general issue, it is the law that when such claim is in fact founded on a failure, wholly or partially, of consideration, the statute im­peratively demands a special plea to that effect in order to admit proof of such a defense.</p>
+                <p pgmap="96" id="b96-6">In Keegan v. Kinnare, 123 Ill. 280, the court, quot­ing from Freeman’s Notes to Van Epps v. Harrison, 40 Am. Dec. 323, say: “ (and we quote because, we think, accurately): ‘In its modern application the foundation of recoupment is failure of considera­tion.’ ”</p>
+                <p pgmap="96(92) 97(67)" id="b96-8">Wilson v. King, 83 Ill. 232, states the rule as to when it is necessary to plead a failure of consideration to notes declared upon specially. This case has not, so far as we can ascertain, been departed from by any other decision since delivered. The court say, after referring to section 9 of the Negotiable Instruments Act, “According to the provisions of this section, when the action is on such an instrument, to be avail­able such a defense”—want of, entire or partial fail­ure of consideration—“must be pleaded where the declaration counts on such an instrument”—a prom­issory note—“the defense of course must be made by plea; or even where the declaration only contains the common counts and the plaintiff files a copy of the in­strument therewith, and a written statement that no other evidence than the instrument of which a copy is filed will be offered on the trial, then a plea should be required.”</p>
+                <p pgmap="97" id="b97-4">The defense appellant attempted to interpose was a total failure of consideration for the two notes received in evidence under the two special counts. This de­fense was substantially that stated in the two • addi­tional pleas which the court refused to permit counsel to file. Such defense, in the state of the pleadings, was not admissible under the general issue. As appel­lant could only avail of such a defense by specially pleading it, the action of the court in refusing to admit it was consequently without error.</p>
+                <p pgmap="97" id="b97-5">The judgment of the Superior Court is affirmed.</p>
+                <p pgmap="97" id="b97-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="90" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00045_1"/>
+        <fptr FILEID="jp2_00045_1"/>
+        <fptr FILEID="alto_00045_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.2" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.3" BETYPE="IDREF" FILEID="alto_00045_1"/>
+              <area BEGIN="BL_90.4" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="91" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.2" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+              <area BEGIN="BL_91.4" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.3" BETYPE="IDREF" FILEID="alto_00046_1"/>
+              <area BEGIN="BL_92.4" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.2" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+              <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.2" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.3" BETYPE="IDREF" FILEID="alto_00047_1"/>
+              <area BEGIN="BL_94.4" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="95" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.2" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+              <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.3" BETYPE="IDREF" FILEID="alto_00048_1"/>
+              <area BEGIN="BL_96.4" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.2" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.13" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.7" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.18" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.9" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.8" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOh" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.16" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3W" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.20" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_90.21" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.6" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.6" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.5" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.6" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_95.1" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APp" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.13" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_90.14" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APr" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.15" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.7" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-15" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.22" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_91.1" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-14" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.19" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.8" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.11" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_90.12" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.6" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            <area BEGIN="BL_92.1" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.17" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.5" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.7" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.5" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.10" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

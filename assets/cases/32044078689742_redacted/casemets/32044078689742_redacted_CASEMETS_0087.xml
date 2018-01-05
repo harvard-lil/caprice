@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0087" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Wabash Realty &amp; Loan Co. v. Krabbe">Wabash Realty &amp; Loan Company, Appellant, v. Fred A. Krabbe, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 462</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00240_1" MIMETYPE="image/tiff" CHECKSUM="2299c6e305178f1f927b081471f43004" CHECKSUMTYPE="MD5" SIZE="37120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_1.tif"/>
+      </file>
+      <file ID="tiff_00241_0" MIMETYPE="image/tiff" CHECKSUM="ce8ba2670b14168271580bffc2d5bd53" CHECKSUMTYPE="MD5" SIZE="53388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00241_0.tif"/>
+      </file>
+      <file ID="tiff_00241_1" MIMETYPE="image/tiff" CHECKSUM="87249de0a486cf20a7ccd6394475c944" CHECKSUMTYPE="MD5" SIZE="41770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00241_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00240_1" MIMETYPE="image/jp2" CHECKSUM="96d67ac3b56680f8d7447330f0ff96d0" CHECKSUMTYPE="MD5" SIZE="2304398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_1.jp2"/>
+      </file>
+      <file ID="jp2_00241_0" MIMETYPE="image/jp2" CHECKSUM="6c70e84a1c3fe3aecd5f89d8bf263798" CHECKSUMTYPE="MD5" SIZE="2468964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00241_0.jp2"/>
+      </file>
+      <file ID="jp2_00241_1" MIMETYPE="image/jp2" CHECKSUM="98636bf6645bbc6b0d7a91ad8562abe2" CHECKSUMTYPE="MD5" SIZE="2337116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00241_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00240_1" MIMETYPE="text/xml" CHECKSUM="05feab11874f1f76af0e8957a90ea664" CHECKSUMTYPE="MD5" SIZE="66593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00240_1.xml"/>
+      </file>
+      <file ID="alto_00241_0" MIMETYPE="text/xml" CHECKSUM="b98313e6b035229dafdec18492d8586d" CHECKSUMTYPE="MD5" SIZE="87730">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00241_0.xml"/>
+      </file>
+      <file ID="alto_00241_1" MIMETYPE="text/xml" CHECKSUM="87e8c8bcc9ec02f1dddd4502a26e66d9" CHECKSUMTYPE="MD5" SIZE="69233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00241_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0087" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="464" firstpage="462">
+              <parties id="b480-6" pgmap="480">Wabash Realty &amp; Loan Company, Appellant, v. Fred A. Krabbe, Appellee.</parties>
+              <decisiondate id="AZD" pgmap="480">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b480-9" pgmap="480">Schaefer &amp; Dolan, for appellant.</attorneys>
+              <attorneys id="b480-10" pgmap="480">Savage &amp; Woods, for appellee.</attorneys>
+              <summary id="b480-8" pgmap="480">Assumpsit. Appeal from the County Court of Champaign county; the Hon. Thomas J. Roth, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AjV" pgmap="480">Affirmed.</disposition>
+              <headnotes id="b480-7" pgmap="480">Landlord and tenant—how written lease may he surrendered. A written lease, even though it be under seal, may be surrendered by a parol agreement or by an agreement inferable from the con­duct of the parties.</headnotes>
+              <opinion type="majority">
+                <author id="b480-11" pgmap="480">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AEU" pgmap="480">delivered the opinion of the court.</p>
+                <p id="b480-12" pgmap="480(76) 481(240)">This is a suit brought November 1, 1907, upon a written lease, for the recovery of rent alleged to be due to the appellant corporation from appellee Krabbe, for certain premises in the city of Champaign, the term of said lease being five years from June 1, 1904, and the rental fifty dollars per month, payable on the first day of each month. The case was tried in the County Court, and the judgment rendered upon the verdict of the jury in favor of the defendant. In addition to the general issue, appellee pleaded, first, that the lease was surrendered on September 1, 1905, at which time no rent was due upon the same; and second, actio non as to so much of the rent as became due after May 30, 1907, for the reason that it was stipulated in and by the lease that ap­pellee should occupy the premises for saloon pur­poses and for no other purpose; that it was therein provided that beer manufactured by the Terre Haute Brewing Company should he given the preference in the sale of beer upon said premises, and that the city council had adopted an ordinance prohibiting the sale of intoxicating, malt, vinous or fermented liquor with­in the limits of said city, which ordinance became effective May 20, 1907; by reason of all of which ap­pellee could not thereafter legally conduct a saloon upon said premises, nor use the same for any other purpose whatsoever, whereby said lease became null and void and the premises were and continued to be until' the time of the commencement of the suit, ren­dered useless for the purpose for which the same were rented. Demurrers were interposed to said special pleas. The court sustained the same as to the first and overruled it as to the second. No replication, how­ever, was filed to said second plea.</p>
+                <p id="b481-5" pgmap="481">The evidence shows that appellee occupied the prem­ises for saloon purposes from June 1, 1904, until Sep­tember 5,1905, when the business was purchased from him by one Mascher. No formal transfer of the lease was made, and Mascher continued to conduct the sa­loon upon the premises until March, 1907, during which time he paid the rent to appellee’s agent. The rent which it is sought to recover in the present suit is for the period of from March to November, 1907, inclusive.</p>
+                <p id="b481-6" pgmap="481(30) 482(102)">It will be observed that the second special plea does not purport to meet the entire cause of action, but only the claim for rent claimed to have accrued subsequent to May 20, 1907. The verdict returned in favor of the defendant must therefore have been rendered upon the theory that a surrender of the lease had been established under the general issue. Otherwise a ver­dict for the rent which accrued subsequently to the month of February, and prior to May 20, 1907, would necessarily have followed. Therefore, the action of the court in overruling the demurrer to the second plea, and the admission of the ordinance in evidence, if error, could not have been prejudicial, and it is un­necessary to determine the question of the sufficiency of the plea.</p>
+                <p id="b482-5" pgmap="482">Appellant insists that the verdict of the jury is against the weight of the evidence upon the issue as to whether the lease was in fact surrendered by appel­lant. It is well settled that a written lease, even though it be under seal, may be surrendered by a parol agreement, or by an agreement inferable from the con­duct of the parties. Stobie v. Dills, 62 Ill. 432; Fry v. Patridge, 73 Ill. 51; Dills v. Stobie, 81 Ill. 202; Al­schuler v. Schiff, 164 Ill. 298. While the evidence is in conflict upon this issue, we cannot say that the sur­rounding facts and circumstances disclosed by the evi­dence were insufficient to warrant the finding that the lease and premises were surrendered to appellant by appellee and accepted by it, thus releasing appellee from further liability under the lease.</p>
+                <p id="b482-6" pgmap="482">We find no reversible error in the rulings of the court upon the instructions or in the admission of evi­dence. The judgment of the circuit court is affirmed.</p>
+                <p id="b482-7" pgmap="482">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="480" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00240_1"/>
+        <fptr FILEID="jp2_00240_1"/>
+        <fptr FILEID="alto_00240_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.2" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.3" BETYPE="IDREF" FILEID="alto_00240_1"/>
+              <area BEGIN="BL_480.4" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="481" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00241_0"/>
+        <fptr FILEID="jp2_00241_0"/>
+        <fptr FILEID="alto_00241_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_481.3" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_481.2" BETYPE="IDREF" FILEID="alto_00241_0"/>
+              <area BEGIN="BL_481.4" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="482" ORDERLABEL="464" TYPE="page">
+        <fptr FILEID="tiff_00241_1"/>
+        <fptr FILEID="jp2_00241_1"/>
+        <fptr FILEID="alto_00241_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_482.2" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_482.3" BETYPE="IDREF" FILEID="alto_00241_1"/>
+              <area BEGIN="BL_482.4" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-12" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.17" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_481.1" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZD" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.11" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-10" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.13" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjV" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.10" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-11" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.14" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.6" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.7" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.5" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.6" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.7" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.5" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEU" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.15" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_480.16" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.6" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_482.1" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.8" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_480.9" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-9" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.12" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

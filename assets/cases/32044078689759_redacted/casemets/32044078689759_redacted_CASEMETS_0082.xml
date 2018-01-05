@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0082" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Miller">People of the State of Illinois ex rel., Appellee, v. Charles T. Miller, Appellant</name>
+          <docketnumber>Gen. No. 14,026</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 630</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="84a658f8a52b95a9c8b43167848f17b5" CHECKSUMTYPE="MD5" SIZE="36226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_1.tif"/>
+      </file>
+      <file ID="tiff_00324_0" MIMETYPE="image/tiff" CHECKSUM="9fcd8f34250eb981f49db3f3291b0ada" CHECKSUMTYPE="MD5" SIZE="52738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_0.tif"/>
+      </file>
+      <file ID="tiff_00324_1" MIMETYPE="image/tiff" CHECKSUM="2364e47563f2e3632863181e315884e2" CHECKSUMTYPE="MD5" SIZE="44806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00323_1" MIMETYPE="image/jp2" CHECKSUM="2c678420c75cf41d770567b686fbc51e" CHECKSUMTYPE="MD5" SIZE="2219724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00323_1.jp2"/>
+      </file>
+      <file ID="jp2_00324_0" MIMETYPE="image/jp2" CHECKSUM="48119c7b48e65c97e3979268ea3afe06" CHECKSUMTYPE="MD5" SIZE="2372518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_0.jp2"/>
+      </file>
+      <file ID="jp2_00324_1" MIMETYPE="image/jp2" CHECKSUM="6246e6c58d8c9ecd2b6a99e829bc0739" CHECKSUMTYPE="MD5" SIZE="2281051">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00323_1" MIMETYPE="text/xml" CHECKSUM="4f3fdee5c6274e6653584babd0fe999b" CHECKSUMTYPE="MD5" SIZE="65647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00323_1.xml"/>
+      </file>
+      <file ID="alto_00324_0" MIMETYPE="text/xml" CHECKSUM="3b7440afb6c562efad8e1e4fdc98b432" CHECKSUMTYPE="MD5" SIZE="90048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00324_0.xml"/>
+      </file>
+      <file ID="alto_00324_1" MIMETYPE="text/xml" CHECKSUM="fb368e1ca68e4ca8b9f14b5b7356247c" CHECKSUMTYPE="MD5" SIZE="80127">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00324_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0082" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="632" firstpage="630">
+              <docketnumber pgmap="646" id="b646-9">Gen. No. 14,026.</docketnumber>
+              <parties pgmap="646" id="b646-7">People of the State of Illinois ex rel., Appellee, v. Charles T. Miller, Appellant.</parties>
+              <decisiondate pgmap="646" id="AdJ">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="646" id="AdS">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="646" id="b646-16">Cantwell &amp; Roth, for appellant.</attorneys>
+              <attorneys pgmap="646" id="b646-17">John J. Healy, for appellee; Newton A. Partridge and Western Starr, of counsel.</attorneys>
+              <summary pgmap="646" id="b646-14">Quo warranto. Appeal from the Circuit Court of Cook county; the Hon. Richard S. Tuthill, Judge, presiding.</summary>
+              <disposition pgmap="646" id="ANQ">Reversed and remanded.</disposition>
+              <headnotes pgmap="646" id="b646-10">1. Quo warranto—what essential to maintenance of. In order to maintain an information to oust a person holding the office of crib-­keeper of a municipality, it must appear from the petition that there is such an office de ñire in such municipality.</headnotes>
+              <headnotes pgmap="646" id="b646-11">2. Quo warranto—when judgment informal. A judgment in quo warranto as follows: “It is hereby ordered, adjudged and decreed by the court in favor of the relator and of ouster with costs”, is informal.</headnotes>
+              <opinion type="majority">
+                <author pgmap="646" id="b646-18">Mr. Presiding Justice Adams</author>
+                <p pgmap="646" id="A9f">delivered the opinion of the court.</p>
+                <p pgmap="646(42) 647(112)" id="b646-19">The state’s attorney filed an information against the appellant, Charles T. Miller, on the relation of Law­rence C. Nelson. Appellant demurred to the informa­tion, and the court overruled the demurrer, and, no one appearing for the appellant, rendered judgment against appellant. The concluding part of the judgment is in these words: '‘ Comes now the relator and aslcs that a judgment of ouster be entered against the defendant, Charles T. Miller, from the office or place of employ-« ment of crib-keeper, in the service of the city of Chi­cago, and that he pay the costs of this proceeding; and the court being fully advised in the premises, it is hereby ordered, adjudged and decreed by the court that judgment in favor of the relator, and of ouster, with costs to the relator, against the respondent, Charles T. Miller, be entered in the above entitled cause”. From this judgment the appeal is.</p>
+                <p pgmap="647" id="b647-4">Appellant has assigned as errors that the court erred in overruling the demurrer; that the judgment is er­roneous, in that it is not in favor of The People, and is informal, in that it is a mere direction to the clerk to enter judgment.</p>
+                <p pgmap="647" id="b647-5">. Appellant’s counsel argue that the information is fatally defective, in not averring facts showing that there is such an office as crib-keeper of the city of Chi­cago. Information, in the nature of quo warranto, will not lie unless there is such an office de jure as that of crib-keeper. Hurd’s Stats. 1905, p. 1549. Therefore it must appear from the information that there is such an office. Hedrick v. People, 221 Ill. 374; People v. Hedrick, 132 Ill. App. 154; Bullis v. City of Chicago, 235 Ill. 472.</p>
+                <p pgmap="647(123) 648(55)" id="b647-6">There is no such office created by statute. If there is such an office as crib-keeper of the city of Chicago, it must have been created either directly by legislative enactment, or by ordinance passed by the city council of the city of Chicago, in the exercise of power dele­gated to the city by the legislature. People v. Hedrick, 132 Ill. App. 154,158. No such office has been created, so far as we are aware, by statute, and if it had been, it is safe to assume that this would have been called to our attention by the learned counsel for appellee. It is not averred in the information that such an of­ficer as crib-keeper has been created by ordinance of the city. It is merely assumed in the information that there is such an office. This is not sufficient. Hedrick v. People, supra, p. 377. It is matter of substance to show that there is such an office de jure as that of crib-­keeper, and the information, in not showing this, is fatally defective.</p>
+                <p pgmap="648" id="b648-5">The judgment in the cause could not well he more informal than it is. Appellant’s counsel say it is not a judgment, but a mere direction to the clerk to enter a judgment, and it is certainly somewhat obnoxious to this criticism. The judgment reads: “It is hereby or­dered, adjudged and decreed by the court in favor of the relator and of ouster with costs”, etc., thus creating at least uncertainty whether it is a judgment of ouster in favor of The People, or not.</p>
+                <p pgmap="648" id="b648-6">The judgment against the relator for costs is author­ized by section 6 of the quo warranto act. Such defects as there are in the judgment will, probably, not occur in any future judgment which may be rendered in the cause by the trial court. The court erred in overruling the demurrer to the information and in rendering judg­ment against appellant for costs. For these errors the judgment will be reversed and the cause remanded.</p>
+                <p pgmap="648" id="b648-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="646" ORDERLABEL="630" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jp2_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.2" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.3" BETYPE="IDREF" FILEID="alto_00323_1"/>
+              <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="647" ORDERLABEL="631" TYPE="page">
+        <fptr FILEID="tiff_00324_0"/>
+        <fptr FILEID="jp2_00324_0"/>
+        <fptr FILEID="alto_00324_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_647.2" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_647.3" BETYPE="IDREF" FILEID="alto_00324_0"/>
+              <area BEGIN="BL_647.4" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="648" ORDERLABEL="632" TYPE="page">
+        <fptr FILEID="tiff_00324_1"/>
+        <fptr FILEID="jp2_00324_1"/>
+        <fptr FILEID="alto_00324_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.2" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.3" BETYPE="IDREF" FILEID="alto_00324_1"/>
+              <area BEGIN="BL_648.4" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.8" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.5" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.6" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdJ" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.16" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.17" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.7" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.7" BETYPE="IDREF" FILEID="alto_00324_0"/>
+            <area BEGIN="BL_648.1" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.7" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.6" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b647-4" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_647.5" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9f" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.21" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.22" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdS" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.13" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.14" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANQ" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.15" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-19" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.23" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_647.1" BETYPE="IDREF" FILEID="alto_00324_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-18" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.20" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-14" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.11" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.12" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-17" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.19" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-16" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.18" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-11" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.10" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.9" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

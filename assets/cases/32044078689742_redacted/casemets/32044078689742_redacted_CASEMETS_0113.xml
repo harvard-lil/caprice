@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0113" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Strawn v. Trustees of Jacksonville Female Academy">Gates Strawn et al., Executors, Appellants, v. The Trustees of Jacksonville Female Academy et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 574</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00296_1" MIMETYPE="image/tiff" CHECKSUM="2385e970d717cd1ef43417f065dfc3ff" CHECKSUMTYPE="MD5" SIZE="44810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_1.tif"/>
+      </file>
+      <file ID="tiff_00297_0" MIMETYPE="image/tiff" CHECKSUM="583f77083dfe1bd8e1d43183eecc28f0" CHECKSUMTYPE="MD5" SIZE="43760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00297_0.tif"/>
+      </file>
+      <file ID="tiff_00297_1" MIMETYPE="image/tiff" CHECKSUM="8b4a6e10159bd87ccc865d58f43fa414" CHECKSUMTYPE="MD5" SIZE="57010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00297_1.tif"/>
+      </file>
+      <file ID="tiff_00298_0" MIMETYPE="image/tiff" CHECKSUM="6abda21c785acdba1b3d2569344c656a" CHECKSUMTYPE="MD5" SIZE="54568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_0.tif"/>
+      </file>
+      <file ID="tiff_00298_1" MIMETYPE="image/tiff" CHECKSUM="3749712aac318c07f79124148df80893" CHECKSUMTYPE="MD5" SIZE="47098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00296_1" MIMETYPE="image/jp2" CHECKSUM="733643b6d648b1d902828847698db30c" CHECKSUMTYPE="MD5" SIZE="2354013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00296_1.jp2"/>
+      </file>
+      <file ID="jp2_00297_0" MIMETYPE="image/jp2" CHECKSUM="9e9ac4c163947b974302060684baec9e" CHECKSUMTYPE="MD5" SIZE="2397275">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00297_0.jp2"/>
+      </file>
+      <file ID="jp2_00297_1" MIMETYPE="image/jp2" CHECKSUM="1d2486f46ca34a5d5217ae85978c99eb" CHECKSUMTYPE="MD5" SIZE="2429685">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00297_1.jp2"/>
+      </file>
+      <file ID="jp2_00298_0" MIMETYPE="image/jp2" CHECKSUM="5abd04156e82699f4aefce6ac2bde756" CHECKSUMTYPE="MD5" SIZE="2470013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_0.jp2"/>
+      </file>
+      <file ID="jp2_00298_1" MIMETYPE="image/jp2" CHECKSUM="7689f8e4cf474006323a303bb0683f47" CHECKSUMTYPE="MD5" SIZE="2379598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00296_1" MIMETYPE="text/xml" CHECKSUM="4411ba2074aca4c408a088e3d7ea0289" CHECKSUMTYPE="MD5" SIZE="73682">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00296_1.xml"/>
+      </file>
+      <file ID="alto_00297_0" MIMETYPE="text/xml" CHECKSUM="7fcbb0f7f7a78711aaa0d7aa07c84338" CHECKSUMTYPE="MD5" SIZE="78045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00297_0.xml"/>
+      </file>
+      <file ID="alto_00297_1" MIMETYPE="text/xml" CHECKSUM="3d9bc5321980183e8ed43a3fc633c227" CHECKSUMTYPE="MD5" SIZE="93866">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00297_1.xml"/>
+      </file>
+      <file ID="alto_00298_0" MIMETYPE="text/xml" CHECKSUM="ce61b7d38927ccb70ec3c78f0b2cc1d0" CHECKSUMTYPE="MD5" SIZE="94980">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00298_0.xml"/>
+      </file>
+      <file ID="alto_00298_1" MIMETYPE="text/xml" CHECKSUM="0aaf39c27586c2cce1f576e7dccb62cc" CHECKSUMTYPE="MD5" SIZE="81875">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00298_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0113" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="578" firstpage="574">
+              <parties id="b592-9" pgmap="592">Gates Strawn et al., Executors, Appellants, v. The Trustees of Jacksonville Female Academy et al., Appellees.</parties>
+              <decisiondate id="Avq" pgmap="593">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b593-5" pgmap="593">Dent &amp; Jackson, for appellant.</attorneys>
+              <attorneys id="b593-6" pgmap="593">J. B. Lippincott, Bellatie &amp; Banner and R. W. Mills, for appellee.</attorneys>
+              <summary id="b593-4" pgmap="593">Bill in equity. Appeal from the Circuit Court of Morgan county; the Hon. Owen P. Thompson, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AF3" pgmap="593">Transferred to Supreme Court.</disposition>
+              <headnotes id="b592-10" pgmap="592">Appeals and errors—when freehold involved. In a proceeding to construe a will a freehold is involved if the determination of the cause will result in the loss of a freehold by one of the parties in interest.</headnotes>
+              <opinion type="majority">
+                <author id="b593-7" pgmap="593">Mr. Justice Baume</author>
+                <p id="AYJ" pgmap="593">delivered the opinion of the court.</p>
+                <p id="b593-8" pgmap="593">This is a hill in equity by G-ates Strawn and Edward P. Kirby, executors and trustees under the last will and testament of Phebe G-. Strawn, deceased, appellants, against the legatees and devisees under the will of said deceased, appellees, to obtain a construction of the tenth and twelth clauses of said will and the fourth clause of the codicil to said will, which said several clauses are as follows:</p>
+                <p id="b593-9" pgmap="593">“X</p>
+                <p id="b593-10" pgmap="593">“I give and bequeath to the Trustees of the Jackson­ville Female Academy the sum of ten thousand dollars ($10,000), the same to be kept by said trustees as a perpetual fund, and to be loaned upon good real estate security, and only the interest and income of said fund to be used and expended; said income to be used and expended in maintaining a high grade school for the education of young women.</p>
+                <p id="b593-11" pgmap="593">“XII</p>
+                <p id="b593-12" pgmap="593">“I give, devise and bequeath to my executors, here­inafter named as trustees, the north two-thirds (⅔) of the homestead property on which I now reside, and more particularly described as Lot one (1) in Block 17 (17) in the city Addition to the City of Jacksonville. To have and to hold the same upon the trusts follow­ing, that is to say:</p>
+                <p id="b593-13" pgmap="593(29) 594(125)">“First, Upon Trust: To give to my three children, Julius E. Strawn, Gates Strawn and' David Strawn, the use and occupation of said premises as a home, for and during’ their joint lives, and the lives of the survivors or survivor of them, they, the survivors or survivor of them, during said occupation, well and duly paying all taxes and special assessments thereon, and keeping the buildings and other improvements thereon in good repair; and keeping all buildings thereon insured in their fair insurance value, for the benefit of all parties interested therein. In the event my said children or the survivors of them shall be unable to agree in a joint occupation of said premises, then the occupancy thereof shall be given and awarded by my executors to those or that one of my said children who will pay to the other or others the largest sum for the right of such occupancy.</p>
+                <p id="b594-4" pgmap="594">“I expressly will and direct that the words occupa­tion, occupancy and right of occupancy, hereinbefore mentioned shall not include the right to rent said prem­ises except during temporary absence, my intention be­ing only to provide for my said children a home in the house which I erected and have occupied as a home my­self.</p>
+                <p id="b594-5" pgmap="594(199) 595(183)">“Second, Upon Trust: Whenever said real estate shall no longer be occupied as a home by any of my three children above named, either because of the death of the survivor or because of their abandonment of right to the occupancy thereof, then to convey the said premises in fee simple, subject to the conditions and limitations hereinafter contained, to the Trustees of the Jacksonville Female Academy, in Jacksonville, Illinois, to be held, used and enjoyed by the said Trus­tees as a site for an art gallery and school of art, to be known and designated as “The Strawn Art School and Gallery;” such school and art gallery to be under the management and control of said Trustees as an annex, and to be used in connection with the school known as the Jacksonville Female Academy. The deed of conveyance to said Trustees shall contain a pro­vision or condition that whenever the said premises shall cease, for a period of three (3) consecutive years, to be used as a site for such art school and art gal­lery, then all the rights of the said Trustees under and by virtue of said deed of conveyance shall cease and determine, and the title to said premises shall thereupon revert to my executors, or the survivor of them, and the said premises shall then he sold by them, or him at public auction, upon such terms as to them or him shall seem best, and the proceeds arising from said sale shall then be divided and distributed by my executors, or the survivor of them, equally, between the Trustees of Illinois College, the Trustees of the Jacksonville Female Academy, the Trustees of the State Street Presbyterian Church in Jacksonville, and the Association for Works of Mercy of the Evangelical Lutheran Church in Illinois; all moneys so paid over to said legatees to be kept and maintained as a perpetual fund, and the interest and income to be used as here­inbefore prescribed for the expenditure of the interest and income of the bequests to said legatees. If neither of my executors be living at the time of such abandon­ment or surrender of said premises, then the court shall appoint a Trustee to carry into effect this pro­vision of my will.</p>
+                <p id="AE4" pgmap="595">“IV</p>
+                <p id="b595-6" pgmap="595">“Whereas, in and by my said will and the Twelfth (12th) clause thereof, I did give, devise and bequeath to my executors as Trustees, the north two-thirds (⅔) of my homestead property on which I now re­side known and described as Lot One (1) in Block Seventeen (17) in the City Addition to the City of Jacksonville, and I now believe that the whole of said property would be better adapted than a part thereof for the uses and trusts upon which said property was devised to said Trustees, I do now give, devise and be­queath to my executors in said will named, as Trus­tees, all of my said homestead property, being Lot One (1) in Block Seventeen (17) in the City Addition to the City of Jacksonville, in Morgan County, Illi­nois, to have and to hold the same upon the same trusts and conditions upon which the said Trustees were to have and to hold the north two-thirds (⅔) of said homestead property, as set forth in the Twelfth (12th) clause of my said will.”</p>
+                <p id="b595-7" pgmap="595(19) 596(203)">The claim of appellant to the interposition of a court of equity is mainly predicated upon the provisions of a contract entered into between the Trustees of the Jacksonville Female Academy and the Trustees of Illi­nois College, and a conveyance by the former to the latter made in pursuance of such contract, whereby it is alleged that the said Trustees of the Jacksonville Female Academy had become permanently disabled from complying with the conditions attached by said will to the vesting of the legacy and devise here in­volved, and that said legacy and devise had lapsed and became a portion of the residuum of the estate of the testatrix. It is manifest that if the devise of the real estate known as the homestead property should be held to have lapsed, it would result in the loss to the Trustees of the Jacksonville Female Academy of a freehold estate. The devise is to appellants as exec­utors and trustees of the will with directions to convey said real estate to the Trustees of the Jacksonville Female Academy, upon the termination of the right of certain children of the testatrix to use and occupy the same during their lives and the life of the survivor and not to sell the same and pay the proceeds to the trustees of said academy.</p>
+                <p id="b596-5" pgmap="596">This court is without jurisdiction to consider and de­termine the question involved, and the clerk of this court is, therefore, directed to transmit the transcript of the record and files in the case to the clerk of the Supreme Court, to which court this cause is trans­ferred.</p>
+                <p id="b596-6" pgmap="596">Transferred to Supreme Court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="592" ORDERLABEL="574" TYPE="page">
+        <fptr FILEID="tiff_00296_1"/>
+        <fptr FILEID="jp2_00296_1"/>
+        <fptr FILEID="alto_00296_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_592.2" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_592.3" BETYPE="IDREF" FILEID="alto_00296_1"/>
+              <area BEGIN="BL_592.4" BETYPE="IDREF" FILEID="alto_00296_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="593" ORDERLABEL="575" TYPE="page">
+        <fptr FILEID="tiff_00297_0"/>
+        <fptr FILEID="jp2_00297_0"/>
+        <fptr FILEID="alto_00297_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_593.2" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_593.1" BETYPE="IDREF" FILEID="alto_00297_0"/>
+              <area BEGIN="BL_593.3" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="594" ORDERLABEL="576" TYPE="page">
+        <fptr FILEID="tiff_00297_1"/>
+        <fptr FILEID="jp2_00297_1"/>
+        <fptr FILEID="alto_00297_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_594.2" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_594.3" BETYPE="IDREF" FILEID="alto_00297_1"/>
+              <area BEGIN="BL_594.4" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="595" ORDERLABEL="577" TYPE="page">
+        <fptr FILEID="tiff_00298_0"/>
+        <fptr FILEID="jp2_00298_0"/>
+        <fptr FILEID="alto_00298_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_595.3" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_595.2" BETYPE="IDREF" FILEID="alto_00298_0"/>
+              <area BEGIN="BL_595.4" BETYPE="IDREF" FILEID="alto_00298_0"/>
+              <area BEGIN="BL_595.8" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="596" ORDERLABEL="578" TYPE="page">
+        <fptr FILEID="tiff_00298_1"/>
+        <fptr FILEID="jp2_00298_1"/>
+        <fptr FILEID="alto_00298_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.2" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.3" BETYPE="IDREF" FILEID="alto_00298_1"/>
+              <area BEGIN="BL_596.4" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.5" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.6" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.7" BETYPE="IDREF" FILEID="alto_00298_0"/>
+            <area BEGIN="BL_596.1" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b595-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.6" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYJ" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.12" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            <area BEGIN="BL_593.13" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-10" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.10" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-11" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.17" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-10" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.16" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-13" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.19" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            <area BEGIN="BL_594.1" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-12" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.18" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.15" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-8" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.14" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.5" BETYPE="IDREF" FILEID="alto_00297_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b594-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_594.6" BETYPE="IDREF" FILEID="alto_00297_1"/>
+            <area BEGIN="BL_595.1" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b592-9" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_592.9" BETYPE="IDREF" FILEID="alto_00296_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avq" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.7" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            <area BEGIN="BL_593.8" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-5" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.9" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.4" BETYPE="IDREF" FILEID="alto_00297_0"/>
+            <area BEGIN="BL_593.5" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-7" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.11" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b593-6" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.10" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE4" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_595.5" BETYPE="IDREF" FILEID="alto_00298_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF3" BETYPE="IDREF" FILEID="casebody_0113"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_593.6" BETYPE="IDREF" FILEID="alto_00297_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

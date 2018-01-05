@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0128" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Henderson v. Moweaqua Coal Mining &amp; Manufacturing Co.">John M. Henderson, Appellee, v. Moweaqua Coal Mining &amp; Manufacturing Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 637</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="5095d8199c6e64d7fc4f30098fe2e67f" CHECKSUMTYPE="MD5" SIZE="42490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_0.tif"/>
+      </file>
+      <file ID="tiff_00328_1" MIMETYPE="image/tiff" CHECKSUM="b218b557db5b0af95593fbe18ed8c2fe" CHECKSUMTYPE="MD5" SIZE="53214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_1.tif"/>
+      </file>
+      <file ID="tiff_00329_0" MIMETYPE="image/tiff" CHECKSUM="b7d7eb24085f1d05dfadb4a25b96265e" CHECKSUMTYPE="MD5" SIZE="55300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00329_0.tif"/>
+      </file>
+      <file ID="tiff_00329_1" MIMETYPE="image/tiff" CHECKSUM="3ddbf2db48610a17bb9be2eb68da0465" CHECKSUMTYPE="MD5" SIZE="54096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00329_1.tif"/>
+      </file>
+      <file ID="tiff_00330_0" MIMETYPE="image/tiff" CHECKSUM="4c2d20320e217d8e60afd78394b5486d" CHECKSUMTYPE="MD5" SIZE="51572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00330_0.tif"/>
+      </file>
+      <file ID="tiff_00330_1" MIMETYPE="image/tiff" CHECKSUM="b133a8fb2aeb1edc636b48374db00141" CHECKSUMTYPE="MD5" SIZE="51778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00330_1.tif"/>
+      </file>
+      <file ID="tiff_00331_0" MIMETYPE="image/tiff" CHECKSUM="fd8195774f8096cf12312f68214713b8" CHECKSUMTYPE="MD5" SIZE="55324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00331_0.tif"/>
+      </file>
+      <file ID="tiff_00331_1" MIMETYPE="image/tiff" CHECKSUM="2c35bf7e0abe949beb6560d892220f40" CHECKSUMTYPE="MD5" SIZE="52454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00331_1.tif"/>
+      </file>
+      <file ID="tiff_00332_0" MIMETYPE="image/tiff" CHECKSUM="d07c11b029f9d63a6bf413c469df88bd" CHECKSUMTYPE="MD5" SIZE="44516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="0b777328794a652fbfe13309aaa014c0" CHECKSUMTYPE="MD5" SIZE="2394538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_0.jp2"/>
+      </file>
+      <file ID="jp2_00328_1" MIMETYPE="image/jp2" CHECKSUM="22c8cd71ee97e14560444724ba64d18e" CHECKSUMTYPE="MD5" SIZE="2469151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00328_1.jp2"/>
+      </file>
+      <file ID="jp2_00329_0" MIMETYPE="image/jp2" CHECKSUM="c3977e83ba86b6a9c9554d9cdd8d1907" CHECKSUMTYPE="MD5" SIZE="2504670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00329_0.jp2"/>
+      </file>
+      <file ID="jp2_00329_1" MIMETYPE="image/jp2" CHECKSUM="87a9d895e103d00b32bb3c3d14adc0bb" CHECKSUMTYPE="MD5" SIZE="2466783">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00329_1.jp2"/>
+      </file>
+      <file ID="jp2_00330_0" MIMETYPE="image/jp2" CHECKSUM="d4123dea16ba69fd84091d4dd27fa4d4" CHECKSUMTYPE="MD5" SIZE="2423531">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00330_0.jp2"/>
+      </file>
+      <file ID="jp2_00330_1" MIMETYPE="image/jp2" CHECKSUM="dd29f9637ca004e30986996668a003f7" CHECKSUMTYPE="MD5" SIZE="2393471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00330_1.jp2"/>
+      </file>
+      <file ID="jp2_00331_0" MIMETYPE="image/jp2" CHECKSUM="85c9f5dcc489ea4ced787a4ae180cb8a" CHECKSUMTYPE="MD5" SIZE="2487396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00331_0.jp2"/>
+      </file>
+      <file ID="jp2_00331_1" MIMETYPE="image/jp2" CHECKSUM="25419e9e53abbe95ad713013ccb17ddf" CHECKSUMTYPE="MD5" SIZE="2441399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00331_1.jp2"/>
+      </file>
+      <file ID="jp2_00332_0" MIMETYPE="image/jp2" CHECKSUM="fd77745a40b82691aefff6ae47d2d9fa" CHECKSUMTYPE="MD5" SIZE="2379133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00332_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="21bd75c415c7d2c2817d5dcfc0fe4b2a" CHECKSUMTYPE="MD5" SIZE="79371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00328_0.xml"/>
+      </file>
+      <file ID="alto_00328_1" MIMETYPE="text/xml" CHECKSUM="5c86d1874f5880d509c8edd9172dfd2d" CHECKSUMTYPE="MD5" SIZE="87031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00328_1.xml"/>
+      </file>
+      <file ID="alto_00329_0" MIMETYPE="text/xml" CHECKSUM="8f1d3b32d0d03accc4018ea01421c79e" CHECKSUMTYPE="MD5" SIZE="95766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00329_0.xml"/>
+      </file>
+      <file ID="alto_00329_1" MIMETYPE="text/xml" CHECKSUM="75d072587482dbd5b05e794b71b551db" CHECKSUMTYPE="MD5" SIZE="89355">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00329_1.xml"/>
+      </file>
+      <file ID="alto_00330_0" MIMETYPE="text/xml" CHECKSUM="4e39940cc1f3ff12c28029e405e666aa" CHECKSUMTYPE="MD5" SIZE="84708">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00330_0.xml"/>
+      </file>
+      <file ID="alto_00330_1" MIMETYPE="text/xml" CHECKSUM="a49219804aae10f118899b2bedeaab1a" CHECKSUMTYPE="MD5" SIZE="87062">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00330_1.xml"/>
+      </file>
+      <file ID="alto_00331_0" MIMETYPE="text/xml" CHECKSUM="c3d496e22b14780b5ec325d3275ae43c" CHECKSUMTYPE="MD5" SIZE="90781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00331_0.xml"/>
+      </file>
+      <file ID="alto_00331_1" MIMETYPE="text/xml" CHECKSUM="74add5983d1be86dc7042cc6bb5ac02d" CHECKSUMTYPE="MD5" SIZE="87184">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00331_1.xml"/>
+      </file>
+      <file ID="alto_00332_0" MIMETYPE="text/xml" CHECKSUM="c97592dc6e0204f8a11b527b0f989f06" CHECKSUMTYPE="MD5" SIZE="85444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00332_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0128" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="645" firstpage="637">
+              <parties id="b655-5" pgmap="655">John M. Henderson, Appellee, v. Moweaqua Coal Min­ing &amp; Manufacturing Company, Appellant.</parties>
+              <decisiondate id="AvQ" pgmap="655">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b655-8" pgmap="655">J. C. &amp; W. B. McBride, for appellant; John Ridgely, Jr., and W. C. Kelly, of counsel.</attorneys>
+              <attorneys id="b655-9" pgmap="655">Chafee &amp; Chew and S. S. Clapper, for appellee.</attorneys>
+              <summary id="b655-7" pgmap="655">Action in case for personal injuries. Appeal from the Circuit Court of Shelby county; the Hon. Samuel L. Dwight, Judge, pre­siding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AjC" pgmap="655">Reversed and remanded.</disposition>
+              <headnotes id="b655-6" pgmap="655">Statute of Limitations—when amended count sens up new cause of action. An amended count sets up a new cause of action where it differs from the original count in that under the count as originally filed it was necessary in order to recover that the plaint­iff should prove the negligence of the defendant as charged and that he himself had not assumed the risk and was in the exercise of due care for his own safety, and under the count as amended it was incumbent upon the plaintiff to prove that his injury resulted from the wilful failure of the defendant to comply with some one or more of the provisions of the Mines and Miners Act and in the latter case the defense of qssumed risk and contributory negligence were not available to the defendant.</headnotes>
+              <opinion type="majority">
+                <author id="b655-10" pgmap="655">Mr. Justice Baume</author>
+                <p id="AvH4" pgmap="655">delivered the opinion of the court.</p>
+                <p id="b655-11" pgmap="655(40) 656(195)">This is a suit by appellee against appellant to re­cover damages for personal injuries sustained by ap­pellee on November 24, 1904, in the coal mine of ap­pellant. A trial by jury in the Circuit Court of Shelby county resulted in a verdict and judgment against appellant for $3,000. The original declaration filed by appellee on November 3, 1905, contained three counts. The first count alleges that appellant had contracted with the miners’ union, of which appellee was a member, to furnish to the miners for use in the mine a certain kind of powder branded “ C. C. C. Alton Powder,” which powder was all large-grained and slow in combustion, said grains exploding so as not to greatly jar or disintegrate the roof of the room wherein the same was used, and that under such con­tract it became the duty of appellant to furnish to ap­pellee said brand of powder for his use in the mine; that appellant, without notice to appellee, procured another and different kind of powder and negligently and wilfully furnished such other powder to appellee, and that appellee without knowledge of any change in the character of the powder, and while exercising due care for his own safety, used such powder so fur­nished to him and thereby caused the roof of his work­ing place to be so affected that it thereafter fell upon him.</p>
+                <p id="b656-5" pgmap="656">The second count alleges the same contract with reference to the brand of powder to be used in the mine, and further alleges an agreement between ap­pellant and the miners’ union that no change should be made in the character of the powder without the consent of appellee and the miners working in the mine; that not regarding its obligation in that regard, appellant, without the knowledge or consent of ap­pellee and said miners, caused another and different kind of powder to be falsely marked and branded ‘‘ C. C. C. Alton Powder,” with intent to deceive appellee and said miners, and that appellee without knowledge of such change in the character of such powder, while exercising due care for his own safety, used the same, whereby the roof of his working place was so affected that it thereafter fell upon him.</p>
+                <p id="b656-6" pgmap="656(11) 657(392) 658(335)">The third count alleges that it was the duty of ap­pellant to have all places where men were expected to work in said mine carefully inspected and to cause to he marked upon the walls or roof of the said mine with a chalk mark that could be seen and understood a mark which would indicate the dangerous condition of such part of the mine, so that men working therein might notice the same and keep out of danger, and to cause a daily record of the condition of said mine to be made in a book kept for that purpose, and such record should be made in the morning before the miners de­scended into the mine; that appellant not regarding its obligations or duty in this behalf, did not cause the roof of the mine where appellee was engaged to be marked in any way to show that it was in a dangerous condition; that appellee while exercising due care and caution for his own safety and having no notice from the record re­quired to be kept by appellant of the dangerous condi­tion of the mine where he was about to engage at work and having no notice of any mark upon the ceiling or wall near where he was about to engage at work, al­though the roof of the room was then in a dangerous condition and the inspector might have discovered it if he had carefully performed his duties in that be­half, and while appellee was at work by reason of such defective roof and of there being no marks to warn appellee, the roof then and there fell upon ap­pellee, etc. Thereafter appellee filed an additional count which alleged that appellant was operating a coal mine and that appellee was employed as a miner therein; that it was the duty of appellant to provide a proper and careful examination of said mine and to have sufficient mine examiners there employed so that the mine might be properly inspected and all places where men were expected to pass or work should be found to be in safe condition or any dangerous con­dition marked as indicated, and to cause a careful examination of the edges and accessible parts of re­cent falls and to cause all dangerous and unsafe places upon the walls or roof of the said mine to be marked as indicated, so that the dangerous and unsafe condition thereof could be seen and understood, and to cause a daily record of the condition to he made in a book for that purpose; that appellant did not provide sufficient com­petent mine examiners in the said mine to permit or allow a proper or careful examination of said mine or to allow reasonable inspection of all places in said mine where the men were expected to pass or to work, or to allow a proper observation of the condition of recent falls made in the mine or the roof and walls of the working places to be made; that on November 25, 1904, appellant procured a careless and negligent ex­amination and inspection of said mine and the work­ing parts thereof and the roof and walls thereof in the rooms and passageways therein to be made, and permitted and allowed inaccurate and false marks to be made in the roof and walls of said mine whereby a condition of safety appeared; that appellee relying upon the performance in a proper manner by appel­lant of its duty to inspect, examine and mark the mine as aforesaid, and while exercising due care and cau­tion for his own safety, and the record of appellant not indicating any dangerous condition where ap­pellee was about to work, and appellee having no no­tice of chalk marks on the roof or walls near the place where he was about to work, notwithstanding the roof of the mine at that place was then and there in a dan­gerous and unsafe condition, which dangerous and unsafe condition might have been readily discovered by due and reasonable inspection, and while appellee was engaged in his said employment, by reason of a defective and unsafe and dangerous condition of said roof, and for want of a careful examination and in­spection thereof by appellant, and the failure of the appellant to mark such unsafe condition, the roof fell upon appellee, etc.</p>
+                <p id="b658-5" pgmap="658(26) 659(67)">On November 13, 1907, appellee by leave of court amended the third count of his declaration by strik­ing out the italicized words “did not,” appearing therein after the word “behalf,” and before the word “cause,” and inserting in lieu thereof the words “wil­fully failed to,” and on the same day by like leave of court appellee amended his additional count by strik­ing out the italicized words “did not” which appeared therein after the word “behalf” and before the word “provide,” and inserting in lieu thereof the words “wilfully failed to.”</p>
+                <p id="b659-5" pgmap="659">To the third and additional counts as thus amended appellant filed its plea of the Statute of Limitations, averring that the cause of action alleged in said third and additional counts did not accrue to appellee within two years next before the filing thereof.</p>
+                <p id="b659-6" pgmap="659">A demurrer interposed by appellee to said plea of the Statute of Limitations was sustained by the court and thereupon appellant elected to abide its said plea.</p>
+                <p id="b659-7" pgmap="659">The third and additional counts of the declaration as originally filed charged appellant with common law negligence merely. They contained no reference what­ever to the statute, a wilful failure to comply with the provisions of which gives a party injured the right to recover damages for such injury, and they contained no allegation that appellant had wilfully failed to com­ply with any provision of the statute. The breach of the several duties alleged some of which were imposed by statute and some of which had no reference to the statute, was the failure of appellant to carefully per­form such duties. Both of those counts further al­leged that appellee was in the exercise of due care for Ms own safety when he was injured. This allegation had no place in a declaration which predicated a right of recovery upon the wilful failure of a mine operator to comply with the provisions of the Mines and Min­ers Act.</p>
+                <p id="b659-8" pgmap="659(36) 660(118)">The amendments to the third and additional counts of the declaration were made more than two years after the cause of action accrued, and as thus amended said counts of the declaration stated other and differ­ent causes of action from those which were alleged in said counts as originally filed. Under the counts as originally filed, it was necessary in order to recover that appellee should prove the negligence of appellant as charged and that he, himself, had not assumed the risk and was in the exercise of due care for his own safety; and under the counts as amended it was in­cumbent upon appellee to prove that his injury re­sulted from the wilful failure of appellant to comply with some one or more of the provisions of the Mines and Miners Act, and in the latter case the defenses of assumed risk and contributory negligence were not available to appellant.</p>
+                <p id="b660-5" pgmap="660">When an amendment states a new or different cause of action than that which was originally stated, it is to be regarded as a new suit begun when such amend­ment is filed; and the Statute of Limitations may be pleaded in bar of the cause of action introduced by the amendment. Heffron v. Rochester Ins. Co., 220 Ill. 514. In Bradley v. Chicago-Virden Coal Co., 231 Ill. 622, it was held that a cause of action which predicated a right of recovery upon the wilful violation of the provisions of the Mines and Miners Act was different and distinct from a cause of action based upon a com­mon law liability, and that such change in the cause of action affected by amendment was barred by the Statute of Limitations. In the case at bar the de­murrer interposed by appellee to appellant’s plea of the Statute of Limitations to the third and additional counts of the declaration as amended should have been overruled.</p>
+                <p id="b660-6" pgmap="660">Even conceding that appellant failed to furnish a particular brand of powder and that it substituted therefor another and different brand of powder, as is alleged in the first and second counts of the declara­tion, and this concession is not warranted by the evi­dence, the evidence wholly fails to show that such conduct on the part of appellant was the proximate cause of the injury to appellee.</p>
+                <p id="b661-4" pgmap="661(370) 662(109)">Considering the evidence bearing upon that question as it appears in the record, most favorably for appel­lee, it tends to show that in May, 1904, a committee of the Miners Union made complaint on behalf of the miners employed in the mine, to the superintendent of appellant in regard to the powder then used in the mine; that the powder then in use in the mine was known as “C. C. Alton Powder,” and the objection urged to its use was that it was too fine and that the shots fired by it did not produce sufficient lump coal; that appellant’s superintendent told said committee he would furnish any kind of powder which would produce the best results in that regard, and proposed to the committee that he would send for Louis Ber­ner, the traveling salesman of the Equitable Powder Co. at Alton, for a conference upon the subject; that upon the arrival of said Berner at the mine, he had a conference with the committee and that said com­mittee thereafter visited the powder works at Alton and inspected the various brands of powder manu­factured by the company; that the committee there selected a powder branded “C. C. C,” as being best suited to produce the desired results, and took a keg of said powder to the mine for the purpose of testing the same; that said powder was tested by the commit­tee in competition with another brand of powder and was selected by said committee for use in the mine; that in pursuance of the request of said committee, appellant ordered and furnished to the miners for use in the mine the powder branded “C. C. C.”; that said powder although thus branded was not all of the same grade, some of the kegs containing a finer grade of powder than the original sample; that in the latter part of October, 1904, a committee of the miners again called upon the superintendent of appellant and com­plained that the powder was a finer grade than it should be, and at the suggestion of the superintendent, several of the kegs of powder stored in the magazine and branded “C. C. C.” were opened and examined and found to contain a finer grade of powder than the original sample; that it was then agreed between said committee and said superintendent that after, the stock of powder then on hand was exhausted, efforts should be made to procure a more uniformly coarse grade of powder; that prior to firing the shot which loosened the slate in the roof of appellee’s working place he said to appellant’s superintendent with reference to the powder branded “C. C. C,” which he was then using, that he would carry it back out to him, and the superintendent replied that if he. (appellee) carried it out he would carry it back.</p>
+                <p id="b662-5" pgmap="662">The evidence shows conclusively that the powder branded “C. C. C.” was selected by. a committee of the Miners Union of which appellee was a member, and that appellant procured the powder so selected, and was not in any way responsible for the fact that the powder was not of uniform grade.</p>
+                <p id="b662-6" pgmap="662">It is further conclusively established by the evidence that the objection to the powder was not based upon any claim that its use was attended with greater dan­ger to the miners, but that the sole ground of the objection to its use was that it did not produce suf­ficient lump coal. The fact that the fine grade of powder fires more rapidly and is more liable to dis­integrate the roof of a working place in a mine than a coarse grade of powder is a mere incident in the case, which, under the evidence, cannot be held to have had any relation as an approximate cause of the injury to appellee.</p>
+                <p id="b662-7" pgmap="662">In view of what has been heretofore said it is un­necessary to consider the various objections urged by appellant to the instructions given to the jury at the instance of appellee. It is sufficient to say upon this subject that even if the third and additional counts to the declaration were proper to be .considered in the case, many of the instructions so given are erroneous and would necessarily require a reversal of the judg­ment.</p>
+                <p id="b663-4" pgmap="663">The judgment of the circuit court will be reversed and the cause remanded for further proceedings not inconsistent with the views here expressed.</p>
+                <p id="b663-5" pgmap="663">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="655" ORDERLABEL="637" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.2" BETYPE="IDREF" FILEID="alto_00328_0"/>
+              <area BEGIN="BL_655.4" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="656" ORDERLABEL="638" TYPE="page">
+        <fptr FILEID="tiff_00328_1"/>
+        <fptr FILEID="jp2_00328_1"/>
+        <fptr FILEID="alto_00328_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.2" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.3" BETYPE="IDREF" FILEID="alto_00328_1"/>
+              <area BEGIN="BL_656.4" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="657" ORDERLABEL="639" TYPE="page">
+        <fptr FILEID="tiff_00329_0"/>
+        <fptr FILEID="jp2_00329_0"/>
+        <fptr FILEID="alto_00329_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_657.3" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_657.2" BETYPE="IDREF" FILEID="alto_00329_0"/>
+              <area BEGIN="BL_657.4" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="658" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00329_1"/>
+        <fptr FILEID="jp2_00329_1"/>
+        <fptr FILEID="alto_00329_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.2" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.3" BETYPE="IDREF" FILEID="alto_00329_1"/>
+              <area BEGIN="BL_658.4" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="659" ORDERLABEL="641" TYPE="page">
+        <fptr FILEID="tiff_00330_0"/>
+        <fptr FILEID="jp2_00330_0"/>
+        <fptr FILEID="alto_00330_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.3" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.2" BETYPE="IDREF" FILEID="alto_00330_0"/>
+              <area BEGIN="BL_659.4" BETYPE="IDREF" FILEID="alto_00330_0"/>
+              <area BEGIN="BL_659.9" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="660" ORDERLABEL="642" TYPE="page">
+        <fptr FILEID="tiff_00330_1"/>
+        <fptr FILEID="jp2_00330_1"/>
+        <fptr FILEID="alto_00330_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_660.2" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_660.3" BETYPE="IDREF" FILEID="alto_00330_1"/>
+              <area BEGIN="BL_660.4" BETYPE="IDREF" FILEID="alto_00330_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="661" ORDERLABEL="643" TYPE="page">
+        <fptr FILEID="tiff_00331_0"/>
+        <fptr FILEID="jp2_00331_0"/>
+        <fptr FILEID="alto_00331_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_661.2" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_661.1" BETYPE="IDREF" FILEID="alto_00331_0"/>
+              <area BEGIN="BL_661.3" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="662" ORDERLABEL="644" TYPE="page">
+        <fptr FILEID="tiff_00331_1"/>
+        <fptr FILEID="jp2_00331_1"/>
+        <fptr FILEID="alto_00331_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_662.2" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_662.3" BETYPE="IDREF" FILEID="alto_00331_1"/>
+              <area BEGIN="BL_662.4" BETYPE="IDREF" FILEID="alto_00331_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="663" ORDERLABEL="645" TYPE="page">
+        <fptr FILEID="tiff_00332_0"/>
+        <fptr FILEID="jp2_00332_0"/>
+        <fptr FILEID="alto_00332_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.2" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_663.1" BETYPE="IDREF" FILEID="alto_00332_0"/>
+              <area BEGIN="BL_663.3" BETYPE="IDREF" FILEID="alto_00332_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvH4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.17" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.18" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-10" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.16" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.6" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.7" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b661-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_661.4" BETYPE="IDREF" FILEID="alto_00331_0"/>
+            <area BEGIN="BL_662.1" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-11" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.19" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_656.1" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.5" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b663-4" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_663.4" BETYPE="IDREF" FILEID="alto_00332_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.5" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            <area BEGIN="BL_659.1" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.5" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b660-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_660.5" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b662-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_662.6" BETYPE="IDREF" FILEID="alto_00331_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.6" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.7" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.8" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.9" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.10" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.6" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            <area BEGIN="BL_657.1" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            <area BEGIN="BL_658.1" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.5" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.14" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-9" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.15" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjC" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.11" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.12" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-5" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.5" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-6" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.6" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-7" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.7" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-8" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.8" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            <area BEGIN="BL_660.1" BETYPE="IDREF" FILEID="alto_00330_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvQ" BETYPE="IDREF" FILEID="casebody_0128"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.13" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

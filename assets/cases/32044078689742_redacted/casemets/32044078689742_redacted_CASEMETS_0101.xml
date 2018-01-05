@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0101" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Shadle v. Wolf">A. T. Shadle, Appellant, v. Charles G. Wolf, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 515</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00267_0" MIMETYPE="image/tiff" CHECKSUM="22268cf478b5aa207e34f6eda8a4eaf7" CHECKSUMTYPE="MD5" SIZE="40464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_0.tif"/>
+      </file>
+      <file ID="tiff_00267_1" MIMETYPE="image/tiff" CHECKSUM="44f2ab3d122f0ee641c2ec1d76c17479" CHECKSUMTYPE="MD5" SIZE="54204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_1.tif"/>
+      </file>
+      <file ID="tiff_00268_0" MIMETYPE="image/tiff" CHECKSUM="7242917de8325e5264a79b98e7c38d76" CHECKSUMTYPE="MD5" SIZE="50598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_0.tif"/>
+      </file>
+      <file ID="tiff_00268_1" MIMETYPE="image/tiff" CHECKSUM="1e65e627a8dc79bb55e756690c411514" CHECKSUMTYPE="MD5" SIZE="44862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00267_0" MIMETYPE="image/jp2" CHECKSUM="5082889994e0d4e21e27a0cf4933b298" CHECKSUMTYPE="MD5" SIZE="2386710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_0.jp2"/>
+      </file>
+      <file ID="jp2_00267_1" MIMETYPE="image/jp2" CHECKSUM="8664f5e5ca069c725cf687ec4db13eb4" CHECKSUMTYPE="MD5" SIZE="2432209">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00267_1.jp2"/>
+      </file>
+      <file ID="jp2_00268_0" MIMETYPE="image/jp2" CHECKSUM="d1899832a345b4ad1e9c4df2eac963c2" CHECKSUMTYPE="MD5" SIZE="2454204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_0.jp2"/>
+      </file>
+      <file ID="jp2_00268_1" MIMETYPE="image/jp2" CHECKSUM="34d488fb8d8f43f6d441c691570306cc" CHECKSUMTYPE="MD5" SIZE="2369937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00267_0" MIMETYPE="text/xml" CHECKSUM="50700eeb010e03a6f9abe40e694a5ba1" CHECKSUMTYPE="MD5" SIZE="75715">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00267_0.xml"/>
+      </file>
+      <file ID="alto_00267_1" MIMETYPE="text/xml" CHECKSUM="565baf39066f2b07ab87fe1663aaa364" CHECKSUMTYPE="MD5" SIZE="85992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00267_1.xml"/>
+      </file>
+      <file ID="alto_00268_0" MIMETYPE="text/xml" CHECKSUM="58a0412d8b551a7c4dcd7dd21e2e6808" CHECKSUMTYPE="MD5" SIZE="84016">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00268_0.xml"/>
+      </file>
+      <file ID="alto_00268_1" MIMETYPE="text/xml" CHECKSUM="b2a93522d0233dd0acc88e6d29ff8161" CHECKSUMTYPE="MD5" SIZE="80322">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00268_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0101" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="518" firstpage="515">
+              <parties id="b533-6" pgmap="533">A. T. Shadle, Appellant, v. Charles G. Wolf, Appellee.</parties>
+              <decisiondate id="A3H" pgmap="533">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b533-11" pgmap="533">A. E. Campbell, for appellant.</attorneys>
+              <attorneys id="b533-12" pgmap="533">H. Leonard Jones, for appellee.</attorneys>
+              <summary id="b533-10" pgmap="533">Assumpsit. Appeal from the Circuit Court of Champaign county; the Hon. Solon Philbrick, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aak" pgmap="533">Affirmed.</disposition>
+              <headnotes id="b533-7" pgmap="533">1. Pleading—what determines whether plea is in abatement or in bar. Whether a plea is in abatement or in bar is to be deter­mined not from the subject-matter of the plea but from its conclu­sion. The advantage of relief sought by- the plea determines its character.</headnotes>
+              <headnotes id="b533-8" pgmap="533">2. Pleading—when plea sets up matter in abatement. A plea which does not dispute the justness of the plaintiff’s claim but which sets up matter which necessarily operates as an objection to the mode of asserting such claim, and the judgment entered is one which leaves the plaintiff to renew his action in another form, is a plea not in bar but in abatement.</headnotes>
+              <headnotes id="b533-9" pgmap="533">3. Pleading—conclusion of plea in abatement. The proper con­clusion of a plea in abatement is that the writ and the declaration be quashed.</headnotes>
+              <opinion type="majority">
+                <author id="b534-4" pgmap="534">Mr. Justice Baume</author>
+                <p id="An" pgmap="534">delivered the opinion of the court.</p>
+                <p id="b534-5" pgmap="534(340) 535(138)">This is a suit in assumpsit to recover the amount of a promissory note for $180 with interest thereon. The declaration consists of the common counts and one special count which avers that defendant on July 25, 1900, gave his certain promissory note for $180 to the City Bank of Ogden, Iowa, and that plaintiff, at the request of defendant, became surety thereon; that af­terwards, on July 25, 1901, the said note having be­come due, plaintiff paid the 'same. To this declaration defendant filed his plea averring that prior to the filing of the declaration and prior to the maturity of said note, to wit, on February 15, 1901, the plaintiff and defendant were partners carrying on a certain busi­ness in the county of Boone in the State of Iowa, and as such partners were the owners of certain machinery and other property used in conducting the partnership business; that on the day last aforesaid the plaintiff and defendant agreed to dissolve said partnership and that the same should be dissolved upon the liquidation of the partnership affairs; that as to the manner of said liquidation it was agreed that the plaintiff should take all of the partnership property and collect all ac­counts due the firm; that out of the proceeds of said partnership he should pay all partnership debts, in­cluding the note described in the declaration, and that after the sale of the partnership property, the collec­tion of partnership accounts and the payment of part­nership debts, including the payment of said note, he should pay the defendant for his interest in the part­nership property one-half of the amount remaining. The plea further avers that since said agreement was made the plaintiff has collected more than enough of said partnership accounts, and sold more than enough of said partnership property, and received as the pro­ceeds thereof more than enough money to satisfy all the partnership indebtedness, including the payment of the said note, and now has in his control and posses­sion a considerable sum of money, one-half of which sum of money the defendant is entitled to under said agreement; that since the making of said agreement the plaintiff has not made or had any accounting with the defendant concerning the said.money and pro­ceeds, and refuses to make or have any accounting thereof with the defendant. The plea concludes with a verification and prays judgment of the said declara­tion and that the same may be quashed. To this plea a demurrer interposed by plaintiff was overruled by the court and leave given plaintiff to reply. There­after leave to plaintiff to reply was set aside and judg­ment was entered on the demurrer to said plea, and it was ordered that the writ be quashed and the suit be dismissed at the costs of the plaintiff.</p>
+                <p id="b535-5" pgmap="535">Waiving the question as to whether or not, upon the record in the case, the plaintiff can be said to have abided his demurrer so as to have the judgment of the court thereon reviewed, upon a consideration of the merits of the controversy here urged we are of opinion that the plea in question is in form and substance a plea in abatement; that the demurrer thereto was properly overruled and that the judgment as entered conforms substantially with the proper practice in such cases.</p>
+                <p id="b535-6" pgmap="535">Whether a plea is in abatement or in bar is to be determined, not from the subject-matter of the plea, but from its conclusion. The advantage or relief sought by the plea determines its character. Pitts Sons’ Man’f Co. v. Commercial Nat. Bank, 121 Ill. 582.</p>
+                <p id="b535-7" pgmap="535(74) 536(70)">The matters alleged in the plea here involved dis­close an unsettled partnership account beween the par­ties and the existing agreement upon the part of plaintiff to pay the note in question, not by virtue of his liability as surety, but as a partnership transac­tion and out of the proceeds of partnership property. The remedy, therefore, available to either party is in a court of equity. Burns v. Nottingham, 60 Ill. 531; Newman v. Tichenor, 88 Ill. App. 1. The plea does not dispute the justness of the plaintiff’s claim, but sets up matter which necessarily operates as an objection to the mode of asserting such claim, and the judgment entered leaves the plaintiff to renew his action in another form. These are among the characteristics which distinguish the plea in question as a plea in abatement from a plea in bar.</p>
+                <p id="b536-5" pgmap="536">The generally prescribed form of conclusion in a plea in abatement in actions similar to the one at bar is that the writ and the declaration be quashed. The plea here involved concludes with a prayer for judg­ment of the declaration and that the same be quashed. We do not regard the departure in the respect indi­cated of sufficient importance to affect the substantial character of the plea as a plea in abatement.</p>
+                <p id="b536-6" pgmap="536">The demurrer to the plea was properly overruled and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b536-7" pgmap="536">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="533" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00267_0"/>
+        <fptr FILEID="jp2_00267_0"/>
+        <fptr FILEID="alto_00267_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.3" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_533.2" BETYPE="IDREF" FILEID="alto_00267_0"/>
+              <area BEGIN="BL_533.4" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="534" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00267_1"/>
+        <fptr FILEID="jp2_00267_1"/>
+        <fptr FILEID="alto_00267_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.1" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.2" BETYPE="IDREF" FILEID="alto_00267_1"/>
+              <area BEGIN="BL_534.3" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="535" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00268_0"/>
+        <fptr FILEID="jp2_00268_0"/>
+        <fptr FILEID="alto_00268_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.3" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.2" BETYPE="IDREF" FILEID="alto_00268_0"/>
+              <area BEGIN="BL_535.4" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="536" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00268_1"/>
+        <fptr FILEID="jp2_00268_1"/>
+        <fptr FILEID="alto_00268_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.2" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.3" BETYPE="IDREF" FILEID="alto_00268_1"/>
+              <area BEGIN="BL_536.4" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.7" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.6" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aak" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.12" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.7" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.7" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            <area BEGIN="BL_535.1" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-9" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.9" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-8" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.8" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.6" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.5" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            <area BEGIN="BL_534.6" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.5" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.4" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-11" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.15" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.5" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-7" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.7" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            <area BEGIN="BL_536.1" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-6" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.6" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-12" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.16" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3H" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.13" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            <area BEGIN="BL_533.14" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b533-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_533.10" BETYPE="IDREF" FILEID="alto_00267_0"/>
+            <area BEGIN="BL_533.11" BETYPE="IDREF" FILEID="alto_00267_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

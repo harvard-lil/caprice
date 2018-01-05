@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0070" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Stollard v. Nycum">Scott Stollard, Appellant, v. William Nycum et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 421</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="d5b82856b15807476a1c648d0459e0e6" CHECKSUMTYPE="MD5" SIZE="39370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_0.tif"/>
+      </file>
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="679908e7b255d02eb2b521f006d4c933" CHECKSUMTYPE="MD5" SIZE="52726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="cb5e8995b438801daf9714b8baec1839" CHECKSUMTYPE="MD5" SIZE="40074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00221_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="54045299bf2be168d677a3aed56e21ca" CHECKSUMTYPE="MD5" SIZE="2368409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_0.jp2"/>
+      </file>
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="5d330382626c6f1e3e1db2c26890446c" CHECKSUMTYPE="MD5" SIZE="2439350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00220_1.jp2"/>
+      </file>
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="485ee3a561721be98e4990c4f1acffe4" CHECKSUMTYPE="MD5" SIZE="2381781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00221_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="c7bd6beab8045963d77e013bb3487dcf" CHECKSUMTYPE="MD5" SIZE="69233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00220_0.xml"/>
+      </file>
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="899964116cd8ee39289f21de7901df3e" CHECKSUMTYPE="MD5" SIZE="88626">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00220_1.xml"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="de29235a8f74718d3108745594be8283" CHECKSUMTYPE="MD5" SIZE="68190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00221_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0070" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="423" firstpage="421">
+              <parties id="b439-7" pgmap="439">Scott Stollard, Appellant, v. William Nycum et al., Appellees.</parties>
+              <decisiondate id="ACS" pgmap="439">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b439-11" pgmap="439">Baldwin &amp; Stringer, for appellant.</attorneys>
+              <attorneys id="b439-12" pgmap="439">Edward G. King, for appellees.</attorneys>
+              <summary id="b439-10" pgmap="439">Partition. Appeal from the Circuit Court of Logan county; the Hon. T. N. Harris, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Agj" pgmap="439">Affirmed.</disposition>
+              <headnotes id="b439-9" pgmap="439">Partition—when apportionment of solicitor’s fees not warranted. Even though the original petition properly set out the rights and interest of the parties, yet if by the death of one of such parties an amendment became necessary, which amendment did not set out every interest so fully and clearly that the parties defendant were relieved from the necessity of employing other counsel, an apportionment of complainant’s solicitor’s fees is properly denied.</headnotes>
+              <opinion type="majority">
+                <author id="b439-13" pgmap="439">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AslV" pgmap="439">delivered the opinion of the court.</p>
+                <p id="b439-14" pgmap="439(27) 440(174)">This is a proceeding instituted by appellant for the partition of certain real estate, to which the other ten­ants in common were made defendants. The original bill correctly stated the interests of the defendants. After it was filed, Mary Stollard, who held an estate for life in part of the land, and an undivided interest in fee simple in a portion of the remainder, died, leav­ing a will by which she devised her interest in fee to appellant. Thereupon appellant filed an amended bill setting up the death of Mary Stollard and his succes­sion to her interest in fee in the premises. Appellee answered the amended bill setting up that appellant was at the time the original bill was filed, a tenant of Mary Stollard upon the greater portion of the lands sought to be partitioned, and had retained possession and used the same after her' death until the filing of the cross bill; and that he thereby became liable to ac­count to the defendants, his tenants in common, for such .use and occupancy. Appellant thereupon filed an amendment to the amended bill setting up the facts averred in the answer and admitting his liability to account.</p>
+                <p id="b440-5" pgmap="440(190) 441(34)">The cause was referred to the master to take proofs and report conclusions.. There was some controversy upon the hearing, as to the rental value of the land so occupied by appellant, and the amount of his conse­quent liability to . his co-tenants, the result of which was that the master recommended and the court de­creed that he should account at the rate of $5 per acre per annum for the period of nine months of his occupancy. A cross-bill was subsequently filed by de­fendants Fowler and McBride, setting up that Fowler had recovered a judgment against the estate of said Mary Stollard for $700; that it would be necessary to subject her real estate to the payment of the same, and praying that the portion of the decree which found that appellant was entitled to the interest of Mary Stollard, be amended so as to find that such interest was subject to the payment of the debts of the said Mary Stollard. A decree was entered amending the original decree in accordance with the prayer of the cross-bill. After a sale of the property under said decree and the approval of the same, appellant inter­posed a motion that the fees of his solicitor be appor­tioned among the parties as provided by the statute, which motion the court denied.</p>
+                <p id="b441-5" pgmap="441">The statute provides that in proceedings for the partition of real estate, solicitor’s fees” shall be ap­portioned among the parties in interest where the rights and interests of the parties in the land are properly set forth in the bill and no good and sub­stantial defense has. been interposed. Eev. Stat. 1905, p. 1497. We are of opinion that the action of the court in refusing to apportion the complainant’s solici­tor’s fees, among the parties was warranted. While the original bill set up the interests of the parties cor­rectly at the time it was filed, the death of Mary Stol­lard' made it necessary to amend the same. It then became the duty of appellant to set out fully and accu­rately the interests of all the parties as they then existed. This he failed to do, and it became neces­sary for the defendants to employ counsel to properly protect their interests as was done by the cross-bill. The statute does not contemplate the apportionment of costs in any case where the bill does not set out every interest so fully and fairly that the parties de­fendant are relieved from the necessity of employing other-counsel. The petition or bill should be so accu­rate in this respect that all the parties can safely allow a default to go against them.</p>
+                <p id="b441-6" pgmap="441">The decree of the Circuit Court should be and is af­firmed.</p>
+                <p id="b441-7" pgmap="441">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="439" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.2" BETYPE="IDREF" FILEID="alto_00220_0"/>
+              <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="440" ORDERLABEL="422" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.3" BETYPE="IDREF" FILEID="alto_00220_1"/>
+              <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="423" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.3" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.2" BETYPE="IDREF" FILEID="alto_00221_0"/>
+              <area BEGIN="BL_441.4" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AslV" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.17" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_439.18" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.9" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.5" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-14" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.19" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_440.1" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.8" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-12" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.15" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_441.1" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-10" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.10" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_439.11" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-13" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.16" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agj" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.12" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.7" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.6" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACS" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.13" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-11" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.14" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

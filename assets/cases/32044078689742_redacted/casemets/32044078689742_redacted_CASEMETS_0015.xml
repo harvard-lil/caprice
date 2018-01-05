@@ -1,0 +1,1034 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0015" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kuechle v. Springer">Gertrude A. Kuechle, Appellant v. Warren Springer, Appellee</name>
+          <docketnumber>Gen. No. 14,056</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 127</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="2ecaf9020f06b5fdd8739bd1634c267f" CHECKSUMTYPE="MD5" SIZE="43406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_0.tif"/>
+      </file>
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="6aa18ff58471807c8017b08b13a8bd2e" CHECKSUMTYPE="MD5" SIZE="52980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="3aa794de221b2275157e4f2a7ceb9ba2" CHECKSUMTYPE="MD5" SIZE="54346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00074_0.tif"/>
+      </file>
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="85a320149b95565ad1aad346ff0191c0" CHECKSUMTYPE="MD5" SIZE="54550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="aa4247ee8c80d558fee5d540978ae0ce" CHECKSUMTYPE="MD5" SIZE="56030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="a7c1094193782af211464739dda22e5b" CHECKSUMTYPE="MD5" SIZE="55740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00075_1.tif"/>
+      </file>
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="b884eee5c866e389c927ed75f31dd4b9" CHECKSUMTYPE="MD5" SIZE="53526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00076_0.tif"/>
+      </file>
+      <file ID="tiff_00076_1" MIMETYPE="image/tiff" CHECKSUM="ba6fc434f54f8e35e73e398d36a17fe6" CHECKSUMTYPE="MD5" SIZE="52038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00076_1.tif"/>
+      </file>
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="213752f833d8be121771568e5788cd98" CHECKSUMTYPE="MD5" SIZE="50144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00077_0.tif"/>
+      </file>
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="1a0c897f13c5783409fa6888b9eceded" CHECKSUMTYPE="MD5" SIZE="54356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00077_1.tif"/>
+      </file>
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="d4c69aff4c110e9d26b8afe0d5569077" CHECKSUMTYPE="MD5" SIZE="54724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="efc9f4a5f12023a384430c059fb8cc82" CHECKSUMTYPE="MD5" SIZE="54798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="49771fc8e2b6dfcd329329dee028f1b8" CHECKSUMTYPE="MD5" SIZE="54938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="80e1985e1ac33a46ec2ce4c403d2d9f4" CHECKSUMTYPE="MD5" SIZE="37828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="1ac6dd2948611aa7eb61dab09c8a8d96" CHECKSUMTYPE="MD5" SIZE="2368327">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_0.jp2"/>
+      </file>
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="a9791a2083dbc8e4bf51ab6f79075d5e" CHECKSUMTYPE="MD5" SIZE="2387819">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="c35a09a3f06337933dbf0bada53d86c1" CHECKSUMTYPE="MD5" SIZE="2483144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00074_0.jp2"/>
+      </file>
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="f96b158bfb25fa742dce44092d3fe4a6" CHECKSUMTYPE="MD5" SIZE="2471927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="f10ca4cbc996424c62b454f3e54d8aff" CHECKSUMTYPE="MD5" SIZE="2509086">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00075_0.jp2"/>
+      </file>
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="f24f8bd6379ac42a121b3be91ea1cb3a" CHECKSUMTYPE="MD5" SIZE="2464833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00075_1.jp2"/>
+      </file>
+      <file ID="jp2_00076_0" MIMETYPE="image/jp2" CHECKSUM="047450eb7de799cadbfde8d8b142b3df" CHECKSUMTYPE="MD5" SIZE="2494783">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00076_0.jp2"/>
+      </file>
+      <file ID="jp2_00076_1" MIMETYPE="image/jp2" CHECKSUM="a45733fe59b36c0a9096a80f37b4d8fd" CHECKSUMTYPE="MD5" SIZE="2442076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00076_1.jp2"/>
+      </file>
+      <file ID="jp2_00077_0" MIMETYPE="image/jp2" CHECKSUM="70a15a5b4df99914978117fef0875c44" CHECKSUMTYPE="MD5" SIZE="2455229">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00077_0.jp2"/>
+      </file>
+      <file ID="jp2_00077_1" MIMETYPE="image/jp2" CHECKSUM="64f133735e76d9f025fbf6177b5052e7" CHECKSUMTYPE="MD5" SIZE="2424271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00077_1.jp2"/>
+      </file>
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="aa8ecdbd7f0a10f7c9eee770b69664cb" CHECKSUMTYPE="MD5" SIZE="2487183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="939f070d0d95cd533b32db1b02ac0d89" CHECKSUMTYPE="MD5" SIZE="2453206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="8020eebac8516dab2102973ee89515f1" CHECKSUMTYPE="MD5" SIZE="2501771">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="5fd22e9b7b1ebe764e7868de957f95c4" CHECKSUMTYPE="MD5" SIZE="2316915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00079_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="718ced67728789ef887bdb1185520eab" CHECKSUMTYPE="MD5" SIZE="76701">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00073_0.xml"/>
+      </file>
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="ced11161fede5fbdb35c901c129f4e69" CHECKSUMTYPE="MD5" SIZE="84661">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="d7602f414b83a8a27607ec10c9fb2861" CHECKSUMTYPE="MD5" SIZE="85274">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00074_0.xml"/>
+      </file>
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="b32daf736539e9d18bdd1d72f96576de" CHECKSUMTYPE="MD5" SIZE="88785">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="00c53a88691d68b4146568c9e32c184e" CHECKSUMTYPE="MD5" SIZE="89808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00075_0.xml"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="28490a7b3ab1e99b8816e2f111928337" CHECKSUMTYPE="MD5" SIZE="92945">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00075_1.xml"/>
+      </file>
+      <file ID="alto_00076_0" MIMETYPE="text/xml" CHECKSUM="39514b5b5b899b4ea1b8b0073e1e0779" CHECKSUMTYPE="MD5" SIZE="90650">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00076_0.xml"/>
+      </file>
+      <file ID="alto_00076_1" MIMETYPE="text/xml" CHECKSUM="2ceceb7de786f2e9e5fd4a04bd97c3ae" CHECKSUMTYPE="MD5" SIZE="87996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00076_1.xml"/>
+      </file>
+      <file ID="alto_00077_0" MIMETYPE="text/xml" CHECKSUM="2ac35df4125236783ae3cb2913677c38" CHECKSUMTYPE="MD5" SIZE="79140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00077_0.xml"/>
+      </file>
+      <file ID="alto_00077_1" MIMETYPE="text/xml" CHECKSUM="1585d9f1933b8ff11ff44c30e593daaf" CHECKSUMTYPE="MD5" SIZE="90037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00077_1.xml"/>
+      </file>
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="9d3a52d153aca8bfcbc5e2ec36b059f0" CHECKSUMTYPE="MD5" SIZE="87722">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="e3cbf3ff7df1cd0d9f397549fa58aaca" CHECKSUMTYPE="MD5" SIZE="88250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="cb1745f350305f7262dc18af817cbf76" CHECKSUMTYPE="MD5" SIZE="87445">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="7c33d6573324c0ee496a938241b2b1f5" CHECKSUMTYPE="MD5" SIZE="69794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00079_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0015" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="140" firstpage="127">
+              <docketnumber id="b145-8" pgmap="145">Gen. No. 14,056.</docketnumber>
+              <parties id="b145-6" pgmap="145">Gertrude A. Kuechle, Appellant v. Warren Springer, Appellee.</parties>
+              <decisiondate id="Ahn" pgmap="146">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b153-6" pgmap="153">Alden, Latham &amp; Young, for appellant.</attorneys>
+              <attorneys id="b153-7" pgmap="153">Stedman &amp; Soelke, for appellee.</attorneys>
+              <summary id="b145-12" pgmap="145(22) 146(6)">Action on the case. Appeal from the Superior Court of Cook county; the Hon. Albert H. Frost, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AiH" pgmap="146">Reversed and remanded.</disposition>
+              <headnotes id="b145-9" pgmap="145">1. Election of remedies—when doctrine of, does not apply. The doctrine of election between inconsistent remedies applies solely to the parties to a contract, as, for instance, where there has been a breach of the contract by one of the parties thereto; it has no ap­plication as between one of the parties to a contract and a third party, a stranger to the same. Held, in this case, that a decree can­celling a deed for fraud does not preclude a subsequent action for deceit against the person who procured the execution of such deed but was not a party thereto.</headnotes>
+              <headnotes id="b145-10" pgmap="145">2. Damages—what essential to award of. Damages which are uncertain and remote do not justify the verdict of a jury.</headnotes>
+              <headnotes id="b145-11" pgmap="145">3. Damages—what allowance justified in action of deceit. Dam­ages which are the natural consequence of the fraud perpetrated should be allowed.</headnotes>
+              <p id="b146-5" pgmap="146">Statement by tie Court. The appellant sued ap­pellee for damages for fraudulent conduct and false representations alleged to have caused loss to appel­lant. The sufficiency of the declaration is not ques­tioned. The defendant pleaded the general issue. The court instructed the jury, peremptorily, to find the de­fendant not guilty, which the jury did, and the court, after overruling plaintiff’s motions for a new trial and in arrest of judgment, rendered judgment on the ver­dict.</p>
+              <p id="b146-6" pgmap="146">November 24, 1888, Calvin DeWolf and Frances De­Wolf, his wife, executed to William EL Slosson a lease of sub-lot 4, in Ogden’s subdivision of lot 1, in block 96, in the School Section Addition to Chicago, in Cook county, Illinois, for the term of 99 years from January 1, 1889, for the annual rental of $3,000, payable quar­terly, $750 to be paid on the first days of January, April, July and October of each year of the term.</p>
+              <p id="b146-7" pgmap="146">April 4, 1889, Slosson, lessee, by written instrument of that date, sold and assigned to Warren Springer, appellee, for the expressed consideration of one dollar, his interest in said lease and premises, including a three-story and basement brick building on said prem­ises, which had been sold by the lessors to said Slosson.</p>
+              <p id="b146-8" pgmap="146">July 29, 1897, Warren Springer and his wife, Mar­guerite, executed to John E. Maginnis, described to be “of the city of Boston, county of Suffolk and State of Massachusetts”, a quit-claim deed of all their interest in the premises first above described, for the expressed consideration of $25,000. No mention is made of the lease in the deed. Deed recorded August 26, 1897. August 6, 1897, John E. Maginnis, described as “a bachelor, of the city of Boston”, etc., executed a war­ranty deed to Charles Z. Miller of Chicago, of the said described premises, for the expressed consideration of $100,000. The deed contains no mention of the lease. Deed recorded September 3, 1907.</p>
+              <p id="b147-3" pgmap="147">August 6, 1907, the same day the deed was executed to Miller, he, Miller, executed to the Chicago Title and Trust Company a warranty deed, in trust, to secure the payment of certain notes, mentioned in the deed as fol­lows: “Whereas, the grantor, Charles Z. Miller, is justly indebted upon his 83 principal promissory notes, bearing even date herewith, payable to the order of himself and by him endorsed and delivered, eleven for five hundred (500) dollars each and ten for seven hun­dred and fifty (750) dollars each, due one year after date, and sixty-two for one thousand (1,000) dollars each due fifteen (15) months after date. All of said notes bearing interest at six per cent per annum”. No mention is made of the lease in this deed. The trust deed was recorded September 11,1907.</p>
+              <p id="b147-4" pgmap="147">September 28, 1897, an application was made to the Chicago Title and Trust Company for a guaranty pol­icy of $20,000 on the premises by the Lamar Shoe Com­pany, which is the name of the shoe store in which Maginnis was engaged in business. The application stated that the improvement and leasehold were worth $125,000. A guaranty policy was issued on the appli­cation for $20,000 and was delivered to the defendant.</p>
+              <p id="b147-5" pgmap="147">All the promissory notes mentioned were made and endorsed by Miller, as stated in the trust deed, and four of them were put in evidence by the plaintiff— three of the $1,000 notes and one of the $500 notes. En­dorsed on each note is the following -.</p>
+              <p id="b147-6" pgmap="147">“Trustee's Certificate.</p>
+              <p id="b147-7" pgmap="147">This is to certify that this note is one of the follow­ing eighty-three notes for the aggregate amount of seventy-five thousand dollars: Eleven notes for five hundred dollars each, ten notes for seven hundred and fifty dollars each, sixty-two notes for one thousand dollars each; secured by trust deed to Chicago Title and Trust Company, trustee, recorded in the Record­er’s office of Cook county, Ill., as Doc. No. 2,586,840.</p>
+              <p id="b147-8" pgmap="147">Chicago Title &amp; Trust Compaby,</p>
+              <p id="b147-9" pgmap="147">By Wm. O. Niblack, Secy.”</p>
+              <p id="b148-4" pgmap="148">Maginnis is a brother-in-law of the defendant Springer, and at the time of the transactions in ques­tion was engaged in the shoe business, in a store on the premises in question known as 188 East Monroe street.</p>
+              <p id="b148-5" pgmap="148(327) 149(370) 150(383) 151(307)">Charles Z. Miller testified, in substance, that he paid nothing for the property, and was never able to pay for it at any time; that the deed from Maginnis to him was never delivered to him; that Maginnis took it away and recorded it or that Springer recorded it; that Springer managed the whole business. He says Springer came to his office and said he was agent for John Maginnis, who was the owner of the property, and he, as such agent, wished to sell the property to him; that the building was rented at $9,000 per annum, and that they could easily get $100,000 for the prop­erty, and that they, Springer and witness, could put a mortgage for $75,000 on it and would have $25,000 to divide. Miller also testified that he knew nothing of the leasehold and did not learn of it until two or three weeks after he executed the trust deed and notes. He says that Springer gave him $500 for signing a bond for Maginnis relating to some coal lands in Indiana, and thinks that Springer gave him a check for the money. The witness had no property in his own name and was substantially impecunious, and it is a fair and legitimate inference that Springer, who, as the witness says, “managed the whole business”, gave him the $500 for signing the trust deed and the notes. At the time the promissory notes secured by the trust deed were ready for negotiation, Gertrude A. Kuechle and her husband were living in a flat at 4727 Lawrence avenue, in the city of Chicago. The evidence tends to prove that appellant was then the equitable owner of an undivided interest in a number of lots in Council Bluffs, Iowa, for which her husband and Richard E. Turner had paid $18,000, each of them paying $9,000. The title was taken in Turner’s name and the plaintiff’s husband, Edward J. Kuechle, had transferred his in­terest to the plaintiff. There was an encumbrance of $3,500 on the property. The plaintiff also owned a piece of ground, 36 acres, with a house on it, in Mer­rill, Lincoln county, Wisconsin, which was encumbered by a trust deed to secure the payment of $3,500, evi­denced by promissory notes. The plaintiff had as­sumed this encumbrance. She, by her husband, who acted as her agent, had listed the property for sale with one Silver, a real estate broker, well known to Springer, as will hereafter appear. Springer called at the plaintiff’s residence in September, 1897, about eight o’clock in the evening, plaintiff and her husband being present, and stated that he had been offered a trade for the flat building in which they were living, and had come to look it over, which he did, found num­erous faults with it, said he would not trade for it, and asked plaintiff and her husband if they had not something to sell, when plaintiff’s husband said they had several pieces of property, but wanted most to sell the Merrill, Wisconsin, property, as they had to ob­tain $3,700 or $4,000 in money in a very short time, to save some property at Council Bluffs, Iowa. Springer said he had some splendid farms in Illinois and Indi­ana, and asked plaintiff’s husband to come to his of­fice that night and they could make a trade. This was declined, and the next morning plaintiff’s husband, by appointment, called at Springer’s office, with photo­graphs of the Wisconsin property. The interview was without result. Edward J. Kuechle had never met Springer and there is no evidence that plaintiff had ever met him, before the evening he called at their flat. October 5, 1897, was the next time that Mr. Kuechle met Springer. He was walking on Monroe street and Springer hailed him from a buggy in which he was riding, and asked him to get in the buggy, say­ing he wished to talk with him. Springer then told him that Ms rich friend, a shoe merchant, whose shoe store was at 188 Monroe street, had recently sold that braid­ing and had taken a series of mortgage notes for $75,000, and that he, Springer, could get a trade for him, Kuechle, on part of the notes,, and that he could trade notes for the Merrill property. Springer also said that the building had been traded for $100,000, and was bringing $9,000 ground rent, and that the notes were good, dollar for dollar. Springer then left Mr. Kuechle in the buggy, went into the office of the Chicago Title &amp; Trust Company, and returned and took Mr. Kuechle to Maginnis, at the shoe store, who agreed to trade notes for the Merrill property if Springer would go to see the property and would say it was all right. They then got into the buggy and Springer asked Mr. Kuechle how much commission he would give him if he would put the deal through, and named $500 as the sum he would charge; but, on Kuechle’s demurring, said he would make it $300, and also said he could handle the whole thing himself, and that he would put it through. Mr. Kuechle said he had to have the cash on the notes; that the mortgage on the Council Bluffs property would be due October 12th, and that he had to have the money, and on Springer saying he would take him around, he said he would not go with him unless he could get cash on the notes. Springer then took Kuechle to the office of B. H. Silver and introduced him to Silver and a Mr. Baddeaux. Sil­ver said the notes were good and could be cashed read­ily, and said to Baddeaux, “You have got a party who will cash these notes, haven’t you?” and Baddeaux said “Yes”, and that he would have the party at Silver’s office at two o’clock. Kuechle returned to Silver’s of­fice at two o’clock and found Silver and Baddeaux there, and after waiting a while he became impatient and asked Baddeaux why he did not produce his party, when Baddeaux left the office and returned with a Mr. McKinnon, who was introduced to Kuechle as repre­senting the Methodist Church fund, and who said they had about $400,000 to loan, and that they were looking-­for those kinds of loans, especially anything guaran­teed by the Chicago Title &amp; Trust Co., and that he, Me­Kinnon, was ready to cash the notes then and there and give a check for them, when Knechle said he had not the notes yet, bnt he would make arrangements to go to Merrill that night, and on his return would want Mc-­Kinnon to cash the notes, and McKinnon said, “All right”, and that he would charge 2 per cent, for cash­ing them, which Kuechle said he was willing to pay. Silver said he would charge something for bringing them together, and Kuechle said “All right.” After this interview Kuechle met Springer and told him he was anxious to close the matter up, that he had to have the money by October 12th to pay on the Council Bluffs property, or he would lose the property. An ar­rangement was made between them to meet at the office of a Mr. Gemmill at six o’clock that evening, Kuechle to bring his abstract of title with him, and Kuechle met Springer at Gemmill’s office at that time and'gave the abstract to him. Gemmill then drafted a deed of the Merrill property, which was given to Kuechle, who took it to his house and he and his wife signed it and acknowledged it before a notary public. The same evening Springer and Kuechle went to the Chicago, Milwaukee &amp; St. Paul depot to take a train for Wis­consin, and while waiting for the train Springer pro­duced a typewritten agreement, which he asked Kuechle to sign before he, Springer, would go with him to Wis­consin. Kuechle, while objecting that the document shown to him was not what had been agreed on, said, “Mr. Springer, I haven’t got time to go into other deals now. I will have to sign this, and we will go to Merrill”, and then signed the document, which is as follows:</p>
+              <p id="b151-4" pgmap="151(67) 152(10)">“I propose to sell your principal, John E. McGinnis, my property at Merrill, Wisconsin, subject to $3,600, in even exchange for $4,000 worth, face value, of trust deed notes, signed by Charles Z. Miller, and payable to the order of himself and by him endorsed, secured on the premises 188 East Monroe street, Chicago, the deed to my said property to run to said John E. Me­Ginnis, your principal, and the present holder of said notes.</p>
+              <p id="b152-5" pgmap="152">In consideration of your affecting said trade for me, I agree to pay your expenses in going to Merrill, Wis­consin and viewing the property and returning to Chi­cago, provided the deal is consummated, and a further cash commission of $300, and to secure the payment of such commission and expenses, I agree that you may retain, until the said • commissions are paid one note for $500 on the said $4,000 of said trust deed notes, provided that if the said trade is not consummated, you are to pay your own expenses and no commission whatever to be paid. The papers to be exchanged at Merrill, Wisconsin, if the said trade is made.</p>
+              <p id="b152-6" pgmap="152">(Signed) E. J. Kuechle,</p>
+              <p id="b152-7" pgmap="152">John E. McGinnis</p>
+              <p id="AHF" pgmap="152">By Warren Springer, Agent”.</p>
+              <p id="b152-8" pgmap="152(222) 153(63)">Springer and Kuechle then went to Merrill, where the former saw the property and said he was ready to trade, and Kuechle gave him the deed and he gave Kuechle the four notes which were put in evidence-­three for $1,000 each and one for $500—and they both took the evening train for Chicago. The deed is a war­ranty deed from Gertrude A. Kuechle and her hus­band, Edward J. Kuechle, to John E. Maginnis of the Merrill property, by legal description, subject to an encumbrance of $3,500 and interest. It is dated Oc­tober 5, 1897, and was recorded October 6, 1897, at 11:30 o’clock a. m. Mr. Kuechle arrived in Chicago October 6th at six o’clock in the morning, and went immediately to his residence, and before he had finished his breakfast Silver came to his residence and asked him if the trade had gone through, and Kuechle told him it had, and that he had the notes and would come to his office, which he did, and there saw Silver and asked him to produce his money, in order for him, Kuechle, to get the money on the notes. Silver said Baddeaux was the financial man and Kuechle would have to do business with him. He saw Baddeaux, who pretended that he would have to see Springer before he could do anything. Kuechle then saw McKinnon, who said he would not cash the notes, that it appeared that they were secured on the leasehold and not on the fee. Kuechle testified, without contradiction, that this was the first time he heard anything about a lease­hold. Kuechle applied to a number of other persons to sell the notes, but without success.</p>
+              <p id="b153-4" pgmap="153">January 20, 1898, Gertrude A. Kuechle and her hus­band, Edward J. Kuechle, commenced suit in the Cir­cuit Court of Lincoln county, Wisconsin, to procure the cancellation of the deed from plaintiff and her hus­band to John E.Maginnis, making defendants John E. Maginnis and wife and Warren Springer and wife, and such proceedings were had in said suit that, Sep­tember 24, 1898, at the September term 1898 of the court, the court decreed that the said deed " be can­celled, annulled and set aside A</p>
+              <p id="b153-5" pgmap="153">The evidence of the defendant, Springer, on the trial of this cause, consisted of his own testimony, a tran­script of the proceedings in the Wisconsin court above referred to, and a section of a Wisconsin statute, fixing one year as the time for redemption from any sale of lands sold in conformity with the provisions of the chapter of which the section is a part. Springer, in his testimony, did not deny the fraud charged in the declaration, nor did he produce any evidence in con­tradiction of it.</p>
+              <opinion type="majority">
+                <author id="b153-8" pgmap="153">Mr. Presidihg Justice Adams</author>
+                <p id="AhY" pgmap="153">delivered the opinion of the court.</p>
+                <p id="b153-9" pgmap="153(52) 154(43)">The evidence in this case discloses a deliberate, pre­meditated, malicious and cunningly devised scheme, by the defendant Springer and his confederates, to de­fraud, by means of the worthless notes of an insolvent person, unsecured by anything of value, any person whom they could induce to purchase the notes or take them in payment for anything of value, and that the plaintiff fell a victim to this scheme. The fraud, be­sides being proved by the plaintiff’s evidence, is im­pliedly admitted by the defendant’s failure to produce any evidence in contradiction of it.</p>
+                <p id="b154-5" pgmap="154">The chief contention of appellee’s counsel is that the proceedings and decree of the Wisconsin court, in which the deed from plaintiff and her husband to .John E. Maginnis was cancelled, is a bar to the present suit. Counsel contend that the prosecution of that suit by the plaintiff to a final decree was a rescission of the contract between her and John E. Maginnis, and pre­cludes her from maintaining the present suit. Whether this contention can be sustained depends on the facts. What are the facts and the relation between the par­ties 1 The plaintiff in the present suit sues the defend­ant, Springer, for damages for his fraud, resulting in injury to her. Springer was not a party to the agree­ment for the deed from plaintiff to Maginnis, nor is he a party to the deed. He has no legal interest in either of those instruments. The sole object of the Wisconsin suit was the cancellation of the deed. No relief was sought or granted as against Springer. The only relief granted was the cancellation of the deed.' Springer, having no legal interest in the subject-mat­ter of the suit, was not a necessary party to the suit.</p>
+                <p id="b154-6" pgmap="154">In Simpson Brick Co. v. Wormley, 61 Ill. App. 460, the suit was against Wormley and two others, and pleas were filed for all the defendants, but were sub­sequently withdrawn as to all defendants except Worm­ley, and the trial proceeded to judgment against Worm­ley without further, action against them. A reversal was sought on the ground that there should have been a rule on the other defendants to plead and a default as against them. The court said: “The evidence shows that no one but the defendant Wormley had any interest in the subject matter of the suit, and he was the only necessary party” (Ib. 463), and the cause was adjudged as if Wormley had been the only defendant.</p>
+                <p id="b155-3" pgmap="155">“On a written agreement the parties can only be sued in the manner in which they have made them­selves liable”. Barbour on Parties to Actions, p. 176.</p>
+                <p id="b155-4" pgmap="155">The question, therefore, is whether plaintiff, by bringing the Wisconsin suit, to which Springer was not a necessary party, is precluded from maintaining the present action. For the purpose of the argument Springer is to be regarded as if not made a party to the Wisconsin suit. The doctrine of election between inconsistent remedies, on which defendant’s counsel rely, applies solely to the parties to a contract, as, for instance, where there has been a breach of a contract by one of the parties to the contract. It has no appli­cation as between one of the parties to a contract and a third person, a stranger to the contract.</p>
+                <p id="b155-5" pgmap="155">In Nash v. Minn. Title Ins. &amp; Trust Go., 163 Mass. 574, the court say: “In rescinding a contract, and in enforcing rights growing out of such rescission, one would expect to look only to the other party to the contract. The nature and effect of such rescission are such that they can have no consequences except as against the other party to the contract”. In that case the plaintiff had purchased certain bonds of one Davis, induced thereto by alleged fraudulent representations of the defendant corporation, and, after rescinding the contract between him and Davis, he brought suit against-the corporation for the fraud. In respect to this, the court say: “We do not think the plaintiff’s rescission of the contract, on account of the fraud, de­feats their right to recover their damges from a third party, so long as they have failed to obtain satisfac­tion of their injury, either by a restoration or recovery of the consideration, or otherwise”. See, also, Mack v. Latta, 178 N. Y. 525. We are of the opinion that the proceedings and decree in the Wisconsin suit, for the cancellation of plaintiff’s deed to Maginnis, are not a bar to the present action.</p>
+                <p id="b155-6" pgmap="155(19) 156(283)">Counsel for the plaintiff claim that their client is entitled to recover damages for the loss of her Council Bluffs property. In respect to this claim, counsel for defendant say there is no evidence that plaintiff has lost that property; also, that damages in respect to its loss are speculative and too remote. There is cer­tainly no evidence in the record that plaintiff has lost the Council Bluffs property. It is true that evidence was offered, which, if admitted, would have tended to prove that if an encumbrance on that property, to se­cure payment of $3,500, should not be removed by October 12, 1906, the encumbrance might be foreclosed, but there is no evidence that it has been foreclosed. The claim for damages for the alleged loss of the Coun­cil Bluffs property is based on the assumption that if plaintiff had not been induced by the defendant’s fraud to trade for the worthless notes, and had not thus been delayed, she would have obtained the necessary money, by sale of the Wisconsin property, or otherwise, to lift the encumbrance on the Council Bluffs property, and the further assumption that, having obtained the money, she would have used it in payment of the in­debtedness secured by the encumbrance. The utmost that can be said in respect to the claim is, that the 'plaintiff might, perhaps, have obtained the necessary money from another source, and that having obtained it, she might have applied it in payment of the in­debtedness on the property. The damage is too un­certain and remote to be the basis for a verdict for damages. Lamb v. Stone, 11 Pick. 527; Wellington v. Small, 3 Cush. 145, 149; Bradley v. Fuller, 118 Mass. 239; I. B. &amp; W. Ry. Co. v. Birney, 71 Ill. 391.</p>
+                <p id="b156-5" pgmap="156(79) 157(17)">In the last case the court say: “Damages produced by other agencies than those causing the injury, or even by agencies remotely connected with those causing the injury, cannot be awarded as proximate or proper compensation, but only where the injury flows from the wrongful act as its natural concomitant, or as the direct result thereof. Where speculation or conjecture has to be resorted to, for the purpose of determining whether the injury results from the wrongful act or from some other cause, then the rule of law excludes the allowance of damages for such injury”.</p>
+                <p id="b157-4" pgmap="157">The evidence is that the plaintiff relied solely on the sale for cash of the Merrill, Wisconsin, property, to pay the encumbrance of $3,500 and interest on the Council Bluffs property, and, to say the least, it is a matter of grave doubt, from the evidence, whether she could have thus raised the money. Plaintiff acquired her title to the Merrill property by deed from one Andrew Dunning, the sole consideration for which conveyance was the assumption by plaintiff of the payment of $3,500, se­cured by trust deed of the property, and payable December 7, 1906. She paid out no money for the property. Miller, witness called by plaintiff, testified: “Kuechle” (meaning plaintiff’s husband and agent) “said that the Wisconsin property was not very de­sirable.” “I think Kuechle said that the Merrill property was not worth a great deal.” “I think my answer on the other trial that Kuechle said the notes’ were as good as the property in Merrill was correct”. It appears from the record that the said property was sold under a decree of the Wisconsin court, in a suit for the foreclosure of the trust deed, to which plaintiff was a party defendant and appeared and answered, and that the sale was ratified and confirmed by the court December 1, 1900.</p>
+                <p id="b157-5" pgmap="157(124) 158(57)">Plaintiff’s counsel also claim as damages the plaint­iff’s necessary and reasonable expense of prosecuting the suit for the cancellation of her deed to Maginnis and of her agent’s trip to Merrill to show the prop­erty to Springer. The sending or going to Merrill to show the property there to Springer, and the prose­cution of the suit to cancel the deed of that property to Maginnis, on discovery of the fraud, were natural consequences of the fraud, and we perceive no good reason why plaintiff should not recover her necessary and reasonable expenses in so doing. While in the view the trial court took of the cause, it was not neces­sary for the court to pass on the question of damages, and while we do not understand that the court did pass on that question, yet, inasmuch as counsel for the par­ties have discussed the question of damages, and as there must be another trial of the cause, if not settled by the parties, we have thought it expedient to make the foregoing suggestions as to damages.</p>
+                <p id="b158-5" pgmap="158">The judgment will be reversed, and the cause will be remanded for further proceedings not inconsistent with this opinion.</p>
+                <p id="b158-6" pgmap="158">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="145" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.2" BETYPE="IDREF" FILEID="alto_00073_0"/>
+              <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="146" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.2" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.3" BETYPE="IDREF" FILEID="alto_00073_1"/>
+              <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="129" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.2" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+              <area BEGIN="BL_147.11" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="148" ORDERLABEL="130" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.2" BETYPE="IDREF" FILEID="alto_00074_1"/>
+              <area BEGIN="BL_148.3" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.2" BETYPE="IDREF" FILEID="alto_00075_0"/>
+              <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.2" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.3" BETYPE="IDREF" FILEID="alto_00075_1"/>
+              <area BEGIN="BL_150.4" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="151" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jp2_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.3" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.2" BETYPE="IDREF" FILEID="alto_00076_0"/>
+              <area BEGIN="BL_151.4" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="152" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00076_1"/>
+        <fptr FILEID="jp2_00076_1"/>
+        <fptr FILEID="alto_00076_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.2" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.3" BETYPE="IDREF" FILEID="alto_00076_1"/>
+              <area BEGIN="BL_152.4" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="153" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jp2_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.2" BETYPE="IDREF" FILEID="alto_00077_0"/>
+              <area BEGIN="BL_153.4" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="154" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jp2_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.2" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.3" BETYPE="IDREF" FILEID="alto_00077_1"/>
+              <area BEGIN="BL_154.4" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="155" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.2" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.1" BETYPE="IDREF" FILEID="alto_00078_0"/>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.2" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.3" BETYPE="IDREF" FILEID="alto_00078_1"/>
+              <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.2" BETYPE="IDREF" FILEID="alto_00079_0"/>
+              <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.2" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.3" BETYPE="IDREF" FILEID="alto_00079_1"/>
+              <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.12" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            <area BEGIN="BL_154.1" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.9" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.5" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.9" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_153.1" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahn" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.6" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_146.7" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.5" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.6" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.7" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.8" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-3" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.4" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhY" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.10" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            <area BEGIN="BL_153.11" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.9" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.6" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.7" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.7" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.6" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.7" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.5" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.5" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            <area BEGIN="BL_152.1" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-12" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.12" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            <area BEGIN="BL_146.1" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-10" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.10" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-11" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.11" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.7" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.8" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-3" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.9" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.10" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.6" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            <area BEGIN="BL_149.1" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            <area BEGIN="BL_151.1" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHF" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.8" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.10" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.11" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.7" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.8" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.9" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.5" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiH" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.5" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.9" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.8" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

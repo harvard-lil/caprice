@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0102" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Milligan v. E. R. Darlington Lumber Co.">Rebecca Milligan, Appellee, v. E. R. Darlington Lumber Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 518</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00268_1" MIMETYPE="image/tiff" CHECKSUM="1e65e627a8dc79bb55e756690c411514" CHECKSUMTYPE="MD5" SIZE="44862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_1.tif"/>
+      </file>
+      <file ID="tiff_00269_0" MIMETYPE="image/tiff" CHECKSUM="c120ee55e99d2279c70404fd642b1f9b" CHECKSUMTYPE="MD5" SIZE="48606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00269_0.tif"/>
+      </file>
+      <file ID="tiff_00269_1" MIMETYPE="image/tiff" CHECKSUM="c1cc6658ad3b54a0af776efc38b7bbe3" CHECKSUMTYPE="MD5" SIZE="54864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00269_1.tif"/>
+      </file>
+      <file ID="tiff_00270_0" MIMETYPE="image/tiff" CHECKSUM="e140c3ab526448e979379f6e5f387b6f" CHECKSUMTYPE="MD5" SIZE="53394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00270_0.tif"/>
+      </file>
+      <file ID="tiff_00270_1" MIMETYPE="image/tiff" CHECKSUM="e34e52509db07eeea19920d1b01ec368" CHECKSUMTYPE="MD5" SIZE="53214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00270_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00268_1" MIMETYPE="image/jp2" CHECKSUM="34d488fb8d8f43f6d441c691570306cc" CHECKSUMTYPE="MD5" SIZE="2369937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00268_1.jp2"/>
+      </file>
+      <file ID="jp2_00269_0" MIMETYPE="image/jp2" CHECKSUM="3d94d6b1a5cd5da922ca78bdb6ded64c" CHECKSUMTYPE="MD5" SIZE="2432404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00269_0.jp2"/>
+      </file>
+      <file ID="jp2_00269_1" MIMETYPE="image/jp2" CHECKSUM="80de42094bc46efd6d6ab8c93595860f" CHECKSUMTYPE="MD5" SIZE="2425408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00269_1.jp2"/>
+      </file>
+      <file ID="jp2_00270_0" MIMETYPE="image/jp2" CHECKSUM="c182d62218e2f12249c915e3d326fec0" CHECKSUMTYPE="MD5" SIZE="2452695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00270_0.jp2"/>
+      </file>
+      <file ID="jp2_00270_1" MIMETYPE="image/jp2" CHECKSUM="9d0868af1d1f9ebf506c3b63c59d28d9" CHECKSUMTYPE="MD5" SIZE="2423812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00270_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00268_1" MIMETYPE="text/xml" CHECKSUM="b2a93522d0233dd0acc88e6d29ff8161" CHECKSUMTYPE="MD5" SIZE="80322">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00268_1.xml"/>
+      </file>
+      <file ID="alto_00269_0" MIMETYPE="text/xml" CHECKSUM="953fd4001a3764146bd49a6ddb1bde17" CHECKSUMTYPE="MD5" SIZE="88239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00269_0.xml"/>
+      </file>
+      <file ID="alto_00269_1" MIMETYPE="text/xml" CHECKSUM="63790511f9bc66f1afd94a7acf5f1f38" CHECKSUMTYPE="MD5" SIZE="85074">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00269_1.xml"/>
+      </file>
+      <file ID="alto_00270_0" MIMETYPE="text/xml" CHECKSUM="f2dc433e28105877bf94af88d7afdf21" CHECKSUMTYPE="MD5" SIZE="88030">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00270_0.xml"/>
+      </file>
+      <file ID="alto_00270_1" MIMETYPE="text/xml" CHECKSUM="cfe73855e9bbd04499904049d26132e4" CHECKSUMTYPE="MD5" SIZE="86813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00270_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0102" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="522" firstpage="518">
+              <parties id="b536-8" pgmap="536">Rebecca Milligan, Appellee, v. E. R. Darlington Lum­ber Company, Appellant.</parties>
+              <decisiondate id="A4k" pgmap="537">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b537-5" pgmap="537">J. C. &amp; W. B. McBride, for appellant.</attorneys>
+              <attorneys id="b537-6" pgmap="537">Hogan &amp; Wallace, for appellee.</attorneys>
+              <summary id="b537-4" pgmap="537">Assumpsit. Appeal from the Circuit Court of Christian county; the Hon. Samuel L. Dwight, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Abp" pgmap="537">Affirmed.</disposition>
+              <headnotes id="b536-9" pgmap="536">1. Landlord and tenant—when partnership accepts lease. The conduct of a partnership under and by virtue of the provisions of a lease constitutes an acceptance by such partnership of the lease and such partnership becomes bound by the provisions thereof not­withstanding it has not signed the same.</headnotes>
+              <headnotes id="b536-10" pgmap="536">2. Landlord and tenant—character of provision of assignment without former’s consent. A provision in a lease that the same shall not be assigned without the written consent of the lessor is a provision for the benefit of the lessor only and the failure of the parties to obtain such consent does not render the assignment void.</headnotes>
+              <headnotes id="b536-11" pgmap="536">3. Landlord and tenant—when latter obligated to pay special assessments. A lease providing that the tenant shall pay all taxes and “assessments” obligates such tenant to pay special assessments.</headnotes>
+              <headnotes id="b536-12" pgmap="536(8) 537(42)">4. Local improvements—when proceeding not subject to collat­eral attack. A proceeding to levy a special assessment cannot be attacked in an action by the owner of the property assessed against his tenant to compel such tenant to pay an assessment which he has assumed by the lease to pay.</headnotes>
+              <opinion type="majority">
+                <author id="b537-7" pgmap="537">Mr. Justice Baume</author>
+                <p id="Ae" pgmap="537">delivered the opinion' of the court.</p>
+                <p id="b537-8" pgmap="537(252) 538(258)">On February 1, 1902, appellee, being the owner of lot 7 in block 16 in the City of Taylorville, executed a written lease of said premises to E. R. Darlington &amp; Co. for the term of five years “for the purpose of carrying on the business of a lumber yard.” The lease provided that the lessees should pay to appel­lee as rent for said premises the sum of $75 annually and “all taxes and assessments that may be levied and assessed on said premises for the year 1902 and all subsequent years of the term, until they shall have paid the taxes and assessments thereon for five years, and that they will each year of the term and by the 15th day of March of each year of the term deliver to the said party of the first part at her resi­dence in Taylorville, Illinois, a proper receipt or re­ceipts for the taxes and assessments levied on said premises for the preceding rental year.” The sev­eral members of the copartnership, named as lessees in the lease, were non-residents of the state and did not sign the lease, but the same was signed upon their behalf by one Hagener, the local agent and manager for said co-partnership at Taylorville. From the date of the execution of the lease until some time in 1904, the co-partnership occupied the leased premises under said lease, and paid as rent therefor $75 annually, and the general taxes levied against the same. In 1904 the members of said co-partnership became incorpor­ated as the Darlington Lumber Co., which thereafter continued to occupy the leased premises as the suc­cessor or assignee of said partnership, and paid to appellee as rent for said premises the sum of $75 per year and the general taxes levied thereon. In 1903 the city council of the city of Taylorville passed an ordinance providing for the paving of certain streets abutting upon the leased premises, and for the cost of such improvement to be paid for by special taxation levied upon the property abutting said streets. In pursuance of such ordinance the improve­ment provided for thereby was made and such further proceedings were had whereby a judgment of con­firmation was entered by the county court for the amount of special tax assessed against the leased premises, and a levy was made for the payment thereof in installments. Appellant refused to pay any of the installments of the special tax so levied against the premises and appellee having paid the installments payable in 1904 and 1905, together with certain pen­alties and costs accrued thereon, brought this suit against Evans R. Darlington, James G. Berryhill and Samuel Berryhill, partners, doing business as E. R. Darlington &amp; Company, and the E. R. Darlington Lumber Co., a corporation, to recover the amount so paid by her. Service was had upon the corporation' only, and a trial of the cause by the court without a jury resulted in a finding and judgment against said corporation, appellant here, for $258.72.</p>
+                <p id="b538-5" pgmap="538(85) 539(124)">It is not necessary to determine whether Hagener, the local agent and manager of E. R. Darlington &amp; Co., had either express or implied authority to exe­cute the lease for said partnership as a party thereto. It is uncontroverted that the partnership of E. R. Darlington &amp; Co. entered into possession of the prem­ises under and by virtue of the lease in question, and that said partnership paid the sum of $75 per year and the general taxes levied against the leased premises as rent therefor, during the time it occupied the same and until the appellant corporation was organized. The liability to pay the general taxes levied against the leased premises as rent therefor could only arise under and by virtue of the lease, and the payment of the taxes by the partnership is sufficient to show knowl­edge on its part of the provisions of the lease. The conduct of the partnership under and by virtue of the provisions of the lease constituted an acceptance by said partnership of the lease, and it became bound by the provisions thereof notwithstanding the fact that it had not signed the instrument. McFarlane v. Will­iams, 107 Ill. 33; Henderson v. Virden Coal Co., 78 Ill. App. 437.</p>
+                <p id="b539-4" pgmap="539">The provision in the lease that the same should not be assigned without the written consent of the lessor is a provision for the benefit of the lessor only and the failure of the parties to obtain such consent did not render the assignment from the partnership to the corporation void. Webster v. Nichols, 104 Ill. 160; Livingston County Telephone Co. v. Herzberg, 118 Ill. App. 599. The obligation of the appellant corporation to comply with the provisions of the lease rests upon the same foundation as does the liability of the partner­ship, viz., acceptance of the lease and payment of rent thereunder to appellee.</p>
+                <p id="b539-5" pgmap="539(128) 540(213)">It must be conceded that if the lease in question merely provided that the lessee should pay the taxes assessed and levied against the leased premises such provision would not create a liability upon the part of the lessee to pay any special assessments or special taxes assessed and levied against said premises. I. C. R. R. Co. v. City of Decatur, 126 Ill. 92; DeClercq v. Barber Paving Co., 167 Ill. 215. In the cases cited it was held that there is a clear distinction between a tax and a special assessment; that a tax is imposed for a general or public governmental purpose and lessens the value of the property against which it is made a charge, while a special assessment is levied for a spe­cial purpose involving the improvement of the prop­erty against which it is levied and thereby adding to its value; that an exemption from taxation did not consti­tute an exemption from special assessments, and that an obligation to pay the taxes levied against certain premises did not create an obligation to pay special assessments levied against the same. By the terms of the lease here involved the lessee agreed to pay all taxes and assessments which might be levied and as­sessed on the premises during the term of the lease. The word “assessments” as used in the lease, whether it be given its plain, ordinary and popular meaning or its technical meaning, as a legal term, .must be held to include all charges which might be imposed upon the premises by special assessment or special taxa­tion for purposes of local improvements in contradis­tinction to burdens imposed upon the premises for governmental purposes by general taxation, as ex­pressed by the word “taxes.” Stephani v. Cath. Bish., 2 Ill. App. 249. The use of both words in the lease clearly indicates that it was within the contemplation of the parties that the lessee should pay all charges which might be imposed upon the premises for either of the purposes indicated.</p>
+                <p id="b540-5" pgmap="540">It is finally urged on behalf of appellant that the ordinance under which the special tax here sought to be collected was levied was defective in that it did not fix the grade for the improvement, and that if appel­lee had filed objection to the confirmation of the special tax upon that ground such obligation would have been sustained and the payment thereof avoided. It is a sufficient answer to this contention to say that the reg­ularity of the proceedings whereby the assessment was confirmed and judgment of sale was rendered is not open to collateral attack in this suit.</p>
+                <p id="b540-6" pgmap="540">The rulings of the trial court upon the propositions submitted to be held as the law applicable to the case were in accordance with the views here expressed and the judgment will be affirmed.</p>
+                <p id="b540-7" pgmap="540">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="536" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00268_1"/>
+        <fptr FILEID="jp2_00268_1"/>
+        <fptr FILEID="alto_00268_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.2" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.3" BETYPE="IDREF" FILEID="alto_00268_1"/>
+              <area BEGIN="BL_536.4" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="537" ORDERLABEL="519" TYPE="page">
+        <fptr FILEID="tiff_00269_0"/>
+        <fptr FILEID="jp2_00269_0"/>
+        <fptr FILEID="alto_00269_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.3" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.2" BETYPE="IDREF" FILEID="alto_00269_0"/>
+              <area BEGIN="BL_537.4" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="538" ORDERLABEL="520" TYPE="page">
+        <fptr FILEID="tiff_00269_1"/>
+        <fptr FILEID="jp2_00269_1"/>
+        <fptr FILEID="alto_00269_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.2" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.3" BETYPE="IDREF" FILEID="alto_00269_1"/>
+              <area BEGIN="BL_538.4" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="539" ORDERLABEL="521" TYPE="page">
+        <fptr FILEID="tiff_00270_0"/>
+        <fptr FILEID="jp2_00270_0"/>
+        <fptr FILEID="alto_00270_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_539.3" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_539.2" BETYPE="IDREF" FILEID="alto_00270_0"/>
+              <area BEGIN="BL_539.4" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="540" ORDERLABEL="522" TYPE="page">
+        <fptr FILEID="tiff_00270_1"/>
+        <fptr FILEID="jp2_00270_1"/>
+        <fptr FILEID="alto_00270_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_540.2" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_540.3" BETYPE="IDREF" FILEID="alto_00270_1"/>
+              <area BEGIN="BL_540.4" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b538-5" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_538.5" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            <area BEGIN="BL_539.1" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-6" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.6" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-5" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.6" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            <area BEGIN="BL_540.1" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-4" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.5" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-5" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.5" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-7" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.7" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.12" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_537.13" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-10" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.10" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-11" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.11" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-12" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.12" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_537.1" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-8" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.14" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_538.1" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-5" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.9" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4k" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.8" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abp" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.7" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-4" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.5" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_537.6" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-7" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.11" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-6" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.10" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-8" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.8" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-9" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.9" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

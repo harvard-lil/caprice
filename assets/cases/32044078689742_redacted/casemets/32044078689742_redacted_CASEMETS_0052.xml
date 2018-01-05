@@ -1,0 +1,1188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0052" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="McDavitt v. South Side Elevated Railroad">Ruth J. McDavitt, Appellee, v. South Side Elevated Railroad Company, Appellant</name>
+          <docketnumber>Gen. No. 14,103</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 362</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00190_1" MIMETYPE="image/tiff" CHECKSUM="387bd177eda646feb534535b9311217e" CHECKSUMTYPE="MD5" SIZE="47864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00190_1.tif"/>
+      </file>
+      <file ID="tiff_00191_0" MIMETYPE="image/tiff" CHECKSUM="519bbe9f9ac2e056e90b520345f883d9" CHECKSUMTYPE="MD5" SIZE="48382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00191_0.tif"/>
+      </file>
+      <file ID="tiff_00191_1" MIMETYPE="image/tiff" CHECKSUM="d7fb1d3101ebe107bc4a5ec8601c626e" CHECKSUMTYPE="MD5" SIZE="52668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00191_1.tif"/>
+      </file>
+      <file ID="tiff_00192_0" MIMETYPE="image/tiff" CHECKSUM="ffad49000fd4ddb2f7aa282b3ed1e2e4" CHECKSUMTYPE="MD5" SIZE="52154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00192_0.tif"/>
+      </file>
+      <file ID="tiff_00192_1" MIMETYPE="image/tiff" CHECKSUM="9588a63dc7322a39aa0526d3b8c02fe4" CHECKSUMTYPE="MD5" SIZE="52470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00192_1.tif"/>
+      </file>
+      <file ID="tiff_00193_0" MIMETYPE="image/tiff" CHECKSUM="865184e1afed8bec247a02d7bb85713b" CHECKSUMTYPE="MD5" SIZE="52544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00193_0.tif"/>
+      </file>
+      <file ID="tiff_00193_1" MIMETYPE="image/tiff" CHECKSUM="de732d1fbbb26f3acecccfa795a0d0f8" CHECKSUMTYPE="MD5" SIZE="52088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00193_1.tif"/>
+      </file>
+      <file ID="tiff_00194_0" MIMETYPE="image/tiff" CHECKSUM="4506763ca6855425e6f53b4b826bc23f" CHECKSUMTYPE="MD5" SIZE="50678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00194_0.tif"/>
+      </file>
+      <file ID="tiff_00194_1" MIMETYPE="image/tiff" CHECKSUM="913f1d74b5527dedfb59208e961b2dee" CHECKSUMTYPE="MD5" SIZE="50902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00194_1.tif"/>
+      </file>
+      <file ID="tiff_00195_0" MIMETYPE="image/tiff" CHECKSUM="01b2e4846805caf79e078ee9cfcff162" CHECKSUMTYPE="MD5" SIZE="54274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00195_0.tif"/>
+      </file>
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="0cec08e461b0e181a2a1c25f169376cc" CHECKSUMTYPE="MD5" SIZE="54054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00195_1.tif"/>
+      </file>
+      <file ID="tiff_00196_0" MIMETYPE="image/tiff" CHECKSUM="4eb3a918528cffc17c6c36f123113b3a" CHECKSUMTYPE="MD5" SIZE="52552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00196_0.tif"/>
+      </file>
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="6b0bbde4bd0b203313aca899b9a8577d" CHECKSUMTYPE="MD5" SIZE="51206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00196_1.tif"/>
+      </file>
+      <file ID="tiff_00197_0" MIMETYPE="image/tiff" CHECKSUM="a7dcf423a1da00bb3f4b5ff21af96b06" CHECKSUMTYPE="MD5" SIZE="38960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00190_1" MIMETYPE="image/jp2" CHECKSUM="f86863ba449e1d478090dd402196c1fa" CHECKSUMTYPE="MD5" SIZE="2364889">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00190_1.jp2"/>
+      </file>
+      <file ID="jp2_00191_0" MIMETYPE="image/jp2" CHECKSUM="17225c31508668bffe4067c4ed37124b" CHECKSUMTYPE="MD5" SIZE="2432637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00191_0.jp2"/>
+      </file>
+      <file ID="jp2_00191_1" MIMETYPE="image/jp2" CHECKSUM="7c38fe8cfd2e80b8f1672e11cbd09322" CHECKSUMTYPE="MD5" SIZE="2438622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00191_1.jp2"/>
+      </file>
+      <file ID="jp2_00192_0" MIMETYPE="image/jp2" CHECKSUM="83d03651ff780a0eb796a1837543aaf6" CHECKSUMTYPE="MD5" SIZE="2483477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00192_0.jp2"/>
+      </file>
+      <file ID="jp2_00192_1" MIMETYPE="image/jp2" CHECKSUM="facba87a0147bf00f5d8e22cd329072b" CHECKSUMTYPE="MD5" SIZE="2416245">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00192_1.jp2"/>
+      </file>
+      <file ID="jp2_00193_0" MIMETYPE="image/jp2" CHECKSUM="83b69fcbbd65fc081efd2ae2247c8bcf" CHECKSUMTYPE="MD5" SIZE="2470204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00193_0.jp2"/>
+      </file>
+      <file ID="jp2_00193_1" MIMETYPE="image/jp2" CHECKSUM="dd4ac4b88622ef65300054a7de7f6a80" CHECKSUMTYPE="MD5" SIZE="2435394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00193_1.jp2"/>
+      </file>
+      <file ID="jp2_00194_0" MIMETYPE="image/jp2" CHECKSUM="72d27ea23f290cc8ca67c4115ad22c44" CHECKSUMTYPE="MD5" SIZE="2465714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00194_0.jp2"/>
+      </file>
+      <file ID="jp2_00194_1" MIMETYPE="image/jp2" CHECKSUM="ad43ef6c357b972d3ef7790c553ffd6b" CHECKSUMTYPE="MD5" SIZE="2418660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00194_1.jp2"/>
+      </file>
+      <file ID="jp2_00195_0" MIMETYPE="image/jp2" CHECKSUM="c0d1c6befde0ee8722bc235fd2fd95ae" CHECKSUMTYPE="MD5" SIZE="2488447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00195_0.jp2"/>
+      </file>
+      <file ID="jp2_00195_1" MIMETYPE="image/jp2" CHECKSUM="af26582a9e1930110d364998d56b063a" CHECKSUMTYPE="MD5" SIZE="2447871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00195_1.jp2"/>
+      </file>
+      <file ID="jp2_00196_0" MIMETYPE="image/jp2" CHECKSUM="05849d6a119912a39d2cb698251a8d52" CHECKSUMTYPE="MD5" SIZE="2469918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00196_0.jp2"/>
+      </file>
+      <file ID="jp2_00196_1" MIMETYPE="image/jp2" CHECKSUM="d5b879b71e8ab5cfcba3bbb546878d0c" CHECKSUMTYPE="MD5" SIZE="2420137">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00196_1.jp2"/>
+      </file>
+      <file ID="jp2_00197_0" MIMETYPE="image/jp2" CHECKSUM="d7e0e33b7d886d674787f1cd6159b16c" CHECKSUMTYPE="MD5" SIZE="2366609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00197_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00190_1" MIMETYPE="text/xml" CHECKSUM="cb17cea67b7eda7d3a8ff4784156b492" CHECKSUMTYPE="MD5" SIZE="88449">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00190_1.xml"/>
+      </file>
+      <file ID="alto_00191_0" MIMETYPE="text/xml" CHECKSUM="93883ee029a496b2f0495c324074954e" CHECKSUMTYPE="MD5" SIZE="78844">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00191_0.xml"/>
+      </file>
+      <file ID="alto_00191_1" MIMETYPE="text/xml" CHECKSUM="9d310f5401a06b353daee7c35c95fadb" CHECKSUMTYPE="MD5" SIZE="86370">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00191_1.xml"/>
+      </file>
+      <file ID="alto_00192_0" MIMETYPE="text/xml" CHECKSUM="1e3e403e1934f91b8766a77be81febd3" CHECKSUMTYPE="MD5" SIZE="89294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00192_0.xml"/>
+      </file>
+      <file ID="alto_00192_1" MIMETYPE="text/xml" CHECKSUM="a44b3b81f13fd14437c93fad99ab703f" CHECKSUMTYPE="MD5" SIZE="86348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00192_1.xml"/>
+      </file>
+      <file ID="alto_00193_0" MIMETYPE="text/xml" CHECKSUM="db084a365cc86e5deb251c4e0be14cb9" CHECKSUMTYPE="MD5" SIZE="87738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00193_0.xml"/>
+      </file>
+      <file ID="alto_00193_1" MIMETYPE="text/xml" CHECKSUM="7ae931d8b80b77b6d7a5a6de50b19d48" CHECKSUMTYPE="MD5" SIZE="84158">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00193_1.xml"/>
+      </file>
+      <file ID="alto_00194_0" MIMETYPE="text/xml" CHECKSUM="763a848b1abd6fe5638ef15fbb8277d2" CHECKSUMTYPE="MD5" SIZE="88972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00194_0.xml"/>
+      </file>
+      <file ID="alto_00194_1" MIMETYPE="text/xml" CHECKSUM="1755ea56b9b5030f7d1925c772fe234b" CHECKSUMTYPE="MD5" SIZE="84950">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00194_1.xml"/>
+      </file>
+      <file ID="alto_00195_0" MIMETYPE="text/xml" CHECKSUM="bdc98d2d7f6b7e17a868268a6cc59226" CHECKSUMTYPE="MD5" SIZE="85702">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00195_0.xml"/>
+      </file>
+      <file ID="alto_00195_1" MIMETYPE="text/xml" CHECKSUM="2b2679ac5bb09abe550fe94985a01253" CHECKSUMTYPE="MD5" SIZE="85215">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00195_1.xml"/>
+      </file>
+      <file ID="alto_00196_0" MIMETYPE="text/xml" CHECKSUM="2e0efa2d846afcff9d9b1a31ac1a875e" CHECKSUMTYPE="MD5" SIZE="85539">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00196_0.xml"/>
+      </file>
+      <file ID="alto_00196_1" MIMETYPE="text/xml" CHECKSUM="ab27a3b7117ce4f3d78ab23b623d865b" CHECKSUMTYPE="MD5" SIZE="88228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00196_1.xml"/>
+      </file>
+      <file ID="alto_00197_0" MIMETYPE="text/xml" CHECKSUM="ddd418fff96bdfd31d6a16325ee4a569" CHECKSUMTYPE="MD5" SIZE="69597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00197_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="375" firstpage="362">
+              <docketnumber id="b380-5" pgmap="380">Gen. No. 14,103.</docketnumber>
+              <parties id="b380-4" pgmap="380">Ruth J. McDavitt, Appellee, v. South Side Elevated Railroad Company, Appellant.</parties>
+              <decisiondate id="AES" pgmap="380">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b381-6" pgmap="381">Francis W. Walker and William H. Haight, for appellant; Noble B. Judah, of counsel.</attorneys>
+              <attorneys id="b381-7" pgmap="381">Feed H. Atwood, Frank B. Pease, Charles O. Loucks and Harry A. Biossat, for appellee.</attorneys>
+              <summary id="b380-8" pgmap="380">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Arthur H. Chetlain, Judge, pre­siding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="A_Dx" pgmap="380">Reversed and remanded.</disposition>
+              <headnotes id="b380-6" pgmap="380">Trial—what arguments of counsel improper. In an action for personal injuries remarks of counsel in argument referring to medical experts as follows, are inflammatory and improper: “Do you think there is enough evidence bought up at $50 a day, the same as this has been, to divert you attention from the facts of this case and to defeat this claim?" and, referring to a particular doctor, “He gave me the impression of a Judas, who would not come here until he got the $50.” A verdict induced by such lan­guage will not be given the same consideration as is accorded to one obtained by appropriate arguments.</headnotes>
+              <p id="b380-9" pgmap="380">Statement hy the Court. This is an appeal from a judgment of the Superior Court of Cook county for $5,000 against the South Side Elevated Railroad Com­pany, the appellant, in favor of Ruth J. McDavitt, the plaintiff below and appellee here.</p>
+              <p id="b380-10" pgmap="380(147) 381(152)">The judgment was in an action on the case for personal injuries received, as it is alleged, by the plaintiff, Ruth McDavitt, while a passenger in the cars of the defendant, appellant. The gist of the complaint made by the plaintiff against the defend­ant is that the guard in charge of a coach in a train of the defendant, in which the plaintiff was a pas­senger, called out the name of the station at which plaintiff wished to stop, just as the train came to a full stop; that thereupon she, the plaintiff, arose from one of the cross-seats of the coach, and made her way to the door; that while she was between the cross-­seats and the door and opposite the longitudinal seats with which the ends of the car are fitted, and before she had an opportunity to alight, “the defendant then and there carelessly and negligently, without giving said plaintiff any warning of its intention to start said train or coach forward, and while plaintiff was in the act and position aforesaid, and unmindful of de­fendant’s intention, started forward the said train and coach in and upon which plaintiff was then riding as a passenger as aforesaid, whereupon and by rea­son thereof, plaintiff lost her equilibrium and then and there staggered and fell backward with great force and violence to and upon the arm of one of the seats in said coach” (a division between single seats on the longitudinal benches), “by reason of all which said premises, plaintiff received a severe, dangerous and permanent injury to the vertebras of the spine in the region of the coccyx, her nervous system was greatly shocked and permanently impaired and" plaintiff was otherwise severely, dangerously and permanently in­jured both internally and externally”.</p>
+              <p id="b381-4" pgmap="381">The case was duly submitted to a jury and a ver­dict in favor of the plaintiff for $5,000 was rendered. A motion for a new trial based on the claim that the court erred in rulings on evidence and in rulings on instructions, that the arguments to the jury of counsel for the plaintiff were appeals to passion and preju­dice, and that the verdict was against the weight of the evidence and was excessive, was overruled. . A motion in arrest of judgment was also overruled, and judgment and this appeal followed.</p>
+              <p id="b381-5" pgmap="381">In this court the assignments of error cover the points made in the motion for a new trial.</p>
+              <opinion type="majority">
+                <author id="b381-8" pgmap="381">Mr. Justice Brown</author>
+                <p id="AUV" pgmap="381">delivered the opinion of the court.</p>
+                <p id="b381-9" pgmap="381(9) 382(15)">The position of appellant in this ease is princi­pally based on the claim that the verdict is against the weight of the evidence.</p>
+                <p id="b382-5" pgmap="382">It is said, first, that the fall from which the plaint­iff suffered the injuries complained of, obviously could not have taken place as she says. We do not recog­nize this impossibility from the evidence, nor deem that the inferences which counsel for defendant draw from the testimony of the plaintiff, who alone de­scribed the accident, are necessarily correct. Her tes­timony is not altogether precise, but from a careful reading of it, we think the statement of the accident which she meant by her words to make, was possible and not unnatural or remarkable in its nature. Nor does an equally careful perusal of the testimony of Seely, Gfillow and Hopkins convince us that the move­ment of the train which she described and which she specifies as the negligence which renders the defend­ant liable, was an impossible one.</p>
+                <p id="b382-6" pgmap="382">The testimony of Dr. Knudson does impeach the plaintiff’s testimony by tending to show a different statement by her to him of the facts of the accident a fortnight after it occurred—a statement which in its effect would relieve the railroad company from lia­bility. But it was for the jury to say whether this impeachment should be successful. Whether, after it, they should give or refuse credence to the plaint­iff’s testimony, it seems to us for them to decide.</p>
+                <p id="b382-7" pgmap="382">But in another sense and on another phase of the case, we do think the verdict against the weight of the evidence. It is in our opinion, excessive, when the evidence is weighed. We forbear, therefore, inasmuch as the case may come before another jury for another trial, to discuss more particularly or in detail the evi­dence on the accident itself.</p>
+                <p id="b382-8" pgmap="382(46) 383(173)">But the evidence on the character of the injury received by the plaintiff and its ultimate results, de­mands analysis in its bearing on the question of dam­ages. The plaintiff claims that by the accident she so injured herself that immediately she began to suf­fer great physical agony; that after she reached home on the day in question, she immediately was obliged to go to bed and there staid in great pain for a fort­night; that she then applied to Dr. Knudson (whom she had been told was the surgeon for the defendant company), who examined her and made a report to the company, but who did not so far as she remembers, advise any treatment beyond commending and per­haps emphasizing the necessity of the hot applications which Dr. Melendy, a woman physician with whom the plaintiff was living, had already been using. Im­mediately thereafter, she claims, she had acute peri­tonitis, as the result of the accident, which again con­fined her to her bed for a considerable time, gave her great pain and ended in some internal abscess, which six months or so afterward broke and passed its con­tents off through the bowels. But this even, was not the extent of the ill health resulting from the injury, as she claims.</p>
+                <p id="b383-4" pgmap="383">She claimed that at the time of the accident, Octo­ber 15, 1903, she was in good health and able to con­duct difficult and arduous duties in her calling of a trained nurse; that since that time she had not only suffered pain continuously up to the time of the trial in June, 1907, in the region of the sacrum and coccyx, where her injury was received, but also a highly ner­vous condition, culminating in and constituting neu­rasthenia, was the result of the injury. From this neuresthenia it has resulted that she has been unable to do any work of consequence or follow her avocation, although she was able before the accident to earn $25 per week and expenses.</p>
+                <p id="b383-5" pgmap="383">It must be conceded that if the weight of the evi­dence in this record is not clearly against this claim that she makes that these are the results of the ac­cident, the damages are not excessive or out of pro­portion to them. But we cannot agree with the con­tention that it is not.</p>
+                <p id="b383-6" pgmap="383(10) 384(39)">Even if the status of her health before and after the accident be assumed to have been exactly as she described it, the expert medical testimony cannot be ignored as to whether the condition of her health from October, 1903, to June, 1907, was the result of her injuries.</p>
+                <p id="b384-5" pgmap="384">To the change in the condition of her health from that time she herself- testifies, and there was intro­duced in addition the testimony of the female phy­sician, a Dr. Melendy, with whom she resided at the time of the accident, and several lay-witnesses who had known her before and after the accident and no­ticed increased nervousness and restlessness and more or less emaciation after the accident, although they had considered her well and strong before.</p>
+                <p id="b384-6" pgmap="384">But assuming, as we have indicated, this evidence sufficient to justify the belief, implied, as we think, in the verdict of the jury, that prior to the injury and also prior to the attack of peritonitis in the fall and early winter of 1903, to which she swears, she was in good health, there still remains the question to be con­sidered on the evidence—was the peritonitis itself and was the neuresthenia and the condition of the plaint­iff’s health between the winter of 1903 and the time of the trial, the result of the injury she received?</p>
+                <p id="b384-7" pgmap="384(133) 385(66)">The evidence of the change and the dates of it is competent and relevant in the consideration of the question, but it is not conclusive. It must be consid­ered with reference to the testimony of scientific and reputable medical men who were called as witnesses for plaintiff and defendant. We do not agree' with the implications of the argument of counsel for the plaintiff—preserved in the record—that the “the­ories” of reputable physicians are “a lot of stuff”, such as dreams are made of. Scientific facts are facts like other facts, and “theories”, in the sense in which counsel used the word, may be—although of course they are not always—the proven and demonstrable truths of science. And it is not inappropriate here to say that our disinclination to let this judgment stand on the record of the jury trial which has taken place, is very much emphasized and heightened by the lan­guage concerning the medical testimony for the plaint­iff which is complained of by the defendant. It is unnecessary for us to hold that on that alone we should have reversed this judgment, to give to it a certain weight in the disposition of the case.</p>
+                <p id="b385-4" pgmap="385">When the essential question is on the weight of the medical evidence as to the possibility of certain phys­ical results from certain physical causes, appeal to the prejudice and passion of the jury against rep­utable physicians who are obtaining the fees com­monly given to medical experts, by such expressions concerning them in general as, “Do you think there is enough evidence bought up at $50 a day, the same as this has been, to divert your attention from the facts of this case and to defeat this claim?” and concern­ing one doctor in particular, against whom no just cause of suspicion or animadversion appears, “He gave me the impression of a Judas, who would not come here until he got the $50”, may well lessen the hesitation we must feel in disturbing the verdict of a jury because our view seems to differ from theirs as to the weight of the evidence. In determining, that is, the question whether the verdict was clearly against the weight of the evidence, we are justified in giving less consideration to the opinion of a jury appealed to in this way than to one where such inflammatory language has not been used.</p>
+                <p id="b385-5" pgmap="385">In considering and analyzing the medical testimony, we may treat as negligible, for reasons that are ob­vious and unnecessary to detail, that of Dr. Melendy. Plaintiff’s counsel, who offered it, disclaims offering it as that of an expert. They say: ‘ ‘ She was merely a sort of a nurse that had studied medicine and with whom the plaintiff was living. The plaintiff had an­other doctor, Dr. Maxon, who was in Mexico at the time of the trial.”</p>
+                <p id="b385-6" pgmap="385(7) 386(110)">Seven medical witnesses besides Dr. Melendy were examined. Of these Drs. Babcock and Harsha, both called for the plaintiff, had known her and seen her before the accident in October, 1903, and had also examined her after that time and before the trial. Dr. Knudson, called for the defendant, had seen and examined her two weeks after the accident and twice thereafter. Dr. Stowell, called for the defendant, had examined her about a year before the trial and two years or more after the accident, and testified to her then condition. In addition to their specific knowledge in this case, however, they were all examined as experts and their opinion evidence on medical questions asked and secured.</p>
+                <p id="b386-5" pgmap="386">Dr. Hall, Dr. Price and Dr. Learning were also called by the defendant and testified, but purely as experts, they having made no examinations of the plaintiff and testifying to medical and physiological propositions and in answer to hypothetical questions.</p>
+                <p id="b386-6" pgmap="386">All these seven witnesses were, so far as this rec­ord discloses, reputable, well educated and well in­formed men in their profession, the record or char­acter of none of them deserving the animadversions cast on some of them in the course of the trial and argument.</p>
+                <p id="b386-7" pgmap="386(140) 387(62)">To give point to the salient features of their tes­timony it is necessary, first, to state the history of the plaintiff’s physical condition and surroundings before and after the accident as detailed by herself. She was graduated as a nurse from St. Luke’s Hospital in 1889, being then 21 years old. In March, 1895, she was married, and in the summer of 1896 had a child born, which however died shortly after its birth. Her husband, however, separated from her in Septem­ber, 1896. The delivery of her child was a difficult labor. It was delivered by instruments while she was under the influence of anaesthetics, and there was in­ternal laceration of the cervix of the womb. After her confinement she remained in bed a month. She was ex­amined by Dr. Harsha three or four months afterward, and his testimony on her condition will be hereinafter noted. He made also a subsequent examination three or four months later. During the year 1898 she went also to two other physicians for relief. During that time, she says, she had pain in the abdomen, described by her as at first intense and sharp pain and after­ward a heavy, painful feeling.</p>
+                <p id="b387-4" pgmap="387">Previous to this she had no illness, she says, ex­cept diphtheria in the winter of 1890 and 1891, and an attack of gout in 1890 and 1893.</p>
+                <p id="b387-5" pgmap="387">Asked about her health the time of her confinement in 1896, she answered that she did not do any irksome work from 1896 to 1898, but that in February, 1898, she went to work nursing, and that though she rested during that summer and again after the fall of 1898, until sometime in 1899, from that time on in 1899 to the time of the accident, she worked very hard at her calling. Her counsel asked her: “From 1899 or 1900 down to the time you were injured, what was your general condition of health; were you strong or weakly?” Her answer was: “I wasn’t weakly; I worked very hard, and I couldn’t do it if I was weak”. “Q. Were you strong?” “A. I was strong enough to do hard work.”</p>
+                <p id="b387-7" pgmap="387">She said that immediately before the accident she was able to work very hard and was working very hard, nursing a malignant cancer case.</p>
+                <p id="b387-8" pgmap="387">At the immediate time of the accident she suffered, she testified, great agony at the end of the spine, and this pain, in a severe form, lasted until the time of the trial."</p>
+                <p id="b387-9" pgmap="387(77) 388(65)">On alighting from the car after the accident, she walked, assisted by a fellow passenger, down the stairs of the elevated station and then, unaided, to Marshall Field’s store, a block and a half away, and from there took a surface car to the residence of friends two miles away, and then home to Dr. Melendy’s where she roomed. There she was put to bed. In a fortnight she went to see Dr. Knudson, and shortly afterward, as noted, the exact date being left perhaps somewhat doubtful, although Dr. Melendy, who treated her dur­ing this time, says she thinks it was about six or seven weeks after the accident, which agrees with what Dr. Khudson testifies Dr. Melendy told him on the third examination he made of the plaintiff in Dr. Melendy’s presence on January 21, 1904, she developed peri­tonitis.</p>
+                <p id="b388-5" pgmap="388">The plaintiff says the acute peritonitis lasted two or three weeks, during which she was confined to her bed. Before she had peritonitis she says she was able to get around, but only with much suffering. After that until some time in February, 1904, she was “up and down and would get up and get very sick on ac­count of getting up”.</p>
+                <p id="b388-6" pgmap="388">In February she went to Alabama to take a case, but was unable to work. The internal abscess in her side broke and the contents passed out through her bowels, she says, in the spring or summer of 1904; but although she,returned from Alabama and essayed again in Chicago to follow her avocation, she had been unable to work with success and had been an invalid and practically unable to work.</p>
+                <p id="b388-7" pgmap="388">At the time of the trial, the pain was not great when she rested or was lying down, but severe when she exerted herself. She refused on the trial to have physical examinations made by physicians named' by the defendant, or by the court, on the ground that it would be useless and painful.</p>
+                <p id="b388-8" pgmap="388">In treating her after the accident Dr. Melendy found some swelling and discoloration over the sacrum and coccyx, appearing a few hours after the accident, but they disappeared after two days.</p>
+                <p id="b388-9" pgmap="388(58) 389(265)">Dr. Harsha testified that he first examined the plaintiff three or four months after her child was born in 1896; that her condition was then fair; that there was some but not aggravated laceration of the womb; that he examined her again three of four months later and found much less laceration; that after that he saw her perhaps three times a year, and that while her general condition of health was fairly good, she was nervous, but less, probably, than she was immediately after her delivery. Two years and a half after the accident, that is, in June, 1906, he examined her again, and says that except that the signs of nervousness were greater, amounting to neuresthenia, and that there was a fall­ing off of weight, he found her physically as healthy as usual. He could not feel anything different from the time he examined her before. Neuresthenia, he testi­fied, might be caused by many things, and among them he mentioned hemorrhoids or bleeding piles, from which he said the plaintiff suffered—to our mind a by no means insignificant or unimportant statement in this case, although not commented on in argument. Asked as an expert, whether if one sits down suddenly and strikes the coccyx- or the sacrum, there was any probability of peritonitis if there was no infection, he answered that the probability was not strong, but there was a possibility, the possibility being of inflammation being started and reaching the peritoneum, which, however, he said, had no direct connection with the coccyx or sacrum. An intervening part must therefore be involved and infected to carry inflammation to the peritoneum. It might be possible, he said, that the lac­eration he found would produce neuresthenia, but he would not expect it to do so, and would not think it could produce it if for two or three years between the laceration and the neuresthenia the person enjoyed good health.</p>
+                <p id="b389-4" pgmap="389">Dr. Babcock, also called for the plaintiff, had made two examinations of the plaintiff—one two months and one one month before the trial. He found, he said, a condition of neuresthenia, and he also found, on the second examination, a swollen or enlarged condition of the parts of the anterior surface of the coccyx. It felt, he says, like a part of fibrous tissue. He believed, he said, that this condition was traumatic, that some force or violence caused it.</p>
+                <p id="b390-4" pgmap="390">Dr. Babcock had known the plaintiff eight or ten years before, socially, and said she was then heavier, and only to a small extent anæmic. He said that the childbirth in 1906 described to him was abnormal, and it was possible that the condition found in her by him might have come from it, but that if, during the inter­val of eight or nine years, a woman had enjoyed good health for three or four years, that would cut down the possibility considerably, and would open up the case for another cause very largely.</p>
+                <p id="b390-5" pgmap="390">Dr. Knudson, called for the defendant, who examined the plaintiff at her request, because she knew him to be the surgeon for the defendant, on October 29, 1903, two weeks after the accident, and on November 14, 1903 (at which time she said nothing of any peritonitis having intervened), and on January 21, 1904, when she did say that she had had inflammation of the left ovary and general peritonitis, and who applied to examine her again in February, 1904, and was refused, swore that he found at the first and the subsequent examinations, no fracture or dislocation of the coccyx or sacrum, no swelling and no external sign of wound or injury; that he found uterus inversion, but not of recent origin; that he thought her then amende and neuresthenia and easily upset.</p>
+                <p id="b390-6" pgmap="390">He named as an expert several causes which might produce neuresthenia, such as disease of the genital organs, over-work, nervous strain, worrying and piles; but did not testify that he found the plaintiff suffering from piles, as did Dr. Harsha. He also said that severe traumatic injury might produce neuresthenia, but not such an injury as plaintiff claimed she had received, unless it had produced a fracture. He also said that without a fracture, a severe fall on the sacrum or coccyx could not produce peritonitis unless there was something intermediate already existing, such as a pelvic abscess.</p>
+                <p id="b390-7" pgmap="390(16) 391(217)">Dr. Stowell was subpoenaed by the defendant. He declared himself an unwilling witness, but was told by the court that he could not claim privilege because he had been consulted by the plaintiff voluntarily. He examined the plaintiff in the earlier part of 1906. He made a complete examination of the pelvic region. He found an old laceration of the neck of the womb, indicating it was from childbirth, and some indica­tion of an inflammatory condition in the pelvis, and evidence that led to suspicion that there was some pus and adhesions there. He found nothing the matter with the coccyx or sacrum and nothing out of the way on the outside of the back. He said that in his opinion the adhesions or place that he diagnosed as a pus sac had nothing to do with any external vio­lence; that he considered the plaintiff as a person of a neurotic type, and that in a person of a neurotic type the conditions in the genital organs that he had described would produce or emphasize neuresthenia. On cross-examination he reiterated his opinion, that the accident described by the plaintiff could not cause, although it might aggravate, neuresthenia, and that the laceration of the cervix which he found, although healed, was not left in a normal condition and might have aggravated neuresthenia, although he would not say that it would produce it.</p>
+                <p id="b391-4" pgmap="391">Dr. Hall, Dr. Learning and Dr. Price, to speak gen­erally of their testimony, swore as expert medical men, that the injury described by the plaintiff, not being severe enought to produce a fracture or dislo­cation, could have had no relation to either the peri­tonitis or neuresthenia from which she claimed to have suffered. Dr. Hall swore that her described conduct immediately after the accident was entirely inconsistent with any serious injury to the coccyx.</p>
+                <p id="b391-5" pgmap="391">To Dr. Price these questions were put and by him these answers returned:</p>
+                <p id="b391-6" pgmap="391(37) 392(24)">“Q. Suppose a woman thirty-four years of age to be neurasthenic and nervous in tendency, and after-­wards she was married and two or three years after-­wards she had a child delivered with forceps and her womb was lacerated and the child died, what effect, if any, in your opinion, would that have upon a per­son of neurasthenic temperament!</p>
+                <p id="b392-5" pgmap="392">A. I would have this opinion, that from those cir­cumstances that she had had a child and had the neu­rasthenia and putting them all together I would say absolutely it was a very decided trend of causes, not only one, but several causes.</p>
+                <p id="b392-6" pgmap="392">Q. Suppose she had a number of examinations after it, and a year ago this month the laceration was still found to be there, but in the meantime before that last examination that disclosed the laceration to be still there, she had had an injury in a railroad car when she was about thirty-four years old, to the coccyx and sacrum, and no fracture to either the sacrum or the coccyx, and shortly after that a case of peritonitis occurred which left a pus abscess over the right ovary, and she was neurasthenic all the time all along, and a year ago still had that laceration of the womb observable at the point of abscess and a rigidity there, what effect would you say, if you have an opinion on the subject, was there between the neuresthenic or nervous condition and, the blow upon the coccyx with neither fracture nor dislocation!</p>
+                <p id="b392-7" pgmap="392">A. There would be no relation.”</p>
+                <p id="b392-8" pgmap="392">We have given what seem to us salient points of the medical evidence. We have no intention of comment­ing on them further than to say that a consideration of them, with a very careful examination of all the testimony, connected with the refusal of an exami­nation by the plaintiff at the trial, which was a matter for the jury and therefore for us to consider, and the severe and, as we think, unjustifiable attacks in argu­ment on the medical experts who testified for the de­fendant, makes it impossible for us conscientiously to allow this verdict to stand on this record. As herein-­before indicated, we think it is in amount against the weight of the evidence.</p>
+                <p id="b392-9" pgmap="392(9) 393(58)">Complaint is made of the instructions. We- do not think they contain reversible error. With instruction 7 we find no fault. Instruction 8, for greater caution, perhaps, might better have repeated in its last clause the limitation concerning the practical operation of the road which is found in the first clause, but it must be considered as a whole, and we do not find it er­roneous.</p>
+                <p id="b393-4" pgmap="393">Instruction 16 contains no incorrect statement of the law, but we think it is rather unhappily worded and confusing.</p>
+                <p id="b393-5" pgmap="393">Instructions 8 and 9 we do not consider contain reversible error, but they would have been better had they more particularly defined and limited what the court meant by “consequences”.</p>
+                <p id="b393-6" pgmap="393">We do not find any error in the rulings on evidence. The case, in our opinion, was carefully tried by the trial court in this regard.</p>
+                <p id="b393-7" pgmap="393">But for the reasons we have specified, the judg­ment is reversed and the cause remanded to the Su­perior Court for a new trial.</p>
+                <p id="b393-8" pgmap="393">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="380" ORDERLABEL="362" TYPE="page">
+        <fptr FILEID="tiff_00190_1"/>
+        <fptr FILEID="jp2_00190_1"/>
+        <fptr FILEID="alto_00190_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.1" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_380.2" BETYPE="IDREF" FILEID="alto_00190_1"/>
+              <area BEGIN="BL_380.3" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="381" ORDERLABEL="363" TYPE="page">
+        <fptr FILEID="tiff_00191_0"/>
+        <fptr FILEID="jp2_00191_0"/>
+        <fptr FILEID="alto_00191_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_381.3" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_381.2" BETYPE="IDREF" FILEID="alto_00191_0"/>
+              <area BEGIN="BL_381.4" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="382" ORDERLABEL="364" TYPE="page">
+        <fptr FILEID="tiff_00191_1"/>
+        <fptr FILEID="jp2_00191_1"/>
+        <fptr FILEID="alto_00191_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.2" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.3" BETYPE="IDREF" FILEID="alto_00191_1"/>
+              <area BEGIN="BL_382.4" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="383" ORDERLABEL="365" TYPE="page">
+        <fptr FILEID="tiff_00192_0"/>
+        <fptr FILEID="jp2_00192_0"/>
+        <fptr FILEID="alto_00192_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.3" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.2" BETYPE="IDREF" FILEID="alto_00192_0"/>
+              <area BEGIN="BL_383.4" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="384" ORDERLABEL="366" TYPE="page">
+        <fptr FILEID="tiff_00192_1"/>
+        <fptr FILEID="jp2_00192_1"/>
+        <fptr FILEID="alto_00192_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.2" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.3" BETYPE="IDREF" FILEID="alto_00192_1"/>
+              <area BEGIN="BL_384.4" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="385" ORDERLABEL="367" TYPE="page">
+        <fptr FILEID="tiff_00193_0"/>
+        <fptr FILEID="jp2_00193_0"/>
+        <fptr FILEID="alto_00193_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_385.3" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_385.2" BETYPE="IDREF" FILEID="alto_00193_0"/>
+              <area BEGIN="BL_385.4" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="386" ORDERLABEL="368" TYPE="page">
+        <fptr FILEID="tiff_00193_1"/>
+        <fptr FILEID="jp2_00193_1"/>
+        <fptr FILEID="alto_00193_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.2" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.3" BETYPE="IDREF" FILEID="alto_00193_1"/>
+              <area BEGIN="BL_386.4" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="387" ORDERLABEL="369" TYPE="page">
+        <fptr FILEID="tiff_00194_0"/>
+        <fptr FILEID="jp2_00194_0"/>
+        <fptr FILEID="alto_00194_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.3" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.2" BETYPE="IDREF" FILEID="alto_00194_0"/>
+              <area BEGIN="BL_387.4" BETYPE="IDREF" FILEID="alto_00194_0"/>
+              <area BEGIN="BL_387.10" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="388" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00194_1"/>
+        <fptr FILEID="jp2_00194_1"/>
+        <fptr FILEID="alto_00194_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.2" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.3" BETYPE="IDREF" FILEID="alto_00194_1"/>
+              <area BEGIN="BL_388.4" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="389" ORDERLABEL="371" TYPE="page">
+        <fptr FILEID="tiff_00195_0"/>
+        <fptr FILEID="jp2_00195_0"/>
+        <fptr FILEID="alto_00195_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.3" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.2" BETYPE="IDREF" FILEID="alto_00195_0"/>
+              <area BEGIN="BL_389.4" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="390" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jp2_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.1" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.2" BETYPE="IDREF" FILEID="alto_00195_1"/>
+              <area BEGIN="BL_390.3" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="391" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00196_0"/>
+        <fptr FILEID="jp2_00196_0"/>
+        <fptr FILEID="alto_00196_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.3" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.2" BETYPE="IDREF" FILEID="alto_00196_0"/>
+              <area BEGIN="BL_391.4" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="392" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jp2_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.2" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.3" BETYPE="IDREF" FILEID="alto_00196_1"/>
+              <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="393" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00197_0"/>
+        <fptr FILEID="jp2_00197_0"/>
+        <fptr FILEID="alto_00197_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.3" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_393.2" BETYPE="IDREF" FILEID="alto_00197_0"/>
+              <area BEGIN="BL_393.4" BETYPE="IDREF" FILEID="alto_00197_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.7" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.8" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.5" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.6" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.7" BETYPE="IDREF" FILEID="alto_00193_0"/>
+            <area BEGIN="BL_386.1" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.9" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_388.1" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.5" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b385-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_385.6" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.5" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.6" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.7" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.5" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.9" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b381-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.12" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            <area BEGIN="BL_382.1" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AES" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.11" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.7" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.6" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.5" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.8" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.9" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            <area BEGIN="BL_389.1" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.13" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            <area BEGIN="BL_381.1" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.12" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.7" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            <area BEGIN="BL_380.8" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.5" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.6" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.7" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            <area BEGIN="BL_384.1" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.5" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.7" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.6" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.6" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.5" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b380-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.4" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.7" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            <area BEGIN="BL_385.1" BETYPE="IDREF" FILEID="alto_00193_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.6" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.5" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.6" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.9" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            <area BEGIN="BL_393.1" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.6" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.5" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.4" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.5" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.5" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.7" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_391.1" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.6" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.5" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.7" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_392.1" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.7" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            <area BEGIN="BL_387.1" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.6" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.8" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            <area BEGIN="BL_383.1" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUV" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_381.10" BETYPE="IDREF" FILEID="alto_00191_0"/>
+            <area BEGIN="BL_381.11" BETYPE="IDREF" FILEID="alto_00191_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.8" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.7" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.6" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.5" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b388-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_388.8" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_Dx" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_380.9" BETYPE="IDREF" FILEID="alto_00190_1"/>
+            <area BEGIN="BL_380.10" BETYPE="IDREF" FILEID="alto_00190_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.8" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b393-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_393.9" BETYPE="IDREF" FILEID="alto_00197_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

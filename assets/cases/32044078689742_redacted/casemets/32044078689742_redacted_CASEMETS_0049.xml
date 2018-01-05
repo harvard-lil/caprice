@@ -1,0 +1,860 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0049" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Staar v. Koon">Frank Staar, Appellee, v. Moy Tong Koon, Appellant</name>
+          <docketnumber>Gen. No. 14,084</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 341</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00180_0" MIMETYPE="image/tiff" CHECKSUM="a3be23285446304864128e35bdf3e306" CHECKSUMTYPE="MD5" SIZE="40712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00180_0.tif"/>
+      </file>
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="8f12cd05d53b08fdf3b4866e82bd1793" CHECKSUMTYPE="MD5" SIZE="43734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="d5beef3947125071273b597dcd963c10" CHECKSUMTYPE="MD5" SIZE="52196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="ce21bf9b6b731e71617c0b7c5314757e" CHECKSUMTYPE="MD5" SIZE="49182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="1f732279f93d17f00971ed3574f3c8b3" CHECKSUMTYPE="MD5" SIZE="55520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="46710285f77999582897285aacea73fe" CHECKSUMTYPE="MD5" SIZE="51234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="34f55bdde5624a36467bd6785372cf55" CHECKSUMTYPE="MD5" SIZE="51602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="c902f75e72277b1ffa87ddd6d00b4fc0" CHECKSUMTYPE="MD5" SIZE="51692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="d5f36fc85aef9f3334d32a9b8d644ea8" CHECKSUMTYPE="MD5" SIZE="44324">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00180_0" MIMETYPE="image/jp2" CHECKSUM="ade79d9f5ca57dac1cd20d7943d1a2a1" CHECKSUMTYPE="MD5" SIZE="2381709">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00180_0.jp2"/>
+      </file>
+      <file ID="jp2_00180_1" MIMETYPE="image/jp2" CHECKSUM="f67438395ae1ab02f0675c2c5200f802" CHECKSUMTYPE="MD5" SIZE="2347531">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00180_1.jp2"/>
+      </file>
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="8db4156ed1a03af8688b4c9d7368d2cc" CHECKSUMTYPE="MD5" SIZE="2428018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="f475c13694476c2493044e976083dd32" CHECKSUMTYPE="MD5" SIZE="2401902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="31e6908402404deda5ee077575d100dc" CHECKSUMTYPE="MD5" SIZE="2473408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00182_0.jp2"/>
+      </file>
+      <file ID="jp2_00182_1" MIMETYPE="image/jp2" CHECKSUM="4f46f2584779de88d7767cb6ec07d0a2" CHECKSUMTYPE="MD5" SIZE="2388593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00182_1.jp2"/>
+      </file>
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="8a2436fd523a2bc0333db30c929b16a7" CHECKSUMTYPE="MD5" SIZE="2443233">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="3247b5edae777c7f40c0ae4398546747" CHECKSUMTYPE="MD5" SIZE="2421241">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="6c1c412ab5135cc40262e5413b9c69ca" CHECKSUMTYPE="MD5" SIZE="2406533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00184_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00180_0" MIMETYPE="text/xml" CHECKSUM="4ce435a7f6906f6e2fbc94f087d4d6a3" CHECKSUMTYPE="MD5" SIZE="74382">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00180_0.xml"/>
+      </file>
+      <file ID="alto_00180_1" MIMETYPE="text/xml" CHECKSUM="fc426c85e9d63411a04b830ab148ac15" CHECKSUMTYPE="MD5" SIZE="78521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00180_1.xml"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="0044215cb02f6539f19d291730fe91e2" CHECKSUMTYPE="MD5" SIZE="89389">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="8fd37f01ab558a5f93d961bc9d9fcdc9" CHECKSUMTYPE="MD5" SIZE="86354">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="0f348fb6f8ba2029ae06b1e1fc6650fe" CHECKSUMTYPE="MD5" SIZE="89206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00182_0.xml"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml" CHECKSUM="0b676bd6b74908496412e2e3f5d9195d" CHECKSUMTYPE="MD5" SIZE="85197">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00182_1.xml"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="87c9062142a372fe83c5f0091fc8e072" CHECKSUMTYPE="MD5" SIZE="84672">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="92762b1758b5a5248e6b723e4e296042" CHECKSUMTYPE="MD5" SIZE="86891">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="c17fee204e66bd636165cfbcbc9ab0f1" CHECKSUMTYPE="MD5" SIZE="75519">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00184_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="349" firstpage="341">
+              <docketnumber id="AI1" pgmap="359">Gen. No. 14,084.</docketnumber>
+              <parties id="b359-6" pgmap="359">Frank Staar, Appellee, v. Moy Tong Koon, Appellant.</parties>
+              <decisiondate id="ANm" pgmap="360">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="Ajz" pgmap="360">Bulkley, Gray &amp; More, for appellant.</attorneys>
+              <attorneys id="b360-6" pgmap="360">Louis Greenberg, for appellee.</attorneys>
+              <summary id="b359-9" pgmap="359(22) 360(4)">Bill in chancery. Appeal from the Circuit Court of Cook county; the Hon. John Gibbons, Judge, presiding. Heard in this court at the March term, 1907.</summary>
+              <disposition id="Au8" pgmap="360">Reversed.</disposition>
+              <headnotes id="b359-7" pgmap="359">1. Receiverships—when appointment improvident. It is im­proper to appoint a receiver pendente lite for a partnership at the instance of a creditor who has levied an execution upon the inter­est of an individual partner—no showing of peculiar necessity-­being made.</headnotes>
+              <headnotes id="b359-8" pgmap="359">2. Receiverships—what essential to valid appointment. Before a receiver is appointed it is essential that the complainant should either give bond or upon good cause shown should be exempted from so doing, as provided by the act of May 15, 1903, “concerning the appointment and discharge of receivers.” And the finding of such good cause should be incorporated in the order of appoint­ment.</headnotes>
+              <opinion type="majority">
+                <author id="b360-7" pgmap="360">Mr. Justice Brown</author>
+                <p id="AN2" pgmap="360">delivered the opinion of the court.</p>
+                <p id="b360-8" pgmap="360">This is an appeal from an interlocutory order in a chancery proceeding appointing a receiver for the property and business of the firm of Hip Lung, Ting Kee &amp; Co. The bill was brought by the appellee, Staar, against two Chinese: (1) Moy Tong Hoi and (2) Moy Tong Gee, alias Moy Tong Koon. It was filed May 10, 1907. It was entitled ‘ ‘Bill for Dissolution of Partnership”. It set up:</p>
+                <p id="b360-10" pgmap="360">A. That three persons (1) Moy Chene alias Hip Lung, alias Mong Tong Chew, (2) Moy Tong Hoi, and (3) Moy Tong Gee, alias, Moy Tong Koon—were co-­partners up to May 7, 1907, in conducting a general merchandise store and a hotel at 323 South Clark street, under the name of Hip Lung, Ting Kee and Company.</p>
+                <p id="b360-13" pgmap="360">B. That April 23, 1907, the said Staar had re­covered a judgment against Moy Chene, alias Blip Lung, alias Mong Tong Chew, for $4,671 in the Munic­ipal Court of Chicago, and had placed an execution on the same in the hands of the bailiff of the Munic­ipal Court.</p>
+                <p id="b360-14" pgmap="360">C. That the said bailiff levied on all the right, title and interest of Moy Chene, alias Hip Lung, alias Mong Tong Chew, in the partnership effects of the firm of Hip Lung, Ting Kee &amp; Company, and sold the same at execution sale to said Staar on May 7, 1907.</p>
+                <p id="b360-15" pgmap="360">D. That the business of the Hip Lung, Ting Kee &amp; Co. is conducted and its books are kept in Chinese, which language Staar cannot read or speak.</p>
+                <p id="b360-16" pgmap="360(19) 361(157)">Wherefore the bill prays: (a) That (1) Moy Tong Hoi, and (2) Moy Tong Gee, alias Moy Tong Koon, may be required to answer the bill; (b) that the said copartnership may be declared void; (c) that an ac­count be taken of all dealings and transactions of said copartnership from the time of the commencement thereof; (d) that some proper person may, in the meantime, be appointed by the court as receiver to take charge of the said partnership effects and collect whatever money or property may belong or be due to the said firm; (e) that the complainant may have gen­eral relief; and (f) that a writ of summons issue against (1) Moy Tong Hoi and (2) Moy Tong Gee, alias Moy Tong Koon, to answer the bill, and a writ of injunction issue against the same persons restrain­ing them from collecting or receiving any debts owing to the said firm, and from using and applying any of the copartnership funds to their own use until the further order of the court.</p>
+                <p id="b361-4" pgmap="361">There is no service shown on either of the defend­ants, but on May 11, 1907, Messrs. Bulkley, Gray &amp; More, entered an appearance “of the defendant, Moy Tong Koon, sued as Moy Tong Hoi”. This seems to have been a mistake, for Moy Tong Hoi in the bill is given no alias, while Moy Tong Koon is given as the alias of Moy Tong Gee, and we find that on May 15, 1907, Bulkley, Gray &amp; More filed the answer of “Moy Tong Koon sued as Moy Tong Gee”. No other ap­pearance or pleading for either defendant appears in the record.</p>
+                <p id="b361-5" pgmap="361(108) 362(99)">The answer (A) denies that (1) Moy Ghene, alias Hip Lung, alias Moy Tong Chew and (2) Moy Tong Hoi and (3) Moy Tong Gee, alias Moy Tong Koon, were copartners up to May 7, 1907, in the business mentioned in the bill. (B) Neither admits nor de­nies the judgment charged in the bill against Moy Ghene and the issuance of an execution on the same. (C) Neither admits nor denies the levy of such an execution on the right, title and interest of Moy Ghene in the partnership effects of the firm of Hip Lung, Ying Kee and Company, and the sale of the same to Staar. (D) Alleges, that said Moy Chene did not on said May 7, 1907, have, nor for a number of years prior thereto have, any interest whatever of any kind or nature in said business, conducted under the name of Hip Lung, Ting Kee &amp; Company, at 323 South Clark street, Chicago, and that the answering de­fendant, Moy Tong Koon, was not as a partner of Moy Chene, alias Hip Lung, alias Mong Tong Chew, engaged in any business at any place in said city on said 7th day of May, 1907, nor for several years prior thereto.</p>
+                <p id="b362-5" pgmap="362">On motion of the complainant the cause was re­ferred to a master to take evidence and report (1) whether a receiver should be appointed pendente lite and (2) on the merits of the whole case. The master took a considerable amount of evidence and reported it to the court with his conclusions on June 29, 1907.</p>
+                <p id="b362-6" pgmap="362">His material conclusions were:</p>
+                <p id="b362-7" pgmap="362">First. That the levy and sale alleged in the bill took place and were valid to vest the partnership in­terest of Hip Lung in the complainant Staar, if there was such a firm as charged in the bill and Hip Lung was a partner' in it at the time of the levy, and the execution was on a valid judgment.</p>
+                <p id="b362-8" pgmap="362">Second. That there was enough evidence in the rec-­cord to show that Hip Lung was a partner in the firm of Hip Lung, Ting Kee &amp; Co., doing business at 323 South Clark street, and was such partner on May 7, 1907.</p>
+                <p id="b362-9" pgmap="362">Third. That there was no definite showing as to who the present partners were, or of the proportion­ate interest owned by Hip Lung in the firm.</p>
+                <p id="b362-10" pgmap="362">Fourth. That because no valid evidence of a judg­ment was shown, the bill should be dismissed.</p>
+                <p id="b362-11" pgmap="362(43) 363(15)">Nothing was said in the report concerning a re­ceiver. The recommendation was merely that the bill be dismissed. Exceptions were filed to the master’s report by the solicitors for the defendant, Moy Tong Koon, but they were not acted on. The following order, however, was on August 26, 1907, entered by a chancellor of the Circuit Court:</p>
+                <p id="b363-4" pgmap="363">“This cause coming on to be heard upon the report of the master to whom this cause was heretofore re­ferred to take testimony and report upon law and fact as to the motion of said complainant for a re­ceiver of the goods, chattels, credits and effects of said copartnership of Hip Lung, Ting Kee and Com­pany, and the court having inspected said report and heard arguments of counsel for the respective par­ties, and being fully advised in the premises, doth find that it is fit and proper that a receiver should be forthwith appointed in the premises. It is therefore ordered by the court that the American Trust and Savings Bank be and is hereby appointed receiver of all and singular the rights, credits, property and assets of said corporation upon his giving a bond herein with surety and conditions to be approved by the court in the penal sum of $10,000, and that he be thereupon invested with all the powers, rights, and duties of receivers in such behalf, and that said de­fendants and each of them deliver to said receiver all property of said copartnership in their joint and several possessions and that the exceptions to the re­port of said master to said report be reserved for future action by the court”.</p>
+                <p id="b363-5" pgmap="363">It is from this order that the present appeal was taken. The record shows that on the day following its entry another order was entered appointing Bern-­hard Loeff receiver in the place of the American Trust &amp; Savings Bank “upon the same conditions and terms as per order entered the 20th day of August, 1907, and to give bond in the sum of $10,000 with a Surety Company bond.” The appeal bond signed by Moy Tong Koon as principal and by a surety recites the order appealed from as one “appointing a receiver for the property of the above bounden Moy Tong Koon”.</p>
+                <p id="b363-6" pgmap="363(26) 364(13)">The bond of the receiver, Bernhard Loeff, is shown in the record, and recites that he has been appointed “receiver of all the property, equitable interests, things in action and effects of the defendant Moy Tong Hoi et al.”</p>
+                <p id="b364-5" pgmap="364">It is unnecessary to discuss most of the matters found in the transcript of the record, the abstract and briefs in this case. That it is an appeal from an interlocutory order appointing a receiver pendente, lite seems almost lost sight of in the arguments. The receiver was improvidently appointed and the order must be reversed.</p>
+                <p id="b364-6" pgmap="364(278) 365(108)">There is no sufficient reason even suggested for the appointment of a receiver anywhere in the record. Assuming that Hip Lung, alias Mong Tong Chew, was a partner in an unknown proportion in the firm of Hip Lung, Ting Kee &amp; Company, and that his inter­est passed under an execution sale to- Staar—assum­ing even that the appellee’s position is correct that as the master found there was no sufficient evidence to show the amount of Hip Lung’s interest, it must be presumed to be one-third—all of them propositions open to question at least—there is nothing in all that of itself to entitle the complainant Staar to a receiver of the copartnership assets pendente lite. There was no showing of such a necessity in the allegations of the bill nor did the master find from the testimony and report any such necessity. The right of Staar in such a case, on a final decree even, was for an accounting and the collection and distribution of the assets perhaps, but not necessarily a receiver even then. The' suggestion that because the business is a Chinese one, and the books and papers of it are kept in the Chinese language, a receiver who, presumably, does not know Chinese should be appointed to seize the Chinese goods, books and papers pending the suit, because the complainant also is ignorant of Chinese, seems to us at least a non-sequitur. A surer way to ruin the business hardly seems conceivable. The only argument put forward to show the necessity of a re­ceiver is, that in dealing with Chinese the complain­ant will never be sure of receiving his money from his individual debtor, Hip Lung, unless the entire assets and all the effects and the business of a copartner­ship, in which persons other than Hip Lung are also interested in an unknown proportion, are ruthlessly taken pending the accounting from their hands and put into those of a stranger, necessarily ignorant of the business, under the direction of a court presum­ably and necessarily equally so. That is not a suf­ficient reason. The rights of the other partners of Hip Lung, Ting Kee &amp; Co. are as valuable in the eyes of the law and as much to be respected and preserved as those of the complainant.</p>
+                <p id="b365-4" pgmap="365">That the order appointing a receiver was drafted in haste seems evident from its wording, as' shown by the words we have italicized. The actual words of appointment call Hip Lung, Ting Kee &amp; Co. a “cor­poration”, for example.</p>
+                <p id="b365-5" pgmap="365">Nor did the court proceed according to our con­struction at least of the Act of May 15, 1903, “con­cerning the appointment and discharge of receivers”.</p>
+                <p id="b365-6" pgmap="365">That Act, recognizing the danger of damages from summary and often times improvident proceedings in the appointment of receivers, provides: “That be­fore any receiver shall be appointed, the party making the application shall give bond to the adverse party in such penalty as the court or judge may order and with security to be approved by the court or judge conditioned to pay all damages, including reasonable attorney’s fees, sustained by reason of the appoint­ment and acts of such receiver, in case the appoint­ment of such receiver is revoked or set aside; Pro­vided, that bond need not be required when for good cause shown and upon notice and full hearing the court is of the opinion that a receiver ought to be appointed without such bond”.</p>
+                <p id="b365-8" pgmap="365(39) 366(89)">In construing this statute in Watson v. Cudney, 144 Ill. App. 624, we said: “To entitle appellee to the appointment of a receiver, he must, as a sine qua non to the enforcement of that right, give the bond required by the statute, unless it is the opinion of the court that a receiver ought to be appointed without bond, and then the court’s opinion must affirmatively appear in the order making the appointment. The statutory requirement in this regard cannot be dis­pensed with. It was evidently enacted for - the pur­pose of making liable the moving party in a receiver­ship proceeding for such damages as might result from the improvidence of his act in bringing about a receivership where none should have been asked”.</p>
+                <p id="b366-5" pgmap="366">There was no bond of the complainant required and none given in this case, although we think it most markedly a case where such a bond should have been furnished if a receiver was to be appointed. If the chancellor thought otherwise, he should have incor­porated his finding to that effect in his order.</p>
+                <p id="b366-6" pgmap="366">The emphasis of appellee’s argument seems’to be placed on the theory that Moy Tong Koon, who prayed the appeal from this order, had no right to do so because, as appellee claims, he was neither a party to the suit nor shown by the records to be prej­udiced by the judgment. Persons not falling within one or the other of these classes, he cites authority to show, are not entitled to an appeal.</p>
+                <p id="b366-7" pgmap="366">It is unnecessary to consider whether the testimony of Moy Tong Koon, given before the master through an interpreter, overcomes the implications of his an­swer in the cause, that the bill was not incorrect in charging him with being a partner in the business conducted under the name of Hip Lung, Ting Kee &amp; Co., because, whether or not a partner and damaged by the order, he was “a party to the suit”.</p>
+                <p id="b366-8" pgmap="366">Appellee says in his brief that Moy Tong Koon “butted in”, that the bill describes the defendants as brothers, and while “it is true that one of the brothers was named Moy Tong Gee alias Moy Tong Koon, that does not furnish an excuse for an outsider, who bears that name, to make himself a party, when he has no interest in the litigation”.</p>
+                <p id="b367-3" pgmap="367">Certainly not, but the position that Moy Tong Koon, the appellant here, is “an outsider who bears that name”, is entirely unsustained and unsustain­able. The only jurisdiction, shown in this case of any body as a defendant is derived from the answer filed in it for the appellant, “Moy Tong Koon sued as Moy Tong Gee”. It is true that a prior appearance by the same solicitors had been entered, which spoke of Moy Tong Koon “sued as Moy Tong Hoi”—an evi­dent mistake, considering the pleadings together— but no ground for any pretense exists in the case that the appearance and answer were not for the same per­sons, and that person the second of the defendants named in the bill.</p>
+                <p id="b367-4" pgmap="367">We think that before a receiver should have been appointed in any possible event, Hip Lung and Moy Tong Hoi should have been brought into court. The first was not made a party and no attempt to serve the second seems to have been made. If the Moy Tong Koon who answered and who appeals was not the Moy Tong Koon who was made a defendant, as counsel for appellee now contends, then the complain­ant has brought no defendant to his bill into court, nor attempted to do so, and yet has procured a re­ceiver pendente lite to take possession of a large busi­ness.</p>
+                <p id="b367-5" pgmap="367">The order of the Circuit Court appointing the re­ceiver in this cause is reversed.</p>
+                <p id="b367-6" pgmap="367">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="359" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00180_0"/>
+        <fptr FILEID="jp2_00180_0"/>
+        <fptr FILEID="alto_00180_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.3" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_359.2" BETYPE="IDREF" FILEID="alto_00180_0"/>
+              <area BEGIN="BL_359.4" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="360" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jp2_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.2" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.3" BETYPE="IDREF" FILEID="alto_00180_1"/>
+              <area BEGIN="BL_360.4" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.2" BETYPE="IDREF" FILEID="alto_00181_0"/>
+              <area BEGIN="BL_361.4" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.2" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.3" BETYPE="IDREF" FILEID="alto_00181_1"/>
+              <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+              <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="346" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jp2_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.3" BETYPE="IDREF" FILEID="alto_00182_1"/>
+              <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+              <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.3" BETYPE="IDREF" FILEID="alto_00183_1"/>
+              <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.2" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.6" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANm" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.6" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_360.7" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.5" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajz" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.8" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.5" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-13" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.15" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.6" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.10" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.9" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.7" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.6" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.5" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN2" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.11" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_360.12" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.7" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.6" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.9" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.8" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.8" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.13" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-14" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.16" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.7" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.14" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.9" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.7" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-15" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.17" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI1" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.8" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-16" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.18" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            <area BEGIN="BL_361.1" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.5" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.11" BETYPE="IDREF" FILEID="alto_00180_0"/>
+            <area BEGIN="BL_360.1" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b359-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_359.10" BETYPE="IDREF" FILEID="alto_00180_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.6" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            <area BEGIN="BL_365.1" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.7" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.11" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.10" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

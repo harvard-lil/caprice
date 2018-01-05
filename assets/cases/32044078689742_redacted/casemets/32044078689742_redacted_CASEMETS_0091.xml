@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0091" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Reliable Plumbing &amp; Heating Co. v. Dallenbach">Reliable Plumbing and Heating Company, Appellant, v. William C. Dallenbach et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 473</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00246_0" MIMETYPE="image/tiff" CHECKSUM="cc40fbd161a7d04f0b71afa19c27c85c" CHECKSUMTYPE="MD5" SIZE="47046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00246_0.tif"/>
+      </file>
+      <file ID="tiff_00246_1" MIMETYPE="image/tiff" CHECKSUM="44bdada043cb84acfa23372865b197f7" CHECKSUMTYPE="MD5" SIZE="52910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00246_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00246_0" MIMETYPE="image/jp2" CHECKSUM="7d6e4c963332c2507a7cbbc1a43fac03" CHECKSUMTYPE="MD5" SIZE="2445781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00246_0.jp2"/>
+      </file>
+      <file ID="jp2_00246_1" MIMETYPE="image/jp2" CHECKSUM="4e40118378023d39b49bebccf1b760ec" CHECKSUMTYPE="MD5" SIZE="2418074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00246_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00246_0" MIMETYPE="text/xml" CHECKSUM="e3eb492b1444392c3b388eb895f2914a" CHECKSUMTYPE="MD5" SIZE="82860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00246_0.xml"/>
+      </file>
+      <file ID="alto_00246_1" MIMETYPE="text/xml" CHECKSUM="cc439d9cb54ea717f57270e78fba5d2d" CHECKSUMTYPE="MD5" SIZE="85101">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00246_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0091" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="474" firstpage="473">
+              <parties id="b491-4" pgmap="491">Reliable Plumbing and Heating Company, Appellant, v. William C. Dallenbach et al., Appellees.</parties>
+              <decisiondate id="AmM" pgmap="491">Opin­ion filed November 17, 1908;</decisiondate>
+              <otherdate id="A-b" pgmap="491">modified December 16, 1908.</otherdate>
+              <attorneys id="b491-7" pgmap="491">F. M. &amp; H. I. Green, for appellant.</attorneys>
+              <attorneys id="b491-8" pgmap="491">H. Leonard Jones, for appellees.</attorneys>
+              <summary id="b491-6" pgmap="491">Mechanic’s lien. Appeal from the Circuit Court of Champaign county; the Hon. Solon Philbrick, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AjV4" pgmap="491">Reversed and remanded.</disposition>
+              <headnotes id="b491-5" pgmap="491">This case is controlled by the decision in Brokaw v. Tyler, 91 Ill. App. 148, and by that of Haas Mfg. Co. v. Springfield Amusement Park Co., 236 Ill. 452.</headnotes>
+              <opinion type="majority">
+                <author id="b491-9" pgmap="491">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AEU1" pgmap="491">delivered the opinion of the court.</p>
+                <p id="b491-10" pgmap="491(219) 492(236)">This is an appeal from a decree sustaining a de­murrer to and dismissing the interpleader of appel­lant in a mechanic’s lien proceeding instituted by ap­pellee Boyer, for the purpose of establishing a lien against a certain building, for materials furnished and work performed thereon. The interpleader avers that during the year 1896, several of the appellees, who were at the time the owners of the premises in ques­tion, leased the same to appellee Keller for use as a theater only; that the lease contained the following-­provision: “Privilege is accorded to the second party (lessee) to make alterations and repairs to the exter­ior and interior of said building, all of which is to be paid for by the second party * * * .” It is further averred that the building as then constructed was wholly unfit to be used as a theater, and that its con­struction and interior arrangement had to be re­modeled; that the lease to Keller was made with the specific understanding between the owners of the prop­erty and the lessee that he should remodel the interior of the building so as to make it suitable for theater purposes, the only purpose for which it could be used under the specific terms of the lease; that the heating and plumbing system was entirely inadequate to be used in the building when the changes were made, without altering and remodeling the same, and that it was understood by the owners that the same should be remodeled and changed by the lessee to fit the premises for use as a theater; and further, that the owners agreed that in remodeling the heating and plumbing system, so much of the old material in the building might be used as was available; that Keller th­ereupon entered into a contract with appellee Boyer to do the carpenter work in the general construction of the interior, and with appellant to so remodel and repair the heating and plumbing systems in the build­ing, as to fit the same for use as a theater; that ap­pellant thereupon entered upon and completed the per­formance of the said contract; that during the progress of the work the owners of the building were fre­quently in the building and saw that the heating and plumbing system was being changed and installed and well knew what was being done, and by whom; that after the contract was prosecuted to completion, the then owners sold and conveyed the premises to the defendants Coffin and Dallenbach, and assigned to them the'lease to Keller; and further, that appellant had filed a claim for lien with the circuit clerk within the time required by the statute.</p>
+                <p id="b492-5" pgmap="492">The vital question involved in this case is whether or not appellant can enforce a lien against the title of the defendants Coffin and Dallenbach to the prem­ises in controversy, or whether its only relief is against the leasehold interest of Keller. Under the views expressed by this court in Brokaw v. Tyler, 91 Ill. App. 148, and by the Supreme Court in the recent case of Haas Mfg. Co. v. Springfield Amusement Park Co., 236 Ill. 452, the chancellor erred in not granting the relief asked by appellant’s interpleader. The decree will therefore be reversed and the cause re­manded,</p>
+                <p id="b492-6" pgmap="492">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="491" ORDERLABEL="473" TYPE="page">
+        <fptr FILEID="tiff_00246_0"/>
+        <fptr FILEID="jp2_00246_0"/>
+        <fptr FILEID="alto_00246_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_491.2" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_491.1" BETYPE="IDREF" FILEID="alto_00246_0"/>
+              <area BEGIN="BL_491.3" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="492" ORDERLABEL="474" TYPE="page">
+        <fptr FILEID="tiff_00246_1"/>
+        <fptr FILEID="jp2_00246_1"/>
+        <fptr FILEID="alto_00246_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_492.2" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_492.3" BETYPE="IDREF" FILEID="alto_00246_1"/>
+              <area BEGIN="BL_492.4" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjV4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.8" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmM" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.9" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_491.10" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-8" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.13" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-9" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.14" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.6" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_491.7" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-7" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.12" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-4" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.4" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.5" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-5" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.5" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-6" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.6" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-10" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.17" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_492.1" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEU1" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.15" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_491.16" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-b" BETYPE="IDREF" FILEID="casebody_0091"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.11" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0054" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Glaefke v. Western Electric Co.">Alma Glaefke, Appellee, v. Western Electric Company, Appellant</name>
+          <docketnumber>Gen. No. 14,091</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 383</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="4f07774a97a4aae70f01a6a5219d7291" CHECKSUMTYPE="MD5" SIZE="36562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="37d9c6b0669079f9c0dcbb4edbb3e91e" CHECKSUMTYPE="MD5" SIZE="53884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="300530e175070ae189989c8611833b53" CHECKSUMTYPE="MD5" SIZE="51382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="faa72a7394fd358dd9ef2b17d0e23900" CHECKSUMTYPE="MD5" SIZE="46560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="8739b91964b6d3c8cf0d8bdd1b607dd7" CHECKSUMTYPE="MD5" SIZE="2345617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="2992f5374905975617a36f1e84f6a0f9" CHECKSUMTYPE="MD5" SIZE="2442932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00201_1.jp2"/>
+      </file>
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="acdbc18f0a89528910dc21e3a30082b3" CHECKSUMTYPE="MD5" SIZE="2458486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00202_0.jp2"/>
+      </file>
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="63a8b1a642f7653d988964bcc5cba3cd" CHECKSUMTYPE="MD5" SIZE="2380198">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00202_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="739be7bd55ec394df1c741b04076ff0e" CHECKSUMTYPE="MD5" SIZE="68130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="19e4da41a44721cfdaa436fbdcbe74a8" CHECKSUMTYPE="MD5" SIZE="86799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00201_1.xml"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="7058475241a2f28cd9890035222cb30c" CHECKSUMTYPE="MD5" SIZE="90646">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00202_0.xml"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="eb41d4e81e62138565c2b0f5d631195f" CHECKSUMTYPE="MD5" SIZE="81091">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00202_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0054" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="386" firstpage="383">
+              <docketnumber id="b401-8" pgmap="401">Gen. No. 14,091.</docketnumber>
+              <parties id="b401-6" pgmap="401">Alma Glaefke, Appellee, v. Western Electric Company, Appellant.</parties>
+              <decisiondate id="AZ4" pgmap="401">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b401-13" pgmap="401">Holt, Wheeler &amp; Sidley, for appellant.</attorneys>
+              <attorneys id="b401-14" pgmap="401">No appearance by appellee.</attorneys>
+              <summary id="b401-12" pgmap="401">Action in case for personal injuries. Appeal from the Circuit Court of Cook county; the Hon. Richard S. Tuthill, Judge, pre­siding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="Aj5" pgmap="401">Reversed.</disposition>
+              <headnotes id="b401-10" pgmap="401">1. Jurisdiction—when court without, to order reinstatement of cause. The court loses jurisdiction of a cause with the lapse of the term at which the final order of dismissal is entered and therefore it may not reinstate the same unless by order it has reserved its jurisdiction.</headnotes>
+              <headnotes id="b401-11" pgmap="401">2. Coram nobis—what not error of fact. To dismiss a cause upon the general call of a calendar, if it be an error, is an error of law and not of fact; such error cannot be corrected after the lapse of the term at which the order of dismissal is entered.</headnotes>
+              <opinion type="majority">
+                <author id="b401-15" pgmap="401">Mr. Justice Holdom</author>
+                <p id="A-l" pgmap="401">delivered the opinion of the court.</p>
+                <p id="b401-16" pgmap="401">This is an undefended appeal.</p>
+                <p id="b401-17" pgmap="401(48) 402(17)">Appellee sued appellant in an action on the case for personal injury, laying her ad damnum at $20,000. On December 10, 1903, her declaration was filed, to which appellant on December 22, 1903, filed a plea of the general issue. On May 2, 1906, an order was en­tered dismissing appellee’s suit for want of prose­cution and a judgment for costs entered against her.</p>
+                <p id="b402-5" pgmap="402">On motion of appellee the Circuit Court on April 4, 1907, vacated the order of dismissal and judgment for costs and reinstated the cause upon the docket. Appellant entered its motion for a new trial, which was overruled. It then moved in arrest of judgment, which also being overruled, it prayed, procured, per­fected, and now prosecutes, this appeal. It is assigned for error and argued that the order of reinstatement was erroneous as being without jurisdiction; that the trial court erred in refusing to find the issues for ap­pellant and in refusing to hold as the law the follow­ing proposition tendered by appellant:</p>
+                <p id="b402-6" pgmap="402">“The court holds as a proposition of law that under the facts and the evidence in this case the plaintiff has not made such a showing as entitles her to have her case reinstated, and the court finds for the de­fendant”.</p>
+                <p id="b402-7" pgmap="402(187) 403(13)">The motion filed by appellee was that the.case be reinstated upon the calendar and that the court amend the record of the judgment so that it should appear that the case was dismissed on the general call of the docket instead of having been dismissed on the regu­lar call for actual trial, and for such further amend­ments on the record “as shall be or seem fit” to be niade in pursuance of said motions or either of them. An affidavit of J. A. Adams was read in support of the foregoing motions, which inter alia contains this contention: “How this deponent insists that the said recital introducing said order and-judgment is wholly erroneous and unfounded in point of fact; that ac­quitting the said clerk and all concerned from any imputation of a sinister nature, deponent nevertheless claims and insists that said judgment entry, in so far as the recital above set forth is concerned, is a false entry and ought to be amended to correspond with the actual fact, which is that this suit was dis­missed and judgment rendered pursuant to said gen­eral call and not upon any actual call of the case for trial”.</p>
+                <p id="b403-4" pgmap="403">The record also contains an order of the Circuit Court authorizing a general call of cases on the law docket. In this order appears the following provis­ion: “It is further ordered that the cases so called for trial * * * may for good cause shown to the court, on notice to the opposite party or his attorney, be reinstated within ninety days from date of said order”, etc. The order of dismissal was entered on May 2, 1906, and the order of reinstatement entered April 4,1907, so that it is clear that appellee’s motion was not made within the time limited by the provision last quoted, and it is just as clear that the court had no jurisdiction to enter any order in the case eleven months after the final order of dismissal was entered. The court lost jurisdiction of the cause with the lapse of the term at which the final order was entered. Barnes v. Henshaw, 226 Ill. 605; Gray v. Ames, 220 ibid. 251.</p>
+                <p id="b403-5" pgmap="403(184) 404(35)">The power of the court to interfere with the judg­ment at all rests in its right to proceed on motion to correct any error committed by the court not appear­ing in the judgment itself or involving any proceeding of either fact or law occurring upon the trial aliunde the record and which, when made known to the court, would have the effect to void or nullify its judgment. Such a motion serves the office and function of the common law writ of coram nobis, and is in the nature of a review by the trial court of the error alleged against its judgment. Such review must be limited to errors of fact, for as such power is conferred by section 66, chapter 110, R. S., the inquiry of the court must proceed in accordance with its provisions, and being in derogation of the common law, its provisions cannot be enlarged. Section 66 supra provides that “All errors in fact committed in the proceeding of any court of record, and which by the common law could have been corrected by said writ—coram nobis —may be corrected by the court in which the error was committed upon motion in writing made at any time within five years after the rendition of final judgment in the case, upon reasonable notice”.</p>
+                <p id="b404-5" pgmap="404">If the court proceeded, in its order reinstating the cause, on the ground that it should not have dismissed the same, as it did, under the order for a general call of the law docket, such error was of law and not of fact, and therefore not reviewable by the trial judge. Domitski v. Am. Linseed Co., 221 Ill. 161.</p>
+                <p id="b404-6" pgmap="404">The record, however, discloses that the order com­plained about was neither amended nor changed in any particular. What the court did was to set aside the order of dismissal and reinstate the cause and re­store it to the docket. This it had no power to do after the passing of the term at which the order of dismissal was entered and the cause finally disposed of. That order, being made without jurisdiction, is a nullity. As said in Green v. Union Elevated R. R. Co., 118 Ill. App. 1: “Any errors in procedure were subject to review on appeal or writ of error from the final order of the Superior Court. They are not sub­ject to review upon a motion to reinstate made after the expiration of the term when the trial court has lost jurisdiction. * * * The order of dismissal was a final order in the case. It disposed of the suit.”</p>
+                <p id="b404-8" pgmap="404">Appellant has pursued, in every material particular, the method held in Domitski v. Am. Linseed Co. es­sential to present to the reviewing court the errors as­signed on the erroneous action of the trial court on the motion to correct the final order of dismissal and reinstate the case on the docket, and is entitled to prevail in its appeal.</p>
+                <p id="b404-9" pgmap="404">The judgment of the Circuit Court appealed from being erroneous, is reversed.</p>
+                <p id="b404-10" pgmap="404">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="401" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+              <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.3" BETYPE="IDREF" FILEID="alto_00201_1"/>
+              <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.2" BETYPE="IDREF" FILEID="alto_00202_0"/>
+              <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+              <area BEGIN="BL_403.7" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.3" BETYPE="IDREF" FILEID="alto_00202_1"/>
+              <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.6" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.13" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-15" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.17" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-14" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.16" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-17" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.21" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-16" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.20" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-11" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.10" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.9" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-13" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.15" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-12" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.11" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.12" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.6" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-7" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.7" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.7" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-l" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.18" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.19" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.6" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-8" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.7" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-9" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.8" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-10" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.9" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ4" BETYPE="IDREF" FILEID="casebody_0054"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.14" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

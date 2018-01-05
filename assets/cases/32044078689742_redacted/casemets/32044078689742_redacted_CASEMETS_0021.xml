@@ -1,0 +1,1220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0021" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Perryman v. Chicago City Railway Co.">Francis Perryman, Appellee, v. Chicago City Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 14,063</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 187</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="d7de353f3ee0825b3f0a31c43787598c" CHECKSUMTYPE="MD5" SIZE="50484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="fb7e1c3aad19576695bd33f7695239da" CHECKSUMTYPE="MD5" SIZE="52318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="f2d4e92b95946fd1bebe22d0145da8fc" CHECKSUMTYPE="MD5" SIZE="46220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="e6f0e7c0f9cbaeaafe04cb868aa44889" CHECKSUMTYPE="MD5" SIZE="49920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="8848e49f8f8ad153852238056690247a" CHECKSUMTYPE="MD5" SIZE="52234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="c7b4829d61fd2e2f7feaa1f56cb5d6bc" CHECKSUMTYPE="MD5" SIZE="53244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00105_1.tif"/>
+      </file>
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="166e3d67e879e89c9c27277e2d9bae71" CHECKSUMTYPE="MD5" SIZE="53432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="67a4d881866301b62cd1a58a71854f15" CHECKSUMTYPE="MD5" SIZE="53380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="8a2a3f374f653c95e2ba86ce7f02c394" CHECKSUMTYPE="MD5" SIZE="52772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="c69b407e42ba8e52735ec210a4a2e2ae" CHECKSUMTYPE="MD5" SIZE="53294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="78b98fe2c3b2aec0284111a7a3cebc5a" CHECKSUMTYPE="MD5" SIZE="51638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="7ef24be099d564e94e71a9c71c2fb940" CHECKSUMTYPE="MD5" SIZE="52062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="2ab89f3b8fee60eae68af90d74a9e5c4" CHECKSUMTYPE="MD5" SIZE="38514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="bd4f591e1e7f49c92204b806f2fa766f" CHECKSUMTYPE="MD5" SIZE="2443483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="6ff8fa99710c5452dc2ff70580e77fb2" CHECKSUMTYPE="MD5" SIZE="2438520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="f5cd7465eb23f14dbaae02746a7d69f7" CHECKSUMTYPE="MD5" SIZE="2432094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="c23d3d92fc61715f30acbbe84567b792" CHECKSUMTYPE="MD5" SIZE="2417739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="bca8f95bb5bff7b7b0dff0917a7e0387" CHECKSUMTYPE="MD5" SIZE="2470841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="a975c375a9a5e8e906466ccffb66c99c" CHECKSUMTYPE="MD5" SIZE="2446343">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00105_1.jp2"/>
+      </file>
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="82fda29559184a5602005c75cce09330" CHECKSUMTYPE="MD5" SIZE="2480624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="396c90feca3e65ef9c1edf9be34503d5" CHECKSUMTYPE="MD5" SIZE="2426816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="9951e07645864e18bf5029232958f324" CHECKSUMTYPE="MD5" SIZE="2478418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="8b850e1e3fd5ee069f6bc814a4968b26" CHECKSUMTYPE="MD5" SIZE="2444224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="d889540396064f0e67692569356933f8" CHECKSUMTYPE="MD5" SIZE="2479977">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="d11afb368481e7fcff4aba21e64e416c" CHECKSUMTYPE="MD5" SIZE="2454231">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="905cbfe5c0e2f55c14fe83d47a343f8d" CHECKSUMTYPE="MD5" SIZE="2352884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="c994247dc37d3b6199f1de0e9ae4eea2" CHECKSUMTYPE="MD5" SIZE="98776">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="221923b6457efe247204e213a5c85e11" CHECKSUMTYPE="MD5" SIZE="87410">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="fdacd28a7af82c7942e32fbd4a07bbe2" CHECKSUMTYPE="MD5" SIZE="75284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="57969aec02513044c7b87433426422ea" CHECKSUMTYPE="MD5" SIZE="88981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="a82c49dd9228a93f23f4a725e11bccfb" CHECKSUMTYPE="MD5" SIZE="87388">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="d079366f1ada3300d6b3a95f6235bb17" CHECKSUMTYPE="MD5" SIZE="89164">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00105_1.xml"/>
+      </file>
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="e80edc652cf24b98750b8d70c12c91db" CHECKSUMTYPE="MD5" SIZE="96891">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="d0451dfd82b3798ad6d104a664f62a84" CHECKSUMTYPE="MD5" SIZE="90172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="d2bc10b93dcfdc0f323137a052badbf9" CHECKSUMTYPE="MD5" SIZE="88396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="626c361b39867aa11b37aca292c0decd" CHECKSUMTYPE="MD5" SIZE="87764">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="785d212699f07d91b2d45c6018de22e8" CHECKSUMTYPE="MD5" SIZE="83399">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="5756f3a9a7595b41c47377cb6c226391" CHECKSUMTYPE="MD5" SIZE="89689">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="058472b1e2ff04c153b05bc965e93e35" CHECKSUMTYPE="MD5" SIZE="68932">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00109_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="199" firstpage="187">
+              <docketnumber id="b205-4" pgmap="205">Gen. No. 14,063.</docketnumber>
+              <parties id="b205-3" pgmap="205">Francis Perryman, Appellee, v. Chicago City Railway Company, Appellant.</parties>
+              <decisiondate id="ABD" pgmap="205">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b207-5" pgmap="207">William J. Hynes, John E. Kehoe and C. LeRoy Brown, for appellant.</attorneys>
+              <attorneys id="b207-6" pgmap="207">James C. McShane, for appellee.</attorneys>
+              <summary id="b205-10" pgmap="205">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Albert C. Barnes, Judge, presid­ing. Heard in this court at the October term, 1907.</summary>
+              <disposition id="Ak5" pgmap="205">Affirmed.</disposition>
+              <headnotes id="b205-5" pgmap="205">1. Negligence—duty of gripman to child evincing intention to cross trades. It is a question for the jury to determine whether a gripman has used proper care in the handling of his car where within his view a child, too young to he subject to the charge of contributory negligence, has evinced an intention of crossing the tracks in front of the car.</headnotes>
+              <headnotes id="b205-6" pgmap="205">2. Imputable negligence—approved instruction upon subject of. An instruction upon this subject as follows, is approved:</headnotes>
+              <headnotes id="b205-7" pgmap="205">“The court instructs the jury that even if you believe from the evidence that the plaintiff’s mother was guilty of negligence in permitting the plaintiff to go upon the street, or that his brother , was guilty of negligence in not taking proper care of him while upon the street, still such negligence, if any, upon their part can­not be charged against the plaintiff, and it is not a defense to this suit.”</headnotes>
+              <headnotes id="b205-8" pgmap="205">3. Instruction—when, upon subject of negligence, properly re­fused. An instruction as follows, is properly refused where the negligence of the defendant is charged to lie in running its street car so negligently that it ran against or was brought into collision with the plaintiff so that he was thereby knocked down and in­jured:</headnotes>
+              <headnotes id="b205-9" pgmap="205">“If the jury believe from the evidence that the plaintiff ran into the side of the car in question, and that said car did not strike or run against the plaintiff, hut that the said plaintiff ran against and struck the side of the car, then the jury must find the defend­ant not guilty.”</headnotes>
+              <p id="b205-11" pgmap="205">Statement by the Court. This is an appeal from a judgment for $9,000 of the Superior Court of Cook county, entered April 6,1907, against the Chicago City Railway Company in favor of Francis Perryman, a" minor. The judgment was based on the verdict of a jury in an action for personal injuries.</p>
+              <p id="b205-12" pgmap="205(31) 206(47)">The injury was the loss of the right leg just below the knee. The leg was there amputated in consequence of its being crushed by a street car which passed over it. The boy was four years old in May, 1905. The ac­cident occurred on August 28th of that year, at about four o’clock in the afternoon, while the child was at­tempting to cross State street in Chicago. He lived on State street near the locality.</p>
+              <p id="b206-5" pgmap="206">After the declaration had been finally amended by the withdrawal of one count and a change in the remaining one, it charged the negligence of the defendant which rendered it liable, to be, that while the plaintiff was traveling westward across State street between Taylor street and Harmon court, exercising such care as could reasonably be expected of one of his years and intel­ligence, the defendant’s servants then in charge for the defendant of the operation and management of a street car going southward on railway tracks of the defend­ant on said State street, “managed and'operated said street car in such a reckless, careless and improper man­ner” that as a direct result thereof “said street car then and there ran against or was brought into col­lision with the plaintiff, and he was thereby then and there knocked down and run over by said street car and one of his feet was so crushed”, etc., that it be­came necessary to amputate it with part of the leg.</p>
+              <p id="b206-6" pgmap="206">The plea of the defendant was the general issue of not guilty.</p>
+              <p id="b206-7" pgmap="206">After the verdict of the jury had been rendered a motion for a new trial and a motion in arrest of judg­ment were made and denied. This appeal followed.</p>
+              <p id="b206-8" pgmap="206">The thirty-five assignments of error made by the appellant reduce themselves in the brief and argument to these:</p>
+              <p id="b206-9" pgmap="206">First. The record shows the facts to be such as to make it a matter of law that no negligence on the part of the appellant caused this accident.</p>
+              <p id="b206-10" pgmap="206">Second. Even if this be not so, the finding against appellant is against the weight of the evidence.</p>
+              <p id="b206-11" pgmap="206(26) 207(22)">Third. The court erred in giving to the jury, at the request of the plaintiff, two instructions in the opinion following referred to and numbered twelve and fourteen respectively. It also erred in refusing an instruction tendered by the defendant, numbered twenty-three, which will be hereinafter set forth.</p>
+              <p id="b207-4" pgmap="207">Fourth. In the examination of one witness for the plaintiff, a statement of the witness was objected to by counsel for the defendant as too indefinite and remote. The objection and a motion to strike the statement out were overruled.</p>
+              <opinion type="majority">
+                <author id="b207-7" pgmap="207">Mr. Justice Brown</author>
+                <p id="AL" pgmap="207">delivered the opinion .of the court.</p>
+                <p id="b207-8" pgmap="207">The chief contention of the appellant in this cause is that the verdict is against the weight of the evidence, for this proposition may be said to include the narrower one that there is no evidence in the rec­ord sufficient to sustain a recovery and that the court should have directed a verdict for the defendant.</p>
+                <p id="b207-9" pgmap="207">We cannot, however, assent either to the proposition that the Superior court should have directed a verdict or that it should have granted a new trial after the verdict for the plaintiff was returned. We think it clearly, a case for the jury and, though a close one, not free from doubt, one in which the verdict of the jury rendered, as we think it was, under adequate and ac­curate instructions, should not be interfered with by us. It is not manifestly against the evidence.</p>
+                <p id="b207-10" pgmap="207">The facts, as we gather them from that evidence, are these:</p>
+                <p id="b207-11" pgmap="207(52) 208(70)">The accident took place on State street between Taylor street and Harmon court. Harmon court ex­tends from State street east two hundred and four feet south of where Taylor street runs into State street from the west. Neither Harmon court nor Taylor street cross State street. They end there. The little boy injured lived with his parents in a rear apartment at 510 State street, which is three doors south of Tay­lor street and on the West side of State street. Five hundred and ten was one of the even numbers running from 506 to 512 given to a building of a hundred feet frontage on said west side of State street and on the southwest corner of Taylor street.</p>
+                <p id="b208-5" pgmap="208">South of this building, the west side of State street to beyond a point opposite Harmon court had no build­ings on it, but a system of bill-boards was the western boundary of the sidewalk.</p>
+                <p id="b208-6" pgmap="208">On the other side of the street there was a continuous line of buildings from opposite Taylor street south to Harmon court. On the northeast corner of Harmon court and State street was a building with a frontage of forty feet occupied as a saloon and numbered 523 and 525. North of that was a candy store numbered 521, with a frontage of twenty feet, and a doorway about fifty feet from the corner. North of that was a junk shop numbered 519, its doorway being about sev­enty feet north of the corner.</p>
+                <p id="b208-7" pgmap="208">State street in this locality is one hundred feet wide. Two street car tracks are laid in the centre of it, the west track for south-bound and the east track for north-bound cars.</p>
+                <p id="b208-8" pgmap="208">The east sidewalk on State street was twenty feet wide, and from the sidewalk to the east car track it was about twenty-five feet. The distance between the tracks was four feet and between the rails of each track four feet eight and one half inches. Thus the distance between the east rail of the west track and the curb of the east sidewalk was about thirty-four feet, and from that rail to the building line about fifty-four ' feet. The street at this point is a busy one.</p>
+                <p id="b208-9" pgmap="208(42) 209(12)">At about four o ’clock in the afternoon of August 28, 1908, the mother of the plaintiff gave permission to him and to his older brother Edmund, who was eight years old, to go out in the street. She says that “they wanted to go down in front and sit on the steps awhile”.</p>
+                <p id="b209-4" pgmap="209">They evidently crossed the street and went to the candy store at No. 521. They were seen by several people to come from this store, go a few steps south, and then attempt to cross State street to the west. The older boy, Edmund, crossed the tracks safely; the younger one, Francis, the plaintiff, was struck by the east foot-board of a south-bound grip car which was drawing two trailers. He was knocked under the grip car and his right leg so crushed that amputation was necessary.</p>
+                <p id="b209-5" pgmap="209(257) 210(62)">There is a contention between the plaintiff’s and defendant’s counsel as to the exact movements of the plaintiff immediately before the accident. The theory of the plaintiff’s counsel is that the two boys were to­gether until they both had crossed the east or north­bound track, that between the tracks the older boy, per­haps in fear of the coming train, so quickened his movements as to cross the western or south-bound track and nearly reach the sidewalk before the cars came, but that the younger one, fearful or confused, hesitated, slowed up or stopped just momentarily, and then, as his brother turned and beckoned to him to hasten, ran forward just in time to be caught and thrown down by the nearest foot-board of the grip car of the approach­ing train. That train was eighty feet in length, and had stopped at the south side of Taylor street. The computation plaintiff’s counsel makes is, that as the accident happened about forty feet north of Harmon court, the train had run about 85 feet when it struck the plaintiff. It was not running at.a high speed. But it is claimed by the plaintiff that it had much to do with the unfortunate accident that some fight or dis­turbance was going on at the time on the west side of State street near the Taylor street corner, and that to this disturbance, as the plaintiff’s counsel puts it, “the gripman had been devoting his attention after starting up from Taylor street until just before strik­ing plaintiff, when his attention was brought back to the track ahead by the hollering of persons on the east side of State street who had seen plaintiff’s dan­ger. The gripman then also hollered and attempted to stop his train and did so in a short distance, but not until the east foot-board of the grip car had struck the plaintiff”.</p>
+                <p id="b210-5" pgmap="210">The theory of the defendant’s counsel, on the other hand, to quote from their argument, is, “The accident happened about sixty feet north of Harmon court, * * * about the time the train stopped at Taylor street or a little before, the two little Perryman boys * * * started west from the' east sidewalk on State street. They ran together across that space between the east sidewalk and the east track. When that space had been covered, the little fellow stopped. The larger boy continued on to the west, and when he reached the west sidewalk, or within a few feet of that point, he turned and beckoned and shouted for the younger child to ‘come’ on to the west. Meanwhile, the street car train had started and was running slowly to the south. When the car was very close, about ten feet north of plaintiff, the little boy started westward again, and before the car could be stopped came in contact with the foot-board on the east side of the grip car and was injured”.</p>
+                <p id="b210-10" pgmap="210(122) 211(248)">As subsequently stated in defendant’s argument, en­larging on the gripman’s actions, it is “When the front of the south-bound grip train had run about twenty feet from the stopping place and was about forty feet north of plaintiff, the gripman saw plaintiff approach­ing the car tracks j immediately the gripman applied his brake, and checked up the speed; this brought the car well under control and it could have been stopped before reaching the line on which plaintiff had been traveling; but when the car reached a point fifteen or twenty feet north of plaintiff, the plaintiff stopped still; the place where plaintiff stopped was about the east’ rail of the east track, which was nine or ten feet east of the track upon which the south-bound car was run­ning; the gripman saw that the boy had stopped, ap­parently to await the passage of the train, and the gripman released his brake and put on the grip; a moment after he did this, the boy started from his posi­tion of stand-still and ran westward. The gripman im­mediately made efforts to stop, but as he had just re­leased his brake he could not bring the car to a stop be­fore plaintiff and the side of the car were brought in contact. * * * On the gripman’s own testimony, the question was whether he had a right to drive the car past the boy standing at the side of the tracks. If the testimony for the plaintiff as to the gripman looking-­aside be believed, that testimony furnishes no ground for liability. The failure to see the child would make no difference, as the gripman would not have been re­quired by law to stop had he seen the child. * * * It is a complete defense to the evidence of some of plaintiff’s witnesses on the subject of the gripman glancing aside, to show that, if the gripman had been looking at the Perryman hoy as he stood on the street, the gripman would not have stopped any way, because the little boy was then in safety and with no apparent intention of running into the course of the street car.”</p>
+                <p id="b211-5" pgmap="211">It seems to us that in-the words of counsel’s argu­ment which we have italicized lies the gist of it.</p>
+                <p id="b211-6" pgmap="211">If it were clear that this was what the evidence showed, the case would he easier to decide, but we by no means consider it so clear. The contention of the plaintiff is not so much that in such a case the defend­ant would be liable, as it is that this is not such a case.</p>
+                <p id="b211-7" pgmap="211">In distinguishing the catena of authorities produced- and discussed by the defendant’s counsel, the plaintiff’s counsel say: ‘ ‘ These, with one or two exceptions, were cases where the children, though perhaps close to the track in some instances, were still in a safe place, and indicating no intention of crossing the track, prior to a sudden and unexpected movement to do so, resulting in their injury”.</p>
+                <p id="b212-4" pgmap="212">He argues that in the case at bar, the four-year old child, although perhaps in a place of safety when first seen by the gripman, was nevertheless (and that this is so even assuming the gripman’s version of the accident to be correct) indicating an intention to cross the track. As it did indicate such an intention, the gripman, considering the infancy of the child, its ina­bility to exercise care for its own safety, and its inca­pacity for contributory negligence, was held in law to anticipate that it might attempt to cross the track in such a manner that the car would catch and injure it. Such an anticipation imposed upon him a very high de­gree of care, and it was for the jury to determine whether it was given.</p>
+                <p id="b212-5" pgmap="212">We are of the opinion that this argument is sound, and the conclusion that it was a question for the jury to determine whether the gripman was as careful as the law required (according to their instruction), is correct, if the premise is correct that the child was in­dicating an intention to cross the track.</p>
+                <p id="b212-6" pgmap="212">And, moreover, we consider that this very question, whether or not the child was indicating an intention to cross the street when first seen by the gripman, was in itself another question for the jury.</p>
+                <p id="b212-7" pgmap="212">This left them the judges of the facts to be legiti­mately inferred from all the testimony concerning the child’s position, appearance and surroundings when on the street, and of the actions of the gripman at, im­mediately preceding, and some little time before the accident. For we cannot assent to the proposition of the defendant’s counsel that it is immaterial whether or not “after the car started up from its position of standstill at Taylor street and before the accident, the gripman had turned to the northwest and by reason of his gaze being so diverted in that direction, failed to see the little boy”.</p>
+                <p id="b212-8" pgmap="212(36) 213(39)">It seems evident to us that it by no means follows from the fact, if it be a fact, that “the gripman started to stop just as soon as the little boy left his position of safety and started toward the car”, that there could have been under no circumstances a duty which he failed to perform because of his not having his at­tention properly directed before him, while coming from Taylor street southward.</p>
+                <p id="b213-4" pgmap="213">If when only a few feet from the plaintiff he first saw him, it might well have been true, as he himself said it was, that although he saw the two boys, “there was nothing to indicate to him that they were together or that they had any interest in each other”. But if his attention from the time that he left Taylor street had been directed to his immediate duty, it might, on the other hand, have been properly inferred from the other testimony that he would have seen the movements of these two small children from a point at least slightly further back, and seen what we have indicated was an essential part of this whole matter—that al­though for a moment, perhaps, standing still and, at that precise moment, “in a place of safety”—the plaintiff was, and at every moment since leaving the sidewalk had been, “indicating an intention to cross the track”.</p>
+                <p id="b213-5" pgmap="213">In other words, while the gripman may have be­lieved from what he actually saw, that the child was in­dicating no such intention, that belief might have been erroneous (as we think it was) and the result of not seeing what he ought to have seen—the start together, the running together, the separation by the naturally greater agility of the older child, his call to the other by action and voice to come on, the fear, confusion and hesitation of the little child—all indicating his “inten­tion to cross the street”, and calling for a great de­gree of care and caution on the part of the gripman in running his train.</p>
+                <p id="b213-6" pgmap="213(51) 214(125)">If the proper decision of this cause turns on the matters on which the witnesses are in conflict, we can find no reason for holding that the verdict of the jury, assuming it to have been based on that version of the story most favorable to the plaintiff, was clearly and manifestly against the weight of the evidence. It is not necessary to remind us, as is often done, that it is our right and duty to weigh evidence. We are quite aware of it. But when the question of the weight of the evidence turns purely on the credibility of the re­spective witnesses, when, to establish the greater weight on the one side or the other, the argument used must be from their habits, appearance, business, manner of testifying, or the like, it is plain that it is the jury and not we who have the best chance and ability to reach a right decision, and that arguments and analysis of the testimony very appropriate before them can be of small service to us.</p>
+                <p id="b214-5" pgmap="214">In this case, however, except as to the looking away of the gripman during his approach to the immediate locality of the accident (to which five witnesses sub­stantially swear), we think the differences between the witnesses not very material. Some were more defi­nite than others and their testimony as it appears in print more clearly expressed; but whether it was just after or before the east track was passed by the plaint­iff, for example, that the fatal short stop, hesitation or fear appeared, is not, in our opinion, the turning-­point of this case, and this is all materially that the witnesses differed about.</p>
+                <p id="b214-6" pgmap="214">The question, therefore, whether we should affirm this judgment or not, reduces itself to whether there is or is not shown reversible error in the rulings on the admission of evidence or on instructions.</p>
+                <p id="b214-7" pgmap="214">One instance only of the first is objected to. When the witness Ash, who at the time of the accident was standing in front of 521 State street and saw it, was on the stand in direct examination, he testified that he saw at about the same time “some excitement going on at Taylor street”, and that he noticed the gripman of this south-bound car looking back northward; that he couldn’t tell the exact locality of the car at the time, but that it was between Taylor street and Harmon court.</p>
+                <p id="b215-3" pgmap="215">At the close of the direct examination before the cross-examination began, the counsel for the defend­ant moved to strike out this testimony on the ground that the position of the car when the gripman was look­ing back was too indefinitely described. The court de­nied the motion.</p>
+                <p id="b215-4" pgmap="215">The entire distance from Taylor street to Harmon court is only 204 feet, and the computations of plaint­iff and defendant respectively fix the place of the ac­cident at some distance between sixty-five and eighty-­five feet from the point at which the grip car stopped after crossing Taylor street. We think, as we indi­cated above, that it was material whether the gripman looked back instead óf ahead at any time after the train started from Taylor street until the accident occurred.</p>
+                <p id="b215-5" pgmap="215">The court committed no error in refusing to strike out this testimony.</p>
+                <p id="b215-6" pgmap="215">Examination of the instructions given to the jury convinces us that the jury were fully and fairly in­structed on the law, and that all the insistence that could be properly desired by defendant was placed in the given instructions on the proposition of law that if the accident in question was due to any cause but the negligence of the defendant’s servants, the defend­ant was not liable, and that they must not find the de­fendant guilty unless they believed from the evidence that the defendant’s servant was so guilty of negli­gence which was the proximate cause of the injury. They were told in various forms that the gripman was held only to ordinary care, and that the happening of the accident in itself furnished no ground for holding the defendant liable.</p>
+                <p id="b215-7" pgmap="215">It is, however, insisted that the instruction num­bered twelve, tendered by the plaintiff and given by the court, as follows: “The court instructs the jury that even if you believe from the evidence that the plaint­iff’s mother was guilty of negligence in permitting the plaintiff to go upon the street, or that his brother was</p>
+                <p id="b216-4" pgmap="216">guilty of negligénce in not taking’ proper care of him while upon the street, still such negligence, if any, upon their part cannot be charged against the plaintiff, and it is not a defense to this suit”, was erroneous.</p>
+                <p id="AkD" pgmap="216">It is conceded by the defendant that this instruction down to the words “and it is not a defense to this suit”, is unobjectionable, but it is said that the ad­dition of these words made it misleading to the jury. We do not think so. The brother’s act was not a de­fense to the suit, and the jury were, as we have noted, repeatedly told that if the defendant was guilty of no negligence, that was a perfect defense.</p>
+                <p id="b216-6" pgmap="216">The definition of negligence in instruction fourteen tendered by the plaintiff and given by the court, is objected to as improper in an instruction although “passable” in an opinion of a court. We do not so regard it. Since its original use by Baron Alderson in 1856 in Blythe v. The Birmingham Water Works Com­pany, 11 Exch. 784, it has become almost a classic in legal literature and has been quoted with approval by the Supreme Court of this State several times, as well as by that of many other jurisdictions: We see no reason to regard it as misleading or inapplicable in the context in which it was used in the instruction com­plained of.</p>
+                <p id="b216-7" pgmap="216">Instruction numbered twenty-three, tendered by the defendant, was refused. It ran as follows:</p>
+                <p id="b216-8" pgmap="216">“If the jury believe from the evidence that the plaintiff ran into the side of the car in question, and that said car did not strike or run against the plaintiff, but that the said plaintiff ran against and struck the side of the car, then the jury must find the defendant not guilty”.</p>
+                <p id="b216-9" pgmap="216">Its refusal is complained of as reversible error by the defendant. We do not think it should have been given. The amended declaration charged the negli­gence of the defendant to lie in running its street car so negligently that it ran against or was brought into collision with the plaintiff, and so that he was thereby knocked down and injured.</p>
+                <p id="b217-3" pgmap="217">It did not make any difference whether it was the end of the foot-board (as seems almost certain from the evidence) or some other part of the car which first struck the plaintiff (Chicago West Division Railway Company v. Ryan, 131 Ill. 474; South Chicago City Railway Company v. Kinnare, 216 Ill. 451), if it was through its negligent operation that the collision oc­curred. And even if the instruction were not in it­self likely to be misleading and objectionable, it would hardly be reversible error to refuse it, The jury, as we have said, were fairly and fully instructed on the law applicable to the defendant's theory of the facts.</p>
+                <p id="Adqp" pgmap="217">The judgment of the Superior Court is affirmed~</p>
+                <p id="Ay8" pgmap="217">Affirmed..</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="205" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.2" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.3" BETYPE="IDREF" FILEID="alto_00103_1"/>
+              <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.2" BETYPE="IDREF" FILEID="alto_00104_0"/>
+              <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.3" BETYPE="IDREF" FILEID="alto_00104_1"/>
+              <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.2" BETYPE="IDREF" FILEID="alto_00105_0"/>
+              <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.3" BETYPE="IDREF" FILEID="alto_00105_1"/>
+              <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="211" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+              <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+              <area BEGIN="BL_211.8" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+              <area BEGIN="BL_212.3" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.2" BETYPE="IDREF" FILEID="alto_00107_0"/>
+              <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.3" BETYPE="IDREF" FILEID="alto_00107_1"/>
+              <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.2" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.1" BETYPE="IDREF" FILEID="alto_00108_0"/>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+              <area BEGIN="BL_216.3" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.2" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.7" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.6" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.8" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.9" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.6" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.7" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.16" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.15" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.11" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_205.12" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adqp" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.7" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.7" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.6" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.5" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.7" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            <area BEGIN="BL_211.1" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkD" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.13" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.14" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.13" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.9" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.8" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.12" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.11" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.9" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.10" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.8" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.9" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABD" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.14" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.8" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.6" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.7" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.7" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.10" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.11" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.10" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.9" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

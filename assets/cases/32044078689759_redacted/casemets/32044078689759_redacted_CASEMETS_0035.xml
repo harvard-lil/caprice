@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0035" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Doane v. Pierce">John Doane, Appellant, v. Joseph Pierce, Appellee</name>
+          <docketnumber>Gen. No. 4,981</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 267</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="553b817e30831ee6fc73d567335e9ce3" CHECKSUMTYPE="MD5" SIZE="37528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_0.tif"/>
+      </file>
+      <file ID="tiff_00142_1" MIMETYPE="image/tiff" CHECKSUM="ebf63c5ca61d4148ae34f3a8952aae08" CHECKSUMTYPE="MD5" SIZE="52322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_1.tif"/>
+      </file>
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="98762060d9b1071615a710a140f6fb90" CHECKSUMTYPE="MD5" SIZE="43152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00143_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="7e6b78e6789df85fff773b97ae63cfa9" CHECKSUMTYPE="MD5" SIZE="2293891">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_0.jp2"/>
+      </file>
+      <file ID="jp2_00142_1" MIMETYPE="image/jp2" CHECKSUM="969e08c69dde0a9a7f69dcb77e10e2ad" CHECKSUMTYPE="MD5" SIZE="2374279">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00142_1.jp2"/>
+      </file>
+      <file ID="jp2_00143_0" MIMETYPE="image/jp2" CHECKSUM="d6d27da1dcd7413b3749959866cfd85a" CHECKSUMTYPE="MD5" SIZE="2327436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00143_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="8bfda469049da12eda5ae03affeae662" CHECKSUMTYPE="MD5" SIZE="66135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00142_0.xml"/>
+      </file>
+      <file ID="alto_00142_1" MIMETYPE="text/xml" CHECKSUM="edfc0da089f2b8e4107108e8a67457e3" CHECKSUMTYPE="MD5" SIZE="91711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00142_1.xml"/>
+      </file>
+      <file ID="alto_00143_0" MIMETYPE="text/xml" CHECKSUM="5fbd6adde66bdb0315d3c4dca13d7c12" CHECKSUMTYPE="MD5" SIZE="70467">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00143_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="269" firstpage="267">
+              <docketnumber pgmap="283" id="b283-8">Gen. No. 4,981.</docketnumber>
+              <parties pgmap="283" id="b283-7">John Doane, Appellant, v. Joseph Pierce, Appellee.</parties>
+              <decisiondate pgmap="283" id="A-V">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="283" id="AvO">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="283" id="Am6">Rehearing denied October 9, 1908.</otherdate>
+              <attorneys pgmap="283" id="b283-11">Jones &amp; Rogers and J. E. Matteson, for appellant.</attorneys>
+              <attorneys pgmap="283" id="b283-12">Faissler &amp; Cochran, for appellee.</attorneys>
+              <summary pgmap="283" id="b283-10">Assumpsit. Appeal from the Circuit Court of Dekalb county; the Hon. Linus C. Ruth, Judge, presiding.</summary>
+              <disposition pgmap="283" id="ACe">Reversed and remanded.</disposition>
+              <headnotes pgmap="283" id="b283-9">Verdict—when set aside as against the evidence. A verdict man­ifestly against the weight of the evidence will be set aside on review.</headnotes>
+              <opinion type="majority">
+                <author pgmap="283" id="b283-13">Mr. Presiding Justice Thompson</author>
+                <p pgmap="283" id="ARE">delivered the opin­ion of the court.</p>
+                <p pgmap="283" id="b283-14">This was an action in assumpsit brought by John Doane, appellant, against Joseph Pierce, appellee, to recover for 1060 bushels and 20 pounds of oats at thirty-nine and one-half cents per bushel. A jury re­turned a verdict for the defendant. A motion for a new trial was overruled and plaintiff appeals to this court.</p>
+                <p pgmap="283(19) 284(155)" id="b283-15">The record shows that John Doane owns a farm near the village of Malta, in DeKalb county, Illinois. This farm had been occupied for many years by George Doane, a son of plaintiff, as a tenant of his father. The farm was rented on shares, the father getting as rent one-half of the crops raised or one-half of the proceeds of the sale of crops. Pierce is a grain dealer at Malta, having bought grain there for eighteen years, and knows the Doane farm. In the year 1906 when the oats were thrashed in August, John Doane was not willing to sell his share at the price oats were then selling at. George Doane desired to sell his share at that time. His half of the oats were hauled direct from the threshing machine to the market and sold to ap­pellee, who paid George Doane at that time for his grain. Appellant’s share of the oats were hauled from the machine to a corn crib on the farm and there stored for him.</p>
+                <p pgmap="284(224) 285(282)" id="b284-5">In January appellee claims that George Doane talked to him about selling him some grain, and bor­rowed $250 from him, but appellee does not claim that any grain was sold to him at that time. In April, 1907, appellant saw appellee at his elevator and inquired of him the price of oats. Appellee told him they were worth thirty-nine and one-half cents. Appellant asked how long he could have to deliver the oats and appellee said a week or so; appellant thereupon said all right he could have the oats. Within a week after this con­versation the half of the oats that had been stored in the crib for appellant were delivered to appellee at his elevator, by Gus Carlson, a hired man of George Doane, and by Francis Doane, a son of George Doane. ■ Carlson and Francis Doane both testify they told ap­pellee when delivering the oats that they were the oats of appellant. This the appellee denies. Thereafter appellant went to appellee to get his pay for the oats. Appellee told appellant that his son George owed him some money, and that he wanted to take it out of the pay for the oats, but appellant refused to let him and appellee would not pay. The appellant, his son George, George’s hired man, Carlson, and Francis Doane, the son of George, all testify the oats belonged to appellant and had been set off to him. No person testifies that they did not belong to appellant, neither was there any testimony denying the fact that the oats had been divided and set off to-appellant as his share when they were thrashed. There is no question that the value of the oats at the agreed prices was $419.09; even ap­pellee does not claim but that appellant is entitled to $168.91. The only witness that testified that George Doane claimed any interest in the oats was one Crosby, and his testimony is that some time after the oats in question had been sold and delivered, in a conversation between George Doane and appellant, George said “they were his oats and he should- stay by Pierce,” and that appellant there claimed that he owned every­thing and that the oats were his. This evidence was offered as evidence in chief in behalf of appellee to show that the oats belonged to George. This evidence was improper for that purpose, as the appellant there claimed that he owned them, and George’s statement could not prejudice his claim. It might have been proper in impeachment of George Doane, if the proper foundation had been laid, but that not having been done it was not proper for any purpose. The clear preponderance of the evidence is that the oats belonged to appellant and were sold by him to appellee. The verdict should have been set aside as manifestly against the weight of the evidence, and for the error in refusing to do so the judgment must be reversed and the cause remanded for a new trial.</p>
+                <p pgmap="285" id="b285-5">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="283" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.2" BETYPE="IDREF" FILEID="alto_00142_0"/>
+              <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="284" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00142_1"/>
+        <fptr FILEID="jp2_00142_1"/>
+        <fptr FILEID="alto_00142_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.2" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_284.3" BETYPE="IDREF" FILEID="alto_00142_1"/>
+              <area BEGIN="BL_284.4" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="285" ORDERLABEL="269" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jp2_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.3" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.2" BETYPE="IDREF" FILEID="alto_00143_0"/>
+              <area BEGIN="BL_285.4" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARE" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.21" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_283.22" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-15" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.24" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_284.1" BETYPE="IDREF" FILEID="alto_00142_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.17" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-V" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.15" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_283.16" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-12" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.19" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-13" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.20" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.10" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_283.11" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.18" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACe" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.14" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvO" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.12" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            <area BEGIN="BL_283.13" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-14" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.23" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.7" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.8" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.9" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b284-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_284.5" BETYPE="IDREF" FILEID="alto_00142_1"/>
+            <area BEGIN="BL_285.1" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.5" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

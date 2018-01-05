@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0075" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Folrath v. Hutchin">Davis B. Folrath, Appellee, v. Walter Hutchin, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 434</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00226_1" MIMETYPE="image/tiff" CHECKSUM="d23a149a6905a0ab3ff2a96f72fe3e9d" CHECKSUMTYPE="MD5" SIZE="41776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00226_1.tif"/>
+      </file>
+      <file ID="tiff_00227_0" MIMETYPE="image/tiff" CHECKSUM="cc4639cbfcfc883b32bc6313778f4c4e" CHECKSUMTYPE="MD5" SIZE="37460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00227_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00226_1" MIMETYPE="image/jp2" CHECKSUM="cdf1fb01e62d50e2f9ee8d1a438d8cdb" CHECKSUMTYPE="MD5" SIZE="2347070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00226_1.jp2"/>
+      </file>
+      <file ID="jp2_00227_0" MIMETYPE="image/jp2" CHECKSUM="bd7e8b31d9ebfc126c767582844eed25" CHECKSUMTYPE="MD5" SIZE="2354580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00227_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00226_1" MIMETYPE="text/xml" CHECKSUM="62a0749643ab86164e74bf657d4cd9c4" CHECKSUMTYPE="MD5" SIZE="75518">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00226_1.xml"/>
+      </file>
+      <file ID="alto_00227_0" MIMETYPE="text/xml" CHECKSUM="5b6b3275f4a5d96b128afa8fe6b6ed38" CHECKSUMTYPE="MD5" SIZE="59867">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00227_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0075" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="435" firstpage="434">
+              <parties id="b452-4" pgmap="452">Davis B. Folrath, Appellee, v. Walter Hutchin, Ap­pellant.</parties>
+              <decisiondate id="AKI" pgmap="452">Opinon filed November 17, 1908.</decisiondate>
+              <attorneys id="b452-8" pgmap="452">C. E. Schroll, for appellant.</attorneys>
+              <attorneys id="b452-9" pgmap="452">Buckingham &amp; Gray, for appellee.</attorneys>
+              <summary id="b452-7" pgmap="452">Forcible detainer. Appeal from the Circuit Court of Macon county; the Hon. William G. Cochran, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A6N" pgmap="452">Affirmed.</disposition>
+              <headnotes id="b452-5" pgmap="452">1. Statute of frauds—who may avail of. A lessee entitled to possession of demised premises may urge as against a former tenant in possession that such possession was under an agreement void by virtue of the statute of frauds.</headnotes>
+              <headnotes id="b452-6" pgmap="452">2. Landlord and tenant—when demand for possession not essen­tial. Demand for possession is not essential where the tenant is in possession without right.</headnotes>
+              <opinion type="majority">
+                <author id="b452-10" pgmap="452">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A-S" pgmap="452">delivered the opinion of the court.</p>
+                <p id="b452-11" pgmap="452(168) 453(70)">This is an appeal by Hutchins, the appellant, from a judgment rendered against him in a forcible entry and detainer proceeding instituted by Folrath, the appellee. The material facts are the following: Hut-­chins and his partner, one Hardy, had leased from Carter, the owner, the premises in controversy, for the period of five years from March 1, 1902. It ap­pears from the testimony of Hutchins and Hardy, that during July, 1905, they had a conversation with Car­ter relative to a renewal of the lease at its expiration, and that Carter then agreed orally to execute to them a written lease for the premises, upon the expiration of the one they then held, at a rental of $1,600 per annum, payable monthly, and for a period of either five or ten years at their option. Hutchins further testified that upon the following rent day Carter in­formed him that he had decided not to rent to them again. In August, 1903, Carter leased the premises to Folrath for the term of ten years from March 1, 1907, at $1,600 per annum. On March 1, 1907, Hutchins, to whom Hardy had assigned his interest, tendered to Carter one month’s rent at the rate of $1,600 per annum. Carter refused to accept the same and on March 4th, made a demand in writing for possession of the premises, and upon refusal to surrender them, brought the present suit.</p>
+                <p id="b453-5" pgmap="453">Appellant concedes that the alleged parol agreement for a new lease, for a longer period than one year, was voidable under the Statute of Frauds, but insists that as Folrath was not privy to the contract he was not in a position to take advantage of the statute. Such position is untenable. (Best v. Davis, 44 Ill. App. 624). In reply to appellant’s further contention that inasmuch as he was rightfully in possession under an oral agreement for a lease, the only way in which such occupancy could be terminated was by thirty days’ notice in writing, it will suffice to say that appellant’s own testimony shows that such agreement, if made, was rescinded by Carter before it was acted upon by appellant and Hardy. He was therefore not in pos­session under an existing and binding agreement at the time demand for possession was made.</p>
+                <p id="b453-6" pgmap="453">In this view of the case the error in giving appel­lee’s second instruction was harmless. The judgment will be affirmed.</p>
+                <p id="b453-7" pgmap="453">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="452" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00226_1"/>
+        <fptr FILEID="jp2_00226_1"/>
+        <fptr FILEID="alto_00226_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.1" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_452.2" BETYPE="IDREF" FILEID="alto_00226_1"/>
+              <area BEGIN="BL_452.3" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="453" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00227_0"/>
+        <fptr FILEID="jp2_00227_0"/>
+        <fptr FILEID="alto_00227_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.3" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_453.2" BETYPE="IDREF" FILEID="alto_00227_0"/>
+              <area BEGIN="BL_453.4" BETYPE="IDREF" FILEID="alto_00227_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-9" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.13" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-8" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.12" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6N" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.9" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKI" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.10" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.11" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.5" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.6" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b453-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_453.7" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-5" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.5" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-4" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.4" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-7" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.7" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.8" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-6" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.6" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-S" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.15" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_452.16" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-11" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.17" BETYPE="IDREF" FILEID="alto_00226_1"/>
+            <area BEGIN="BL_453.1" BETYPE="IDREF" FILEID="alto_00227_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b452-10" BETYPE="IDREF" FILEID="casebody_0075"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_452.14" BETYPE="IDREF" FILEID="alto_00226_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

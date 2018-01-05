@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0037" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="McKeand v. Feinberg">William B. McKeand, Defendant in Error, v. Moses S. Feinberg et al., Plaintiffs in Error</name>
+          <docketnumber>Gen. No. 14,232</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 274</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="6f43926b62c6e73d2a07b4b940983b6b" CHECKSUMTYPE="MD5" SIZE="42770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="ef3f8148f6c2c78c04c5769573b57df2" CHECKSUMTYPE="MD5" SIZE="45952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00147_0.tif"/>
+      </file>
+      <file ID="tiff_00147_1" MIMETYPE="image/tiff" CHECKSUM="9c236f4eeb0eab4edb38ab2cd6e2216c" CHECKSUMTYPE="MD5" SIZE="52112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00147_1.tif"/>
+      </file>
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="3b4e5fd29a893197ac6b6410d1303d5b" CHECKSUMTYPE="MD5" SIZE="45516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="7d667cf7815d83c3f5217246408f4a50" CHECKSUMTYPE="MD5" SIZE="2309107">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00146_1.jp2"/>
+      </file>
+      <file ID="jp2_00147_0" MIMETYPE="image/jp2" CHECKSUM="9e27fa677f8d8d84431e4392f0df05a5" CHECKSUMTYPE="MD5" SIZE="2426454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00147_0.jp2"/>
+      </file>
+      <file ID="jp2_00147_1" MIMETYPE="image/jp2" CHECKSUM="2653ebfbd66844e7a7689598e04cdc36" CHECKSUMTYPE="MD5" SIZE="2418474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00147_1.jp2"/>
+      </file>
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="816fea34f807fbdbb624c5701d4dc7e4" CHECKSUMTYPE="MD5" SIZE="2402035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00148_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="2f2581001c43f78f574cf9bb81d999dd" CHECKSUMTYPE="MD5" SIZE="79004">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00146_1.xml"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml" CHECKSUM="122555c3dfa2d541505137edc487a804" CHECKSUMTYPE="MD5" SIZE="76857">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00147_0.xml"/>
+      </file>
+      <file ID="alto_00147_1" MIMETYPE="text/xml" CHECKSUM="4d67c3bad5acd90ea9edcf9b88f3e1d7" CHECKSUMTYPE="MD5" SIZE="93422">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00147_1.xml"/>
+      </file>
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="af591547a2f7f118c961a3daee106496" CHECKSUMTYPE="MD5" SIZE="87954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00148_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0037" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="277" firstpage="274">
+              <docketnumber id="b292-8" pgmap="292">Gen. No. 14,232.</docketnumber>
+              <parties id="b292-7" pgmap="292">William B. McKeand, Defendant in Error, v. Moses S. Feinberg et al., Plaintiffs in Error.</parties>
+              <decisiondate id="Adg" pgmap="292">Opinion filed De­cember 18, 1908.</decisiondate>
+              <attorneys id="b293-3" pgmap="293">B. C. Bachrach, for plaintiffs in error.</attorneys>
+              <attorneys id="b293-4" pgmap="293">Joseph O. Morris, for defendant in error.</attorneys>
+              <summary id="b292-10" pgmap="292">Assumpsit. Error to the Municipal Court of Chicago; the Hon. Judson F. Going, Judge, presiding. Heard in the Branch Appel­late Court at the March term, 1908.</summary>
+              <disposition id="A3q" pgmap="292">Affirmed.</disposition>
+              <headnotes id="b292-9" pgmap="292">Appeals and errors—when finding of court will not he reversed. Where a trial is had by the court as to the facts, the court stands in the place of the jury and the decision will he reversed or af­firmed by the same rules which govern when the facts are tried by a jury, and the finding not being manifestly against the weight of the evidence it will not he reversed.</headnotes>
+              <opinion type="majority">
+                <author id="b293-5" pgmap="293">Mr. Justice Baker</author>
+                <p id="AGY" pgmap="293">delivered the opinion of the court.</p>
+                <p id="b293-6" pgmap="293">The plaintiff in an action in the Municipal Court against plaintiff in error Feinberg, as maker, and plaintiff in error Mayer as gurantor of a promissory note, of which the following is a copy:</p>
+                <p id="b293-7" pgmap="293">‘ ‘ Chicago, August 1, 1905.</p>
+                <p id="b293-8" pgmap="293">Four months after date I promise to pay to the order of W. B. McKeand &amp; Co. Five Hundred Dollars at 803 Rookery Bldg., Chicago, value received with interest at the rate of 5 per cent per annum.</p>
+                <p id="b293-9" pgmap="293">M. S. Feikberg.</p>
+                <p id="b293-10" pgmap="293">Endorsements: George Mater,”</p>
+                <p id="b293-11" pgmap="293">had judgment for $543.80, to reverse which this writ of error is prosecuted.</p>
+                <p id="b293-13" pgmap="293">The note on which the recovery was had was given in renewal of another note for the same amount, dated March 29, 1905, payable four months after date to the order of plaintiff, made by Feinberg and guar­anteed by Mayer.</p>
+                <p id="b293-14" pgmap="293">Plaintiff and defendants were interested in the Owl Mining Company of New Mexico. The note of March 29 was delivered by Feinberg to plaintiff, who gave to Feinberg his check for $500, payable to the order of Baker, plaintiff’s bookkeeper, and by him endorsed. Feinberg obtained the money on this check and sent the amount, by telegraph, through a Chicago bank, to the mining company in New Mexico.</p>
+                <p id="b293-15" pgmap="293(72) 294(264)">The contention of plaintiffs in error is that plaint­iff, desiring to invest $500 more in said mining com­pany, about March 29, 1905, requested defendant Mayer, who was then in his employ, to obtain from defendant Feinberg, his brother-in-law, a note for $500, and to sign the same as guarantor, so that plaint­iff might have the same discounted and thereby pro­cure $500 to invest in said mining company; that pursuant to such request and for the accommodation of the plaintiff said note of March 29 was made by Feinberg, guaranteed by Mayer and delivered to plaintiff; that plaintiff had the same discounted for his own benefit; that the check for $500 that plaintiff gave Feinberg was given to him as an officer of said mining company as an advance to or investment by the plaintiff in said company on his own account; that at the maturity of said note of March 29, it not being convenient for plaintiff to pay said note, defendants, at his request, made and guaranteed the note sued on and delivered the same to the plaintiff, so that he might have the same discounted and with the pro­ceeds pay the note of March 29. This contention was supported by the testimony of the defendants. Their testimony was contradicted by the plaintiff, who tes­tified that he was asked by Mayer in March, 1905, to put more money in said mining company; that he re­fused to do so; that he was then asked to advance or get the money on a note for $500 to be made by Fein­berg and guaranteed by Mayer, so that they might invest the same in said mining company; that he agreed to make such loan or advance and that the note was made and given to him for money actually loaned and advanced by him to the defendants, and was not made for his accommodation, and that the note sued on was given in renewal of said note of March 29.</p>
+                <p id="b294-5" pgmap="294">The cause was heard by the court without a jury. We are asked to reverse the judgment, on the ground alone that the finding is contrary to and not supported by the evidence.</p>
+                <p id="b294-6" pgmap="294(89) 295(22)">In Field v. C. &amp; R. I. R. R. Co., 71 Ill. 461, Chief Justice Breese said: “This court has often held, where a trial is had by the court, as to the facts, the court stands in the place of the jury, and the decision will be reversed or affirmed by the same rules which govern when the facts are tried by a jury. Ambs v. Honore, 24 Ill. 122; Eastman v. Brown, 32 ib. 53. And it was emphatically said in Wood v. Price, 46 ib. 435, that the same force and effect should be given to the finding of a judge as to the verdict of a jury.”</p>
+                <p id="b295-4" pgmap="295">To the same effect are the decisions of this court: Hays v. Langley, 90 Ill. App. 500; Coal Co. v. Beaver, 95 id. 95; Greer v. Clay, 99 id. 204.</p>
+                <p id="b295-5" pgmap="295">The introduction of the note in evidence made a prima facie case for the plaintiff; the defense was supported by the testimony of the defendants which was contradicted by the testimony of the plaintiff. The trial judge heard the parties testify, and his find­ing not being against the great preponderance of the evidence, it must stand. The judgment is affirmed.</p>
+                <p id="b295-6" pgmap="295">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="292" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+              <area BEGIN="BL_292.3" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jp2_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.2" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.1" BETYPE="IDREF" FILEID="alto_00147_0"/>
+              <area BEGIN="BL_293.3" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="294" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00147_1"/>
+        <fptr FILEID="jp2_00147_1"/>
+        <fptr FILEID="alto_00147_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.2" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_294.3" BETYPE="IDREF" FILEID="alto_00147_1"/>
+              <area BEGIN="BL_294.4" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="295" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.2" BETYPE="IDREF" FILEID="alto_00148_0"/>
+              <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-14" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.16" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-15" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.17" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            <area BEGIN="BL_294.1" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.10" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.11" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adg" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.13" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.14" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.14" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-13" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.15" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.6" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGY" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.7" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            <area BEGIN="BL_293.8" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.10" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.11" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.12" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.9" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.13" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.5" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.6" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.4" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.5" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.7" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.5" BETYPE="IDREF" FILEID="alto_00147_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3q" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.12" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.9" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b294-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_294.6" BETYPE="IDREF" FILEID="alto_00147_1"/>
+            <area BEGIN="BL_295.1" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

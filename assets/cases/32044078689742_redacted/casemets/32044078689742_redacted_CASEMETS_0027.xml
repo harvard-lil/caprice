@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0027" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Steinhaus v. Radtke">William Steinhaus, Defendant in Error, v. Emil Radtke, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,069</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 232</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="fde4194dc00c8921d129e287482a95e0" CHECKSUMTYPE="MD5" SIZE="40720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="be4e492dfec30b8ce685e89622cebade" CHECKSUMTYPE="MD5" SIZE="52352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="29ede38c19caa7ff1d0f0592fdb2bbf8" CHECKSUMTYPE="MD5" SIZE="40108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="44ce8c8d15f62ecc26d1b6b97310b18c" CHECKSUMTYPE="MD5" SIZE="2322211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="2e8c4261f3d3319ce9a46107aebc33b1" CHECKSUMTYPE="MD5" SIZE="2477244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="379b8159f80396f919dcdcbc42a78d91" CHECKSUMTYPE="MD5" SIZE="2345316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00126_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="e854810da8fc9eaaa65d016e864872a3" CHECKSUMTYPE="MD5" SIZE="74470">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="b64d003a7e733d054562cbde0b25cff1" CHECKSUMTYPE="MD5" SIZE="83840">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="2b6d0f302e37c842272efbaad906aeda" CHECKSUMTYPE="MD5" SIZE="71913">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00126_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="234" firstpage="232">
+              <docketnumber id="b250-5" pgmap="250">Gen. No. 14,069.</docketnumber>
+              <parties id="b250-4" pgmap="250">William Steinhaus, Defendant in Error, v. Emil Radtke, Plaintiff in Error.</parties>
+              <decisiondate id="AM0" pgmap="250">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b250-10" pgmap="250">John Stelk, for plaintiff in error; James D. Power, of counsel.</attorneys>
+              <attorneys id="b250-11" pgmap="250">Utt Bros. and Lynn, House &amp; Roe, for defendant in error.</attorneys>
+              <summary id="b250-9" pgmap="250">Trespass. Error to the Circuit Court of Cook county; the Hon. John Gibbons, Judge, presiding. Heard in this court at the Octo­ber term, 1907.</summary>
+              <disposition id="AF1" pgmap="250">Affirmed.</disposition>
+              <headnotes id="b250-6" pgmap="250">1. Verdict—what does not establish preponderance of evidence. A preponderance of the evidence does not necessarily lie with the side producing upon a given fact or set of facts the greater number of witnesses.</headnotes>
+              <headnotes id="b250-7" pgmap="250">2. Torts—liability of tort-feasor. Tort-feasors are jointly and severally liable; they may be proceeded against, one without the other, at the election of the injured party. The party so selected must respond to the full measure of damages suffered by the in­jured party as the result of the tort committed by both wrong­doers.</headnotes>
+              <headnotes id="b250-8" pgmap="250">3. Variance—when objection comes too late. An objection of variance comes too late when first made on appeal.</headnotes>
+              <opinion type="majority">
+                <author id="b250-12" pgmap="250">Mr. Justice Holdom</author>
+                <p id="AXa" pgmap="250">delivered the opinion of the court.</p>
+                <p id="b250-13" pgmap="250">In a trial before the Circuit Court and a jury the plaintiff, William Steinhaus, obtained a verdict of $2,250 in an action against defendant, Emil Radtke, for an assault and battery upon him. Plaintiff re­mitted $750 from the verdict, whereupon the trial court overruled the pending motion for a new trial and gave judgment upon the verdict—less the amount of the remittitur—for $1,500, and defendant appeals to this court seeking a reversal of this judgment.</p>
+                <p id="b250-14" pgmap="250(27) 251(47)">No complaints are made touching the pleadings or the rulings of the trial judge upon "the evidence, nor is it claimed that the damages awarded are excessive, but the errors assigned and argued are that the verdict and judgment are contrary to the manifest weight of the evidence, and that the trial court erred in giving instructions 2, 3 and 4, requested by plaintiff, and in failing to give instruction 1 proffered by defendant.</p>
+                <p id="b251-4" pgmap="251">Plaintiff claimed, and produced witnesses whose tes­timony tended to sustain his claim, that defendant knocked him down by striking him in the back of the head or neck, and that while he was falling defendant kicked him in the left side above the groin; that after so maltreating plaintiff, defendant called upon his brother, Theodore, to strike plaintiff, and that re­sponding to such request, Theodore struck plaintiff in the face. Twelve witnesses were sworn and testified, five of these sustaining plaintiff’s theory and seven of them in contradiction of it. A careful reading of the evidence impresses us with the extremity of its conflict. It is hopelessly irreconcilable on the assump­tion that all of the witnesses are equally worthy of be­lief. The credibility of the several witnesses was for the jury to determine. Their appearance upon the witness stand, their manner in giving their evidence, were matters peculiarly within the province of the jury, because they saw and observed the witnesses during all the time of their giving their testimony— a privilege denied us. Numbers do not necessarily establish preponderance. It often happens that the lesser number prove the most trustworthy and credi­ble, and that when their testimony is analyzed and sifted with that of the greater number, the preponder­ance of the proof is found to arise from the evidence of the minor number. All the evidence considered, we are unable to say that the finding of the jury is manifestly contrary to its greater weight. The jury have recon­ciled the conflict. With their conclusion we rest con­tent.</p>
+                <p id="b251-5" pgmap="251(28) 252(77)">There is no vice in instruction 2. It states a correct principle of law applicable to the facts in evidence. There is no rule for contribution among wrong-doers. Two persons guilty of an assault, or any other tort, need not he sued jointly. They may be proceeded against, one without the other, at the election of the injured party. The party so selected must respond to the full measure of damages suffered by the injured party as the result of the tort committed by both wrong-doers. Barnes v. Gray, 5 H. &amp; J. (Md.), 436; W. C. St. Ry. v. Feldstein, 69 Ill. App. 36.</p>
+                <p id="b252-5" pgmap="252">Such being the law, it follows that the court prop­erly refused to give defendant’s proffered instruction 1, as the statement of the law in that instruction was in direct conflict with the rule above announced.</p>
+                <p id="b252-6" pgmap="252">Instruction Nos. 3 and 4 are equally vulnerable against objection. They state the law and were fol­lowed by similar instructions, in slightly amplified form, given at the request of the defendant.</p>
+                <p id="b252-7" pgmap="252">Some argument is made upon a claim that there is a variance between the averments of the declaration and the proof. Suffice it to say that we observe no variance of an appreciable nature, and moreover the objection as to a Variance, if one existed, not having been made in the trial court, comes too late when made here for the first time.</p>
+                <p id="b252-8" pgmap="252">We are satisfied that the record is free from rever­sible error, and the judgment of the Circuit Court is affirmed.</p>
+                <p id="b252-9" pgmap="252">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="250" ORDERLABEL="232" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+              <area BEGIN="BL_250.3" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.2" BETYPE="IDREF" FILEID="alto_00126_0"/>
+              <area BEGIN="BL_251.4" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="234" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.3" BETYPE="IDREF" FILEID="alto_00126_1"/>
+              <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.8" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.7" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.18" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXa" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.16" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            <area BEGIN="BL_250.17" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-14" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.19" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            <area BEGIN="BL_251.1" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.15" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF1" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.11" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.8" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM0" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.12" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.14" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.7" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.9" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            <area BEGIN="BL_250.10" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.9" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.13" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

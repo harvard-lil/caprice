@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0043" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Peoples Gas Light &amp; Coke Co. v. City of Chicago">Peoples Gas Light &amp; Coke Company, Appellee, v. City of Chicago et al., Appellants</name>
+          <docketnumber>Gen. No. 14,088</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 307</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="30f5e16f03a68ae328a7fb1ca8605b0f" CHECKSUMTYPE="MD5" SIZE="44616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_0.tif"/>
+      </file>
+      <file ID="tiff_00163_1" MIMETYPE="image/tiff" CHECKSUM="34e9586d71135a0e9f39f504f3e9c817" CHECKSUMTYPE="MD5" SIZE="54394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_1.tif"/>
+      </file>
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="8842e93ff0131891d77bd3135bd356b6" CHECKSUMTYPE="MD5" SIZE="57148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="d1cece5af591195d96478ca0bb34f465" CHECKSUMTYPE="MD5" SIZE="48406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="0b3729ceb4f79ffd3c234eafbef227b2" CHECKSUMTYPE="MD5" SIZE="54510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="58344b3f35331ad7bbe521c4818d839f" CHECKSUMTYPE="MD5" SIZE="52570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00165_1.tif"/>
+      </file>
+      <file ID="tiff_00166_0" MIMETYPE="image/tiff" CHECKSUM="6988a32e2887c978be50e3d863a26c63" CHECKSUMTYPE="MD5" SIZE="44602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00163_0" MIMETYPE="image/jp2" CHECKSUM="e5a435d0583aa8d34e760249b070f501" CHECKSUMTYPE="MD5" SIZE="2369291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_0.jp2"/>
+      </file>
+      <file ID="jp2_00163_1" MIMETYPE="image/jp2" CHECKSUM="82efc4066f2ff206240c94e1c327dff8" CHECKSUMTYPE="MD5" SIZE="2428815">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_1.jp2"/>
+      </file>
+      <file ID="jp2_00164_0" MIMETYPE="image/jp2" CHECKSUM="b1cdd64eb8ad1f21667965013e5fa5d3" CHECKSUMTYPE="MD5" SIZE="2493959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00164_0.jp2"/>
+      </file>
+      <file ID="jp2_00164_1" MIMETYPE="image/jp2" CHECKSUM="f8b9977a8a066a20d7feee04fb80c8c2" CHECKSUMTYPE="MD5" SIZE="2378384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00164_1.jp2"/>
+      </file>
+      <file ID="jp2_00165_0" MIMETYPE="image/jp2" CHECKSUM="66769e42a4db9d96e413c6f6d964ed6e" CHECKSUMTYPE="MD5" SIZE="2460286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00165_0.jp2"/>
+      </file>
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="33e87963cc6412f1d11def2b21ab6f95" CHECKSUMTYPE="MD5" SIZE="2408894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00165_1.jp2"/>
+      </file>
+      <file ID="jp2_00166_0" MIMETYPE="image/jp2" CHECKSUM="b4ba09df2ca72a649eb8adf94428712c" CHECKSUMTYPE="MD5" SIZE="2394294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00166_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00163_0" MIMETYPE="text/xml" CHECKSUM="bb655a44853c31426c3e82b6059aba14" CHECKSUMTYPE="MD5" SIZE="76752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00163_0.xml"/>
+      </file>
+      <file ID="alto_00163_1" MIMETYPE="text/xml" CHECKSUM="fea4610b7d12715e3adb864cb0cb19c3" CHECKSUMTYPE="MD5" SIZE="87601">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00163_1.xml"/>
+      </file>
+      <file ID="alto_00164_0" MIMETYPE="text/xml" CHECKSUM="1616c4f14fd089297ac6f64f3164dd4f" CHECKSUMTYPE="MD5" SIZE="87586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00164_0.xml"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml" CHECKSUM="8c332158fb4938212c2ba14290ed7fe2" CHECKSUMTYPE="MD5" SIZE="76673">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00164_1.xml"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml" CHECKSUM="27e6fdf803376674b0c855f7fc83922d" CHECKSUMTYPE="MD5" SIZE="90994">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00165_0.xml"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="134c9d9d0156af170aad516f8cfc720f" CHECKSUMTYPE="MD5" SIZE="91329">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00165_1.xml"/>
+      </file>
+      <file ID="alto_00166_0" MIMETYPE="text/xml" CHECKSUM="49a4f1791294f4fe5a3482fc5052261d" CHECKSUMTYPE="MD5" SIZE="77372">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00166_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0043" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="313" firstpage="307">
+              <docketnumber id="b325-7" pgmap="325">Gen. No. 14,088.</docketnumber>
+              <parties id="b325-6" pgmap="325">Peoples Gas Light &amp; Coke Company, Appellee, v. City of Chicago et al., Appellants.</parties>
+              <decisiondate id="ARvd" pgmap="325">Opinion filed De­cember 21, 1908.</decisiondate>
+              <attorneys id="b328-7" pgmap="328">George E. Dierssen and George W. Miller, for appellants; Edward J. Brundage of counsel.</attorneys>
+              <attorneys id="b328-8" pgmap="328">Sears, Meagher &amp; Whitney, for appellee; James F. Meagher and Edward S. Whitney, of counsel.</attorneys>
+              <summary id="b325-9" pgmap="325">Bill for injunction. Appeal from the Circuit Court of Cook county; the Hon. Lockwood Honore, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AX" pgmap="325">Affirmed.</disposition>
+              <headnotes id="b325-8" pgmap="325">Ordinances—construction as to frontage consents. Held, that a gas reservoir proposed to be constructed was to be located “on” 64th street in the city of Chicago, and that under the terms of the ordinance regulating the right to erect such a building, front­age consents were essential only with respect to said 64th street.</headnotes>
+              <p id="b325-10" pgmap="325(20) 326(46)">Statement by the Court. The People’s Gas Light &amp; Coke Co., May 4, 1907, filed a bill against the City of Chicago and Joseph Downey, defendants, praying an injunction to restrain said defendants from in any wise interfering with or preventing, or attempting to interfere with or prevent the construction of a founda­tion and erection of a gas reservoir on certain prop­erty of complainant.</p>
+              <p id="b326-5" pgmap="326">The defendants answered the bill, the cause was heard on the pleadings and on a stipulation of facts and testimony heard in open court and exhibits, and the court, June 24, 1907, found and decreed, in sub­stance as follows: The court finds all the material allegations of the bill to be true; that complainant is a corporation, incorporated under a special act of the legislature of this State, approved February 12, 1855, as amended by special act approved February 7, 1865, and is engaged in the manufacture of gas, etc., and is the owner of certain described lots, which property was acquired by it for the purpose of its business, at an expense of more than $100,000; that it caused plans and specifications to be made for a gas reservoir, to be erected on parts of lots 3 and 4, in block 10, in Skinner and Judd’s subdivision, in the northeast quarter of section 21, township 38 north, range 14 east of the third principal meridian, said gas reservoir having a diameter of approximately 180 feet, to be located at a distance of four feet south from Sixty-­fourth street, at its nearest point, and at a distance of over twenty-six feet at its nearest point from Drove avenue, on Sixty-fourth street. Between State street and Drove avenue are the following buildings (ex­clusive of the reservoir in process of erection) front­ing south, three buildings, one residence, one shop and one stable; and fronting north is one building, a resi­dence, owned by complainant, and on the southwest corner of Sixty-fourth and State streets is a saloon, having its entrance on State street.</p>
+              <p id="b326-7" pgmap="326(30) 327(351) 328(154)">Sections 1108 and 1111 of the building ordinance of the city of Chicago, known as sections 687 and 692 of the Revised Municipal Code, are correctly set out in the bill and are as follows: (copying the sections). The court further finds that less than two-thirds of the buildings on both sides of Sixty-fourth street, between State street and Drove avenue, the two nearest inter­secting streets, one on either side of the point at which the gas reservoir is to be erected, are used for resi­dence purposes, and that complainant is the owner of more than a majority of the frontage on both sides of Sixty-fourth street between State street and Drove avenue. And the court further finds that complainant submitted said plans and specifications to the com­missioner of buildings of the city of Chicago, and requested from him a permit to erect a gas reservoir in the aforesaid location, in accordance with said plans and specifications, and, January 24, 1907, Peter Bart-­zen, then such commissioner, issued to complainant a permit, in the usual form, to construct the foundations for the gas reservoir, for which complainant paid $5.00 to said city; and, February 7, 1907, said Peter Bart-­zen, commissioner as aforesaid, issued to complainant a permit, in the usual form, to erect said gas reser­voir, and complainant paid said city therefor $459.30, but by a clerical error, the block in which the prop­erty is was written 9 in said permit, instead of 10, which last was mutually intended. Complainant, sub­sequently to the issuance of said permits, contracted with Thomas Hayward for the construction of the foun­dations and the erection of said gas reservoir, for the total price of $445,000, and said contractor entered upon the construction of said foundations, and has expended more than $25,000 in said construction. The said foundations are on lots 3 and 4 in block 10, in said Skinner &amp; Judd’s subdivision, and are located four feet from Sixty-fourth street, at its nearest point, and more than twenty-six feet from Drove avenue, at its nearest point; and the valve house, used in con­nection with said reservoir, will be in Sixty-fourth street, and the gas mains running to said reservoir come into said reservoir from Sixty-fourth street, and said reservoir is on Sixty-fourth street, and not on Grove avenue. The defendant, Joseph Downey, is now the commissioner of buildings of the city of Chicago, and the defendants, the city and said commissioner, threatened to revoke said permits, and notified com­plainant and said contractor to cease said work, and that he, said commissioner, would, if necessary to pre­vent the same, invoke the aid of the police force of the city of Chicag’O, and, prior to the filing of the bill, the said police actually interfered to prevent the carry­ing on of said work. Following the foregoing find­ings, the court decreed, in substance, rectifying the mistake in the permit of block 9 instead of 10, above mentioned, and perpetually enjoining the defendants from revoking said permits, and from, in any manner, interfering with complainant, or said contractor, in continuing the construction of said foundations and the erection of said reservoir.</p>
+              <opinion type="majority">
+                <author id="b328-9" pgmap="328">Mr. Presiding Justice</author>
+                <p id="Abb" pgmap="328">Adams delivered the opinion of the court.</p>
+                <p id="b328-10" pgmap="328">It is not assigned as error or contended by counsel for appellant, in argument, that the findings of fact by the court are not warranted by the evidence. The contention of appellants’ counsel is solely one of law, viz.: that, to entitle appellee to a permit, it must have not only the consent of a majority of the frontage on Sixty-fourth street, between State street and Grove avenue, which it is conceded appellee has, but also a majority of the frontage on Grove avenue. In ad­vancing this proposition, counsel for appellants rely on the following sections of an ordinance of the city of Chicago:</p>
+                <p id="b329-3" pgmap="329">“1108. Whenever in this ordinance a provision is made that frontage consents shall be obtained for the erection, * * * of any building or structure in any block, the word ‘block’, so used, shall not be held to mean a square, but shall be held to embrace only that part of a street bounding a square which lies between the two nearest intersecting streets, one on either side of the point at which such building or structure is to be erected * * * unless it shall be otherwise spe­cifically provided”.</p>
+                <p id="b329-4" pgmap="329">“1111. It shall not be lawful for any person or corporation to locate, build, construct or maintain, on any street or alley in the city, in any block in which two-thirds of the buildings on both sides of the street are used chiefly for residence purposes, any building for a * * * gas reservoir * * * without the writ­ten consent of a majority of the property owners ac­cording to frontage on both sides of said street or alley.</p>
+                <p id="b329-5" pgmap="329">“Such written consent shall be obtained and filed with the Commissioner of Buildings before a permit is issued for the construction of any such building. Provided, that in determining whether two-thirds of the buildings on both sides of the street are used chiefly for residence purposes, any building fronting upon another street and located upon a corner lot shall not be considered”.</p>
+                <p id="b329-6" pgmap="329(131) 330(42)">Sixty-fourth street is an east and west street, and 'State street and Grove avenue lie north and south, and are the nearest intersecting streets to the place where the gas reservoir is located, State street lying-­east and Grove avenue west of that place. The proposed gas reservoir will be circular in form. Its nearest point to Sixty-fourth street will be four feet south of the south line of Sixty-fourth street, and its nearest point to Grove avenue more than twenty-six feet east of the east line of Grove avenue. By section 1111, above quoted, it is provided: “It shall not be lawful for any person or corporation to locate, build, construct or maintain, on any street or alley in the city, in any block in which two-thirds of the buildings on both sides of the street are used chiefly for resi­dence purposes, any building for a gas reservoir, with­out the written consent of a majority of the property owners, according to frontage, on both sides of said street or alley”.</p>
+                <p id="ArW" pgmap="330">The word “on” in the phrase “on any street or alley in the city”, evidently means fronting on or next to any street or alley. If a building were con­structed, fronting on Sixty-fourth street, four feet from the- street line, and of width equal to the dia­meter of the proposed reservoir, it could not be con­tended that it was not on the street, within the mean­ing of section 1111. The word “block”, as used in the ordinance, is defined by section 1108 as not mean­ing a square, but as embracing “only that part of a street bounding a square which lies between the two nearest intersecting streets”. This definition applies very clearly to that part of Sixty-fourth street within four feet of which the gas reservoir is located, and which lies between the two nearest intersecting streets, State street and Grove avenue, and is not in the least applicable to the part of Grove avenue between Sixty-­fourth and Sixty-fifth streets, on which part, of the street the reservoir is not located. The concluding language of section 1111 is: “Provided, that, in de­termining whether two-thirds of the buildings on both sides of the street are used chiefly for residence pur­poses, any building fronting upon another street, and located on a corner lot, shall not be considered”. In view of this provision, if there were a building on the southeast corner of ‘Sixty-fourth street and Grove avenue, fronting on Grove avenue and extending back next to the south line of Sixty-fourth street, it could not be considered in estimating the frontage. This empha­sizes the view that the frontage which is to be con­sidered is that on the part of street next to or front­ing on which the gas reservoir is located, viz., Sixty-­fourth street.</p>
+                <p id="b330-6" pgmap="330(21) 331(144)">We think it plain that under the ordinance the ap­pellee is only required to have the consent of a ma­jority of the property owners, according to frontage, on both sides of that part of 'Sixty-fourth street be­tween State street and Grove avenue. Counsel for appellant, in their argument, say: “It is conceded that appellee is the owner of a majority of the front­age on both sides of Sixty-fourth street, and, if per­mitted to continue the frontage on Sixty-fourth street with its frontage on Grove avenue, then appellee still has a majority on both streets”. But the court found, and the finding is not questioned, “that less than two-­thirds of the buildings on both sides of Sixty-fourth street, between' State street and Grove avenue, the two nearest intersecting streets, one on either side of which said gas reservoir or holder is to be erected, are used for residence purposes”, so that appellee re­quires no frontage consents on Sixty-fourth street.</p>
+                <p id="b331-6" pgmap="331">The decree will be affirmed.</p>
+                <p id="b331-7" pgmap="331">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="325" ORDERLABEL="307" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jp2_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.2" BETYPE="IDREF" FILEID="alto_00163_0"/>
+              <area BEGIN="BL_325.4" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="326" ORDERLABEL="308" TYPE="page">
+        <fptr FILEID="tiff_00163_1"/>
+        <fptr FILEID="jp2_00163_1"/>
+        <fptr FILEID="alto_00163_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.2" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_326.3" BETYPE="IDREF" FILEID="alto_00163_1"/>
+              <area BEGIN="BL_326.4" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="327" ORDERLABEL="309" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jp2_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.2" BETYPE="IDREF" FILEID="alto_00164_0"/>
+              <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="310" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jp2_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.2" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.3" BETYPE="IDREF" FILEID="alto_00164_1"/>
+              <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="311" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jp2_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.2" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="312" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.3" BETYPE="IDREF" FILEID="alto_00165_1"/>
+              <area BEGIN="BL_330.4" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="331" ORDERLABEL="313" TYPE="page">
+        <fptr FILEID="tiff_00166_0"/>
+        <fptr FILEID="jp2_00166_0"/>
+        <fptr FILEID="alto_00166_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.3" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_331.2" BETYPE="IDREF" FILEID="alto_00166_0"/>
+              <area BEGIN="BL_331.4" BETYPE="IDREF" FILEID="alto_00166_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.6" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b331-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_331.5" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.10" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.15" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            <area BEGIN="BL_326.1" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abb" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.8" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_328.9" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArW" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.5" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.6" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            <area BEGIN="BL_331.1" BETYPE="IDREF" FILEID="alto_00166_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.12" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-4" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.6" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.7" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.5" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-3" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.4" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.7" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.6" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARvd" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.13" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            <area BEGIN="BL_325.14" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.7" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.8" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.9" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.10" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            <area BEGIN="BL_325.11" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.6" BETYPE="IDREF" FILEID="alto_00163_1"/>
+            <area BEGIN="BL_327.1" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b326-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_326.5" BETYPE="IDREF" FILEID="alto_00163_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

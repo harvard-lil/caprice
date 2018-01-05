@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0025" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Payson v. Village of Milan">W. H. Payson, Jr., Appellant, v. Village of Milan, Appellee</name>
+          <docketnumber>Gen. No. 4,907</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 204</citation>
+          <decisiondate>1908-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="a4a4edcac83f678f40e9a35164fa5f7c" CHECKSUMTYPE="MD5" SIZE="32180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00110_1.tif"/>
+      </file>
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="c6ce7214a9d84cc8b5b91e456cd902ff" CHECKSUMTYPE="MD5" SIZE="50504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="7a90dfa0b69022cb0a51431eb81e8fa3" CHECKSUMTYPE="MD5" SIZE="53780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="3bcf70ccb49914786b6613d1bd0029db" CHECKSUMTYPE="MD5" SIZE="51748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00112_0.tif"/>
+      </file>
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="c7e0f7c69480a333949adb12a61cc4f7" CHECKSUMTYPE="MD5" SIZE="52912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="80e4fcc7dc80c47c0575753de75f9b4c" CHECKSUMTYPE="MD5" SIZE="50424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="67fb01bc497d4d22752ff8b1ed45cbc2" CHECKSUMTYPE="MD5" SIZE="53584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00113_1.tif"/>
+      </file>
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="333b7d5ad99e9c8e0f0431fcf350d57d" CHECKSUMTYPE="MD5" SIZE="52768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00114_0.tif"/>
+      </file>
+      <file ID="tiff_00114_1" MIMETYPE="image/tiff" CHECKSUM="e0b5e6db928c99497e312f8f6779d740" CHECKSUMTYPE="MD5" SIZE="51762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00114_1.tif"/>
+      </file>
+      <file ID="tiff_00115_0" MIMETYPE="image/tiff" CHECKSUM="49929e5408932c1d60504a9147936692" CHECKSUMTYPE="MD5" SIZE="54798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_0.tif"/>
+      </file>
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="44288dcce814eb426532039436e7067c" CHECKSUMTYPE="MD5" SIZE="43332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="9f0f1177967bc5376f04fe0abd3f0323" CHECKSUMTYPE="MD5" SIZE="2217960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00110_1.jp2"/>
+      </file>
+      <file ID="jp2_00111_0" MIMETYPE="image/jp2" CHECKSUM="3768f609995e06ebac54ca81d8c7e058" CHECKSUMTYPE="MD5" SIZE="2389792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00111_0.jp2"/>
+      </file>
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="5233b6e58d71d932a3603d64226ffcb7" CHECKSUMTYPE="MD5" SIZE="2364051">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00111_1.jp2"/>
+      </file>
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="6062f8f0d661bddafd18fbc9a2d1f674" CHECKSUMTYPE="MD5" SIZE="2391584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00112_0.jp2"/>
+      </file>
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="17709ebe480746c600472c294688b9af" CHECKSUMTYPE="MD5" SIZE="2371301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="0d38081591c90f49b78855f19509d757" CHECKSUMTYPE="MD5" SIZE="2384905">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00113_0.jp2"/>
+      </file>
+      <file ID="jp2_00113_1" MIMETYPE="image/jp2" CHECKSUM="0366929c18d318c80375c0be7fa53e16" CHECKSUMTYPE="MD5" SIZE="2376873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00113_1.jp2"/>
+      </file>
+      <file ID="jp2_00114_0" MIMETYPE="image/jp2" CHECKSUM="f21d61c1108016eb4d9584bc75dec2ef" CHECKSUMTYPE="MD5" SIZE="2417958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00114_0.jp2"/>
+      </file>
+      <file ID="jp2_00114_1" MIMETYPE="image/jp2" CHECKSUM="f5fb4a789c662456572c386f025ee40f" CHECKSUMTYPE="MD5" SIZE="2370587">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00114_1.jp2"/>
+      </file>
+      <file ID="jp2_00115_0" MIMETYPE="image/jp2" CHECKSUM="0cc5233d668d3b7d43c3642436e4d520" CHECKSUMTYPE="MD5" SIZE="2420787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_0.jp2"/>
+      </file>
+      <file ID="jp2_00115_1" MIMETYPE="image/jp2" CHECKSUM="a792f7608b819551296505e2d83de87d" CHECKSUMTYPE="MD5" SIZE="2305342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="71a57b639646ac799231233b9bd01510" CHECKSUMTYPE="MD5" SIZE="64515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00110_1.xml"/>
+      </file>
+      <file ID="alto_00111_0" MIMETYPE="text/xml" CHECKSUM="92a140face5038b7c7f3c296f3ab7589" CHECKSUMTYPE="MD5" SIZE="83135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00111_0.xml"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="e684b49687d2cc6c33bc9ba5c0315d74" CHECKSUMTYPE="MD5" SIZE="93218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00111_1.xml"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="f6bff1bee62890830bf345f2ac54f1f5" CHECKSUMTYPE="MD5" SIZE="88688">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00112_0.xml"/>
+      </file>
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="15e11e580965ef4ac5d437921767c3a5" CHECKSUMTYPE="MD5" SIZE="89592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="e69f1ae253a3cd0f6417f47093792ff6" CHECKSUMTYPE="MD5" SIZE="86395">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00113_0.xml"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml" CHECKSUM="161f643186b285dc48a8d7cdd39ec3fd" CHECKSUMTYPE="MD5" SIZE="92021">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00113_1.xml"/>
+      </file>
+      <file ID="alto_00114_0" MIMETYPE="text/xml" CHECKSUM="249b65597ad346370f3f4b48e25f490d" CHECKSUMTYPE="MD5" SIZE="95294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00114_0.xml"/>
+      </file>
+      <file ID="alto_00114_1" MIMETYPE="text/xml" CHECKSUM="57e291e1b6649f2edf94171fad9a808f" CHECKSUMTYPE="MD5" SIZE="95053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00114_1.xml"/>
+      </file>
+      <file ID="alto_00115_0" MIMETYPE="text/xml" CHECKSUM="f2f8ebdab5615c4d9901d2ad01f3e47f" CHECKSUMTYPE="MD5" SIZE="89683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00115_0.xml"/>
+      </file>
+      <file ID="alto_00115_1" MIMETYPE="text/xml" CHECKSUM="6b7493781f2cfdc8727a969c3a0627d8" CHECKSUMTYPE="MD5" SIZE="82008">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00115_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="214" firstpage="204">
+              <docketnumber pgmap="220" id="b220-9">Gen. No. 4,907.</docketnumber>
+              <parties pgmap="220" id="b220-7">W. H. Payson, Jr., Appellant, v. Village of Milan, Appellee.</parties>
+              <decisiondate pgmap="220" id="Agt">Opinion filed April 14, 1908.</decisiondate>
+              <otherdate pgmap="220" id="AWd">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="220" id="A6">Rehearing denied October 28, 1908, and additional opinion filed.</otherdate>
+              <attorneys pgmap="220" id="b220-14">J. T. &amp; S. R. Kenworthy and Thomas J. Welch, for appellant.</attorneys>
+              <attorneys pgmap="221" id="b221-4">Searle &amp; Marshall, for appellee.</attorneys>
+              <summary pgmap="220" id="b220-13">Trespass on the case. Appeal from the Circuit Court of Rock Island county; the Hon. Emery C. Graves, Judge, presiding.</summary>
+              <disposition pgmap="220" id="AWMo">Reversed and remanded.</disposition>
+              <headnotes pgmap="220" id="b220-10">1. Evidence—effect to "be given to view of premises in action for injury to real property. Where the court in the exercise of its discretion, or by consent, has permitted a view of the premises in question, it is error to instruct the jury that the verdict may he predicated upon such view in disregard of what the evidence might otherwise have established. Culbertson &amp; Blair Provision Co. v. Chicago, 111 Ill. 651, and People v. General Electric Co., 172 Ill. 129, distinguished.</headnotes>
+              <headnotes pgmap="220" id="b220-11">2. Evidence—what competent to show authorization of improve­ment. In an action for injury to real property, in order to show the authorization of the improvement and as a declaration against interest, it is competent to receive in evidence a resolution of the village defendant authorizing the improvement alleged to have caused the damage; also the specifications for the work.</headnotes>
+              <headnotes pgmap="220" id="b220-12">3. Evidence—what error to exclude. It is error to exclude evi­dence which goes to the direct denial of testimony introduced by the other party.</headnotes>
+              <opinion type="majority">
+                <author pgmap="221" id="b221-5">Mr. Presiding Justice Willis</author>
+                <p pgmap="221" id="AGn9">delivered the opinion of the court.</p>
+                <p pgmap="221" id="b221-6">W. H. Payson, Jr., instituted this suit in the Cir­cuit Court of Bock Island county against the Village of Milan to recover damages alleged to have resulted from the construction of a levee and ditch upon and along Water street in said village in front of land owned by him.</p>
+                <p pgmap="221" id="b221-7">The declaration averred appellant’s ownership and possession of lot 1, block 1, Dickson’s Addition to the Village of Milan, situated immediately north of Water street in said village with a natural water-course on the east side thereof known as Mill creek which flowed from the south and east past said lot and thence north into Bock river, and that said Water street was about level with said lot, affording access and egress from any part of said street to said lot, and that in October, 1904, appellee unlawfully caused an embankment to be constructed and a ditch dug on said street, which caused the waters of said Mill creek to overflow his land and-crops, by which he lost the use of said lands and his right of access and egress to and from said land was impaired. There was a plea of not guilty interposed, a trial resulting in a verdict of not guilty, a motion for a new trial was overruled, judgment was entered against the plaintiff and he prosecutes this appeal.</p>
+                <p pgmap="221(94) 222(296)" id="b221-8">The evidence shows that Bock river forms the northern boundary of the Village of Milan and Mill creek its eastern boundary. Water street runs east and west in the village and intersects Mill creek, leav­ing a triangular strip of land between it and Bock river varying in width from two to three rods on the west to about forty rods on the east at its intersection with Mill creek. Appellant is the owner of about twelve or thirteen acres lying between this street and Bock river, its eastern boundary being near Mill creek. This creek drains a large area of country south of the village, and prior to 1893, emptied into Rock river. The village is low and has been subjected at times to flood during high water. In 1893, the U. S. Govern­ment constructed the Hennepin canal, which, begin­ning at the confluence of the Rock and Mississippi rivers, extends easterly for a distance of twelve or fifteen miles in the bed of Rock river. Opposite the Village of Milan, there are islands which divide Rock river into what is known as the north and south branches. The canal as constructed cut the south branch next the village off entirely from the main stream so that the waters of Mill creek were confined to the south branch. The result was that the south branch, being-­no longer cleaned by the ordinary flow of water, began to fill up with sediment deposited by Mill creek, and the waters of that stream which were theretofore dis­charged into Rock river were obstructed and thrown back by the south wall of the canal and their flow west­erly obstructed. With the consent of appellee, the U. S. Government in 1904 erected a levee along Water street a distance of about .3,000 feet entirely along ap­pellant’s land. This levee was raised to a height of four to six feet, and along the north side was dug a ditch which extended the length of the land in ques­tion, and on the east to the bank of Mill creek. The .west bank of Mill creek was low, not more than a foot above its bed, and about the center of appellant’s land was a low place or pond, connected with which was a natural swale or draw clear across his land.</p>
+                <p pgmap="222(87) 223(25)" id="b222-5">Appellant claimed that the levee and ditch cut off all access to and all egress from his lands except at the southeast corner, where a fill or driveway was constructed leading from the street across the ditch, and that the land was greatly damaged by the build­ing of the levee and ditch, thereby confining the flood waters on the land and subjecting it to the burden of carrying them off, injuring the land for building pur­poses ; and that the ditch conducted the waters from Mill creek in flood times west to the pond on his land, thereby washing it- away and opening a ditch through the swale or draw.</p>
+                <p pgmap="223" id="b223-5">There was the usual variance between the estimates of the witnesses as to the damages. The jury viewed the premises, to which no objection is made, but it is urged that they were erroneously instructed as to the extent they might use their view in considering their verdict.</p>
+                <p pgmap="223" id="b223-6">The eighteenth instruction given for appellee was in the following words:</p>
+                <blockquote pgmap="223" id="b223-7">“The court instructs the jury that if they believe from the whole evidence that they have from personal examination of the premises arrived at a more ac­curate judgment as to whether the plaintiff’s lands have been damaged or not damaged by the construc­tion of the embankment and ditch in question, than is shown by the evidence in open court, then in that case the jury may, upon the evidence, determine this ques­tion by their judgment so derived from a personal ex­amination of the premises as a jury, even though it may differ from the weight of testimony given by wit­nesses in open court.”</blockquote>
+                <p pgmap="223(170) 224(350)" id="b223-8">In Rich v. City of Chicago, 187 Ill. 396, a special as­sessment proceeding wherein an instruction was given reading as follows, ‘ ‘ The jury are instructed that their view of the premises assessed in this case, and the facts that they may have acquired from such view, so far as they pertain to special benefits that said prem­ises may or may not derive from the proposed im­provement, is evidence for them to make up their ver­dict,” the court said: “It was within the power of the court to permit the jury to view the premises, as in cases at common law, if the court in the exercise of a sound discretion considered such view necessary or proper to enable the jury to understand and apply the evidence. But such view, or the facts ascertained by the jury upon such view, could not, of itself or them­selves, be considered as evidence in arriving at the verdict;” and cited Vane v. City of Evanston, 150 Ill. 616; Osgood v. City of Chicago, 154 Ill. 194; and added: “The rule is not the same in cases of this character as in condemnation cases, where the statute provides for such view,” In the Vane case the court said, that, “The only purpose of permitting the jury to inspect and view the locus in quo is to better enable them to understand the matter of controversy between the parties, and to clear up any obscurity that may exist in the application of the evidence introduced in the case. * * * They were not authorized to con­sider any fact bearing upon the merits of the con­troversy derived from such view.” It is very clear that appellee’s 18th instruction is in direct conflict with what was said in Rich v. City of Chicago and Vane v. City of Evanston and to allow such a practice, as said in the Vane case, “would introduce a great un­certainty in the trial of all common law cases where a personal view was permitted.” In the case at bar instead of limiting the effect of the view as evidence in the case by proper instruction, the court instructed the jury that if they believed from all the evidence that they had arrived at a more accurate judgment as to whether the lands were damaged or not from their view of the same, than was shown by the evidence in open court, then they might disregard the weight of such evidence and render a verdict based upon their view. This was error. This instruction violated the rule of law long established. Appellee’s counsel cite Kiernan v. Chicago, Santa Fe &amp; California Railway Company, 123 Ill. 195, as a case sustaining such in­struction, but we do not so regard it. The instruction in that case was given in a proceeding under the emi­nent domain act. Atchison, Topeka &amp; Santa Fe Rail­road Company v. Schneider, 127 Ill. 144; Peoria Gas Light Company v. Peoria Terminal Railway Company, 146 Ill. 372; Chicago &amp; State Line Railway Company v. Mines, 221 Ill. 448.</p>
+                <p pgmap="224(16) 225(40)" id="b224-6">Appellant offered in evidence the resolution of the Village of Milan authorizing the improvement and also specifications for the work, which were excluded on objection of appellee. The resolution and specifica­tions were competent for the purpose of showing that the improvement was made with the permission of ap­pellee, and as a declaration against interest.</p>
+                <p pgmap="225" id="b225-5">Appellee introduced testimony tending to show that appellant’s access and egress to and from the land were not interfered with by the levee and ditch, claim­ing that he never had more than one entrance or egress before, and that the levee and ditch enhanced the value of the land. In rebuttal, appellant offered to show that he had a number of ways in and out, and that the land was not benefited as claimed by appellee. To these offers the court sustained an objection. The evi­dence so excluded was competent, and its exclusion er­ror.</p>
+                <p pgmap="225" id="b225-6">For the errors indicated, the judgment is reversed and the cause remanded.</p>
+                <p pgmap="225" id="b225-7">jReversed and remanded.</p>
+              </opinion>
+              <opinion type="rehearing">
+                <p pgmap="225" id="b225-8">Opinion</p>
+                <author pgmap="225" id="AQY">Per Curiam.</author>
+                <p pgmap="225(187) 226(376) 227(225)" id="A3t">Upon a petition for a rehear­ing appellee contends that the view by the jury in this case was practically by consent, and that we have failed to give due consideration to Culbertson &amp; Blair Provision Co. v. City of Chicago, 111 Ill. 651, where in a suit for damages to real estate an instruction was approved which told the jury that as the parties had by mutual consent allowed the jury to view the prem­ises, they had the right in finding their verdict to take into account such facts as they learned by viewing the property. Four Illinois cases were there cited as sup­porting said instruction. Each of these was a con­demnation case. In three of them the subject of a view by mutual consent was not mentioned or involved. In one of them the view was at the request of both par­ties, but the fact that both parties requested the view was not made the basis of the decision nor the subject of comment. The decision in Culbertson &amp; Blair Pro­vision Co. v. City of Chicago, supra, was referred to with approval in People v. General Electric Co., 172 Ill. 129, 145, but that was not a jury trial but an in­formation in equity to enjoin a railway company from doing certain things, and the parties agreed that the trial judge might inspect the premises involved, and he did so. Appellee also cites City of Chicago v. Spoor, 190 Ill. 340, 366, as supporting and approving the case of Culbertson &amp; Blair Provision Co. v. City of Chicago, supra, but that language was used in a dis­senting opinion and is therefore not authority. The holding in Culbertson &amp; Blair Provision Co. v. City of Chicago, supra, that a view by a jury in a common law action by consent of parties is evidence, has not been approved in a jury case, except by what was said in Springer v. City of Chicago, 135 Ill. 552, an action for damages to real estate, where such view by the jury was held to be “real evidence.” This, however, was afterwards departed from. In Vane v. City of Evans­ton, 150 Ill. 616, a special assessment case, it was held that the object of a view at common law is to enable the jury to understand and apply the evidence. The court there stated that under the statute in condemna­tion cases, the information received by the jury by their personal view is to be considered as evidence, and then said: “Such was not the rule at common law, the purpose of the view being, as stated, simply to enable the jury to understand the issue, and apply the evidence. They were not authorized to consider any fact bearing upon the merits of the controversy de­rived from such view. To allow that to be done would be wholly inconsistent with the principles controlling in common law trials, and introduce great uncertainty in the trial of all common law causes where a personal view was permitted. Parties never would know upon what the jury based their finding, and the court would be in no position to control the evidence upon which it is predicated, or determine whether the verdict was based upon competent or upon the consideration of in­competent and illegal matters not admissible under the issues.” In Osgood v. City of Chicago, 154 Ill. 194, a suit for damages.to real estate, it was held that the Vane case modified the Springer case as to the effect to be given by the jury to their view of the premises. In Rich v. City of Chicago, 187 Ill. 396, a special assess­ment proceeding, the jury were instructed that their view of the premises was evidence for them in mak­ing up their verdict. It was held that this instruction violated the rule of evidence long established and that it was error to give it. In Metropolitan West Side E. R. R. Co. v. Goll, 100 Ill. App. 323, City of Chicago v. McShane, 102 Ill. App. 239, and by this court in Petzel v. C. &amp; N. W. Ry. Co., 103 Ill. App. 210, each of these being, a suit for damages to real estate, it was held that the view by the jury was not to be treated as evidence upon which to base a verdict, but that its only purpose was to enable the jury to better understand and apply the evidence. We are therefore of opinion that the holding in Culbertson &amp; Blair Provision Co. v. City of Chicago, supra, that a view by mutual consent in a common law case becomes evidence, must be regarded as abandoned.</p>
+                <p pgmap="227(168) 228(41)" id="b227-5">Much inconvenience would result from applying the proposed rule to an ordinary action at law. where one party in the presence of .the jury, asks that they be permitted to view the premises or the thing about which the parties are litigating. It is obvious that, if the op­posite party should object, he would subject himself to the inference in the minds of the jury that a view would result unfavorably to his cause, and that he was seeking to prevent the jury from ascertaining the truth. In many cases he would be practically forced to consent to a view. The result would be that in practi­cally every common law case where there is a corpus to be viewed, the view would be by consent and would become evidence, and under the 18th instruction given for appellee in the case now before us, the jury would have a right to base a verdict upon their own view differing from the weight of the testimony given in open court, and the courts of appeal would thereby be deprived of the power to review the evidence and to determine whether the verdict ought to stand upon the facts. No such result was intended to follow a common law view.</p>
+                <p pgmap="228(349) 229(367) 230(201)" id="b228-5">If, however, the rule announced in Culbertson &amp; Blair Provision Co. v. City of Chicago, supra, that a view by consent in a common law case is evidence, be considered as still adhered to, it certainly cannot be claimed that it is evidence in any stronger sense than such a view would be under the Eminent Domain Act. Upon that question there has been a conflict of au­thority. Such an instruction in a condemnation cage is practically approved in C. &amp; I. R. R. Co. v. Hopkins, 90 Ill. 316, McReynolds v. B. &amp; O. R. R. Co., 106 Ill. 152, and to some extent in Chicago General Ry. Co. v. Murray, 174 Ill. 259, and support for the instruction is found in Kiernan v. C. S. F. &amp; C. Ry. Co., 123 Ill. 188, and Guyer v. D. R. I. &amp; N. W. Ry. Co., 196 Ill. 370, condemnation cases. On the other hand in A. T. &amp; S. F. R. R. Co. v. Schneider, 127 Ill. 144, a condemna­tion case, the court reviews the cases up to that time and says that while the view is in the nature of evi­dence and to be considered by the jury in connection with all the' other evidence, and that an assessment will not be set aside merely because it may differ in amount from the preponderance of the evidence ap­pearing in the record, yet it has never been held that all the evidence may be ignored and the amount fixed directly contrary thereto. The language of the court in the Kiernan case was qualified. It was there held that the verdict was contrary to the proofs and that a new trial should have been awarded. In Peoria Gas Light Co. v. Peoria Terminal Ry. Co., 146 Ill. 372, a condemnation case, the court instructed the jury that “if, after full consideration of all the testimony in the case in • connection with your own inspection of the premises, you conclude that your own inspection of the premises is a more reliable basis for the estimate and assessment of compensation and damages, then you have a right under the law, so to do, but you should not arbitrarily and without reason reject any of the testimony.” It was held that this instruction clearly authorized the jury to base their verdict solely on their own inspection of the premises, if they were of the opin­ion that such inspection furnished a more reliable basis for an assessment than did the evidence of the wit­nesses, and gave the jury a clear intimation that if it was their opinion that their inspection of the premises furnished a more reliable basis for a verdict, that con­clusion supplied a sufficient reason for wholly disre­garding the testimony of the witnesses. It was held that this was not the law, and that the giving of this instruction was erroneous, and that the verdict must be supported by the evidence and can in no case rest solely upon the personal examination of the premises by the jury, however well convinced they may be that the examination furnishes a more reliable basis than the testimony of the witnesses for an assessment of the damages. The Schneider case was there treated as qualifying the Kiernan case. In this seeming conflict of authority we regard the later decision in Chicago &amp; State Line Ry. Co. v. Mines, 221 Ill. 448, as control­ling. The court there said “Appellees’ first instruc­tion was misleading, in that it was apt to cause the jury to conclude that they might disregard entirely the evidence heard in open court and fix the damages upon their view of the premises alone. Such is not the law. The evidence heard in open court must be con­sidered by the jury. (Atchison, Topeka &amp; Santa Fe Railroad Co. v. Schneider, 127 Ill. 144; Peoria Gas Light Co. v. Peoria Terminal Railway Co., 146 id. 372). The case of Guyer v. Davenport, Rock Island and Northwestern Railway Co., 196 Ill. 370, relied upon by appellee, does not go far. enough in this re­gard to sustain their position.” The abstract filed in the Mines case shows that the instruction there dis­cussed read as follows: “The court instructs you gentlemen of the jury, as a matter of law, that your personal view of the premises is evidence, properly to he taken into consideration in making up your ver­dict, but unless you believe from the whole evidence in the case that you have from such personal examina­tion of the premises arrived at a more accurate judg­ment and determination as to the value of the prem­ises sought to be taken and of the amount of damages to property not taken, than is shown by the evidence in open court you should not attempt to fix such value and damages from your view of the premises alone without regard to the evidence produced in open court, but you should duly consider such evidence and weight of the testimony of the witnesses as and in the manner set forth in other instructions.” The case was re­versed for error in giving that and one other instruc­tion. Under this authority it seems to us plain that it was error to give the 18th instruction requested by appellee, even if this case were to be governed by the rule in condemnation cases. The petition for a rehear­ing is therefore denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="220" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.16" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="221" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jp2_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.2" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.1" BETYPE="IDREF" FILEID="alto_00111_0"/>
+              <area BEGIN="BL_221.3" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.3" BETYPE="IDREF" FILEID="alto_00111_1"/>
+              <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.3" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+              <area BEGIN="BL_223.4" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="224" ORDERLABEL="208" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.2" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.3" BETYPE="IDREF" FILEID="alto_00112_1"/>
+              <area BEGIN="BL_224.4" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.2" BETYPE="IDREF" FILEID="alto_00113_0"/>
+              <area BEGIN="BL_225.4" BETYPE="IDREF" FILEID="alto_00113_0"/>
+              <area BEGIN="BL_225.12" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="210" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jp2_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.2" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.3" BETYPE="IDREF" FILEID="alto_00113_1"/>
+              <area BEGIN="BL_226.4" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="227" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jp2_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.2" BETYPE="IDREF" FILEID="alto_00114_0"/>
+              <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="228" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00114_1"/>
+        <fptr FILEID="jp2_00114_1"/>
+        <fptr FILEID="alto_00114_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.2" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.3" BETYPE="IDREF" FILEID="alto_00114_1"/>
+              <area BEGIN="BL_228.4" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="229" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00115_0"/>
+        <fptr FILEID="jp2_00115_0"/>
+        <fptr FILEID="alto_00115_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.3" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.2" BETYPE="IDREF" FILEID="alto_00115_0"/>
+              <area BEGIN="BL_229.4" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="230" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jp2_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.3" BETYPE="IDREF" FILEID="alto_00115_1"/>
+              <area BEGIN="BL_230.4" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.5" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            <area BEGIN="BL_228.1" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.5" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            <area BEGIN="BL_229.1" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_230.1" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQY" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.9" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWd" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.9" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_220.10" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-14" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.15" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-13" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.7" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_220.8" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.6" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.13" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_220.14" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3t" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.10" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_225.11" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_226.1" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_227.1" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWMo" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.11" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.7" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.4" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.5" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.8" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.9" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.6" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGn9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.6" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_221.7" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.5" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.8" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            <area BEGIN="BL_224.1" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.10" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.3" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agt" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.12" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.5" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            <area BEGIN="BL_223.1" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.5" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_225.1" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.5" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.7" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

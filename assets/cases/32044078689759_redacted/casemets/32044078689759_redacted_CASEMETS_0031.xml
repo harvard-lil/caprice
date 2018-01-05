@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0031" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Goodmanson v. Rosenstein">John A. Goodmanson, Appellee, v. Louis Rosenstein, Appellant</name>
+          <docketnumber>Gen. No. 5,029</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 243</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="fd4a82a457e50fb438c73d8185a1d268" CHECKSUMTYPE="MD5" SIZE="37500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="9a6f88811a338a959d9307309b3b2206" CHECKSUMTYPE="MD5" SIZE="53644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00130_1.tif"/>
+      </file>
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="9b7d3ed1e18c70da576fc9360a602d2c" CHECKSUMTYPE="MD5" SIZE="53702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_0.tif"/>
+      </file>
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="e88647443379e49ca3adbb539df3e461" CHECKSUMTYPE="MD5" SIZE="42368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="4e7b52de3dc77a9babf449394b9bf781" CHECKSUMTYPE="MD5" SIZE="2305437">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="c91f2aa7dda31cb6856caa856156b1b9" CHECKSUMTYPE="MD5" SIZE="2364663">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00130_1.jp2"/>
+      </file>
+      <file ID="jp2_00131_0" MIMETYPE="image/jp2" CHECKSUM="2ecc0af67f178b848027dc31e3907429" CHECKSUMTYPE="MD5" SIZE="2413049">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_0.jp2"/>
+      </file>
+      <file ID="jp2_00131_1" MIMETYPE="image/jp2" CHECKSUM="b38d065bff4c37612122234789dfc732" CHECKSUMTYPE="MD5" SIZE="2289807">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00131_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="7bb0289124d15c8d9a16e3c6ec85bd04" CHECKSUMTYPE="MD5" SIZE="70516">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="bb8212a859f889ea464ebe4a58877509" CHECKSUMTYPE="MD5" SIZE="86206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00130_1.xml"/>
+      </file>
+      <file ID="alto_00131_0" MIMETYPE="text/xml" CHECKSUM="f52d23b2a23c6797094b5d67b5022a6a" CHECKSUMTYPE="MD5" SIZE="85361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00131_0.xml"/>
+      </file>
+      <file ID="alto_00131_1" MIMETYPE="text/xml" CHECKSUM="da33fcd4d438e68052f4f6f8bf0e1de6" CHECKSUMTYPE="MD5" SIZE="78535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00131_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="246" firstpage="243">
+              <docketnumber pgmap="259" id="b259-8">Gen. No. 5,029.</docketnumber>
+              <parties pgmap="259" id="b259-6">John A. Goodmanson, Appellee, v. Louis Rosenstein, Appellant.</parties>
+              <decisiondate pgmap="259" id="A-U">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="259" id="As7">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="259" id="b259-12">Peek &amp; Dietz, for appellant.</attorneys>
+              <attorneys pgmap="259" id="b259-13">George W. Wood, for appellee.</attorneys>
+              <summary pgmap="259" id="b259-11">Assumpsit. Appeal from the County Court of Rock Island county; the Hon. Robert W. Olmsted, Judge, presiding.</summary>
+              <disposition pgmap="259" id="A_1">Affirmed.</disposition>
+              <headnotes pgmap="259" id="b259-9">1. Brokers and factors—when real estate commissions earned. It is not a question as to whether the real estate broker has ob­tained a contract which may be specifically enforced by the owner which determines his right to' commissions; if he has procured a customer who is ready, willing and able to buy the property at the terms designated by the owner, he is entitled to recover his commissions.</headnotes>
+              <headnotes pgmap="259" id="b259-10">2. Agency—ivhen absolute revocation unauthorised. An agency for a definite period cannot be terminated by the principal with­out compensating the agent.</headnotes>
+              <opinion type="majority">
+                <author pgmap="259" id="b259-14">Mr. Justice Willis</author>
+                <p pgmap="259" id="AzP">delivered the opinion of the court.</p>
+                <p pgmap="259(21) 260(30)" id="b259-15">This is an appeal from the County Court of Bock Is­land county, to review the judgment of that court al­lowing appellee, John A. Goodmanson, to recover the sum of $1000 against appellant, Lonis Eosenstein, on account of commissions for the sale of real estate in the city of Moline.</p>
+                <p pgmap="260" id="b260-5">On November 22,1905, appellee filed a declaration in assumpsit containing the common counts and two spe­cial counts, to which appellant interposed the general issue, and a demurrer to the special counts. The de­murrer was overruled and appellant filed two special pleas to the first special count. Appellant demurred to the special pleas and the demurrer was sustained. On the trial, the jury found the issues for appellee and assessed his damages at $1000. A motion for a new trial was denied, judgment was entered on the ver­dict, and an appeal was taken to this court.</p>
+                <p pgmap="260(224) 261(105)" id="b260-6">The evidence shows that appellee, Goodmanson, was a real estate agent in the city of Moline; that he met Eosenstein, appellant, who was engaged in the cloth­ing business, and owned and occupied a three story brick building known as the “Eosenstein Block” in that city. Appellant informed appellee that he wished to sell his building, for which he would take $50,000. Appellee asked appellant if he would pay him a commis­sion in case he should find a purchaser, and he said he would. Later, appellant told appellee he must not pub­licly advertise the property as he was afraid it would injure his business if it was generally known that he was trying to sell, and appellee promised to do all he could towards selling the property by making a “still hunt.” About two weeks later, appellee learned that the Moline Trust &amp; Savings Bank was looking for a new location and talked with one of its officers about the bank buying appellant’s property. Thereafter, on October 18, 1905, appellee obtained from appellant written authority to make the' sale within six months for the sum of $50,000 at a commission of 2%. Appel­lee, in his negotiations with the officers of the bank, learned that a meeting of the directors would be neces­sary before the bank could act, and thereupon gave H. A. Ainsworth, president of the bank, a written option to purchase the premises within sixty days for $50,000. Early in November, appellant, hearing that the bank had an option on the property, asked appellee the date of his written authority to sell the same. Ap­pellee gave him the date, and also told him that he had the property about sold. Thereafter appellant served appellee with a notice purporting to revoke the author­ity to sell. On November 23,1905, the president of the bank tendered to appellant $50,000, and demanded a deed. Appellant did not accept the money and refused to make a deed.</p>
+                <p pgmap="261" id="b261-5">The question at issue in this case is not whether or not the contract with the bank through Ainsworth can be enforced by specific performance, but whether or not appellee can recover the commissions stipulated for in written authority of October 18, 1905. With the question of the validity of appellee’s contract to Ainsworth we are not concerned on this hearing, not­withstanding appellant’s theory that the contract can­not be specifically enforced.</p>
+                <p pgmap="261(170) 262(31)" id="b261-6">Under appellee’s authority to sell, he had six months in which to sell the property for $50,000, and earn the 2% commission. Within that time he found a pur­chaser, ready, able and willing to buy, as is evidenced by the tender of the $50,000 and the demand for a deed. He thereby earned the commission. Appellant might refuse to carry out the contract of sale made by his agent, but this would not release him from paying the commissions earned. The fact that the tender was made after the commencement of the suit is immaterial. The revocation cannot affect his right to recover his commission, for his agency was for a definite time, and could only be terminated by appellant’s default, as there was no provision to terminate it before the six months. Band v. Cronkrite, 64 Ill. App. 208. Appellee had done some work towards securing a purchaser be­fore he obtained the written authority to sell, and the evidence shows he had secured a purchaser before his authority was revoked. We are of the opinion that appellee did all that was necessary to entitle him to re­cover the commissions stipulated for in the writing of October 18,1905.</p>
+                <p pgmap="262" id="b262-5">We have examined the authorities cited by counsel for appellant, but as this is an action in assumpsit, we think they have no application. In McEwen v. Kerf­oot, 37 Ill. 538, the court held that after an agent’s agreement had been repudiated, while he should go no further, nevertheless, the agent was entitled to his com­missions for the sale made by him within his author­ity.</p>
+                <p pgmap="262" id="b262-6">The finding of the jury that appellee procured a cus­tomer, ready, able and willing to purchase the prop­erty is fully sustained by the evidence.-</p>
+                <p pgmap="262" id="b262-7">Finding no material error in the record, the judg­ment is affirmed. .</p>
+                <p pgmap="262" id="b262-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="259" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.2" BETYPE="IDREF" FILEID="alto_00130_0"/>
+              <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="244" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.3" BETYPE="IDREF" FILEID="alto_00130_1"/>
+              <area BEGIN="BL_260.4" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="261" ORDERLABEL="245" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jp2_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.3" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.2" BETYPE="IDREF" FILEID="alto_00131_0"/>
+              <area BEGIN="BL_261.4" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="262" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jp2_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.3" BETYPE="IDREF" FILEID="alto_00131_1"/>
+              <area BEGIN="BL_262.4" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.10" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.11" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.9" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-13" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.18" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.17" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-15" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.22" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-14" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.19" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.6" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            <area BEGIN="BL_262.1" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_1" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.14" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.5" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.7" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.6" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-U" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.15" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.16" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.6" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            <area BEGIN="BL_261.1" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.5" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzP" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.20" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.21" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.12" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.13" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.8" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.8" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.7" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.5" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

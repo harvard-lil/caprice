@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0090" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Rogers Grain Co. v. Jones">Rogers Grain Co., Appellant, v. S. W. Jones, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 469</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="582c3d8d4b279278ce5ec6fb0c465294" CHECKSUMTYPE="MD5" SIZE="44760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_0.tif"/>
+      </file>
+      <file ID="tiff_00244_1" MIMETYPE="image/tiff" CHECKSUM="dd902e92fe2bec18d55e94d7a284cbe4" CHECKSUMTYPE="MD5" SIZE="48996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_1.tif"/>
+      </file>
+      <file ID="tiff_00245_0" MIMETYPE="image/tiff" CHECKSUM="1542019144b72f6be2a16b623e7101b5" CHECKSUMTYPE="MD5" SIZE="55796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00245_0.tif"/>
+      </file>
+      <file ID="tiff_00245_1" MIMETYPE="image/tiff" CHECKSUM="f5a1cb0c319ef2ec1b1c86f4ba13c79c" CHECKSUMTYPE="MD5" SIZE="50396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00245_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="3ee269b86f1d8034a11d4fa2a3542edc" CHECKSUMTYPE="MD5" SIZE="2421810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_0.jp2"/>
+      </file>
+      <file ID="jp2_00244_1" MIMETYPE="image/jp2" CHECKSUM="7b3b3a53b0bf3fea3d0e1da5f546ab51" CHECKSUMTYPE="MD5" SIZE="2402926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00244_1.jp2"/>
+      </file>
+      <file ID="jp2_00245_0" MIMETYPE="image/jp2" CHECKSUM="baea6d1fa87ee6a55ecb10c2fbccae2e" CHECKSUMTYPE="MD5" SIZE="2489886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00245_0.jp2"/>
+      </file>
+      <file ID="jp2_00245_1" MIMETYPE="image/jp2" CHECKSUM="0e536c4cecd26b0270be5b2dca99da16" CHECKSUMTYPE="MD5" SIZE="2415447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00245_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="db33521d3678876fc8c20a0542fcfb43" CHECKSUMTYPE="MD5" SIZE="80856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00244_0.xml"/>
+      </file>
+      <file ID="alto_00244_1" MIMETYPE="text/xml" CHECKSUM="dd4fe4daa4a7495d11223529cbdc2d01" CHECKSUMTYPE="MD5" SIZE="80403">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00244_1.xml"/>
+      </file>
+      <file ID="alto_00245_0" MIMETYPE="text/xml" CHECKSUM="3645a0b103275cc985423c3890b2b96e" CHECKSUMTYPE="MD5" SIZE="84460">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00245_0.xml"/>
+      </file>
+      <file ID="alto_00245_1" MIMETYPE="text/xml" CHECKSUM="0cef7dfa2f38040c307d21cc39814971" CHECKSUMTYPE="MD5" SIZE="80746">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00245_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0090" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="472" firstpage="469">
+              <parties id="b487-8" pgmap="487">Rogers Grain Co., Appellant, v. S. W. Jones, Appellee.</parties>
+              <decisiondate id="Azcq" pgmap="488">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b488-5" pgmap="488">Rearick &amp; Meeks, for appellant.</attorneys>
+              <attorneys id="b488-6" pgmap="488">Acton &amp; Acton, for appellee.</attorneys>
+              <summary id="b487-12" pgmap="487(20) 488(6)">Assumpsit. Appeal from the Circuit Court of Vermilion county; the Hon. E. R. E. Kimbrough, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Aq_" pgmap="488">Affirmed.</disposition>
+              <headnotes id="Ayn" pgmap="487">1. Contracts—what aids construction of. The construction of a contract placed thereon by the parties will be considered by the court in determining the true meaning and effect thereof.</headnotes>
+              <headnotes id="b487-10" pgmap="487">2. Verdict—when not disturbed as against the evidence. A ver­dict not clearly against the weight of the evidence will not be set aside on review.</headnotes>
+              <headnotes id="b487-11" pgmap="487">3. Vendor and vendee—remedy for refusal to accept. If a vendee refuses to accept and pay for merchandise at the contract price, the vendor has the right to resell such merchandise and charge the vendee with the difference between the contract price and that realized by sale.</headnotes>
+              <opinion type="majority">
+                <author id="b488-7" pgmap="488">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A3B" pgmap="488">delivered the opinion of the court.</p>
+                <p id="b488-8" pgmap="488">This is a suit in assumpsit by appellant, for the re­covery of money alleged to have been advanced by it to appellee for oats purchased by it and which appellee failed to deliver. A trial by jury resulted in a judgment for the defendant, from which the plaintiff appeals. The evidence shows that the parties entered into a writ­ten contract whereby appellee sold to appellant 4,000 bushels of white oats at thirty-two cents a bushel to be delivered at Collison, Illinois, on or before September, 1906, “in sound and good condition.” Appellant then advanced to appellee $400 on account of the purchase. On August 28th appellee began delivering oats on ac­count of the contract. After 279 bushels had been re­ceived and weighed, Rogers, the vice-president of ap­pellant, declined to accept the oats yet undelivered, claiming that they were damp, stained, bleached and musty. Appellee then hauled the remainder of the oats to Muncie and sold them at twenty-six and one-half cents per bushel. He afterwards submitted a statement to ap­pellant, in which he charged it with the oats delivered, the difference between the contract price for those re­fused, and the price realized for the same at Muncie, together with the expense of hauling them to Muncie. He credited appellant with the $400 advanced, which left a balance due of $36.35, which sum he tendered to appellant. Appellant refused to accept the same and brought the present suit. The tender was admitted on the trial, and the main issues of fact involved were as to what quality of oats was required to fill the con­tract, and whether or not those tendered by appellee met such requirement.</p>
+                <p id="b489-4" pgmap="489">Appellant claimed upon the trial that it had a right to demand strict performance of the exact terms of the contract, and that the grain tendered should have been white oats “in sound and good condition,” while appellee insisted that a reasonable, substantial performance was all that was essential, and that he was bound only to furnish white oats in reasonably sound and good condition. A number of witnesses called by appellant testified that in the grain trade there was a distinct difference in meaning in the two expressions, and that they represented different grades. There is also evidence in the record tending­to show that white oats in sound and good condition would grade as No. 2 in the market, and that those which were at least seven-eights white and in reason­ably clean, sound and dry condition, would grade as No. 3. Smith, the general manager of appellant at Collison, testified that under instructions of appel­lant, No. 3 oats were uniformly received by him under contracts like the one in question.</p>
+                <p id="b489-5" pgmap="489(169) 490(17)">Appellee testified that at the time Rogers, the vice-­president of appellant corporation, objected to receiv­ing the oats, he, witness, asked him what grade he wanted on the contract, and that Rogers replied he wanted No. 3 white. Notwithstanding Rogers denied that such conversation occurred, the jury, who were the sole judges of the credibility of the witnesses and the weight to be given to their testimony, doubtless believed appellee. Under the construction thus placed upon the contract by both the vice-president and gen­eral manager of appellant, which may properly be con­sidered in determining the true construction of the language of the contract (Coal Co. v. City of Bloom­ington, 234 Ill. 90) it was only necessary that the oats should grade as No. 3 white oats; that is, should be seven-eights white and in reasonably sound, clean and dry condition. There was evidence tending to show that they were. We cannot say that the finding of the jury that the oats tendered filled these require­ments was manifestly contrary to the evidence, and are therefore not at liberty to disturb the same.</p>
+                <p id="b490-5" pgmap="490">One Swisher, a witness called by appellant, testified that the oats tendered by appellee were damp and bleached. For the purpose of impeaching the witness by showing that he had expressed a different opinion as to the same oats, appellee was permitted to prove that a few days after the tender, a load of the same oats and in the same condition, was delivered at ap­pellant’s elevator where Swisher was employed, and that Swisher stated that “if all the oats that come in were like those, they would be all right.” It is insist­ed that such evidence was incompetent. We do not think so. The variant statement was directly con­nected with a fact that tended to establish appellee’s case, and was thus relevant. Its incompetency as sub­stantive evidence did not render it irrevelant for the purpose of impeachment. We are satisfied that the jury did not understand that appellee’s first instruction as to agency applied to the statement in question, but to the acts of Rogers. If appellant wrongfully refused to accept and pay for the oats at the contract price, ap­pellee had-the right to re-sell them and charge appellant with the difference between the contract price and that realized at the sale. The jury was not unwarranted in finding that the re-sale at Muncie was made in good faith and in the mode best calculated to procure the real value of the oats (Morris v. Wibaux, 159 Ill. 627), and further, that Muncie was the best available mar­ket. Appellee also had the right to set off the addi­tional and necessary expense of transporting the oats to Muncie. He was permitted to testify, without ob­jection, that such expense amounted to $70, and there is no evidence that such sum was unreasonable.</p>
+                <p id="b490-6" pgmap="490">The judgment of the circuit court is affirmed.</p>
+                <p id="b490-7" pgmap="490">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="487" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.2" BETYPE="IDREF" FILEID="alto_00244_0"/>
+              <area BEGIN="BL_487.4" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="488" ORDERLABEL="470" TYPE="page">
+        <fptr FILEID="tiff_00244_1"/>
+        <fptr FILEID="jp2_00244_1"/>
+        <fptr FILEID="alto_00244_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.2" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_488.3" BETYPE="IDREF" FILEID="alto_00244_1"/>
+              <area BEGIN="BL_488.4" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="489" ORDERLABEL="471" TYPE="page">
+        <fptr FILEID="tiff_00245_0"/>
+        <fptr FILEID="jp2_00245_0"/>
+        <fptr FILEID="alto_00245_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_489.2" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_489.1" BETYPE="IDREF" FILEID="alto_00245_0"/>
+              <area BEGIN="BL_489.3" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="490" ORDERLABEL="472" TYPE="page">
+        <fptr FILEID="tiff_00245_1"/>
+        <fptr FILEID="jp2_00245_1"/>
+        <fptr FILEID="alto_00245_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.2" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.3" BETYPE="IDREF" FILEID="alto_00245_1"/>
+              <area BEGIN="BL_490.4" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq_" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.5" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.13" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.8" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.9" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b488-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.10" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.5" BETYPE="IDREF" FILEID="alto_00245_0"/>
+            <area BEGIN="BL_490.1" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b489-4" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_489.4" BETYPE="IDREF" FILEID="alto_00245_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-12" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.13" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_488.1" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-11" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.12" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-10" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.11" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3B" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.11" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            <area BEGIN="BL_488.12" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.6" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-5" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.5" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.7" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b487-8" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.8" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayn" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_487.9" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            <area BEGIN="BL_487.10" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azcq" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_488.6" BETYPE="IDREF" FILEID="alto_00244_1"/>
+            <area BEGIN="BL_488.7" BETYPE="IDREF" FILEID="alto_00244_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

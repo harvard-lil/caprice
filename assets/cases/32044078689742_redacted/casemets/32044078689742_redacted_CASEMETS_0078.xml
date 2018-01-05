@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0078" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Bingaman v. Toledo, St. Louis &amp; Western R. R.">Robert M. Bingaman, Appellee, v. Toledo, St. Louis &amp; Western R. R. Co., Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 442</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="4b5defe2012135d6c8826ea4f1cdb2f8" CHECKSUMTYPE="MD5" SIZE="45756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="dea46da2ab6576c457aedd3ee7bddb0b" CHECKSUMTYPE="MD5" SIZE="45224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00230_1" MIMETYPE="image/jp2" CHECKSUM="7cb9a533a97d389babd05e76900d7991" CHECKSUMTYPE="MD5" SIZE="2371336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00230_1.jp2"/>
+      </file>
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="425ed74dd19c30454400ebbae4f69025" CHECKSUMTYPE="MD5" SIZE="2412754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00231_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00230_1" MIMETYPE="text/xml" CHECKSUM="260264fa56e40ccd3db3f4430ef39145" CHECKSUMTYPE="MD5" SIZE="78111">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00230_1.xml"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="f2f24e351442bd216996e9c303e9b6d7" CHECKSUMTYPE="MD5" SIZE="83694">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00231_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0078" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="443" firstpage="442">
+              <parties id="b460-4" pgmap="460">Robert M. Bingaman, Appellee, v. Toledo, St. Louis &amp; Western R. R. Co., Appellant.</parties>
+              <decisiondate id="Auq" pgmap="460">Opinion filed Novem­ber 17, 1908.</decisiondate>
+              <attorneys id="b460-7" pgmap="460">C. E. Pope, for appellant; Clarence Brown and Charles M. Sohmettau, of counsel.</attorneys>
+              <attorneys id="b460-8" pgmap="460">Bryan H. Tivnen, for appellee.</attorneys>
+              <summary id="b460-6" pgmap="460">Trespass on the case. Appeal from the Circuit Court of Coles county; the Hon. James W. Craig, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AUh" pgmap="460">Affirmed.</disposition>
+              <headnotes id="b460-5" pgmap="460">Appeals and ebbobs—when judgment will he affirmed. If no prejudicial error appears and the verdict is sustained by the evi­dence, a judgment will be affirmed.</headnotes>
+              <opinion type="majority">
+                <author id="b460-9" pgmap="460">Mr. Presiding Justice Puterbaugh</author>
+                <p id="ALo" pgmap="460">delivered the opinion of the court.</p>
+                <p id="b460-10" pgmap="460">This is an action in case by appellee against appel­lant to recover damages for the loss of certain build­ings and personal property alleged to have been des­troyed by fire communicated by a locomotive engine operated by appellant upon its railroad. The trial re­sulted in a judgment in favor of appellee for $250. The negligence charged in the first count of the declaration is that the defendant failed to keep its right of way free from grass and other combustibles whereby sparks escaped from one of its locomotives, ignited said com­bustibles and caused fire to spread to and upon the land of the plaintiff and destroy certain buildings, trees and chattel property of the plaintiff.</p>
+                <p id="b460-11" pgmap="460(74) 461(115)">The negligence charged in the second count is that the defendant failed to equip a certain one of its loco­motives with the best and most approved appliances to prevent the escape of fire, and to keep the same in suitable repair, whereby fire escaped therefrom and burned and destroyed the plaintiff’s said property. Appellant admits in its statements of facts the de­struction of the property by fire and that fire was dis­covered in the barn of appellee immediately after a freight train upon the railroad had passed the vicinity of the premises. There was no evidence tending to show that the fire originated from any other source, and the jury was warranted in finding from all the sur­rounding facts and circumstances, that it was communi­cated as charged in the declaration. In this state of the proof, the question whether the court erred in refusing to instruct the jury to disregard the first count of the declaration becomes unimportant. For the same rea­son the error in appellee’s sixth instruction, even if not cured by appellant’s eighth, which correctly stated the law, was not harmful.</p>
+                <p id="b461-5" pgmap="461">We find no prejudicial error in the rulings of the court upon the other instructions or the admission of evidence.</p>
+                <p id="b461-6" pgmap="461">The motion to tax costs of additional abstract to ap­pellant is denied.</p>
+                <p id="b461-7" pgmap="461">The judgment of the Circuit Court is affirmed.</p>
+                <p id="b461-8" pgmap="461">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="460" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jp2_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.1" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.2" BETYPE="IDREF" FILEID="alto_00230_1"/>
+              <area BEGIN="BL_460.3" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+              <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.6" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_460.7" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auq" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.9" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_460.10" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-4" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALo" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.14" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_460.15" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.11" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-7" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.7" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-6" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.6" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.12" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-9" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.13" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-8" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.8" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-5" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUh" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.8" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-10" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.16" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-11" BETYPE="IDREF" FILEID="casebody_0078"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.17" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_461.1" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

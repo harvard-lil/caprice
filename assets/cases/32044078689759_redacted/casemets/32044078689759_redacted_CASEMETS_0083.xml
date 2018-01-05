@@ -1,0 +1,983 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0083" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Lesher v. United States Fidelity &amp; Guaranty Co.">Jacob H. Lesher, Appellant, v. United States Fidelity &amp; Guaranty Company, Appellee</name>
+          <docketnumber>Gen. No. 14,011</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 632</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00324_1" MIMETYPE="image/tiff" CHECKSUM="2364e47563f2e3632863181e315884e2" CHECKSUMTYPE="MD5" SIZE="44806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_1.tif"/>
+      </file>
+      <file ID="tiff_00325_0" MIMETYPE="image/tiff" CHECKSUM="59a11de6b1b0d585ef52fedd6e64c0e4" CHECKSUMTYPE="MD5" SIZE="47342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00325_0.tif"/>
+      </file>
+      <file ID="tiff_00325_1" MIMETYPE="image/tiff" CHECKSUM="e8c366bfd26da92ab2b43c02b15d34fa" CHECKSUMTYPE="MD5" SIZE="57846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00325_1.tif"/>
+      </file>
+      <file ID="tiff_00326_0" MIMETYPE="image/tiff" CHECKSUM="bbcb0ffef306691982ff5e661574cf25" CHECKSUMTYPE="MD5" SIZE="55662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00326_0.tif"/>
+      </file>
+      <file ID="tiff_00326_1" MIMETYPE="image/tiff" CHECKSUM="07a029b544bcceecb6a3740f4ecd2c57" CHECKSUMTYPE="MD5" SIZE="53058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00326_1.tif"/>
+      </file>
+      <file ID="tiff_00327_0" MIMETYPE="image/tiff" CHECKSUM="404a2b1ef605b63d723be25244d6c175" CHECKSUMTYPE="MD5" SIZE="53274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00327_0.tif"/>
+      </file>
+      <file ID="tiff_00327_1" MIMETYPE="image/tiff" CHECKSUM="23a4c1915c16d82a79356ca64f2f3796" CHECKSUMTYPE="MD5" SIZE="53784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00327_1.tif"/>
+      </file>
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="13d35813b4173f1c97097618d3bddbd4" CHECKSUMTYPE="MD5" SIZE="51208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00328_0.tif"/>
+      </file>
+      <file ID="tiff_00328_1" MIMETYPE="image/tiff" CHECKSUM="0ff3444a04e8c82ff75bf71636a43728" CHECKSUMTYPE="MD5" SIZE="53812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00328_1.tif"/>
+      </file>
+      <file ID="tiff_00329_0" MIMETYPE="image/tiff" CHECKSUM="ccfd151457134b25d769684e6351462a" CHECKSUMTYPE="MD5" SIZE="53228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00329_0.tif"/>
+      </file>
+      <file ID="tiff_00329_1" MIMETYPE="image/tiff" CHECKSUM="8d8479b3baaba601d996775dedd9df60" CHECKSUMTYPE="MD5" SIZE="51546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00329_1.tif"/>
+      </file>
+      <file ID="tiff_00330_0" MIMETYPE="image/tiff" CHECKSUM="446297f6bc0f66ff2e10688ea8372430" CHECKSUMTYPE="MD5" SIZE="44150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00330_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00324_1" MIMETYPE="image/jp2" CHECKSUM="6246e6c58d8c9ecd2b6a99e829bc0739" CHECKSUMTYPE="MD5" SIZE="2281051">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00324_1.jp2"/>
+      </file>
+      <file ID="jp2_00325_0" MIMETYPE="image/jp2" CHECKSUM="16a0bd92ea95311cc33030d2334cdd0d" CHECKSUMTYPE="MD5" SIZE="2357414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00325_0.jp2"/>
+      </file>
+      <file ID="jp2_00325_1" MIMETYPE="image/jp2" CHECKSUM="04aac522506bb64a01bacf2bb777a911" CHECKSUMTYPE="MD5" SIZE="2379199">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00325_1.jp2"/>
+      </file>
+      <file ID="jp2_00326_0" MIMETYPE="image/jp2" CHECKSUM="a483cc0eeb7a78f3b94ef9b4635b3590" CHECKSUMTYPE="MD5" SIZE="2388259">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00326_0.jp2"/>
+      </file>
+      <file ID="jp2_00326_1" MIMETYPE="image/jp2" CHECKSUM="57661bb5bfd0f23e8c4ccb6f1b413c25" CHECKSUMTYPE="MD5" SIZE="2348866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00326_1.jp2"/>
+      </file>
+      <file ID="jp2_00327_0" MIMETYPE="image/jp2" CHECKSUM="74b8757d1d893c5a393d48c02bcff4b8" CHECKSUMTYPE="MD5" SIZE="2392338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00327_0.jp2"/>
+      </file>
+      <file ID="jp2_00327_1" MIMETYPE="image/jp2" CHECKSUM="9fe4642984cb5d1e8a3e494c6aeebd1e" CHECKSUMTYPE="MD5" SIZE="2338303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00327_1.jp2"/>
+      </file>
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="6ccb018bb1aa166b902f3e06958a97cc" CHECKSUMTYPE="MD5" SIZE="2368884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00328_0.jp2"/>
+      </file>
+      <file ID="jp2_00328_1" MIMETYPE="image/jp2" CHECKSUM="d575ea521fc2af7bf83dbbcfc158cc9e" CHECKSUMTYPE="MD5" SIZE="2349728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00328_1.jp2"/>
+      </file>
+      <file ID="jp2_00329_0" MIMETYPE="image/jp2" CHECKSUM="ff53a614cd54515fff51d4076b2acda3" CHECKSUMTYPE="MD5" SIZE="2392680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00329_0.jp2"/>
+      </file>
+      <file ID="jp2_00329_1" MIMETYPE="image/jp2" CHECKSUM="cb57a4ac53e1d4b2e4e554d2fe305d55" CHECKSUMTYPE="MD5" SIZE="2306222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00329_1.jp2"/>
+      </file>
+      <file ID="jp2_00330_0" MIMETYPE="image/jp2" CHECKSUM="db5b971598d1498a55a36085d7eb29ea" CHECKSUMTYPE="MD5" SIZE="2298070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00330_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00324_1" MIMETYPE="text/xml" CHECKSUM="fb368e1ca68e4ca8b9f14b5b7356247c" CHECKSUMTYPE="MD5" SIZE="80127">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00324_1.xml"/>
+      </file>
+      <file ID="alto_00325_0" MIMETYPE="text/xml" CHECKSUM="413c7ab4de336f5b748d268843706aae" CHECKSUMTYPE="MD5" SIZE="89939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00325_0.xml"/>
+      </file>
+      <file ID="alto_00325_1" MIMETYPE="text/xml" CHECKSUM="1f68f97fd853767ff1bed602a25c8dc7" CHECKSUMTYPE="MD5" SIZE="93918">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00325_1.xml"/>
+      </file>
+      <file ID="alto_00326_0" MIMETYPE="text/xml" CHECKSUM="ff08d265ed4febf0f645caeab66bd869" CHECKSUMTYPE="MD5" SIZE="88043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00326_0.xml"/>
+      </file>
+      <file ID="alto_00326_1" MIMETYPE="text/xml" CHECKSUM="ad8d7e1c593aa4003f037ec41497afbe" CHECKSUMTYPE="MD5" SIZE="85691">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00326_1.xml"/>
+      </file>
+      <file ID="alto_00327_0" MIMETYPE="text/xml" CHECKSUM="846208dd3b4a534207bc60c327b68507" CHECKSUMTYPE="MD5" SIZE="88479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00327_0.xml"/>
+      </file>
+      <file ID="alto_00327_1" MIMETYPE="text/xml" CHECKSUM="9ade81feace341c9fa4382ee881ec972" CHECKSUMTYPE="MD5" SIZE="95242">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00327_1.xml"/>
+      </file>
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="ef587c26df8af0e1481333f084f7ef70" CHECKSUMTYPE="MD5" SIZE="83759">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00328_0.xml"/>
+      </file>
+      <file ID="alto_00328_1" MIMETYPE="text/xml" CHECKSUM="f50c853465a5c883ba46421a8dc5a9f7" CHECKSUMTYPE="MD5" SIZE="89461">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00328_1.xml"/>
+      </file>
+      <file ID="alto_00329_0" MIMETYPE="text/xml" CHECKSUM="336835901adf2775ff997157221de589" CHECKSUMTYPE="MD5" SIZE="88140">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00329_0.xml"/>
+      </file>
+      <file ID="alto_00329_1" MIMETYPE="text/xml" CHECKSUM="94b2f3180f61a650fbf7efcd2248698e" CHECKSUMTYPE="MD5" SIZE="83447">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00329_1.xml"/>
+      </file>
+      <file ID="alto_00330_0" MIMETYPE="text/xml" CHECKSUM="71d44a79d55099246cfb285f0e2b1cdd" CHECKSUMTYPE="MD5" SIZE="78506">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00330_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0083" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="643" firstpage="632">
+              <docketnumber pgmap="648" id="b648-9">Gen. No. 14,011.</docketnumber>
+              <parties pgmap="648" id="b648-8">Jacob H. Lesher, Appellant, v. United States Fidelity &amp; Guaranty Company, Appellee.</parties>
+              <decisiondate pgmap="649" id="Azys">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="649" id="ALk">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="649" id="b649-7">Wilson, Moore &amp; McIlvaine and Edwin White Moore, for appellant.</attorneys>
+              <attorneys pgmap="649" id="b649-8">Judah, Willard, Wolf &amp; Reichmann, for appellee.</attorneys>
+              <summary pgmap="649" id="b649-6">Action in debt. Appeal from the Superior Court of Cook county; the Hon. Axel Chytbaus, Judge, presiding.</summary>
+              <disposition pgmap="649" id="AUn">Affirmed.</disposition>
+              <headnotes pgmap="648" id="b648-10">1. Pleading—what declaration need not allege. A declaration relying upon a bond which provides that suit hereon must be brought, if at all, within a specified period, need not set up excuses for failure to bring suit within such time in order to state a cause of action.</headnotes>
+              <headnotes pgmap="648" id="b648-11">2. Pleading—what question not raised 6y demurrer. A demurrer raisee no question as to whether a plea is or is not regularly filed.</headnotes>
+              <headnotes pgmap="648(9) 649(59)" id="b648-12">3. Statute oe Limitations—what does not adjudicate defense of. To overrule a demurrer to a declaration which excuses in advance of pleading the defense of limitation, is not to adjudicate the ques­tion of the propriety of the limitation defense, as such defense must he set up by way of plea and the allegations of excuse contained in the declaration are no part of the cause of action.</headnotes>
+              <headnotes pgmap="649" id="b649-4">4. Contracts—what limitation period for commencement of action not void. A provision of a bond requiring suit to be brought thereon, if at all, within a specified period, is not unreasonable, if where at the time of the expiration of the limitation the amount of damages sustained by reason of default under the bond could not be ascertained,—a technical breach having occurred action might be brought and at least nominal damages recovered by virtue of which subsequent assessments of damages could be had under the statute.</headnotes>
+              <headnotes pgmap="649" id="b649-5">5. Bonds-—nature of assessments of damages under subsequent breaches. Assessments of damages, under section 20 of the Practice Act, are not new suits.</headnotes>
+              <opinion type="majority">
+                <author pgmap="649" id="b649-9">Mr. Presiding Justice Adams</author>
+                <p pgmap="649" id="Afq">delivered the opinion of the court.</p>
+                <p pgmap="649" id="b649-10">November 25, 1903, the appellant, Jacob H. Lesher, brought suit against the appellee, the United States Fidelity &amp; Guaranty Co. and Henry W. Schlueter. May 6, 1906, the suit, on appellant’s motion, was dis­missed as to Schlueter. The suit is on a bond of date August 25, 1902, in the penalty of $50,000, executed by appellee and Schlueter to appellant. One of the condi­tions of the bond is as follows:</p>
+                <blockquote pgmap="649" id="b649-11">“Third. That in no event shall the surety be liable for a greater sum than the penalty of this bond, or subject to any suit, action or other proceeding thereon that is instituted later than the 15th day of March, A. D. 1903”.</blockquote>
+                <p pgmap="649(9) 650(136)" id="b649-12">In an amended declaration, filed May 6, 1905, there is set out, in words and figures, next after the formal commencement, a contract, dated August 22, 1905, between Henry W. Schlueter and J. H. Lesher, by which Schlueter agrees to construct a building and provide all material and work for the same, according to certain specifications and plans shown on drawings prepared by certain named architects. Article 6 of the agreement provides: “The contractor shall com­plete the several portions and the whole of the work comprehended in this agreement by and at the time hereinafter stated, the entire work of this contract to be completed on or before December fifteenth, 1902 ’ ’. The bond, a condition, of which is above quoted, is then set out, followed by assignments of breaches of the con­ditions of the bond, one of which is as follows:</p>
+                <blockquote pgmap="650(246) 651(23)" id="b650-5">“And for assigning a further breach of the condi­tion of said writing obligatory, plaintiff says that by the contract with the plaintiff above herein described the said Schlueter covenanted and agreed that the en­tire work described in the said contract should be com­pleted on or before December 15th, 1902; but the plaintiff avers that the said Schlueter did not complete the said building within the said time, nor for a long time thereafter, to-wit, six months, and that due notice of such default was given to the defendant at the time and in the manner required by said writing obligatory; that said building was an office and store building, for office and mercantile purposes, as shown in the plans and specifications described in said contract, and this was well known to the said Schlueter and to the defend­ant herein; and it was well known to the said Schlue­ter and to this defendant that in case the said building should not be completed by the time aforesaid plaintiff would be deprived of a large amount of gains and profits which he would otherwise make as and for the rentals and rental value thereof during the time that would.be lost by such default; nevertheless, the said Schlueter did not nor would, although often requested, complete the said building at the time required by said contract, nor within the period last above mentioned, and that the rentals and rental value of the said prop­erty during the said period, which the plaintiff lost thereby, was very great, to-wit, the sum of ten thousand dollars ’ ’, etc.</blockquote>
+                <p pgmap="651" id="b651-4">The declaration, in the concluding part thereof, con­tains the following averments:</p>
+                <blockquote pgmap="651(319) 652(61)" id="b651-5">“And plaintiff further shows that the plaintiff on his part complied with all and singular the provisions and requirements of the said writing obligatory on his part to be kept and performed, excepting only that this present action by the plaintiff against the said de­fendant was not brought on or prior to March 15,1903; and in respect to said provision or requirement of the said writing obligatory the plaintiff avers that the said building which should by the terms of said contract have been completed by December 15th, 1902, was not in fact completed for a long time, to-wit, for the period of eleven months thereafter, and that on March 15th, 1903, the said building was in an uncompleted state and the said Schlueter was still engaged in the con­struction thereof and in laboring in and about the same with numerous employes and sub-contractors; and that it was not known to the plaintiff at the said date, and could not have been known at the said time nor until long afterwards, to-wit, eleven months, what injury, loss or damage, if any, would be sustained by the plaintiff by reason of said breach of contract, nor whether the said Schlueter would himself indemnify and save harmless the said plaintiff from any pecu­niary loss resulting from such breach of the terms, covenants and conditions of said contract; and that the said loss or- damage could not have been known to the plaintiff until shortly before the time when he brought this present action; nor could the plaintiff, until the last work done or caused to be done by the said Sehlue­ter upon the said building had been completed, have known or in any way ascertained the amount which the defendant herein ought to pay the plaintiff by vir­tue of the covenants and provisions of the said in­strument; nor could plaintiff by any means know or ascertain that the defendant herein would decline or refuse to make good, without suit, the amount of such loss or damage when ascertained; by reason whereof the plaintiff avers that the said provisions of said writing obligatory that action thereon should be brought by March 15th, 1903, was unreasonable and void; and that plaintiff was not in any way bound thereby.”</blockquote>
+                <p pgmap="652" id="b652-5">Appellee demurred to the declaration generally and specially, and the court, July 8, 1905, overruled the demurrer and ruled appellee to plead to the declaration within thirty days, which time was subsequently ex­tended till September 30, 1905. September 25, 1905, appellee filed thirteen pleas. Appellant demurred gen­erally and specially to the 1st, 3rd, 5th, 6th, 7th, 8th, 9th, 11th and 13th pleas. The 13th plea is as fol­lows :</p>
+                <blockquote pgmap="652" id="Al4">“And for a further plea in this behalf, the defend­ant says the plaintiff ought not to have his aforesaid action against it, the defendant, because it says that the plaintiff did not commence his said action on or before the 15th day of March, A. D. 1903, but, on the contrary thereof, commenced his said action on or about the 27th day of November, 1903, contrary to the terms and conditions of the said writing obligatory; and this the defendant is ready to verify; wherefore it prays judgment if the plaintiff ought to have his'afore­said action, etc”.</blockquote>
+                <p pgmap="652" id="b652-8">The following causes of demurrer are assigned:</p>
+                <blockquote pgmap="652" id="AcQ">“The said thirteenth plea is not a sufficient plea to the said declaration, since it sets up and relies upon mat­ters which are defenses of law alone”. The said thirteenth plea is not sufficient as a plea to the said declaration, since it sets up matters and things al­ready adjudged and determined against the defendant by its demurrer to the plaintiff’s declaration”.</blockquote>
+                <p pgmap="652" id="b652-9">June 15, 1907, the court overruled appellant’s de­murrer to appellee’s thirteenth plea; appellant elected to stand by its demurrer, and the court rendered judg­ment in favor of appellee for its costs, and appellant prayed and was allowed an appeal.</p>
+                <p pgmap="653" id="b653-3">Appellant has assigned as error the overruling his demurrer to appellee’s thirteenth plea. Appellant’s counsel rely on the following proposition: •</p>
+                <blockquote pgmap="653" id="b653-4">“That the right of appellant to maintain this suit notwithstanding the limitation was determined by the decision of the Superior Court on the demurrer to the declaration, and that appellee having obtained leave of the court to plead over and having filed various pleas, including the general issue, finally and definitely waived all objections to the amended declaration, and cannot be heard again to raise the same questions, and that the court erred in not sustaining appellant’s de­murrer to the thirteenth plea”.</blockquote>
+                <p pgmap="653" id="AqI">Counsel, in this proposition, and also in their argu­ment, assume that the court, in overruling appellee’s demurrer to the declaration, conclusively adjudged that the matter of appellee’s thirteenth plea is not a bar to the action. This assumption is unwarranted by any rule or principle of common law pleading. “Pleading is the statement in a logical and legal form of the facts which constitute the plaintiff’s cause of action, or the defendant’s ground of defense; it is the formal mode of alleging that on the record which would be the sup­port or the defense of the party in evidence”. 1 Chitty on Pl., 5 Am. ed., sec. 195; Kilgore v. Ferguson, 77 Ill. 213; 215.</p>
+                <p pgmap="653" id="b653-7">“In general, whatever circumstances are necessary to constitute the cause of complaint, or the ground of defense, must be stated in the pleadings, and all be­yond is surplusage”. 1 Chitty on Pl., sec. 196, top p. 195; Heard’s Stephen on Pl., 9 Am. ed. p. 422; Heard’s Gould’s Pl., 5th ed., pp. 41, 43; Ill. Steel Co. v. Schy­manowski, 59 Ill. App. 32, 39; Liebold v. Green, 69 ib. 527, 533; Burnap v. Wight, 14 Ill. 301; Barnes v. North­ern Trust Co., 169 ib. 112,118.</p>
+                <p pgmap="653" id="b653-8">Matter of defense need not be stated in a declaration, because it comes properly from the other side. 1 Chitty on Pl., sec. 205; 4 Joyce on Insurance, parag. 3684.</p>
+                <p pgmap="653(17) 654(303)" id="b653-9">The appellant’s cause of action is a breach or breaches of the contract between Schlueter and appel­lant, and, manifestly, the averment in the declaration that appellant did not commence his suit prior to March 15, 1903, and the averment, by way of excuse, for the omission so to do, are not facts constituting, or tend­ing, with other facts, to constitute his cause of action. That appellant did not commence suit before March 15, 1903, is matter of defense, and if the appellee should plead this in bar of the suit, any valid reason which appellant might have for not commencing suit before that time he might reply. In Andes Co. v. Fish, 71 Ill. 620, the court, referring to P. F. &amp; M. Ins. Co. v. Whitehill, 25 Ill. 382, say: “It is true, in the first of these cases it was said, that there should be a proper averment of the facts relied on to excuse the delay in bringing the suit, in the declaration, which was not done here; but that remark was unnecessary to the decision of the question then before the court, and cannot be held as committing us to the doctrine that it is indis­pensable that such facts be averred in the declaration. This provision in the policy, requiring suit to 'be brought for loss within twelve months after the loss occurs, is, in that opinion, previously discussed, and upheld upon, the principle that it is a reasonable limi­tation upon the bringing of such suits. Adhering to that reasoning, as we still do, it logically follows that-­the same rules of pleading should be allowable in re­spect to it as to other limitations of actions, and that the limitation, if insisted upon, should be set up by the defense, when the plaintiff may reply the facts relied upon as excusing what would otherwise have been laches in bringing the suit”.</p>
+                <p pgmap="654" id="b654-5">In 4 Joyce on Insurance, sec. 3223, the author says: “In a suit brought after the expiration of twelve months it is not necessary for the plaintiff to 'allege any excuse for not bringing it within the time, but the same rule of pleading applies as to other limitations of actions. If it is insisted upon, it must be set up by the defense, and the plaintiff may then reply to the facts relied upon as his excuse for not bringing his suit within' the</p>
+                <p pgmap="655" id="b655-3">time limited”. See, also, Corrigan v. Reilly, 64 Ill. App. 124.</p>
+                <p pgmap="655" id="b655-4">A demurrer does not reach surplusage, the reason being utile per inutile non vitiatur. Heard’s Stephen on Pl., sec. 424, top p. 423; Burnap v. Wight, 14 Ill. 307, 303.</p>
+                <p pgmap="655" id="b655-5">Surplusage may be rejected by the court and need not be proved. Heard’s Gould’s Pleadings, top pp. 149-50. And it niay be'struck out on motion. Heard’s Gould’s Pl., top p. 143, note.</p>
+                <p pgmap="655" id="b655-6">Appellee’s counsel, while assigning special grounds of demurrer to the declaration, did not specially de­mur to appellant’s admission that it did not commence suit within the time limited by the bond, or its alleged reason for that omission. It is familiar law that the statute of limitations, to be availed of, must be spe­cially pleaded as defense. The same rule applies in the case of a contractual limitation. 4 Joyce on Ins., sec. 3223.</p>
+                <p pgmap="655" id="b655-7">The' law being as stated appellant’s alleged rea­sons for not commencing suit before March 15, 1903, were not before the court for consideration, in pass­ing on appellee’s demurrer to the declaration. There­fore, the court did not, in overruling the demurrer, adjudge appellant’s right, notwithstanding” the limi­tation, to maintain his suit, as his 'counsel claim. The 13th plea of appellee is a plea in bar of the action. The sole question raised by appellant’s demurrer to the plea is, whether it is a sufficient plea in bar. Manifestly, the demurrer raised no question as to whether the plea was or was not regularly filed. Ap­pellant, by demurring to it, invited consideration as to its validity by the court, and while appellant may properly call in question the oorrectnéss of the court’s decision overruling the demurrer to the plea, he is not in a position to complain that the court con­sidered the plea and passed on its sufficie’ncy. In other words, he cannot complain of the court having done that which, by his demurrer, he impliedly re­quested the court to do.</p>
+                <p pgmap="656(362) 657(110)" id="b656-4">But counsel for appellant contend that the limita­tion, which is pleaded in bar by appellee, is unrea­sonable and invalid, for the reasons set forth in the declaration, quoted supra, viz.: that the building was not completed December 15, 1902, and was uncom­pleted March 15, 1903, and that it was not known to appellant at the last date, and could not have been known to him till shortly before bringing suit, what loss or damage would be sustained by appellant, etc. Counsel, after quoting the provision in the contract, that “should the contractor fail to complete the work on or before the date agreed upon, he shall pay to or allow the owner, by way of liquidated damages, the sum of $1,000 per diem for each day thereafter that the work remains uncompleted”, and after stating that the delay in the completion of the building was the main element of loss, say: “In view of this situa­tion, is it- possible that the parties could have in­tended to agree that although the bond was given to secure that particular element of loss, and covenanted in terms that the builder ‘should well and truly in­demnify and save harmless the obligee’ therefrom, nevertheless if the loss should be so substantial and the delay so material as to extend beyond March 15, the damage to the obligee, although largely increased by that circumstance, could not be recovered at all?” Section 20 of the Practice Act is as follows: “In actions brought on penal bonds, conditioned for the performance of covenant, the plaintiff shall set out the conditions thereof, and may assign in his dec­laration as many breaches as he may think fit; and the jury, whether on trial of the issue or of inquiry, shall assess the damages for so many breaches as the plaintiff shall prove, and the judgment for the penalty shall stand as a security for such other breaches. as may afterwards happen, and the plaintiff may, at any time afterwards, sue out a writ of inquiry to assess damages for the breach of any covenant or covenants contained in such bond, subsequent to the former trial or inquiry; and whenever execution shall be issued on such judgment, the clerk shall endorse thereon the amount of damages assessed by the jury, with the costs of suit, and the sheriff or coroner shall only collect the amount so indorsed: Provided, that in all cases where a writ of inquiry of damages shall be issued for any such breaches subsequent to the first trial or inquiry, the defendant, or his agent or attorney, shall have at least ten days’ notice, in writing, of the time of executing the same”. Hurd’s Stats., p. 1534. Sec­tion 35 of the Practice Act of 1907 is the same. Laws 1907, p. 444.</p>
+                <p pgmap="657" id="b657-4">Appellant was entitled to sue on the first breach, which, so far as appears from the record, was the noncompletion of the building by December 15, 1902. Under section 20, appellant could have commenced suit prior to March 15, 1903, for this breach, and could have recovered at least nominal, if not actual, damages, and thereafter might have sued out writs of inquiry and assigned subsequent breaches. Dent v. Davison, 52 Ill. 109; McDole v. McDole, 106 ib. 452.</p>
+                <p pgmap="657(164) 658(85)" id="b657-5">Appellant’s counsel say that the subsequent pro­ceedings authorized by section 20 are equivalent to new suits; but the court, in Dent v. Davison, supra, shows that the very object of the section is to prevent multiplicity of suits. Counsel insist that the limita­tion in question should be construed so as not to apply to damages which could not accrue until the building should be completed. The language of the limitation is, “In no event shall the surety be liable for a greater sum than the penalty of this bond, or subject to any suit, action, or other proceeding thereon, that is instituted later than March 15, 1903”. The language limiting a suit or action is too plain and unmistakable to require or even admit of con­struction. In Johnson v. Humbolt Insurance Co., 91 Ill. 92, the condition of the policy was, that no suit or action against the company should be sustained, unless such suit or action should be commenced within twelve months after the loss should occur. The court held that the language meant twelve months after the fire, and said: “All persons know that in giving force to laws and contracts of every description, the inten­tion as therein expressed must govern. That inten­tion must and can only he sought in the language employed in the instrument itself, and from the ordi­nary or popular meaning' of the words themselves, unless it is apparent they are used in a technical or particular sense”.</p>
+                <p pgmap="658" id="b658-5">Counsel, contending that the construction should be liberal in favor of appellant, cite numerous authori­ties to the effect that companies such as appellant are insurance companies. In 1 Joyce on Insurance, para­graph 209, the author says: “The casés are numer­ous which hold that the first object of construction is to ascertain the intentions or meaning of the parties, and to understand the contract accordingly”. Also: “We suggest that, if the words are clear and precise, it is not an unreasonable presumption that the parties intended that meaning which the words used fairly express, even though the parties may have actually intended otherwise”; and in paragraph 219 it is said: “If the terms of the contract are express, the court cannot extend or enlarge the contract by implication, so as to embrace an object distinct from that origin­ally contemplated”.</p>
+                <p pgmap="658" id="b658-6">Appellant must be presumed!, in the absence of evi­dence to the contrary, to be of ordinary intelligence, and no man of ordinary intelligence can, as we think, misunderstand the very plain language of the limita­tion. It was provided, in the building contract, and contemplated by the parties to that contract, that the building would be completed by December 15, 1902, and the limitation of suit to March 15, 1903, three months from the former date, is not unreasonable.</p>
+                <p pgmap="658(28) 659(37)" id="b658-7">In Riddlesbarger v. Hartford Insurance Co., 7 Wal­lace, 386, the court, referring to the limitation clause in the policy, say: “It is clearly for the interest of the insurance companies that the extent of losses sus­tained by them should be speedily ascertained, and it is equally for the interest of the assured that the loss should be speedily adjusted and paid”. Ib. 340.</p>
+                <p pgmap="659" id="b659-4">We can find no reason for holding that the limita­tion clause in question is unreasonable, and are of opinion that it is valid and binding and should be en­forced (4 Joyce, on Insurance, parag. 3181), and that the trial court did not err in overruling appellant’s demurrer to appellee’s thirteenth plea. Therefore, the judgment will be affirmed.</p>
+                <p pgmap="659" id="b659-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="648" ORDERLABEL="632" TYPE="page">
+        <fptr FILEID="tiff_00324_1"/>
+        <fptr FILEID="jp2_00324_1"/>
+        <fptr FILEID="alto_00324_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.2" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_648.3" BETYPE="IDREF" FILEID="alto_00324_1"/>
+              <area BEGIN="BL_648.4" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="649" ORDERLABEL="633" TYPE="page">
+        <fptr FILEID="tiff_00325_0"/>
+        <fptr FILEID="jp2_00325_0"/>
+        <fptr FILEID="alto_00325_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.2" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_649.3" BETYPE="IDREF" FILEID="alto_00325_0"/>
+              <area BEGIN="BL_649.4" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="650" ORDERLABEL="634" TYPE="page">
+        <fptr FILEID="tiff_00325_1"/>
+        <fptr FILEID="jp2_00325_1"/>
+        <fptr FILEID="alto_00325_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.2" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_650.3" BETYPE="IDREF" FILEID="alto_00325_1"/>
+              <area BEGIN="BL_650.4" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="651" ORDERLABEL="635" TYPE="page">
+        <fptr FILEID="tiff_00326_0"/>
+        <fptr FILEID="jp2_00326_0"/>
+        <fptr FILEID="alto_00326_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.2" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_651.3" BETYPE="IDREF" FILEID="alto_00326_0"/>
+              <area BEGIN="BL_651.4" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="652" ORDERLABEL="636" TYPE="page">
+        <fptr FILEID="tiff_00326_1"/>
+        <fptr FILEID="jp2_00326_1"/>
+        <fptr FILEID="alto_00326_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.2" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_652.3" BETYPE="IDREF" FILEID="alto_00326_1"/>
+              <area BEGIN="BL_652.4" BETYPE="IDREF" FILEID="alto_00326_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="653" ORDERLABEL="637" TYPE="page">
+        <fptr FILEID="tiff_00327_0"/>
+        <fptr FILEID="jp2_00327_0"/>
+        <fptr FILEID="alto_00327_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.1" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.2" BETYPE="IDREF" FILEID="alto_00327_0"/>
+              <area BEGIN="BL_653.3" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="654" ORDERLABEL="638" TYPE="page">
+        <fptr FILEID="tiff_00327_1"/>
+        <fptr FILEID="jp2_00327_1"/>
+        <fptr FILEID="alto_00327_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.2" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.3" BETYPE="IDREF" FILEID="alto_00327_1"/>
+              <area BEGIN="BL_654.4" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="655" ORDERLABEL="639" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.1" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.2" BETYPE="IDREF" FILEID="alto_00328_0"/>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="656" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00328_1"/>
+        <fptr FILEID="jp2_00328_1"/>
+        <fptr FILEID="alto_00328_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.1" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.2" BETYPE="IDREF" FILEID="alto_00328_1"/>
+              <area BEGIN="BL_656.3" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="657" ORDERLABEL="641" TYPE="page">
+        <fptr FILEID="tiff_00329_0"/>
+        <fptr FILEID="jp2_00329_0"/>
+        <fptr FILEID="alto_00329_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_657.2" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_657.3" BETYPE="IDREF" FILEID="alto_00329_0"/>
+              <area BEGIN="BL_657.4" BETYPE="IDREF" FILEID="alto_00329_0"/>
+              <area BEGIN="BL_657.7" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="658" ORDERLABEL="642" TYPE="page">
+        <fptr FILEID="tiff_00329_1"/>
+        <fptr FILEID="jp2_00329_1"/>
+        <fptr FILEID="alto_00329_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.2" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_658.3" BETYPE="IDREF" FILEID="alto_00329_1"/>
+              <area BEGIN="BL_658.4" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="659" ORDERLABEL="643" TYPE="page">
+        <fptr FILEID="tiff_00330_0"/>
+        <fptr FILEID="jp2_00330_0"/>
+        <fptr FILEID="alto_00330_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.2" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_659.3" BETYPE="IDREF" FILEID="alto_00330_0"/>
+              <area BEGIN="BL_659.4" BETYPE="IDREF" FILEID="alto_00330_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcQ" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.8" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azys" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.12" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALk" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.9" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_649.10" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-3" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.4" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.6" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.5" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.6" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.9" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.5" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-3" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.4" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.4" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            <area BEGIN="BL_657.1" BETYPE="IDREF" FILEID="alto_00329_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.6" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.5" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b658-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_658.7" BETYPE="IDREF" FILEID="alto_00329_1"/>
+            <area BEGIN="BL_659.1" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.5" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-10" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.18" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-11" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.19" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-12" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.20" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_650.1" BETYPE="IDREF" FILEID="alto_00325_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.7" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.9" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.8" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.6" BETYPE="IDREF" FILEID="alto_00326_0"/>
+            <area BEGIN="BL_652.1" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b651-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_651.5" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.5" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b650-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_650.5" BETYPE="IDREF" FILEID="alto_00325_1"/>
+            <area BEGIN="BL_651.1" BETYPE="IDREF" FILEID="alto_00326_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.8" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.9" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            <area BEGIN="BL_654.1" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.8" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-12" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.12" BETYPE="IDREF" FILEID="alto_00324_1"/>
+            <area BEGIN="BL_649.1" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-11" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.11" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.7" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.14" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-9" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.15" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-6" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.7" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_649.8" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-7" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.13" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.5" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b649-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.6" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b657-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_657.6" BETYPE="IDREF" FILEID="alto_00329_0"/>
+            <area BEGIN="BL_658.1" BETYPE="IDREF" FILEID="alto_00329_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b657-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_657.5" BETYPE="IDREF" FILEID="alto_00329_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b652-8" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_652.7" BETYPE="IDREF" FILEID="alto_00326_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-5" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.6" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b659-4" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_659.5" BETYPE="IDREF" FILEID="alto_00330_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b648-10" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_648.10" BETYPE="IDREF" FILEID="alto_00324_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqI" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.6" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afq" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.16" BETYPE="IDREF" FILEID="alto_00325_0"/>
+            <area BEGIN="BL_649.17" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUn" BETYPE="IDREF" FILEID="casebody_0083"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_649.11" BETYPE="IDREF" FILEID="alto_00325_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0122" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="v">Anna M. Conner, Appellant, v. Charles F. Conner, Appellee</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 608</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00313_1" MIMETYPE="image/tiff" CHECKSUM="403252534b4324ba5771f7e84d4dea80" CHECKSUMTYPE="MD5" SIZE="38950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_1.tif"/>
+      </file>
+      <file ID="tiff_00314_0" MIMETYPE="image/tiff" CHECKSUM="8fdd8f408119e5f5740e2e990661fa39" CHECKSUMTYPE="MD5" SIZE="53776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00314_0.tif"/>
+      </file>
+      <file ID="tiff_00314_1" MIMETYPE="image/tiff" CHECKSUM="f3483fea4d70f50d2e48af9f4258da87" CHECKSUMTYPE="MD5" SIZE="51632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00314_1.tif"/>
+      </file>
+      <file ID="tiff_00315_0" MIMETYPE="image/tiff" CHECKSUM="e5d0dcbf8e9ee43a5691643372229059" CHECKSUMTYPE="MD5" SIZE="42478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00315_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00313_1" MIMETYPE="image/jp2" CHECKSUM="1e921ae4a8e175bb9268cdc43e1d6ca2" CHECKSUMTYPE="MD5" SIZE="2300183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00313_1.jp2"/>
+      </file>
+      <file ID="jp2_00314_0" MIMETYPE="image/jp2" CHECKSUM="d536da0cdbe32d1189792038d3bb1a8a" CHECKSUMTYPE="MD5" SIZE="2425758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00314_0.jp2"/>
+      </file>
+      <file ID="jp2_00314_1" MIMETYPE="image/jp2" CHECKSUM="0ee73f61b1908f186f301e9269b33eff" CHECKSUMTYPE="MD5" SIZE="2382813">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00314_1.jp2"/>
+      </file>
+      <file ID="jp2_00315_0" MIMETYPE="image/jp2" CHECKSUM="33554403e31720e7ef4bc9bd7f7eae83" CHECKSUMTYPE="MD5" SIZE="2367608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00315_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00313_1" MIMETYPE="text/xml" CHECKSUM="90ed7797fca172d1223a793247f3dccf" CHECKSUMTYPE="MD5" SIZE="76015">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00313_1.xml"/>
+      </file>
+      <file ID="alto_00314_0" MIMETYPE="text/xml" CHECKSUM="b0a210a40207892257f240e862a21d0f" CHECKSUMTYPE="MD5" SIZE="87399">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00314_0.xml"/>
+      </file>
+      <file ID="alto_00314_1" MIMETYPE="text/xml" CHECKSUM="ff7acfe56ac6123793544ebe0cb9ea2b" CHECKSUMTYPE="MD5" SIZE="84158">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00314_1.xml"/>
+      </file>
+      <file ID="alto_00315_0" MIMETYPE="text/xml" CHECKSUM="788e58626ded2a0c053e43b38c4a5245" CHECKSUMTYPE="MD5" SIZE="66907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00315_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0122" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="611" firstpage="608">
+              <parties id="b626-6" pgmap="626">Anna M. Conner, Appellant, v. Charles F. Conner, Ap­pellee.</parties>
+              <decisiondate id="A7X" pgmap="626">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b626-10" pgmap="626">S. F. Schecter, for appellant.</attorneys>
+              <attorneys id="b626-11" pgmap="626">O. M. Jones and Arthur E. Hall, for appellee.</attorneys>
+              <summary id="b626-9" pgmap="626">Bill of interpleader. Appeal from the Circuit Court of Vermilion county; the Hon. E. R. E. Kimbrough, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AJB7" pgmap="626">Reversed and remanded.</disposition>
+              <headnotes id="b626-7" pgmap="626">1. Witnesses—as to what wife competent; as to what not. A wife is incompetent to testify as a witness to any admission or con­versation of her husband relative to transactions concerning a benefit certificate in suit wherein she is named as beneficiary, but' she is not incompetent to testify as a witness to such transactions relating to such benefit certificate, such as the delivery to her of said certificate, the keeping of the same by her, where she kept the same and the fact of the payment and advancement by her of money for the benefit and use of her husband.</headnotes>
+              <headnotes id="b626-8" pgmap="626">2. Assignments—of benefit certificate. While a benefit certifi­cate is not assignable at law, a beneficial interest therein may be transferred in equity, and courts of equity will protect such equi­table beneficial interest.</headnotes>
+              <opinion type="majority">
+                <author id="b626-12" pgmap="626">Mr. Justice Baume</author>
+                <p id="AG0W" pgmap="626">delivered the opinion of the court.</p>
+                <p id="b626-13" pgmap="626(74) 627(60)">The Modern Woodmen of America, a fraternal bene­ficiary society, filed its bill of interpleader to determine the conflicting claims of the appellant, Anna M. Con­ner, and appellee, Charles F. Conner, to the sum of $2,000, being the amount of a benefit certificate issued to one James B. Conner. Upon the issues made by the several answers of appellant and appellee, and upon the payment into court by the said society of the money in controversy the society was dismissed out of the case, and the cause was referred to the master in chancery to take and report the proofs together with his findings thereon. The master found that ap­pellee was entitled to receive the amount payable under the certificate, and recommended that a decree be entered in accordance with such findings.</p>
+                <p id="b627-5" pgmap="627">Appellant filed objections to the master’s report, which objections were overruled, and thereafter filed exceptions to said report, which upon a hearing before the chancellor were also overruled and a decree en­tered in accordance with the report of the master.</p>
+                <p id="b627-6" pgmap="627">The benefit certificate in question was issued July 12, 1904, to James B. Conner, and was made payable at his death to his wife, the appellant. Appellant and her husband lived together until July 5, 1905, when her husband was induced to go to the home of his brother, the appellee. At the time of his removal to the home of appellee James B. Conner was ill and appellant was temporarily absent from home. On July 7, 1905, James B. Conner made a written application to the beneficiary society for the cancellation of the certifi­cate in which appellant was named as beneficiary, and for the issuance of a new certificate wherein appellee should be named as beneficiary. Upon receipt of such application and the surrender of the old certificate, the said society on July 13, 1905, issued a new certificate to James B. Conner payable at his death to appellee and delivered the same to said James B. Conner. James B. Conner died July 16, 1905.</p>
+                <p id="b627-7" pgmap="627(87) 628(106)">Appellant asserts her right to the fund in question upon her claim that the original benefit certificate was delivered to her by her husband, with the statement by him that she should keep the same and upon his death should collect the proceeds and apply the same to the re-payment of money paid and advanced by her out of her individual funds for his use and benefit.; that she kept the certificate in her drawer in the house until the same was taken therefrom without her knowl­edge or consent by appellee and his mother; that she had paid nearly all of the assessments upon the cer­tificate and had also paid all dues for her husband in a building association; that she had advanced for her husband various sums of money out of her individual funds aggregating $700; and that she had made all such payments and advances upon the faith and credit of said certificate. The claim of appellee to the fund in question is based solely upon the fact that the origi­nal certificate was surrendered and cancelled and a new certificate issued wherein he was named as bene­ficiary.</p>
+                <p id="b628-5" pgmap="628(238) 629(14)">It appears from the report of the master that he wholly disregarded the testimony of appellant as to any and all transactions between herself and her hus­band in his lifetime, and that he held such testimony to be inadmissible. Specific objections and exceptions were made by appellant to the exclusion by the master of her testimony in the case, and such objections and exceptions were overruled. Appellant was incompe­tent to testify as a witness to any admission or conver­sation of her husband relative to transactions con­cerning the benefit certificate, wherein she was named as beneficiary, but she was not incompetent to testify as á witness to transactions relating to said benefit certificate, such as the delivery to her by her husband of said certificate, the keeping of said certificate by her, and where she kept the same, and the fact of the payment and advancement by her of money to and for the benefit and use of her husband. Section 5 of Chapter 51, entitled “Evidence and Depositions,” does not render the husband or wife incompetent to testify to transactions occurring during the marriage except where such husband or wife are called to testify as witnesses for or against each other. In the case at bar the husband is dead and appellant was not called as a witness to testify for or against her husband. The proviso, however, in the section referred to did not make appellant competent to testify to any admission or conversation of her husband.</p>
+                <p id="b629-4" pgmap="629">The exclusion, in whole, of the testimony of appel­lant improperly deprived her of the only evidence at her command to establish the existence of certain transactions necessary to be established by her, in support of her claim. Exclusive of the evidence of appellee of admissions and conversations of her hus­band, which was properly excluded, the evidence of the witness George W. Conner, a brother of appellee, the witness Kelley, father of appellant, and the witness Lou Laird, as to admissions and conversations of the husband of appellant, tends to establish the existence of a contract between appellant her husband, whereby appellant acquired a beneficial interest in the benefit certificate which is enforcible in a court of equity.</p>
+                <p id="b629-5" pgmap="629">While a benefit certificate is not assignable at law, a beneficial interest therein may be transferred in equity, and courts of equity will protect such equitable bene­ficial interest. Royal Arcanum v. Tracy, 169 Ill. 123; McGrew v. McGrew, 190 Ill. 604; Ptacek v. Pisa, 231 Ill. 522.</p>
+                <p id="b629-6" pgmap="629">In the case of Gordon v. Gordon, 117 Ill. App. 91, relied upon by appellee, the party claiming a beneficial interest in the certificate, there involved, had not been named as beneficiary therein or in any other benefit certificate issued to the deceased in his lifetime, and that case is thus distinguishable from the case at bar.</p>
+                <p id="b629-7" pgmap="629">The decree of the Circuit Court will be reversed and the cause remanded for further proceedings not in­consistent with the views here expressed.</p>
+                <p id="b629-8" pgmap="629">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="626" ORDERLABEL="608" TYPE="page">
+        <fptr FILEID="tiff_00313_1"/>
+        <fptr FILEID="jp2_00313_1"/>
+        <fptr FILEID="alto_00313_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.2" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_626.3" BETYPE="IDREF" FILEID="alto_00313_1"/>
+              <area BEGIN="BL_626.4" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="627" ORDERLABEL="609" TYPE="page">
+        <fptr FILEID="tiff_00314_0"/>
+        <fptr FILEID="jp2_00314_0"/>
+        <fptr FILEID="alto_00314_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.3" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_627.2" BETYPE="IDREF" FILEID="alto_00314_0"/>
+              <area BEGIN="BL_627.4" BETYPE="IDREF" FILEID="alto_00314_0"/>
+              <area BEGIN="BL_627.8" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="628" ORDERLABEL="610" TYPE="page">
+        <fptr FILEID="tiff_00314_1"/>
+        <fptr FILEID="jp2_00314_1"/>
+        <fptr FILEID="alto_00314_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.2" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_628.3" BETYPE="IDREF" FILEID="alto_00314_1"/>
+              <area BEGIN="BL_628.4" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="629" ORDERLABEL="611" TYPE="page">
+        <fptr FILEID="tiff_00315_0"/>
+        <fptr FILEID="jp2_00315_0"/>
+        <fptr FILEID="alto_00315_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.3" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_629.2" BETYPE="IDREF" FILEID="alto_00315_0"/>
+              <area BEGIN="BL_629.4" BETYPE="IDREF" FILEID="alto_00315_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.9" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.5" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-8" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.8" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-9" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.9" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_626.10" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.6" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.7" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJB7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.11" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.6" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-4" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.5" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.8" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b629-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_629.7" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG0W" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.16" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_626.17" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7X" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.12" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-10" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.13" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-11" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.14" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-12" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.15" BETYPE="IDREF" FILEID="alto_00313_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b626-13" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_626.18" BETYPE="IDREF" FILEID="alto_00313_1"/>
+            <area BEGIN="BL_627.1" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-7" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.7" BETYPE="IDREF" FILEID="alto_00314_0"/>
+            <area BEGIN="BL_628.1" BETYPE="IDREF" FILEID="alto_00314_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b628-5" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_628.5" BETYPE="IDREF" FILEID="alto_00314_1"/>
+            <area BEGIN="BL_629.1" BETYPE="IDREF" FILEID="alto_00315_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b627-6" BETYPE="IDREF" FILEID="casebody_0122"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_627.6" BETYPE="IDREF" FILEID="alto_00314_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

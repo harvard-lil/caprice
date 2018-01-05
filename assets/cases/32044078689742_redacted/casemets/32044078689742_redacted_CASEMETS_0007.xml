@@ -1,0 +1,681 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0007" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Tuthill v. Belt Railway Co.">Richard L. Tuthill, Appellee, v. Belt Railway Company of Chicago, Appellant</name>
+          <docketnumber>Gen. No. 14,186</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 50</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="c5b648e38417515d8a592de26af351da" CHECKSUMTYPE="MD5" SIZE="45376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="65f06834297a081177f9dbab72ead25e" CHECKSUMTYPE="MD5" SIZE="50886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00035_0.tif"/>
+      </file>
+      <file ID="tiff_00035_1" MIMETYPE="image/tiff" CHECKSUM="71d056bb9c5b1db5d91cfd7b2c2d4b44" CHECKSUMTYPE="MD5" SIZE="47478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00035_1.tif"/>
+      </file>
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="32d8c450f23cdefe9bba23a2d1a9d0cf" CHECKSUMTYPE="MD5" SIZE="51550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00036_0.tif"/>
+      </file>
+      <file ID="tiff_00036_1" MIMETYPE="image/tiff" CHECKSUM="6dff8f9ad8947d586f2e441f2d635eaf" CHECKSUMTYPE="MD5" SIZE="51278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00036_1.tif"/>
+      </file>
+      <file ID="tiff_00037_0" MIMETYPE="image/tiff" CHECKSUM="2bb4afe25248cac4e5382eb7c0fa4507" CHECKSUMTYPE="MD5" SIZE="49718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00037_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="27a3564d0846791321291d108d689d85" CHECKSUMTYPE="MD5" SIZE="2323298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_1.jp2"/>
+      </file>
+      <file ID="jp2_00035_0" MIMETYPE="image/jp2" CHECKSUM="5842e5e8f22838890f5acd19a42c6c96" CHECKSUMTYPE="MD5" SIZE="2453993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00035_0.jp2"/>
+      </file>
+      <file ID="jp2_00035_1" MIMETYPE="image/jp2" CHECKSUM="9abd324a9fa16a442197a2593eea0d8e" CHECKSUMTYPE="MD5" SIZE="2384196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00035_1.jp2"/>
+      </file>
+      <file ID="jp2_00036_0" MIMETYPE="image/jp2" CHECKSUM="bf47ff827d41befa44a24b797eb71a05" CHECKSUMTYPE="MD5" SIZE="2483984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00036_0.jp2"/>
+      </file>
+      <file ID="jp2_00036_1" MIMETYPE="image/jp2" CHECKSUM="877d21ddd91fba2e9614c0e1ff64160f" CHECKSUMTYPE="MD5" SIZE="2403670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00036_1.jp2"/>
+      </file>
+      <file ID="jp2_00037_0" MIMETYPE="image/jp2" CHECKSUM="2b5fb79db68a381f112636c49a9ec3ae" CHECKSUMTYPE="MD5" SIZE="2430540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00037_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="4368ff85af1ac5010d7db78522780284" CHECKSUMTYPE="MD5" SIZE="82784">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00034_1.xml"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml" CHECKSUM="c92063a85cc82431fd302641cca53bab" CHECKSUMTYPE="MD5" SIZE="86123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00035_0.xml"/>
+      </file>
+      <file ID="alto_00035_1" MIMETYPE="text/xml" CHECKSUM="d54d5ca16ad0a864e8075f514270c842" CHECKSUMTYPE="MD5" SIZE="80332">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00035_1.xml"/>
+      </file>
+      <file ID="alto_00036_0" MIMETYPE="text/xml" CHECKSUM="ff5b92eb7c60038715bd18741d64bac4" CHECKSUMTYPE="MD5" SIZE="81735">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00036_0.xml"/>
+      </file>
+      <file ID="alto_00036_1" MIMETYPE="text/xml" CHECKSUM="30f677a7aac760aecf4fe892909c4199" CHECKSUMTYPE="MD5" SIZE="86934">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00036_1.xml"/>
+      </file>
+      <file ID="alto_00037_0" MIMETYPE="text/xml" CHECKSUM="305ee035bd1d5e00ff0a3137352f2598" CHECKSUMTYPE="MD5" SIZE="81192">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00037_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="55" firstpage="50">
+              <docketnumber id="b68-8" pgmap="68">Gen. No. 14,186.</docketnumber>
+              <parties id="b68-7" pgmap="68">Richard L. Tuthill, Appellee, v. Belt Railway Company of Chicago, Appellant.</parties>
+              <decisiondate id="AWu" pgmap="69">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b70-5" pgmap="70">William L. Reed and E. P. H. West, for appellant; Wm. J. Henley, of counsel.</attorneys>
+              <attorneys id="b70-6" pgmap="70">James C. McShane, for appellee.</attorneys>
+              <summary id="b69-4" pgmap="69">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Ben M. Smith, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="Aar" pgmap="69">Reversed and remanded.</disposition>
+              <headnotes id="b68-9" pgmap="68">1. Appeals and errors—scope of appellant’s right to urge errors in denying peremptory instruction. The fact that an appellant in the trial court urged only one ground in support of a motion to direct a verdict does not affect his right upon appeal to urge other grounds as to why such motion should have been granted.</headnotes>
+              <headnotes id="b68-10" pgmap="68">2. Evidence—when disregarded though not stricken out. Evi­dence clearly incompetent and so treated upon the trial will be disregarded upon appeal though not formally stricken out.</headnotes>
+              <headnotes id="b68-11" pgmap="68">3. Evidence—when circumstantial, will not support verdict. Circumstantial evidence alone will not support a verdict where, assuming all to be proved which such evidence tends to prove, some other hypothesis may still be true, inasmuch as it is the actual exclusion of every other hypothesis which invests mere circum­stances with the force of proof.</headnotes>
+              <headnotes id="b68-12" pgmap="68">4. Evidence—what not failure to produce. A party is not bound to produce a witness who is no longer in its employ and its failure so to do does not entitle the jury to draw unfavorable inferences— the ability of such party so to produce not appearing.</headnotes>
+              <headnotes id="b69-3" pgmap="69">5. Negligence—what not competent to sustain. Proof of pre­vious acts of negligence or a bad reputation for the exercise of care is not admissible as tending to show that a particular employe was negligent at the time of the accident in question.</headnotes>
+              <p id="b69-5" pgmap="69">Statement by the Court. In an action on the case for personal injuries plaintiff had judgment for $15,000 and defendant appealed.</p>
+              <p id="b69-6" pgmap="69">Plaintiff, when injured, was the conductor of a switching crew of defendant, consisting of himself, Beckler engineer, Pflaeger head brakeman, Kelner rear brakeman, and a fireman.</p>
+              <p id="b69-7" pgmap="69">The declaration alleged that through the negligence of Pflaeger, plaintiff lost his arm, and that the de­fendant negligently, etc., employed and retained Pflae­ger, a negligent, incompetent, unfit switchman.</p>
+              <p id="b69-8" pgmap="69">At the close of plaintiff’s case, defendant moved the court to direct a verdict of not guilty; the motion was denied and exception taken. Defendant offered no evidence, and on the coming in of the verdict for the plaintiff, moved for a new trial, on the grounds, among others, that the court improperly refused to direct a verdict for the defendant, and also that the verdict was contrary to the evidence; the motion was denied and defendant excepted.</p>
+              <p id="b69-9" pgmap="69(107) 70(180)">The train of which plaintiff was conductor when in­jured had in it more than forty freight cars. It stopped at a station on defendant’s road, and it be­came necessary to cut. the train into two sections. Plaintiff told Pflaeger, in the presence of the engineer, that he was going back to cut the train. He went back and made the cut about the middle of the train, gave the signal, and the front section started forward. When the train moved, plaintiff discovered that some­thing was wrong with the coupling between the rear car of the head section and the car next in front, and gave the signal to stop. Before the train stopped, the rear car became uncoupled, and when the train stopped that car was two or three car lengths in front of the rear section, and three or four car lengths be­hind the head section of the train. Plaintiff then saw that a certain plate attached to the draw bar at the front end of said rear car was broken, causing the cars to uncouple. He got another plate and then gave a signal which meant “stand still until you get another signal”. He testified that Pflaeger answered the signal, that the engineer did not, but that the engineer could have seen the signal if he was looking, as the track was straight. Plaintiff and Kelner, the rear brakeman, then began to put in the new plate. They had been so engaged about ten minutes when, without any notice or warning, the front section of the train came back against the standing car, and plaintiff’s arm was caught between the cars and so injured that it was necessary to amputate it.</p>
+              <opinion type="majority">
+                <author id="b70-7" pgmap="70">Me. Justice Baker</author>
+                <p id="A6Z" pgmap="70">delivered the opinion of the court.</p>
+                <p id="b70-8" pgmap="70">The contention of appellee that as the defendant urged but one ground in support of its motion to di­rect a verdict, it should, as appellant here, be confined to that ground, cannot be sustained. The motion was denied, the cause submitted to the jury and a motion for a new trial, on the ground, inter alia, that the ver­dict was contrary to the evidence, was overruled. The error assigned here, that the trial court erred, “in denying defendant’s motion for a new trial”, brings before us for review the question of the sufficiency of the evidence to support the verdict.</p>
+                <p id="b70-9" pgmap="70(9) 71(25)">From the evidence the jury might, in our opinion, properly find that the plaintiff was not guilty of con­tributory negligence, and had not assumed the risk of injury from the negligence of Pflaeger.</p>
+                <p id="b71-4" pgmap="71">The members of the switching crew were fellow-­servants. To recover the plaintiff was bound to prove: that Pflaeger was an incompetent and unfit switch-­man; that defendant was negligent in retaining him in its service; that Pflaeger was guilty of negligence, and that his negligence was the proximate cause of plaintiff’s injury.</p>
+                <p id="b71-5" pgmap="71">We think that, from the evidence, the jury might properly find, that the backing of the front section of the train against the standing car, under the circum­stances shown by the evidence, was an act of negli­gence; that such act of negligence was the direct and proximate cause of plaintiff’s injuries; that Pflaeger was an incompetent and unfit switchman, and that de­fendant was negligent in retaining him in its service as a switchman.</p>
+                <p id="b71-6" pgmap="71">The case turns on the question, whether from the evidence, the jury might properly find that it was through the negligence' of Pflaeger, that the head sec­tion of the train was backed against the standing car.</p>
+                <p id="b71-7" pgmap="71">Plaintiff was the only one of the switching crew who testified at the trial. In the course of his examina­tion he stated that Pflaeger gave a signal to back up; counsel for defendant said, “I object”; counsel for plaintiff asked: “Did you see the signal?” Plaintiff answered “No, sir”. Counsel for plaintiff then said “Well, of course, you only know from hearsay what happened.”</p>
+                <p id="b71-8" pgmap="71">We think the statement of plaintiff that Pflaeger gave a signal to back up must be disregarded, although there was no formal motion to strike it out.</p>
+                <p id="b71-9" pgmap="71(46) 72(42)">There is in the record no competent direct evidence tending to show that Pflaeger gave any signal or other direction to the engineer to back up. For appellee it is contended that from the facts and circumstances proved the jury might infer that Pflaeger gave such signal or direction. But the hypothesis that the en­gineer backed up without a signal from Pflaeger, is as consistent with all that the evidence proved or tended to prove as the hypothesis that Pflaeger gave him a signal to back up.</p>
+                <p id="b72-5" pgmap="72">In his work on evidence Starkie, speaking of cir­cumstantial evidence, says: “Such evidence is always insufficient, where, assuming all to be proved which the evidence tends to prove, some other hypothesis may still be true, for it is the actual exclusion of every other hypothesis which invests mere circumstances with the force of proof”. 1 Starkie Ev., 444. In Cot­ton v. Wood, 8 C. B. N. S., 98 E. C. L. 568, Mr. Justice Williams said, p. 573: “There is another rule of the law of evidence which is of the first importance, and is fully established in all of the courts, viz.: that where the evidence is equally consistent with either view—with the existence or non-existence of negli­gence—it is not competent for the judge to leave the matter to the jury. The party who affirms negligence has altogether failed to establish it. That is a rule which ought never to be lost sight of”.</p>
+                <p id="b72-6" pgmap="72">Appellee contends that if the engineer started to back his engine, without receiving a signal from Pflae­ger, Pflaeger was negligent in failing to give him a signal to stop, or warning plaintiff that the train was coming towards him. The facts proved do not ex­clude the hypothesis that if the engineer started to back his engine without receiving a signal from Pflae­ger, he might have refused or neglected to obey a signal to stop, if Pflaeger gave one.</p>
+                <p id="b72-7" pgmap="72(75) 73(41)">There is no evidence from which the jury might properly find that if the engineer backed up without any signal, Pflaeger could have warned the plaintiff that the train was coming towards him in time to avoid injury. He could not have warned him by signal with his lantern, for plaintiff and Kelner were not looking towards the head of the train, but were at work, and the first that either saw of the approaching train was when Kelner saw a reflection of his lantern in a wheel of the approaching car; nor by calling to him, for Pflaeger was twenty or more car-lengths away from plaintiff, and a train was passing by on another track.</p>
+                <p id="b73-4" pgmap="73">Appellee further contends that as the evidence tended to prove that either Pflaeger or the engineer was guilty of negligence which directly caused plaint­iff’s injury, and further tended to prove that Pflaeger was an incompetent and unfit switchman, and there was no evidence tending to show that the engineer was incompetent or unfit, the jury might from such evidence draw the conclusion, or inference, that on the occasion in question Pflaeger, and not the engineer, was negligent. The cases cited do not support this contention.</p>
+                <p id="b73-5" pgmap="73">Proof of previous acts of negligence, or of the bad reputation of Pflaeger, was not admissible as tending to show that he was negligent at the time in question, nor could the jury, from such proof, properly draw the conclusion that he was then guilty of negligence. 1 Bailey M. &amp; S., Sec. 1507; P., F. W. &amp; C. Ry. Co. v. Ruby, 38 Ind. 294, 312.</p>
+                <p id="b73-6" pgmap="73">The proof shows that the engineer was in the of­fice of defendant’s counsel during the first day of the trial, and that at the close of the day he was not di­rected to return. The second day plaintiff’s counsel requested defendant’s counsel to produce the engineer, and they declined to do so and stated that he was not then at their office. The engineer was not then in the service of the defendant. We.do not think that from this evidence any inference of fact unfavorable to the defendant could properly be drawn by the jury.</p>
+                <p id="b73-7" pgmap="73">A careful examination of the evidence leads us to the conclusion that the evidence is not sufficient to sup­port the verdict, and the judgment will therefore be reversed and the cause remanded.</p>
+                <p id="b73-8" pgmap="73">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="68" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.3" BETYPE="IDREF" FILEID="alto_00034_1"/>
+              <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jp2_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.2" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.1" BETYPE="IDREF" FILEID="alto_00035_0"/>
+              <area BEGIN="BL_69.3" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="70" ORDERLABEL="52" TYPE="page">
+        <fptr FILEID="tiff_00035_1"/>
+        <fptr FILEID="jp2_00035_1"/>
+        <fptr FILEID="alto_00035_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.2" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.3" BETYPE="IDREF" FILEID="alto_00035_1"/>
+              <area BEGIN="BL_70.4" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="71" ORDERLABEL="53" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jp2_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.3" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.2" BETYPE="IDREF" FILEID="alto_00036_0"/>
+              <area BEGIN="BL_71.4" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="72" ORDERLABEL="54" TYPE="page">
+        <fptr FILEID="tiff_00036_1"/>
+        <fptr FILEID="jp2_00036_1"/>
+        <fptr FILEID="alto_00036_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.2" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.3" BETYPE="IDREF" FILEID="alto_00036_1"/>
+              <area BEGIN="BL_72.4" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="73" ORDERLABEL="55" TYPE="page">
+        <fptr FILEID="tiff_00037_0"/>
+        <fptr FILEID="jp2_00037_0"/>
+        <fptr FILEID="alto_00037_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.3" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.2" BETYPE="IDREF" FILEID="alto_00037_0"/>
+              <area BEGIN="BL_73.4" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.6" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.7" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_73.1" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.5" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.5" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.6" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.7" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.10" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b70-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.11" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            <area BEGIN="BL_71.1" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.8" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.9" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.6" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.5" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-12" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.12" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aar" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.6" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.10" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.9" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.6" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.7" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.5" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.8" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.7" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.11" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.12" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            <area BEGIN="BL_70.1" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.10" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            <area BEGIN="BL_72.1" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.11" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.9" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6Z" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_70.8" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            <area BEGIN="BL_70.9" BETYPE="IDREF" FILEID="alto_00035_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.7" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.4" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.8" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWu" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.7" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.9" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.10" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.5" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.8" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

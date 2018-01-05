@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0024" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kavanagh v. Bank of America">John E. Kavanagh, Appellant, v. Bank of America et al., Appellees</name>
+          <docketnumber>Gen. No. 14,036</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 211</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00115_0" MIMETYPE="image/tiff" CHECKSUM="268f5af99cfced819ed20b107bdaea16" CHECKSUMTYPE="MD5" SIZE="33636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00115_0.tif"/>
+      </file>
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="4c7e4cb20fc7348e8dc5d6b6301d9cd0" CHECKSUMTYPE="MD5" SIZE="51534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00115_1.tif"/>
+      </file>
+      <file ID="tiff_00116_0" MIMETYPE="image/tiff" CHECKSUM="9168723fe11d0443b08d010826f44d34" CHECKSUMTYPE="MD5" SIZE="51902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00116_0.tif"/>
+      </file>
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="5d238098a2f9e04047977ac38ba2de37" CHECKSUMTYPE="MD5" SIZE="49926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00116_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00115_0" MIMETYPE="image/jp2" CHECKSUM="bae70e34c15487cc05f49d38b21cb128" CHECKSUMTYPE="MD5" SIZE="2355101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00115_0.jp2"/>
+      </file>
+      <file ID="jp2_00115_1" MIMETYPE="image/jp2" CHECKSUM="679e0bac5bfec9192d0c07fd487d05fe" CHECKSUMTYPE="MD5" SIZE="2419993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00115_1.jp2"/>
+      </file>
+      <file ID="jp2_00116_0" MIMETYPE="image/jp2" CHECKSUM="0fee341260b73a7830b0f6dd4c9705d5" CHECKSUMTYPE="MD5" SIZE="2491141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00116_0.jp2"/>
+      </file>
+      <file ID="jp2_00116_1" MIMETYPE="image/jp2" CHECKSUM="570b4c1a847e49872b14296ecd9d27a6" CHECKSUMTYPE="MD5" SIZE="2432290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00116_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00115_0" MIMETYPE="text/xml" CHECKSUM="a58ddda4326996a9ebf58f0bf8619a38" CHECKSUMTYPE="MD5" SIZE="61239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00115_0.xml"/>
+      </file>
+      <file ID="alto_00115_1" MIMETYPE="text/xml" CHECKSUM="0c30f08f42144144aca8df603c2fe88d" CHECKSUMTYPE="MD5" SIZE="86407">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00115_1.xml"/>
+      </file>
+      <file ID="alto_00116_0" MIMETYPE="text/xml" CHECKSUM="68dc05f8cbee78c973703caf31590734" CHECKSUMTYPE="MD5" SIZE="88497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00116_0.xml"/>
+      </file>
+      <file ID="alto_00116_1" MIMETYPE="text/xml" CHECKSUM="0a6e55f368643a00da3ecbabc472786d" CHECKSUMTYPE="MD5" SIZE="83550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00116_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0024" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="214" firstpage="211">
+              <docketnumber id="b229-8" pgmap="229">Gen. No. 14,036.</docketnumber>
+              <parties id="b229-7" pgmap="229">John E. Kavanagh, Appellant, v. Bank of America et al., Appellees.</parties>
+              <decisiondate id="AC3" pgmap="229">Opinion filed De­cember 7, 1908.</decisiondate>
+              <attorneys id="b229-11" pgmap="229">Edward J. Stevens, for appellant; Edgar L. Mas­ters and David K. Tone, of counsel.</attorneys>
+              <attorneys id="b229-12" pgmap="229">Bulkley, Gray &amp; More, for appellee; Albert S. Eagan and C. Paul Tallmadge, of counsel.</attorneys>
+              <summary id="b229-10" pgmap="229">Bill for receiver, etc. Appeal from the Superior Court of Cook county; the Hon. George A. Dupuy, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="A3rY" pgmap="229">Affirmed.</disposition>
+              <headnotes id="b229-9" pgmap="229">This ease is controlled by the decision in Kavanagh v. Bank of America, ante, p. 201.</headnotes>
+              <opinion type="majority">
+                <author id="b229-13" pgmap="229">Mr. Justice Holdom</author>
+                <p id="AS9" pgmap="229">delivered the opinion of the court.</p>
+                <p id="b229-14" pgmap="229(38) 230(11)">John E. Kavanagh, the appellant, filed a bill in the Superior Court of Cook county, seeking to wind up the business and affairs of the appellee Bank of America, an Illinois corporation, of which he was a stockholder. and for the appointment of a receiver for that pur­pose.</p>
+                <p id="b230-5" pgmap="230">Daniel D. Healy was appointed receiver, and in the order of appointment it was directed that the affairs of the bank be wound up and that the receiver pro­ceed with all convenient speed to collect in and dis­tribute its assets under the direction of the court, etc.</p>
+                <p id="b230-6" pgmap="230">On April 2, 1906, leave was given Alberta S. Eagan to file, and in pursuance of such leave she did file, an intervening petition, setting forth that she was the owner and holder of three certificates of deposit of the Bank of America, each for the sum of $500; that the same were transferred to her by the payee in the certificates mentioned, F. M. Creelman, for a valuable consideration paid by her to said Creelman therefor; that said certificates were all dated January 13, 1906, and were payable respectively in three, four and five months after their date, with interest at the rate of three per cent, per annum, upon surrender of the cer­tificates properly indorsed.</p>
+                <p id="b230-7" pgmap="230(173) 231(18)">Daniel D. Healy as receiver answered the interven­ing petition, in which answer he charged that the cer­tificates were obtained from the Bank of America by fraud and conspiracy between certain of. the officers of the Bank of America and the Jackson Trust &amp; Sav­ings Bank, among others, William H. Eagan, the then president of the Jackson Bank, and further charging that the interest of William H. Eagan and that of the intervenor, Alberta S. Eagan, in said certificates, are the same, and that the name of Alberta S. Eagan was used by William H. Eagan for the purpose of making it appear that the latter was an innocent purchaser for value, but that in fact said Alberta S. Eagan was a mere dummy, or that William H. Eagan was the agent of Alberta S. Eagan in procuring the certificates to be delivered by F. M. Creelman, and that Alberta S. Eagan had notice on January 13, 1906, the date of the certificates, that F. M. Creelman had no money on deposit in the Bank of America, but that on the con­trary he was indebted to that bank.</p>
+                <p id="b231-4" pgmap="231">On the hearing the intervenor produced as a witness C. A. Sawtelle, who was a teller in the Bank of America at the time the certificates of deposit were issued, and whose name is signed to each of the certifi­cates, and he testified that his name and that of R. H. Howe, assistant cashier of the issuing bank, were upon the certificates; that the indorsement upon the certifi­cates was that of F. M. Creelman; that the certificates were issued in the regular course of the business of the bank, and that he knew nothing against their validity at the time they were issued. The certificates were Then offered in evidence and the intervenor rested her case.</p>
+                <p id="b231-5" pgmap="231">The depositions of William H. Eagan and Alberta S. Eagan, the intervenor, read in evidence in support of her petition, tend to prove that William H. Eagan loaned to F. E. and F. M. Creelman $1,500 of the money of Alberta S. Eagan, taking as security their note and the bonds of the Lattonier Land Company to the amount of three thousand dollars; that upon re­quest of F. M. Creelman, William H. Eagan changed the loan by surrendering the Lattonier bonds and the note of F. E. and F. M. Creelman, and took the certifi­cates of deposit in evidence from F. M. Creelman in payment of the loan; that the certificates were so taken before the maturity of any of them, and without any knowledge of any defenses thereto by the Bank of America; that William H. Eagan acted in these deal­ings as the agent of Alberta S. Eagan.</p>
+                <p id="b231-6" pgmap="231(74) 232(32)">Much evidence was submitted in defense of Mrs. Eagan’s claim, tending to prove mismanagement and bad business judgment upon the part of the Bank of America and some shrewd manipulations on the part of some of the officers of the Jackson Bank, in dispos­ing of some securities of doubtful value to the Bank of America. But we are unable to find any testi­mony in this record affecting the bona fides of the dealings of Mrs. Eagan with the Creelmans, or imput­ing to her knowledge of any irregularities in the issu­ing of the certificates here involved, if any irregulari­ties in fact existed.</p>
+                <p id="b232-5" pgmap="232">On April 15, 1907, the chancellor, after hearing all the proofs appearing in the record, found that the in­tervenor, Alberta S. Eagan, was the holder and owner of the three certificates of deposit, and that she was entitled to be paid out of the funds of the Bank of America in the hands of the receiver, upon surrender and cancellation of the three certificates, the sum of $1,556.25, the principal and interest due thereon, and ordering Healy, as receiver, to pay that amount out of the funds of the Bank of America.</p>
+                <p id="b232-6" pgmap="232">The legal questions here involved are relatively the same as those in a case brought by appellant on appeal from the allowance of the claim of the intervening pe­titioner, Gilbert C. Pryor, and numbered in this Court 14014, in which we have this day handed down our opinion. Ante, p. 201. We refer, without here again repeating, to our opinion in the Pryor case, for a state­ment of the law of this case, as well as to the cases there cited in support of our reasoning. They are equally as decisive of the questions here raised as there involved, and we would regard it as a work of supererogation, never to be indulged or tolerated, to again repeat here what we have so decisively said in the Pryor case.</p>
+                <p id="b232-7" pgmap="232">The three certificates of deposit of the Bank of Amer­ica in dispute were issued in due course of the bank’s banking business. They are negotiable instruments. The intervener, Alberta S. Eagan, acquired ownership of them before maturity and for a valuable considera­tion, without knowledge, actual or imputable to her, of any defenses to them by the Bank of America.</p>
+                <p id="b232-8" pgmap="232">The decree of the Superior Court is sustained by proof and legal precedent, and it is therefore affirmed.</p>
+                <p id="A9b" pgmap="232">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="229" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00115_0"/>
+        <fptr FILEID="jp2_00115_0"/>
+        <fptr FILEID="alto_00115_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.2" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.1" BETYPE="IDREF" FILEID="alto_00115_0"/>
+              <area BEGIN="BL_229.3" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="230" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jp2_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.3" BETYPE="IDREF" FILEID="alto_00115_1"/>
+              <area BEGIN="BL_230.4" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="231" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00116_0"/>
+        <fptr FILEID="jp2_00116_0"/>
+        <fptr FILEID="alto_00116_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.3" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.2" BETYPE="IDREF" FILEID="alto_00116_0"/>
+              <area BEGIN="BL_231.4" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="232" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jp2_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.2" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.3" BETYPE="IDREF" FILEID="alto_00116_1"/>
+              <area BEGIN="BL_232.4" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.8" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            <area BEGIN="BL_232.9" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.7" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_232.1" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.5" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.6" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-11" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.16" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-10" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.11" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_229.12" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-13" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.18" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-12" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.17" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.5" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-14" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.21" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_230.1" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.7" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS9" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.19" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_229.20" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3rY" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.13" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9b" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.10" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.6" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-9" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.10" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.9" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.8" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.7" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            <area BEGIN="BL_231.1" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.6" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.5" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC3" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.14" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            <area BEGIN="BL_229.15" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

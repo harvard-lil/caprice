@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0064" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Gorenflo v. George">Gottfried Gorenflo et al., Appellees, v. L. P. George and James P. Woodside, Appellants</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 409</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="d855184d9402634156dd586af98980a8" CHECKSUMTYPE="MD5" SIZE="43954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_0.tif"/>
+      </file>
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="f8e89b19df6d434670d670b6b22f41cc" CHECKSUMTYPE="MD5" SIZE="47816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="570d09bde0522fb61b1d541e24ed0b84" CHECKSUMTYPE="MD5" SIZE="40650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00215_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="fb20d81d998e9ddaabe35cdcae7face2" CHECKSUMTYPE="MD5" SIZE="2415188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_0.jp2"/>
+      </file>
+      <file ID="jp2_00214_1" MIMETYPE="image/jp2" CHECKSUM="a75e70fe4bec158965a19ae9772b5f40" CHECKSUMTYPE="MD5" SIZE="2395728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00214_1.jp2"/>
+      </file>
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="ce86b088cebe5a05ee1acda392afc1a2" CHECKSUMTYPE="MD5" SIZE="2392876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00215_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="eab3903e6e23c117d1a80f9e5f1344ec" CHECKSUMTYPE="MD5" SIZE="75052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00214_0.xml"/>
+      </file>
+      <file ID="alto_00214_1" MIMETYPE="text/xml" CHECKSUM="2544119fa9bc1ba83a5ac7bbf63f475f" CHECKSUMTYPE="MD5" SIZE="81548">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00214_1.xml"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="33a46fedbbbc12b1a781c62b12b896b8" CHECKSUMTYPE="MD5" SIZE="72592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00215_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0064" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="411" firstpage="409">
+              <parties id="b427-7" pgmap="427">Gottfried Gorenflo et al., Appellees, v. L. P. George and James P. Woodside, Appellants.</parties>
+              <decisiondate id="A4M" pgmap="428">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b428-5" pgmap="428">Frank P. Drennan, James A. Taylor and Leslie J. Taylor, for appellants.</attorneys>
+              <attorneys id="b428-6" pgmap="428">J. C. and W. B. McBride, for appellees.</attorneys>
+              <summary id="b427-9" pgmap="427(9) 428(16)">Replevin. Appeal from the Circuit Court of Christian county; the Hon. Samuel L. Dwight, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AUF" pgmap="428">Affirmed.</disposition>
+              <headnotes id="b427-8" pgmap="427">Replevin—when defendant estopped to deny possession. One who pretends to have levied a distress warrant upon a field of corn is thereby estopped, in an action of replevin to recover such corn, from denying having taken possession thereof, and this notwith­standing the levy may not have been made in strict conformity with law,—no rights of third parties being involved.</headnotes>
+              <opinion type="majority">
+                <author id="b428-7" pgmap="428">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A6a" pgmap="428">delivered the opinion of the court.</p>
+                <p id="b428-8" pgmap="428">This is a suit in replevin by appellees against appel­lants. The declaration consists of the cepit and detinet counts, to which the defendants pleaded non cepit and non detinet. Judgment was rendered upon the verdict of the jury in favor of appellees.</p>
+                <p id="b428-9" pgmap="428">The evidence discloses that appellees were tenants of appellant Woodside, who caused a distress warrant to be placed in the hands of appellant George, a con­stable, to execute. George went to a field where Goren­flo was husking corn, and read the warrant to him, whereupon Gorenflo inquired whether that meant for him to quit gathering the corn, to which George re­plied that it meant he must quit. George then endorsed upon the warrant a return reciting that he had in be­half of Woodside distrained upon the corn in the field and that in a neighboring crib. No custodian of the property was appointed, nor were any notices of the levy posted. The property was afterwards replevied by appellees.</p>
+                <p id="b428-10" pgmap="428(103) 429(117)">It was insisted that the acts of George were not suf­ficient to constitute a valid levy, and that appellant Woodside was neither in the actual nor constructive possession of the property at the time the present suit was instituted. The endorsement of George upon the distress warrant, and the return of the same into court, was sufficient to estop Woodside to deny that he by his agent had taken possession of the property in con­troversy. No rights of third parties were involved. In serving the warrant George, although an officer, was acting but as the agent of Woodside. Alwood v. Mans­field, 33 Ill. 452. Notwithstanding the levy may not have been in fact such as is required by law, appel­lants by their acts induced appellees to believe that a levy had been made. The rule that where a person by his conduct induces another to believe in the exist­ence of a particular state of facts, and the other acts thereon to his prejudice, the former is estopped as against the latter to deny that such state of facts does in truth exist, is therefore applicable. 16 Cyc. 680; Vail v. Insurance Co., 92 Ill. App. 655; S. C. 192 Ill. 567; Hefner v. Vandolah, 57 Ill. 520; Wheeler v. Bar­rett, 70 Ill. App. 222.</p>
+                <p id="b429-5" pgmap="429">The evidence discloses that no rent was due to Woodside at the time the distress warrant was issued. The levy of the same therefore constituted an unlaw­ful taking of the property, and no demand was neces­sary before bringing suit. The judgment of the Cir­cuit Court is affirmed.</p>
+                <p id="b429-6" pgmap="429">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="427" ORDERLABEL="409" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.2" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.1" BETYPE="IDREF" FILEID="alto_00214_0"/>
+              <area BEGIN="BL_427.3" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="428" ORDERLABEL="410" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jp2_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.3" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.4" BETYPE="IDREF" FILEID="alto_00214_1"/>
+              <area BEGIN="BL_428.5" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="411" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.2" BETYPE="IDREF" FILEID="alto_00215_0"/>
+              <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-10" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.15" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_429.1" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.9" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.10" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.8" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.13" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.14" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6a" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.11" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_428.12" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-5" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-6" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-7" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.7" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUF" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.6" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-9" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.9" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            <area BEGIN="BL_428.1" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-8" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.8" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4M" BETYPE="IDREF" FILEID="casebody_0064"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.7" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

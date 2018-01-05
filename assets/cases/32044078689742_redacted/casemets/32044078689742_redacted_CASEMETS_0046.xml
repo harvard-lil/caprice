@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0046" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="McGovney v. Village of Melrose Park">Arthur W. McGovney, Appellee, v. Village of Melrose Park, Appellant</name>
+          <docketnumber>Gen. No. 14,105</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 329</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="d3f3ed0de80be713209c014036203491" CHECKSUMTYPE="MD5" SIZE="38210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_0.tif"/>
+      </file>
+      <file ID="tiff_00174_1" MIMETYPE="image/tiff" CHECKSUM="cbf79f9587c3ee7bfeafcfbd6f046c65" CHECKSUMTYPE="MD5" SIZE="50454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_1.tif"/>
+      </file>
+      <file ID="tiff_00175_0" MIMETYPE="image/tiff" CHECKSUM="08b6cff633307589eb3558b8dd39159c" CHECKSUMTYPE="MD5" SIZE="51736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00175_0.tif"/>
+      </file>
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="4a3897a8614655debf000ff4f32f1ce7" CHECKSUMTYPE="MD5" SIZE="49670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00175_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="c4d4ed9fb0d9f924a8b8ae2c9c407cfd" CHECKSUMTYPE="MD5" SIZE="2328174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_0.jp2"/>
+      </file>
+      <file ID="jp2_00174_1" MIMETYPE="image/jp2" CHECKSUM="bdfb5fbcc7d28c42e1958dfbb98be6ae" CHECKSUMTYPE="MD5" SIZE="2389403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00174_1.jp2"/>
+      </file>
+      <file ID="jp2_00175_0" MIMETYPE="image/jp2" CHECKSUM="6cca6ce8044fce9622043d2c866a1ace" CHECKSUMTYPE="MD5" SIZE="2451939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00175_0.jp2"/>
+      </file>
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="b22ddfc19843aabf723b14db7b898ccf" CHECKSUMTYPE="MD5" SIZE="2396927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00175_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="1bd24cc8b10ca6e61f9fe356288eff4d" CHECKSUMTYPE="MD5" SIZE="63890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00174_0.xml"/>
+      </file>
+      <file ID="alto_00174_1" MIMETYPE="text/xml" CHECKSUM="5eafeabcaf8da2ca5f3fa79f8c7ecf82" CHECKSUMTYPE="MD5" SIZE="86174">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00174_1.xml"/>
+      </file>
+      <file ID="alto_00175_0" MIMETYPE="text/xml" CHECKSUM="54cfabf4aed07998fdb34de744c1ac03" CHECKSUMTYPE="MD5" SIZE="85034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00175_0.xml"/>
+      </file>
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="1814f140317ded5358a33ce2c0c0f97e" CHECKSUMTYPE="MD5" SIZE="80178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00175_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="332" firstpage="329">
+              <docketnumber id="b347-8" pgmap="347">Gen. No. 14,105.</docketnumber>
+              <parties id="b347-6" pgmap="347">Arthur W. McGovney, Appellee, v. Village of Melrose Park, Appellant.</parties>
+              <decisiondate id="AHz" pgmap="347">Opinion filed December 21, 1908.</decisiondate>
+              <attorneys id="b347-11" pgmap="347">Thatcher, Griffen &amp; Wright, for appellant.</attorneys>
+              <attorneys id="b347-12" pgmap="347">Johr H. Batten, for appellee.</attorneys>
+              <summary id="b347-10" pgmap="347">Assumpsit. Appeal from the County Court of Cook county; the Hon. David T. Smiley, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AaH" pgmap="347">Reversed.</disposition>
+              <headnotes id="b347-9" pgmap="347">Fees and salaries—what not within power of village. A village appointing an attorney must definitely fix his salary; such village has no power to authorize the rendition of services upon the basis of the usual and customary charges.</headnotes>
+              <opinion type="majority">
+                <author id="b347-13" pgmap="347">Mr. Presiding Justice Adams</author>
+                <p id="AJr" pgmap="347">delivered the opinion of the court.</p>
+                <p id="b347-14" pgmap="347(34) 348(71)">This is an appeal from a judgment rendered in a suit by appellee against appellant, to recover compen­sation for services performed by him as attorney for appellant. The declaration consists of the common counts, to which appellee pleaded the general issue. The appellant, at the close of the evidence, moved the court to instruct the jury to find for the defend­ant, and presented an instruction to that effect, but the court denied the motion. The jury found for ap­pellee and assessed his damages at $600, and the court overruled appellant’s motion for a new trial and ren­dered judgment on the verdict.</p>
+                <p id="b348-5" pgmap="348">Appellee was appointed village attorney, at a meet­ing of the trustees of the village, held May 9, 1904. At a meeting of the trustees held April 27, 1905, ap­pellee’s resignation, to take effect May 1, 1905, was presented and accepted.</p>
+                <p id="b348-6" pgmap="348">The board of trustees, June 11, 1900, passed and the president of the board approved an ordinance creating the office of village attorney, providing for the appointment of such officer annually and prescrib­ing his duties. Section 8 of the ordinance is as fol­lows :</p>
+                <p id="b348-7" pgmap="348">“Section 8. The compensation of such village at­torney shall be and is hereby fixed at the sum of four hundred fifty dollars per annum, Provided, that in all special tax or assessment cases, carried into courts of record and in all cases in the state courts of record and the courts of the United States in which the village may be a party plaintiff or defendant, such village attorney shall be allowed the usual and custo­mary fees of attorneys practicing in such courts over and above and besides such sum herein fixed and det­ermined as and for his salary”.</p>
+                <p id="b348-8" pgmap="348(89) 349(14)">Appellee’s claim is for services performed by him for the village by special agreement, while he was vil­lage attorney, all of which services pertain to the offi­cial duties of such attorney. He testified that, at a regular meeting of the village board of trustees, held in the latter part of June, 1.904, it was moved and carried that he should take charge of special assess­ments numbers 58, 64, 65 and 66, and do the legal work, and that he be paid what the same is reason­ably worth, and that he performed the necessary work, in accordance with the motion.</p>
+                <p id="b349-4" pgmap="349">It appears from appellant’s testimony that all the assessments above mentioned had been confirmed at the time of said motion, and the main work for which he claims compensation was drafting contracts for the making of the improvements for which the assess­ments were levied and drafting the contractor’s bonds. The drafting .these contracts and bonds, and doing-­other work in relation to the assessments, after they had been confirmed, are not within the meaning of the provision in section 8, quoted supra; but this, in our view, is not necessary to the decision of the cause. The village of Melrose Park is incorporated under the general law for the incorporation of cities and vil­lages. Section 11 of article 11 of that act is as fol­lows :</p>
+                <p id="b349-5" pgmap="349">‘‘ Sec. 11. The president and board of trustees may appoint a clerk pro te'inpore, and whenever necessary to fill vacancies; and also may appoint a treasurer, one or more street commissioners, a village marshal, and such other officers as may be necessary to carry into effect the powers conferred upon villages, to pre­scribe their duties and fees, and require such officers to execute bonds as may be prescribed by ordinance”. Hurd’s Rev. Stat. 1905, p. 315.</p>
+                <p id="b349-6" pgmap="349">The section is the same as originally passed, with the exception that the words “village marshal” are substituted for “village constable”.</p>
+                <p id="b349-7" pgmap="349">Section 15 of article 6 of the act is as follows:</p>
+                <p id="b349-8" pgmap="349">“Sec. 15. All other officers may receive a salary, fees or other compensation to be fixed by ordinance, and after the same has been once fixed, such fees or compensation shall not be increased or diminished, to take effect during the term for which any such officer was elected or appointed; and every such officer shall make and return to the mayor, or president of the board of trustees, a semi-annual report, verified by affidavit, of all such fees and emoluments received by him”. Hurd’s Rev. Stat. 1905, p. 307.</p>
+                <p id="b350-4" pgmap="350">By this section the board of trustees is limited to fixing the salary of the village attorney by ordinance. “Fixing”, as used in the section, can only mean mak­ing definite and certain. This is apparent from the words following, “such fees or compensation shall not be increased or diminished, to take effect during the term' for which any such officer was elected or appointed”. Manifestly, unless the compensation be a sum certain, it cannot be told whether it has been increased or diminished.</p>
+                <p id="b350-5" pgmap="350">By section 8 of the village ordinance, appellee’s compensation or salary was fixed at $450 per annum. By section 15 of article 6 of appellant’s charter, quoted supra, that salary could not be increased so as to take effect during appellee’s official term; but, by the provision of section 8 of the ordinance, it is pro­vided that the compensation may be increased an in­definite amount. In other words, section 8 of the ordinance provides for the doing of that which ap­pellant’s charter expressly prohibits. The provision is illegal and void. The charter provision prohibiting increase of an officer’s compensation, to take effect during his official term, is so important that it is in­corporated in the constitution in respect to the com­pensation of state and county officers. The salary of the village attorney, fixed at the sum of $450 per annum by the ordinance, includes compensation for the performance of all said attorney’s official duties, and appellee rendered no services for the village not within the sphere of his duties as village attorney. No claim is made by appellee that his salary has not' been paid in full.</p>
+                <p id="b350-6" pgmap="350">The court erred in denying appellant’s motion to instruct for the defendant. There are other reversible errors in the record, which, in view of our conclusion that there can be no recovery, it is not necessary to refer to.</p>
+                <p id="b350-7" pgmap="350">The judgment will be reversed.</p>
+                <p id="b350-8" pgmap="350">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="347" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.3" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.2" BETYPE="IDREF" FILEID="alto_00174_0"/>
+              <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="348" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00174_1"/>
+        <fptr FILEID="jp2_00174_1"/>
+        <fptr FILEID="alto_00174_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.2" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.3" BETYPE="IDREF" FILEID="alto_00174_1"/>
+              <area BEGIN="BL_348.4" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="349" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00175_0"/>
+        <fptr FILEID="jp2_00175_0"/>
+        <fptr FILEID="alto_00175_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.3" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.2" BETYPE="IDREF" FILEID="alto_00175_0"/>
+              <area BEGIN="BL_349.4" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="350" ORDERLABEL="332" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.1" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.2" BETYPE="IDREF" FILEID="alto_00175_1"/>
+              <area BEGIN="BL_350.3" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.8" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.9" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.7" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.8" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.5" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.6" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.9" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.7" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.5" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.7" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJr" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.18" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_347.19" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaH" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.12" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-13" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.17" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.6" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHz" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.13" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_347.14" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-12" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.16" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.6" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.10" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_347.11" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.15" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.5" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-14" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.20" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_348.1" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.7" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.8" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.8" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            <area BEGIN="BL_349.1" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

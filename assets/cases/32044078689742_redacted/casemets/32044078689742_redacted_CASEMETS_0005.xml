@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0005" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hanrahan v. City of Chicago">John J. Hanrahan, Appellee, v. City of Chicago et al., Appellants</name>
+          <docketnumber>Gen. No. 14,193</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 38</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="06365e3eacb2e7e26d9b23e1929da351" CHECKSUMTYPE="MD5" SIZE="47442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00028_1.tif"/>
+      </file>
+      <file ID="tiff_00029_0" MIMETYPE="image/tiff" CHECKSUM="bd4978cbd2d3f8b7f58e08cad7f4c52a" CHECKSUMTYPE="MD5" SIZE="54578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00029_0.tif"/>
+      </file>
+      <file ID="tiff_00029_1" MIMETYPE="image/tiff" CHECKSUM="85f5257ba5fded21936104cb4477a5da" CHECKSUMTYPE="MD5" SIZE="53284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00029_1.tif"/>
+      </file>
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="cf4c2cb1ffabf9d0770b2d8614f1faa5" CHECKSUMTYPE="MD5" SIZE="47788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="78e45db6bd3a3cb3e836c69a95f4408d" CHECKSUMTYPE="MD5" SIZE="52464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="4832d8b2f1753039e7033ad6c7ac1c14" CHECKSUMTYPE="MD5" SIZE="50794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="b5b3f38f1d3fbe463e4db974cd498c58" CHECKSUMTYPE="MD5" SIZE="44256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00028_1" MIMETYPE="image/jp2" CHECKSUM="1e377e36ea1a27b42ff15e02c317b00a" CHECKSUMTYPE="MD5" SIZE="2408330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00028_1.jp2"/>
+      </file>
+      <file ID="jp2_00029_0" MIMETYPE="image/jp2" CHECKSUM="7d8bbc5990e036ff53fba868edd33f35" CHECKSUMTYPE="MD5" SIZE="2491331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00029_0.jp2"/>
+      </file>
+      <file ID="jp2_00029_1" MIMETYPE="image/jp2" CHECKSUM="db51282b6959f4cc14894f7801f6b160" CHECKSUMTYPE="MD5" SIZE="2435590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00029_1.jp2"/>
+      </file>
+      <file ID="jp2_00030_0" MIMETYPE="image/jp2" CHECKSUM="1d6345a4acd1b149683ed108848dc7d0" CHECKSUMTYPE="MD5" SIZE="2444976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00030_0.jp2"/>
+      </file>
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="acf1a3771be98b435fcf972bdb41ce92" CHECKSUMTYPE="MD5" SIZE="2439651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="9b3d41ac24581a95a10bf674bece4220" CHECKSUMTYPE="MD5" SIZE="2477166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="5fed94bd2cf63f473645bd6f5830e4f7" CHECKSUMTYPE="MD5" SIZE="2347930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00028_1" MIMETYPE="text/xml" CHECKSUM="f57f497c8079ce312640714db2964cca" CHECKSUMTYPE="MD5" SIZE="89480">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00028_1.xml"/>
+      </file>
+      <file ID="alto_00029_0" MIMETYPE="text/xml" CHECKSUM="36e21ceef8097a4bb3ea854006835e11" CHECKSUMTYPE="MD5" SIZE="86949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00029_0.xml"/>
+      </file>
+      <file ID="alto_00029_1" MIMETYPE="text/xml" CHECKSUM="20472ca498266057e7cb72ea1692f3dc" CHECKSUMTYPE="MD5" SIZE="85676">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00029_1.xml"/>
+      </file>
+      <file ID="alto_00030_0" MIMETYPE="text/xml" CHECKSUM="3d99aeb98ba1d7dec26db077e6beb43e" CHECKSUMTYPE="MD5" SIZE="77308">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00030_0.xml"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="9512e26a059acb934b25ea00dda8827f" CHECKSUMTYPE="MD5" SIZE="86147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="f18fb17667bd0a8b0256d1c4992d39e2" CHECKSUMTYPE="MD5" SIZE="85810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="cbfb0fa290ac7675dce5b9bdb85147b9" CHECKSUMTYPE="MD5" SIZE="78886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00031_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0005" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="44" firstpage="38">
+              <docketnumber id="ADp" pgmap="56">Gen. No. 14,193.</docketnumber>
+              <parties id="b56-4" pgmap="56">John J. Hanrahan, Appellee, v. City of Chicago et al., Appellants.</parties>
+              <decisiondate id="Aa6" pgmap="56">Opinion filed December 4, 1908.</decisiondate>
+              <otherdate id="AXK" pgmap="56">Rehearing denied December 18, 1908.</otherdate>
+              <attorneys id="b59-4" pgmap="59">Edward J. Brundage, John.R. Caverly and Arnott Stubblefield, for appellants; Edward C. Fitch and Richard W. Donovan, of counsel.</attorneys>
+              <attorneys id="b59-5" pgmap="59">John C. King and James D. Power, for appellee.</attorneys>
+              <summary id="b56-9" pgmap="56">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Samuel C. Stough, Judge, presid­ing. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="A0Z" pgmap="56">Reversed and remanded.</disposition>
+              <headnotes id="b56-7" pgmap="56">1. Negligence—what does not. constitute actionable, against municipality. The failure of a municipality to remove or cause to he removed from a public street a weak and dangerous awning attached to private property and extending over a part of such street but not resting upon or attached thereto, is a failure by such municipality to perform one of its duties which it is empowered to perform as a governing agency but the failure so to do does not render it liable for injuries resulting to an individual.</headnotes>
+              <headnotes id="b56-8" pgmap="56">2. Evidence—competency of conviction of crime. It is error for the court to refuse to permit cross-examination of the plaintiff as to his previous conviction of a crime against the election laws of the state and as to his confinement in the penitentiary; such evidence in an action for personal injuries is not only competent upon the question of credibility but upon that of damages, as if his confinement had been at hard labor the injuries for which he claimed in the action might have been at least in part induced by such hard labor.</headnotes>
+              <p id="b56-10" pgmap="56">Statement by the Court. This action was brought by appellee, Hanrahan, against City of Chicago, Frank Salter, F. Salter &amp; Company, a corporation, and Dave Heyman.</p>
+              <p id="b56-11" pgmap="56(93) 57(217)">The original declaration alleges that the defendant, City of Chicago, was on December 12, 1903, a munic­ipal corporation and as such was then and there pos­sessed and in control of a, certain public sidewalk on the west side of Jackson Park avenue, a public high­way in said city; and the defendants, F. Salter &amp; Com­pany, a corporation, Frank Salter and Dave Heyman, possessed a certain building abutting on said Jack­son Park avenue, at the southwest corner of said Jack­son Park avenue and Sixty-seventh street, a public high­way also then in the control of the City; that long prior to and at the time aforesaid there was a large and heavy wooden awning extending out from said build­ing and over and above said public sidewalk on the west side of said Jackson Park avenue at the height of ten feet above the sidewalk; that persons travel­ing on said sidewalk passed under said awning and were thereby exposed to great danger if said awning should fall. By reason of the premises it became and was the duty of the defendants to exercise ordinary and reasonable care toward keeping and maintaining said awning in a reasonably strong and safe condition so that it would not fall, but in disregard thereof, long prior to and at the time aforesaid they permitted and allowed said awning to become and remain in a weak, dilapidated and defective condition, which had existed for a sufficient length of time prior to the in­jury complained of to have enabled the defendants in the exercise of ordinary care to have discovered said condition; that while plaintiff was walking under said awning and in the exercise of ordinary care for his own safety, said awning, by reason of its said weak and dilapidated condition, fell upon the plaintiff and injured him.</p>
+              <p id="b57-4" pgmap="57(142) 58(245)">Subsequently plaintiff filed an additional count, set­ting up the possession and control of the public street known as Stony Island avenue and a sidewalk upon and along the west side of said street, and that defend­ants F. Salter &amp; Company, a corporation, and Frank Salter were the owners of and in possession of a cer­tain building situated on the west side of said street immediately south of Sixty-seventh street, the front of which building extended out to said sidewalk, and there was an awning attached to and a part of said building which extended out from said building over and some distance above said sidewalk, and that pedestrians were accustomed to pass under said awning in walk­ing along and upon said sidewalk; that long prior to December 12, 1903, and prior to and at the time of the leasing or letting of said building thereinafter refer­red to said F. Salter &amp; Company and Frank Salter wrongfully and negligently permitted said awning to be and remain in such defective and insecure condition that it was liable to fall upon pedestrians, and that “said condition of said awning amounted to a nui­sance,” all which facts said last named defendants knew or could have known by the use of ordinary care prior to and at the time of the leasing, and that while said awning was in said condition said last named de­fendants leased said building, including said awning, to the defendant Dave Heyman, who then and there took possession of said building, including said awn­ing, and remained in possession of the same from thence to and including the time of the injury complained of; that said defective and dangerous condition of said awning was known to said Heyman and the City of Chicago, or could have been known by the exercise of ordinary care in that behalf, but each of said defend­ants wrongfully and negligently permitted said awn­ing to remain in said defective condition long prior to and at the time of the injury complained of; and while plaintiff was walking along and upon said side­walk and under said awning with ordinary care for his own safety, said awning, as a direct result and in con­sequence of said defective condition, fell upon plaint­iff and injured him.</p>
+              <p id="b58-5" pgmap="58">To this declaration the defendants interposed pleas of general issue and Frank Salter and Salter &amp; Com­pany filed special pleas denying ownership.</p>
+              <p id="b58-6" pgmap="58">On the trial plaintiff discontinued the suit as to Frank Salter and Dave Heyman and amended his dec­laration on its face by striking out the name of Frank Salter and inserting the name of A. G. Hieronimus. The jury returned a verdict for ^$5,000 in favor of the plaintiff and against F. Salter &amp; Company and City of Chicago. Plaintiff remitted $1,500, and after deny­ing a motion for a new trial and in arrest, judgment was entered for $3,500 on the verdict.</p>
+              <p id="b59-3" pgmap="59">The evidence introduced by the plaintiff tended to show the existence of the awning projecting over one-­half way across the sidewalk at the southwest corner of Jackson Park avenue, otherwise known as Stony Island avenue, and Sixty-seventh street along the full length of the building, and attached thereto but not touching the surf ace of the street; that the awning was rotten and decayed prior to August 20,1903, and that on December 12, 1903, a snow storm with a strong north­east wind prevailed and plaintiff while walking south on the sidewalk under the awning was struck and knocked down upon the sidewalk by the awning as it fell from the building.</p>
+              <opinion type="majority">
+                <author id="b59-6" pgmap="59">Mr. Presiding Justice Smith</author>
+                <p id="Au" pgmap="59">delivered the opinion of the court.</p>
+                <p id="b59-7" pgmap="59">The record in this case presents the question whether the declaration sets out substantially a cause of action against the City of Chicago.</p>
+                <p id="b59-8" pgmap="59(135) 60(116)">Upon an examination of the declaration it will be perceived that the gravamen of the charge against the city is its failure to discharge its duty to exercise reasonable care in keeping the sidewalk in question in reasonably safe condition for ordinary travel, in that it did not cause the awning to be removed when it knew it was dangerous. In thus stating the case made by the declaration we take the substantive facts averred and ignore the particular averments of duty as to the city, for it is from the facts averred that the duty, if any, arises under the law. No permission is averred on the part of the city to erect and maintain the awning. The, negligence averred is the failure to remove the unsafe awning. If we are correct in this conclusion, it follows that the cause of action laid in the declaration amounts to this that the agents or police officers of the city were remiss in duty and there­fore guilty of negligence in not removing from the pub­lic street the weak and dangerous awning attached to private property and extending out over a part of the public street. This presents the question whether such omission or negligence on the part of the police officers or agents of the city constitutes a ground of private action against the city in favor of one in­jured on account thereof. The solution of this ques­tion depends upon the nature of the power and duty invoked.</p>
+                <p id="b60-5" pgmap="60">In Oliver v. Worcester, 102 Mass. 489, Justice Gray, speaking for the court, says: “The distinction is well established between the responsibilities of towns and cities for acts done in their public capacity in the dis­charge of duties imposed upon them by the legislature for the public benefit, and for acts done in what may be called their private character, as the management of property and rights held by them for their own im­mediate profit or advantage as a corporation, although inuring, of course, ultimately to the benefit of the pub­lic ’ \</p>
+                <p id="b60-6" pgmap="60(140) 61(30)">This distinction is clearly stated by Mr. Justice Bailey, speaking for the court in Culver v. City of Streator, 130 Ill. 238. The cause'of action declared on in that case was injury caused by the negligent and careless acts of the servants of the city while destroy­ing dogs running at large contrary to a city ordinance. The court said, in discussing the declaration, at page 243: “Merely denominating him a servant or employe does not make him such in a sense calling for an ap­plication of the maxim respondeat superior. Whether he was a servant or employe in that sense depends mainly upon whether he was employed to perform acts which the corporation could do in its private or cor­porate character, or acts which the corporation was empowered to do in its public capacity as a governing agency, and in discharge of duties imposed for the pub­lic or general welfare. Acts performed in the exer­cise of the police power plainly belong to the latter class”.</p>
+                <p id="b61-4" pgmap="61">In the one case there is an implied or common law liability for the negligence of the officers in the dis­charge of such duties, and in the other no private action lies unless it is expressly given by statute. Oliver v. Worcester, supra; Detroit v. Corey, 9 Mich. 165; Dillon on Municipal Cor., (4th Ed.) Vol. 2, Secs. 974 to 980, inclusive, and cases cited in notes; Town of Odell v. Schroeder, 58 Ill. 353; Wilcox v. City of Chicago, 107 Ill. 334, and cases determined in Massa­chusetts, New York, Connecticut, Iowa, Missouri and California there cited. In Wilcox v. City of Chicago, supra, the exemption from liability is placed on the ground that " the service is performed by the cor­poration in obedience to an act of the legislature, is one in which the corporation has no particular interest, and from which it derives no special benefit in its cor­porate capacity”, and upon the additional ground of public policy.</p>
+                <p id="b61-5" pgmap="61">The ground of liability alleged in the declaration in this case,—the failure to remove from the public street the weak and dangerous awning attached to private property and extending out over a part of the public street, but not resting upon or attached to the street, relates in our opinion to the failure to perform acts which the city is empowered to do as a governing agency and in discharge of duties imposed for the pub­lic or general welfare, and the maxim respondeat superior does not apply to such acts, or to an omission or failure to perform them.</p>
+                <p id="b61-6" pgmap="61(59) 62(26)">We are aware of the conflict of authorities upon this subject, some of which, namely: Bohen v. City of Waseca, 32 Minn. 176; Bieling v. City of Brooklyn, 120 N. Y. 98, are cited by appellee, but we are dis­posed to follow the general current of the decisions of our Supreme Court as we understand them, and in doing so we are compelled to hold that the declaration in this cause does not state a canse of action against the appellant, City of Chicago.</p>
+                <p id="b62-5" pgmap="62">In our opinion, the trial court erred in refusing to permit appellee, a witness called in his own behalf, to answer the questions put to him on cross-exami­nation in regard to his life and habits prior to the ac­cident, and calculated to draw from him the fact of his conviction of a crime against the election laws of the State, and that he had been confined in the pen­itentiary. The facts called for by the questions also had a bearing on the question of damages. If on such testimony as he might give the jury might find that ap­pellee had been confined in the penitentiary at hard labor, and from the character of the work which he did while there, and his physical environment, the action of his heart and his kidneys had been thereby affected, there would be a basis for finding that the injuries which he suffered from the falling of the awning were less than they appeared to be from his direct exami­nation.</p>
+                <p id="b62-6" pgmap="62">For the errors indicated the judgment of the Su­perior Court is reversed and the cause is remanded.</p>
+                <p id="b62-7" pgmap="62">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="56" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jp2_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.1" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.2" BETYPE="IDREF" FILEID="alto_00028_1"/>
+              <area BEGIN="BL_56.3" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="57" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00029_0"/>
+        <fptr FILEID="jp2_00029_0"/>
+        <fptr FILEID="alto_00029_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_57.3" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_57.2" BETYPE="IDREF" FILEID="alto_00029_0"/>
+              <area BEGIN="BL_57.4" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="58" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00029_1"/>
+        <fptr FILEID="jp2_00029_1"/>
+        <fptr FILEID="alto_00029_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_58.2" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_58.3" BETYPE="IDREF" FILEID="alto_00029_1"/>
+              <area BEGIN="BL_58.4" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="59" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jp2_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.2" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.1" BETYPE="IDREF" FILEID="alto_00030_0"/>
+              <area BEGIN="BL_59.3" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.3" BETYPE="IDREF" FILEID="alto_00030_1"/>
+              <area BEGIN="BL_60.4" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.3" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.2" BETYPE="IDREF" FILEID="alto_00031_0"/>
+              <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.3" BETYPE="IDREF" FILEID="alto_00031_1"/>
+              <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.10" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.7" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-5" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.6" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.5" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.6" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0Z" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.10" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-5" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.5" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-10" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.13" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-11" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.14" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            <area BEGIN="BL_57.1" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXK" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.12" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-5" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.5" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-8" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.11" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            <area BEGIN="BL_60.1" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-8" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.7" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-9" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.8" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            <area BEGIN="BL_56.9" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-3" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.4" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.11" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.4" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.7" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.6" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-5" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.5" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-5" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.5" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            <area BEGIN="BL_58.1" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADp" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.5" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.7" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.6" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.7" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.8" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.9" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.8" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            <area BEGIN="BL_59.9" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

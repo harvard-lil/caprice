@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0044" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Eidem v. Chicago, Rock Island &amp; Pacific Railway Co.">Peter Eidem, Appellee, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant</name>
+          <docketnumber>Gen. No. 4,937</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 320</citation>
+          <decisiondate>1908-04-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00168_1" MIMETYPE="image/tiff" CHECKSUM="31937940c94b6427495e7d362b1aa4a5" CHECKSUMTYPE="MD5" SIZE="47642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00168_1.tif"/>
+      </file>
+      <file ID="tiff_00169_0" MIMETYPE="image/tiff" CHECKSUM="9bc42e19d55fb1244ab6e6253850f07c" CHECKSUMTYPE="MD5" SIZE="49322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00169_0.tif"/>
+      </file>
+      <file ID="tiff_00169_1" MIMETYPE="image/tiff" CHECKSUM="ba27920f63e064f7a6f54c99002c900d" CHECKSUMTYPE="MD5" SIZE="53192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00169_1.tif"/>
+      </file>
+      <file ID="tiff_00170_0" MIMETYPE="image/tiff" CHECKSUM="8edd6486e2bd3dcf95afc4f4dc5747a4" CHECKSUMTYPE="MD5" SIZE="54012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00170_0.tif"/>
+      </file>
+      <file ID="tiff_00170_1" MIMETYPE="image/tiff" CHECKSUM="a32ec3ae8d6c1a42b44b970d58da8db8" CHECKSUMTYPE="MD5" SIZE="54762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00170_1.tif"/>
+      </file>
+      <file ID="tiff_00171_0" MIMETYPE="image/tiff" CHECKSUM="1492fbb684c256864f97c02749772503" CHECKSUMTYPE="MD5" SIZE="55982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00171_0.tif"/>
+      </file>
+      <file ID="tiff_00171_1" MIMETYPE="image/tiff" CHECKSUM="edd88409f67ab7231e6a95998336c89e" CHECKSUMTYPE="MD5" SIZE="52426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00171_1.tif"/>
+      </file>
+      <file ID="tiff_00172_0" MIMETYPE="image/tiff" CHECKSUM="bb1f1a7b89abd54992e4d5cb975964fb" CHECKSUMTYPE="MD5" SIZE="51904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00172_0.tif"/>
+      </file>
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="852d53b5b44313ff2bb822958bd9e04c" CHECKSUMTYPE="MD5" SIZE="54724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="3d7d5a8854657e759b6733a4fe47273a" CHECKSUMTYPE="MD5" SIZE="39222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00168_1" MIMETYPE="image/jp2" CHECKSUM="b8d6168537f713d3f3c767df440f8dba" CHECKSUMTYPE="MD5" SIZE="2313061">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00168_1.jp2"/>
+      </file>
+      <file ID="jp2_00169_0" MIMETYPE="image/jp2" CHECKSUM="c12c0e7df41f1220912501822dda4ddd" CHECKSUMTYPE="MD5" SIZE="2362660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00169_0.jp2"/>
+      </file>
+      <file ID="jp2_00169_1" MIMETYPE="image/jp2" CHECKSUM="b7320c01ef99db2927740a827150bf93" CHECKSUMTYPE="MD5" SIZE="2362727">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00169_1.jp2"/>
+      </file>
+      <file ID="jp2_00170_0" MIMETYPE="image/jp2" CHECKSUM="35f0303d30de83fb3475cd12a4b00fb0" CHECKSUMTYPE="MD5" SIZE="2412822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00170_0.jp2"/>
+      </file>
+      <file ID="jp2_00170_1" MIMETYPE="image/jp2" CHECKSUM="d2c6570c05ab400e6896b5b51173a7ac" CHECKSUMTYPE="MD5" SIZE="2369752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00170_1.jp2"/>
+      </file>
+      <file ID="jp2_00171_0" MIMETYPE="image/jp2" CHECKSUM="6828d5615696054699fe23957a7ac5b9" CHECKSUMTYPE="MD5" SIZE="2419051">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00171_0.jp2"/>
+      </file>
+      <file ID="jp2_00171_1" MIMETYPE="image/jp2" CHECKSUM="d6fa49f50d71c9275fff1a31aa95240a" CHECKSUMTYPE="MD5" SIZE="2372761">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00171_1.jp2"/>
+      </file>
+      <file ID="jp2_00172_0" MIMETYPE="image/jp2" CHECKSUM="4eebe53d6ceff97b679e6da071a62615" CHECKSUMTYPE="MD5" SIZE="2408280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00172_0.jp2"/>
+      </file>
+      <file ID="jp2_00172_1" MIMETYPE="image/jp2" CHECKSUM="1676d27a7b6842990a4305a6ef8b584b" CHECKSUMTYPE="MD5" SIZE="2358047">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00172_1.jp2"/>
+      </file>
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="f0b10922bf2243bac1e09d48a4b68ca3" CHECKSUMTYPE="MD5" SIZE="2293171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00168_1" MIMETYPE="text/xml" CHECKSUM="d3722c5b4944deabc9b455207f919b44" CHECKSUMTYPE="MD5" SIZE="94737">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00168_1.xml"/>
+      </file>
+      <file ID="alto_00169_0" MIMETYPE="text/xml" CHECKSUM="013b5fa7f5feccd802ba5f76afc9b140" CHECKSUMTYPE="MD5" SIZE="86602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00169_0.xml"/>
+      </file>
+      <file ID="alto_00169_1" MIMETYPE="text/xml" CHECKSUM="b746fe3953b807d5f8a241440cc70e6a" CHECKSUMTYPE="MD5" SIZE="89734">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00169_1.xml"/>
+      </file>
+      <file ID="alto_00170_0" MIMETYPE="text/xml" CHECKSUM="57bec2598b39d433bdf430fe2f10b554" CHECKSUMTYPE="MD5" SIZE="100773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00170_0.xml"/>
+      </file>
+      <file ID="alto_00170_1" MIMETYPE="text/xml" CHECKSUM="c183955d6d100deb2c35475f3abfb76d" CHECKSUMTYPE="MD5" SIZE="94260">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00170_1.xml"/>
+      </file>
+      <file ID="alto_00171_0" MIMETYPE="text/xml" CHECKSUM="110dd4f0573bc02d6e3e973b5cc11991" CHECKSUMTYPE="MD5" SIZE="92758">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00171_0.xml"/>
+      </file>
+      <file ID="alto_00171_1" MIMETYPE="text/xml" CHECKSUM="409d9a4653d81f9be8e401c157099ac3" CHECKSUMTYPE="MD5" SIZE="94450">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00171_1.xml"/>
+      </file>
+      <file ID="alto_00172_0" MIMETYPE="text/xml" CHECKSUM="23365d24737abdf743d3d4e430e539a9" CHECKSUMTYPE="MD5" SIZE="89654">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00172_0.xml"/>
+      </file>
+      <file ID="alto_00172_1" MIMETYPE="text/xml" CHECKSUM="126410ea6b8f9453303df143f226f712" CHECKSUMTYPE="MD5" SIZE="91268">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00172_1.xml"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="be1619bfe331051774e292953a703084" CHECKSUMTYPE="MD5" SIZE="72530">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00173_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0044" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="329" firstpage="320">
+              <docketnumber pgmap="336" id="b336-7">Gen. No. 4,937.</docketnumber>
+              <parties pgmap="336" id="b336-6">Peter Eidem, Appellee, v. Chicago, Rock Island &amp; Pacific Railway Company, Appellant.</parties>
+              <decisiondate pgmap="337" id="AHn">Opinion filed April 14, 1908.</decisiondate>
+              <otherdate pgmap="337" id="AoA">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="337" id="AHj">Rehearing denied October 14, 1908.</otherdate>
+              <attorneys pgmap="337" id="b337-5">Jackson, Hurst &amp; Stafford, for appellant; Ben­jamin S. Cable, of counsel.</attorneys>
+              <attorneys pgmap="337" id="b337-6">Searle &amp; Marshall, for appellee.</attorneys>
+              <summary pgmap="337" id="b337-4">Action in case for personal injuries. Appeal from the Circuit Court of Rock Island county; the Hon. Frank D. Ramsay, Judge, presiding.</summary>
+              <disposition pgmap="337" id="AZqy">Re­versed and remanded.</disposition>
+              <headnotes pgmap="336" id="b336-8">1. Vbbdict—when set aside as against the evidence. While it is true that it is the province of the jury to determine conflicts in the evidence and the duty of the court to give their verdict due and careful consideration, yet when it is apparent that, such verdict may have been' brought about by some error of law on the part of the trial court or by passion, prejudice or bias on the part of the jury, it is equally the duty of the appellate court to set aside the judgment.</headnotes>
+              <headnotes pgmap="336" id="b336-9">2. Vbbdict—when set aside notwithstanding remittitur. A large verdict reduced by a considerable remittitur may be set aside on review if such action would best tend to promote an impartial ad­ministration of justice, as such a verdict which does not show com­plete accord between the trial judge and the jury is not entitled to the same presumptions as being fair as are accorded to a verdict where no such discord appears.</headnotes>
+              <headnotes pgmap="336" id="b336-10">3. Instructions—when upon preponderance of evidence errone­ous. An instruction upon this subject is erroneous which merely tells the jury “that the weight of the testimony does not neces­sarily depend upon the greater number of witnesses sworn on either side of the question in dispute,” but that the jury are at liberty, as jurors, to consider all the facts and circumstances ap­pearing from the evidence in the case and determine from that which of the witnesses are worthy of the greater credit.</headnotes>
+              <p pgmap="336" id="b336-11">Dibell, J., dissenting.</p>
+              <opinion type="majority">
+                <author pgmap="337" id="b337-7">Mr. Justice Willis</author>
+                <p pgmap="337" id="A5t">delivered the opinion of the court.</p>
+                <p pgmap="337(258) 338(51)" id="b337-8">As appellee, Peter Eidem, was crossing from a pas­senger car to the depot platform or station grounds at Moline, Illinois, he was struck by an engine of ap­pellant, the Chicago, Bock Island &amp; Pacific Bailway Company, and his legs so mangled that they had to be amputated above the knees. He brought this action in the Circuit Court of Bock Island county to recover damages therefor. The declaration as originally filed contained four counts, to which, at the close of the evi­dence, by leave of court, five more were added. The court directed the jury to disregard the first count of the original declaration. The substance of the negli­gence charged in the various counts is, that appellant made it a practice not to stop its train but negligently slackened the speed and compelled plaintiff and the other workmen to leap therefrom while it was in mo­tion; that it negligently ran its road engine at a high and dangerous rate of speed and at a rate of speed forbidden by an ordinance of the city of Moline; that it negligently ran its engine without continuously ring­ing a bell in violation of an ordinance of said city; that it negligently ran its road engine between the depot platform and the passenger car from which plaintiff was alighting. The declaration in each count also averred due care on the part of appellee while alight­ing from the car and crossing to appellant’s depot plat­form. A plea of not guilty was interposed, a trial had resulting in a verdict for appellee of $25,000, a motion for a new trial was made, a remittitur was required by the court and entered for $9,000, the motion for a new trial was overruled, judgment was entered on the verdict for $16,000 and this appeal was taken by the defendant.</p>
+                <p pgmap="338" id="b338-5">The evidence shows that appellant operated a double track railroad running east and west through the city of Moline, the east-bound track being next its depot. The space used for depot purposes consisted of a tri­angular strip of land extending from the east line of Thirteenth street to the west line of Fourteenth street in said city, a distance of 328.4 feet measured along the east-bound track, which strip outside the building was paved with brick and used for station purposes. Standing thereon with its west line 12.5 feet east of the east line of Thirteenth street, was the depot or station building 80.5 feet long and 26.77 feet wide, and adjoining it on the east, a baggage- room, 24.2 feet long and 20.5 feet wide. Along the mid­dle of the north side of the main part of the depot, extended a wooden platform about 40 feet long with steps at each end leading to the pavement. In January, 1906, appellee who lived at Moline entered the service of appellant and worked from 1 p. m. to midnight daily as freight truckman at Silvis, some six miles east of Moline. A number of men who lived at Moline and other stations west worked at Silvis, and appellant ran a train consisting of a switch engine and one passenger car from some point west of Moline to Silvis and back, to carry these laborers to and from their homes. At one o ’clock a. m. on April 11, 1906, appellee with fifteen or twenty other workmen left Silvis on this work-train which proceeded to Moline on appellant’s west-bound track. When it was between Fifteenth and Fourteenth streets,' appellee went to the front platform, and be­tween Fourteenth and Thirteenth streets stepped or jumped from the lower step and was struck by a road engine running east on the east-bound track.</p>
+                <p pgmap="339(414) 340(382) 341(378) 342(271)" id="Ag2">Appellee testified that he went out on the platform when the train was between Fourteenth and Fifteenth streets and stayed there until they were opposite the depot, when Jie got off. Just as he stepped on the track he saw the light of the approaching road engine about ten or fifteen feet away but did not hear the bell ring at any time. The head light was not bright but reddish or yellow and the place where he stepped off was directly in front of the steps which go into the depot. On cross-examination, he stated that he was the first one out of the car and that he stood on the step and did not look. He did not know whether a train was coming or not. He thought if he had stuck his head out he could have seen. When he got off he did not look to see if anything was coming. The work-­train was moving when he got off and he did not think of such a thing as a train coming in there and did not pay any special attention to anything but getting off. He had plenty of time to look if he had thought a train was coming. He never knew the train to stop when he got off. They always got off before it stopped. Henry Maude, who also worked at Silvis for appellant, and who was on the work-train at the time of the ac­cident standing directly behind appellee on the plat­form when he alighted from the car, testified that the custom was not to stop this work-train when the men got off. At the time of the accident it was going at about two miles per hour. He did not hear a whistle sound or a bell ring on the road engine. Maude said that appellee at the time he was struck was right op­posite the steps on the east side of the depot. In his judgment the road engine was going at from ten to fifteen miles per hour and had a red or yellow head light, which in his judgment was an oil light. When appellee was struck he was opposite the. main door of the depot and when he was picked up he was four or five feet east of the baggage room. John Peacock tes­tified that he went to the scene of the accident, where his attention was called to one of appellee’s feet wedged in the rail about five or ten feet east of the bag­gage room. Swan Larson, a patrol man at Moline, testified that he went to the scene of the accident and saw appellee’s foot squeezed in between the rail and planlc ten or fifteen feet east of the east end of the depot. Robert Carlson, employed by appellant at Sil­vis and on the work-train at the time of the accident, testified that sometimes the train would stop when it reached the station at Moline and sometimes it would not. He thought the train had stopped when appellee stepped off. The engine that struck him was going at the rate of from ten to fifteen miles per hour. He did not think the whistle was blowing. The engine had a light which he knew was not an electric light. Dale Baird, employed at Silvis by appellant and on the work-­train at the time of the accident, testified that some­times the train would stop at the Moline depot and sometimes it would not. The engine that hit appellee was going at the rate of from fifteen to twenty miles per hour and the work-train stopped as it passed. Ap­pellee was about opposite the northeast corner of the baggage room after he was struck. Witness did not hear the bell on either engine and did not lmow whether the whistle on either engine was blown. Richard Thomas, fireman on the road engine, testified that their engine was going about four miles per hour and that its bell was ringing when it passed through Moline. When it stopped, the tender was opposite where ap­pellee’s legs were cut off, just ninety-two feet from the west edge of Fourteenth street. The work-train was going about as fast as their engine when appellee got off. On cross-examination he testified that the en­gine had an electric light and that he first saw the ear of the work-train when the road engine was just east of Thirteenth street. The switch engine was Crossing-­Fifteenth street when he first saw it. The whistle on the road engine was not blown then because there was no reason for it. He thought they had plenty of time to meet the switch engine before it reached the depot. They passed about 100 feet east of the depot and the road engine stopped in about sixty-eight feet. When it stopped it was ninety-two feet from the west line of Fourteenth street. Appellee was struck 117 feet east of the east end of the baggage room. Henry Geisen­hagen, engineer on the road engine, testified that the engine had an electric head light and that it was lighted that night. It also had an automatic bell ringer and the bell was ringing when they passed through Moline. He first saw the switch engine when it was near Fif­teenth street. His engine was going four or five miles per hour and the switch engine about as fast. He stopped his engine about seventy or eighty feet from Fourteenth street after appellee was struck. The road engine did not come between the work-train and the depot, and the train was not at the depot at the same time as the road engine. The work-train stopped close to Thirteenth street. James Hughes, fireman on the switch engine, testified that the road engine had an electric head light and was going about five miles per hour. He did not remember any nights that they had not stopped at Moline depot. He heard the bell on the road engine ring and said that appellee was about eighty feet from the depot when he was struck. The switch engine stopped so that the pilot was even with the baggage room, and as the cabs of the engines passed they were about thirty feet east of the baggage room. Fred Shaw, engineer on the switch engine, testified that the engines passed about sixty feet east of the baggage room. The work-train was going about four miles per hour. The bell on the road engine was ringing. He helped to take appellee’s foot from the track where it was wedged in, ninety-two feet from Fourteenth street. There was no night when they did not stop at Thirteenth street, and they always came to a full stop at the depot. August Sandberg, employed by ap­pellant at Sil vis, and on the work-train at the time of the accident, testified that the train always stopped at Moline. He judged it was going four or five miles per hour at the time of the accident. Frank Strong, switchman in charge of the train crew on the work-­train, testified that the road engine had an electric head light, and that he saw appellee’s legs wedged in next the rail about eighty-five feet from the east end of the baggage room. He did not hear the whistle or bell on the road engine. Oscar E. Samuels, employed by appellant at Sil vis, and on the work-train at the time of the accident, testified that it was the custom to come to a full stop at Moline. The road engine had a bright light and the work-train was going about three or four miles per hour. It always came to a full stop at the depot at Moline whether the men got off or not. He judged the road engine was going not over four miles per hour, and he did not hear the bell or the whistle. Henry G-lick, switchman on the train crew of the work-train at the time of the accident, testified that the work-train stopped east of the depot. The road engine had an electric head light and was not going more than four or five miles per hour.. The work train passed the road engine east of the depot seventy-­five or eighty feet, and always came to a full stop at Moline. The men were in the habit of getting off be­fore the train stopped every night and he had warned them not to do this. Appellee testified in rebuttal that he never was warned and never heard any such warn­ing given.</p>
+                <p pgmap="342(114) 343(129)" id="b342-5">There is no evidence tending to establish the aver­ment that appellant compelled appellee to alight from the work train before- it stopped. There is some evi­dence tending to show that when appellee alighted from the work train it had stopped and was opposite the depot platform, but the preponderance of the evidence seems to be that it had not stopped but was running slowly and was still east of the depot building. It will be observed that the evidence is in great conflict as to whether,the road engine was running slowly or rapidly, under or above the rate of speed prescribed by the ordinance, and as to whether its bell was continuously ringing as the engine approached and passed the work-­train. In fact the evidence is sharply conflicting upon every averment of negligence contained in appellee’s declaration on which there is any proof whatever, and also as to whether the acts of appellee indicated due care on his part. While it is true that it was the prov­ince of the jury to determine such conflict, and the duty of the court to give their verdict due and careful con­sideration, yet when it is apparent that their verdict may have been brought- about by some error of law on the part of the court or by passion, bias or prejudice on the part of the jury, it is equally the duty of the court to set aside the judgment.</p>
+                <p pgmap="343" id="b343-5">In view of the fact that this judgment must be re­versed and the cause submitted to another jury, we refrain from expressing any opinion on these disputed facts in this record.</p>
+                <p pgmap="343" id="b343-6">Complaint is made of appellee’s fourth instruction which reads as follows:</p>
+                <blockquote pgmap="343" id="b343-7">“The jury are instructed that the weight of the tes­timony does not necessarily depend on the greater num­ber of witnesses sworn on either side of the question in dispute, but you are at liberty as jurors, to consider all the facts and circumstances appearing from the evi­dence in the case, and determine from that, which of the witnesses are worthy of the greater credit.”</blockquote>
+                <p pgmap="343(124) 344(117)" id="b343-8">This instruction admitted the element of numbers which should have been considered by the jury with all the other elements that are mentioned in the instruc­tion. Gage v. Eddy, 179 Ill. 492. In Chicago Union Traction Company v. Hampe, 228 Ill. 346, the court in passing on an instruction that enumerated the various matters to be considered by the jury, omitting, how­ever, any reference to the number of witnesses testi­fying pro and con, said, “it omitted one very import­ant element and for that reason should have been re­fused.” In E. J. &amp; E. Ry. Co. v. Lawler, 229 Ill. 621, the court in passing on an instruction containing the following words, ‘‘ The jury are instructed that the pre­ponderance of evidence in a case is not necessarily alone determined by the number of witnesses testify­ing to a particular fact or state of facts,” said, “The element of numbers should be considered by them with all the other things which are mentioned in the instruc­tion. * * * We do not think that this court has given its unqualified approval to this instruction, or that it might not be misleading in a case where the question of numbers was important and no other in­struction given supplementing it.” In this case, the instruction complained of was not supplemental, and the number of witnesses testifying on some of the issues involved may have been material.</p>
+                <p pgmap="344" id="b344-6">It is urged that appellee’s seventh instruction was erroneous. We have examined this assignment of error and cannot see that there was any prejudicial error in the ruling of the court in the respect complained of.</p>
+                <p pgmap="344(216) 345(16)" id="b344-7">Appellant urges that the verdict for $25,000 can only be accounted for on the grounds of prejudice, passion or misconception oh the part of the jury and that the remittitur of $9,000 does not remove the prejudice, pas­sion or misconception and argues that these elements may have entered and probably did, into the finding of facts, if not the issues themselves. The trial court recognized the fact that the damages as found by the jury were excessive and appellee conceded that they were and entered the remittitur. While it must be said that by the law as settled it is in the power of the trial court to enter judgment on verdicts, as the one under consideration was, to an amount satisfac­tory to the trial judge, and the entering of such judg­ment is not error, yet the judgment is anomalous and in a reviewing court cannot be entitled to the presump­tion of a fair verdict which results from concurrence upon all the issues by the jury and the court. C. &amp; N. W. Ry. Co. v. Cummings, 20 Ill. App. 333. In the exercise of the revisory power of this court, we may reverse a judgment rendered under such circumstances as appear in the record in the absence of errors of law, where in our opinion such course would best tend to promote the impartial administration of justice.</p>
+                <p pgmap="345" id="b345-5">In view of the conflict in the evidence, the error in­dicated in appellee’s fourth instruction, and the im­peachment of the verdict by the trial judge in com­pelling a remittitur of thirty-six per cent, of the ver­dict, in which appellee concurred, the rights of the par­ties should be submitted to the consideration of another jury.</p>
+                <p pgmap="345" id="b345-6">The judgment is therefore reversed and the cause remanded.</p>
+                <p pgmap="345" id="b345-7">Reversed and remanded.</p>
+                <p pgmap="345" id="b345-8">Mr. Justice Dibell, dissenting.</p>
+                <p pgmap="345" id="b345-9">I am of opinion that this judgment should be af­firmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="336" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00168_1"/>
+        <fptr FILEID="jp2_00168_1"/>
+        <fptr FILEID="alto_00168_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.2" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.3" BETYPE="IDREF" FILEID="alto_00168_1"/>
+              <area BEGIN="BL_336.4" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="337" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00169_0"/>
+        <fptr FILEID="jp2_00169_0"/>
+        <fptr FILEID="alto_00169_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.2" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.1" BETYPE="IDREF" FILEID="alto_00169_0"/>
+              <area BEGIN="BL_337.3" BETYPE="IDREF" FILEID="alto_00169_0"/>
+              <area BEGIN="BL_337.18" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="338" ORDERLABEL="322" TYPE="page">
+        <fptr FILEID="tiff_00169_1"/>
+        <fptr FILEID="jp2_00169_1"/>
+        <fptr FILEID="alto_00169_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.2" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.3" BETYPE="IDREF" FILEID="alto_00169_1"/>
+              <area BEGIN="BL_338.4" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="339" ORDERLABEL="323" TYPE="page">
+        <fptr FILEID="tiff_00170_0"/>
+        <fptr FILEID="jp2_00170_0"/>
+        <fptr FILEID="alto_00170_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.2" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.1" BETYPE="IDREF" FILEID="alto_00170_0"/>
+              <area BEGIN="BL_339.3" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="340" ORDERLABEL="324" TYPE="page">
+        <fptr FILEID="tiff_00170_1"/>
+        <fptr FILEID="jp2_00170_1"/>
+        <fptr FILEID="alto_00170_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.2" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.3" BETYPE="IDREF" FILEID="alto_00170_1"/>
+              <area BEGIN="BL_340.4" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="341" ORDERLABEL="325" TYPE="page">
+        <fptr FILEID="tiff_00171_0"/>
+        <fptr FILEID="jp2_00171_0"/>
+        <fptr FILEID="alto_00171_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.3" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.2" BETYPE="IDREF" FILEID="alto_00171_0"/>
+              <area BEGIN="BL_341.4" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="342" ORDERLABEL="326" TYPE="page">
+        <fptr FILEID="tiff_00171_1"/>
+        <fptr FILEID="jp2_00171_1"/>
+        <fptr FILEID="alto_00171_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_342.2" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_342.3" BETYPE="IDREF" FILEID="alto_00171_1"/>
+              <area BEGIN="BL_342.4" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="343" ORDERLABEL="327" TYPE="page">
+        <fptr FILEID="tiff_00172_0"/>
+        <fptr FILEID="jp2_00172_0"/>
+        <fptr FILEID="alto_00172_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.3" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.2" BETYPE="IDREF" FILEID="alto_00172_0"/>
+              <area BEGIN="BL_343.4" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="344" ORDERLABEL="328" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jp2_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.2" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.3" BETYPE="IDREF" FILEID="alto_00172_1"/>
+              <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.2" BETYPE="IDREF" FILEID="alto_00173_0"/>
+              <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.17" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_338.1" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.5" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.9" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.8" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5t" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.15" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_337.16" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.7" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.6" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.4" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_337.5" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.12" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.13" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.14" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.5" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZqy" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.7" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_337.8" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoA" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.6" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b342-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_342.5" BETYPE="IDREF" FILEID="alto_00171_1"/>
+            <area BEGIN="BL_343.1" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.11" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.10" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHn" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.9" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHj" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.10" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_337.11" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.8" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            <area BEGIN="BL_344.1" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.6" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.7" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.6" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.5" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag2" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.4" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            <area BEGIN="BL_340.1" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_341.1" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            <area BEGIN="BL_342.1" BETYPE="IDREF" FILEID="alto_00171_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-9" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.9" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-8" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.8" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.5" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-7" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.7" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-6" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.6" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

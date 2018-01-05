@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0010" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kavooras v. E. L. Hasler Co.">Gust Kavooras, Defendant in Error, v. E. L. Hasler Co., Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,206</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 72</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00045_1" MIMETYPE="image/tiff" CHECKSUM="e3481b0c9717019832bc20d281a1a6e1" CHECKSUMTYPE="MD5" SIZE="39670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00045_1.tif"/>
+      </file>
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="543128fd47ae87042f3018305f0ad18b" CHECKSUMTYPE="MD5" SIZE="52256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="7316db0c31b8ad3d09c90bd1bc80b239" CHECKSUMTYPE="MD5" SIZE="53322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="2d757af06d5ce397ca4ac6930f9f7935" CHECKSUMTYPE="MD5" SIZE="42240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00045_1" MIMETYPE="image/jp2" CHECKSUM="bc2828c0606539485a321e4cf76c3670" CHECKSUMTYPE="MD5" SIZE="2284744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00045_1.jp2"/>
+      </file>
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="39a3d761253bef29cba63b103fd2d7cc" CHECKSUMTYPE="MD5" SIZE="2434015">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="976968fb03acc146d886dfa3c99eabf2" CHECKSUMTYPE="MD5" SIZE="2443018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="e24814b24591f2d40b526901647030fa" CHECKSUMTYPE="MD5" SIZE="2393821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00045_1" MIMETYPE="text/xml" CHECKSUM="fcb0f28d87b2e7905883bbb567bc87c9" CHECKSUMTYPE="MD5" SIZE="69442">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00045_1.xml"/>
+      </file>
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="3c4de6718978dc52c27c3f458853c079" CHECKSUMTYPE="MD5" SIZE="84748">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="58597651d745cc3f071d35c8a8578dd5" CHECKSUMTYPE="MD5" SIZE="87444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="1a6040d0ebbcc2e928350633e2422f2d" CHECKSUMTYPE="MD5" SIZE="74394">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00047_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="75" firstpage="72">
+              <docketnumber id="b90-10" pgmap="90">Gen. No. 14,206.</docketnumber>
+              <parties id="b90-8" pgmap="90">Gust Kavooras, Defendant in Error, v. E. L. Hasler Co., Plaintiff in Error.</parties>
+              <decisiondate id="Adz" pgmap="90">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b90-14" pgmap="90">George J. Kappes, for plaintiff in error.</attorneys>
+              <attorneys id="b91-3" pgmap="91">No appearance by defendant in error.</attorneys>
+              <summary id="b90-13" pgmap="90">Assumpsit. Error to the Municipal Court of Chicago; the Hon. Charles N. Goodnow, Judge, presiding. Heard in the Branch Appellate Court at the March term, 1908.</summary>
+              <disposition id="A9" pgmap="90">Affirmed.</disposition>
+              <headnotes id="b90-11" pgmap="90">1. Amendments and jeofails—what authorizes nunc pro tunc order. If a party upon a trial has been permitted to make an amendment, there is sufficient justification for the entry subse­quently of a nunc pro tunc order formally authorizing such amend­ment.</headnotes>
+              <headnotes id="b90-12" pgmap="90">2. Verdict—when not disturbed as against the evidence. A verdict not manifestly against the weight of. the evidence will not be set aside on appeal.</headnotes>
+              <opinion type="majority">
+                <author id="b91-4" pgmap="91">Mr. Justice Baker</author>
+                <p id="AGC" pgmap="91">delivered the opinion of the court.</p>
+                <p id="b91-5" pgmap="91">This is a writ of error by the defendant to reverse a judgment recovered against it by the defendant in error for $37.50 in the Municipal Court, in an action of the fourth class. The original statement of claim is as follows: “Plaintiff’s claim is for money ad­vanced for fruit condemned by the Health Inspectors of the City of Chicago as unfit for use on or about August 14, 1907.”</p>
+                <p id="b91-7" pgmap="91">The bill of exceptions states that September 12, 1907, at the close of plaintiff’s case: “the defendant moved to dismiss the suit, for the reason that the plaintiff’s case, as proven, varied from his bill of par­ticulars on file: whereupon the court permitted the plaintiff to amend”; and further states that at the next session of the court, September 14, 1907, the de­fendant moved to strike out certain evidence, and that the court then gave to the attorney of the plaintiff the bill of particulars, and he thereupon added the fol­lowing amendment: “And for money advanced to the defendants for fruit which defendants refused and failed to deliver but substituted other fruit which was unfit for use.” No order giving leave to amend was entered until November 13, 1907, when an order was made giving: “plaintiff leave to amend his bill of particulars nunc pro tunc as of September 14, 1907”. We think that the action of the court during the trial, stated in the bill of exceptions, amounted to giving plaintiff leave to amend his bill of particulars; that the court, by reason thereof, had power and authority on November 13, to enter the formal order giving leave to amend nunc pro tunc as of September 14, and that the amendment to the bill of particulars, or state­ment of claim, is a part of the record..</p>
+                <p id="b91-9" pgmap="91(27) 92(211)">August 14,1907, defendant had in front of its store, on a wagon, eighty crates of peaches. Mason, defendant’s salesman, told plaintiff that the first thirty crates from the rear end of the wagon had been sold, and offered him the remainder at $1.25 per crate. Plaintiff examined the peaches, told Mason that he would take thirty crates; told him to unload said crates, set them to one side in defendant’s store, and he would call for them in the afternoon. Mason made out a sales slip and plaint­iff paid defendant the price, $37.50. Mason testified that the plaintiff bought the second thirty crates from the rear end of the wagon, and this testimony was not contradicted by plaintiff. Mason further testified that the peaches were unloaded, that he set aside, in de­fendant’s store, the thirty crates plaintiff had bought, and that said crates remained in the store until plaintiff returned in the afternoon. Plaintiff further testified that when he bought the peaches he marked each crate with his initial “K”. This testimony was not con-' tradicted by Mason. In the afternoon plaintiff re­turned to defendant’s store for his peaches, 'and was shown thirty crates, which were all the peaches then in defendant’s store. He testified that the crates then shown him did not have the mark he had put on the crates he had bought, and were not the peaches he had bought and marked.</p>
+                <p id="b92-5" pgmap="92">The disputed question of fact in the case was, whether the thirty crates of peaches plaintiff found in defendant’s store in the afternoon were the peaches he had bought in the morning, as defendant contended, or whether defendant had sold that lot of peaches and offered to plaintiff another lot, as plaintiff contended. This question of fact the trial judge found in favor of the contention of the plaintiff. We cannot say that such finding is so manifestly against the evidence as to warrant a reversal of the judgment on that ground.</p>
+                <p id="b92-6" pgmap="92(56) 93(65)">It is clear, we think, that the transaction in. the morning was an actual present sale of the second thirty crates of peaches from the rear end of defend­ant’s wagon. The price was agreed on, was paid, the specific crates sold were designated, agreed on and set aside. If defendant resold the thirty crates of peaches so bought by the plaintiff, then it became liable to the plaintiff, in trover, for their value, or plaintiff might waive the tort and recover in assumpsit their value. The trial court in effect found that the defend­ant resold the peaches it had sold to the plaintiff, and the plaintiff was therefore entitled to recover from the defendant the value of said peaches.</p>
+                <p id="b93-4" pgmap="93">The original statement of plaintiff’s demand must be disregarded, for it states no demand, no cause of action against defendant. The amendment, though de­fective in form, informed the defendant that it was called on to defend a charge that it had refused and failed to deliver fruit to the plaintiff. We think it may be regarded as a statement of the demand which the court found was proven by the evidence, and sufficient to support the judgment.</p>
+                <p id="b93-5" pgmap="93">Finding in the record no substantial error, the judg­ment of the Municipal Court will be affirmed.</p>
+                <p id="b93-6" pgmap="93">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="90" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00045_1"/>
+        <fptr FILEID="jp2_00045_1"/>
+        <fptr FILEID="alto_00045_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.2" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.3" BETYPE="IDREF" FILEID="alto_00045_1"/>
+              <area BEGIN="BL_90.4" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="91" ORDERLABEL="73" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.2" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.1" BETYPE="IDREF" FILEID="alto_00046_0"/>
+              <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.3" BETYPE="IDREF" FILEID="alto_00046_1"/>
+              <area BEGIN="BL_92.4" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.2" BETYPE="IDREF" FILEID="alto_00047_0"/>
+              <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.6" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-14" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.17" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.14" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.5" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.5" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.4" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.7" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.8" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.8" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGC" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.6" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.9" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.10" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.11" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-13" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.12" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_90.13" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adz" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.15" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_90.16" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.9" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            <area BEGIN="BL_92.1" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

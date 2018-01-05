@@ -1,0 +1,884 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0085" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Philadelphia Savings Fund Society v. Lasher">Philadelphia Savings Fund Society, Appellant, v. Charles W. Lasher et al., Appellees</name>
+          <docketnumber>Gen. No. 13,981</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 653</citation>
+          <decisiondate>1908-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00335_0" MIMETYPE="image/tiff" CHECKSUM="a153855bf14f32a44a1f283ebdeafb7e" CHECKSUMTYPE="MD5" SIZE="43532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00335_0.tif"/>
+      </file>
+      <file ID="tiff_00335_1" MIMETYPE="image/tiff" CHECKSUM="1fcd7ea7c34faaadb6ce87e55771df64" CHECKSUMTYPE="MD5" SIZE="55432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00335_1.tif"/>
+      </file>
+      <file ID="tiff_00336_0" MIMETYPE="image/tiff" CHECKSUM="5e3f1f6b90612c20bbec74a80b0a9bf3" CHECKSUMTYPE="MD5" SIZE="51610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00336_0.tif"/>
+      </file>
+      <file ID="tiff_00336_1" MIMETYPE="image/tiff" CHECKSUM="9cd8795a7cd288e5c35752c66e4f2ea5" CHECKSUMTYPE="MD5" SIZE="53008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00336_1.tif"/>
+      </file>
+      <file ID="tiff_00337_0" MIMETYPE="image/tiff" CHECKSUM="eeba511a13de29e0230483dc64889470" CHECKSUMTYPE="MD5" SIZE="53526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00337_0.tif"/>
+      </file>
+      <file ID="tiff_00337_1" MIMETYPE="image/tiff" CHECKSUM="c6d3ba8ea7cb894ccbc7c0bd0097f493" CHECKSUMTYPE="MD5" SIZE="54046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00337_1.tif"/>
+      </file>
+      <file ID="tiff_00338_0" MIMETYPE="image/tiff" CHECKSUM="a74153aaf398c3ea4f017f60b05fc251" CHECKSUMTYPE="MD5" SIZE="50668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00338_0.tif"/>
+      </file>
+      <file ID="tiff_00338_1" MIMETYPE="image/tiff" CHECKSUM="fce6cf76921fdfde95faf2e0d754e232" CHECKSUMTYPE="MD5" SIZE="49434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00338_1.tif"/>
+      </file>
+      <file ID="tiff_00339_0" MIMETYPE="image/tiff" CHECKSUM="cecfb2f00052cbfd77299412b72c296b" CHECKSUMTYPE="MD5" SIZE="54180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00339_0.tif"/>
+      </file>
+      <file ID="tiff_00339_1" MIMETYPE="image/tiff" CHECKSUM="363a8d8d82ee58e9ec772f24d7670138" CHECKSUMTYPE="MD5" SIZE="33410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00339_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00335_0" MIMETYPE="image/jp2" CHECKSUM="b96fb52b171cfae7c02d1720132b3e39" CHECKSUMTYPE="MD5" SIZE="2324716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00335_0.jp2"/>
+      </file>
+      <file ID="jp2_00335_1" MIMETYPE="image/jp2" CHECKSUM="cfebd3db2436312d421930d69a2df0a3" CHECKSUMTYPE="MD5" SIZE="2339246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00335_1.jp2"/>
+      </file>
+      <file ID="jp2_00336_0" MIMETYPE="image/jp2" CHECKSUM="fcf7a64e1b050e15fc2cdda6aa64c9f4" CHECKSUMTYPE="MD5" SIZE="2378342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00336_0.jp2"/>
+      </file>
+      <file ID="jp2_00336_1" MIMETYPE="image/jp2" CHECKSUM="f36916968366d7cc76975aa3b6dbf4e1" CHECKSUMTYPE="MD5" SIZE="2351288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00336_1.jp2"/>
+      </file>
+      <file ID="jp2_00337_0" MIMETYPE="image/jp2" CHECKSUM="6d538d01007f8f56b22c822d132b1bcc" CHECKSUMTYPE="MD5" SIZE="2381550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00337_0.jp2"/>
+      </file>
+      <file ID="jp2_00337_1" MIMETYPE="image/jp2" CHECKSUM="7d255a51099498e83e03613f3eff0c39" CHECKSUMTYPE="MD5" SIZE="2349501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00337_1.jp2"/>
+      </file>
+      <file ID="jp2_00338_0" MIMETYPE="image/jp2" CHECKSUM="733bb164eb5bc11a0a3929d01733487a" CHECKSUMTYPE="MD5" SIZE="2389993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00338_0.jp2"/>
+      </file>
+      <file ID="jp2_00338_1" MIMETYPE="image/jp2" CHECKSUM="552b822c2ceec2d0219f0b9128a362c5" CHECKSUMTYPE="MD5" SIZE="2326649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00338_1.jp2"/>
+      </file>
+      <file ID="jp2_00339_0" MIMETYPE="image/jp2" CHECKSUM="a6cba16f5a82c09ecf148f372dfb08c4" CHECKSUMTYPE="MD5" SIZE="2403476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00339_0.jp2"/>
+      </file>
+      <file ID="jp2_00339_1" MIMETYPE="image/jp2" CHECKSUM="15049273a921e49d79f1b1a9d7621ff9" CHECKSUMTYPE="MD5" SIZE="2204805">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00339_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00335_0" MIMETYPE="text/xml" CHECKSUM="77a7230e5e0f6dea0b841d8a71d574a3" CHECKSUMTYPE="MD5" SIZE="79975">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00335_0.xml"/>
+      </file>
+      <file ID="alto_00335_1" MIMETYPE="text/xml" CHECKSUM="2c54ff092b8027cca16d070056e906af" CHECKSUMTYPE="MD5" SIZE="92674">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00335_1.xml"/>
+      </file>
+      <file ID="alto_00336_0" MIMETYPE="text/xml" CHECKSUM="6d416220b1185235a87796e565389898" CHECKSUMTYPE="MD5" SIZE="82708">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00336_0.xml"/>
+      </file>
+      <file ID="alto_00336_1" MIMETYPE="text/xml" CHECKSUM="85a315d9ec41528bd3b89bd73c6d7e94" CHECKSUMTYPE="MD5" SIZE="85738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00336_1.xml"/>
+      </file>
+      <file ID="alto_00337_0" MIMETYPE="text/xml" CHECKSUM="48d0c6d3cd3e005db27cbe437ce422ce" CHECKSUMTYPE="MD5" SIZE="85507">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00337_0.xml"/>
+      </file>
+      <file ID="alto_00337_1" MIMETYPE="text/xml" CHECKSUM="3af7312f480346990be8a0e9f425ef24" CHECKSUMTYPE="MD5" SIZE="89463">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00337_1.xml"/>
+      </file>
+      <file ID="alto_00338_0" MIMETYPE="text/xml" CHECKSUM="1a98abb162e4c34469410ece3217b181" CHECKSUMTYPE="MD5" SIZE="82781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00338_0.xml"/>
+      </file>
+      <file ID="alto_00338_1" MIMETYPE="text/xml" CHECKSUM="17714d23f030607c6c285666719dead1" CHECKSUMTYPE="MD5" SIZE="84934">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00338_1.xml"/>
+      </file>
+      <file ID="alto_00339_0" MIMETYPE="text/xml" CHECKSUM="008b164c05a4dbe372e767d73f85d259" CHECKSUMTYPE="MD5" SIZE="90611">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00339_0.xml"/>
+      </file>
+      <file ID="alto_00339_1" MIMETYPE="text/xml" CHECKSUM="6584e5a5b649d7fe771e6c8edd6136f7" CHECKSUMTYPE="MD5" SIZE="56756">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00339_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0085" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="662" firstpage="653">
+              <docketnumber pgmap="669" id="b669-5">Gen. No. 13,981.</docketnumber>
+              <parties pgmap="669" id="b669-3">Philadelphia Savings Fund Society, Appellant, v. Charles W. Lasher et al., Appellees.</parties>
+              <decisiondate pgmap="669" id="AkM">Opinion filed November 12, 1908.</decisiondate>
+              <otherdate pgmap="669" id="AuD">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="669" id="Amr">Re­hearing denied November 30, 1908.</otherdate>
+              <attorneys pgmap="669" id="b669-9">Mason Brothers, for appellant.</attorneys>
+              <attorneys pgmap="669" id="b669-10">Leslie A. Needham, for appellees.</attorneys>
+              <summary pgmap="669" id="b669-8">Foreclosure. Appeal from the Circuit Court of Cook county; the Hon. Thomas G. Windes, Judge, presiding.</summary>
+              <disposition pgmap="669" id="Aio">Affirmed in part, reversed in part and re­manded with directions.</disposition>
+              <headnotes pgmap="669" id="b669-6">1. Mortgages—character of, given by wife to secure husband’s debt. A wife who gives a mortgage to secure her husband’s debt is bound as a principal.</headnotes>
+              <headnotes pgmap="669" id="b669-7">2. Election—when may be rescinded even as against surety. The holder of a mortgage security may rescind an election to de­clare the principal sum due and dismiss a bill to foreclose even as to a surety where the mortgage specifically provides for the right of rescission.</headnotes>
+              <opinion type="majority">
+                <author pgmap="669" id="b669-11">Mb. Presiding Justice Adams</author>
+                <p pgmap="669" id="AmZ">delivered the opinion of the court.</p>
+                <p pgmap="669(153) 670(68)" id="b669-12">June 22, 1905, appellant filed a bill against Charles W. Lasher and his wife, Jane E. Lasher, which was subsequently amended by making Charles W. Moeller a defendant, and in other particulars. The bill is to' foreclose two mortgages executed to appellant by ap­pellees, Charles W. Lasher and Jane E. Lasher, to se­cure payment of a promissory note of Charles W. Lasher of date April 11, 1903, for the sum of $35,000, with interest at the rate of five per cent., payable semi-annually on the 11th day of October and in April in each year, till the principal sum should be fully paid, the instalments of interest being evidenced by coupon notes. One of the mortgages sought to be fore­closed is of the same date as the notes, April 11, 1903, and conveys to appellant lots 1 to 4,.both inclusive, in block 1-8 in Butler, Wright &amp; Webster’s addition to Chicago, Illinois, which is referred to as the Chicago avenue property, or the Chicago avenue and Orleans street property. The other mortgage is dated July 20, 1903, and conveys to appellant lots 18 to 21, both inclusive, in John S. Bussing’s subdivision of block 10, in Wolcott’s addition to Chicago, Illinois, and is referred to as the Dearborn avenue property. Each of the mortgages contains the following provisions:</p>
+                <blockquote pgmap="670" id="A6u">“And it is stipulated and agreed that in case of de­fault in any of said payments of principal or interest, as aforesaid, or of a breach of any of the covenants or agreements herein contained, then and in that case, the whole principal sum hereby secured, and the un­paid interest thereon, shall, at the option of the legal holder of said note (without notice thereof to said party of the first part, their heirs, assigns or legal representatives) becomes at once due and payable. And, after the exercise of such option, such legal holder may elect to revoke the same, and may receive any portion of said indebtedness hereby secured, and the rights of said party of the second part hereunder shall thereafter remain in full force, and be the same as to the remainder of such indebtedness, or any part thereof, as if such option had not been exercised, and such legal holder shall have the right to exercise such option and revoke the same in like manner, from time to time, in case of any such default or breach aforesaid, the rights of said party of the second part remaining the same, after any such revocation, as if such option had not been exercised.”</blockquote>
+                <p pgmap="670" id="b670-5">By extension agreement, in writing, between appel­lant and Charles W. Lasher, of date February 24, 1898, the time of payment of the principal sum due, $35,000, was extended till April 11, 1903, with inter­est at five per cent, payable semi-annually.</p>
+                <p pgmap="670(60) 671(41)" id="b670-6">July 20, 1903, by written agreement between appel­lant and Charles W. Lasher, the timé of payment was extended from April 11, 1903, till April 11, 1908, the said principal sum to be paid as follows: four pay­ments of $1,000 each on or before the 11th day of April in the years 1904, 1905, 1906 and 1908, with in­terest thereon from April 11, 1903, and $31,000 of the principal sum on or before April 11, 1908, with interest thereon until paid at five per cent, per annum, pay­able semi-annually on the first days of April and Octo­ber.</p>
+                <p pgmap="671" id="b671-4">May 28, 1904, appellant filed a bill to foreclose the mortgages for default in the payment of interest and $1,000 principal payable April 11, 1904. June 1, 1904, suit was dismissed by appellant, the amount in default having been paid.</p>
+                <p pgmap="671" id="b671-5">The present bill, filed June 22,1905, avers that there is due to appellant $34,000, with interest thereon at five per cent, from April 11, 1905, and $850, with in­terest at seven per cent, from April 11, 1905, and $1,750 as solicitor’s fees.</p>
+                <p pgmap="671" id="b671-6">The issues having been made up, the cause was re­ferred to a master, who reported favorably for appel­lant and found and recommended as follows: “I find, therefore, that all the material allegations of the com­plainant’s bill of complaint are proven and true, and recommend that the prayer of said bill for the fore­closure of said mortgages for the sum of $39,899.60 be granted”.</p>
+                <p pgmap="671(143) 672(40)" id="b671-7">Appellees, Charles W. Lasher and Charles W. Moel­ler, filed objections to the master’s report, which by the decree were ordered to stand as exceptions. No objections or exceptions were filed by Mrs. Lasher. March 23, 1907, the court rendered a decree sustain­ing the exceptions of Charles W. Lasher and Moeller as to lots 18 to 21, both inclusive, being the Dearborn avenue property above mentioned, and overruling said exceptions as to lots 1 to 4, both inclusive, being the Chicago avenue property above mentioned, and ap­proving the master’s report as to the Chicago avenue property and disapproving it as to the Dearborn avenue property, and finding that there was due to complainant the sum of $37,689.60, with legal interest from November 22, 1906, the date of the master’s re­port; also $1,750 found due by said report as a rea­sonable solicitor’s fee, under the provisions of the in­struments sued on. The court dismissed the bill for want of equity as to the Dearborn avenue property and decreed a foreclosure of the mortgage of the Chi­cago avenue property.</p>
+                <p pgmap="672" id="b672-5">The appellant has assigned errors and appellee, Charles W. Moeller, has assigned cross-errors.</p>
+                <p pgmap="672(294) 673(172)" id="b672-6">Charles W. Lasher was the owner of the Chicago avenue property April 11, 1893, the date of the exe­cution of the mortgage by him and his wife of that property. Subsequently, June 10, 1901, he purchased the property at a foreclosure sale, subject to the lien of appellant acquired by the mortgage of April 11, 1903, and a certificate of purchase was issued to him, which certificate he assigned to Jane E. Lasher De­cember 15, 1905. The assignment is expressed to be “for value received”. December 16, 1903, the master executed a deed to Jane E. Lasher, as assignee of the certificate of purchase, which deed contains the fol­lowing: “Subject, however, to the lien of the prin­cipal note and all unpaid coupon notes secured by the mortgage set out in said bill, and whatever sum or sums of money may be due and payable, or may here­after become due and payable, under the terms and provisions of said mortgage, to the respective holder or holders of said note and remaining interest notes”. The bill for foreclosure, under the decree on which the forclosure sale was had, was filed by Charles W. Lasher against Howard Copeland et ah, and the bill sets, forth Lasher’s indebtedness to appellant and that he executed'the mortgage of April 11,1893, as security for the same. July 20, 1903, when the mortgage of the Dearborn avenue property was executed, Jane E. Lasher was the owner of that property. She became such owner March 28, 1901. Charles W. Lasher and Jane E. Lasher executed to appellee Moeller two quit­claim deeds, each dated June 22, 1905, one of their interest in the Chicago avenue property and the other of their interest, in the Dearborn avenue property, the expressed consideration in each deed being one dollar. It was admitted by counsel for Charles W. Moeller, appellee, in open court, that Moeller took said deeds pendente lite, and had no interest in the quit-claimed premises beyond that owned by the grantors. There­fore, Moeller stands in the shoes of his grantors in this suit. Counsel for appellee Moeller frankly admits that in December, 1903, the two mortgages were liens on the two properties and so continued till the trans­action of May 28th, to June 14, 1904; but contends that Mrs. Lasher was, May 28, 1904, the owner of both the properties, and that, in executing the Dearborn avenue mortgage, she became surety for her husband’s indebtedness, and that, as such surety, she was en­titled to notice of appellant’s revocation of its election of May 28, 1904, to declare the whole indebtedness due for default in payment. For greater certainty as to the exact contention of counsel, we quote the fol­lowing under heading “C” in his brief of points:</p>
+                <blockquote pgmap="673" id="b673-4">“By the terms of the mortgages, appellant possessed the right, first, on default without notice, to declare the indebtedness at once due. Second, to revoke such election and receive any portion of principal or interest. Third, appellant’s rights thereupon to be as though no election and revocation had been made. But appellant had no right to revoke its election of May 28, 1904, without notice to the surety, or to file a bill and incur costs, or to receive payment other than principal and interest”.</blockquote>
+                <p pgmap="673" id="b673-5">Mrs. Lasher executed both mortgages and next fol­lowing the provision in each mortgage giving to the legal holder of the secured note the option of declar­ing the whole indebtedness due, are the following pro­visions :</p>
+                <blockquote pgmap="673(47) 674(71)" id="b673-6">“And after the exercise of such option such legal holder may elect to revoke the same, and may receive any portion of said indebtedness hereby secured, and the rights of said party of the second part hereunder shall thereafter remain in full force and he the same as to the remainder of such indebtedness as if such option had not been exercised; and such legal holder shall have the right to exercise such option and revoke the same in like manner from time to time, in case of any such default or breach aforesaid, the rights of said party of the second phrt remaining the same after any such revocation as if such option had not been exercised”.</blockquote>
+                <p pgmap="674" id="b674-5">Therefore, when appellant revoked its election of May 28, 1904, to declare the whole indebtedness dne, and dismissed its bill filed at that date, it was, by the very terms of the contract, in the same position as it would have been had such election not been made, namely, to again, from time to time, declare the whole indebtedness due, without notice, and to revoke such elections from time to time.</p>
+                <p pgmap="674(222) 675(31)" id="b674-6">Benneson v. Savage, 130 Ill. 352, was a suit for the foreclosure of a trust deed. One ground of defense set up by plaintiffs in error, against whom the decree ran, was that the property in question was their prop­erty, and that, by virtue of the trust deed they were sureties for the indebtedness described therein, and that the trust deed was released without their consent. The court held against the contention, saying, among other things: “It is next objected that the mortgage was released by reason of the extension of the time of the payment of the debt without the consent of the mortgagors, Elvey W. Savage and Anna Wells, who were the real owners of the mortgaged property. The mortgage expressly recites, as was seen supra, that it is provided in the note which it secures, ‘that the holder thereof may extend the time for the payment of the whole or of any part thereof, on the maker executing coupons for interest to accrue thereon dur­ing such extension’.” In the present case express consent is given in plain, unambiguous terms, by the mortgages. In the written agreement of extension of the time of payment, of date July 20, 1903, between appellant and Charles W. Lasher, it is recited: “And whereas the said one principal note has become due and is now owned and held by the society, and said Charles W. Lasher and wife have requested of said society an extension of the time of payment thereof; Now”, etc.</p>
+                <p pgmap="675" id="b675-4">Under date of July 30, 1903, the 10th day after the extension agreement of July 20th was executed, Mr. and Mrs. Lasher addressed to Mason Brothers, then solicitors for appellant, the following letter:</p>
+                <blockquote pgmap="675" id="b675-5">“Gentlemen: Learning from you that in the ex-' tension agreement, dated July 20, 1903, and in the mortgage of even, date therewith, both relating to $35,000 loan from The Philadelphia Saving Fund So­ciety to Charles W. Lasher, there is a clerical error, stating that a certain mortgage originally and still securing said $35,000 loan, was recorded April 15,1893, whereas the actual date of recording was April 14, 1893, we hereby authorize correction to be made ac­cordingly in said extension agreement and mortgage dated July 20, 1903, as fully and to all intents and purposes as though such correction had been made prior to the execution of said last mentioned agree­ment and mortgage, respectively.</blockquote>
+                <blockquote pgmap="675" id="b675-6">Tours truly,</blockquote>
+                <blockquote pgmap="675" id="b675-7">Chables W. Lasheb, Jane E. Lasheb”.</blockquote>
+                <p pgmap="675(145) 676(69)" id="b675-8">It is clear from this letter that Mrs. Lasher knew of the July 20th extension agreement and approved it, except as to the mistaken dates, which being true she is not in a position to complain of the revocation of the election of May 28, 1904, by the dismissal June 14, 1904, of the bill filed at the former date. Mrs. Lasher testified that she remembered of one exten­sion and approved it. She also testified that she did not authorize an extension of the loan in 1904, which may mean that outside the mortgages she gave no express authority to extend it; but the evidence tends strongly to prove her husband acted as her agent in agreeing to the extensions and in respect to the prop­erty mortgaged. She testified that she expected her husband to attend to the loan, and that after the mortgage was made she left everything relating to the loan and the indebtedness and mortgage in Mr. Lasher’s hands. She further testified that she was consulted by Mr. Lasher in matters of importance. Asked whether she was consulted with regard to the last written extension, she answered, “I don’t know whether there was ever more than one. You say the last extension; I don’t know just—I only remember one”.</p>
+                <blockquote pgmap="676" id="b676-5">“Q. You were consulted as to that one, were you?</blockquote>
+                <blockquote pgmap="676" id="b676-6">A. Yes.</blockquote>
+                <blockquote pgmap="676" id="b676-7">Q. And you approved of that, did you not?</blockquote>
+                <blockquote pgmap="676" id="b676-8">A. Yes, sir”.</blockquote>
+                <p pgmap="676" id="b676-9">The evidence shows that leases of the properties were executed by Charles W. Lasher in his wife’s name, by him as her attorney, and that he signed re­ceipts for the rents, sometimes in his own name and sometimes in her’s, as her attorney, and Mrs. Lasher testified that she never personally paid any taxes on the property, or any interest, and she supposed that Mr. Lasher paid the interest and taxes out of the rentals. We are of opinion, as between Mrs. Lasher and appellant, she is not to be regarded as a surety, but as a principal.</p>
+                <p pgmap="676(148) 677(37)" id="b676-10">In Jones on Mortgages, 6th ed., vol 4, sec. 114, the author says that in states in which a married woman is capable of binding her separate property by con­tract, “she is bound as principal when she makes a mortgage to secure her husband’s debts, and her lia­bility is not affected by any understanding she may have with her husband, or by giving additional secur-. ity as collateral to the mortgage”; citing Alexander v. Bouton, 55 Cal. 15, which case we have examined and find that it fully supports the text. By the law of this State the mortgages in question are as effect­ive as against Mrs. Lasher as if she had been a feme sole when she executed them. Hurd’s Rev. Stats. 1905, chap. 30, sec. 18, p. 466. But even though it should be held that Mrs. Lasher was a surety, this would not operate to discharge the lien of the mortgage of the Dearborn avenue property, because in view of the terms of that mortgage appellant had the right to revoke the election of May 28, 1904, without notice.</p>
+                <p pgmap="677(333) 678(80)" id="b677-4">The bill filed May 28, 1904, was dismissed in pur. suance of an arrangement between appellant’s solicit­ors and Charles W. Lasher and Ms attorney, Mr. Ulysses G-. Hayden, on the payment by Mr. Lasher of the amount of principal and interest then due, and' $500 M addition. Mr. Lasher, in his examination in chief, calls the $500 a bonus. On cross-examination he said he did not know how Mason Bros, applied the $500, or what they called it. Both Henry B. and Henry D. Mason testified that the $500 was paid as solici­tor’s fees for services performed in the suit which was dismissed, and that Mr. Hayden, whom Lasher had previously introduced to Mason Bros, as his at­torney, paid the aggregate of the sums agreed on, in­cluding the $500, and that they receipted for the items paid. We think the preponderance of the evidence is that the $500 was paid by Mr. Lasher as a solicitor’s fee for services in the former suit. With respect to this payment appellant’s counsel objects that by the mortgages a solicitor’s fee can only be allowed in case of a decree, and that the acceptance of payment was in violation of the rights of Mrs. Lasher, inas­much as it leaves her liable to the same extent as if the payment had not been made. While it is true that by each of the mortgages there is no provision for the allowance of solicitor’s fees, except by decree, it certainly does not follow that the payment by Mr. Lasher is necessarily prejudicial to Mrs. Lasher. Non constat that Mr. Lasher did not make the payment with his own money. That he so did must be pre­sumed in the absence of evidence to the contrary. It is not included in the master’s estimate of the amount due to appellant, or in the court’s finding of the amount due, and so is not charged agamst the mort­gaged premises. The foregoing includes all proposi­tions argued by counsel for appellee Moeller, and prop­ositions not argued must be deemed waived. Our opinion is that the dismissal of appellant’s bill for want of equity, as to the Dearborn avenue property, namely, lots 18, 19, 20 and 21 in John S. Bus sing’s subdivision of block 10 in Wolcott’s addition to Chi­cago in the county of Cook and state of Illinois, is error, and the court should have decreed the fore­closure of both mortgages.</p>
+                <p pgmap="678" id="b678-5">No assignment or cross-assignment of error ques­tions the correctness of the court’s finding of the amount due, which is the amount found due by the master, nor the allowance by the court of $1,750 as a reasonable solicitor’s fee; nor is it claimed by coun­sel for either party that such finding or allowance is incorrect or improper. That part of the decree dis­missing the bill for want of equity as to the Dearborn avenue property, above described, will be reversed and the decree as to the Chicago avenue property, and in all other respects, will be affirmed, and the cause will be remanded with direction to enter a decree in conformity with this opinion. The appellant to re­cover its costs of this court and the Circuit Court.</p>
+                <p pgmap="678" id="ARi">Affirmed in part and reversed in part and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="669" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00335_0"/>
+        <fptr FILEID="jp2_00335_0"/>
+        <fptr FILEID="alto_00335_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.1" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.2" BETYPE="IDREF" FILEID="alto_00335_0"/>
+              <area BEGIN="BL_669.3" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="670" ORDERLABEL="654" TYPE="page">
+        <fptr FILEID="tiff_00335_1"/>
+        <fptr FILEID="jp2_00335_1"/>
+        <fptr FILEID="alto_00335_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.3" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.4" BETYPE="IDREF" FILEID="alto_00335_1"/>
+              <area BEGIN="BL_670.5" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="671" ORDERLABEL="655" TYPE="page">
+        <fptr FILEID="tiff_00336_0"/>
+        <fptr FILEID="jp2_00336_0"/>
+        <fptr FILEID="alto_00336_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.2" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_671.3" BETYPE="IDREF" FILEID="alto_00336_0"/>
+              <area BEGIN="BL_671.4" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="672" ORDERLABEL="656" TYPE="page">
+        <fptr FILEID="tiff_00336_1"/>
+        <fptr FILEID="jp2_00336_1"/>
+        <fptr FILEID="alto_00336_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_672.2" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_672.3" BETYPE="IDREF" FILEID="alto_00336_1"/>
+              <area BEGIN="BL_672.4" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="673" ORDERLABEL="657" TYPE="page">
+        <fptr FILEID="tiff_00337_0"/>
+        <fptr FILEID="jp2_00337_0"/>
+        <fptr FILEID="alto_00337_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_673.2" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_673.3" BETYPE="IDREF" FILEID="alto_00337_0"/>
+              <area BEGIN="BL_673.4" BETYPE="IDREF" FILEID="alto_00337_0"/>
+              <area BEGIN="BL_673.8" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="674" ORDERLABEL="658" TYPE="page">
+        <fptr FILEID="tiff_00337_1"/>
+        <fptr FILEID="jp2_00337_1"/>
+        <fptr FILEID="alto_00337_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_674.2" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_674.3" BETYPE="IDREF" FILEID="alto_00337_1"/>
+              <area BEGIN="BL_674.4" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="675" ORDERLABEL="659" TYPE="page">
+        <fptr FILEID="tiff_00338_0"/>
+        <fptr FILEID="jp2_00338_0"/>
+        <fptr FILEID="alto_00338_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.2" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_675.3" BETYPE="IDREF" FILEID="alto_00338_0"/>
+              <area BEGIN="BL_675.4" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="676" ORDERLABEL="660" TYPE="page">
+        <fptr FILEID="tiff_00338_1"/>
+        <fptr FILEID="jp2_00338_1"/>
+        <fptr FILEID="alto_00338_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_676.2" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_676.3" BETYPE="IDREF" FILEID="alto_00338_1"/>
+              <area BEGIN="BL_676.4" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="677" ORDERLABEL="661" TYPE="page">
+        <fptr FILEID="tiff_00339_0"/>
+        <fptr FILEID="jp2_00339_0"/>
+        <fptr FILEID="alto_00339_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.2" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_677.3" BETYPE="IDREF" FILEID="alto_00339_0"/>
+              <area BEGIN="BL_677.4" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="678" ORDERLABEL="662" TYPE="page">
+        <fptr FILEID="tiff_00339_1"/>
+        <fptr FILEID="jp2_00339_1"/>
+        <fptr FILEID="alto_00339_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.2" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_678.3" BETYPE="IDREF" FILEID="alto_00339_1"/>
+              <area BEGIN="BL_678.4" BETYPE="IDREF" FILEID="alto_00339_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmZ" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.20" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.21" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.9" BETYPE="IDREF" FILEID="alto_00338_0"/>
+            <area BEGIN="BL_676.1" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-12" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.22" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_670.1" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-10" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.18" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-11" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.19" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aio" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.12" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.13" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b678-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.5" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuD" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.10" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.11" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b677-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_677.5" BETYPE="IDREF" FILEID="alto_00339_0"/>
+            <area BEGIN="BL_678.1" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARi" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_678.6" BETYPE="IDREF" FILEID="alto_00339_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6u" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.2" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.5" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b672-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_672.6" BETYPE="IDREF" FILEID="alto_00336_1"/>
+            <area BEGIN="BL_673.1" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.7" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            <area BEGIN="BL_671.1" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b670-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_670.6" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.8" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.7" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-10" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.10" BETYPE="IDREF" FILEID="alto_00338_1"/>
+            <area BEGIN="BL_677.1" BETYPE="IDREF" FILEID="alto_00339_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.5" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.8" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.9" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkM" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.14" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.7" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.6" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b675-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_675.5" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.8" BETYPE="IDREF" FILEID="alto_00336_0"/>
+            <area BEGIN="BL_672.1" BETYPE="IDREF" FILEID="alto_00336_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amr" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.15" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.16" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.6" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.5" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.6" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-4" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.5" BETYPE="IDREF" FILEID="alto_00337_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b676-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_676.6" BETYPE="IDREF" FILEID="alto_00338_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b673-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_673.7" BETYPE="IDREF" FILEID="alto_00337_0"/>
+            <area BEGIN="BL_674.1" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.6" BETYPE="IDREF" FILEID="alto_00337_1"/>
+            <area BEGIN="BL_675.1" BETYPE="IDREF" FILEID="alto_00338_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b674-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_674.5" BETYPE="IDREF" FILEID="alto_00337_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-8" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.8" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.9" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-9" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.17" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b671-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_671.7" BETYPE="IDREF" FILEID="alto_00336_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-5" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.5" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-6" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.6" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-7" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.7" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-3" BETYPE="IDREF" FILEID="casebody_0085"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.4" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

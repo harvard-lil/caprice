@@ -1,0 +1,704 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0053" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Union Brewing Co. v. Inter­state Bank &amp; Trust Co.">Union Brewing Company et al., Appellees, v. Inter­state Bank &amp; Trust Company, Appellant</name>
+          <docketnumber>Gen. No. 5,005</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 415</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="7e41fbae70ccbc2010312b14ed6b46f6" CHECKSUMTYPE="MD5" SIZE="44368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="b0562bec31aedfd19d43b3c7abf6cdf7" CHECKSUMTYPE="MD5" SIZE="54852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00216_1.tif"/>
+      </file>
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="54ac4b808b3e7dc204094eec63cfbe29" CHECKSUMTYPE="MD5" SIZE="53850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00217_0.tif"/>
+      </file>
+      <file ID="tiff_00217_1" MIMETYPE="image/tiff" CHECKSUM="7cc78d80c69e2547eacf855c365447ad" CHECKSUMTYPE="MD5" SIZE="53224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00217_1.tif"/>
+      </file>
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="416bd83efd6eb84c851e52f8304105ef" CHECKSUMTYPE="MD5" SIZE="54722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00218_0.tif"/>
+      </file>
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="41cbca5249766f629bc4c95cb3f42a78" CHECKSUMTYPE="MD5" SIZE="53726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00218_1.tif"/>
+      </file>
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="3f7d52ab1eb8db33fc76164259903931" CHECKSUMTYPE="MD5" SIZE="47656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00219_0.tif"/>
+      </file>
+      <file ID="tiff_00219_1" MIMETYPE="image/tiff" CHECKSUM="eca46a14ec20e4a183a76a393b584660" CHECKSUMTYPE="MD5" SIZE="51948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00219_1.tif"/>
+      </file>
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="a90eb35708f72823c372560c233f8edc" CHECKSUMTYPE="MD5" SIZE="53612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_0.tif"/>
+      </file>
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="2b77087a615060d3efcf0982580deb84" CHECKSUMTYPE="MD5" SIZE="43630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00216_0" MIMETYPE="image/jp2" CHECKSUM="0e5c3de0022214ca286406c0a00f2527" CHECKSUMTYPE="MD5" SIZE="2341593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00216_0.jp2"/>
+      </file>
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="862d1547e42799749de5e72576388833" CHECKSUMTYPE="MD5" SIZE="2378274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00216_1.jp2"/>
+      </file>
+      <file ID="jp2_00217_0" MIMETYPE="image/jp2" CHECKSUM="4c601c7d8c4e7ca7bc0d122a0d665572" CHECKSUMTYPE="MD5" SIZE="2391559">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00217_0.jp2"/>
+      </file>
+      <file ID="jp2_00217_1" MIMETYPE="image/jp2" CHECKSUM="e31e1d07e6831eb7e9e41e451a109f6a" CHECKSUMTYPE="MD5" SIZE="2356629">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00217_1.jp2"/>
+      </file>
+      <file ID="jp2_00218_0" MIMETYPE="image/jp2" CHECKSUM="f9de098bcb78babe8116f011ab642795" CHECKSUMTYPE="MD5" SIZE="2410716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00218_0.jp2"/>
+      </file>
+      <file ID="jp2_00218_1" MIMETYPE="image/jp2" CHECKSUM="84d6bf620733207913db43be4d403dc1" CHECKSUMTYPE="MD5" SIZE="2374236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00218_1.jp2"/>
+      </file>
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="b7e6a82f4fba4b6c38b43949914605e7" CHECKSUMTYPE="MD5" SIZE="2368338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00219_0.jp2"/>
+      </file>
+      <file ID="jp2_00219_1" MIMETYPE="image/jp2" CHECKSUM="142478e49f6740bb83c7b225a32403d7" CHECKSUMTYPE="MD5" SIZE="2352666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00219_1.jp2"/>
+      </file>
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="45ce770d5e256a6c4d0bc092450de0e9" CHECKSUMTYPE="MD5" SIZE="2409254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_0.jp2"/>
+      </file>
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="af9e20a1f935d9690f4fd934f0c8f9cd" CHECKSUMTYPE="MD5" SIZE="2276932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00220_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00216_0" MIMETYPE="text/xml" CHECKSUM="ba44f7487297a728623e7c7e63a5d3da" CHECKSUMTYPE="MD5" SIZE="80901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00216_0.xml"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="e0fd799a11cbcc99ed41f16c33f5d29e" CHECKSUMTYPE="MD5" SIZE="87532">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00216_1.xml"/>
+      </file>
+      <file ID="alto_00217_0" MIMETYPE="text/xml" CHECKSUM="3c5e3b739c5734e7d52d82854bc17307" CHECKSUMTYPE="MD5" SIZE="86535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00217_0.xml"/>
+      </file>
+      <file ID="alto_00217_1" MIMETYPE="text/xml" CHECKSUM="0df016ebcd64e17d5a7ecab73cf38b89" CHECKSUMTYPE="MD5" SIZE="91031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00217_1.xml"/>
+      </file>
+      <file ID="alto_00218_0" MIMETYPE="text/xml" CHECKSUM="576d68b0cd67bfbb3df0630828c5f524" CHECKSUMTYPE="MD5" SIZE="92654">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00218_0.xml"/>
+      </file>
+      <file ID="alto_00218_1" MIMETYPE="text/xml" CHECKSUM="923de89f13d9f2cdbafe631b8114c869" CHECKSUMTYPE="MD5" SIZE="91695">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00218_1.xml"/>
+      </file>
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="3e2f393a21e14298f9919050793eccaf" CHECKSUMTYPE="MD5" SIZE="79871">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00219_0.xml"/>
+      </file>
+      <file ID="alto_00219_1" MIMETYPE="text/xml" CHECKSUM="2538be558232e525672f842c1449b334" CHECKSUMTYPE="MD5" SIZE="87516">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00219_1.xml"/>
+      </file>
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="05e7719e12245b6dc21352cc768c5439" CHECKSUMTYPE="MD5" SIZE="85490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00220_0.xml"/>
+      </file>
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="0ae36f0c50bfb5e343570df182ef9493" CHECKSUMTYPE="MD5" SIZE="82980">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00220_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="424" firstpage="415">
+              <docketnumber pgmap="431" id="b431-7">Gen. No. 5,005.</docketnumber>
+              <parties pgmap="431" id="b431-6">Union Brewing Company et al., Appellees, v. Inter­state Bank &amp; Trust Company, Appellant.</parties>
+              <decisiondate pgmap="431" id="AnY">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="431" id="AVN">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="437" id="b437-5">Jack, Irwin, Jack &amp; Miles, for appellant.</attorneys>
+              <attorneys pgmap="437" id="b437-6">Maple &amp; Lovett, for appellees; John S. Stevens, of counsel.</attorneys>
+              <summary pgmap="431" id="b431-11">Bill of interpleader. Appeal from the Circuit Court of Peoria county; the Hon. Nicholas E. Worthington, Judge, presiding.</summary>
+              <disposition pgmap="431" id="Am_">Reversed and remanded with directions.</disposition>
+              <headnotes pgmap="431" id="b431-8">1. Negotiable instruments—when part of signature surplusage. A note signed in the name of a corporation by an individual as president will be deemed as only signed by such individual where the payee of such note knows that no such corporation exists and that the corporate name is only one assumed by the person signing as president for purposes of business convenience.</headnotes>
+              <headnotes pgmap="431" id="b431-9">2. Pledges—when collateral notes secure other indebtedness. A collateral note signed by an individual under a fictitious cor­porate name is an individual obligation and, if it provides that it shall secure other indebtedness of the maker, it covers any other indebtedness due to the payee from the maker, and this notwith­standing such collateral note refers to the other liability by the word “ours.”</headnotes>
+              <headnotes pgmap="431" id="b431-10">3. Pledges—when admission of partner by pledgor does not affect rights of pledgee. The renewal of an old note is not a payment thereof and such a transaction effected after the admission of a partner by the pledgor does not affect the rights of the pledgee.</headnotes>
+              <p pgmap="431(52) 432(352) 433(137)" id="b431-12">Statement by the Court. On December 10, 1906, the Union Brewing Company and the firm of S. &amp; A. Woolner filed their bill of interpleader against the Interstate Bank &amp; Trust Company (hereinafter called the Trust Company), John Gr. Allen, as trustee in bankruptcy of E. Lewis Kelley individually and as sur­viving partner of George H. Simmons, late partners under the name of People’s Savings Bank, and Arthur Tapping as administrator of the estate of said George H. Simmons, deceased. The bill set up that the Union Brewing Company on or about December 29, 1905, de­livered its note, dated December 9, 1905, payable to People’s Savings Bank one year after date, for $9,472.32 with interest at six per cent, per annum from date until paid, which note was guaranteed by S. &amp; A. Woolner; that said note is now due and complainants are ready to pay it, and it will greatly injure their financial credit if it is protested. The bill then set up that the Trust Company claims to hold and own said note as collateral security for various notes described, given by People’s Savings Bank and George H. Sim­mons, who was engaged in business under said name of People’s Savings Bank; that E. Lewis Kelley and George H. Simmons afterwards became partners as .People’s Savings Bank; that Simmons died February 6, 1906, and Arthur Tapping became administrator of his estate and claims that part of the proceeds of said note is due to him; that on February 9, 1906, bank­ruptcy proceedings were begun against Kelley and on February 25, 1906, he was adjudged a bankrupt, per­sonally and as surviving partner of Simmons, and John G. Allen was appointed trustee in bankruptcy of said estate, and that said trustee claims' to be the owner of said note. The bill asked that complainants be permitted to pay into court the money due on said note, and that the defendants interplead and settle their demands thereto, and that the defendants be restrained from suing or protesting the note. An in­junction was issued upon complainants paying the money into court, and the several defendants filed answers setting up their respective claims. The Trust Company asserted that it held said note of the Union Brewing Company and S. &amp; A. Woolner as collateral security for a note of $5,000 due it from George H. Simmons under the name of People’s Sav­ings Bank, and also for several other notes for $4,000, $1,000, $500 and $2,500, signed by George H. Simmons by his own proper name. The cause went to a master, who took and reported the proofs with his conclusions that the Trust Company was entitled to be paid out of said fund one certain note of $5,000, with interest, and that the rest of the fund was owing to the trustee in bankruptcy. The Trust Company filed objections because it was not held entitled to be also paid its other notes signed by George H. Simmons by his own proper name. These objections were overruled. They were renewed as exceptions,before the court, and were overruled, and a decree was entered pursuant to the master’s report. This is an appeal by the Trust Com­pany from that decree.</p>
+              <p pgmap="433" id="b433-4">Confusion was caused by the introduction in evi­dence of numerous other notes, which it is not now claimed are involved in this case, many of them of the same dates and amounts and between the same parties as the notes which are here in issue. We shall en­deavor to refer only to those which we understand to be the subject of this suit. The transactions begin before the particular instruments described in the bill of complaint.</p>
+              <p pgmap="433" id="b433-5">During the year 1905 George H. Simmons was president, and W. M. Wood was vice-president, and Peter Anicker was cashier of the Trust Company, which was engaged in a banking business. Prior to August 26, 1905, Jacob Woolner was the owner of a banking business in Peoria, which was conducted un­der the name of the People’s Savings Bank. On that day he sold said business to George H. Simmons, and the latter took possession of the property and busi­ness on September 9, 1905. On September 15, 1905, Simmons borrowed $5,000 from the Trust Company, and gave therefor a note of that date for that sum due ninety days after date, with interest at seven per cent, per annum, the rest of which note read as fol­lows :</p>
+              <p pgmap="434" id="b434-4">“Having deposited with said bank as collateral se­curity, for payment of this or any other liability or liabilities of ours to said bank, due or to become due, or that may be hereafter contracted, the following property, viz: Note, the Union Brewing Co., en­dorsed by S. &amp; A. Woolner, and dated September 9th, 1905, for $9,472.32, payable 3 months after date,' with 6 per cent interest from date, to the People’s Savings Bank and endorsed by them, the market value of which is now $9,472.32; with the right to call for additional security should the same decline; and on failure to respond, this obligation shall be deemed to be due and payable on demand, with full power and authority to sell and assign and deliver the whole of said property, or any part thereof, or any substitutes therefor, or any additions thereto, at public or private sale, at the option of said bank, or its assigns, and with the right to be purchasers themselves at such public or private sale, on the non-performance of this promise or non­payment of any of the liabilities above mentioned, or at any time or times thereafter, without advertisement or notice. And after deducting all legal or other costs and expenses for collection, sale and delivery, to ap­ply the residue of the proceeds of such sale or sales so to be made to pay any, either or all of said liabili­ties, as said bank, or its president or cashier, shall deem proper, returning the overplus to the under­signed.</p>
+              <p pgmap="434" id="b434-6">People’s Savings Bank,</p>
+              <p pgmap="434" id="b434-7">Geo. H. Simmons, Pres.”</p>
+              <p pgmap="434(100) 435(378) 436(111)" id="b434-8">At the same time Simmons delivered to the Trust Company the nóte pledged in the instrument just re­cited, being exhibit “3”, appearing on page 186 of this record, a note dated September 9, 1905, for $9,472.32, with interest at six per cent, and contain­ing a provision that it might be renewed for three months at maturity, signed by the Union Brewing Company, payable to the order of the People’s Sav­ings Bank, and endorsed by S. &amp; A. Woolner and by “People’s Savings Bank, Geo. H. Simmons, Pres.” At that time Simmons was indebted to the Trust Com­pany upon a note for $4,000 with interest at the rate of six per cent., dated July 26, 1905, due one year after date and endorsed by Geo. H. Simmons, V. A. Goeb­bels, D. S. Long, H. W. Danforth and Marcus Whit­ing. On December' 1, 1905, Simmons became indebted to the Trust Company upon three other notes of that date, each due six months after date; one being ex­hibit “A3” on page 178 of the record, for $1,000 with interest at five per cent., signed by G. H. Simmons and George B. Powell; another being exhibit “A7” on page 182 of the record, for $2,500 with interest at five per cent., signed by G. H. Simmons and A. H. Thomp­son; and the third being exhibit “A8” on page 183 of the record for $500 with interest at five per cent., signed by G. H. Simmons and P. L. Mounce. On De­cember 14, 1906, Simmons renewed his note of Sep­tember 15, 1905, for $5,000 by giving another instru­ment of the same date and tenor as the one above set out, except that its maturity was eighty days after date, and with the same pledge, describing the same note for $9,472.32. The signature was “People’s Sav­ings Bank, Geo. H. Simmons, Pres.” as to the first $5,000 note and pledge agreement above recited. On December 19, 1905, Simmons entered into a partner­ship agreement with E. Lewis Kelley, “to own the' banking business and the building of the People’s Sav­ings Bank”, and by that agreement Simmons agreed to transfer to Kelley a one-half interest in the build­ing and the banking business of the' People’s Savings Bank. The note of the Union Brewing Company for $9,472.32, of date September 9, 1905, and due in three months, which had been so assigned to the Trust Com­pany as collateral security and which had been specifi­cally described in each of the written pledges above recited, was past due when this instrument of Decem­ber 14, containing the second pledge, was executed, but it had -not then been renewed on account of the absence of one -of the Woolners from Peoria. On December 29 or 30, 1905, the renewal of that note dated Decern­her 9, 1905, payable one year after date to the order of the People’s Savings Bank, for $9,472.32, with in­terest at six per cent., signed by the Union Brewing Company and guaranteed by S. &amp; A. Woolner, being-­exhibit “1” on page 184 of the record, was delivered to the Trust Company in lieu of and in substitution for the original note, exhibit “3”, and the original note for $9,472.32 of date September 9, 1905, being exhibit “3”, was surrendered to the Union Brewing Company. Said note Exhibit 1 remained in the pos­session of the Trust Company at the time of the hear­ing and decree in this case.</p>
+              <p pgmap="436(261) 437(113)" id="b436-5">It is the claim of the Trust Company .that by the language of the first $5,000 note of September 15, 1905, pledging said Union Brewing Company note as collateral, said last named note was held as security not merely for said $5,000 note but also for said $4,000 note due to said Trust Company, of date July 26, 1905, and that by virtue of the new contract and pledge embodied in the renewal note of $5,000 of De­cember 14, 1905, said collateral note was held as se­curity not only for said $5,000 note but also for said respective notes of Simmons of date July 26, 1905, for $4,000, and for said three notes of December 21, 1905, for $1,000, $2,500 and $500, respectively; and that when on December 29 or 30, 1905, the new Union Brewing Company’s note for $9,472.32, dated Decem­ber 9, 1905, and due in one year, was substituted in lieu of the original pledge, it held said last named note as collateral security for all said notes of Geo. H. Simmons, and that too, although this last note pledged did not bear the endorsement of the People’s Savings Bank or Geo. H. Simmons. The trustee in bankruptcy claims, and the master and the court held, that said pledges only secured notes held by the Trust Com­pany signed by the name “People’s Savings Bank,” and did not secure the other four notes above recited, signed by Geo. H. Simmons by his own proper name, and that the surplus of the money in court, after satis­fying said one note of $5,000 (upon which there was a small credit), was payable to the trustee in bank­ruptcy, who was trustee not only for Kelley individu­ally, but also for Kelley as surviving partner of Sim­mons in the business conducted after December 19, 3905, by them as partners under the name of People’s Savings Bank. Simmons died February 6, 1906, and his administrator claims that an interest in said last note of the Union Brewing Company, executed De­cember 29 or 30, 1905, as of December 9, 1905, be­longs to him as administrator, but his claim was ig­nored by the court and he has not assigned error.</p>
+              <opinion type="majority">
+                <author pgmap="437" id="b437-7">Mr. Justice Dibell</author>
+                <p pgmap="437" id="AMH">delivered the opinion of the court.</p>
+                <p pgmap="437(177) 438(125)" id="b437-8">From September 9 to December 19, 1905, covering the time when the first $5,000 note and the $5,000 note in renewal thereof were executed in the name of “Peo­ple’s Savings Bank, Geo. H. Simmons, Pres.” and delivered to the Trust Company, wifh the pledge agreement contained in each, George H. Simmons and he alone was doing business under the name of “Peo­ple’s Savings Bank.” If any persons who dealt at that place of business believed it to be a corporation and were deceived thereby to their injury (as to which our attention is not called to any evidence in this rec­ord), it may well be that as between Simmons and such persons he would be estopped to deny the cor­porate character of the business. No such case is presented here. The vice-president and the cashier of the Trust Company were fully informed by Sim­mons before the Trust Company made this loan of $5,000 to him, and. again before the note was re­newed, that he, and he alone, was doing business un­der that name. As between Simmons and the Trust Company the case stands exactly as if the instruments had been signed simply “Geo. H. Simmons.” There was no corporation named “People’s Savings Bank.” Simmons was not president of any such corporation. These facts were well known to the vice-president and to the cashier of the Trust Company when they made this loan and when they renewed it. Those words in the signature were fictitious, or were as­sumed for business purposes, and were well known by said officers of the Trust Company not to represent any fact. The-words “Geo. H. Simmons” in the sig­nature were all that was actual and the officers of the trust company knew that fact when they accepted the paper.</p>
+                <p pgmap="438(228) 439(54)" id="b438-5">The agreement to hold said note for $9,472.32 as col­lateral security provides that it is held, not only for the payment of that note, but also as security for the payment of “any other liability or liabilities of ours to said bank due or to become due or that may be hereafter contracted.” It also provides that when the collateral has been reduced to cash the Trust Company shall “pay any, either or all of said liabilities,” out of the proceeds of said collateral. We fail to see how language could be employed to bind said collateral note more fully for all other liabilities which Sim­mons then owed the Trust Company or which he might thereafter contract with it. The word “ours” in the phrase “liability or liabilities of ours” is plural, it is true, but even if the People’s Savings Bank had been a corporation, the singular number would have been the proper one to use unless the other liabilities were also intended to be secured. These words in the form are printed, and obviously the printed blank was so framed with the intention that it should be equally binding whether signed by one person or by more than one. We are of opinion that Simmons was the only signer of these notes and agreements pledg­ing collateral, and that they secured all the notes which the Trust Company held against Simmons at .the time they were executed. Such an agreement to secure not only a particular debt but also any and all undescribed indebtedness was supported in Buchanan v. International Bank, 78 Ill. 500; Walker v. Abt, 83 Ill. 226; and Bartelott v. International Bank, 119 Ill. 259.</p>
+                <p pgmap="439" id="b439-4">The second pledge agreement had been executed and delivered by Simmons to the Trust Company before Kelley became his partner under the name People’s Savings Bank. The indebtedness from the Union Brewing Company to Simmons under the name Peo­ple’s Savings Bank had therefore been pledged to the Trust Company for all of Simmons’ debts to it be­fore Kelley had acquired any interest in the assets of the business conducted under the name People’s Sav­ings Bank. The subsequent partnership gave him no interest in the debt so pledged, as against the claims for whose payment it was pledged. The fact that the note of the Union Brewing Company so pledged and deposited as collateral was afterwards renewed, and the time of payment extended, and the new Union Brewing Company note substituted for the one pre­viously held in pledge, and that this substitution, though dated before the partnership, was not actually effected till after the partnership, does not alter the rights of the Trust Company. The debt which the Union Brewing Company owed had been pledged be­fore Kelley went into the business, and the mere giv­ing of a new note in substitution for the old did not pay the old debt nor create a new debt in which Kelley had an interest, as against the claims for which it had been pledged. Each pledge agreement expressly pro­vided for substitutes for said original pledged note.</p>
+                <p pgmap="439(51) 440(25)" id="b439-5">We are therefore of opinion that the Trust Com­pany was entitled to a decree for the payment of all of its notes against Simmons out of the fund in court. Those debts exceed the amount of the fund pledged, and there would be no surplus for the trustee in bank­ruptcy. The decree is therefore reversed and the cause remanded to the court below with directions to enter a decree in conformity with this opinion.</p>
+                <p pgmap="440" id="b440-5">Reversed and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="431" ORDERLABEL="415" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jp2_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.3" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.2" BETYPE="IDREF" FILEID="alto_00216_0"/>
+              <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="416" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.3" BETYPE="IDREF" FILEID="alto_00216_1"/>
+              <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="433" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jp2_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.2" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+              <area BEGIN="BL_433.4" BETYPE="IDREF" FILEID="alto_00217_0"/>
+              <area BEGIN="BL_433.7" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="434" ORDERLABEL="418" TYPE="page">
+        <fptr FILEID="tiff_00217_1"/>
+        <fptr FILEID="jp2_00217_1"/>
+        <fptr FILEID="alto_00217_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.1" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.2" BETYPE="IDREF" FILEID="alto_00217_1"/>
+              <area BEGIN="BL_434.3" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="435" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jp2_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.3" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.2" BETYPE="IDREF" FILEID="alto_00218_0"/>
+              <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="436" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jp2_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.2" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.3" BETYPE="IDREF" FILEID="alto_00218_1"/>
+              <area BEGIN="BL_436.4" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="437" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.2" BETYPE="IDREF" FILEID="alto_00219_0"/>
+              <area BEGIN="BL_437.4" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="438" ORDERLABEL="422" TYPE="page">
+        <fptr FILEID="tiff_00219_1"/>
+        <fptr FILEID="jp2_00219_1"/>
+        <fptr FILEID="alto_00219_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.2" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.3" BETYPE="IDREF" FILEID="alto_00219_1"/>
+              <area BEGIN="BL_438.4" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="439" ORDERLABEL="423" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.2" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+              <area BEGIN="BL_439.4" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="440" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.2" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.3" BETYPE="IDREF" FILEID="alto_00220_1"/>
+              <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.6" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.5" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am_" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.12" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_431.13" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.7" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-9" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.9" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.8" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.10" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_438.1" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVN" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.11" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.14" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.7" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.6" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.5" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.5" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_439.1" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.4" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.10" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.5" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.16" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            <area BEGIN="BL_433.1" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.7" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.1" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            <area BEGIN="BL_436.1" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.5" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            <area BEGIN="BL_437.1" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.5" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMH" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.8" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_437.9" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnY" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.15" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.6" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_440.1" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.6" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

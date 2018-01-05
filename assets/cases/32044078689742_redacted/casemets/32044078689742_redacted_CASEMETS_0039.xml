@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0039" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People ex rel. Myers v. Haas">People of the State of Illinois ex rel. Herman B. Myers, Plaintiff in Error, v. Joseph F. Haas, County Clerk of Cook county, Defendant in Error</name>
+          <docketnumber>Gen. No. 13,952</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 283</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="8b3b0c78778fe4e15bedb823f2c23f7b" CHECKSUMTYPE="MD5" SIZE="46090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="7be6e76d39587167bebb3871f1732f71" CHECKSUMTYPE="MD5" SIZE="52524">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_1.tif"/>
+      </file>
+      <file ID="tiff_00152_0" MIMETYPE="image/tiff" CHECKSUM="f2df532c2ffab0365d33471197ba1c72" CHECKSUMTYPE="MD5" SIZE="54036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00152_0.tif"/>
+      </file>
+      <file ID="tiff_00152_1" MIMETYPE="image/tiff" CHECKSUM="e2e855ab87bdaa1a66a421bcd8fb4799" CHECKSUMTYPE="MD5" SIZE="48094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00152_1.tif"/>
+      </file>
+      <file ID="tiff_00153_0" MIMETYPE="image/tiff" CHECKSUM="0d3cfc51f78ca28ac69b60c1158da042" CHECKSUMTYPE="MD5" SIZE="52846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00153_0.tif"/>
+      </file>
+      <file ID="tiff_00153_1" MIMETYPE="image/tiff" CHECKSUM="748983a47f71750f1c8cb65c0cf8470e" CHECKSUMTYPE="MD5" SIZE="53476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00153_1.tif"/>
+      </file>
+      <file ID="tiff_00154_0" MIMETYPE="image/tiff" CHECKSUM="f51fe450c262d0586266439d14c34ce3" CHECKSUMTYPE="MD5" SIZE="53174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00154_0.tif"/>
+      </file>
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="2428c4590e05cb3718be21652297a7fd" CHECKSUMTYPE="MD5" SIZE="43912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00154_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="77253003b6e9a68ff2b13ba008bae01e" CHECKSUMTYPE="MD5" SIZE="2403999">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_0.jp2"/>
+      </file>
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="c60157a06ebc0878eaec81a35783fbf6" CHECKSUMTYPE="MD5" SIZE="2409102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00151_1.jp2"/>
+      </file>
+      <file ID="jp2_00152_0" MIMETYPE="image/jp2" CHECKSUM="447b31024b9cb783211bb0084a91c4cf" CHECKSUMTYPE="MD5" SIZE="2466407">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00152_0.jp2"/>
+      </file>
+      <file ID="jp2_00152_1" MIMETYPE="image/jp2" CHECKSUM="20291ec847e72bda07ad2141c5f19298" CHECKSUMTYPE="MD5" SIZE="2389250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00152_1.jp2"/>
+      </file>
+      <file ID="jp2_00153_0" MIMETYPE="image/jp2" CHECKSUM="93997186c8e693153578265cb5fc0009" CHECKSUMTYPE="MD5" SIZE="2446540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00153_0.jp2"/>
+      </file>
+      <file ID="jp2_00153_1" MIMETYPE="image/jp2" CHECKSUM="efc99d534d1b0e2a518e44fa9a65d86f" CHECKSUMTYPE="MD5" SIZE="2411307">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00153_1.jp2"/>
+      </file>
+      <file ID="jp2_00154_0" MIMETYPE="image/jp2" CHECKSUM="6096d40b7931ca71e411323df7120a21" CHECKSUMTYPE="MD5" SIZE="2449671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00154_0.jp2"/>
+      </file>
+      <file ID="jp2_00154_1" MIMETYPE="image/jp2" CHECKSUM="d3abd1d332a9dc19ae1debfc4d1c3797" CHECKSUMTYPE="MD5" SIZE="2344218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00154_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="d2596c5343b05d6a7c688464a1c02b71" CHECKSUMTYPE="MD5" SIZE="79554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00151_0.xml"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="5f53cbf56e3a8b13d0c2e55ad83947ff" CHECKSUMTYPE="MD5" SIZE="101924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00151_1.xml"/>
+      </file>
+      <file ID="alto_00152_0" MIMETYPE="text/xml" CHECKSUM="3f6c5c2c75c2777bbe4e2c949a717d80" CHECKSUMTYPE="MD5" SIZE="88566">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00152_0.xml"/>
+      </file>
+      <file ID="alto_00152_1" MIMETYPE="text/xml" CHECKSUM="55abe7378d4a0df7c52f7466528d38fe" CHECKSUMTYPE="MD5" SIZE="83893">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00152_1.xml"/>
+      </file>
+      <file ID="alto_00153_0" MIMETYPE="text/xml" CHECKSUM="c7a38f2a7b62d3fa7bb8b084d3774bf6" CHECKSUMTYPE="MD5" SIZE="89974">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00153_0.xml"/>
+      </file>
+      <file ID="alto_00153_1" MIMETYPE="text/xml" CHECKSUM="eb2c52bbd106d24b678b6dfdabdc0657" CHECKSUMTYPE="MD5" SIZE="87167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00153_1.xml"/>
+      </file>
+      <file ID="alto_00154_0" MIMETYPE="text/xml" CHECKSUM="f723d84e804ce38adecd83dc51c3b566" CHECKSUMTYPE="MD5" SIZE="91320">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00154_0.xml"/>
+      </file>
+      <file ID="alto_00154_1" MIMETYPE="text/xml" CHECKSUM="bfc3e42f48bc1832f5d5955f3874bea3" CHECKSUMTYPE="MD5" SIZE="73037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00154_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="290" firstpage="283">
+              <docketnumber id="b301-7" pgmap="301">Gen. No. 13,952.</docketnumber>
+              <parties id="b301-6" pgmap="301">People of the State of Illinois ex rel. Herman B. Myers, Plaintiff in Error, v. Joseph F. Haas, County Clerk of Cook county, Defendant in Error.</parties>
+              <decisiondate id="AFN" pgmap="302">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b304-4" pgmap="304">Thomas E. D. Bradley and Samuel E. Harper, for plaintiff in error.</attorneys>
+              <attorneys id="b304-5" pgmap="304">Barker, Church &amp; Shepard, for defendant in error; Frank L. Shepard, of counsel.</attorneys>
+              <summary id="b302-8" pgmap="302">Mandamus. Error to the Circuit Court of Cook county; the Hon. Richard W. Clifford, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="Aa5" pgmap="302">Reversed and re­manded with directions.</disposition>
+              <headnotes id="b301-8" pgmap="301">1. Public offices—when two, cannot be held at the same time. A single person cannot at the same time hold two public offices if incompatibility exists between the two so held.</headnotes>
+              <headnotes id="b301-9" pgmap="301(18) 302(63)">2. Public offices—how incompatability between, determined. In connection with the right of a single incumbent to hold two public offices incompatibility between such offices may arise (1) when the written law of a state specifically prohibits the occupant of either one of the offices in.question from holding the other and (2) where the duties of either office are such that the holder of that office cannot in every instance, properly and fully, faithfully perform all the duties of the other office.</headnotes>
+              <headnotes id="b302-5" pgmap="302">3. Public offices—what two offices may not he held. By con­stitutional enactment incompatibility exists between the office of state senator and that of clerk of the Municipal Court of - Chicago and the same person cannot hold both offices at the same time; likewise, is there incompatibilty between the two offices arising by virtue of the duties cast upon the incumbents holding them. •</headnotes>
+              <headnotes id="b302-6" pgmap="302">4. Public offices—what amounts to resignation. The accept­ance of a second public office which is incompatible with another public office held by the same person, operates ipso facto as a resignation from the first office.</headnotes>
+              <headnotes id="b302-7" pgmap="302">5. Mandamus—when lies against county cleric. Mandamus lies to compel the county clerk to notify the governor that a vacancy exists in the office of state senator when he becomes apprised that a state senator has been elected to the office of clerk of the Muni­cipal Court.</headnotes>
+              <p id="b302-9" pgmap="302">Statement by the Court. On November 8, 1904, Homer E. Galpin was elected state senator from the second senatorial district in this state and on January 11, 1905, he qualified and took his seat. When the petition herein was filed his term of office had not yet expired by the lapse of time. At the election held No­vember 6, 1906, Galpin was elected clerk of the Munic­ipal Court of the City of Chicago, and on December 3, 1906, he duly qualified as such clerk and entered upon the duties of that office. It is contended that Galpin can­not hold both offices and that his act in accepting the clerkship of the Municipal Court amounted to a resig­nation, at that time, of the state senatorship.</p>
+              <p id="b302-11" pgmap="302(36) 303(257)">To test this contention the petition for mandamus now under consideration was filed, on February 23, 1907. The law of this state imposes upon the county clerk of the county in which a state senator resides, the duty to notify the governor when a vacancy occurs in the office. Upon receiving such notification it be­comes the duty of the governor to call an election to fill the vacancy, unless there shall neither then be a session of the General Assembly nor be any session thereof before the next general election. Rev. Stat. chap. 46, sec. 129. By statute it is also provided that whenever it is alleged that a vacancy in any office exists the officer whose duty it is to fill the vacancy, by ordering an election, shall have the power to deter­mine whether or not the facts occasioning a vacancy exist, Ib. sec. 126. The governor, not the county clerk, has the power to determine whether a vacancy exists in a state senatorship. But the governor acts upon information from the county clerk of the proper county. In the petition herein Cook county is shown to be the county wherein State Senator Galpin resides and, consequently, it became the duty of the county clerk of that county to notify the governor when a vacancy occurred in the second senatorial district. Evidently being in doubt regarding his duty in. the premises, as not he but the governor possessed the power to determine whether a vacancy existed, the county clerk of Cook county did not notify the governor of any vacancy in the senatorship of this district when Galpin accepted the Municipal Court clerkship. There­upon this petition for a mandamus requiring the county clerk to notify the governor was filed.</p>
+              <p id="b303-4" pgmap="303">This petition sets up that the respondent, Joseph F. Haas, is the county clerk of Cook county, that it is his duty to notify the governor that there is a vacancy in this senatorship and that he has and does refuse to do so. The petition prays for a writ of mandamus commanding Joseph F. Haas, county clerk of Cook county, to forthwith notify the governor of the vacancy. A general demurrer to the petition was sustained in the Circuit Court and, petitioner electing to stand by his petition, the- same was dismissed at petitioner’s costs. From the order of dismissal this writ of error is prosecuted.</p>
+              <opinion type="majority">
+                <author id="b304-6" pgmap="304">Mr. Justice Chytraus</author>
+                <p id="Aft" pgmap="304">delivered the opinion of the court.</p>
+                <p id="b304-7" pgmap="304">There is no question in this case as to the election of Homer K. Galpin to the office of state senator nor as to his qualification to hold the office. Indeed the contention, by the petitioner, that Galpin by his volun­tary act and conduct resigned the state senatorship, eliminates the questions of his election as such and of his possessing the requisite qualifications for hold­ing the office. The sole question is: Has he by his voluntary act resigned? Neither is there any ques­tion of “ousting” Mr. Galpin from the senatorship involved. This record now before us does not disclose to us that Mr. Galpin is seeking to hold two public offices and to draw two salaries from the people at the same time. He is not a party to this proceeding, and from this record we do not know whether or not he claims to be senator. So far as this record is con­cerned he is passive. If he has resigned, then he does not hold the office of senator, but not because of any question in respect to his election or of his lacking in any qualification for the office.</p>
+                <p id="b304-8" pgmap="304(109) 305(100)">If there be incompatibility in the holding of the two offices, then Mr. Galpin must be held to have re­signed the senatorship. Incompatibility, in this con­nection, is present when the written law of a state specifically prohibits the occupant of either one of the offices in question from holding the other and, also, where the duties of either office are such that the holder of the office cannot in every instance, properly and fully, faithfully perform all the duties of the other office. This incompatibility may arise from multiplic­ity of business in the one office or the other, consid­erations of public policy or otherwise. Bacon’s Abridgement Vol. 7, Tit. “Officers”, K.; Rex v. Tiz­zard, 9 B. &amp; C., 418; 1 Dillon on Mun. Corp., p. 308-9, secs. 225-7 and note 4; McCrary on Elec., secs. 336 et seq. 4th Ed.; Mechem on Pub. Off., sec. 429; Dick­son v. People, 17 Ill. 191; People ex rel v. Hanifan, 96 Ill. 420; Packingham v. Harper, 66 Ill. App. 96. From these authorities it also appears that in case of incompatibility the acceptance of the second office is ipso facto a resignation of the first office. By his own action the officer expresses his voluntary resignation.</p>
+                <p id="b305-4" pgmap="305">In the constitution of the State of Illinois, Art. IV, sec. 3, we find the following provision: “No judge or clerk of any court * * * or person holding any lucrative office under the United States or this State * * * shall have a seat in the General Assembly”.</p>
+                <p id="b305-7" pgmap="305">This language is plain and to the point. Thereby a constitutional incompatibility is declared which for­bids one person from holding the offices of state senator and clerk of the Municipal Court at the same time. Twice did Mr. Galpin solemnly swear to obey this constitution, first, when sworn in as senator and again when he was sworn in as clerk of the Municipal Court. We cannot presume in Mr. Galpin any such mendacity as that when he took his oath of office as clerk of the Municipal Court he meant otherwise than to resign the senatorship.</p>
+                <p id="b305-9" pgmap="305">In the Revised Statutes of Illinois, chap. 37, sec. 277, we find the following provision:</p>
+                <p id="b305-10" pgmap="305">“That there shall be a clerk of said Municipal Court * * * . He shall perform, with respect to said Municipal Court the duties usually performed by clerks of courts of record. He shall give his personal attention to the performance of the duties of his office. He shall maintain an office in each district and each office shall be kept open for the transaction of busi­ness from eight o’clock a. m. to six o’clock p. m. of each working day during the year”.</p>
+                <p id="b305-13" pgmap="305(19) 306(202)">Under this act the clerk of the Municipal Court is not, of course, required personally to attend to the details of the work in his office. He is, however, mandatorily required to give his “personal” attention to the performance of the duties of his office. This he does not do if he is personally absent from his office so that he cannot be found there during busi­ness hours from day to day by the judges of the court, his subordinates, lawyers, litigants and the public. The Municipal Court is a court in which there is transacted a large amount of litigation and constant supervisory attention is consequently required. This the statute provides shall be “personal” and he can­not, therefore, rightfully delegate it to a subordinate. The term of his office is six years. The duties of a state senator are purely personal in their nature. During the sessions of the General Assembly his per­sonal presence is constantly required if he shall hon­estly and conscientiously perform the duties of that office. There may also be special sessions of the leg­islature. While the General Assembly is in session the duties of a state senator require his presence in Springfield. The duties of a clerk of the Municipal Court require his constant presence in Chicago. The incompatibility is clear.</p>
+                <p id="b306-5" pgmap="306(154) 307(279)">Counsel for defendant in error advance the argu­ment that the courts of the state may not try the title and qualifications of a senator to his seat in the sen­ate. Undoubtedly it is true, and we dare not gainsay it because the constitution so provides, that in the General Assembly each house shall “be the judges of the election returns, and qualifications of its mem­bers”. Far be it from us to undertake to adjudicate in respect to the election, the election returns or the qualifications of Mr. Galpin as a state senator. For the purposes of the present inquiry we may, however, determine, and not only that but it is our duty, under the "law, to determine and adjudicate upon the ques­tion, whether or not Mr. Galpin has voluntary re­signed the office of state senator of the second district. We are not to be deterred from performing our duty in this respect, as we understand it, because of the closeness, in subject, of that question to the other questions of title and qualification. We follow the law as laid down by our Supreme Court. A like closeness of subject arose in the case of People ex rel. Melville W. Fuller v. Hilliard, 29 Ill. 413. From that case it appears that our present Chief Justice of the Su­preme Court of the United 'States was candidate for a seat in the General Assembly in 1862. That case was an original petition for a mandamus requiring the respondent L. P. Hilliard, county clerk, to issue a certificate of election, which he refused to do be­cause of a defect in the affidavits of two of the judges and two of the clerks in a certain election precinct. The returning board, composed of Mr. Hilliard and two justices of the peace, refused to count the votes of this precinct and these votes not counted were decisive of the election. Objection was made to the issuance of the writ for the reason, among others, that the court had not jurisdiction, as the House of Representatives alone had jurisdiction. The court awarded a writ of mandamus. Among other things the court said: “Though the House of Representa­tives is the sole and exclusive judge of the qualifica­tions of its members, this application has no reference whatever to the point of qualifications”. The board of canvassers was merely a ministerial body, it was held, and in asking for its certificate the relator did not ask to be admitted to office, that is, to turn one man out and put the relator in.</p>
+                <p id="b307-4" pgmap="307(92) 308(231)">The statute makes it the duty of the governor to decide when a vacancy exists and to call an election. The statute makes it the duty of the county clerk to notify the governor. And in section 126 of chapter 46 of the statute it is said that whenever it is alleged that a vacancy in this office exists the officer whose duty it is to fill the vacancy by ordering an election shall have the power to determine whether or not the facts occasioning the vacancy exist. Of course in the last instance the senate decides upon the title of a senator to office. But nevertheless there is a duty resting upon the governor to act when a vacancy is alleged and the county clerk cannot, by refusing to perform his mere ministerial duty, prejudge the ques­tion which the statute requires the governor to decide. When application is made to a court to compel the county clerk to perform this ministerial duty it be­comes the duty of the court, before acting upon the application, to determine whether the situation exists which makes it the duty of the clerk to perform his ministerial duty. If, upon the notification from the county clerk, the governor decides that a vacancy exists and calls an election and at an election there­upon held a senator is elected, then, the question may come before the senate and what the senate deter­mines will be final. But the county clerk may not, by his refusal to act, prejudge the whole matter and pre­vent the question from ever coming before the senate. If the county clerk refuses to perform his merely ministerial act the court will compel him. See on this subject Rhode Island v. South Kingstown, 18 R. I., 258 (22 L. R. A. 65). Were it not so then the statutory provision giving the governor power of determination would be but an idle provision.</p>
+                <p id="b308-5" pgmap="308">There is no doubt as to the right of the relator to the writ of mandamus as prayed for. The judgment of the Circuit Court is reversed and the cause re­manded to that court, with directions that it overrule the demurrer of the defendant to the petition and pro­ceed with the cause in conformity with this opinion.</p>
+                <p id="b308-6" pgmap="308">Reversed and remanded with directions.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="301" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.3" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+              <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="284" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.2" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.3" BETYPE="IDREF" FILEID="alto_00151_1"/>
+              <area BEGIN="BL_302.4" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="303" ORDERLABEL="285" TYPE="page">
+        <fptr FILEID="tiff_00152_0"/>
+        <fptr FILEID="jp2_00152_0"/>
+        <fptr FILEID="alto_00152_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.3" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_303.2" BETYPE="IDREF" FILEID="alto_00152_0"/>
+              <area BEGIN="BL_303.4" BETYPE="IDREF" FILEID="alto_00152_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="304" ORDERLABEL="286" TYPE="page">
+        <fptr FILEID="tiff_00152_1"/>
+        <fptr FILEID="jp2_00152_1"/>
+        <fptr FILEID="alto_00152_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.1" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_304.2" BETYPE="IDREF" FILEID="alto_00152_1"/>
+              <area BEGIN="BL_304.3" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="305" ORDERLABEL="287" TYPE="page">
+        <fptr FILEID="tiff_00153_0"/>
+        <fptr FILEID="jp2_00153_0"/>
+        <fptr FILEID="alto_00153_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.3" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.2" BETYPE="IDREF" FILEID="alto_00153_0"/>
+              <area BEGIN="BL_305.4" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="306" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00153_1"/>
+        <fptr FILEID="jp2_00153_1"/>
+        <fptr FILEID="alto_00153_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.2" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.3" BETYPE="IDREF" FILEID="alto_00153_1"/>
+              <area BEGIN="BL_306.4" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="307" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00154_0"/>
+        <fptr FILEID="jp2_00154_0"/>
+        <fptr FILEID="alto_00154_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.3" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.2" BETYPE="IDREF" FILEID="alto_00154_0"/>
+              <area BEGIN="BL_307.4" BETYPE="IDREF" FILEID="alto_00154_0"/>
+              <area BEGIN="BL_307.6" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="308" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jp2_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.2" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.3" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.4" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.5" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            <area BEGIN="BL_308.1" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-13" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.9" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            <area BEGIN="BL_306.1" BETYPE="IDREF" FILEID="alto_00153_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.10" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_302.11" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aft" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.7" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            <area BEGIN="BL_304.8" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFN" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.12" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.9" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.10" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.7" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.8" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b303-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_303.5" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.5" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.7" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.6" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b306-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_306.5" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            <area BEGIN="BL_307.1" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.10" BETYPE="IDREF" FILEID="alto_00152_1"/>
+            <area BEGIN="BL_305.1" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.9" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.6" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.5" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b304-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_304.4" BETYPE="IDREF" FILEID="alto_00152_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.13" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-8" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.8" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_302.9" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.6" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-11" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.14" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            <area BEGIN="BL_303.1" BETYPE="IDREF" FILEID="alto_00152_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.8" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.7" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.5" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.6" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.5" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

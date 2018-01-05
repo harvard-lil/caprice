@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0006" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Jurkiewicz v. Illinois Central Railroad">Eva Jurkiewicz, Appellee, v. Illinois Central Railroad Company, Appellant</name>
+          <docketnumber>Gen. No. 14,196</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 44</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="b5b3f38f1d3fbe463e4db974cd498c58" CHECKSUMTYPE="MD5" SIZE="44256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="986ebfa957504613c40399ff1dc6f2bc" CHECKSUMTYPE="MD5" SIZE="57488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="01879241f9c4ef6083ad6b59e69c3123" CHECKSUMTYPE="MD5" SIZE="52076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="470399f9e662d23f54c5aa1025344e66" CHECKSUMTYPE="MD5" SIZE="49414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="a36df73453df75bf17115b3bad0c6bab" CHECKSUMTYPE="MD5" SIZE="54566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00033_1.tif"/>
+      </file>
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="f64caacde617ee7532bd6ff978d07ec2" CHECKSUMTYPE="MD5" SIZE="49198">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_0.tif"/>
+      </file>
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="c5b648e38417515d8a592de26af351da" CHECKSUMTYPE="MD5" SIZE="45376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="5fed94bd2cf63f473645bd6f5830e4f7" CHECKSUMTYPE="MD5" SIZE="2347930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="831a86ef280c812fd3e85147178734f0" CHECKSUMTYPE="MD5" SIZE="2516437">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="8c19e944573b1b26e42bd1f245c6603b" CHECKSUMTYPE="MD5" SIZE="2483751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="b1fbe2608009b080229f84120ea88d55" CHECKSUMTYPE="MD5" SIZE="2443773">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00033_0.jp2"/>
+      </file>
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="c487c2bc2fc34ed2b693000746ef506a" CHECKSUMTYPE="MD5" SIZE="2452862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00033_1.jp2"/>
+      </file>
+      <file ID="jp2_00034_0" MIMETYPE="image/jp2" CHECKSUM="44a2c551d805d89641a9a4059e6803aa" CHECKSUMTYPE="MD5" SIZE="2434356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_0.jp2"/>
+      </file>
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="27a3564d0846791321291d108d689d85" CHECKSUMTYPE="MD5" SIZE="2323298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00034_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="cbfb0fa290ac7675dce5b9bdb85147b9" CHECKSUMTYPE="MD5" SIZE="78886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="b9fa2bddca8b25a2b6eadfe110c1ced9" CHECKSUMTYPE="MD5" SIZE="101138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="06d7943fcc92f0e97f9da15d7caefaa3" CHECKSUMTYPE="MD5" SIZE="85015">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="77bca0c6272a9961c6b0f317fb2b1db1" CHECKSUMTYPE="MD5" SIZE="80617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00033_0.xml"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="12e0f86cdfc3edb04d8bf3cda63106d1" CHECKSUMTYPE="MD5" SIZE="86905">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00033_1.xml"/>
+      </file>
+      <file ID="alto_00034_0" MIMETYPE="text/xml" CHECKSUM="f6acef7880a71794c28c905e59c68847" CHECKSUMTYPE="MD5" SIZE="82638">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00034_0.xml"/>
+      </file>
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="4368ff85af1ac5010d7db78522780284" CHECKSUMTYPE="MD5" SIZE="82784">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00034_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="50" firstpage="44">
+              <docketnumber id="b62-9" pgmap="62">Gen. No. 14,196.</docketnumber>
+              <parties id="b62-8" pgmap="62">Eva Jurkiewicz, Appellee, v. Illinois Central Railroad Company, Appellant.</parties>
+              <decisiondate id="Af_" pgmap="63">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b65-4" pgmap="65">Calhoun, Lyford &amp; Sheean, for appellant; John G. Drennan, of counsel.</attorneys>
+              <attorneys id="b65-5" pgmap="65">W. D. Munhall, for appellee.</attorneys>
+              <summary id="b63-5" pgmap="63">Action in case for personal injuries. Appeal from the Superior Court of Cook county; the Hon. Ben M. Smith, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="Ag" pgmap="63">Affirmed.</disposition>
+              <headnotes id="b62-10" pgmap="62">1. Contributory negligence—when passenger not guilty of. A passenger in seeking to alight from a railroad train has a right to assume that ample time will be afforded for such purpose; held, under the evidence in this case, that a passenger injured while alighting was in the exercise of ordinary care.</headnotes>
+              <headnotes id="b62-11" pgmap="62(34) 63(84)">2. Passenger and carrier—duty of latter to permit former to alight. Held, that the following instruction as to when a carrier is not liable for injuries to a passenger suffered while in the act of alighting, was properly refused, in that it left out of considera­tion the important element that the carrier owed to the passenger the utmost and highest degree of care, skill and diligence for her safety consistent with the mode of conveyance employed, and that the carrier’s servants in charge of the train were required to know, if by the exercise of due care, caution and diligence they could know, that the passenger was attempting to alight from the train before they started it.</headnotes>
+              <headnotes id="b63-4" pgmap="63">“The court instructs the jury that while railroad companies are required to announce stations approached or reached, and to give passengers a reasonable time in which to leave the train, they are not required to see that passengers do in fact depart from the train upon arriving at their destination. If, therefore, you believe from the evidence in this case that the defendant gave the plaintiff a reasonable time and opportunity to alight from the train in ques­tion; and if you further believe from the evidence that when the employes of defendant started said train they did not know that any passengers were alighting therefrom, in such case it is your duty to find the defendant not guilty.”</headnotes>
+              <p id="b63-6" pgmap="63">Statement by the Court. This appeal is prose­cuted from a judgment of the Superior Court, entered in favor of appellee and against appellant for $500.</p>
+              <p id="b63-7" pgmap="63">The original declaration consisted of two counts. The first count averred the possession and operation of a certain railroad by appellant, on November 23, 1902, extending from Harvey, Illinois, northward to and beyond a station known as Kensington; that appellant received appellee as a passenger upon one of- its trains under the control of its servants; that when the said train arrived at Kensington, appellant did not use rea­sonable care to give appellee reasonable time and op­portunity to alight from the train in safety, hut care­lessly and negligently started the train violently in motion while appellee was in the act of alighting therefrom, and appellee, while using due care and cau­tion, was thrown with great force and violence upon the station platform and was injured.</p>
+              <p id="b63-8" pgmap="63(17) 64(43)">The second count makes the additional averments that the car on which appellee was riding was pro­vided with iron gates which it was the duty of appel­lant and its servants to use reasonable, care to close before starting and moving the train, and that they failed and neglected to close the gates when the train started from Kensington.</p>
+              <p id="b64-5" pgmap="64">Additional counts were subsequently filed which al­lege in substance the same facts set forth in the first original count.</p>
+              <p id="b64-6" pgmap="64">The evidence tends to show that appellee was a woman about sixty-one years of age at the time of the accident, and that she resided at Harvey, Illinois. On Sunday, November 23, .1902, she left her home in Harvey to go to South Chicago to attend a meeting. To reach South Chicago she took appellant’s train at Harvey to ride to Kensington, a station in the city of Chicago. She was accompanied by Mrs. Ruczynski, and at the station at Harvey they met two acquaint­ances, Joseph Zellebuski and his sister. Mrs. Kren­icki also boarded the train with them, all entering and riding in the same car. It was a suburban train, con­sisting of five cars and the engine.</p>
+              <p id="b64-7" pgmap="64">Before, reaching the station at Kensington, the train stopped at a water tank situated about four or five hundred feet south of the station. The conductor left the train at the water tank and walked north to the through station on the east side of the tracks, regis­tered his train and crossed over to the west side of the tracks and went up to the station platform. During this time the train had taken water, proceeded to the platform, discharged and taken on passengers.</p>
+              <p id="b64-8" pgmap="64">This station platform is on a level with the car plat­forms and extends to within an inch or two of the cars. The car platforms are extended by what are termed aprons, covering the steps, thus enabling pas­sengers to step off and onto the station platform with­out using the steps.</p>
+              <p id="b64-9" pgmap="64(25) 65(247)">After the train stopped about fifteen or twenty pas­sengers alighted, Zellebuski, Mrs. Krenicki, Mrs. Ruczynski and appellee being still on the train. It is claimed by appellant that the train remained at the station a minute and a half or two minutes. As the conductor came upon the platform, the collector and the flagman gave him the signal “All right”, and the conductor in time signaled the engineer to start. At this moment appellant claims there was no one on the platform seeking to get on or alight from the train. On the other hand the evidence tends to show that the three people above named with appellee appear to have been the last to leave the car in which they had been riding. Appellee was preceded by Zellebuski, his sis­ter, Mrs. Krenicki and Mrs. Ruczynski in the order named. All the passengers who had preceded Zelle­buski had alighted and Zellebuski also had stepped upon the platform of the station. Mrs. Krenicki had also stepped upon the station platform, or was in the act of doing so, when the conductor gave the signal to start, and the train started. Mrs. Ruczynski stepped to the platform directly after Mrs. Krenicki and was thrown upon the platform. After she had fallen, ap­pellee, looking down and not observing that the train was moving, stepped upon the platform and was thrown down upon it. One of the train crew saw these people as they were moving towards the end of the car and gave the signal by means of the bell-rope to stop the train, which was done within a few feet.</p>
+              <opinion type="majority">
+                <author id="b65-6" pgmap="65">Mr. Presiding Justice Smith</author>
+                <p id="ASY" pgmap="65">delivered the opinion of the court.</p>
+                <p id="b65-7" pgmap="65">At the close of all the evidence the court refused to give a peremptory instruction in favor of appellant, and this is relied upon as error. It is contended that there was no evidence before the jury tending to show appellant guilty of negligence as alleged in the decla­ration.</p>
+                <p id="b66-4" pgmap="66">The evidence of Zellebuski, Mrs. Krenieki, Mrs. Ruczynski and of appellee tends to show that when the train stopped at the Kensington station quite a large number of people left the car in which appellee had been riding, and that Zellebuski, who was in the lead of the party with appellee, followed closely after people who were leaving the same car, and he was compelled to wait for them; that the rest of the party, including appellee, followed closely after him. After Zellebuski reached the station platform he saw the con­ductor give the signal to start the train and he looked back to see his sister who was following, and observed that she had alighted before the train started. As Mrs. Ruczynski was stepping off, the train started and threw her to the platform. Appellee was just behind her and was also thrown down. The evidence of these witnesses tended to prove the allegations of the decla­ration, in our opinion, and the court, therefore, did not err in refusing the peremptory instruction, unless the evidence shows conclusively that appellee was guilty of contributory negligence.</p>
+                <p id="b66-5" pgmap="66">On the question of appellee’s contributory negli­gence the testimony of all the witnesses above men­tioned has a bearing, and might properly be con­sidered by the jury. The testimony of appellee tends to show that without delay she started to leave the car when the train stopped, and that she followed closely the other passengers out of the car. She had a right to assume that ample time would be given for her to safely alight, although many people were leav­ing the car ahead of her. Her movements were neces­sarily controlled by those ahead of her, and hence her delay, if any there was, may have been caused wholly by other passengers. She testified that she did not see the car start or feel it start or feel anything to indicate that it was moving.</p>
+                <p id="b66-6" pgmap="66(31) 67(23)">From a review of all the evidence we think it was a question for the jury, on the evidence in the case, to determine whether appellee, by her negligence, if any, contributed to the injury sustained by her, and that therefore the court did not err in leaving that ques­tion to the jury.</p>
+                <p id="b67-4" pgmap="67">In our opinion the verdict of the jury is not so manifestly against the weight of the evidence that we ought to set it aside on that ground.</p>
+                <p id="b67-5" pgmap="67">It is urged that the trial court erred in refusing to give to the jury instructions numbered respectively 15,16,17,18 and 19 requested by appellant.</p>
+                <p id="b67-6" pgmap="67">An examination of the instructions given by the court shows, in our opinion, that the jury were fully instructed upon all the substantial issues in the case. It appears further that refused instructions 15, 16, 17 and 19 were substantially covered by other instruc­tions given.</p>
+                <p id="b67-7" pgmap="67">Refused instruction No. 18, requested by appellant, is as follows:</p>
+                <p id="b67-8" pgmap="67">“18. The court instructs the jury that while rail­road companies are required to announce stations approached or reached, and to give passengers a reason­able time in which to leave the train, they are not re­quired to see that passengers do in fact depart from the train upon arriving at their destination. If, there­fore, you believe from the evidence in this case that the defendant gave the plaintiff a reasonable time and opportunity to alight from the train in question; and if you further believe from the evidence that when the employes of defendant started said train they did not know that any passengers were alighting there­from, in such case it is your duty to find the defend­ant not guilty.”</p>
+                <p id="b67-9" pgmap="67(75) 68(118)">In our opinion this instruction does not correctly state the law applicable to the facts of this case. It would have told the jury, if given, that under no cir­cumstances would appellant be guilty of negligence in starting its train while appellee was in the act of alighting therefrom, if the train had stopped a suf­ficient length of time to permit appellee to alight, un­less the employes of appellant knew appellee was alighting. It leaves out of consideration the import­ant element that appellant owed to appellee the ut­most or highest degree of care, skill and diligence for her safety consistent with the mode of conveyance employed; and that appellant’s servants in charge of the train were required to know, if by the exercise of due care, caution and diligence they could know, that appellee was attempting to alight from the train, be­fore they started it. North Chicago St. R. R. Co. v. Cook, 145 Ill. 557. A carrier of passengers may not relieve itself from liability, in cases like this, by prov­ing that its trainmen did not know passengers were alighting. The instruction was properly refused.</p>
+                <p id="b68-5" pgmap="68">Finding no error in the record the judgment is af­firmed.</p>
+                <p id="b68-6" pgmap="68">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="62" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.3" BETYPE="IDREF" FILEID="alto_00031_1"/>
+              <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="45" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.2" BETYPE="IDREF" FILEID="alto_00032_0"/>
+              <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="46" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.3" BETYPE="IDREF" FILEID="alto_00032_1"/>
+              <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="47" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.2" BETYPE="IDREF" FILEID="alto_00033_0"/>
+              <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="48" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+              <area BEGIN="BL_66.3" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="67" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jp2_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.3" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.2" BETYPE="IDREF" FILEID="alto_00034_0"/>
+              <area BEGIN="BL_67.4" BETYPE="IDREF" FILEID="alto_00034_0"/>
+              <area BEGIN="BL_67.11" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="68" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.3" BETYPE="IDREF" FILEID="alto_00034_1"/>
+              <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.10" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.11" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.6" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.7" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.8" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.11" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            <area BEGIN="BL_63.1" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.10" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.9" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.10" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.9" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.8" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.6" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.5" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af_" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.8" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.7" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.9" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASY" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.8" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_65.9" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.9" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.8" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.10" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            <area BEGIN="BL_68.1" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.5" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.6" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_67.1" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.7" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0119" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Rendahl v. Walsh">Albert Rendahl, Appellee, v. Patrick Walsh, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 601</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00310_0" MIMETYPE="image/tiff" CHECKSUM="5c748339dc3523add01d2a2cace3dcd0" CHECKSUMTYPE="MD5" SIZE="38132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_0.tif"/>
+      </file>
+      <file ID="tiff_00310_1" MIMETYPE="image/tiff" CHECKSUM="7a4445ce08afd04ba033b117cc6569e7" CHECKSUMTYPE="MD5" SIZE="53028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_1.tif"/>
+      </file>
+      <file ID="tiff_00311_0" MIMETYPE="image/tiff" CHECKSUM="243493678176d3e9ff6e6ecbf3c9c069" CHECKSUMTYPE="MD5" SIZE="54486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_0.tif"/>
+      </file>
+      <file ID="tiff_00311_1" MIMETYPE="image/tiff" CHECKSUM="ddd3cc59abd9a3f3b39e24c90916734e" CHECKSUMTYPE="MD5" SIZE="37246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00310_0" MIMETYPE="image/jp2" CHECKSUM="b98eb62f558de8c1c282b099a662a77d" CHECKSUMTYPE="MD5" SIZE="2370922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_0.jp2"/>
+      </file>
+      <file ID="jp2_00310_1" MIMETYPE="image/jp2" CHECKSUM="009fe88f3aa15ea04d3b0438e10b45f2" CHECKSUMTYPE="MD5" SIZE="2432841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00310_1.jp2"/>
+      </file>
+      <file ID="jp2_00311_0" MIMETYPE="image/jp2" CHECKSUM="8b84a25c2cadd7c9208c73ce2bacfe75" CHECKSUMTYPE="MD5" SIZE="2466972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_0.jp2"/>
+      </file>
+      <file ID="jp2_00311_1" MIMETYPE="image/jp2" CHECKSUM="396a863f7119c6047e9f3823f94f1648" CHECKSUMTYPE="MD5" SIZE="2301505">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00311_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00310_0" MIMETYPE="text/xml" CHECKSUM="a98d7b91294a6d8c48f325f0a271d8f4" CHECKSUMTYPE="MD5" SIZE="70536">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00310_0.xml"/>
+      </file>
+      <file ID="alto_00310_1" MIMETYPE="text/xml" CHECKSUM="d7f5426d0aa7c4eb55fff39eacddea28" CHECKSUMTYPE="MD5" SIZE="86309">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00310_1.xml"/>
+      </file>
+      <file ID="alto_00311_0" MIMETYPE="text/xml" CHECKSUM="d7aca48a85485a02a5d73d8798bc9207" CHECKSUMTYPE="MD5" SIZE="92179">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00311_0.xml"/>
+      </file>
+      <file ID="alto_00311_1" MIMETYPE="text/xml" CHECKSUM="47ec41e635f760c267e163b605a5e67b" CHECKSUMTYPE="MD5" SIZE="69834">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00311_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0119" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="604" firstpage="601">
+              <parties id="b619-8" pgmap="619">Albert Rendahl, Appellee, v. Patrick Walsh, Appel­lant.</parties>
+              <decisiondate id="AG1" pgmap="619">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b619-14" pgmap="619">Boyd &amp; Clark and F. M. &amp; H. I. Green, for appel­lant.</attorneys>
+              <attorneys id="b620-4" pgmap="620">Ray &amp; Dobbins, for appellee.</attorneys>
+              <summary id="b619-13" pgmap="619">Action in case for personal injuries. Appeal from the Circuit Court of Champaign county; the Hon. Solon Philbrick, Judge, pre­siding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AA5" pgmap="619">Affirmed.</disposition>
+              <headnotes id="b619-9" pgmap="619">1. Verdict—when not set aside as against the evidence. A ver­dict will Act be set aside on review as against the evidence unless clearly and manifestly so.</headnotes>
+              <headnotes id="b619-10" pgmap="619">2. Witness—when wife not incompetent. A wife who sues as next friend is not incompetent merely because her husband has given a bond for costs in the case.</headnotes>
+              <headnotes id="b619-11" pgmap="619">3. Imputable negligence—when does not bar recovery. A minor having established a right to recovery will not be barrred there­from by reason of the negligence of its parents.</headnotes>
+              <headnotes id="b619-12" pgmap="619">4. Appeals and errors—when abstract justifies affirmance. An abstract which literally copies the evidence is not a compliance with the rule and justifies an affirmance.</headnotes>
+              <opinion type="majority">
+                <author id="b620-5" pgmap="620">Mr. Justice Baume</author>
+                <p id="Ai-" pgmap="620">delivered the opinion of the court.</p>
+                <p id="b620-6" pgmap="620">This is a suit hy appellee, Albert Eendahl, an infant of the age of four years, by Margaret Eendahl his next friend, to recover damages for a personal injury al­leged to have been sustained through the negligence of appellant in permitting his mule to trespass upon the premises occupied by the father of appellee, as tenant of the appellant. The injury, which consisted of the breaking of appellee’s leg, is alleged to have resulted from a kick by said mule. Upon a trial by jury there was a verdict and judgment against appellant for $200.</p>
+                <p id="b620-7" pgmap="620(240) 621(58)">The evidence tends to show that the barn yard in which appellee was playing at the time of his injury, and which his father had leased from appellant, was separated from appellant’s field by a fence and gate; that shortly before appellee was injured appellant drove in a buggy from his field to said barn yard through the gate and permitted his horse and mules to follow into the barn yard; that shortly thereafter the mother of appellee was attracted by his screams and found him in the barn yard with his leg broken, and saw the mule of appellant standing near appellee; that subsequently the mother of appellee and the phy­sician who was called to attend appellee, observed a semi-circular mark on his leg, which bore an exact re­semblance to the imprint -of the hind hoof of a mule. None of the witnesses called on behalf of appellee testi­fied that they saw the mule kick appellee, and appellant testified that appellee was thrown down by a large dog with which he was playing. That appellant negligently permitted his horses and mules to enter the barn yard is established by his own evidence, and the case was tried in the court below by both parties upon the theory that if appellant was so negligent, and the injury re­sulted as alleged in the declaration, appellant was lia­ble. Upon the question as to whether the injury was inflicted by the mule as claimed by appellee or by a dog *as claimed by appellant we are not prepared to say that the finding of the jury is against the manifest weight of the evidence. It is impossible to reconcile appellant’s evidence as to the cause of the injury with the mark which appeared upon appellee’s leg.</p>
+                <p id="b621-5" pgmap="621">It is urged on behalf of appellant that Margaret Ren­dahl, who appeared as next friend for appellee, was an incompetent witness on his behalf because her hus­band had entered into a bond for costs and was, there­fore, as it is claimed, directly interested in the result of the suit. This precise question has been determined against the contention of appellant in Belk v. Cooper, 34 Ill. App. 649, and I. C. R. R. Co. v. Becker, 119 Ill. App. 221. In the latter case the question is considered at length and we concur in the reasoning and conclu­sion there announced.</p>
+                <p id="b621-6" pgmap="621(219) 622(61)">It is conceded by appellant that the contributory negligence, if any, of appellee would not bar a recov­ery, but it is urged that the sixth instruction given at the instance of appellee and which informed the jury that any want of due care or caution which might be shown upon the part of his parents would not be a defense to the suit if they believed from the evidence that appellee was otherwise entitled to recover, was erroneous. The negligence of appellant being estab­lished, contributory negligence, if any, of the parents of appellee was not imputable to appellee so as to bar a recovery by the latter. Chicago City Ry. Co. v. Wil­cox, 138 Ill. 370; C. &amp; A. R. R. Co. v. Vipond, 212 Ill. 199; Union Trac. Co. v. Leach, 215 Ill. 184. The in­struction as framed is not a model, but taken together with all the other given instructions in the case the jury could not have understood therefrom that they were authorized to find a verdict in favor of appellee unless they believed from the evidence that appellant was neg­ligent as alleged in the declaration. The judgment in this case might well have been affirmed for the failure of appellant to file such an abstract of the record as is contemplated and required by the rule of this court. The greater part of the evidence in the case is liter-' ally copied in the. so-called abstract, as it appears in the transcript by questions and answers, and an exam­ination and consideration of the evidence as thus brought to our attention has involved an expenditure of much unnecessary time and labor.</p>
+                <p id="b622-5" pgmap="622">There is no error in the record prejudicial to appel­lant and the judgment of the Circuit Court will be af­firmed.</p>
+                <p id="b622-6" pgmap="622">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="619" ORDERLABEL="601" TYPE="page">
+        <fptr FILEID="tiff_00310_0"/>
+        <fptr FILEID="jp2_00310_0"/>
+        <fptr FILEID="alto_00310_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.3" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.2" BETYPE="IDREF" FILEID="alto_00310_0"/>
+              <area BEGIN="BL_619.4" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="620" ORDERLABEL="602" TYPE="page">
+        <fptr FILEID="tiff_00310_1"/>
+        <fptr FILEID="jp2_00310_1"/>
+        <fptr FILEID="alto_00310_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.1" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.2" BETYPE="IDREF" FILEID="alto_00310_1"/>
+              <area BEGIN="BL_620.3" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="621" ORDERLABEL="603" TYPE="page">
+        <fptr FILEID="tiff_00311_0"/>
+        <fptr FILEID="jp2_00311_0"/>
+        <fptr FILEID="alto_00311_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.3" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.2" BETYPE="IDREF" FILEID="alto_00311_0"/>
+              <area BEGIN="BL_621.4" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="622" ORDERLABEL="604" TYPE="page">
+        <fptr FILEID="tiff_00311_1"/>
+        <fptr FILEID="jp2_00311_1"/>
+        <fptr FILEID="alto_00311_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.2" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_622.3" BETYPE="IDREF" FILEID="alto_00311_1"/>
+              <area BEGIN="BL_622.4" BETYPE="IDREF" FILEID="alto_00311_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-14" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.17" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-12" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.12" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-13" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.13" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            <area BEGIN="BL_619.14" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-10" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.10" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-11" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.11" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG1" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.16" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.6" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b622-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_622.5" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.4" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.5" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.8" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-7" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.9" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_621.1" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.5" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.6" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_622.1" BETYPE="IDREF" FILEID="alto_00311_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai-" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.6" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_620.7" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.15" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.8" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.9" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

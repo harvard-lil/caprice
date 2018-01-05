@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0055" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Variety Manufacturing Co. v. Mills Novelty Co.">Variety Manufacturing Company, Appellee, v. Mills Novelty Company, Appellant</name>
+          <docketnumber>Gen. No. 14,095</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 387</citation>
+          <decisiondate>1908-12-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00203_0" MIMETYPE="image/tiff" CHECKSUM="ccf893f800e5c9b5a53d3e0f8dcae632" CHECKSUMTYPE="MD5" SIZE="41190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00203_0.tif"/>
+      </file>
+      <file ID="tiff_00203_1" MIMETYPE="image/tiff" CHECKSUM="17c3417dd311a6008da5f3d0ce4b697b" CHECKSUMTYPE="MD5" SIZE="54494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00203_1.tif"/>
+      </file>
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="8c920d58dbbbff963b0de72fa86176a9" CHECKSUMTYPE="MD5" SIZE="52144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="1bb5dbb6945d8b2fb4779e553dee7d41" CHECKSUMTYPE="MD5" SIZE="42812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00203_0" MIMETYPE="image/jp2" CHECKSUM="5224cbc7dbbfba7a5fbc215349e15517" CHECKSUMTYPE="MD5" SIZE="2392820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00203_0.jp2"/>
+      </file>
+      <file ID="jp2_00203_1" MIMETYPE="image/jp2" CHECKSUM="fe4b97b9d923b5e3684a0fbe211c15fd" CHECKSUMTYPE="MD5" SIZE="2442080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00203_1.jp2"/>
+      </file>
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="14b0a1831c2a13ffcc60a19ace5ad28e" CHECKSUMTYPE="MD5" SIZE="2473501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="6dc4b55f746e76f8783dba29bbd0c1e2" CHECKSUMTYPE="MD5" SIZE="2356248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00204_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00203_0" MIMETYPE="text/xml" CHECKSUM="b7a14cc54cc13975869abf57a281853b" CHECKSUMTYPE="MD5" SIZE="72716">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00203_0.xml"/>
+      </file>
+      <file ID="alto_00203_1" MIMETYPE="text/xml" CHECKSUM="59de8e6d763c47cf5514e035badb5265" CHECKSUMTYPE="MD5" SIZE="82119">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00203_1.xml"/>
+      </file>
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="3378bdd390d2d5dc1e879f48a8141997" CHECKSUMTYPE="MD5" SIZE="87506">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="5ce05ff43bead4abafeccc5f18e329e3" CHECKSUMTYPE="MD5" SIZE="77137">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00204_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0055" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="390" firstpage="387">
+              <docketnumber id="b405-4" pgmap="405">Gen. No. 14,095.</docketnumber>
+              <parties id="b405-3" pgmap="405">Variety Manufacturing Company, Appellee, v. Mills Novelty Company, Appellant.</parties>
+              <decisiondate id="AcT" pgmap="405">Opinion filed December 21, 1908.</decisiondate>
+              <otherdate id="ANg" pgmap="405">Rehearing denied January 7, 1909.</otherdate>
+              <attorneys id="b405-8" pgmap="405">Adler, Lederer &amp; Sohoenbrun, for appellant.</attorneys>
+              <attorneys id="b405-9" pgmap="405">Bolen &amp; Stewart, for appellee.</attorneys>
+              <summary id="b405-7" pgmap="405">Assumpsit. Appeal from the Municipal Court of Chicago; the Hon. Edward A. Dicker, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AP5" pgmap="405">Affirmed.</disposition>
+              <headnotes id="b405-5" pgmap="405">1. Instructions—how motion for peremptory must he made. A motion for a peremptory instruction is properly denied where it was neither made in writing nor accompanied by a written in­strument.</headnotes>
+              <headnotes id="b405-6" pgmap="405">2. Practice—power of court to submit special interrogatories. The trial court may in its discretion submit interrogatories to the jury which call for their findings of specific facts at the request of either party or at the court’s own initiative.</headnotes>
+              <opinion type="majority">
+                <author id="b405-10" pgmap="405">Mr. Justice Holdom</author>
+                <p id="APq" pgmap="405">delivered the opinion of the court.</p>
+                <p id="b405-11" pgmap="405">The Municipal Court rendered a judgment for $877 in favor of appellee against appellant on the verdict of a jury, in an effort to reverse which this appeal is prosecuted.</p>
+                <p id="b405-12" pgmap="405">Appellant argues, as reasons for reversal, that the contract sued upon was not its contract, but the ob­ligation of the Mills Edisonia Company; that the Municipal Court erred in its rulings upon the evi­dence, and that the judgment is contrary to the law and the evidence.</p>
+                <p id="b405-13" pgmap="405(56) 406(66)">We are met at the threshold of this cause with the embarrassing fact that there is a similarity between the names of the two corporations involved in the liability sought to be enforced; they are both “Mills” . corporations, and other elements of confusion lie in the fact that Herbert S, Mills was president of both corporations and that other persons were officers and interested in each of these corporations, and that both of them had some interest in the building in which the folding doors were to be installed by appellee. It is fairly inferable from the evidence of both contest­ants, that the “Edisonia” Company had no financial reputation established in the business community, while the “Novelty” Company, appellant, had.</p>
+                <p id="b406-5" pgmap="406">The evidence demonstrates that the contract was made by appellee with appellant. Morehouse, the architect of the building, was instructed by Mills, the president of appellant, to have the contract made in the name of appellant and Law, the purchasing agent of appellant, with the knowledge and authority of its president, made the contract with appellee for appel­lant. This contention of appellant smacks very much of an attempt to shift the burden of a binding obliga­tion from a solvent concern upon a corporation of doubtful pecuniary responsibility.</p>
+                <p id="b406-6" pgmap="406">The next question is, did appellee perform its con­tract sufficiently in accordance with its terms to en­title it to recover the amount due under the terms of the contract. The evidence shows that the doors con­tracted to be installed in appellant’s building were large and not of a usual or ordinary character. They were manufactured under a patent and were supposed to work automatically, and therefore required a nicety of adjustment which would not admit of a departure from the exact measurements of the spaces they were intended to inclose. The exact dimensions of these openings could not be ascertained except by actual measurement, and measurements could not be made until the openings were completed by the contractors having that part of the work in charge. As soon as the openings were completed, the measurements were made and the doors delivered at the building to be put in place within a reasonable time thereafter.</p>
+                <p id="b406-7" pgmap="406(17) 407(35)">Appellee is not responsible for delays in its.work occasioned solely by the act of a preceding contractor, and is only .required to proceed with reasonable dis­patch and to furnish the doors as soon after the open­ings were finished ready for measurement as it could in the exercise of due diligence.</p>
+                <p id="b407-4" pgmap="407">The evidence sustains appellant in its claim that the delays which occurred did not result from any dere­liction on its part, but .establishes, on the contrary, as a fact that appellee proceeded with all reasonable dis­patch to install the doors after it was able to procure the necessary measurements.</p>
+                <p id="b407-5" pgmap="407">A careful examination of the evidence fails to dis­close any erroneous rulings of the court affecting the merits or the justice of appellant’s defenses.</p>
+                <p id="b407-6" pgmap="407">The motion of appellant to instruct a verdict in its favor was not made in writing, nor was any written instruction tendered. The ruling of the court may not therefore be reviewable on this appeal. W. C. St. Ry. Co. v. Foster, 175 Ill. 396. It may, however, under the Municipal Court Act, be unnecessary to make the motion in writing or tender an instruction, as that Act authorizes that court to instruct the jury orally. Be that as it may, it is clear that at the close of all the evidence, when the motion was made, the evidence presented questions of fact for solution, which solution was the function of the jury and not the duty of the court.</p>
+                <p id="b407-7" pgmap="407">When appellee started to install the doors, the architect of appellant interfered and stopped the workmen of appellee from further proceeding, and took into his hands the task of completing the work. The expense of so doing was allowed by the jury as a credit to appellant, the verdict being for the con­tract price less such expense. To this we see no cause of exception by appellant. It was in its favor.</p>
+                <p id="b407-8" pgmap="407(49) 408(128)">The answers of the jurors to the special interroga­tories propounded to them settle all the disputed ques­tions of fact in favor of the appellee, and we are not only unable to say from the evidence in the record that such findings are not supported by a preponder­ance of the evidence, but, on the contrary, are of the opinion that the findings of ultimate fact by the jury are in harmony with the greater weight of the evidence. However, it is assigned for error, although not pressed upon us in argument, that the trial court erred in giving to the jury the special interrogatories propounded to them for answer. It is a well-settled rule of procedure in this jurisdiction that the trial court may, in its discretion, submit interrogatories to the jury which call for their findings of specific facts at the request of either party,' or on the court’s own initiative. Voigt v. Anglo Am. Provision Co., 202 Ill. 462; P. C. C. &amp; St. L. Ry. Co. v. Bovard, 121 Ill. App. 49.</p>
+                <p id="b408-5" pgmap="408">And as said in Town of Cicero v. Bartelme, 114 Ill. App. 9, “We have carefully examined the evidence in the record, and we cannot say that the finding of the jury * * * is against the evidence or is not supported by sufficient evidence”. Neither can we say from this record that the judgment of the Municipal Court does not mete out justice to the parties upon the merits of the case.</p>
+                <p id="b408-7" pgmap="408">The judgment of the Municipal Court is affirmed.</p>
+                <p id="b408-8" pgmap="408">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="405" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00203_0"/>
+        <fptr FILEID="jp2_00203_0"/>
+        <fptr FILEID="alto_00203_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.2" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.1" BETYPE="IDREF" FILEID="alto_00203_0"/>
+              <area BEGIN="BL_405.3" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="406" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00203_1"/>
+        <fptr FILEID="jp2_00203_1"/>
+        <fptr FILEID="alto_00203_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.2" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.3" BETYPE="IDREF" FILEID="alto_00203_1"/>
+              <area BEGIN="BL_406.4" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="407" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.2" BETYPE="IDREF" FILEID="alto_00204_0"/>
+              <area BEGIN="BL_407.4" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+              <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANg" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.13" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.10" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-3" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.4" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APq" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.17" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.18" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.6" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.7" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            <area BEGIN="BL_407.1" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.5" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.19" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.16" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-13" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.21" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_406.1" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.20" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.6" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.7" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcT" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.11" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.12" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.9" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.15" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.14" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.6" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.5" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.8" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            <area BEGIN="BL_405.9" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.7" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.8" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.6" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.5" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

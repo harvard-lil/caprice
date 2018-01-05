@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0040" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Merrifield v. Western Cottage Piano &amp; Organ Co.">Mary C. Merrifield, Defendant in Error, v. Western Cottage Piano &amp; Organ Company et al., Plaintiffs in Error</name>
+          <docketnumber>Gen. No. 4,961</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 289</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00153_0" MIMETYPE="image/tiff" CHECKSUM="0a4270a91e365fd0c7c6ccaa324c9b8d" CHECKSUMTYPE="MD5" SIZE="48176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00153_0.tif"/>
+      </file>
+      <file ID="tiff_00153_1" MIMETYPE="image/tiff" CHECKSUM="c08369ded70eb6acf8872284bb4e03ac" CHECKSUMTYPE="MD5" SIZE="53628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00153_1.tif"/>
+      </file>
+      <file ID="tiff_00154_0" MIMETYPE="image/tiff" CHECKSUM="2b57e726eb8f2409263a9b6a9ae38f27" CHECKSUMTYPE="MD5" SIZE="46758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00154_0.tif"/>
+      </file>
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="b0f9f7215f0febff93fabdc3156bee43" CHECKSUMTYPE="MD5" SIZE="52054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00154_1.tif"/>
+      </file>
+      <file ID="tiff_00155_0" MIMETYPE="image/tiff" CHECKSUM="48a221779bc6dcd978d0b3f865287220" CHECKSUMTYPE="MD5" SIZE="46274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00155_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00153_0" MIMETYPE="image/jp2" CHECKSUM="f8400fb025d6832cc3e99bb817366561" CHECKSUMTYPE="MD5" SIZE="2355834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00153_0.jp2"/>
+      </file>
+      <file ID="jp2_00153_1" MIMETYPE="image/jp2" CHECKSUM="5cb9e5112620a9ae719b81c494843df0" CHECKSUMTYPE="MD5" SIZE="2348129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00153_1.jp2"/>
+      </file>
+      <file ID="jp2_00154_0" MIMETYPE="image/jp2" CHECKSUM="7bf33eb57bd6e1661f4281c7262b2304" CHECKSUMTYPE="MD5" SIZE="2366780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00154_0.jp2"/>
+      </file>
+      <file ID="jp2_00154_1" MIMETYPE="image/jp2" CHECKSUM="cbaa3264325245e3566e4116eba40358" CHECKSUMTYPE="MD5" SIZE="2370238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00154_1.jp2"/>
+      </file>
+      <file ID="jp2_00155_0" MIMETYPE="image/jp2" CHECKSUM="2dde011f0838ed4605c6e6ad4d1452a4" CHECKSUMTYPE="MD5" SIZE="2352111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00155_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00153_0" MIMETYPE="text/xml" CHECKSUM="0f157936d08424a87e2e230dc7cf11c9" CHECKSUMTYPE="MD5" SIZE="84836">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00153_0.xml"/>
+      </file>
+      <file ID="alto_00153_1" MIMETYPE="text/xml" CHECKSUM="f5d07cd6e380d94f0a0411b32b7e74e2" CHECKSUMTYPE="MD5" SIZE="89557">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00153_1.xml"/>
+      </file>
+      <file ID="alto_00154_0" MIMETYPE="text/xml" CHECKSUM="15e60c301dcf3b39dd9d59600f78f4ac" CHECKSUMTYPE="MD5" SIZE="78691">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00154_0.xml"/>
+      </file>
+      <file ID="alto_00154_1" MIMETYPE="text/xml" CHECKSUM="b07a07a81376870202b918f5a2b33054" CHECKSUMTYPE="MD5" SIZE="84600">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00154_1.xml"/>
+      </file>
+      <file ID="alto_00155_0" MIMETYPE="text/xml" CHECKSUM="13bf002e7a10e1cf799885bb16250792" CHECKSUMTYPE="MD5" SIZE="91662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00155_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="293" firstpage="289">
+              <docketnumber pgmap="305" id="b305-4">Gen. No. 4,961.</docketnumber>
+              <parties pgmap="305" id="b305-3">Mary C. Merrifield, Defendant in Error, v. Western Cottage Piano &amp; Organ Company et al., Plaintiffs in Error.</parties>
+              <decisiondate pgmap="305" id="AiF">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="305" id="Alm">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="307" id="b307-6">Jarvis R. Burrows, Eddy, Haley &amp; Wetten and Butters, Armstrong &amp; Ferguson, for plaintiffs in er­ror; P. C. Haley, of counsel.</attorneys>
+              <attorneys pgmap="307" id="b307-7">McDougall &amp; Chapman, for defendant in error.</attorneys>
+              <summary pgmap="305" id="b305-7">Assumpsit. Error to the Circuit Court of LaSalle county; the Hon. Edqab Eldeedge, Judge, presiding.</summary>
+              <disposition pgmap="305" id="AG1">Affirmed.</disposition>
+              <headnotes pgmap="305" id="b305-5">1. Executions—effect of restraining as to one defendant. An execution, the enforcement of which is restrained as to one defend­ant, may be executed as to the remainder, in which case the execution runs against all defendants named in the judgment in­cluding the one against whom its enforcement is restrained.</headnotes>
+              <headnotes pgmap="305" id="b305-6">2. Amendments and jeofails—when execution may he amended. An execution may be amended provided there is that in the judg­ment by which to amend.</headnotes>
+              <p pgmap="305(201) 306(363) 307(40)" id="b305-8">Statement fey the Court. On January 18, 1907, the Western Cottage Piano and Organ Company (herein­after described as the company) executed three notes for $5000 each, payable four months after date to the order of W. T. Rickards &amp; Co. Each of the notes was indorsed by L. W. Merrifield and T. W. Burrows. On May 24,1907, a similar note for $5000 was made with the same indorsers. The four notes were indorsed without recourse to Mary C. Merrifield by W. T. Rickards &amp; Co. Mary C. Merrifield brought suit in assumpsit to the June term of the Circuit Court of LaSalle county on these notes, so indorsed to her, against the maker and also against the indorsers, whom she declared against as guarantors. Summons was duly served ten days prior to said term on all the defendants. On the 21st of June the defendants were defaulted and judgment rendered against all of them for $20,084.49. On the 29th day of June the defendant, Burrows, made a mo­tion to set aside the default and open up the judgment and for leave to plead. The court on hearing the mo­tion made an order “that execution herein be and the same is hereby restrained, grants leave to said defend­ant to plead and orders that the judgment entered herein stand as security for the debt. ’ ’ The defendant Burrows filed a plea of the general issue with notice of special matters intended to be relied on, and filed with his plea and notice, an affidavit that he had a good defense upon the merits and that his defense is par­ticularly set forth in the notice of special matters re­lied on. On the 22nd of October at the October term, counsel for Burrows gave notice that on the next day they would ask for leave to file an additional plea for Burrows and also ask leave to file a plea for the defendant company, but the record does not show any such motion was ever made on behalf of defendant company. On October 23rd the defendant Burrows moved for leave to withdraw the notice finder the gen­eral issue and for leave to file special pleas. This motion was granted. Thereupon the defendant Burrows filed three special pleas and the plaintiff filed a replica­tion concluding with a verification. The record does not show that the pleading was closed. On February 8, 1908, an execution was issued on this judgment against the company and L. W. Merrifield to the sheriff of La­Salle county. On February 11, at the January term, the attorneys for T. W. Burrows, professing to act in the name of the company, made a motion to recall and quash the execution, and the plaintiff made a cross motion to set aside the order “entered herein on June 29, 1907, setting aside the default as to the defendant T. W. Burrows, opening up the judgment and granting leave to said defendant to plead.” On February 18, the court sustained the motion made by defendant in error, “to vacate order setting aside default as to T. W. Burrows” and “overrules the motion to recall the execution made by the company.” The defendant, Burrows, excepted to this order and prayed an appeal therefrom. Thereafter' on February 25, the plaintiff moved the court to amend the execution so as to make it conform to the judgment by inserting the name of T. W. Burrows. This motion the court allowed and ordered that the execution be amended by inserting the name of the defendant Burrows. The defendant Burrows excepted to this order.</p>
+              <p pgmap="307" id="b307-5">This case is in this court by virtue of two writs of error sued out by the plaintiff in error, T. W. Burrows, and which were consolidated in this court on his mo­tion. One of these writs of error is in Ben. No. 4968, sued out to reverse the order of February 18 vacating the order permitting Burrows to plead. The other is in Ben. No. 4961, sued out to reverse the order of February 25, directing the amendment of the execu­tion. We originally filed an opinion covering the entire case as consolidated. Since that opinion was filed plaintiff in error has practically abandoned the con­solidation by appealing No. 4961 to the Supreme Court and by petitioning for a rehearing in No. 4968. It therefore becomes necessary to sever the opinion. That, part of the opinion which relates to No. 4961 is as fol­lows:</p>
+              <opinion type="majority">
+                <author pgmap="307" id="b307-8">Mr. Presiding Justice Thompson</author>
+                <p pgmap="307" id="AKx">delivered the opin­ion of the court.</p>
+                <p pgmap="307(82) 308(14)" id="b307-9">There was no order restraining execution as to any of the defendants except Burrows. The execution was restrained on his motion, and the order did not inter­fere with proceeding under the execution against the other defendants. An execution must follow the judg­ment and appear to be against all the defendants, not­withstanding for some cause no levy can be made on the property of some. Freeman on Executions, sec. 42. Where an execution is stayed as to one defendant it may be enforced against the others. Sheetz v. Win­koop, 74 Penn. St. 198.</p>
+                <p pgmap="308(325) 309(25)" id="b308-5">Upon the question presented concerning the issuing and amendment of the execution, the following con­siderations appear to us to control. Burrows could only appear and defend for himself. The other defend­ants did not claim that this debt had been paid, or that they did not owe it. Although Burrows, who was ap­parently a mere guarantor on the note, obtained leave .to plead, he had no right to prevent plaintiff from col­lecting the judgment against the other defendants. It was proper to overrule the motion of Burrows to recall the execution as against the other defend­ants. An execution ought to conform to the judg­ment, and the execution as originally issued omitted the name of Thomas W. Burrows, a defendant against whom the judgment still stood. There was there­fore an informality in the execution. An execution •can be amended, provided there is that in the judg­ment by which to amend. Revised Statutes, Chap. 7, “Amendments and Jeofails”; Bybee v. Ashby, 2 Gilm. 151,166, where common law authorities are cited; Lewis v. Bindley, 28 Ill. 147; Durham v. Heaton, 28 Ill. 264; McCormick v. Wheeler, 36 Ill. 114; Bissell v. Kip, 5 Johns. 89, where it was held that the execution could be amended where there was something to amend by, namely, the judgment. We are of opinion that in view of the fact that there were two other defendants who were not claiming a defense nor resisting the col­lection of the judgment, the original order should have permitted an execution to issue against all the defend­ants upon the face of the judgment, and should have only stayed the collection of the execution as against Thomas W. Burrows. The order of the January term, 1908, permitting the amendment by inserting the name of Burrows in the execution was practically a modifi­cation of the former order, and it is therefore affirmed. The court should, however, upon again repossessing itself of the case, enter an order that the execution he not collected as against Thomas W. Burrows till the further order of the court.</p>
+                <p pgmap="309" id="b309-4">The order in No. 4961, allowing the amendment of the execution, is therefore affirmed.</p>
+                <p pgmap="309" id="b309-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="305" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00153_0"/>
+        <fptr FILEID="jp2_00153_0"/>
+        <fptr FILEID="alto_00153_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.1" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_305.2" BETYPE="IDREF" FILEID="alto_00153_0"/>
+              <area BEGIN="BL_305.3" BETYPE="IDREF" FILEID="alto_00153_0"/>
+              <area BEGIN="BL_305.15" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="306" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00153_1"/>
+        <fptr FILEID="jp2_00153_1"/>
+        <fptr FILEID="alto_00153_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.2" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_306.3" BETYPE="IDREF" FILEID="alto_00153_1"/>
+              <area BEGIN="BL_306.4" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="307" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00154_0"/>
+        <fptr FILEID="jp2_00154_0"/>
+        <fptr FILEID="alto_00154_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.3" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_307.2" BETYPE="IDREF" FILEID="alto_00154_0"/>
+              <area BEGIN="BL_307.4" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="308" ORDERLABEL="292" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jp2_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.2" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.3" BETYPE="IDREF" FILEID="alto_00154_1"/>
+              <area BEGIN="BL_308.4" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="309" ORDERLABEL="293" TYPE="page">
+        <fptr FILEID="tiff_00155_0"/>
+        <fptr FILEID="jp2_00155_0"/>
+        <fptr FILEID="alto_00155_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.2" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.3" BETYPE="IDREF" FILEID="alto_00155_0"/>
+              <area BEGIN="BL_309.4" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiF" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.13" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.8" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.5" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            <area BEGIN="BL_309.1" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.6" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKx" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.9" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            <area BEGIN="BL_307.10" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.5" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.8" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            <area BEGIN="BL_305.9" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.7" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.6" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.5" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.4" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alm" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.10" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            <area BEGIN="BL_305.11" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.7" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.6" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.11" BETYPE="IDREF" FILEID="alto_00154_0"/>
+            <area BEGIN="BL_308.1" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG1" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.12" BETYPE="IDREF" FILEID="alto_00153_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b307-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_307.5" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b305-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_305.14" BETYPE="IDREF" FILEID="alto_00153_0"/>
+            <area BEGIN="BL_306.1" BETYPE="IDREF" FILEID="alto_00153_1"/>
+            <area BEGIN="BL_307.1" BETYPE="IDREF" FILEID="alto_00154_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

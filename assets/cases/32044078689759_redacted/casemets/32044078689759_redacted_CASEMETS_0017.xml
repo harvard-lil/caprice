@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0017" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Burdette v. Munger">J. W. Burdette, Appellee, v. O. B. Munger, Appellant</name>
+          <docketnumber>Gen. No. 14,131</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 164</citation>
+          <decisiondate>1908-10-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00090_1" MIMETYPE="image/tiff" CHECKSUM="9e2c027445b3b94ff632cb997d7400ca" CHECKSUMTYPE="MD5" SIZE="44018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_1.tif"/>
+      </file>
+      <file ID="tiff_00091_0" MIMETYPE="image/tiff" CHECKSUM="7d06c1bee0012d00f286397a44b97e7d" CHECKSUMTYPE="MD5" SIZE="47680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00091_0.tif"/>
+      </file>
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="dd41b6740fe02dd55004395123ab9601" CHECKSUMTYPE="MD5" SIZE="50314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="97b6a10d164a2e5d535f98f79bfdddcf" CHECKSUMTYPE="MD5" SIZE="51150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00092_0.tif"/>
+      </file>
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="2b4271335b2cd3c535f491ea04a20457" CHECKSUMTYPE="MD5" SIZE="40780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00092_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00090_1" MIMETYPE="image/jp2" CHECKSUM="b387b1f0320c9288ffd53e0bce6c844b" CHECKSUMTYPE="MD5" SIZE="2271500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00090_1.jp2"/>
+      </file>
+      <file ID="jp2_00091_0" MIMETYPE="image/jp2" CHECKSUM="088a2a96d18a836d756047c2ca74da25" CHECKSUMTYPE="MD5" SIZE="2365055">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00091_0.jp2"/>
+      </file>
+      <file ID="jp2_00091_1" MIMETYPE="image/jp2" CHECKSUM="c773735b132a9531f422be0d47e05192" CHECKSUMTYPE="MD5" SIZE="2340486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00091_1.jp2"/>
+      </file>
+      <file ID="jp2_00092_0" MIMETYPE="image/jp2" CHECKSUM="9d9bda6525f56d406a3c8847ec9857b0" CHECKSUMTYPE="MD5" SIZE="2400728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00092_0.jp2"/>
+      </file>
+      <file ID="jp2_00092_1" MIMETYPE="image/jp2" CHECKSUM="8592de3fb97095b5677b59ddc0aae1a6" CHECKSUMTYPE="MD5" SIZE="2245768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00092_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00090_1" MIMETYPE="text/xml" CHECKSUM="204d02680f63b2ee585ac343a9f42bf4" CHECKSUMTYPE="MD5" SIZE="78665">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00090_1.xml"/>
+      </file>
+      <file ID="alto_00091_0" MIMETYPE="text/xml" CHECKSUM="89a8a5fcfba128e0d94e81e4f278a7f1" CHECKSUMTYPE="MD5" SIZE="78332">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00091_0.xml"/>
+      </file>
+      <file ID="alto_00091_1" MIMETYPE="text/xml" CHECKSUM="e9ae0ed4aff79f9c39e72ac25eb5306e" CHECKSUMTYPE="MD5" SIZE="84861">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00091_1.xml"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml" CHECKSUM="1c44904ce749d7f09c340b0991483873" CHECKSUMTYPE="MD5" SIZE="86534">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00092_0.xml"/>
+      </file>
+      <file ID="alto_00092_1" MIMETYPE="text/xml" CHECKSUM="63f74880c3cf4ff59ec85ec101e8b985" CHECKSUMTYPE="MD5" SIZE="75087">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00092_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="168" firstpage="164">
+              <docketnumber pgmap="180" id="AIS">Gen. No. 14,131.</docketnumber>
+              <parties pgmap="180" id="b180-7">J. W. Burdette, Appellee, v. O. B. Munger, Appellant.</parties>
+              <decisiondate pgmap="180" id="Axu">Opinion filed October 20, 1908.</decisiondate>
+              <otherdate pgmap="180" id="A57">Heard in the Branch Appellate Court at the October term, 1907.</otherdate>
+              <attorneys pgmap="181" id="b181-3">F. M. Williams and F. C. Struckmeyer, for appel­lant.</attorneys>
+              <attorneys pgmap="181" id="b181-4">Fred H. Atwood, Frank B. Pease and Charles O. Loucks, for appellee.</attorneys>
+              <summary pgmap="180" id="b180-12">Mandamus. Appeal from the Circuit Court of Cook county; the Hon. Lockwood Hondee, Judge, presiding.</summary>
+              <disposition pgmap="180" id="ARY0">Affirmed.</disposition>
+              <headnotes pgmap="180" id="b180-8">1. Mandamus—when judgment in, cannot be questioned. In a proceeding for contempt for failure to obey a writ of mandamus, the formality of the judgment rendered in the mandamus proceeding and the merits of the cause in which it was rendered cannot be questioned, where the court had jurisdiction of the parties and of the subject-matter.</headnotes>
+              <headnotes pgmap="180" id="b180-9">2. Contempt—how proceeding in, entitled. A contempt order is properly entitled in the name of The People, although it is a civil contempt. v</headnotes>
+              <headnotes pgmap="180" id="b180-11">3. Municipal corporations—when village board cannot affect status as to indebtedness by resolution. A board of trustees of a village cannot legally rescind a resolution declaring an indebtedness to a third party without the consent of such third party after such resolution has been accepted by him.</headnotes>
+              <opinion type="majority">
+                <author pgmap="181" id="b181-5">Mr. Presiding Justice Smith</author>
+                <p pgmap="181" id="Avj">delivered the opinion of the court.</p>
+                <p pgmap="181" id="b181-6">The Circuit Court in a proceeding for a writ of mandamus against appellant, O. B. Hunger, as presi­dent of the Village of Berwyn, entered an order Feb­ruary 6, 1907, directing a writ of mandamus to issue as prayed for in the amended and supplemental peti­tion. On March 1,1907,.the writ was issued command­ing appellant Hunger forthwith to sign three warrants for $90 each in favor of John W. Burdette in payment of his salary as village superintendent for the months of May, June and July, 1906, and to deliver said war­rants forthwith to said Burdette. The writ was sub­sequently served by the sheriff upon appellant Hunger by reading the same to him and delivering to him a copy.</p>
+                <p pgmap="181" id="b181-7">Appellant Hunger failed to comply with the judg­ment and writ and on motion, based on an affidavit, due notice of the motion having been given, the Cir­cuit Court entered a rule on Hunger to show cause why he should not be punished for contempt of court for failing to comply with the writ of mandamus.</p>
+                <p pgmap="181(103) 182(90)" id="b181-8">Appellant filed an answer to the rule to show cause wherein the sufficiency of the writ of mandamus and the order for the same is questioned. Subsequently, by leave of court, appellant filed a supplemental an­swer in which he represents to the court that on April 10,1907, the board of trustees of the village of Berwyn adopted a resolution rescinding and revoking the reso­lutions of June 19, July 3 and August 6, 1906, direct­ing and authorizing the president and clerk of the village of Berwyn to draw the warrants named in the petition and writ of mandamus. The answer further set up that the warrants referred to in the resolution and in the writ of mandamus are identical; and that the action of the board of trustees in rescinding and reversing its previous resolution was a matter for their proper legislative determination, and that by the adoption of the later resolution appellant was de­prived of the power to sign the warrants mentioned in the writ. Appellant in his answer disclaims any intention of contumacious conduct toward the court and prays that the rule entered against him be dis­charged.</p>
+                <p pgmap="182" id="b182-5">On April 30, 1907, an order was entered, entitled “People of the State of Illinois v. O. B. Hunger,” which recites that this cause came on to be heard upon the rule issued to show cause and upon answer to the rule; and the court having heard the evidence finds that the writ of mandamus was duly served upon the respondent O. B. Munger by the sheriff of Cook county, and that the respondent failed and refused to comply with the writ; that a certified copy of the rule to show cause was served upon said Munger and that he persists in his refusal to comply with said writ and has failed to purge himself of said contempt; and ad­judges said Munger is guilty of contempt of the court in failing to obey said writ, and that he be impris­oned in the county jail of Cook county for the period of seven days, or until he shall comply with said writ of mandamus.</p>
+                <p pgmap="182" id="b182-6">From this order appellant prosecutes this appeal.</p>
+                <p pgmap="182" id="b182-7">The main question before the court on this appeal is the sufficiency of appellant’s answer to the rule to show cause.</p>
+                <p pgmap="182(63) 183(22)" id="b182-8">The trial court had jurisdiction of appellant Mun­ger, and of the subject-matter of the petition. It therefore had full authority to render the judgment for a peremptory mandamus. The judgment was final, and no appeal or writ of error was prosecuted to reverse it. The formality of that order or the mer­its of the case cannot be questioned in this proceeding. Leopold v. People, 140 Ill. 557; Clark v. Burke, 163 id. 334; Swedish American Tel. Co. v. Casualty Co., 208 id. 562.</p>
+                <p pgmap="183" id="b183-4">The contempt order was properly entitled in the name of the People, although it was a civil contempt. People v. Didrich, 141 Ill. 670; Lester v. The People, 150 id. 426; Hannah v. The People, 198 id. 77; Glay v. The People, 94 Ill. App. 598. As was said in Stearns v. Joy, and Same v. The People, 41 Ill. App. 157, quot­ing from Winslow v. Nayson, 113 Mass. 411-420: ‘ ‘ The contempt proceeding is really but an incident to the principal cause, and all the papers relating to it should be filed with the other papers in the case.” The court in that case cites Sercomb v. Catlin, 128 Ill. 556, a proceeding entitled in the name of the receiver in which the defendant was adjudged guilty and the judgment was affirmed, and then proceeds to say: “This objection seems rather immaterial here as ap­pellant was held upon proceedings before the court; and by its order an additional title was there given to the action. ’ ’ '</p>
+                <p pgmap="183" id="b183-6">We think the record shows sufficiently that the fail­ure of appellant to sign and deliver the warrants in­jured appellee.</p>
+                <p pgmap="183(142) 184(18)" id="b183-7">In our opinion the board of trustees of the village of Berwyn could not rescind legally in 1907 the reso­lutions passed in 1906, which declared the village of Berwyn indebted to appellee for services rendered and ordered warrants to issue to appellee therefor without the consent of appellee after he accepted the action of the board. McConoughey v. Jackson, 101 Cal. 270. The rescinding action of the board of trustees did not therefore excuse appellant from obeying the peremp­tory writ. His duty was to obey the writ, or procure a reversal of the judgment. This court cannot justify him in refusing to be guided by the resolution of 1906, and the judgment of the court, and uphold him in obey­ing the resolutions of 1907, contrary to the judgment of the court while it remained in full force and effect. People ex rel. v. Salomon, 54 Ill. 44; Am. &amp; Eng. Enc. (2nd Ed.) Vol. 7, p. 73.</p>
+                <p pgmap="184" id="b184-5">Finding no error in the record, the judgment of the Circuit Court is affirmed.</p>
+                <p pgmap="184" id="b184-6">Affirmed.</p>
+                <p pgmap="184" id="b184-7">Mr. Justice Chytraus took no part in the decision of this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="180" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00090_1"/>
+        <fptr FILEID="jp2_00090_1"/>
+        <fptr FILEID="alto_00090_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.2" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.3" BETYPE="IDREF" FILEID="alto_00090_1"/>
+              <area BEGIN="BL_180.4" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="181" ORDERLABEL="165" TYPE="page">
+        <fptr FILEID="tiff_00091_0"/>
+        <fptr FILEID="jp2_00091_0"/>
+        <fptr FILEID="alto_00091_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.2" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.1" BETYPE="IDREF" FILEID="alto_00091_0"/>
+              <area BEGIN="BL_181.3" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="182" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jp2_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.2" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.3" BETYPE="IDREF" FILEID="alto_00091_1"/>
+              <area BEGIN="BL_182.4" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jp2_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.2" BETYPE="IDREF" FILEID="alto_00092_0"/>
+              <area BEGIN="BL_183.4" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="184" ORDERLABEL="168" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jp2_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.2" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.3" BETYPE="IDREF" FILEID="alto_00092_1"/>
+              <area BEGIN="BL_184.4" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARY0" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.16" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.10" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A57" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.14" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            <area BEGIN="BL_180.15" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.11" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            <area BEGIN="BL_182.1" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.6" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.5" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.10" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.9" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.4" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.7" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avj" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.7" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            <area BEGIN="BL_181.8" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.6" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.5" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIS" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.8" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.12" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            <area BEGIN="BL_180.13" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.7" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            <area BEGIN="BL_184.1" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.11" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.8" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_183.1" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axu" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.17" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            <area BEGIN="BL_180.18" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.9" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.5" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.6" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.7" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

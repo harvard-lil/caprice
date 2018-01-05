@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0060" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Savage v. Chicago &amp; Alton R. R.">John H. Savage, Plaintiff in Error, v. Chicago &amp; Alton R. R. Co., Defendant in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 400</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00209_1" MIMETYPE="image/tiff" CHECKSUM="9da21629b572c133e7a10e000a0c3e60" CHECKSUMTYPE="MD5" SIZE="44374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00209_1.tif"/>
+      </file>
+      <file ID="tiff_00210_0" MIMETYPE="image/tiff" CHECKSUM="1ca932db0126cba4c4a6bcfe13ea8b58" CHECKSUMTYPE="MD5" SIZE="54076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00210_0.tif"/>
+      </file>
+      <file ID="tiff_00210_1" MIMETYPE="image/tiff" CHECKSUM="f40c06ec86e5bf87dd6c820a20f5eebf" CHECKSUMTYPE="MD5" SIZE="53112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00210_1.tif"/>
+      </file>
+      <file ID="tiff_00211_0" MIMETYPE="image/tiff" CHECKSUM="41a0010e1b7659b175b4ad4f3f6a343d" CHECKSUMTYPE="MD5" SIZE="38778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00209_1" MIMETYPE="image/jp2" CHECKSUM="314db3a72e08e9b04a9cf20dcf7fdbdd" CHECKSUMTYPE="MD5" SIZE="2338641">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00209_1.jp2"/>
+      </file>
+      <file ID="jp2_00210_0" MIMETYPE="image/jp2" CHECKSUM="25e47d91fde7c2f78734cea4e1474f06" CHECKSUMTYPE="MD5" SIZE="2487552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00210_0.jp2"/>
+      </file>
+      <file ID="jp2_00210_1" MIMETYPE="image/jp2" CHECKSUM="103d7ba1e4fe47423d679c6369307a25" CHECKSUMTYPE="MD5" SIZE="2423569">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00210_1.jp2"/>
+      </file>
+      <file ID="jp2_00211_0" MIMETYPE="image/jp2" CHECKSUM="c547d2ade68253687e8974c0fe1ad72a" CHECKSUMTYPE="MD5" SIZE="2371158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00211_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00209_1" MIMETYPE="text/xml" CHECKSUM="a5bee23f7a847bad3ed15897f10540b1" CHECKSUMTYPE="MD5" SIZE="82698">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00209_1.xml"/>
+      </file>
+      <file ID="alto_00210_0" MIMETYPE="text/xml" CHECKSUM="df03c1f1c16c9cf89ac0f223dd98dc97" CHECKSUMTYPE="MD5" SIZE="94724">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00210_0.xml"/>
+      </file>
+      <file ID="alto_00210_1" MIMETYPE="text/xml" CHECKSUM="ac7493143563921578c408614a2e0b45" CHECKSUMTYPE="MD5" SIZE="93052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00210_1.xml"/>
+      </file>
+      <file ID="alto_00211_0" MIMETYPE="text/xml" CHECKSUM="90d0911504d20791dae31e88b6ba6f98" CHECKSUMTYPE="MD5" SIZE="68521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00211_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="403" firstpage="400">
+              <parties id="b418-4" pgmap="418">John H. Savage, Plaintiff in Error, v. Chicago &amp; Alton R. R. Co., Defendant in Error.</parties>
+              <decisiondate id="Aac" pgmap="418">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b418-7" pgmap="418">John E. Pollock and J. Bert Miller, for plaintiff in error.</attorneys>
+              <attorneys id="b418-8" pgmap="418">Bracken, Young &amp; Peirce, for defendant in error; F. S. Winston, of counsel.</attorneys>
+              <summary id="b418-6" pgmap="418">Action in case for death caused by alleged wrongful act. Error to the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="A8YK" pgmap="418">Affirmed.</disposition>
+              <headnotes id="b418-5" pgmap="418">Instructions—when peremptory properly given. In an action for death caused by alleged wrongful act, a peremptory instruction is properly given if after a careful consideration of all the evidence adduced by the plaintiff, together with all reasonable inferences which can be properly drawn therefrom, the same does not fairly tend to establish that the proximate cause of the death of the plaint­iff’s intestate was the failure of the defendant to exercise due care as charged in the declaration.</headnotes>
+              <opinion type="majority">
+                <author id="b418-9" pgmap="418">Per Curiam.</author>
+                <p id="Auz" pgmap="418">This is an action in case by plaintiff in error as administrator of the estate of Lewis H. Mil­ler, deceased, against defendant in error, for recovery of damages for the death of said Miller who was killed by a switch engine in the yards of defendant, at Joliet, while in its employ. At the close of the plaintiff’s evidence the trial court directed a verdict of not guilty, and rendered judgment thereon in bar of the action. To reverse such judgment this writ of error was sued out by the plaintiff.</p>
+                <p id="b418-10" pgmap="418(70) 419(167)">The first additional count of the declaration charges that Miller was at the time of his death in charge of the round-house of the defendant at Joliet, and that as such it became his duty in the night time to super­intend and direct the placing of an additional engine to a certain passenger train which had just then ar­rived on the north bound track; that it became neces­sary in order to permit the additional engine to be run north over a switch to the north bound main track and backed down to the hind end of the passenger train, to detach the engine of the passenger train there­from and run it north past such switch, where a siding entered the north bound track from the east; that while Miller was engaged in said duty, the servants of the defendant in charge of a certain switch engine backed the same southward on the south bound main track, in the night time, and that because of their neg­ligence in improperly managing said engine, and in failing to have a switchman or other employe on the rear foot board of the same, said engine ran over said Miller and killed him. Other counts charge that no proper lookout was kept by the engineer and others in charge of the switch engine and that the head light on the rear end thereof was not properly lighted.</p>
+                <p id="b419-4" pgmap="419(216) 420(161)">The evidence shows that the defendant was oper­ating a double track railroad running north and south through Joliet, the west track of which was known as the south bound track and the east track as the north bound track, and that there was a siding east of the north bound track; that Miller had been round-house foreman for the defendant for about four years, and that one Norton was night round-house foreman; that on the day he was injured, Miller and the yard master jointly received an order from Bloomington, directing them to have engine 32 ready to be attached with engine 41 as a double head to train No. 4 from Joliet to Chicago, which would reach Joliet at 7:30 p. m., and to put engine 32 next to train No. 4. Pursuant to such order Miller placed engine 32 on the siding, and at about 7:30 o’clock, together with the yard master and Norton, went to the place where the double header was to be placed on the passenger train, and awaited its arrival. Upon the arrival of said passenger train from the south on the north bound track, the train was stop­ped just before the engine thereon reached the switch leading to the siding upon which engine 32 stood. . The yardmaster cut regular engine 41 off the east end of the passenger train, and the same was then run down north over the switch, and thereupon engine 32 was run off the siding past said switch on to the north bound main track and backed down to the head of the passenger train. Engine 41 was then backed down to the head end of engine 32. Norton then left Miller standing between the two main tracks. Between the time that engine 41 was cut off the passenger train and engine 32 was backed down to said train, a switch engine backed down the south bound main track and ran over Miller, at a point about opposite engine 32. He was instantly killed. His body was found lying across the east rail of the south bound track, in between the rails, with his legs outside of the east rail. The switch engine was at the time running about two miles an hour.</p>
+                <p id="b420-5" pgmap="420">The record is silent as to what the deceased was doing or what occurred at the time he met with his death. How he happened to be run over is altogether a matter of conjecture, as there were no eye witnesses to the accident. There was evidence tending to show that there was no switchman on the rear foot-board of the switch engine. The negligence relied upon in argument as a basis of recovery seems to be the fail­ure of the engineer of the switch engine to observe that the deceased was upon or- so near the south bound track as to be in danger. It is urged that by the exer­cise of ordinary care he would have known of the pres­ence of the deceased in time to have -stopped the en­gine and avoided injury to him.</p>
+                <p id="b420-6" pgmap="420(78) 421(68)">The burden was upon appellant to establish by the greater weight of the evidence that the engineer was thus negligent, and that this was the proximate cause of the death of his intestate. While the surrounding circumstances may have been sufficient to create a bare suspicion or inference that such was the case, we are of opinion, after careful consideration of all the evidence adduced by the plaintiff, together with all reasonable inferences which can be properly drawn therefrom, that the same does not fairly tend to estab­lish that the proximate cause of the death of Miller was the failure of the engineer to exercise due care as charged in the declaration, and that the jury could not without acting unreasonably, so find. It follows that the trial judge properly directed a verdict for the appellee, and that the judgment based thereon should be affirmed.</p>
+                <p id="b421-5" pgmap="421">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="418" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00209_1"/>
+        <fptr FILEID="jp2_00209_1"/>
+        <fptr FILEID="alto_00209_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.1" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_418.2" BETYPE="IDREF" FILEID="alto_00209_1"/>
+              <area BEGIN="BL_418.3" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="419" ORDERLABEL="401" TYPE="page">
+        <fptr FILEID="tiff_00210_0"/>
+        <fptr FILEID="jp2_00210_0"/>
+        <fptr FILEID="alto_00210_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_419.3" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_419.2" BETYPE="IDREF" FILEID="alto_00210_0"/>
+              <area BEGIN="BL_419.4" BETYPE="IDREF" FILEID="alto_00210_0"/>
+              <area BEGIN="BL_419.6" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="420" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00210_1"/>
+        <fptr FILEID="jp2_00210_1"/>
+        <fptr FILEID="alto_00210_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_420.2" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_420.3" BETYPE="IDREF" FILEID="alto_00210_1"/>
+              <area BEGIN="BL_420.4" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="421" ORDERLABEL="403" TYPE="page">
+        <fptr FILEID="tiff_00211_0"/>
+        <fptr FILEID="jp2_00211_0"/>
+        <fptr FILEID="alto_00211_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.3" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_421.2" BETYPE="IDREF" FILEID="alto_00211_0"/>
+              <area BEGIN="BL_421.4" BETYPE="IDREF" FILEID="alto_00211_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-10" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.14" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            <area BEGIN="BL_419.1" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.9" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.6" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.5" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.4" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.11" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b418-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.10" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.6" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            <area BEGIN="BL_421.1" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aac" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.8" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8YK" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.7" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b421-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_421.5" BETYPE="IDREF" FILEID="alto_00211_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.5" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            <area BEGIN="BL_420.1" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.5" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auz" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_418.12" BETYPE="IDREF" FILEID="alto_00209_1"/>
+            <area BEGIN="BL_418.13" BETYPE="IDREF" FILEID="alto_00209_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

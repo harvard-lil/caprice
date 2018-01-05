@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0045" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Wertz v. Mulloy">Charles Wertz et al., v. Appellees, v. Alice Mulloy, Appellant</name>
+          <docketnumber>Gen. No. 4,954</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 329</citation>
+          <decisiondate>1908-04-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="3d7d5a8854657e759b6733a4fe47273a" CHECKSUMTYPE="MD5" SIZE="39222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="b1627c8bf33a678c5e44a49394986d20" CHECKSUMTYPE="MD5" SIZE="44088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_1.tif"/>
+      </file>
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="c4aed2a8f14f4e2a13bf430f9ac3dea8" CHECKSUMTYPE="MD5" SIZE="52370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00174_0.tif"/>
+      </file>
+      <file ID="tiff_00174_1" MIMETYPE="image/tiff" CHECKSUM="bc04e633833c11ca0b7ef076fddfba93" CHECKSUMTYPE="MD5" SIZE="53146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00174_1.tif"/>
+      </file>
+      <file ID="tiff_00175_0" MIMETYPE="image/tiff" CHECKSUM="c8d97630575cfba5d9aa8ab8b8a1459a" CHECKSUMTYPE="MD5" SIZE="54044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00175_0.tif"/>
+      </file>
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="fd7a863d6b366f5c592eeac26d491e35" CHECKSUMTYPE="MD5" SIZE="53308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00175_1.tif"/>
+      </file>
+      <file ID="tiff_00176_0" MIMETYPE="image/tiff" CHECKSUM="439bf93a1eed51dd6463fd55df6fa33f" CHECKSUMTYPE="MD5" SIZE="53888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00176_0.tif"/>
+      </file>
+      <file ID="tiff_00176_1" MIMETYPE="image/tiff" CHECKSUM="8b7378d60196f75af7840dbf1e39c156" CHECKSUMTYPE="MD5" SIZE="53420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00176_1.tif"/>
+      </file>
+      <file ID="tiff_00177_0" MIMETYPE="image/tiff" CHECKSUM="118d4fe155c4ce98828ad5c0fb9e40f4" CHECKSUMTYPE="MD5" SIZE="56870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00177_0.tif"/>
+      </file>
+      <file ID="tiff_00177_1" MIMETYPE="image/tiff" CHECKSUM="322114873eaef809f1d87cd8b6b35139" CHECKSUMTYPE="MD5" SIZE="53998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00177_1.tif"/>
+      </file>
+      <file ID="tiff_00178_0" MIMETYPE="image/tiff" CHECKSUM="11858aed88306e2c4693a10a8007c255" CHECKSUMTYPE="MD5" SIZE="53466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00178_0.tif"/>
+      </file>
+      <file ID="tiff_00178_1" MIMETYPE="image/tiff" CHECKSUM="0496bc1cac73ecf620c7e2b10b85081d" CHECKSUMTYPE="MD5" SIZE="54766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00178_1.tif"/>
+      </file>
+      <file ID="tiff_00179_0" MIMETYPE="image/tiff" CHECKSUM="7279678ae1b091cb80b88542ebd9a718" CHECKSUMTYPE="MD5" SIZE="46106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00179_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="f0b10922bf2243bac1e09d48a4b68ca3" CHECKSUMTYPE="MD5" SIZE="2293171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_0.jp2"/>
+      </file>
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="d7fa8550ff38e11fc609400f24f7c364" CHECKSUMTYPE="MD5" SIZE="2304930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00173_1.jp2"/>
+      </file>
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="c25dffe45aff8c834fe0992bbbdb3292" CHECKSUMTYPE="MD5" SIZE="2393030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00174_0.jp2"/>
+      </file>
+      <file ID="jp2_00174_1" MIMETYPE="image/jp2" CHECKSUM="31eb9a1bc65926823cd147d0a09d3c6d" CHECKSUMTYPE="MD5" SIZE="2358062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00174_1.jp2"/>
+      </file>
+      <file ID="jp2_00175_0" MIMETYPE="image/jp2" CHECKSUM="249ce5d0145e56987fa0dc151a3a5d7c" CHECKSUMTYPE="MD5" SIZE="2399719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00175_0.jp2"/>
+      </file>
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="7f061f302ad2081a69d417ae58e2cdc3" CHECKSUMTYPE="MD5" SIZE="2368361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00175_1.jp2"/>
+      </file>
+      <file ID="jp2_00176_0" MIMETYPE="image/jp2" CHECKSUM="af82ee07ace8b7127bcbe31664a7462c" CHECKSUMTYPE="MD5" SIZE="2416734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00176_0.jp2"/>
+      </file>
+      <file ID="jp2_00176_1" MIMETYPE="image/jp2" CHECKSUM="8499e7824ed63964504a76eafebaccf3" CHECKSUMTYPE="MD5" SIZE="2355851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00176_1.jp2"/>
+      </file>
+      <file ID="jp2_00177_0" MIMETYPE="image/jp2" CHECKSUM="9ba9fca934d9e38461e27e0e6850bf8d" CHECKSUMTYPE="MD5" SIZE="2385675">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00177_0.jp2"/>
+      </file>
+      <file ID="jp2_00177_1" MIMETYPE="image/jp2" CHECKSUM="614428c8efda5d4f1f0ba04ed043820d" CHECKSUMTYPE="MD5" SIZE="2355301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00177_1.jp2"/>
+      </file>
+      <file ID="jp2_00178_0" MIMETYPE="image/jp2" CHECKSUM="595b90b73013bebdfc81780060f937e2" CHECKSUMTYPE="MD5" SIZE="2407703">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00178_0.jp2"/>
+      </file>
+      <file ID="jp2_00178_1" MIMETYPE="image/jp2" CHECKSUM="ac20ba41756cbd16bdf5405bf2396e6d" CHECKSUMTYPE="MD5" SIZE="2380380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00178_1.jp2"/>
+      </file>
+      <file ID="jp2_00179_0" MIMETYPE="image/jp2" CHECKSUM="aa8fe0ac9ae1939dd52289ebd6812cb5" CHECKSUMTYPE="MD5" SIZE="2343143">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00179_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="be1619bfe331051774e292953a703084" CHECKSUMTYPE="MD5" SIZE="72530">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00173_0.xml"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="0f3b4b7c4cb620dd02b0b1e5e8200572" CHECKSUMTYPE="MD5" SIZE="81443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00173_1.xml"/>
+      </file>
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="07f779bbc25b033c1d57010bfeb6a823" CHECKSUMTYPE="MD5" SIZE="88104">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00174_0.xml"/>
+      </file>
+      <file ID="alto_00174_1" MIMETYPE="text/xml" CHECKSUM="f1bdc61eb9fa1266b34b949e8e8a412a" CHECKSUMTYPE="MD5" SIZE="85684">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00174_1.xml"/>
+      </file>
+      <file ID="alto_00175_0" MIMETYPE="text/xml" CHECKSUM="3a4c973854e28e5e933425a17a641f2b" CHECKSUMTYPE="MD5" SIZE="86446">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00175_0.xml"/>
+      </file>
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="27391abedc047b4195f7cb84709a8e2c" CHECKSUMTYPE="MD5" SIZE="92079">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00175_1.xml"/>
+      </file>
+      <file ID="alto_00176_0" MIMETYPE="text/xml" CHECKSUM="6ceebd874f8c451395317ac3f93b1005" CHECKSUMTYPE="MD5" SIZE="91598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00176_0.xml"/>
+      </file>
+      <file ID="alto_00176_1" MIMETYPE="text/xml" CHECKSUM="58895209d54eb6409a86b862aff94da1" CHECKSUMTYPE="MD5" SIZE="87256">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00176_1.xml"/>
+      </file>
+      <file ID="alto_00177_0" MIMETYPE="text/xml" CHECKSUM="a6706d6a7cbfa074a7b5c85ffe8f1106" CHECKSUMTYPE="MD5" SIZE="91219">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00177_0.xml"/>
+      </file>
+      <file ID="alto_00177_1" MIMETYPE="text/xml" CHECKSUM="66d1ae31c0e06d7e0f8dcba657cbc5c3" CHECKSUMTYPE="MD5" SIZE="92043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00177_1.xml"/>
+      </file>
+      <file ID="alto_00178_0" MIMETYPE="text/xml" CHECKSUM="728af5d2dc0464d4c801359ea84134a1" CHECKSUMTYPE="MD5" SIZE="82317">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00178_0.xml"/>
+      </file>
+      <file ID="alto_00178_1" MIMETYPE="text/xml" CHECKSUM="0087fbceeab8e57f6fcf37020844b834" CHECKSUMTYPE="MD5" SIZE="85556">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00178_1.xml"/>
+      </file>
+      <file ID="alto_00179_0" MIMETYPE="text/xml" CHECKSUM="97033e2f9a562a85eca4bb5253759ee2" CHECKSUMTYPE="MD5" SIZE="75323">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00179_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0045" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="341" firstpage="329">
+              <docketnumber pgmap="345" id="b345-12">Gen. No. 4,954.</docketnumber>
+              <parties pgmap="345" id="b345-10">Charles Wertz et al., v. Appellees, v. Alice Mulloy, Appellant.</parties>
+              <decisiondate pgmap="346" id="Acq">Opinion filed April 22, 1908.</decisiondate>
+              <otherdate pgmap="346" id="AEU">Heard in this court at the October term, 1907.</otherdate>
+              <otherdate pgmap="346" id="Abo">Rehearing denied October 13, 1908.</otherdate>
+              <attorneys pgmap="346" id="b346-7">A. L. Granger, for appellant.</attorneys>
+              <attorneys pgmap="346" id="b346-8">Eben B. Gower and Smith &amp; Marcotte, for appel­lees.</attorneys>
+              <summary pgmap="346" id="b346-6">Mechanic’s lien. Appeal from the Circuit Court of Kankakee county; the Hon. Frank L. Hooper, Judge, presiding.</summary>
+              <disposition pgmap="346" id="AF5">Affirmed.</disposition>
+              <headnotes pgmap="345" id="b345-13">1. Mechanic’s liens—section 1 of act of 1908 construed. The words “authorized or knowingly permitted” contained in section 1 of the act of 1903 apply notwithstanding the person who con­tracted for the improvement had an interest in the property im­proved.</headnotes>
+              <headnotes pgmap="345" id="b345-14">2. Mechanic’s liens—“knowingly permitted” defined. One know­ingly permits a thing to he done who, knowing that it is to be done, and being present when he can object, and who has an interest to object, does not object.</headnotes>
+              <headnotes pgmap="345" id="b345-15">3. Mechanic’s liens—against whom relief cannot he granted. A lien cannot be decreed against the interest of a party in land sought to be subjected if no allegations have been made against such party.</headnotes>
+              <headnotes pgmap="345(51) 346(40)" id="b345-16">4. Mechanic’s lien—what decree in favor of sub-contractors should provide. Under ordinary conditions the balance due the original contractor after payment of the preferred claims of labor­ers should be divided by decree pro rata among those who fur­nished material, but held, under the special facts of this case, that the award to the subcontractors, whose status under the evidence was practically that of an original contractor, should be extended beyond the sum due the original contractor and should be in full of all of the claims of such subcontractors.</headnotes>
+              <headnotes pgmap="346" id="b346-5">5. Appeals and ebbors—upon what error cannot he assigned. A question not raised in the trial court by the pleadings or other­wise cannot be first raised on review.</headnotes>
+              <opinion type="majority">
+                <author pgmap="346" id="b346-9">Mr. Justice Dibell</author>
+                <p pgmap="346" id="AFS">delivered the opinion of the court.</p>
+                <p pgmap="346" id="b346-10">In September, 1903, Mrs. Athenaiss Mulloy, a widow, lived in a house upon a lot in an addition to the city of Kankakee with her daughter Alice Mulloy, and with the six children of a deceased daughter-in-law. Mrs. Mulloy was then between sixty-three and sixty-­four years of age and Alice was thirty-six years of age. Another daughter, Mary Mulloy, was a teacher in Chicago, and considered this place her home. On September 23, 1903, Mrs. Mulloy entered into a writ­ten contract with W. P. McIIatton, by which the latter was to remodel said house and build a new addition thereto, according to plans and specifications, for $1,125, upon which Mrs. Mulloy was to pay 85% of the amount of labor and material on the ground as often as every two weeks, and the rest when the building was com­plete and accepted and proof made that no liens or claims stood against the building. The contract de­scribed Mrs. Mulloy as owner. The signatures thereto appear as follows:</p>
+                <blockquote pgmap="346" id="b346-11">“W. P. McHatton. [Seal.]</blockquote>
+                <blockquote pgmap="346" id="AFR">Athenaiss Mulloy. [Seat,.]</blockquote>
+                <blockquote pgmap="346" id="b346-12">In the presence of Alice Mulloy. [Seal.]”</blockquote>
+                <p pgmap="347" id="b347-4">McHatton began the work soon thereafter, and about October 15 the family removed to another house in order to permit the work to proceed. Mrs. Mulloy was last out of her house on November 19, 1903. By Thanksgiving day she was seriously ill. By or before January, 1904, her physicians had forbidden that any one be allowed to see her. She died on February 28, 1904. In May, 1904, the building had reached such a condition that it could again be inhabited, and Alice Mulloy then moved back into it with the grandchil­dren. The work was completed in June, 1904. The long continuation of the work is not directly explained in the evidence, but the proof shows that Mrs. Mulloy personally and by the hand of Alice paid McHatton $100 on October 17, $300 on October 31, and $125 in December, all in 1903; and that nothing further was ever paid upon the contract, except that after this suit was begun Alice paid a small bill to one party who furnished hardware for the building. It is a fair in­ference from the proofs that this delay in payment de­layed the completion of the building.</p>
+                <p pgmap="347(166) 348(18)" id="b347-5">In fact, Mrs. Mulloy was not the owner in fee of the premises. She owned a life estate in these prem­ises and also in a farm in Iroquois county. The re­mainder in this lot was in her daughters, Alice and Mary. In certain questions and answers it is implied that this was under the will of her deceased husband; Mrs. Mulloy left a will giving all her property to Alice and Mary, and appointing Alice executrix, and that will was duly probated. Alice introduced proofs in this case tending to show that this state of the title was fully made known by Mrs. Mulloy to McHatton. The testimony introduced by the lienors tends to show that all McHatton was given to understand by Mrs. Mulloy was that the property would go to Alice and Mary after her death, leaving him to suppose that she was the owner and intended to will it to them. The cross-­examination and a later examination of the witnesses for Alice Mulloy tended to show that the statement made to McHatton was as indefinite as he claims.</p>
+                <p pgmap="348" id="b348-5">Charles Wertz furnished lumber used in this build­ing. Walter H. Smith was a stone mason and fur­nished brick, stone and mortar, and did work on the foundations and plastered the building. John Paulis­sen furnished mill work for the building, such as doors and door frames, window and window frames, etc., all after Mrs. Mulloy’s death. McHatton paid to Wertz $100 of the money he received from Mrs. Mulloy. Nothing further has been paid to these subcontractors and material men. On August 24, 1904, Wertz filed his bill against McHatton, Paulissen, Walter H. Smith and Alice Mulloy personally and as executrix for a subcontractor’s lien for the amount due him. This bill was based on the theory that Mrs. Mulloy was the owner when the contract was made, and that these premises passed to Alice by Mrs. Mulloy’s will. Alice answered, setting up that Mrs. Mulloy was only a life tenant, and that the remainder was in Alice and Mary. Wertz then filed an amended bill, to which Mary also was named as defendant. Mary does not seem to have been served with summons but she and Alice filed demurrers to said amended bill, which were sustained. Afterwards Wertz filed a second amended bill, which set up correctly the title, and sought to charge Alice by virtue of her conduct as hereinafter stated. Alice answered. Smith and Paulissen each filed his com­bined answer and cross bill, seeking a decree for the amount due him. Proofs were taken and reported by a master, and further proofs were heard before the court, and there was a decree in favor of Wertz, Smith and Paulissen, respectively, against the undivided one-­half interest of Alice Mulloy in this property. She appeals from that decree.</p>
+                <p pgmap="348(39) 349(323)" id="b348-6">There was a' sharp dispute as to the facts. We have, carefully read not only the evidence in the abstract, but also the evidence in the record, from which latter we gained a much more complete understanding of the controverted questions than from the abstract. The •proof introduced by appellees tended strongly to show that Alice participated with her mother in all the in­terviews and discussions with McHatton which pre­ceded the preparation of the written contract; that she signed it in the manner above indicated for the pur­pose of being a witness to its execution; that after her mother’s illness began she took practical charge of directing the work; that both before and after her mother’s death she caused many radical and important changes to be made from what the plans and specifica­tions required, and that she repeatedly promised Wertz and Smith to pay them for their work and materials upon the building and that she secured the completion of the work and the furnishing of the materials by her express and repeated promises to pay; that Paulis­sen made no contract with McHatton for the mill work, but that it was ordered directly by Alice from Paulis­sen, and furnished by him to the building or to Mc-­Hatton upon her orders and upon her express promise to pay him therefor. Appellant denied many of these orders for changes; denied that the changes were so important and extensive as appellees claimed; and denied that she had ever promised to pay any of the claimants; and she also set up various slight defects in the work; and she denied that she contracted with Paulissen or ordered the mill work from him. It is not reasonable to, suppose that after Mrs. Mulloy’s seri­ous illness, and after her death, these men would have continued to furnish labor and material and would have finished the building without any pay and with­out any assurances of pay from any one. Upon read­ing all the evidence upon these subjects in the record, we cannot say that the trial court decided these con­tentions erroneously and should have found the other way.</p>
+                <p pgmap="349(31) 350(379)" id="b349-5">Section one of the act of 1903 in relation to me­chanic’s liens gives a lien to any one whom the owner of a lot “has authorized or knowingly permitted to contract for the improvement of or to improve the same, furnish material, fixtures,” etc., for the improve­ment of such lot. The act of 1895 contained a similar provision. It is contended by appellant that the words “authorized or knowingly permitted” should not be applied to a case where the person who contracted to have the improvement made had some interest or es­tate in the lot upon which the improvement was to be made; and that as Mrs. Mulloy had a life estate in the property, the lien should have been confined to her life estate. To so hold would be to disregard the natural meaning of the words of the statute, and would prac­tically defeat the statute. Even under former lien laws, it was possible for the owner to pursue such a course of conduct as to estop him from defeating a lien for an improvement put upon his premises by another. The present statute and the act of 1895 were intended to go further. He knowingly permits a thing to be done who, knowing that it is being done, and being present where he can object, and who has an interest to object, does not object; and still more has he know­ingly permitted it to be done if he takes part in doing it. This statute and the prior act of 1895 seem to have been so construed in Carey-Lombard Lumber Co. v. Jones, 187 Ill. 203; McCarthy v. Miller, 122 Ill. App. 299; Hughes v. McCasland, 122 Ill. App. 365. In Com. v. Curtis, 9 Allen 266, the word “permit” was held to mean “to allow by not prohibiting.” We are of opin­ion that Alice Mulloy knowingly permitted this con­tract to be made and this labor and material to be expended upon this lot of which she owned an undi­vided one-half in remainder, even under her own testi­mony, and much more so under the testimony intro­duced by appellees; and that appellees were entitled to a lien upon her interest in the land. The defects in performance, which she sought to prove, were very ' slight, were partly attributable to her own conduct, and were amply covered by the deductions made by the court below, evidently for that purpose.</p>
+                <p pgmap="351(378) 352(281)" id="b351-4">Appellant contends that if the estate in remainder is subject to any liens for these improvements, then those liens should have been enforced against the interest of Mary Mulloy as well as of appellant. Mary was never summoned. She was named a defendant in the first amended bill, and the attorneys for Alice filed a demurrer to said bill for Mary also, and that demurrer was sustained. Mary was also named as a defendant in the second amended bill. She did not answer it and no notice seems to have been afterwards taken of her as a party, and she was never afterwards named as a party in the title of the cause upon the docket. She was not named as a party in the cross bills. No facts were stated in the second amended bill or in the cross bills which would have entitled appellees to any lien against Mary’s interest. Alice did not in her answer state any facts which would make the interest of Mary liable with her interest. She did not raise this ques­tion in the court below. We are of opinion that she should not be permitted to raise it for the first time in this court; but, waiving that, we conclude no error was committed. As already said, there was no allega­tion against Mary that would have supported a decree against her interest. The proofs were very meagre to charge her interest. She was present at home when her mother had the first interview with McHatton, in which her mother discussed different methods of re­pairing the house but came to no conclusion. Mary then returned to her school in Chicago. She came home at Thanksgiving, and seems to have remained at home till January on account of her mother’s serious illness. The family were then living five or more blocks from this house, and Mary is not shown to have known what was being done or to have participated in it, except that she went once to Paulissen’s mill with Alice when Alice was considering what style of door to adopt, and this seems to have been in April, though Alice and Mary testified it was in December or Janu­ary. Mary was home at her mother’s funeral, and stayed several days while her sister, Alice, was ill and confined to the house. It is obvious that it would be difficult to support a decree against Mary’s inter­est upon this proof. The liability of the interest of Alice to the liens rests upon substantial and unassail­able grounds under this statute. We are of opinion appellees were not required to imperil their decrees for liens by taking it against Mary’s interest. It is urged that under this decree Alice will lose her home, and Mary will reap the benefits and that Alice cannot compel Mary to contribute. Not only did the same at­torneys appear for Mary who appear for Alice, but Mary is the sole surety for Alice upon her appeal bond of $2,000 securing the payment of these liens in this case, and the sisters are evidently acting in entire har­mony in resisting the decree. It must be assumed that Alice considered whether Mary would contribute or could be compelled to contribute, before she knowingly permitted this contract to be entered into and actively participated in making the improvement. The amount required to be paid by this decree, excluding interest, added to the amount already paid, only makes $1,693.35, while the proof shows it has cost McHatton and the others $2,333.55, excluding interest, and that it cannot be reproduced for less money. In other words, as McHatton shows, he entirely underestimated the work required to repair and renew this old building, and he took the contract at too low a figure, and there is a loss to those who have done the work and fur­nished the materials of about $640 when this decree is satisfied.</p>
+                <p pgmap="352(77) 353(287)" id="b352-5">McHatton testified that he had furnished extras to the amount of $436. The correctness of this is dis­puted, and there is some uncertainty to a small amount in the items entering into that sum, but upon a caréful examination of the whole record we are satisfied that that amount is substantially correct. There was proof of slight defects in foundation and cistern and plaster, and of the cost of repairing these; of a failure to fur­nisk one screen down stairs, and four screens for the attic, and it was a disputed point whether the specifi­cations called for screens over openings in the attic; and there was proof authorizing a slight deduction for a difference in the kind of lumber used in the hall floor. Because of these matters the court below reduced the allowance for extras to $383.75, making the contract price and extras amount to $1,508.75, and we conclude appellant cannot justly complain of that allowance. Deducting the $525 paid from that total, left $983.75, which the court found was due Mcliatton at the com­pletion of the entire contract on June 13, 1904, and upon which the court allowed interest at 5% per an­num to the date of the decree. It is argued that as the contract provided that the last 15% of the contract price should be paid when proof was made that no liens or claims stood against the building, and as there are liens against the building, the court should have al­lowed interest to the date of the decree on only 85% of the amount found due. But the contract required 85% of the labor and material on the ground to be paid as often as every two weeks. That contract was broken. No payment was made after December, 1903. The owner was very much in arrears long before the work was completed. It is evident there would have been no liens if the owner had kept that agreement. The claims for liens and this law suit arise from the failure of the owner to pay as agreed. Under such circumstances, we conclude that this decree as to in­terest is equitable and proper.</p>
+                <p pgmap="353(85) 354(81)" id="b353-5">The $525 was paid without requiring the contractor to furnish the statement under oath, which it was the duty of the owner to obtain before paying money to the contractor, under section 5 of the lien law. But McHatton paid $425 of this for labor, and under sec­tions 26 and 27 of that act the wages of laborers con­stitute a claim which is preferred to the claims of subcontractors and material men. Therefore if such statement had been required and furnished, the $425 must still have been paid to the laborers, and as to that sum the subcontractors were not injured by the fail­ure of the owner to require such a statement. The remaining $100 which McHatton received from the-­owner he paid to Wertz, and it reduced Wertz’s bill by that amount. This was an injury to Smith, and the court adjusted that by the decree, and allowed a lien in favor of Smith for his pro rata share of said $100.</p>
+                <p pgmap="354(298) 355(16)" id="b354-5">The decree found that there was due Wertz from McHatton $559.01, and that he was entitled to interest thereon at 5% per annum from May 10, 1904, when he completed his subcontract,- to the date of the decree; that there was due Smith from McHatton $492.80, and that he was entitled to interest thereon at the same rate from June 9, 1904, when he completed his sub­contract, to the date of the decree; and found that Wertz and Smith should share pro rata in said balance of $983.75 and the interest thereon to the date of the decree due from the owner to McHatton, and have liens therefor on the interest of appellant; and fixed the sums to which they were entitled to a lien at the date of the decree at $601.75 for Wertz and $528.40 for Smith, besides $36.15 additional to Smith for his pro rata share of said $100 improperly paid to McHatton. The decree found that Paulissen was an original con­tractor with appellant as to materials furnished by him, and that he finished furnishing materials on May 18, 1904, and that there was due him $184.60 therefor, with interest from that date to the date of the decree, and that the principal and interest amounted to $212.03; and the decree gave him a lien therefor on the interest of appellant. It will be observed that by this decree the balance due to McHatton for the contract • price and for extras is divided between Wertz and Smith, and that as to them appellant’s interest in the property is only made liable for what McHatton is entitled to enforce against the property; but that the amount awarded to Paulissen is outside of and beyond the contract price and extras. The correctness of this feature of the decree is the only question which we have found it difficult to solve.</p>
+                <p pgmap="355(319) 356(257)" id="b355-5">McHatton and Paulissen each testified that they did not contract with each other concerning the material which Paulissen furnished, hut that appellant dealt directly with Paulissen in that matter. They testified that appellant and Mary and McHatton went together to Paulissen’s the first time, and appellant selected the style of some doors, but that McHatton did not con­tract for nor order the material. The proof shows that afterwards appellant telephoned to Paulissen, giving orders for material for the house; that some­times McHatton’s men at the house telephoned to Paulissen for material that was needed; that part of the material furnished by Paulissen was sent directly to the house and part of it was sent first to McHatton’s shop. Paulissen testified that appellant expressly promised to pay him for this material. Appellant testified, denying such promise, but afterwards quali­fied her denial by saying she did not remember so promising. The court found these issues for Paulis­sen and that he was an original contractor with appel­lant. But the testimony that Paulissen contracted directly with appellant is somewhat weakened by the fact that he charged the goods to McHatton on his books; that one of the exhibits attached to his answer and cross bill is an alleged notice which recites that he had been employed by McHatton to furnish him the necessary mill work for this improvement; that an­other of his exhibits, entitled “Statement of claim for lien,” recites a verbal contract with McHatton to fur­nish such mill work, and that he did furnish it at the special instance and request of McHatton. The an­swer and cross bill of Paulissen, however, did not aver a contract between McHatton and Paulissen, but a con­tract directly between appellant and Paulissen, and that Paulissen furnished the material directly upon appellant’s orders. It is contended by appellant that Paulissen was a subcontractor only, and did not give the necessary notice within the time fixed by law there­for, and because of that failure had no lien. We are satisfied that appellant was present when the original order was given, and selected the styles she wished, and either gave the order or joined with McHatton in giving it, and afterwards ordered material directly from Paulissen, and that she so dealt directly with him that she cannot now complain of any delay in fur­nishing the subcontractor’s notice required by statute; and that the statement of his account which he fur­nished her a few days after he finished delivering ma­terials, and which she accepted without objection, and which truly stated the condition of his account, does not permit her to now defeat his claim for a lien by alleging non-compliance with the subcontractor’s duty to give notice, etc. But the material he furnished was to a greater or less extent a part of what" McHatton contracted to furnish, and the serious question is whether the decree should have divided the amount remaining due to McHatton among Wertz, Smith and Paulissen, instead of dividing that balance between Wertz and Smith, and requiring Paulissen to be paid outside that sum. We conclude that under ordi­nary conditions the balance due the original contractor after payment of the preferred claims of laborers, should be divided pro rata among those who furnished material, and that the lien upon the premises should not be extended beyond the sum due the original con­tractor for the contract price and extras.</p>
+                <p pgmap="356(92) 357(304)" id="b356-5">But this proof presents an unusual case. Although Mrs. Mulloy said she was improving this house “for the girls, ’ ’ meaning Alice and Mary, yet she refused to put into the plans and specifications some things which appellant wanted done. Soon thereafter Mrs. Mulloy was taken seriously and fatally ill. She soon ceased to be able to give directions. Appellant then took the en­tire direction of the improvement into her own hands. There is nothing indicating that there was any further substantial reference to the contract or to the plans and specifications. When appellant saw some work finished, or partly so, and concluded she would like it different, or that it would look better built wider or longer or of better material or finish, she ordered the change, and it was made. We are satisfied that Wertz and Smith came to her repeatedly after her mother’s disability, and both before and after her mother’s death, desiring money, and especially desiring to know where their money was to come from if they went on furnishing material and doing work; and that she did not refer them to McHatton or say that she would pay him the contract price, but that she treated it as a mat­ter between herself and Wertz and Smith, respectively, and expressly promised to pay their bills if they would go on and finish the work; and that she did this re­peatedly, and thereby procured the completion of the improvement as she wanted it done, and without fur­ther special reference to the original contract or to the plans and specifications. When she asked Smith when he was going to plaster, and he replied that he wanted some money before he plastered, she told him there would be no trouble about the money, that she was going to pay all those bills, but no more money to Mc-­Hatton. Paulissen furnished nothing till the second month after Mrs. Mulloy died. He had appellant’s ex­press promise to pay. Under these circumstances we conclude that she could not justly complain if Wertz, Smith and Paulissen were each given a lien for all that is due them. Wertz and Smith have not questioned the decree in giving them slightly less than the full amount of their bills. The errors alleged by appellant are not well assigned. The decree is therefore af­firmed.</p>
+                <p pgmap="357" id="b357-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="345" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.2" BETYPE="IDREF" FILEID="alto_00173_0"/>
+              <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.2" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.3" BETYPE="IDREF" FILEID="alto_00173_1"/>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="347" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.2" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.1" BETYPE="IDREF" FILEID="alto_00174_0"/>
+              <area BEGIN="BL_347.3" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="348" ORDERLABEL="332" TYPE="page">
+        <fptr FILEID="tiff_00174_1"/>
+        <fptr FILEID="jp2_00174_1"/>
+        <fptr FILEID="alto_00174_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.2" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_348.3" BETYPE="IDREF" FILEID="alto_00174_1"/>
+              <area BEGIN="BL_348.4" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="349" ORDERLABEL="333" TYPE="page">
+        <fptr FILEID="tiff_00175_0"/>
+        <fptr FILEID="jp2_00175_0"/>
+        <fptr FILEID="alto_00175_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.3" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.2" BETYPE="IDREF" FILEID="alto_00175_0"/>
+              <area BEGIN="BL_349.4" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="350" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.2" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.3" BETYPE="IDREF" FILEID="alto_00175_1"/>
+              <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="351" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00176_0"/>
+        <fptr FILEID="jp2_00176_0"/>
+        <fptr FILEID="alto_00176_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.2" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.1" BETYPE="IDREF" FILEID="alto_00176_0"/>
+              <area BEGIN="BL_351.3" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="352" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00176_1"/>
+        <fptr FILEID="jp2_00176_1"/>
+        <fptr FILEID="alto_00176_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.2" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.3" BETYPE="IDREF" FILEID="alto_00176_1"/>
+              <area BEGIN="BL_352.4" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="353" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00177_0"/>
+        <fptr FILEID="jp2_00177_0"/>
+        <fptr FILEID="alto_00177_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_353.3" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_353.2" BETYPE="IDREF" FILEID="alto_00177_0"/>
+              <area BEGIN="BL_353.4" BETYPE="IDREF" FILEID="alto_00177_0"/>
+              <area BEGIN="BL_353.6" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="354" ORDERLABEL="338" TYPE="page">
+        <fptr FILEID="tiff_00177_1"/>
+        <fptr FILEID="jp2_00177_1"/>
+        <fptr FILEID="alto_00177_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_354.2" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_354.3" BETYPE="IDREF" FILEID="alto_00177_1"/>
+              <area BEGIN="BL_354.4" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="355" ORDERLABEL="339" TYPE="page">
+        <fptr FILEID="tiff_00178_0"/>
+        <fptr FILEID="jp2_00178_0"/>
+        <fptr FILEID="alto_00178_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_355.3" BETYPE="IDREF" FILEID="alto_00178_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_355.2" BETYPE="IDREF" FILEID="alto_00178_0"/>
+              <area BEGIN="BL_355.4" BETYPE="IDREF" FILEID="alto_00178_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="356" ORDERLABEL="340" TYPE="page">
+        <fptr FILEID="tiff_00178_1"/>
+        <fptr FILEID="jp2_00178_1"/>
+        <fptr FILEID="alto_00178_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_356.2" BETYPE="IDREF" FILEID="alto_00178_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_356.3" BETYPE="IDREF" FILEID="alto_00178_1"/>
+              <area BEGIN="BL_356.4" BETYPE="IDREF" FILEID="alto_00178_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="357" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00179_0"/>
+        <fptr FILEID="jp2_00179_0"/>
+        <fptr FILEID="alto_00179_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_357.3" BETYPE="IDREF" FILEID="alto_00179_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_357.2" BETYPE="IDREF" FILEID="alto_00179_0"/>
+              <area BEGIN="BL_357.4" BETYPE="IDREF" FILEID="alto_00179_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.4" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            <area BEGIN="BL_352.1" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.5" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            <area BEGIN="BL_350.1" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.5" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b356-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_356.5" BETYPE="IDREF" FILEID="alto_00178_1"/>
+            <area BEGIN="BL_357.1" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-12" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.22" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.19" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-11" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.20" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b354-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_354.5" BETYPE="IDREF" FILEID="alto_00177_1"/>
+            <area BEGIN="BL_355.1" BETYPE="IDREF" FILEID="alto_00178_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.5" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            <area BEGIN="BL_348.1" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b355-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_355.5" BETYPE="IDREF" FILEID="alto_00178_0"/>
+            <area BEGIN="BL_356.1" BETYPE="IDREF" FILEID="alto_00178_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFS" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.17" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.18" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abo" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.13" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.10" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acq" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.11" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.12" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.5" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            <area BEGIN="BL_354.1" BETYPE="IDREF" FILEID="alto_00177_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-13" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.12" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-12" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.11" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-10" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.10" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.6" BETYPE="IDREF" FILEID="alto_00174_1"/>
+            <area BEGIN="BL_349.1" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-16" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.15" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-15" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.14" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-14" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.13" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-8" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.15" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-9" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.16" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b348-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_348.5" BETYPE="IDREF" FILEID="alto_00174_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEU" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.8" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.9" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFR" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.21" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-4" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.5" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            <area BEGIN="BL_353.1" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-5" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.5" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-6" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.6" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.7" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-7" BETYPE="IDREF" FILEID="casebody_0045"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.14" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

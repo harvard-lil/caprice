@@ -1,0 +1,540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0026" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Schoch v. Egan">Al. F. Schoch, Trustee, Appellee, v. Peter Egan, Ap­pellant</name>
+          <docketnumber>Gen. No. 4,979</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 214</citation>
+          <decisiondate>1908-08-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="44288dcce814eb426532039436e7067c" CHECKSUMTYPE="MD5" SIZE="43332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_1.tif"/>
+      </file>
+      <file ID="tiff_00116_0" MIMETYPE="image/tiff" CHECKSUM="ab6d642cd543b7ccf62bcec5bd252bb5" CHECKSUMTYPE="MD5" SIZE="47088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00116_0.tif"/>
+      </file>
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="d6980623e86f8fb5ff70ab542c6e4efa" CHECKSUMTYPE="MD5" SIZE="54194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00116_1.tif"/>
+      </file>
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="9aef5f829d41bac34ad3170ebfda4ed3" CHECKSUMTYPE="MD5" SIZE="53766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="ec0a6062a6fbda12971a61a9fa524d04" CHECKSUMTYPE="MD5" SIZE="49430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="9884d76d318ebb453399475a4587f3ea" CHECKSUMTYPE="MD5" SIZE="41158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00115_1" MIMETYPE="image/jp2" CHECKSUM="a792f7608b819551296505e2d83de87d" CHECKSUMTYPE="MD5" SIZE="2305342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00115_1.jp2"/>
+      </file>
+      <file ID="jp2_00116_0" MIMETYPE="image/jp2" CHECKSUM="d7ab83ebc676bf0f357e875af45392e8" CHECKSUMTYPE="MD5" SIZE="2364199">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00116_0.jp2"/>
+      </file>
+      <file ID="jp2_00116_1" MIMETYPE="image/jp2" CHECKSUM="390772fe49b09c8882b859e12fc20a45" CHECKSUMTYPE="MD5" SIZE="2380208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00116_1.jp2"/>
+      </file>
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="9da7d41775685cf7d4cba430c848ed72" CHECKSUMTYPE="MD5" SIZE="2412732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00117_0.jp2"/>
+      </file>
+      <file ID="jp2_00117_1" MIMETYPE="image/jp2" CHECKSUM="fdf54daed363ecee41a2faaccd878895" CHECKSUMTYPE="MD5" SIZE="2338368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00117_1.jp2"/>
+      </file>
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="81d93101683aa65cc0489788b0acc2da" CHECKSUMTYPE="MD5" SIZE="2302880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00118_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00115_1" MIMETYPE="text/xml" CHECKSUM="6b7493781f2cfdc8727a969c3a0627d8" CHECKSUMTYPE="MD5" SIZE="82008">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00115_1.xml"/>
+      </file>
+      <file ID="alto_00116_0" MIMETYPE="text/xml" CHECKSUM="079c3099bf3b55654419e280cd5e8443" CHECKSUMTYPE="MD5" SIZE="78454">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00116_0.xml"/>
+      </file>
+      <file ID="alto_00116_1" MIMETYPE="text/xml" CHECKSUM="552c98e9cbac2197f648592b39ee20e8" CHECKSUMTYPE="MD5" SIZE="86935">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00116_1.xml"/>
+      </file>
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="4f320194ed02354ccdd91f1bee36aacc" CHECKSUMTYPE="MD5" SIZE="92704">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00117_0.xml"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml" CHECKSUM="325b6a767c2bef9c5f033c93fb6938ef" CHECKSUMTYPE="MD5" SIZE="82327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00117_1.xml"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="56d0400302a35ea3331176914c8bda76" CHECKSUMTYPE="MD5" SIZE="74012">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00118_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="219" firstpage="214">
+              <docketnumber pgmap="230" id="b230-6">Gen. No. 4,979.</docketnumber>
+              <parties pgmap="230" id="b230-5">Al. F. Schoch, Trustee, Appellee, v. Peter Egan, Ap­pellant.</parties>
+              <decisiondate pgmap="231" id="Aq_">Opinion filed August 10, 1908.</decisiondate>
+              <otherdate pgmap="230" id="Akp">Heard in this court at the April term, 1908.</otherdate>
+              <otherdate pgmap="231" id="AZ82">Rehearing denied October 9, 1908.</otherdate>
+              <attorneys pgmap="231" id="b231-5">James J. Conway and Butters, Armstrong &amp; Fergu­son, for appellant.</attorneys>
+              <attorneys pgmap="231" id="b231-6">H. M. Kelly, for appellee.</attorneys>
+              <summary pgmap="230" id="b230-9">Action commenced before justice of the peace. Appeal from the Circuit Court of LaSalle county; the Hon. Samuel C. Stough, Judge, presiding.</summary>
+              <disposition pgmap="231" id="b231-4">Affirmed.</disposition>
+              <headnotes pgmap="230" id="b230-7">1. Verdict—when not disturbed as against the evidence. A verdict not manifestly against the weight of the evidence and which does not appear to have been the result of passion, prej­udice or other undue influence, will not be set aside on review as against the weight of the evidence.</headnotes>
+              <headnotes pgmap="230" id="b230-8">2. Instructions—when as to proof of agency improper. An instruction is properly refused which singles out but one fact in a chain of facts and tells the jury that it alone does not prove agency.</headnotes>
+              <opinion type="majority">
+                <author pgmap="231" id="b231-7">Mr. Justice Willis</author>
+                <p pgmap="231" id="A75">delivered the opinion of the court.</p>
+                <p pgmap="231(274) 232(20)" id="b231-8">In 1902, Frank and William Sanders owned a lot in the city of Ottawa, Ill., and procured an option on a part of a lot adjacent to it for the purpose of selling the whole to the United States for a postoffice site. They sought to obtain therefor $12,000. A subscrip­tion paper was circulated for the purpose of raising a fund to enable them to reduce the price the government would be required to pay to $10,000. A prior subscrip­tion paper had been circulated to raise $3,000 but a sufficient amount had not been subscribed, so a new plan was adopted whereby the subscription became binding when the sum of $2,000 had been subscribed. Al. F. Schoch, appellee, was named in the subscription paper as trustee and payee. Twenty-two hundred dol­lars was subscribed, the sale was made to the govern­ment, the postoffice was built and all the subscriptions paid except Peter Egan’s. The first subscription pa­per was circulated by Elmer G-ladfelter and John Hil­liard. Appellant was solicited by them and refused to sign. Peter Egan’s name was signed to the second subscription for $100. Schoch brought this suit be­fore a justice of the peace of La Salle county against Peter Egan to recover the amount of the' subscription, and had judgment. Egan appealed to the Circuit Court of said county where, just before the trial, he filed an affidavit denying the execution of the instru­men sued on. There was a trial and a verdict for ap­pellee for $100. A motion for a new trial was denied, judgment was entered on the verdict, and this appeal was taken by Egan. Appellee was absent from town at the time of the trial and was not a witness.</p>
+                <p pgmap="232(336) 233(310)" id="b232-5">It is admitted that appellant never signed either subscription paper, although his name appears on both. It is contended by appellee that his son, Frank Egan, signed appellant’s name to both subscriptions, and that he had authority to do so, or if he had not, that appellant ratified his act and became liable there­for. It is not denied by appellant that Frank Egan signed appellant’s name to the first subscription, but it is denied that he signed the second. Appellant insists that the proof shows that the paper upon which the names of the subscribers were written, and upon which this suit is based, was originally attached to the first subscription paper, and afterwards detached there­from and attached to the second subscription paper. There is some testimony tending to show that a part of the original subscription paper had been detached from it and attached to the new or second paper. John Hilliard, who with Elmer Gladfelter circulated the first subscription paper, but not the second, at first testified it might be that the same signatures were de­tached from the first subscription paper and attached to the second, but he seems to have afterwards receded from that position. At any rate, the proof clearly shows that he subscribed $500 lower down than Peter Egan on the first paper and only $400 on the second paper, which apparently demonstrates that what is termed the second subscription paper was an entirely new paper. Appellant denies that he authorized his son to sign his name, and there is testimony to the effect that he refused to sign the first paper. Frank Egan testified that he had no express authority from his father to make the signature. He did testify, how­ever, that he was agent to conduct some portion of his father’s livery business, but that there was nothing in that that authorized him to sign his father’s name to the subscription paper. Frank Sanders testified that after the property had been sold to the govern­ment, and after the other signers had paid, he asked appellant if it was not about time for him to pay the subscription and that appellant did not deny that the subscription was binding upon him, but stated that he did not know that the government would ever build a post-office on that site and inquired how he could know. Grladfelter testified that he met appellant on the street and appellant said, he wondered if there was going to be any building there and that he guessed that he would have to withdraw his name if they did not get to work pretty soon, or words of like purport. If the testimony of Sanders and Grladfelter is true, which was for the jury to say, the conclusion is authorized that appellant ratified the act of his son in signing his name to the paper, and. some force is added to their testi­mony by the fact that Egan owned. property there­abouts which would be enhanced in value by the build­ing to be constructed by the government. Appellant denied the interview with Sanders, which Sanders said was held in appellant’s office, but agreed with him as to a later interview upon the street, in which he re­fused to pay. He denied having made the statement testified to by Grladfelter. Frank Egan testified that he told his father that he had signed his name to. the subscription paper the day he did it and that his father said that he ought not to have done it. Appellant testi­fied that shortly after Frank told him he went to Grlad­felter and told him he had come to take his name off the paper, and that Grladfelter told him Schoch had it; that within less than five or six days he told appellee to take his name off the paper.</p>
+                <p pgmap="233(73) 234(11)" id="b233-5">The evidence as to whether or not appellant rati­fied his signature to the subscription paper was con­flicting, and the conflict was for the jury to decide, which they did in favor of appellee. Their verdict being sanctioned by the trial court, who had oppor­tunity to see and hear the witnesses while testifying, and who could better determine their credibility and the weight to be accorded their testimony than a re­viewing court, that verdict should not be disturbed on the facts.</p>
+                <p pgmap="234" id="b234-5">We have considered with care the action of the trial court in the admission and exclusion of evidence com­plained of by appellant and find no reversible error therein.</p>
+                <p pgmap="234" id="b234-6">The court gave on behalf of the appellee' but one instruction, to which appellant urges in argument a number of objections; that there was no evidence upon which to base a greater part of the instruction, and in particular, that there was no evidence of any authority or agency given Frank Egan that would bind appel­lant ; that there was no evidence that appellant ever learned of the sighing by Frank Egan of the second subscription paper; that there was no evidence of any ratification whatever on the part of appellant of the signing of said second subscription paper; that there was no evidence that F. and W. Sanders acted on said subscription paper in submitting proposition of sale; and further, in the absence of such facts from the record, the instruction assumed the existence of such facts.</p>
+                <p pgmap="234" id="b234-7">Without extending this opinion by quoting the in­struction, we deem it sufficient to say that the record does disclose some evidence bearing upon all the ap­pellant’s objections to the instruction, sufficient at any rate, as we have already held, to warrant the jury in finding the existence of such facts in favor of the ap­pellee.</p>
+                <p pgmap="234(98) 235(34)" id="b234-8">Complaint is also made of the refusal of appellant’s instructions 4, 5, 6 and 7. Instructions 4 and 5 each stated but one fact in the chain of circumstances de­veloped by the evidence, and told the jury that that fact did not prove agency. Each of the facts so desig­nated standing alone might not prove agency, and yet when combined with other facts in evidence, might prove it. Therefore there was no error in their re­fusal, neither has appellant just cause of complaint of the refusal of instructions 6 and 7, for the .reason that instruction 3 given for appellant embodies the same principle of law defined in .6 and 7 refused. The fail­ure to repeat a principle of law already given to the jury is not error.</p>
+                <p pgmap="235" id="b235-5">Finding no substantial error of law in this record, the judgment of the Circuit Court is affirmed.</p>
+                <p pgmap="235" id="b235-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="230" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jp2_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.3" BETYPE="IDREF" FILEID="alto_00115_1"/>
+              <area BEGIN="BL_230.4" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="231" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00116_0"/>
+        <fptr FILEID="jp2_00116_0"/>
+        <fptr FILEID="alto_00116_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.2" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.1" BETYPE="IDREF" FILEID="alto_00116_0"/>
+              <area BEGIN="BL_231.3" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="232" ORDERLABEL="216" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jp2_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.2" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.3" BETYPE="IDREF" FILEID="alto_00116_1"/>
+              <area BEGIN="BL_232.4" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="233" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.2" BETYPE="IDREF" FILEID="alto_00117_0"/>
+              <area BEGIN="BL_233.4" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jp2_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.2" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.3" BETYPE="IDREF" FILEID="alto_00117_1"/>
+              <area BEGIN="BL_234.4" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.2" BETYPE="IDREF" FILEID="alto_00118_0"/>
+              <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A75" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.11" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_231.12" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.6" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.5" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.8" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_235.1" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ82" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.6" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_231.7" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akp" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.11" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq_" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.5" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.5" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            <area BEGIN="BL_233.1" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.6" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.7" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.5" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.8" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.9" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            <area BEGIN="BL_230.10" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.6" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.13" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            <area BEGIN="BL_232.1" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.10" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.9" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.8" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b231-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_231.4" BETYPE="IDREF" FILEID="alto_00116_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            <area BEGIN="BL_234.1" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

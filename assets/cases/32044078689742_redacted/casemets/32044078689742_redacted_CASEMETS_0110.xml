@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0110" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Crowder v. Chicago &amp; Alton Railroad">Truman L. Crowder, Administrator, Appellee, v. Chicago &amp; Alton Railroad Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 556</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00287_1" MIMETYPE="image/tiff" CHECKSUM="2fab1ea71b571f139ba5113e984f57c6" CHECKSUMTYPE="MD5" SIZE="41404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00287_1.tif"/>
+      </file>
+      <file ID="tiff_00288_0" MIMETYPE="image/tiff" CHECKSUM="6e0d68808b5e1334375d6a4579f1fc14" CHECKSUMTYPE="MD5" SIZE="52962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00288_0.tif"/>
+      </file>
+      <file ID="tiff_00288_1" MIMETYPE="image/tiff" CHECKSUM="27f18fee1e8c6da44cafd973095d0a3d" CHECKSUMTYPE="MD5" SIZE="54458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00288_1.tif"/>
+      </file>
+      <file ID="tiff_00289_0" MIMETYPE="image/tiff" CHECKSUM="2cff8f29b513947ea9128d5b35bd74f5" CHECKSUMTYPE="MD5" SIZE="52660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00289_0.tif"/>
+      </file>
+      <file ID="tiff_00289_1" MIMETYPE="image/tiff" CHECKSUM="987b464042a58ff657ec4735bd0a225b" CHECKSUMTYPE="MD5" SIZE="46230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00289_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00287_1" MIMETYPE="image/jp2" CHECKSUM="823528dbaab62d8214d139682ef83dc7" CHECKSUMTYPE="MD5" SIZE="2319911">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00287_1.jp2"/>
+      </file>
+      <file ID="jp2_00288_0" MIMETYPE="image/jp2" CHECKSUM="70fb72e33c562a9b33c3ee6567f60831" CHECKSUMTYPE="MD5" SIZE="2461139">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00288_0.jp2"/>
+      </file>
+      <file ID="jp2_00288_1" MIMETYPE="image/jp2" CHECKSUM="3d52c328d0cbef3e5e6907534a2a9ac5" CHECKSUMTYPE="MD5" SIZE="2427361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00288_1.jp2"/>
+      </file>
+      <file ID="jp2_00289_0" MIMETYPE="image/jp2" CHECKSUM="04b15f3980dc8ad0b8b09b6c745eadbd" CHECKSUMTYPE="MD5" SIZE="2464740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00289_0.jp2"/>
+      </file>
+      <file ID="jp2_00289_1" MIMETYPE="image/jp2" CHECKSUM="c1450c0aa095e8883536268c79a11070" CHECKSUMTYPE="MD5" SIZE="2358758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00289_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00287_1" MIMETYPE="text/xml" CHECKSUM="9c3a7e344eeb56490ff83edcde489ebd" CHECKSUMTYPE="MD5" SIZE="82662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00287_1.xml"/>
+      </file>
+      <file ID="alto_00288_0" MIMETYPE="text/xml" CHECKSUM="928e5876201deee262508fc4a75b124e" CHECKSUMTYPE="MD5" SIZE="88380">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00288_0.xml"/>
+      </file>
+      <file ID="alto_00288_1" MIMETYPE="text/xml" CHECKSUM="6767573217cb483ed297259b9731ddd1" CHECKSUMTYPE="MD5" SIZE="92412">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00288_1.xml"/>
+      </file>
+      <file ID="alto_00289_0" MIMETYPE="text/xml" CHECKSUM="7a0d30d5c18d078046f39cb49f1699cc" CHECKSUMTYPE="MD5" SIZE="91976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00289_0.xml"/>
+      </file>
+      <file ID="alto_00289_1" MIMETYPE="text/xml" CHECKSUM="88574460c835700be818499980a0a1c9" CHECKSUMTYPE="MD5" SIZE="79432">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00289_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0110" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="560" firstpage="556">
+              <parties id="b574-7" pgmap="574">Truman L. Crowder, Administrator, Appellee, v. Chi­cago &amp; Alton Railroad Company, Appellant.</parties>
+              <decisiondate id="Ags" pgmap="574">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b574-12" pgmap="574">W. H. Crow and William Mumford, for appellant; Winston, Payne, Strawn &amp; Shaw, of counsel.</attorneys>
+              <attorneys id="b574-13" pgmap="574">Williams &amp; Williams and A. C. Whitson, for ap­pellee.</attorneys>
+              <summary id="b574-11" pgmap="574">Action in case for death caused by alleged wrongful act. Appeal from the Circuit Court of Pike county; the Hon. Harry Higbee, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Ae4" pgmap="574">Reversed with finding of fact.</disposition>
+              <headnotes id="b574-8" pgmap="574">1. Master and servant—duty to furnish safe place to work. A master is only bound to use reasonable care to furnish his serv­ants with a reasonably safe place to work.</headnotes>
+              <headnotes id="b574-9" pgmap="574">2. Master and servant—duty to furnish safe place to work. Held, that the platform in question in this case claimed to have caused the injury of the servant, was not so defective as to estab­lish a failure by the master to exercise reasonable care to provide such servant with a reasonably safe place to work.</headnotes>
+              <headnotes id="b574-10" pgmap="574">3. Verdict—when set aside as against the evidence. Where it is apparent to the Appellate Court upon an examination of the record that the verdict of the jury upon a material issue is not sup­ported by the evidence and that the plaintiff has failed to adduce evidence sufficient to sustain a verdict in his favor upon such issue, it becomes the duty of such court to set aside such verdict.</headnotes>
+              <opinion type="majority">
+                <author id="b574-14" pgmap="574">Mr. Justice Baume</author>
+                <p id="AzUz" pgmap="574">delivered the opinion of the court.</p>
+                <p id="b574-15" pgmap="574(11) 575(41)">This is an action on the case by appellee, as adminis­trator of the estate of Fred W. Genrich, against ap­pellant, to recover damages for wrongfully causing the death of his intestate. A trial in the Circuit Court of Pike county resulted in a verdict and judgment against appellant for $5,000.</p>
+                <p id="b575-5" pgmap="575">The declaration charges that appellant not regard­ing its duty in that behalf permitted its platform at its station at Nebo, Illinois, to remain in an unsafe condition, in that it was rough and uneven and com­posed of planks of uneven thickness; that the said planks had shrunk to such an extent from exposure to the weather or other causes as that said platform was lined with cracks between the said planks; that some of said planks were new and some were old and worn and were full of knots and nails projecting above the surface; that the deceased while engaged in the per­formance of his duties as brakeman, in the employ of appellant, was then and thereby exposed to unneces­sary danger and liability, and that while alighting from a train of the appellant on the said platform, neces­sarily and unavoidably stumbled and fell thereon by reason of its defective condition, and rolled under the train, whereby he was killed, etc.</p>
+                <p id="b575-6" pgmap="575(153) 576(316)">Of the many grounds urged by appellant for a re­versal of the judgment in this case, we only deem it necessary to consider and determine the one relating to the question whether or not there is sufficient evi­dence in the record to support the charge of negli­gence alleged in the declaration. Considering the evi­dence in the record most favorable to appellee, it tends to show that on December 19,1906, the deceased, who was then employed as a brakeman upon a freight train operated by appellant, was riding in the locomo­tive cab as the train approached Nebo from the west; that as the locomotive was nearing the east end of the station platform, and running at a speed of about seven miles an hour, the deceased alighted from the lower step of the cab onto the station platform, at a point about eighteen inches from the south edge of the platform, and that as he did so the heel of his left foot slipped upon a knot in the surface of the platform,, whereby he fell under the train and received the in­juries which resulted in his death; that at the time of the accident the deceased was wearing a pair of new or recently repaired hob-nailed shoes; that the station platform was about 221 feet in length and sixteen feet in width, and was constructed of pine planks fourteen to sixteen feet in length, ten inches in width and two inches in thickness, nailed to sleepers or sills of the same dimensions; that from time to time as the old planks were broken, or became so worn as to be unfit for use, they were removed and new planks inserted; that when the platform was so repaired, a new plank, by reason of its greater thickness, if inserted next to an old plank, projected from one-half to three-fourths of an inch above the surface of such old plank; that the edges of the planks as laid in the platform at the place in question did not come in close contact, but were separated a distance of one-fourth to three-­fourths of an inch; that the platform at the place in question was used by the general public in going to and from appellant’s station, and was also used by appellant .in loading and unloading freight; that the plank in question was somewhat worn, and the knot upon which the deceased slipped projected about one-­eighth of an inch above the surrounding surface of the plank; that the plank next east of the plank in ques­tion was comparatively new and projected from one-­half to three-fourths of an inch above the edge of the old plank, and was separated from the old plank a distance of from one-half to three-fourths of an inch.</p>
+                <p id="b576-5" pgmap="576">It is conclusively established by the evidence that the immediate occasion of deceased’s falling, was the slipping of the heel of his hob-nailed shoe upon the smooth surface of the slightly projecting knot in the plank of the platform as deceased alighted thereon from the step of the locomotive cab.</p>
+                <p id="At7" pgmap="576(8) 577(154)">Appellee advances several theories in an effort to couple the space of from one-fourth to three-fourths of an inch between the planks, and the projection of the edge of the new plank above the edge of the old plank, together with the knot in the plank, as produc­ing causes of the fall of the deceased, but such theories are purely conjectural, not supported by any substan­tive evidence in the record, or by any evidence tend­ing to create a reasonable inference from which such theories can be properly or reasonably deduced. The proximate cause of the death of the deceased, so far as it related to any act of the appellant charged as negligence in the declaration, must, therefore, be held to have been the knot which appellant permitted to he and remain in the plank of the platform and to pro­ject one-eighth of an inch above the surrounding sur­face of such plank, as shown by the evidence.</p>
+                <p id="b577-5" pgmap="577(222) 578(36)">Appellant cannot be held to he an insurer of the safety of the platform as a place where the deceased was required to work. In their brief and argument, counsel for appellee repeatedly make the statement that the duty devolving upon appellant was to con­struct and maintain a safe and suitable platform for the use of its servants, in the performance of their regular duties. The duty of appellant in this regard is thus too broadly stated. It has been repeatedly held that the master is only bound to use reasonable care to furnish his servants with a reasonably safe place to work. Armour v. Brazeau, 191 Ill. 117; Schil­linger Bros. Co. v. Smith, 225 Ill. 74. The rule as thus stated was the measure of appellant’s duty with respect to the platform in this case. Whether or not the master has performed the duty imposed upon him by law in a given case is ordinarily a question of fact for the jury, and the finding of the jury upon such issue is not to he lightly set aside. When, however, it is apparent to this court upon an examination of the record, that the verdict of the jury upon such is­sue is not supported by the evidence, and that the plaintiff has failed to adduce evidence sufficient to sustain a verdict in his favor upon such issue, it be­comes the duty of this court to set aside such verdict. C., C., C. &amp; St. L. Ry. Co. v. Alfred, 123 Ill. App. 477.</p>
+                <p id="b578-5" pgmap="578">It is a matter of common knowledge that wooden planks ordinarily procurable for the construction of platforms, sidewalks and the like, are not free from knots, and it would be unreasonable to hold that the presence of knots in such planks constituted a failure to exercise reasonable care to construct a reasonably safe platform or sidewalk.</p>
+                <p id="b578-6" pgmap="578">It is also a matter of common knowledge that the texture of a knot in a pine plank is much harder than that of the wood immediately surrounding it, and that the ordinary use of a platform or sidewalk necessarily tends to wear down the surface of a plank free from knots, to a greater extent than that portion of the surface where a knot exists. And it would be mani­festly unreasonable to hold that the slight projection of one-eighth of an inch of such knot above the sur­face of the plank surrounding it, convicted a party permitting such condition to exist, of a failure to exer­cise reasonable care to maintain a reasonably safe platform, and constituted in itself actionable negli­gence. The evidence in this record together with all the inferences reasonable and proper to be drawn therefrom, compels us to the conclusion that the death of the deceased was caused by an accident unmixed with any actionable negligence upon the part of ap­pellant.</p>
+                <p id="b578-7" pgmap="578">The judgment of the Circuit Court will be reversed with a finding of fact to be incorporated in the judg­ment of this court.</p>
+                <p id="b578-8" pgmap="578">Reversed with finding of fact.</p>
+                <p id="b578-9" pgmap="578">Finding of fact: We find as an ultimate fact that appellant was not guilty of any actionable negligence which contributed to the death of appellee’s intestate.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="574" ORDERLABEL="556" TYPE="page">
+        <fptr FILEID="tiff_00287_1"/>
+        <fptr FILEID="jp2_00287_1"/>
+        <fptr FILEID="alto_00287_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_574.1" BETYPE="IDREF" FILEID="alto_00287_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_574.2" BETYPE="IDREF" FILEID="alto_00287_1"/>
+              <area BEGIN="BL_574.3" BETYPE="IDREF" FILEID="alto_00287_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="575" ORDERLABEL="557" TYPE="page">
+        <fptr FILEID="tiff_00288_0"/>
+        <fptr FILEID="jp2_00288_0"/>
+        <fptr FILEID="alto_00288_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.3" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_575.2" BETYPE="IDREF" FILEID="alto_00288_0"/>
+              <area BEGIN="BL_575.4" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="576" ORDERLABEL="558" TYPE="page">
+        <fptr FILEID="tiff_00288_1"/>
+        <fptr FILEID="jp2_00288_1"/>
+        <fptr FILEID="alto_00288_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_576.2" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_576.3" BETYPE="IDREF" FILEID="alto_00288_1"/>
+              <area BEGIN="BL_576.4" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="577" ORDERLABEL="559" TYPE="page">
+        <fptr FILEID="tiff_00289_0"/>
+        <fptr FILEID="jp2_00289_0"/>
+        <fptr FILEID="alto_00289_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_577.3" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_577.2" BETYPE="IDREF" FILEID="alto_00289_0"/>
+              <area BEGIN="BL_577.4" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="578" ORDERLABEL="560" TYPE="page">
+        <fptr FILEID="tiff_00289_1"/>
+        <fptr FILEID="jp2_00289_1"/>
+        <fptr FILEID="alto_00289_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.2" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_578.3" BETYPE="IDREF" FILEID="alto_00289_1"/>
+              <area BEGIN="BL_578.4" BETYPE="IDREF" FILEID="alto_00289_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzUz" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.17" BETYPE="IDREF" FILEID="alto_00287_1"/>
+            <area BEGIN="BL_574.18" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ags" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.13" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-7" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.7" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae4" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.12" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-6" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.6" BETYPE="IDREF" FILEID="alto_00288_0"/>
+            <area BEGIN="BL_576.1" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At7" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.6" BETYPE="IDREF" FILEID="alto_00288_1"/>
+            <area BEGIN="BL_577.1" BETYPE="IDREF" FILEID="alto_00289_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b577-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_577.5" BETYPE="IDREF" FILEID="alto_00289_0"/>
+            <area BEGIN="BL_578.1" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-6" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.6" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-8" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.8" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-9" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.9" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.5" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-14" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.16" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-15" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.19" BETYPE="IDREF" FILEID="alto_00287_1"/>
+            <area BEGIN="BL_575.1" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-12" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.14" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-13" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.15" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-10" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.10" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b574-11" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_574.11" BETYPE="IDREF" FILEID="alto_00287_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-8" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.8" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-9" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.9" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b578-7" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_578.7" BETYPE="IDREF" FILEID="alto_00289_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b576-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_576.5" BETYPE="IDREF" FILEID="alto_00288_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b575-5" BETYPE="IDREF" FILEID="casebody_0110"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_575.5" BETYPE="IDREF" FILEID="alto_00288_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

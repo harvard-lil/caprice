@@ -1,0 +1,988 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0040" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Gettys v. Marsh">Joseph N. Gettys et al., Defendants in Error, v. Phillip A. Marsh, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,223</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 291</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00155_0" MIMETYPE="image/tiff" CHECKSUM="6766f386c4fe8e38c5cc87ab81c3bc90" CHECKSUMTYPE="MD5" SIZE="44410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00155_0.tif"/>
+      </file>
+      <file ID="tiff_00155_1" MIMETYPE="image/tiff" CHECKSUM="df999e65ffaff043280d59b0bc443fe6" CHECKSUMTYPE="MD5" SIZE="50966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00155_1.tif"/>
+      </file>
+      <file ID="tiff_00156_0" MIMETYPE="image/tiff" CHECKSUM="2de2f186f5ba157a8749b06b37b6835c" CHECKSUMTYPE="MD5" SIZE="51632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00156_0.tif"/>
+      </file>
+      <file ID="tiff_00156_1" MIMETYPE="image/tiff" CHECKSUM="5388ceba1999087421ebe9486d953e38" CHECKSUMTYPE="MD5" SIZE="52868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00156_1.tif"/>
+      </file>
+      <file ID="tiff_00157_0" MIMETYPE="image/tiff" CHECKSUM="1b62b88c0e5d62762dd879b0215c4488" CHECKSUMTYPE="MD5" SIZE="53078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00157_0.tif"/>
+      </file>
+      <file ID="tiff_00157_1" MIMETYPE="image/tiff" CHECKSUM="0770aa075accbd1fc4448d0fd6685fb9" CHECKSUMTYPE="MD5" SIZE="39038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00157_1.tif"/>
+      </file>
+      <file ID="tiff_00158_0" MIMETYPE="image/tiff" CHECKSUM="fae7b8482f7bcb7690351653e621aaba" CHECKSUMTYPE="MD5" SIZE="51516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00158_0.tif"/>
+      </file>
+      <file ID="tiff_00158_1" MIMETYPE="image/tiff" CHECKSUM="fb4e82e790efbe0702ef3a93a185f2e8" CHECKSUMTYPE="MD5" SIZE="52276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00158_1.tif"/>
+      </file>
+      <file ID="tiff_00159_0" MIMETYPE="image/tiff" CHECKSUM="72261aec5723a3497b7016b47fba85c5" CHECKSUMTYPE="MD5" SIZE="52808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_0.tif"/>
+      </file>
+      <file ID="tiff_00159_1" MIMETYPE="image/tiff" CHECKSUM="b35157af15ea6945a291c23a08a1eef5" CHECKSUMTYPE="MD5" SIZE="39550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00155_0" MIMETYPE="image/jp2" CHECKSUM="62610ae2344c8ff0f13a33011684e9a5" CHECKSUMTYPE="MD5" SIZE="2388730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00155_0.jp2"/>
+      </file>
+      <file ID="jp2_00155_1" MIMETYPE="image/jp2" CHECKSUM="82502dc8b4d4658021d3b243c63a66e1" CHECKSUMTYPE="MD5" SIZE="2388782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00155_1.jp2"/>
+      </file>
+      <file ID="jp2_00156_0" MIMETYPE="image/jp2" CHECKSUM="94b0cf42e45ecc68f4e3e1f86497ebf5" CHECKSUMTYPE="MD5" SIZE="2440803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00156_0.jp2"/>
+      </file>
+      <file ID="jp2_00156_1" MIMETYPE="image/jp2" CHECKSUM="bd9ec76f55813f7cc884b679258550ff" CHECKSUMTYPE="MD5" SIZE="2408141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00156_1.jp2"/>
+      </file>
+      <file ID="jp2_00157_0" MIMETYPE="image/jp2" CHECKSUM="e6707e7b18a8b1e9b411465250be15c0" CHECKSUMTYPE="MD5" SIZE="2441288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00157_0.jp2"/>
+      </file>
+      <file ID="jp2_00157_1" MIMETYPE="image/jp2" CHECKSUM="29cbd428bc463f83628028460c8905a3" CHECKSUMTYPE="MD5" SIZE="2302793">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00157_1.jp2"/>
+      </file>
+      <file ID="jp2_00158_0" MIMETYPE="image/jp2" CHECKSUM="0a2c719183ec16079794010b4a328443" CHECKSUMTYPE="MD5" SIZE="2432856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00158_0.jp2"/>
+      </file>
+      <file ID="jp2_00158_1" MIMETYPE="image/jp2" CHECKSUM="c390410ed5aad6a5a34930751b5801cd" CHECKSUMTYPE="MD5" SIZE="2412161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00158_1.jp2"/>
+      </file>
+      <file ID="jp2_00159_0" MIMETYPE="image/jp2" CHECKSUM="2e09b4e1c4560448e3dee5c42ce7fa7d" CHECKSUMTYPE="MD5" SIZE="2450561">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_0.jp2"/>
+      </file>
+      <file ID="jp2_00159_1" MIMETYPE="image/jp2" CHECKSUM="dba6e9993e497474b583ec92099f42f4" CHECKSUMTYPE="MD5" SIZE="2301121">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00159_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00155_0" MIMETYPE="text/xml" CHECKSUM="e94754073d9b289e2dff0878ff01c7e5" CHECKSUMTYPE="MD5" SIZE="79390">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00155_0.xml"/>
+      </file>
+      <file ID="alto_00155_1" MIMETYPE="text/xml" CHECKSUM="d1bfd04c96fdf76fc6f2cdf74b8fda06" CHECKSUMTYPE="MD5" SIZE="88280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00155_1.xml"/>
+      </file>
+      <file ID="alto_00156_0" MIMETYPE="text/xml" CHECKSUM="4e966be6e43b8d382c38aa3942af2bc1" CHECKSUMTYPE="MD5" SIZE="89152">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00156_0.xml"/>
+      </file>
+      <file ID="alto_00156_1" MIMETYPE="text/xml" CHECKSUM="7f17e3b2b27f4a70799332d42e7c72bc" CHECKSUMTYPE="MD5" SIZE="92238">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00156_1.xml"/>
+      </file>
+      <file ID="alto_00157_0" MIMETYPE="text/xml" CHECKSUM="4752a6ee6d6a4d99c527516967dc936f" CHECKSUMTYPE="MD5" SIZE="89863">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00157_0.xml"/>
+      </file>
+      <file ID="alto_00157_1" MIMETYPE="text/xml" CHECKSUM="6fee5a6db47f5aea923627311c07b6a9" CHECKSUMTYPE="MD5" SIZE="71587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00157_1.xml"/>
+      </file>
+      <file ID="alto_00158_0" MIMETYPE="text/xml" CHECKSUM="0e4efe204acc77ce4b3ba891585360d1" CHECKSUMTYPE="MD5" SIZE="83943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00158_0.xml"/>
+      </file>
+      <file ID="alto_00158_1" MIMETYPE="text/xml" CHECKSUM="d76cf79076dcb2d869a817129110ede9" CHECKSUMTYPE="MD5" SIZE="87981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00158_1.xml"/>
+      </file>
+      <file ID="alto_00159_0" MIMETYPE="text/xml" CHECKSUM="3b69913258abac615cd085b14b1a7a5b" CHECKSUMTYPE="MD5" SIZE="86866">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00159_0.xml"/>
+      </file>
+      <file ID="alto_00159_1" MIMETYPE="text/xml" CHECKSUM="8249282f3c5c0c01d15a740573a81b0e" CHECKSUMTYPE="MD5" SIZE="75813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00159_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="300" firstpage="291">
+              <docketnumber id="b309-5" pgmap="309">Gen. No. 14,223.</docketnumber>
+              <parties id="b309-3" pgmap="309">Joseph N. Gettys et al., Defendants in Error, v. Phillip A. Marsh, Plaintiff in Error.</parties>
+              <decisiondate id="AnC" pgmap="309">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b309-10" pgmap="309">Durand &amp; Cunningham and Charles A. Phelps, for plaintiff in error.</attorneys>
+              <attorneys id="b309-11" pgmap="309">Charles T. Farson and Gardner, Stern &amp; Ander­son, for defendants in error.</attorneys>
+              <summary id="b309-9" pgmap="309">Assumpsit. Error to the Municipal Court of Chicago; the Hon. Freeman K. Blake, Judge, presiding. Heard in the Branch Ap­pellate Court at the March term, 1908.</summary>
+              <disposition id="AV2" pgmap="309">Affirmed.</disposition>
+              <headnotes id="b309-6" pgmap="309">1. Sales—presumption as to time of consummation. The pre­sumption is that every sale is to he consummated at once.</headnotes>
+              <headnotes id="b309-7" pgmap="309">2. Contracts—when undertakings of parties fixed without formal instrument. A written proposition and acceptance fixes the rights of the parties without the execution of a formal con­tract where at the time of the making of such proposition and ac­ceptance thereof there was no apparent intention of entering into a formal contract.</headnotes>
+              <headnotes id="b309-8" pgmap="309">3. Contracts—how question of existence of, determined. Where the existence or non-existence of a contract depends upon writings alone, it is error to submit the determination of such question to the jury. Reid, however, in this case that the error of so sub­mitting such question to the jury was harmless in that the jury properly found the existence of the contract.</headnotes>
+              <opinion type="majority">
+                <author id="b309-12" pgmap="309">Mr. Justice Chytraus</author>
+                <p id="AHL" pgmap="309">delivered the opinion of the court.</p>
+                <p id="b309-13" pgmap="309">J. B. Albach &amp; Co. are merchandise brokers in St. Louis, Missouri. This suit is an action of assumpsit by Joseph N. Gettys and Harry C. Gilbert of St. Louis against Phillip A. Marsh of Chicago. The action is brought upon a contract made by the plaintiffs and defendant, through J. B. Albach &amp; Co. as brokers, for the sale of one thousand cases of standard canned corn at ninety cents per dozen which contract, it is alleged, Marsh refused to carry out, to the damage of Gettys &amp; Gilbert.</p>
+                <p id="b310-4" pgmap="310">The action was brought in the Municipal Court, where a trial before a jury was had. The jury re­turned a verdict for $225 against Marsh, plaintiff in error, and on October 19, 1907, a judgment was ren­dered upon the verdict. To reverse that judgment this writ of error was sued out.</p>
+                <p id="b310-5" pgmap="310">The only evidence of a contract of sale and pur­chase consists of correspondence between Marsh, in Chicago, and J. B. Albach &amp; Co., the brokers, in St. Louis. Gettys &amp; Gilbert, of St. Louis, claim as prin­cipals in the transaction. There is no evidence in the record showing the existence of the relation of Gettys &amp; Gilbert as principals of J. B. Albach &amp; Co., the brokers, at the inception of the negotiations. Marsh contends that the minds of the parties never met in the consummation of a contract of purchase and sale. While Marsh also was a broker, he acted for himself in this transaction. Plaintiff in error introduced no evidence and as the only evidence, bearing upon the formation of a contract, is to be found in the cor­respondence there is in this regard no conflict in the evidence and, hence, in that respect nothing remains for the court except interpretation of the language of the parties. This is a function of the judge and not of the jury.</p>
+                <p id="b310-6" pgmap="310">On September 18, 1903, Marsh wrote a letter to J. B. Albach &amp; Co. offering certain other merchan­dise, and ended his letter by saying, “Regarding corn, beg to say I have a lot of one thousand cases of corn, for which I want 90$ per dozen. Quality is first class standard corn. I was at the factory yesterday and saw them putting up as pretty corn as I ever saw go into cans. Think this corn is cheap at $1.00 a doz.”</p>
+                <p id="b310-7" pgmap="310">Standard corn does not mean corn of any particular place or pack, but is corn of a good color, tender and of a good consistency. The Chicago market is the standard in price for the middle or central west con­sisting of the states of Iowa, Illinois, Wisconsin, In­diana and Michigan.</p>
+                <p id="b311-3" pgmap="311">Albach &amp; Co. replied to this letter by mail the next day, September 19, as follows: “As per your letter of the 18th enter Gettys &amp; Gilbert one thousand cases number two Standard corn, ninety cents Janesville, cash less one and one-half per cent.; wire immediately if all right”. To this letter Marsh responded by a postal of the same date, September 19, saying: “Am just back from the country. Frost has played H— with us. Can’t entertain your offer of 90$, am sure corn will bring a 1 case note per doz. before we have another moon full, hear me and heed. Get wise, Bro. Jim. Would have wired you had I got to office in time to do you any good”.</p>
+                <p id="b311-4" pgmap="311">Apparently Marsh, notwithstanding his own offer, was making an effort to get a higher price. On the 21st of September Albach &amp; Co. wrote him: “Now in the tone of your letter of the 18th, which we wired you on Saturday morning, made a positive offering of a 1000 c/s of corn at 90$ which we took and asked you for telegram in reply confirming in the usual way. We are sorry that you cannot fill this order as it looked very much, like we said before, a positive of­fer on your part, and our parties will be very much dis­appointed too”. Undoubtedly Marsh’s letter of the 18th and Albach &amp; Co.’s reply of the 19th was an offer and an acceptance; but by their letter of the 21st Albach &amp; Co. acquiesced in Marsh’s rescission.</p>
+                <p id="b311-5" pgmap="311">After receiving the Albach letter of the 21st, how­ever, Marsh evidently concluded he could not get a higher price for his corn, so on the 24th of September he sent both a telegram and a letter to Albach &lt;fe Co. The telegram is as follows: “Will accept your offer thousand cases standard corn ninety cents Janesville, wire pleasure”, and the letter is as folllows: “Have wired you accepting your offer on corn providing you want it and ask your pleasure, 90$ Janesville. * * * I am awaiting your pleasure regarding the 1000 cases of corn”.</p>
+                <p id="b311-7" pgmap="311(9) 312(380) 313(323)">While Marsh speaks of “your offer” he, in reality, was renewing his own previous offer and his com­munications at this time are to be considered in the light of the previous correspondence. Albach &amp; Co. promptly, on the same day, the 24th, replied as soon as they received the telegram. Their reply is as fol­lows: “Enclosed find confirmation of telegram re­ceived from you this morning accepting order for 1000 c/s corn at 90¢ f. o. b. Janesville, Wis. Kindly send us contract to deliver to Gettys &amp; Gilbert, this city, and hold same for shipping instructions from them”. There is not the slightest question but what the minds of the parties had now met as to the sub­ject-matter of the contract, the price and the place of delivery. It is a horn-book principle in the law, with reference to sales of merchandise, that there is a pre­sumption that every sale is to be consummated at once. 1 Parsons on Cont., p. 519, 6th Ed. The witnesses as to the custom of the market testified the telegram meant payment to be net in 60 days or 1½% discount if paid within ten days. On this point there is no dis­pute in the evidence. The parties were mutually bound. It is true that in the letter of the 24th Albach &amp; Co. say: “Kindly send us contract to deliver Get­tys &amp; Gilbert, this city”. But Marsh, so far as we can see, did not contemplate, as a condition prece­dent to the completion of the contract the parties were negotiating, that it should be reduced to a formal written one; nor does he in any way indicate any in­tention that the contract should, before completion, be reduced to a formal one. We cannot gather from anything said or done by Albach &amp; Co. that they con­templated or intended, as a condition precedent to the completion of a contract, that there should be a for­mal written one. The law, in this instance, did not require, in order to make the contract valid, that it should be formal. The contract was completed so far as the law required and, in view of their experience, Albach &amp; Co., to evidence the contract made, desired that Marsh reduce it to a formal written one. The expression to him of this desire did not authorize or permit him to vary the terms of the contract already made. Such contracts as this need not even he in writing, and it is the law in such case that when all the terms are mutually agreed upon, so that the contract is complete, then an arrangement for the re­duction thereof to a formal writing does not prevent or even suspend its effectiveness. In B. &amp; O. S. W. Ry. Co. v. People, 195 Ill. 423, 428, the Supreme Court quoted the rule as follows: “The true rule may be stated in these words: Where the parties make the reduction of the agreement to writing, and its signa­ture by them, a condition precedent to its completion, it will not be a contract until that is done. And this is true although all the terms of the contract have been agreed upon. But where the parties have as­sented to all the terms of a contract, the mere ref­erence to a future contract in writing will not neg­ative the existence of a present contract”. In Scott v. Fowler, 227 Ill. 104, quoting with approval from Sec. 319 Bishop on Contracts, the court said: “If parties agree on terms, however precise, 'subject to the preparation and approval of a formal contract, ’ the concurrence of their wills is suspended, and where nothing further is done there is no contract. Yet the mere fact that the reduction of an informal agreement, oral or written, to a formal written one, was contem­plated or stipulated for, does not prevent the former from taking immediate effect. The question whether it does or not depends upon what the parties intended”. Manifestly this rule is both logical and just. In the case at bar it would be obviously unjust for us to hold that the parties had not passed out of the stage of preliminary negotiations.</p>
+                <p id="b313-5" pgmap="313(46) 314(14)">On the 28th of September Marsh wrote Albach &amp; Co. as follows: “I herewith enclose you contract for Gettys &amp; Gilbert for 1000 cases of corn. Please have the original signed, return to me promptly, and oblige. Have the contract made out on the company’s contract as I have no forms of my own”. The writing enclosed was as fellows:</p>
+                <p id="b314-5" pgmap="314">“Farms and Factories at Cassville, Prairie du Chien, and Janesville, Wis.; also Dubuque, Iowa.</p>
+                <p id="b314-6" pgmap="314">Sept. 26, 1903.</p>
+                <p id="b314-7" pgmap="314">M. Gettys &amp; Gilbert, St. Louis, Mo.</p>
+                <p id="b314-8" pgmap="314">Bought of P. A. Marsh,</p>
+                <p id="b314-9" pgmap="314">37 River st., Chicago, Ill. Janesville, Wis.</p>
+                <p id="b314-11" pgmap="314">Cases 2 lb. Dewey, Bower City or Maple Leaf Brand Corn........at per doz.</p>
+                <p id="b314-13" pgmap="314">1000 Cases 2 lb. Corn ..........................at 90^ per doz.</p>
+                <p id="b314-14" pgmap="314">Cases 2 lb. River View Corn......at per doz.</p>
+                <p id="b314-15" pgmap="314">Cases 2 lb. Pride of Cassville Corn ..............................................at per doz.</p>
+                <p id="b314-17" pgmap="314">Cases 2 lb. Pride of Janesville Corn ...............................................at per doz.</p>
+                <p id="b314-19" pgmap="314">Cases 2 lb. Key City Corn..........at per doz.</p>
+                <p id="b314-20" pgmap="314">Cases 3 lb. Dewey Brand Toma­toes ................................................at per doz.</p>
+                <p id="b314-21" pgmap="314">Cases 3 lb. Badger State Toma­toes ................................................at per doz.</p>
+                <p id="b314-22" pgmap="314">Cases 3 lb. Key City Tomatoes at per doz.</p>
+                <p id="A9hC" pgmap="314">Cases 3 lb. Badger Brand Canned Kraut ..........................................at per doz.</p>
+                <p id="b314-24" pgmap="314">Cases 3 lb. Dewey or C. V. Canned Kraut ..........................................at per doz.</p>
+                <p id="b314-26" pgmap="314">F. O. B. cars at Janesville, Wis.................</p>
+                <p id="b314-27" pgmap="314">Terms........................cash........................less one and one-­half % if paid within ten days from date of invoice. Shipments to be made at packer’s option during month of October 1903.</p>
+                <p id="b314-29" pgmap="314">(In case of a partial failure of the crop we consent to the cutting down of this order, pro rata, with all other orders taken, of thirty per cent., without lia­bility for claim for damages, and to accept a cash payment of fifteen cents per ease for the cutting down of an additional twenty per cent. In case of destruction of the cannery by the elements, the packer is not to be held liable for damages for non-delivery.)</p>
+                <p id="b315-3" pgmap="315">Remarks :</p>
+                <p id="b315-4" pgmap="315">......................Brokers. P. Hokenadel, Jr. Co. The above order accepted this 9/29th day of..........1903.</p>
+                <p id="b315-6" pgmap="315">Gettys &amp; Gilbert.”</p>
+                <p id="b315-7" pgmap="315">Mr. Marsh had taken a printed blank of P. Hohena­del, Jr., &amp; Co., who were packers of corn, while he, Marsh, was a broker dealing in corn, and had not fully adapted the form to the condition he was dealing with.</p>
+                <p id="b315-8" pgmap="315(281) 316(203)">On the 29th of September Albach &amp; Co., writing Marsh with reference to other corn, added the follow­ing: “Further, replying to yours of the 28th, enclosed find contract from Gettys &amp; Gilbert, and you will note they have scratched the stipulation as to delivery, stating that they have bought spots ”. “ Spots” means a purchase for cash or immediate delivery in contra­distinction to “futures”, a purchase for future de­livery, according to the custom in the corn market. The part within the parentheses had been crossed out by Gettys &amp; Gilbert. To this letter Marsh replied on the 30th as follows: “Tour favor of yesterday at hand, containing Gettys &amp; Gilbert’s contract, with con­ditions changed from what they originally were. Ton ought to know that such conditions are not equitable, and we beg to say, we turn this order down for the reasons above named”. On October 1st, Albach &amp; Co. wrote Marsh a letter protesting, and to this Marsh, on October 2nd, replied: “Tour favor of yesterday at hand, and in reply beg to say that we are still packing corn in the north. Will be for several days yet. I still adhere to contents of my letter of the 30th. Would like to know what protection a packer would have against fire-clause or anything else when he is sell­ing corn, without the packer’s clause, as it originally stood. Ton know as well as anybody wRen conditions are changed after they are signed by the maker, they are void. Wish you would so advise Gettys &amp; Gilbert”. These two letters of Marsh’s are a refusal to carry out his contract. There was some more correspon­dence between the parties, but it is not material, except that it may be noted that on October 12th he closed a letter by saying: “As far as I am concerned, this ends the matter, as far as this contract goes I absolutely refuse to ship the goods, as I am under no legal or moral obligation to do so”. The only reason Marsh ever gave for his refusal was this crossing out of part of the printed form of contract, by Gettys &amp; Gilbert. What was stricken out was something at no time mentioned between the parties. It had not the remotest applicability in a sale for immediate delivery between a seller who was not a packer of corn and a purchaser from him. Terms in respect to a whole or partial failure of crop might have applicability in a sale by a packer of an output before the crop is grown, but such terms in this sale for immediate delivery made in September, after the year’s crop was har­vested, would have been an absurdity. Whether or not the packer should or should not be held liable in case of destruction of his cannery was, as between these parties, equally irrelevant.</p>
+                <p id="b316-5" pgmap="316(159) 317(14)">We cannot hold that parties may evade performance of their contracts for any such reason. The question of the amount of damages that resulted from the re­fusal to carry out the contract, being the difference between the contract price and the market price, was properly left to be fixed by the jury. The refusal by Marsh to perform fixed the time of breach. The dif­ference between the contract price and market price on the day of refusal was testified to be from 95^5 to $1.05. Hence there is evidence in the record which justifies the amount of the verdict. There is evidence that Illinois, Wisconsin and certain other states are termed the central or middle west market for corn, and it appears from the evidence that in this mar­ket the corn is sold delivered at Chicago or f. o. b. factory so that therefore Chicago practically fixes the price. The freight rate between Janesville and Chi­cago was shown. The evidence is ample to warrant the amount of the verdict.</p>
+                <p id="b317-4" pgmap="317">Counsel for plaintiff in error contend that the trial judge erred in submitting to the jury a question of law in that he submitted to the jury the question whether the plaintiff’s exhibits constituted a contract; and counsel say: “there can be no doubt but that these instructions are erroneous”. We agree with counsel in this contention. Here, if there was a con­tract at all, and we have above held there was, it arose entirely upon the correspondence between the parties, for there is no oral evidence on the subject. Hence there is no conflict of testimony on the subject of what occurred between the parties. Whether upon what occurred a contract can be predicated is, then, a ques­tion of law. “The questions as to what writings should be considered, and whether or not those con­sidered constituted a written contract, and whether or not the written contract fully expressed the agreement between the parties, were for the court”. Telluride Power Co. v. Crane Co., 208 Ill. 218, 226. This is a familiar rule. The trial judge should by interpreta­tion of the language and construction, according to the principles of the law, have determined whether or not the negotiations conducted by correspondence ripened into a contract and what that contract was and in­structed the jury accordingly.</p>
+                <p id="b317-5" pgmap="317(121) 318(12)">Conflict in language used by parties is to be dis­posed of by the trial judge, alike, whether it occurs in a contract written on one sheet of paper or in a con­tract consisting of letters which have passed between the parties, so long as there is no dispute as to the language actually used. Had there been such conflict of language that the terms of the contract were not clearly settled and agreed upon, then there would not have been a contract. But in this particular ease plaintiff in error was in nowise injured by the error of submitting to the jury the question of the existence of a contract, for the jury found that there was a con­tract such as we have above found, that the parties entered into.</p>
+                <p id="b318-5" pgmap="318">Other points are made by plaintiff in error which we have fully considered, but we find no reversible error in the record. We are fully satisfied that the judgment below is not contrary to the law applicable or the evidence in the case.</p>
+                <p id="b318-6" pgmap="318">The judgment of the Municipal Court is affirmed.</p>
+                <p id="b318-7" pgmap="318">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="309" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00155_0"/>
+        <fptr FILEID="jp2_00155_0"/>
+        <fptr FILEID="alto_00155_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.2" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.1" BETYPE="IDREF" FILEID="alto_00155_0"/>
+              <area BEGIN="BL_309.3" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="310" ORDERLABEL="292" TYPE="page">
+        <fptr FILEID="tiff_00155_1"/>
+        <fptr FILEID="jp2_00155_1"/>
+        <fptr FILEID="alto_00155_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_310.1" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_310.2" BETYPE="IDREF" FILEID="alto_00155_1"/>
+              <area BEGIN="BL_310.3" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="311" ORDERLABEL="293" TYPE="page">
+        <fptr FILEID="tiff_00156_0"/>
+        <fptr FILEID="jp2_00156_0"/>
+        <fptr FILEID="alto_00156_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_311.2" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_311.1" BETYPE="IDREF" FILEID="alto_00156_0"/>
+              <area BEGIN="BL_311.3" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="312" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00156_1"/>
+        <fptr FILEID="jp2_00156_1"/>
+        <fptr FILEID="alto_00156_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_312.2" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_312.3" BETYPE="IDREF" FILEID="alto_00156_1"/>
+              <area BEGIN="BL_312.4" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="313" ORDERLABEL="295" TYPE="page">
+        <fptr FILEID="tiff_00157_0"/>
+        <fptr FILEID="jp2_00157_0"/>
+        <fptr FILEID="alto_00157_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_313.3" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_313.2" BETYPE="IDREF" FILEID="alto_00157_0"/>
+              <area BEGIN="BL_313.4" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="314" ORDERLABEL="296" TYPE="page">
+        <fptr FILEID="tiff_00157_1"/>
+        <fptr FILEID="jp2_00157_1"/>
+        <fptr FILEID="alto_00157_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_314.2" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_314.3" BETYPE="IDREF" FILEID="alto_00157_1"/>
+              <area BEGIN="BL_314.4" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="315" ORDERLABEL="297" TYPE="page">
+        <fptr FILEID="tiff_00158_0"/>
+        <fptr FILEID="jp2_00158_0"/>
+        <fptr FILEID="alto_00158_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.2" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.1" BETYPE="IDREF" FILEID="alto_00158_0"/>
+              <area BEGIN="BL_315.3" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="316" ORDERLABEL="298" TYPE="page">
+        <fptr FILEID="tiff_00158_1"/>
+        <fptr FILEID="jp2_00158_1"/>
+        <fptr FILEID="alto_00158_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_316.2" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_316.3" BETYPE="IDREF" FILEID="alto_00158_1"/>
+              <area BEGIN="BL_316.4" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="317" ORDERLABEL="299" TYPE="page">
+        <fptr FILEID="tiff_00159_0"/>
+        <fptr FILEID="jp2_00159_0"/>
+        <fptr FILEID="alto_00159_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_317.3" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_317.2" BETYPE="IDREF" FILEID="alto_00159_0"/>
+              <area BEGIN="BL_317.4" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="318" ORDERLABEL="300" TYPE="page">
+        <fptr FILEID="tiff_00159_1"/>
+        <fptr FILEID="jp2_00159_1"/>
+        <fptr FILEID="alto_00159_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.2" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.3" BETYPE="IDREF" FILEID="alto_00159_1"/>
+              <area BEGIN="BL_318.4" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-13" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.11" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9hC" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.19" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-11" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.10" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-17" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.14" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnC" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.12" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_309.13" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-15" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.13" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-19" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.15" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.8" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            <area BEGIN="BL_316.1" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.7" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.5" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            <area BEGIN="BL_317.1" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.5" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.6" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.7" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.4" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.5" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.4" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.6" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.6" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.5" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.7" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            <area BEGIN="BL_312.1" BETYPE="IDREF" FILEID="alto_00156_1"/>
+            <area BEGIN="BL_313.1" BETYPE="IDREF" FILEID="alto_00157_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.5" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b313-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_313.5" BETYPE="IDREF" FILEID="alto_00157_0"/>
+            <area BEGIN="BL_314.1" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-10" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.14" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-11" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.15" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-12" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.16" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-13" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.19" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.6" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.6" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.7" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.7" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-29" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.23" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.5" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-22" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.18" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-21" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.17" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-20" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.16" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-27" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.22" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-26" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.21" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-24" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.20" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.8" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.7" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.5" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.4" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHL" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.17" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_309.18" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.5" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.8" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.9" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_309.10" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.6" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.4" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.9" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-14" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.12" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.6" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            <area BEGIN="BL_318.1" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV2" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.11" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

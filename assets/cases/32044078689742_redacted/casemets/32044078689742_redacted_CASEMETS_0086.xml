@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0086" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Park v. Lehman">Hugh G. Park, Appellee, v. Mary J. Lehman, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 460</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00239_1" MIMETYPE="image/tiff" CHECKSUM="6423f1b21f8807e5721da900329b855b" CHECKSUMTYPE="MD5" SIZE="42890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_1.tif"/>
+      </file>
+      <file ID="tiff_00240_0" MIMETYPE="image/tiff" CHECKSUM="ed3b8642d2faa0a8c8deba84dbf79008" CHECKSUMTYPE="MD5" SIZE="48746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_0.tif"/>
+      </file>
+      <file ID="tiff_00240_1" MIMETYPE="image/tiff" CHECKSUM="2299c6e305178f1f927b081471f43004" CHECKSUMTYPE="MD5" SIZE="37120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00239_1" MIMETYPE="image/jp2" CHECKSUM="cad76c909e30ea7d4eb729c1f72953ab" CHECKSUMTYPE="MD5" SIZE="2367640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00239_1.jp2"/>
+      </file>
+      <file ID="jp2_00240_0" MIMETYPE="image/jp2" CHECKSUM="653879b0618596be6b1cac1571bfbff9" CHECKSUMTYPE="MD5" SIZE="2452863">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_0.jp2"/>
+      </file>
+      <file ID="jp2_00240_1" MIMETYPE="image/jp2" CHECKSUM="96d67ac3b56680f8d7447330f0ff96d0" CHECKSUMTYPE="MD5" SIZE="2304398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00240_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00239_1" MIMETYPE="text/xml" CHECKSUM="263f5971d5c5add1acca8d0999d874e9" CHECKSUMTYPE="MD5" SIZE="71619">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00239_1.xml"/>
+      </file>
+      <file ID="alto_00240_0" MIMETYPE="text/xml" CHECKSUM="b9f1aa9ef8b4f77bc3f6c417b48382cb" CHECKSUMTYPE="MD5" SIZE="85531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00240_0.xml"/>
+      </file>
+      <file ID="alto_00240_1" MIMETYPE="text/xml" CHECKSUM="05feab11874f1f76af0e8957a90ea664" CHECKSUMTYPE="MD5" SIZE="66593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00240_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0086" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="462" firstpage="460">
+              <parties id="b478-8" pgmap="478">Hugh G. Park, Appellee, v. Mary J. Lehman, Ap­pellant.</parties>
+              <decisiondate id="A5J" pgmap="479">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b479-4" pgmap="479">C. E. Schroll, for appellant.</attorneys>
+              <attorneys id="b479-5" pgmap="479">Mills Bros., for appellee.</attorneys>
+              <summary id="b478-10" pgmap="478(19) 479(9)">Bill for specific performance. Appeal from the Circuit Court of Macon county; the Hon. William C. Johns, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="ASS" pgmap="479">Affirmed.</disposition>
+              <headnotes id="b478-9" pgmap="478">Master in chancery—when findings of fact not disturbed. Find­ings of fact by a master, approved by the chancellor, will not be disturbed on review, unless manifestly against the weight of the evidence.</headnotes>
+              <opinion type="majority">
+                <author id="b479-6" pgmap="479">Mr. Presiding Justice Puterbaugh</author>
+                <p id="AGC1" pgmap="479">delivered the opinion of the court.</p>
+                <p id="b479-7" pgmap="479">This is a bill by appellee to enforce the specific per­formance by appellant of an alleged agreement for the extension of a lease. The chancellor entered a decree granting the relief prayed in the bill. The bill avers that appellant was the owner of a life estate in certain farm lands, and that she executed to appellee a lease of the same for the period of three years from March 1, 1905; that during the year 1906 the barn on said premises was in bad repair, and appellee applied to appellant to construct a new one, but that appellant represented that she did not have the necessary money to do so, and that thereupon appellee agreed that if appellant would extend his lease until March 1, 1912, he would furnish the money necessary to build a new barn, the amount so furnished to be credited pro rata upon the notes to be given by him for rent during the extended period; that he had expended in tearing down the old barn and constructing a new one the sum of $517.58; that he had applied to appellant to extend said lease, and make proper credits' upon his notes, but that she had refused to do so. The cause was referred to the master, who found the facts to be substantially as alleged in the bill, and recommended that a decree be entered in accordance with the prayer thereof.</p>
+                <p id="b479-8" pgmap="479(69) 480(75)">It is conceded by appellant in argument that appel­lee is entitled to have his lease extended for the period claimed, the only point in dispute being as to what amount should be credited upon his rent notes. It is insisted that under the agreement for the extension of the lease appellant was to pay $300 only on account of the construction of the barn. The only question in­volved, therefore, is one of fact. The evidence is in conflict. The conclusions of the master, who saw and heard the witnesses, upon the issue, are in favor of appellee, and the chancellor has approved such find­ing. We cannot say that such conclusions are against the manifest weight of the evidence, and therefore would, he unwarranted in disturbing the same. Day v. Wright, 233 Ill. 218. The decree of the circuit court is affirmed.</p>
+                <p id="b480-5" pgmap="480">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="478" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00239_1"/>
+        <fptr FILEID="jp2_00239_1"/>
+        <fptr FILEID="alto_00239_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.1" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.2" BETYPE="IDREF" FILEID="alto_00239_1"/>
+              <area BEGIN="BL_478.3" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="479" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00240_0"/>
+        <fptr FILEID="jp2_00240_0"/>
+        <fptr FILEID="alto_00240_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_479.3" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_479.2" BETYPE="IDREF" FILEID="alto_00240_0"/>
+              <area BEGIN="BL_479.4" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="480" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00240_1"/>
+        <fptr FILEID="jp2_00240_1"/>
+        <fptr FILEID="alto_00240_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.2" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.3" BETYPE="IDREF" FILEID="alto_00240_1"/>
+              <area BEGIN="BL_480.4" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.14" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            <area BEGIN="BL_480.1" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-10" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.10" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            <area BEGIN="BL_479.1" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASS" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.5" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-4" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.8" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.9" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-6" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.10" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-7" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.13" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-5" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.5" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5J" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.6" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            <area BEGIN="BL_479.7" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGC1" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.11" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            <area BEGIN="BL_479.12" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-9" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.9" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-8" BETYPE="IDREF" FILEID="casebody_0086"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.8" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0018" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Love v. Love">William E. Love et al., Appellees, v. Percy W. Love et al., on appeal of Thomas B. Lynd et al., Appellants</name>
+          <docketnumber>Gen. No. 14,663</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 150</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="3f5b234ea4c41c1f153f5599bb891da3" CHECKSUMTYPE="MD5" SIZE="45190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_1.tif"/>
+      </file>
+      <file ID="tiff_00085_0" MIMETYPE="image/tiff" CHECKSUM="aa1f525105e198d70fe2645d89758fd1" CHECKSUMTYPE="MD5" SIZE="48028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00085_0.tif"/>
+      </file>
+      <file ID="tiff_00085_1" MIMETYPE="image/tiff" CHECKSUM="2afbdd5e752a36093a21bea376ee2102" CHECKSUMTYPE="MD5" SIZE="53046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00085_1.tif"/>
+      </file>
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="0124d910d0aed22846ac766d08eaca44" CHECKSUMTYPE="MD5" SIZE="55024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="0bbb1d79fa0a80289848f38a14819816" CHECKSUMTYPE="MD5" SIZE="39146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00086_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="70f48d1dcbbb1a274b909c4c6414fb64" CHECKSUMTYPE="MD5" SIZE="2362975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_1.jp2"/>
+      </file>
+      <file ID="jp2_00085_0" MIMETYPE="image/jp2" CHECKSUM="9129670ab33884fd61b8cf4cadaea563" CHECKSUMTYPE="MD5" SIZE="2409877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00085_0.jp2"/>
+      </file>
+      <file ID="jp2_00085_1" MIMETYPE="image/jp2" CHECKSUM="6c142a525d40aedbcceed524a737bcf2" CHECKSUMTYPE="MD5" SIZE="2458157">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00085_1.jp2"/>
+      </file>
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="aa483e0dfda2b33ec3f28144917c87f5" CHECKSUMTYPE="MD5" SIZE="2518539">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="a9349481d2c8d4b9a6c1fa6a324c874b" CHECKSUMTYPE="MD5" SIZE="2290898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00086_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="b9a1a823eb03d1925c08d1e0ebfe56ff" CHECKSUMTYPE="MD5" SIZE="79936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00084_1.xml"/>
+      </file>
+      <file ID="alto_00085_0" MIMETYPE="text/xml" CHECKSUM="1621e76337e132b0052276e8d96b704a" CHECKSUMTYPE="MD5" SIZE="82435">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00085_0.xml"/>
+      </file>
+      <file ID="alto_00085_1" MIMETYPE="text/xml" CHECKSUM="7e7d4795cfcf824f713779e02831cd8a" CHECKSUMTYPE="MD5" SIZE="89262">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00085_1.xml"/>
+      </file>
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="9b35dcd3d6677b23983fc4b980c72fdf" CHECKSUMTYPE="MD5" SIZE="93589">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="92581ef8d03648457bae2a1927f79a4a" CHECKSUMTYPE="MD5" SIZE="66735">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00086_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="154" firstpage="150">
+              <docketnumber id="b168-10" pgmap="168">Gen. No. 14,663.</docketnumber>
+              <parties id="b168-9" pgmap="168">William E. Love et al., Appellees, v. Percy W. Love et al., on appeal of Thomas B. Lynd et al., Appellants.</parties>
+              <decisiondate id="AW8" pgmap="169">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b169-5" pgmap="169">G-aetside &amp; Hudson, for appellants.</attorneys>
+              <attorneys id="b169-6" pgmap="169">Julius Steen, for appellees.</attorneys>
+              <summary id="b169-4" pgmap="169">Partition. Appeal from the Superior Court of Cook county; the Hon. Farlin Q. Ball, Judge, presiding. Heard in this court at the March term, 1908.</summary>
+              <disposition id="AOP" pgmap="169">Affirmed.</disposition>
+              <headnotes id="b168-11" pgmap="168">1. Appeals and errors—what not subject to review upon hearing of interlocutory order. Upon an appeal from an interlocutory order the merits of the controversy not involved in the interlocutory order are not before the Appellate Court for review.</headnotes>
+              <headnotes id="b169-3" pgmap="169">2. Receiverships—when appointment not erroneous. The ap­pointment of a receiver made in the exercise of a legal discretion will not be set aside on review where no abuse of discretion appears.</headnotes>
+              <opinion type="majority">
+                <author id="b169-7" pgmap="169">Mr. Presiding Justice Adams</author>
+                <p id="AY9" pgmap="169">delivered the opinion of the court.</p>
+                <p id="b169-8" pgmap="169">This is an appeal from an interlocutory order ap­pointing a receiver.</p>
+                <p id="b169-9" pgmap="169">The appellees, claiming to be the heirs, together with Percy W. Love, of James M. Love, who departed this life December 24,1886, leaving a will, filed a bill for the partition of certain premises described in the bill, mak­ing Percy W. Love, Thomas B. Lynd, Edward M. Lynd and others, defendants. The defendants named also claim under the will of James M. Love, deceased, which will is set out in full in the bill.</p>
+                <p id="b169-10" pgmap="169">The question which claim is valid, that of the com­plainants or that of the defendants, depends on the construction to be given to the will. Counsel for ap­pellants, assuming that the question as to how the will should be construed is before us on this appeal, have directed their argument mainly to the contention that the defendants above named are the parties entitled, under the will; and appellees’ counsel, while contend­ing that no question involving a construction of the will is before us on this appeal, has, presumably from abundant caution, argued that it should be construed in favor of his clients.</p>
+                <p id="b169-11" pgmap="169(51) 170(90)">The question as to how the will should be construed is before the lower court for determination by that court on the final hearing. The question is not properly before us and cannot come before us otherwise than by appeal or writ of error, after a final decree in the cause shall have been rendered by the lower court. It is not intended or contemplated by the statute authorizing appeals from interlocutory orders appointing receivers, that on such appeals questions relating to the merits of the causes in which the interlocutory orders are en­tered shall be considered and passed on by the review­ing court. The statute provides: “The force and ef­fect of such order or decree, and the proceedings in the court below shall not be stayed during the pendency of such appeal.” Hurd’s Stat. 1905, p. 234.</p>
+                <p id="b170-5" pgmap="170">This being the law, the lower court, notwithstanding the appeal from the interlocutory order, might proceed to a hearing of the cause and decide the question of law at issue between the parties, viz.: as to how the will should be construed. Manifestly, the same question cannot be pending for decision in this court and in. the Superior Court, in the same case and at the same time. Elgin Lumber Co. v. Langman, 23 Ill. App. 250; Smith v. Chytraus, 152 Ill. 654; Elliott on Civil Procedure, sec. 541.</p>
+                <p id="b170-6" pgmap="170">The sole question before us on this appeal is, whether the lower court erred in appointing a receiver. In Rail­ton v. The People, 83 Ill. App. 396, we said: “Counsel confuse the interlocutory control of the property, by appointment of a receiver pendente lite, with a final order determinative of the rights of the litigants. It is true that the interests of appellant could not be finally disposed of in the suit until she had been given her right to be heard in defense. But here is no final adjudication. The court merely sought, by its inter­locutory order, to preserve the estate until a final de­termination might be had.”</p>
+                <p id="b170-7" pgmap="170(75) 171(170)">In High on Injunctions, 3rd ed., p. 9, it is said: “In­deed, upon an interlocutory application for a receiver, a court of equity usually confines itself strictly to the point which it is called upon to decide, and will not go into the merits of the case at large, since the court is bound to express its opinion only to the extent neces­sary to show the grounds upon which it disposes of the application”. The same author says: ‘‘ A receiver is an indifferent person between the parties to a cause, ap­pointed by the court to receive and preserve the prop­erty or fund in litigation pendente lite, when it does not seem reasonable to the court that either party should hold it”. The receiver in this case was appointed on mo­tion of appellees. Counsel for appellants contend that the motion was granted on insufficient evidence, and urge that the amended bill is not verified, and that an affidavit read in support of the motion is not sufficient. The original bill is sworn to, and was before the court when the motion was made; but the affidavit purport­ing to be in verification of the bill is the same held by this court to be insufficient in Deimel v. Brown, 35 Ill. App. 303, and in a number of cases following that case. The amended bill is not sworn to. The following affi­davit was read in support of the motion:</p>
+                <p id="b171-4" pgmap="171">“James R. Wadsworth, being duly sworn, on his oath says that he is the agent for the complainants in the above entitled cause in this behalf; that the prem­ises named in the amended bill of complaint, heretofore filed in the above entitled cause, are improved in part by buildings erected thereon and occupied by various tenants, who have been made defendants in this cause, and whose appearance has been entered herein, ex­cepting as to some of said premises which are at the present time vacant.</p>
+                <p id="b171-5" pgmap="171">“Affiant further says, that upon inquiry made by him of said tenants, he has been informed that the monthly rentals amount to the sum of from eighty-five to ninety dollars per month, and that the rents of such as are at the date hereof occupied, amounting to at least fifty-five dollars per month, are being paid to one Jay W. Cummings and John M. G-artside, for the use of the defendants, Thomas B. Lynd and Edwina M. Lynd, as this affiant is informed and believes.</p>
+                <p id="b171-6" pgmap="171(41) 172(19)">“Affiant further says that the buildings upon said premises are all at the present time in a state of bad repair, and are in need of repairs to prevent waste and decay, and that one of said buildings, located at 1308 Seventy-first street, as he is informed, was vacated in October last because of the bad state of repairs thereon.</p>
+                <p id="b172-5" pgmap="172">“Affiant further says, that the general taxes levied for the year 1906 upon all of the premises described in this cause, have been left unpaid, and said premises have been sold for non-payment of taxes; and further says not.</p>
+                <p id="b172-6" pgmap="172">“(Signed) Jambs E. Wadsworth.</p>
+                <p id="b172-7" pgmap="172">Subscribed and sworn to before me this 16th day of January, 1908.</p>
+                <p id="b172-8" pgmap="172">(Signed) Walter G. Wissing,</p>
+                <p id="b172-9" pgmap="172">(Notarial Seal.) Notary Public.”</p>
+                <p id="b172-10" pgmap="172">It is impliedly conceded by the arguments for both parties in this appeal, that the rights of the principal parties depend upon the construction to be given to the will, and this must have been apparent to the courl from the will itself, which is set forth at large in the bill. It is therefpre to the interest of both parties that the property in question shall be preserved till such time as the court shall construe the will. The property having been sold for taxes, the purchaser may acquire title t'o it. At least, the sale is a cloud on the title, which cannot be removed without payment of the taxes, and to pay the taxes it may be necessary to use the rents, and therefore to preserve them. It was largely a matter resting in the discretion of the court, to de­termine whether or not a receiver should be appointed, and we cannot say that the court, in determining that question as it did, abused its discretion.</p>
+                <p id="b172-11" pgmap="172">The order appointing a receiver will be affirmed.</p>
+                <p id="b172-12" pgmap="172">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="168" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.2" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.3" BETYPE="IDREF" FILEID="alto_00084_1"/>
+              <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="169" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00085_0"/>
+        <fptr FILEID="jp2_00085_0"/>
+        <fptr FILEID="alto_00085_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.2" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.1" BETYPE="IDREF" FILEID="alto_00085_0"/>
+              <area BEGIN="BL_169.3" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="170" ORDERLABEL="152" TYPE="page">
+        <fptr FILEID="tiff_00085_1"/>
+        <fptr FILEID="jp2_00085_1"/>
+        <fptr FILEID="alto_00085_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.2" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.3" BETYPE="IDREF" FILEID="alto_00085_1"/>
+              <area BEGIN="BL_170.4" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="171" ORDERLABEL="153" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.5" BETYPE="IDREF" FILEID="alto_00086_0"/>
+              <area BEGIN="BL_171.7" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.2" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.3" BETYPE="IDREF" FILEID="alto_00086_1"/>
+              <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.17" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_170.1" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.10" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.11" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.5" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_169.6" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.9" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-3" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.4" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.12" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.9" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.14" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.15" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.5" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.6" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.7" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            <area BEGIN="BL_171.1" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_171.2" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.9" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.8" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.10" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.10" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.11" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-11" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.11" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.10" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.16" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOP" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.7" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.8" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.9" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.8" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.12" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            <area BEGIN="BL_169.13" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

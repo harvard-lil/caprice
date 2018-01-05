@@ -1,0 +1,671 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0011" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Nix v. Thackaberry">Elizabeth L. Nix, Appellee, v. Milton L. Thackaberry, Appellant</name>
+          <docketnumber>Gen. No. 14,165</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 75</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="2d757af06d5ce397ca4ac6930f9f7935" CHECKSUMTYPE="MD5" SIZE="42240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="bffb55f712d9b8f166bdcad03649337c" CHECKSUMTYPE="MD5" SIZE="45856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_1.tif"/>
+      </file>
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="3a1aec407f1270ac1db58dbbb09a850e" CHECKSUMTYPE="MD5" SIZE="51568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="839966fd36a10295009ad32ce4c96ec2" CHECKSUMTYPE="MD5" SIZE="48364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="09922283c34377eeef0575ac544846af" CHECKSUMTYPE="MD5" SIZE="48800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="14efec53e3c2f59db9001c2ebb378db4" CHECKSUMTYPE="MD5" SIZE="42818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="e24814b24591f2d40b526901647030fa" CHECKSUMTYPE="MD5" SIZE="2393821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="f16baf51e2cb0a9f25d87a654ca39d90" CHECKSUMTYPE="MD5" SIZE="2368700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00047_1.jp2"/>
+      </file>
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="bc4373eaeafc0a161b0bf562a95889d1" CHECKSUMTYPE="MD5" SIZE="2452485">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="bec84a1f1084abe9bf3daacb5f4fa985" CHECKSUMTYPE="MD5" SIZE="2417446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="40c6e67f0f132192bf493ea6afeec0d7" CHECKSUMTYPE="MD5" SIZE="2446454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="acc88767e41b4ffcfadf0405cf68b483" CHECKSUMTYPE="MD5" SIZE="2325632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="1a6040d0ebbcc2e928350633e2422f2d" CHECKSUMTYPE="MD5" SIZE="74394">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="c7982e79418b8485aa580d38c1e63a42" CHECKSUMTYPE="MD5" SIZE="81710">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00047_1.xml"/>
+      </file>
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="f5714be576eff19e353eccbf32140064" CHECKSUMTYPE="MD5" SIZE="83792">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="2d7c934aa20a78a566f730f78eb1c187" CHECKSUMTYPE="MD5" SIZE="85443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="94e128aa7601aca5d9980d46705cf62e" CHECKSUMTYPE="MD5" SIZE="81279">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="62889bba3fa41195227879876b79dcf0" CHECKSUMTYPE="MD5" SIZE="71396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00049_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="80" firstpage="75">
+              <docketnumber id="b93-9" pgmap="93">Gen. No. 14,165.</docketnumber>
+              <parties id="b93-7" pgmap="93">Elizabeth L. Nix, Appellee, v. Milton L. Thackaberry, Appellant.</parties>
+              <decisiondate id="AK2" pgmap="94">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b94-5" pgmap="94">William B. Moak, for appellant.</attorneys>
+              <attorneys id="b94-6" pgmap="94">H. J. Rosenberg, for appellee; Max M. Grossman, of counsel.</attorneys>
+              <summary id="b94-4" pgmap="94">Foreclosure. Appeal from the Circuit Court of Superior county; the Hon. Willard M. McEwen, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="A7" pgmap="94">Affirmed.</disposition>
+              <headnotes id="b93-10" pgmap="93">1. Eminent domain—effect of judgment in condemnation upon lien of trust deed. A judgment in condemnation transfers the lien of the trust deed from the land to the fund awarded; a release by the trustee in the trust deed is not necessary; likewise, the owner of the debt secured can only be charged with the amount actually paid under the condemnation judgment.</headnotes>
+              <headnotes id="b93-11" pgmap="93">2. Foreclosure—what allowance of solicitor’s fees proper. Held, in a foreclosure proceeding that an allowance of $1,000 by way of solicitor’s fees was proper.</headnotes>
+              <headnotes id="b93-12" pgmap="93">3. Foreclosure—when decree directing particular order of sale proper. Held, that the decree or order of foreclosure entered in this case providing for the sale of the property foreclosed in a particular order as to lots, was proper.</headnotes>
+              <opinion type="majority">
+                <author id="b94-7" pgmap="94">Mr. Justice Baker</author>
+                <p id="ATf" pgmap="94">delivered the opinion of the court.</p>
+                <p id="b94-8" pgmap="94">The bill in this case is a bill to foreclose a trust deed in the nature of a mortgage dated January 13, 1904, given by appellant to secure his principal note of that date for $40,000, payable three years after date, with interest at six per cent., payable semi-an­nually until maturity, and with interest after matu­rity until paid, at the highest rate of interest it was then in such case lawful to contract for, and his six interest notes for $1,200 each, of the same date, one payable at the end of each successive six months after date, with the same provision as to the rate of interest after maturity as the principal note, all of which notes were payable to the order of the maker, and by him endorsed in blank. The cause was, on the motion of appellant, referred to a master to take and report the proof s and his findings. Appellant took a large num­ber of exceptions to the draft report which were over­ruled by the master, and the decree approves the re­port and overrules all exceptions thereto. From the decree only the mortgagor appealed.</p>
+                <p id="b94-9" pgmap="94">We think that the contention of appellant that com­plainant was not the owner of the notes secured by said trust deed cannot, on the proofs, be sustained.</p>
+                <p id="b94-10" pgmap="94(47) 95(68)">Certain of the lots included in the trust deed were taken by the city of Chicago for school purposes; the value thereof ascertained by a jury; the money paid to the county treasurer; and by him paid to com­plainant and credited on said principal note. The trustee released said lots. Appellant contends that because, under the provisions of the trust deed, the trustee was not authorized to release said lots on the payment of any sum less than $12,000, that therefore the complainant should be charged with $12,000, be­cause of such release, although the amount of the con­demnation money, less certain taxes on said lots paid out of said money, was $7,688.79.</p>
+                <p id="b95-4" pgmap="95">The effect of the judgment was to transfer the lien of the trust deed from the land to the fund awarded. No formal release by the trustee was necessary. Stopp v. Wilt, 76 Ill. App. 531; S. C. 177 Ill. 620.</p>
+                <p id="b95-5" pgmap="95">We think that appellant was only entitled to have the sum actually received by complainant credited on his notes.</p>
+                <p id="b95-6" pgmap="95">In the brief of appellee it is stated, that appellee has: “Conceded from the beginning of this litigation that any defence which is good as against Charles H. Nix, the husband of appellee, is good as against appellee”.</p>
+                <p id="b95-7" pgmap="95">The proofs do not, in our opinion, show that Charles H. Nix was indebted to appellant in any sum what­ever.</p>
+                <p id="b95-8" pgmap="95">Appellant testified that he and Charles H. Nix agreed at a certain time that the amount due com­plainant, in excess of the principal sum of $40,000, was $3,000. Nix testified that no such agreement was made. The master found, and the court has approved his finding, that no such agreement was made. If any such agreement was made, the $3,000 was not paid by appellant.</p>
+                <p id="b95-9" pgmap="95">We do not think that, on the evidence, appellant is entitled to have the decree reversed or modified by reason of his claim that he made such an agreement with Charles H. Nix, as he testified that he made.</p>
+                <p id="b95-10" pgmap="95(52) 96(67)">Appellant further contends that he made a deed con­veying lots 18 and 19 in block 15, to William Eckhart, who was to pay $1,000 therefor, and gave said deed to. Charles H. Nix, to deliver on payment of said sum. The evidence fails to show that said deed was ever de­livered to Eckhart, or that the purchase money was paid to Nix. The decree provides that: “Nothing in this decree contained shall in any way prejudice any right which Milton L. Thackaberry may have against Charles H. Nix, or any one else by reason of the execution by said Thackaberry of a deed in which William Eckhart is grantee to lots 18 and 19 in block 15”.</p>
+                <p id="b96-5" pgmap="96">We do not think that appellant was, on the proofs, entitled to any credit on his notes on account of said transaction.</p>
+                <p id="b96-6" pgmap="96">The trust deed gave the holder of the notes secured by the trust deed the right to declare all the notes due in case of failure to pay any note at maturity. Defend­ant made default in payment of certain interest notes; complainant declared all the notes due and filed this bill May 22, 1906. The $7,688.79 was paid to com­plainant May 26, 1906, and then indorsed on the prin­cipal note, leaving the balance then due on said note $32,311.21. Interest was computed by the master at the rate of six per cent, on $40,000 from. January 13, 1906, to May 22,1906, and at six per cent, on said sum from May 22 to May 26, 1906, and on $32,311.21 from that time until March 26, 1907, the date of his report. On the three interest notes for $1,200 each due respect­ively January 13, 1905, July 13, 1905, and January 13, 1906, interest was computed at seven per cent, from maturity to March 26, 1907, and at the same rate on amounts paid for taxes from time of payment to March 26, 1907.</p>
+                <p id="b96-8" pgmap="96(79) 97(17)">The master found that the amount due March 26, 1907, was $40,407.61. The decree entered August 9, 1907, finds that sum is due with interest from March 26, 1907. We do not think that appellant has any just ground to complain of this computation of in­terest. While its effect is to allow interest on the in­terest found to be due March 26, 1907, its effect is also to reduce the rate of interest from seven to six per cent, from March 26, 1907, to the date of the de­cree, on the whole debt.</p>
+                <p id="b97-4" pgmap="97">The contention of the appellant that the decree al­lows complainant amounts paid for taxes on lots not included in the mortgage, finds no support in the proofs.</p>
+                <p id="b97-5" pgmap="97">The trust deed provides that the complainant shall be allowed, in case of foreclosure, a reasonable solici­tor’s fee and expenses of bringing down the abstract. She was allowed by the decree a solicitor’s fee of $1,000, and for abstract $15.30. We think that both allowances, on the proofs, are proper.</p>
+                <p id="b97-6" pgmap="97">June 14, 1907, appellant filed a cross .bill and a sup­plemental answer. August 8, 1907, after the court had announced the decision and directed that a de­cree be prepared, appellant moved for a rule on com­plainant to answer the cross-bill. The court denied his motion and dismissed the cross-bill. The facts stated in the cross-bill are also stated in the supple­mental answer. The purpose of filing the supplemen­tal answer was to make the answer correspond with the proofs. Appellant did not ask that the cause be again referred, or that he be permitted to introduce further proof. We do not think that appellant was preju­diced by the dismissal of his cross-bill.</p>
+                <p id="b97-7" pgmap="97">April 24, 1906, appellant conveyed to Wickham the greater part of the lots included in the mortgage, sub­ject to said trust deed which was assumed by Wick-­ham.</p>
+                <p id="b97-8" pgmap="97">May 18, 1906, appellee, by Charles H. Nix her at­torney in fact, signed a paper reciting an agreement on her part, in case she received a deed to said real estate to convey the same, with the exception of cer­tain lots which Wickham had conveyed, to Wickham on the terms therein stated. We are unable to see how or in what .manner appellant’s rights were af­fected by this instrument.</p>
+                <p id="b97-9" pgmap="97(19) 98(52)">At the time the decree was entered, the title to the equity in the mortgaged premises stood as follows: One lot, 27 in Hock 16, in Foley, to whom it had been conveyed by appellant; certain other lots in appellant; certain other lots in Foley, to whom they had been con­veyed by Wickham after the conveyance thereof to him by appellant, above mentioned; the remaining lots and blocks in Wickham.</p>
+                <p id="b98-5" pgmap="98">The decree provides that the master shall sell: first, certain specified lots and blocks, mentioning and describing the lots andablocks so conveyed, to Wick-­ham, which had not been reconveyed by him; second, certain other specified lots, mentioning and describing certain lots included in the said conveyance from ap­pellant to Wickham and by Wickham conveyed to Foley; third, the lots which had not been conveyed by appellant; fourth, said lot 27 which appellant had con­veyed to Foley. As between appellant and Foley, his grantee of lot 27, it was proper to sell appellant’s lots before lot 27 was sold, for Foley did not assume the mortgage. We think the court properly ordered that Wickham’s property be first sold, and that the lots he had conveyed to Foley be next sold. But however that may be, as between Wickham and Foley, appel­lant cannot complain, for both Wickham’s and Foley’s lots are ordered to be sold before appellant’s.</p>
+                <p id="b98-6" pgmap="98">We think the record is free from reversible error, and the decree will be affirmed.</p>
+                <p id="b98-7" pgmap="98">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="93" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.2" BETYPE="IDREF" FILEID="alto_00047_0"/>
+              <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.2" BETYPE="IDREF" FILEID="alto_00047_1"/>
+              <area BEGIN="BL_94.3" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="95" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.2" BETYPE="IDREF" FILEID="alto_00048_0"/>
+              <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.3" BETYPE="IDREF" FILEID="alto_00048_1"/>
+              <area BEGIN="BL_96.4" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.2" BETYPE="IDREF" FILEID="alto_00049_0"/>
+              <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.3" BETYPE="IDREF" FILEID="alto_00049_1"/>
+              <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.6" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.7" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.8" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.15" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_95.1" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.10" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.13" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.14" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATf" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.11" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_94.12" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.10" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.9" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.8" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.7" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.6" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.9" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.10" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.4" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_94.5" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.8" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.7" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK2" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.7" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-11" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.11" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.10" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-12" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.12" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.9" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.6" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.11" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

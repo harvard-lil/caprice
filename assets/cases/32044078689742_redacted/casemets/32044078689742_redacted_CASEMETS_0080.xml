@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0080" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People ex rel. Slusser v. Johnson">The People of the State of Illinois, ex rel. Viola Slusser, Defendant in Error, v. Bertha Johnson, Plaintiff in Error</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 446</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00232_1" MIMETYPE="image/tiff" CHECKSUM="490bd8c22f44d77a4721aa8bc74f3af5" CHECKSUMTYPE="MD5" SIZE="45180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00232_1.tif"/>
+      </file>
+      <file ID="tiff_00233_0" MIMETYPE="image/tiff" CHECKSUM="500f598b8c000055dfeabfb268d8abf1" CHECKSUMTYPE="MD5" SIZE="53870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00233_0.tif"/>
+      </file>
+      <file ID="tiff_00233_1" MIMETYPE="image/tiff" CHECKSUM="048705838a9444b37b933d58068e5e5a" CHECKSUMTYPE="MD5" SIZE="40112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00233_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00232_1" MIMETYPE="image/jp2" CHECKSUM="6b794a00a430921db91cda0994a48d9a" CHECKSUMTYPE="MD5" SIZE="2374980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00232_1.jp2"/>
+      </file>
+      <file ID="jp2_00233_0" MIMETYPE="image/jp2" CHECKSUM="9166469dbec79b9bd4a5af8d96f12381" CHECKSUMTYPE="MD5" SIZE="2477463">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00233_0.jp2"/>
+      </file>
+      <file ID="jp2_00233_1" MIMETYPE="image/jp2" CHECKSUM="dfe08fa8bf39818583600f567ecd258f" CHECKSUMTYPE="MD5" SIZE="2302696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00233_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00232_1" MIMETYPE="text/xml" CHECKSUM="a2a875864175faa06302fea118b5bff5" CHECKSUMTYPE="MD5" SIZE="85892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00232_1.xml"/>
+      </file>
+      <file ID="alto_00233_0" MIMETYPE="text/xml" CHECKSUM="9ebd88f95e41b0fdd01531aa55f5b49c" CHECKSUMTYPE="MD5" SIZE="89428">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00233_0.xml"/>
+      </file>
+      <file ID="alto_00233_1" MIMETYPE="text/xml" CHECKSUM="dcfde114773ec469552fccf9fc12a47d" CHECKSUMTYPE="MD5" SIZE="66995">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00233_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="448" firstpage="446">
+              <parties id="b464-4" pgmap="464">The People of the State of Illinois, ex rel. Viola Slusser, Defendant in Error, v. Bertha Johnson, Plaintiff in Error.</parties>
+              <decisiondate id="Az6" pgmap="464">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b464-10" pgmap="464">George B. Leonard, for plaintiff in error.</attorneys>
+              <attorneys id="b464-11" pgmap="464">Keeslar &amp; Gun, for defendant in error.</attorneys>
+              <summary id="b464-9" pgmap="464">Petition for appointment of guardian. Error to the County Court of Vermilion county; the Hon. Isaac A. Love, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AdzT" pgmap="464">Writ of error dis­missed.</disposition>
+              <headnotes id="b464-7" pgmap="464">1. Appears and errors—what court has jurisdiction of appeal appointing guardian. An appeal lies from the County to the Cir­cuit Court from an order appointing a guardian for a minor child.</headnotes>
+              <headnotes id="b464-8" pgmap="464">2. Guardian and ward—character of proceedings for appoint­ment. Application for the appointment of a guardian for a minor child is in no proper sense a suit or proceeding at law or in chan­cery within the meaning of section 8 of the Appellate Court Act, but such a proceeding is purely statutory.</headnotes>
+              <opinion type="majority">
+                <author id="b464-12" pgmap="464">Mr. Presiding Justice Puterbaugh</author>
+                <p id="Aa_" pgmap="464">delivered the opinion of the court.</p>
+                <p id="b464-13" pgmap="464">On July 3, 1907, Viola Slusser filed a petition in the County Court for the appointment of a guardian of the person of Genevieve Jenkins, a minor child of the plaintiff in error, averring in said petition that the father had deserted said child and the mother was ad­dicted to the excessive use of intoxicating liquor. On the same day the court issued a citation directing the plaintiff in error to appear on July 6, 1907, and show cause why the prayer of the petition should not be granted. The citation was served upon the plaintiff in error by the sheriff, and she appeared in court and re­sisted said petition. The court after hearing the evi­dence held that the plaintiff in error was not a proper person to have the custody of said child, and appointed Viola Slusser the guardian of said child. To review said order a writ of error was sued out of this court.</p>
+                <p id="b464-14" pgmap="464(9) 465(286)">Although the question is not urged by counsel, we are of opinion that the writ of error should be dismis­sed on the ground of lack of jurisdiction in this court to issue the same. Section 43 of the act entitled “Guardian and Ward” (Rev. Stat. p. 1174) provides that appeals shall be allowed to the Circuit Court from any order or judgment made or rendered under this act, upon the appellant giving bond, etc. McCallum v. Trust Co., 203 Ill. 142, cited by counsel for plaintiff in error, was a writ of error sued out from the Su­preme Court, from the Probate Court of Cook county, to review the order of that court disapproving a guard­ian’s report of sale of real estate and ordering a re-sale of the property. The court held that the foregoing section was repealed by implication by the adoption of section 88 of the Practice Act and section 8 of the Ap­pellate Court Act, and that the writ of error was properly sued out from that court. We do not think that it was there intended to be held that writs of error or appeals to review other orders in guardianship mat­ters than those pertaining to applications to sell real estate, should issue from or lie to the Appellate or Su­preme Courts. This view is borne out by section 11 of the Probate Court Act (Rev. Stat. 1905, p. 628), which provides that “appeals may be taken from the final orders, judgments and decrees of the Probate Courts to the Circuit Courts of their respective counties in all matters except in proceedings on the application of executors, administrators, guardians and conserva­tors for the sale of real estate, upon the appellant giv­ing bond,” etc.</p>
+                <p id="b465-5" pgmap="465(81) 466(36)">It is obvious that proceedings for the appointment of guardians are in no proper sense suits or proceedings at law or in chancery within the meaning of section 8 of the Appellate Court Act, but that they are purely statutory. Grier v. Cable, 159 Ill. 29. This court therefore has no jurisdiction to issue writs of error to review orders, judgments or decrees of the County or Probate Courts in guardianship matters, except those involving applications to sell real estate and where a freehold is not involved. Lynn v. Lynn, 160 Ill. 317. The proper remedy in proceedings of the present character, is through an appeal to the Circuit Court. The writ of error is therefore dismissed.</p>
+                <p id="b466-5" pgmap="466">Writ of error dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="464" ORDERLABEL="446" TYPE="page">
+        <fptr FILEID="tiff_00232_1"/>
+        <fptr FILEID="jp2_00232_1"/>
+        <fptr FILEID="alto_00232_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.1" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.2" BETYPE="IDREF" FILEID="alto_00232_1"/>
+              <area BEGIN="BL_464.3" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="465" ORDERLABEL="447" TYPE="page">
+        <fptr FILEID="tiff_00233_0"/>
+        <fptr FILEID="jp2_00233_0"/>
+        <fptr FILEID="alto_00233_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.3" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.2" BETYPE="IDREF" FILEID="alto_00233_0"/>
+              <area BEGIN="BL_465.4" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="466" ORDERLABEL="448" TYPE="page">
+        <fptr FILEID="tiff_00233_1"/>
+        <fptr FILEID="jp2_00233_1"/>
+        <fptr FILEID="alto_00233_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.2" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_466.3" BETYPE="IDREF" FILEID="alto_00233_1"/>
+              <area BEGIN="BL_466.4" BETYPE="IDREF" FILEID="alto_00233_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.12" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.13" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-12" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.14" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-13" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.17" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-14" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.18" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_465.1" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.5" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.4" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b466-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_466.5" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.6" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.7" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_464.8" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.5" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            <area BEGIN="BL_466.1" BETYPE="IDREF" FILEID="alto_00233_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa_" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.15" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_464.16" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.11" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdzT" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.9" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_464.10" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

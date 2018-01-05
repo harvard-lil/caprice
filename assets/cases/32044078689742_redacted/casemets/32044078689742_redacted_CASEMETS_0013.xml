@@ -1,0 +1,615 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0013" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Heidelmeier v. Hecht">John Heidelmeier, Appellee, v. Helena Hecht, Appellant</name>
+          <docketnumber>Gen. No. 14,195</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 116</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="425b64eee84f7c0a37112e60a9f9dea4" CHECKSUMTYPE="MD5" SIZE="39372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="f9fd516788109d6593838f7ecaebb696" CHECKSUMTYPE="MD5" SIZE="45494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00068_0.tif"/>
+      </file>
+      <file ID="tiff_00068_1" MIMETYPE="image/tiff" CHECKSUM="843bae3382ea347c9cf1bbf8d5a9308a" CHECKSUMTYPE="MD5" SIZE="47878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00068_1.tif"/>
+      </file>
+      <file ID="tiff_00069_0" MIMETYPE="image/tiff" CHECKSUM="7395fc6b5a5bb01441306edbdab90db6" CHECKSUMTYPE="MD5" SIZE="53626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00069_0.tif"/>
+      </file>
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="78868db835e5267741a892254aad2ec9" CHECKSUMTYPE="MD5" SIZE="53522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00069_1.tif"/>
+      </file>
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="8d5085f727ab5ec853dc3a6bc5ab41aa" CHECKSUMTYPE="MD5" SIZE="47940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="d9e2b14f11a7ccbbc434e1b30b8aed37" CHECKSUMTYPE="MD5" SIZE="2333653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="80865471a974c2c4e9258db3eab13c7a" CHECKSUMTYPE="MD5" SIZE="2431191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00068_0.jp2"/>
+      </file>
+      <file ID="jp2_00068_1" MIMETYPE="image/jp2" CHECKSUM="f730a7bcd7dfd85788226ad558716544" CHECKSUMTYPE="MD5" SIZE="2387290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00068_1.jp2"/>
+      </file>
+      <file ID="jp2_00069_0" MIMETYPE="image/jp2" CHECKSUM="78514fb56aa7ccc0dd09964cb563d7ee" CHECKSUMTYPE="MD5" SIZE="2439284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00069_0.jp2"/>
+      </file>
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="08260fe643a4732aaafe22ac505a6fda" CHECKSUMTYPE="MD5" SIZE="2420073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00069_1.jp2"/>
+      </file>
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="6dd1b7982f2bc8ce0d746a1f145f4363" CHECKSUMTYPE="MD5" SIZE="2405887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00070_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="637c2902fdbe4e5074c6bbc6a6fdbb5a" CHECKSUMTYPE="MD5" SIZE="69790">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="ab1f25c1e41f13d9e6efd89a2693e298" CHECKSUMTYPE="MD5" SIZE="76295">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00068_0.xml"/>
+      </file>
+      <file ID="alto_00068_1" MIMETYPE="text/xml" CHECKSUM="1c7fc56a99a356705fc09450d54a4448" CHECKSUMTYPE="MD5" SIZE="79876">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00068_1.xml"/>
+      </file>
+      <file ID="alto_00069_0" MIMETYPE="text/xml" CHECKSUM="5590d036aad474ac9856fe06879ed76d" CHECKSUMTYPE="MD5" SIZE="85021">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00069_0.xml"/>
+      </file>
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="9262ad569b0cac1f34ede57f2a295f84" CHECKSUMTYPE="MD5" SIZE="91099">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00069_1.xml"/>
+      </file>
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="b804936ff9126e1cfeee9cc37cdea2fe" CHECKSUMTYPE="MD5" SIZE="86744">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00070_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="121" firstpage="116">
+              <docketnumber id="b134-9" pgmap="134">Gen. No. 14,195.</docketnumber>
+              <parties id="b134-8" pgmap="134">John Heidelmeier, Appellee, v. Helena Hecht, Appel­lant.</parties>
+              <decisiondate id="AUS" pgmap="135">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b135-4" pgmap="135">A. G. Dicus, for appellant.</attorneys>
+              <attorneys id="b135-5" pgmap="135">Todd &amp; Morrison, for appellee'.</attorneys>
+              <summary id="b135-3" pgmap="135">Assumpsit. Appeal from the Municipal Court of Chicago; the Hon. John H. Hume, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="AM8" pgmap="135">Reversed and remanded.</disposition>
+              <headnotes id="b134-10" pgmap="134">1. Practice—proof required in assumpsit against joint debtors in absence of plea denying joint liability. Notwithstanding no plea denying joint liability is interposed in an action of assumpsit, yet there can be no recovery by the plaintiff unless the evidence shows the joint liability of all the defendants to the action.</headnotes>
+              <headnotes id="b134-11" pgmap="134">2. Assumpsit—when joint liability does not appear. Held, that the evidence in this case did not show joint liability by the several defendants joined in the action.</headnotes>
+              <p id="b134-12" pgmap="134">Baker, J., dissenting.</p>
+              <opinion type="majority">
+                <author id="b135-6" pgmap="135">Mr. Justice Chytraus</author>
+                <p id="AZq" pgmap="135">delivered the opinion of the court.</p>
+                <p id="b135-7" pgmap="135">Heidelmeier, appellee, brought this action of as­sumpsit in the Municipal Court against Sigmund Hecht and Helena Hecht, husband and wife. The action is for services rendered by Heidelmeier in procuring a purchaser for certain real estate. The common counts and a joint plea of general issue constitute the plead­ings. The case was heard by the court without a jury. The issues were found for the plaintiff and a judg­ment rendered against both defendants for $1,435.28. From that judgment Mrs. Helena Hecht prosecutes this appeal.</p>
+                <p id="b135-8" pgmap="135">Heidelmeier, an art glass manufacturer, testified that he had known the Hechts for fifteen or eighteen years and had done all the glass work on the premises in question. About a year after that work was done Hecht by telephone requested Heidelmeier to call at Hecht’s office. When Heidelmeier called there Hecht said he had heard Heidelmeier knew someone who de­sired to buy the property in question, adding: “You know that is the property where you furnished all the glass work for me—on my building on Evanston avenue.” Heidelmeier, among other things, then re­plied: “Mr Hecht, I am not in the real estate busi­ness ; I am in the glass businessI would like to get that in writing; in black and white that you will give me $1,500 if I sell the building, and I will try and sell it”. An agreement in writing was then made which in so far as material is as follows:</p>
+                <p id="b136-4" pgmap="136">‘ ‘ Chicago, Feb. 4, 1907.</p>
+                <p id="b136-5" pgmap="136">Mb. John Heidelmeier :</p>
+                <p id="b136-6" pgmap="136">Dear Sir:—</p>
+                <p id="b136-7" pgmap="136">If you will sell or close a trade for building * * *, I will pay you fifteen hundred dollars commission ($1500) as soon as said sale or trade is completed by you.</p>
+                <p id="b136-8" pgmap="136">Tours truly,</p>
+                <p id="b136-9" pgmap="136">Sigmund Hecht”.</p>
+                <p id="b136-10" pgmap="136">Through the procurement of Heidelmeier a trade or exchange was made.</p>
+                <p id="b136-11" pgmap="136">It appears that Mrs. Hecht owned the property and that Mr. Hecht attended to the renting thereof. So far as we can see from the record there was no com­munication between Heidelmeier and Mrs. Hecht in respect to this matter. The contract of exchange made was signed “Helena Hecht by Sigmund Hecht, Sigmund Hecht”, and in pursuance thereof a deed was subsequently executed by Mr. and Mrs. Hecht.</p>
+                <p id="b136-12" pgmap="136(188) 137(92)">This action of assumpsit against Sigmund Hecht and Helena Hecht, jointly, is predicated upon that writing, the performance by Heidelmeier, the fact of ownership of the property by Helena Hecht and the making and carrying out of the contract as stated. In such an action as this the law is the same whether two persons made joint defendants be husband and wife or not, so far as the necessity for proving a joint lia­bility is concerned. By the mere joining of a person as a party defendant a plaintiff cannot create a liab­ility which does not otherwise exist. Express as­sumpsit is an undertaking made orally, by writing not under seal, or by matter of record, to perform an act or to pay a sum of money to another. There is here no pretense of an express joint promise by Mrs. Hecht. Implied assumpsit is an undertaking presumed in law to have been made by a party .from his conduct, although he has not made any express promise. Such an undertaking is never implied where the party has made an express promise. Here Sigmund Hecht has made an express promise. Futhermore, his express promise is inconsistent with the theory of a joint ob­ligation. The law sometimes presumes promises for parties where their acts and conduct justify the pre­sumption, but it never creates promises for parties in square conflict with their acts or conduct. We find no evidence in the record of a joint undertaking on the part of Sigmund Hecht and Helena Hecht. If any question of an undisclosed principal exists in this case we do not wish to be understood as expressing any opinion thereupon.</p>
+                <p id="b137-4" pgmap="137">No plea in abatement was filed, nor did Helena Hecht file any plea in bar denying joint liability. Hence it is contended she cannot be heard to deny joint liability and reliance is placed upon section 35 of the Practice Act to sustain this contention. That section provides that in actions against two or more defendants as partners, joint obligors or payors, proof of joint liability shall not in the first instance be re­quired. Were the question an open one we could not take away the effect of the incorporation of those words “in the first instance” in the statute and read it as if those words were not there. Those words are words of restriction and limitation upon what would be the effect of the statute if those words were not there.</p>
+                <p id="b137-5" pgmap="137(122) 138(166)">But the question is not an open one. In Imperial Hotel Company v. Claflin Company, 175 Ill. 119, the Hotel Company and A. C. Mills &amp; Co., corporations, were sued jointly. They were held jointly liable by the trial court and the judgment was affirmed in the Appellate Court. The Supreme Court said: “The ground of reversal urged in the Appellate Court was, that the Superior Court erred in holding that the plaintiffs in error were joint debtors and jointly liable * * * . In the trial court there was no plea deny­ing the joint liability, but it was insisted the evidence showed there was no joint liability”. And, later, in holding that the judgment could not be sustained, the court said: “No liability existed in favor of the H. B. Claflin Company against both these defendants as joint debtors. In an action ex contractu against several it must appear that their contract was joint, and that fact must be averred by the pleadings and shown by the proof on the trial, otherwise no recovery can be had; and this is the rule where the evidence shows the contract is several, although none of the parties have put their joint liability in issue by a plea in abatement or a plea in bar verified by an affidavit”. To the same effect and fully as strong we find United Workmen v. Zuhlke, 129 Ill. 298, 303, and Powell v. Finn, 198 Ill. 567. In the latter ease it is said: “It is also well settled that, even in the absence of a plea denying joint liability, the evidence must show such liability as to all of the defendants in order to entitle the plaintiff to a judgment”.</p>
+                <p id="b138-5" pgmap="138(208) 139(101)">This court has repeatedly laid down the same rule. Davison v. Hill, 1 Ill. App. 70, is in point. Therein the court, after stating that it was there claimed that by this section of the Practice Act the common law rule which, in actions ex contractu requires the cause of action to be established against all the defendants or there can be no recovery against any, had been changed, said: “We think the statute sufficiently rad­ical in its innovations upon well established princi­ples, without according to it so broad a scope as that”. Speaking approvingly of this case last cited this court in Martin v. Trainer, 125 Ill. App. 474, said: “In the case of Davison v. Hill, 1 Ill. App. 70, it was held that section 36, now under discussion, did not require the filing of a plea denying joint liability, verified, when it affirmatively appears that parties are made defendants against whom no joint cause of action is shown”. Martin v. Nelson, 53 Ill. App. 517, is pre­cisely in point to the same effect. It is there held that notwithstanding this provision of the statute if it affirmatively appears from the plaintiff’s evidence or is made to appear by the defendant’s evidence, that there is no joint liability, the joint action is then de­feated. There are several other decisions to the same effect. Whatever language this court may have used in Touhy v. Daly, 27 Ill. App. 459, indicating that the section of the statute now under consideration has laid upon a joint defendant the burden of proving no joint liability, which is a negative, when no plea in abate­ment or verified plea in bar denying joint liability has been filed, must be regarded as overruled. The later decisions of our Supreme Court as well as of this court must be followed.</p>
+                <p id="b139-4" pgmap="139">For the error indicated the judgment of the Muni­cipal Court is reversed and the cause is remanded.</p>
+                <p id="b139-5" pgmap="139">Reversed and remanded.</p>
+                <p id="Auc" pgmap="139">Mr. Justice Bakes dissenting.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="134" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+              <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.2" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.1" BETYPE="IDREF" FILEID="alto_00068_0"/>
+              <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="136" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00068_1"/>
+        <fptr FILEID="jp2_00068_1"/>
+        <fptr FILEID="alto_00068_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.1" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.2" BETYPE="IDREF" FILEID="alto_00068_1"/>
+              <area BEGIN="BL_136.3" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="137" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00069_0"/>
+        <fptr FILEID="jp2_00069_0"/>
+        <fptr FILEID="alto_00069_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.3" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.2" BETYPE="IDREF" FILEID="alto_00069_0"/>
+              <area BEGIN="BL_137.4" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="138" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.3" BETYPE="IDREF" FILEID="alto_00069_1"/>
+              <area BEGIN="BL_138.4" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="139" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.2" BETYPE="IDREF" FILEID="alto_00070_0"/>
+              <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.6" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            <area BEGIN="BL_138.1" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.5" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.6" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.14" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.8" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.7" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.4" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.5" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.8" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.9" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.9" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-3" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.4" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_135.5" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.13" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.10" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.10" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUS" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.7" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.8" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZq" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.11" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            <area BEGIN="BL_135.12" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.11" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.12" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_137.1" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auc" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.7" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.5" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_139.1" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.6" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.11" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.12" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.10" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.9" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

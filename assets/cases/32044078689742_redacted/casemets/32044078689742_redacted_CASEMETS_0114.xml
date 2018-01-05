@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0114" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Harmon v. Niergarth">Willis W. Harmon, Appellee, v. F. W. Niergarth, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 578</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00298_1" MIMETYPE="image/tiff" CHECKSUM="3749712aac318c07f79124148df80893" CHECKSUMTYPE="MD5" SIZE="47098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_1.tif"/>
+      </file>
+      <file ID="tiff_00299_0" MIMETYPE="image/tiff" CHECKSUM="3bf1a69b25f9198f8eb415b9a21ada3e" CHECKSUMTYPE="MD5" SIZE="52346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00299_0.tif"/>
+      </file>
+      <file ID="tiff_00299_1" MIMETYPE="image/tiff" CHECKSUM="39b84094bf97b0a5e608a09175d6c091" CHECKSUMTYPE="MD5" SIZE="54840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00299_1.tif"/>
+      </file>
+      <file ID="tiff_00300_0" MIMETYPE="image/tiff" CHECKSUM="8a900f81c588024147de8de7c4853051" CHECKSUMTYPE="MD5" SIZE="53166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_0.tif"/>
+      </file>
+      <file ID="tiff_00300_1" MIMETYPE="image/tiff" CHECKSUM="ce6b5f90c1f9447a06ec92a8605dfe63" CHECKSUMTYPE="MD5" SIZE="37562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00298_1" MIMETYPE="image/jp2" CHECKSUM="7689f8e4cf474006323a303bb0683f47" CHECKSUMTYPE="MD5" SIZE="2379598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00298_1.jp2"/>
+      </file>
+      <file ID="jp2_00299_0" MIMETYPE="image/jp2" CHECKSUM="dc8a5e16804d05e8129546a38d167642" CHECKSUMTYPE="MD5" SIZE="2448223">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00299_0.jp2"/>
+      </file>
+      <file ID="jp2_00299_1" MIMETYPE="image/jp2" CHECKSUM="3d0cc6d125a4dea4805d40d85c323ced" CHECKSUMTYPE="MD5" SIZE="2416523">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00299_1.jp2"/>
+      </file>
+      <file ID="jp2_00300_0" MIMETYPE="image/jp2" CHECKSUM="7eae3220876cb4867981bd2bfb4ef03e" CHECKSUMTYPE="MD5" SIZE="2459800">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_0.jp2"/>
+      </file>
+      <file ID="jp2_00300_1" MIMETYPE="image/jp2" CHECKSUM="6ee48ac725d9734780539012b67ae634" CHECKSUMTYPE="MD5" SIZE="2285194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00300_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00298_1" MIMETYPE="text/xml" CHECKSUM="0aaf39c27586c2cce1f576e7dccb62cc" CHECKSUMTYPE="MD5" SIZE="81875">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00298_1.xml"/>
+      </file>
+      <file ID="alto_00299_0" MIMETYPE="text/xml" CHECKSUM="0565a8708765a96fbe5940b7ed7d2feb" CHECKSUMTYPE="MD5" SIZE="80976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00299_0.xml"/>
+      </file>
+      <file ID="alto_00299_1" MIMETYPE="text/xml" CHECKSUM="f3824391915ed2cccf5cf04c573aaa6d" CHECKSUMTYPE="MD5" SIZE="81485">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00299_1.xml"/>
+      </file>
+      <file ID="alto_00300_0" MIMETYPE="text/xml" CHECKSUM="773bac5a9229aef20878fa25763e7dbf" CHECKSUMTYPE="MD5" SIZE="86711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00300_0.xml"/>
+      </file>
+      <file ID="alto_00300_1" MIMETYPE="text/xml" CHECKSUM="88a5ce551376ba7aa7f64915bf06db5f" CHECKSUMTYPE="MD5" SIZE="67446">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00300_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0114" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="582" firstpage="578">
+              <parties id="b596-7" pgmap="596">Willis W. Harmon, Appellee, v. F. W. Niergarth, Ap­pellant.</parties>
+              <decisiondate id="AQOb" pgmap="597">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b597-5" pgmap="597">Frank B. McKennan, for appellant; Welty, Ster­ling &amp; Whitmore, of counsel.</attorneys>
+              <attorneys id="b597-6" pgmap="597">A. E. De Mange and R. C. De Mange, for appellee.</attorneys>
+              <summary id="b597-4" pgmap="597">Assumpsit. Appeal from the Circuit Court of McLean county; the Hon. Colostin D. Myers, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="Akn" pgmap="597">Affirmed.</disposition>
+              <headnotes id="b596-8" pgmap="596">Arbitration—what essential to valid award. An award to be valid and binding as such must embrace all matters submitted, unless such matters are withdrawn by agreement of the parties, but this rule cannot be invoked to avoid an award where the find­ing of the arbitrator upon one of the issues submitted is such that it precludes the necessity of the finding upon another issue.</headnotes>
+              <opinion type="majority">
+                <author id="b597-7" pgmap="597">Mr. Justice Baume</author>
+                <p id="Av_" pgmap="597">delivered the opinion of the court.</p>
+                <p id="b597-8" pgmap="597">This is a suit in assumpsit by appellee, Willis W. Harmon, against the appellant, F. W. Niergarth, which, upon a trial by the court, without a jury, resulted in a finding and judgment against appellant for $382.35.</p>
+                <p id="AP" pgmap="597(219) 598(243)">In the year 1905, appellee, a contractor, constructed for appellant a dwelling house upon the completion of which, the surviving architect, George H. Miller, ac­cepted the same under the contract, and on December 27, 1905, issued' to appellee a final certificate of acceptance and for the payment by appellant to appellee for $1393. Appellant moved into the dwelling house before mak­ing the final payment under the architect’s certificate and shortly thereafter discovered some defects therein in material or workmanship and made complaint in re­spect thereto to the architect Miller. On June 23,1906, Miller notified appellee in writing of the defects exist­ing in the building and informed appellee that the bal­ance of $593 still remaining unpaid on the original con­tract price, would be withheld until the defects were remedied. Appellee claiming that the defects alleged to exist in the building were due to defective materials furnished by his subcontractor, the Darlington Lumber Co., brought suit against said lumber company to re­cover the damages alleged to have resulted from the withholding by appellant of the balance of the contract price. The Darlington Lumber Co., being surety for appellee upon his bond to protect appellant under the original contract for construction, and being desirous of settling the suit instituted against it by appellee, and to secure the sum claimed to be due to it from appellee for materials furnished, and appellee desiring to ef­fect a settlement of the matter in controversy, together with appellant, on April 1, 1907, executed a tri-partite agreement. This agreement provided in substance that the defects in the building as therein indicated should be remedied by the Darlington Lumber Co.; that thereafter said Lumber Company should receive out of the balance of the original contract price with­held by appellant, the amount due said Lumber Com­pany from appellee for material furnished for the con­struction of the house together with reasonable compen­sation for any defects cured resulting from defective workmanship, the balance, if any, to be paid to appel­lee; that appellant should retain from said balance the sum of $121.95 as payment for groceries pur­chased from him by appellee; that a fulfillment of the agreement should stand as a settlement of the suit brought by appellee against the. Lumber Company which suit should be dismissed at the cost of said Lumber Company; that Miller, the architect, should be superintendent of the work of remedying the defects and should determine what defects were due to defective workmanship, the amount to be allowed to the Lumber Company for remedying the defects of workmanship, and whether the repairs made by the Lumber Com­pany overcame the defects and rendered the build­ing complete according to the terms of the original con­tract.</p>
+                <p id="b598-5" pgmap="598(88) 599(88)">It was further thereby stipulated and agreed that the decision of Miller upon the matters submitted to his determination should be final and binding upon the respective parties thereto. Subsequent to the execu­tion of this agreement the Lumber Company reme­died the defects in the building to the satisfaction of ap­pellant and the architect Miller. On October 15, 1907, Miller, as architect, acting under the tri-party submis­sion to arbitration, made his award, wherein he found in substance that the defects complained of in the con­struction of the building had been remedied; that out of the balance ($593) due from appellant to appellee under the contract, there should be deducted $121.95 due from appellee to appellant for a grocery account and the remainder be paid by appellant to appellee upon the contract. Upon the refusal of appellant to pay to appellee the amount claimed to be due him under the contract, after deducting the amount due from ap­pellee to the lumber company, for material, appellee brought this suit to recover the same.</p>
+                <p id="b599-5" pgmap="599">It is not controverted in the record that the amount due from appellee to the Lumber Company for mate­rial furnished under the contract was $121.90.</p>
+                <p id="b599-6" pgmap="599">It is urged that the court improperly permitted ap­pellee to introduce evidence for the purpose of estab­lishing the amount due him under the contract after deducting the amount due from him to the Lumber Company. If we understand the ground of appellant’s contention in this regard, it is that the amount in question should have been determined by the architect in his award, and that the failure of the architect to determine said amount rendered the award void.</p>
+                <p id="b599-7" pgmap="599(162) 600(22)">It is undoubtedly the rule that an award to be valid and binding, as such, must embrace all matters sub­mitted, unless such matters are withdrawn by agree­ment of the parties (Steere v. Brownwell, 113 Ill. 415), but this rule cannot be invoked to avoid an award where the finding of the arbitrator upon one of the is­sues submitted is such that it precludes the necessity of a finding upon another issue. The submission in the case at bar only required the arbitrator to fix the price to be allowed to and charged by the Lumber Company in and about correcting defects in the building in the event that such defects were due to defective workman­ship. If the defects were due to defective materials furnished by the Lumber Company, it was bound to remedy such defects at its own cost and expense. A finding therefore that the defects were due to defective material and not to defective workmanship precluded the necessity of a finding fixing the price to be allowed to and charged by the Lumber Company for correcting such defects.</p>
+                <p id="b600-5" pgmap="600">As the trial was before the court without a jury there was no impropriety in admitting in evidence the state­ment of the account designated as “Exhibit C,” sup­ported as it was by the testimony of appellee as to its correctness. Appellee was entitled to a recovery upon the award and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b600-6" pgmap="600">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="596" ORDERLABEL="578" TYPE="page">
+        <fptr FILEID="tiff_00298_1"/>
+        <fptr FILEID="jp2_00298_1"/>
+        <fptr FILEID="alto_00298_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.2" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_596.3" BETYPE="IDREF" FILEID="alto_00298_1"/>
+              <area BEGIN="BL_596.4" BETYPE="IDREF" FILEID="alto_00298_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="597" ORDERLABEL="579" TYPE="page">
+        <fptr FILEID="tiff_00299_0"/>
+        <fptr FILEID="jp2_00299_0"/>
+        <fptr FILEID="alto_00299_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.2" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_597.1" BETYPE="IDREF" FILEID="alto_00299_0"/>
+              <area BEGIN="BL_597.3" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="598" ORDERLABEL="580" TYPE="page">
+        <fptr FILEID="tiff_00299_1"/>
+        <fptr FILEID="jp2_00299_1"/>
+        <fptr FILEID="alto_00299_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.2" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_598.3" BETYPE="IDREF" FILEID="alto_00299_1"/>
+              <area BEGIN="BL_598.4" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="599" ORDERLABEL="581" TYPE="page">
+        <fptr FILEID="tiff_00300_0"/>
+        <fptr FILEID="jp2_00300_0"/>
+        <fptr FILEID="alto_00300_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.3" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_599.2" BETYPE="IDREF" FILEID="alto_00300_0"/>
+              <area BEGIN="BL_599.4" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="600" ORDERLABEL="582" TYPE="page">
+        <fptr FILEID="tiff_00300_1"/>
+        <fptr FILEID="jp2_00300_1"/>
+        <fptr FILEID="alto_00300_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.2" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_600.3" BETYPE="IDREF" FILEID="alto_00300_1"/>
+              <area BEGIN="BL_600.4" BETYPE="IDREF" FILEID="alto_00300_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akn" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.6" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.6" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.13" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.7" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b596-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_596.8" BETYPE="IDREF" FILEID="alto_00298_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.4" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_597.5" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.10" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.9" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b598-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_598.5" BETYPE="IDREF" FILEID="alto_00299_1"/>
+            <area BEGIN="BL_599.1" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b597-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.8" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av_" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.11" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_597.12" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQOb" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.7" BETYPE="IDREF" FILEID="alto_00299_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.7" BETYPE="IDREF" FILEID="alto_00300_0"/>
+            <area BEGIN="BL_600.1" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-6" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.6" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b599-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_599.5" BETYPE="IDREF" FILEID="alto_00300_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_597.14" BETYPE="IDREF" FILEID="alto_00299_0"/>
+            <area BEGIN="BL_598.1" BETYPE="IDREF" FILEID="alto_00299_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b600-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_600.5" BETYPE="IDREF" FILEID="alto_00300_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

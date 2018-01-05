@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0042" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Newby v. Swift &amp; Co.">Daniel W. Newby, Defendant in Error, v. Swift &amp; Company, Plaintiff in Error</name>
+          <docketnumber>Gen. No. 14,235</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 305</citation>
+          <decisiondate>1908-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00162_0" MIMETYPE="image/tiff" CHECKSUM="9c1256a1cd9cfc9a42f7b444a24b1693" CHECKSUMTYPE="MD5" SIZE="41568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00162_0.tif"/>
+      </file>
+      <file ID="tiff_00162_1" MIMETYPE="image/tiff" CHECKSUM="bd03642bbc07c26bb62337bd4759e63c" CHECKSUMTYPE="MD5" SIZE="53984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00162_1.tif"/>
+      </file>
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="30f5e16f03a68ae328a7fb1ca8605b0f" CHECKSUMTYPE="MD5" SIZE="44616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00162_0" MIMETYPE="image/jp2" CHECKSUM="3a4bfa4164d24e701e016bf40237ad07" CHECKSUMTYPE="MD5" SIZE="2349584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00162_0.jp2"/>
+      </file>
+      <file ID="jp2_00162_1" MIMETYPE="image/jp2" CHECKSUM="a0058d1e524cf3bb7e2334a1c72dc9e6" CHECKSUMTYPE="MD5" SIZE="2419110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00162_1.jp2"/>
+      </file>
+      <file ID="jp2_00163_0" MIMETYPE="image/jp2" CHECKSUM="e5a435d0583aa8d34e760249b070f501" CHECKSUMTYPE="MD5" SIZE="2369291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00163_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00162_0" MIMETYPE="text/xml" CHECKSUM="9c317d5ef0719ce06ac64ab84b6a66b0" CHECKSUMTYPE="MD5" SIZE="75588">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00162_0.xml"/>
+      </file>
+      <file ID="alto_00162_1" MIMETYPE="text/xml" CHECKSUM="956669b43386685ef0d4eceb50237b80" CHECKSUMTYPE="MD5" SIZE="91238">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00162_1.xml"/>
+      </file>
+      <file ID="alto_00163_0" MIMETYPE="text/xml" CHECKSUM="bb655a44853c31426c3e82b6059aba14" CHECKSUMTYPE="MD5" SIZE="76752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00163_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="307" firstpage="305">
+              <docketnumber id="b323-4" pgmap="323">Gen. No. 14,235.</docketnumber>
+              <parties id="b323-3" pgmap="323">Daniel W. Newby, Defendant in Error, v. Swift &amp; Com­pany, Plaintiff in Error.</parties>
+              <decisiondate id="AjU" pgmap="323">Opinion filed December 18, 1908.</decisiondate>
+              <attorneys id="b323-8" pgmap="323">Winston, Payne, Strawn &amp; Shaw, for plaintiff in error.</attorneys>
+              <attorneys id="b323-9" pgmap="323">A. L. Gettys and Frank V. Campe, for defendant in error.</attorneys>
+              <summary id="b323-7" pgmap="323">Action in case for personal injuries. Error to the Municipal Court of Chicago; the Hon. Freeman K. Blake, Judge, presiding. Heard in the Branch Appellate Court at the March term, 1908.</summary>
+              <disposition id="A3g" pgmap="323">Reversed.</disposition>
+              <headnotes id="b323-5" pgmap="323">1. Contributory negligence—when servant guilty of. Held, under the evidence in this case, that the servant injured while descending a ladder was guilty of contributory negligence which barred his recovery.</headnotes>
+              <headnotes id="b323-6" pgmap="323">2. Master and servant—when appliance not defective. Held, under the evidence in this case, that the ladder, descending which the servant was injured, was not of such negligent construction as to justify a recovery against the master for an injury sustained by the servant by reason thereof.</headnotes>
+              <opinion type="majority">
+                <author id="b323-10" pgmap="323">Mr. Justice Chytraus</author>
+                <p id="A6c" pgmap="323">delivered the opinion of the court.</p>
+                <p id="b323-11" pgmap="323(123) 324(256)">Daniel W. Newby brought this suit in the Municipal Court, by Bennoi Newby, his father and next friend, against Swift &amp; Company, his employer, to recover damages for a personal injury. A trial by jury was had, a verdict in his favor for $400 returned and a judgment was entered upon that verdict. Plaintiff in error sued out the writ herein to reverse that judg­ment. We can find no way of justifying that verdict and judgment. The young man when hurt was em­ployed as a carpenter and he had worked in connection with that trade for about a year and a quarter. He worked for Swift &amp; Company at Kensington, Illinois, where they were putting up an addition to an ice house. He was eighteen years old, and strong. He was injured by falling off a ladder about twelve o’clock noon on December 20, 1906, and at that time had had his position about three months. For two days be­fore he was hurt he had been at work laying a floor in a hay-loft in the building. On the east side of the building there were ten permanent ladders, not slant­ing but fastened up flush against the building. The ladders were distributed along the side of the build­ing. Each ladder was alongside of a door or, rather, an up and down series of doors, one for each story of the building. The building was forty-seven feet high from the ground to the top of the hay-loft. The hay-loft made a ceiling over the rooms below it. Each ladder consisted of two uprights (the evidence is not clear whether two-by-four or two-by-six) into which the rungs were mortised. The ladders had been made on the ground, and, when completed, two-by-six pieces of wood were nailed across the several ladders at dis­tances of eight feet apart. These two-by-six cross­pieces are claimed to have caused the trouble. When the ladders were nailed up to the side of the building, spikes were driven through these cross-pieces into the wall of the building to hold the ladders in place. These cross-pieces thus came between the ladders and the building and some of them came nearly opposite rungs in the ladders. There is no complaint of the rungs.</p>
+                <p id="b324-5" pgmap="324">When he was hurt Daniel was following another workman down one of the ladders from the loft, in response to the noon whistle. At a distance of about sixteen feet from the ground, when putting his right foot down from one of the rungs, he put the toe thereof on the two-by-six instead of on the rung whereon he intended to step. Then, as he says, when he stepped with his left foot he “fell right straight down”.</p>
+                <p id="b324-6" pgmap="324(40) 325(109)">It appears that the upper edge of the two-by-six, which he says he placed his toe upon, is about four inches above the rung on which he intended to place his foot. In the exercise of reasonable care he must have observed that his foot had not reached.the rung of the ladder. The rungs, as he says, were about one foot apart in all the ladders. He had gone up and down these ladders several times and had even gone up this particular ladder. The distance between the rungs was not so great but that the difference, when it was lessened by about four inches, must have been noticed in the exercise of due care. Besides his sense of feeling must have informed him that he was not stepping on a rung of the ladder. The rungs of the ladder were somewhere from four to six inches in depth.</p>
+                <p id="b325-4" pgmap="325">Under the circumstances we do not regard the placing of these cross-pieces between the ladder and the building as negligence. We consider that the ladders as constructed were a reasonably safe appliance and the mere fact of injury is not a ground for recovery against a master. The judgment of the trial court is reversed and the cause will not be remanded.</p>
+                <p id="b325-5" pgmap="325">Reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="323" ORDERLABEL="305" TYPE="page">
+        <fptr FILEID="tiff_00162_0"/>
+        <fptr FILEID="jp2_00162_0"/>
+        <fptr FILEID="alto_00162_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.2" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.1" BETYPE="IDREF" FILEID="alto_00162_0"/>
+              <area BEGIN="BL_323.3" BETYPE="IDREF" FILEID="alto_00162_0"/>
+              <area BEGIN="BL_323.17" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="324" ORDERLABEL="306" TYPE="page">
+        <fptr FILEID="tiff_00162_1"/>
+        <fptr FILEID="jp2_00162_1"/>
+        <fptr FILEID="alto_00162_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.2" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.3" BETYPE="IDREF" FILEID="alto_00162_1"/>
+              <area BEGIN="BL_324.4" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="325" ORDERLABEL="307" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jp2_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.2" BETYPE="IDREF" FILEID="alto_00163_0"/>
+              <area BEGIN="BL_325.4" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.6" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            <area BEGIN="BL_325.1" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjU" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.10" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3g" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.9" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.6" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6c" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.14" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_323.15" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-10" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.13" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.4" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.7" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.8" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.5" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.6" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.5" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.5" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.11" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.12" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-11" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.16" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_324.1" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

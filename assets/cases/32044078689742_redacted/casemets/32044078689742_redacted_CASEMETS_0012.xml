@@ -1,0 +1,2118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0012" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Kelly v. Fahrney">William J. Kelly et al., Appellants, v. Ezra C. Fahrney et al., Appellees</name>
+          <docketnumber>Gen. No. 14,087</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 80</citation>
+          <decisiondate>1908-12-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="14efec53e3c2f59db9001c2ebb378db4" CHECKSUMTYPE="MD5" SIZE="42818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="3e757dbedca349f530dac54573d85907" CHECKSUMTYPE="MD5" SIZE="50568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="0ec21ae21a955e0ea82f0af18523682b" CHECKSUMTYPE="MD5" SIZE="51020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="9ff68710a0d0d82c28934bc983e72020" CHECKSUMTYPE="MD5" SIZE="52234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="db13cc819c4254a94677ea8991e972a3" CHECKSUMTYPE="MD5" SIZE="54110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="e9dcbcc1503f7f6b03561c958d845bf9" CHECKSUMTYPE="MD5" SIZE="54232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="d958b58100a43e6366fe503c2afd1033" CHECKSUMTYPE="MD5" SIZE="55478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="8f736088d38698b26d739a989e6047eb" CHECKSUMTYPE="MD5" SIZE="56910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="41d6253dc6f7f53d8b012d3c4dc6db75" CHECKSUMTYPE="MD5" SIZE="54278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="26fdab0a3369032718578545356bf4b0" CHECKSUMTYPE="MD5" SIZE="54414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00054_0.tif"/>
+      </file>
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="b9f053587b740d81565ac732070dce60" CHECKSUMTYPE="MD5" SIZE="55204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="2eae39bee0966cb115e1c154e6b18f30" CHECKSUMTYPE="MD5" SIZE="55560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="4cdf3990be40b2a7cd60e021de962975" CHECKSUMTYPE="MD5" SIZE="53256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="b22bf92681fd4466d34da700ef105ffd" CHECKSUMTYPE="MD5" SIZE="52882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00056_0.tif"/>
+      </file>
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="0b5c4ca7541da9008a68f8d0a187a1b9" CHECKSUMTYPE="MD5" SIZE="47332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00056_1.tif"/>
+      </file>
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="f057b377b860b9462dd36f80fb1ae478" CHECKSUMTYPE="MD5" SIZE="52386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="1a9569b970de30c78a4ae6f5eda20e3e" CHECKSUMTYPE="MD5" SIZE="48110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="563d0b91d80480e9795c020eeb55ffa7" CHECKSUMTYPE="MD5" SIZE="48982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00058_0.tif"/>
+      </file>
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="0e581986ae6e9f39c13056b7a4f2f800" CHECKSUMTYPE="MD5" SIZE="51266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00058_1.tif"/>
+      </file>
+      <file ID="tiff_00059_0" MIMETYPE="image/tiff" CHECKSUM="860981567902d09ccc6b5faaf956514a" CHECKSUMTYPE="MD5" SIZE="52418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00059_0.tif"/>
+      </file>
+      <file ID="tiff_00059_1" MIMETYPE="image/tiff" CHECKSUM="76d8b7491c286e0f7d4f4d4ebd5d2b45" CHECKSUMTYPE="MD5" SIZE="53128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00059_1.tif"/>
+      </file>
+      <file ID="tiff_00060_0" MIMETYPE="image/tiff" CHECKSUM="a9c93ac7dd1a409e202458d4c77ecfbd" CHECKSUMTYPE="MD5" SIZE="53304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00060_0.tif"/>
+      </file>
+      <file ID="tiff_00060_1" MIMETYPE="image/tiff" CHECKSUM="7a3e28df34f36bd4ce44febdc5f5c43f" CHECKSUMTYPE="MD5" SIZE="51876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00060_1.tif"/>
+      </file>
+      <file ID="tiff_00061_0" MIMETYPE="image/tiff" CHECKSUM="63b4cde71c9024c22ac712b7656e2168" CHECKSUMTYPE="MD5" SIZE="52270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00061_0.tif"/>
+      </file>
+      <file ID="tiff_00061_1" MIMETYPE="image/tiff" CHECKSUM="92208780e83bfc1bc641d7d28a627623" CHECKSUMTYPE="MD5" SIZE="53654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00061_1.tif"/>
+      </file>
+      <file ID="tiff_00062_0" MIMETYPE="image/tiff" CHECKSUM="1a6b05ebe6b461545f0d4456c381218f" CHECKSUMTYPE="MD5" SIZE="53260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00062_0.tif"/>
+      </file>
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="73cdc8abf90182ba893d0af3f1c696c0" CHECKSUMTYPE="MD5" SIZE="50926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="830b4beeb01308977a871bb4ec126c2a" CHECKSUMTYPE="MD5" SIZE="50740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="a74dd4bd8676202b3937306e6e2961a9" CHECKSUMTYPE="MD5" SIZE="51078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00063_1.tif"/>
+      </file>
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="8cdcbe63d20de884348f14798e0e7de8" CHECKSUMTYPE="MD5" SIZE="53412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="7b5a3f6db1bf2c08be8056257cf75fe5" CHECKSUMTYPE="MD5" SIZE="52960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="3ca4d4027c812fe779eefc35b0d65810" CHECKSUMTYPE="MD5" SIZE="53086">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="fa77aee91601a962e27944fecfa0f1d0" CHECKSUMTYPE="MD5" SIZE="51514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="ef6fda05d0c4a9e61e9bea135d9ec123" CHECKSUMTYPE="MD5" SIZE="51322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00066_0.tif"/>
+      </file>
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="6a8d53f42216e70a4e9aceffa919859c" CHECKSUMTYPE="MD5" SIZE="53646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00066_1.tif"/>
+      </file>
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="20409158a2673d65024fe7c74239f7b2" CHECKSUMTYPE="MD5" SIZE="53056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="425b64eee84f7c0a37112e60a9f9dea4" CHECKSUMTYPE="MD5" SIZE="39372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="acc88767e41b4ffcfadf0405cf68b483" CHECKSUMTYPE="MD5" SIZE="2325632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="4f1eadeab3c3baf9777262036e141167" CHECKSUMTYPE="MD5" SIZE="2440024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="b6ae313e74776e6fab3c68b6cd5c33be" CHECKSUMTYPE="MD5" SIZE="2356513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="923678d3fa90bbcd1424608a93602453" CHECKSUMTYPE="MD5" SIZE="2436481">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00051_0.jp2"/>
+      </file>
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="a96ecb0a8d83597556aa5b4b8b9f73ca" CHECKSUMTYPE="MD5" SIZE="2449154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="0addc76b29e5ab27397722adb9edd422" CHECKSUMTYPE="MD5" SIZE="2504068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="a1e1df4f6e54d37f0df59758f5b7f0bf" CHECKSUMTYPE="MD5" SIZE="2405472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="d237b7abc29f51745fb5e54aef44d2ea" CHECKSUMTYPE="MD5" SIZE="2454259">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="b26f0589d16e96a8df363c5ece0cb2c3" CHECKSUMTYPE="MD5" SIZE="2446480">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="806ecabcdadbc12eb8534b112bcda537" CHECKSUMTYPE="MD5" SIZE="2489717">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00054_0.jp2"/>
+      </file>
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="470d845053511ff77c1ffb89012814bf" CHECKSUMTYPE="MD5" SIZE="2401544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="45d1e5a1cb22925f973d5e11011ae21c" CHECKSUMTYPE="MD5" SIZE="2457343">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="5cceb60eb567990f705039eae3ff5b1b" CHECKSUMTYPE="MD5" SIZE="2424938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="01b1b31c7f932dd55ec29ee851eb190f" CHECKSUMTYPE="MD5" SIZE="2467617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00056_0.jp2"/>
+      </file>
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="67de71e044d9018bbe53ddbbee0498af" CHECKSUMTYPE="MD5" SIZE="2355210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00056_1.jp2"/>
+      </file>
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="70bd2f825422bd18f98ead1122df67ae" CHECKSUMTYPE="MD5" SIZE="2438756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="2beee3173dea660661014809df045986" CHECKSUMTYPE="MD5" SIZE="2395444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="e0271e67f330fd942f103696d47f6c38" CHECKSUMTYPE="MD5" SIZE="2417651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00058_0.jp2"/>
+      </file>
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="a335b3be450974920e700160d856312c" CHECKSUMTYPE="MD5" SIZE="2408858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00058_1.jp2"/>
+      </file>
+      <file ID="jp2_00059_0" MIMETYPE="image/jp2" CHECKSUM="c9f989a8779faf7adada0bfb2f07b84c" CHECKSUMTYPE="MD5" SIZE="2464967">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00059_0.jp2"/>
+      </file>
+      <file ID="jp2_00059_1" MIMETYPE="image/jp2" CHECKSUM="50ef4bcea0879d2059e3c8fa4291072b" CHECKSUMTYPE="MD5" SIZE="2397501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00059_1.jp2"/>
+      </file>
+      <file ID="jp2_00060_0" MIMETYPE="image/jp2" CHECKSUM="c374398b882dd23041260d5341841fb0" CHECKSUMTYPE="MD5" SIZE="2459415">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00060_0.jp2"/>
+      </file>
+      <file ID="jp2_00060_1" MIMETYPE="image/jp2" CHECKSUM="8c9fa9ab4de19d05f869aa63c36282ed" CHECKSUMTYPE="MD5" SIZE="2421833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00060_1.jp2"/>
+      </file>
+      <file ID="jp2_00061_0" MIMETYPE="image/jp2" CHECKSUM="285ca506ab6742134d78e246980c9c66" CHECKSUMTYPE="MD5" SIZE="2467478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00061_0.jp2"/>
+      </file>
+      <file ID="jp2_00061_1" MIMETYPE="image/jp2" CHECKSUM="d480b77939db2ea2939249009c580004" CHECKSUMTYPE="MD5" SIZE="2409497">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00061_1.jp2"/>
+      </file>
+      <file ID="jp2_00062_0" MIMETYPE="image/jp2" CHECKSUM="c5d22f315d426780a8f27aac49ca6808" CHECKSUMTYPE="MD5" SIZE="2443434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00062_0.jp2"/>
+      </file>
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="6d290b6111bc1d561d7a64ca4513613b" CHECKSUMTYPE="MD5" SIZE="2411598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="671cce1032add0bbb238e574e6a85727" CHECKSUMTYPE="MD5" SIZE="2456739">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="5a0215c61c7c823682dbb4f47b4c1e47" CHECKSUMTYPE="MD5" SIZE="2400746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00063_1.jp2"/>
+      </file>
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="1109316d15aa9ff22ce2998a592d0496" CHECKSUMTYPE="MD5" SIZE="2455331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="c4f2bb7814901804e7d863f32955b4e4" CHECKSUMTYPE="MD5" SIZE="2435780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="3bf90e1d9a2912f269e65d5b30ba69d4" CHECKSUMTYPE="MD5" SIZE="2475152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="5ff448954275cbd2211fa12a87c5d762" CHECKSUMTYPE="MD5" SIZE="2390512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00065_1.jp2"/>
+      </file>
+      <file ID="jp2_00066_0" MIMETYPE="image/jp2" CHECKSUM="a197c5e58a137b7df36fa286759edba1" CHECKSUMTYPE="MD5" SIZE="2462500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00066_0.jp2"/>
+      </file>
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="2aca4ea3c89a8ad144d47a8a93e42b23" CHECKSUMTYPE="MD5" SIZE="2400834">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00066_1.jp2"/>
+      </file>
+      <file ID="jp2_00067_0" MIMETYPE="image/jp2" CHECKSUM="f0e1220f93d9965d259c7bce60cc56f3" CHECKSUMTYPE="MD5" SIZE="2467948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_0.jp2"/>
+      </file>
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="d9e2b14f11a7ccbbc434e1b30b8aed37" CHECKSUMTYPE="MD5" SIZE="2333653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00067_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="62889bba3fa41195227879876b79dcf0" CHECKSUMTYPE="MD5" SIZE="71396">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="d77157def21547e87a0579cac6c9b867" CHECKSUMTYPE="MD5" SIZE="99138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="bcf8654075b684960020b7736dbe9c5f" CHECKSUMTYPE="MD5" SIZE="84060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="9c77c06fab43c60419a1f5d780196bec" CHECKSUMTYPE="MD5" SIZE="82174">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00051_0.xml"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="f44c867b2c46f8cbca215f55806d2740" CHECKSUMTYPE="MD5" SIZE="88373">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="9b2eb9066fa7c8f7927dbad2137458fc" CHECKSUMTYPE="MD5" SIZE="88305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="c14d10d79ea7ea37faef8042bb33d0e9" CHECKSUMTYPE="MD5" SIZE="85887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="a29dc8d1bd4fa8f0e7d265cac2138a57" CHECKSUMTYPE="MD5" SIZE="89606">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="c99b53e8e038e04c44770e037b7bfb2b" CHECKSUMTYPE="MD5" SIZE="88459">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="ecf6fffecc565eaad63c22cfa730d12a" CHECKSUMTYPE="MD5" SIZE="86344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00054_0.xml"/>
+      </file>
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="2bfc910ba53c55b0de86009059b269f1" CHECKSUMTYPE="MD5" SIZE="89770">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="b594c313213ca345969c681e283ba363" CHECKSUMTYPE="MD5" SIZE="86847">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="b44bb69155a0674f0a02e5811b2a2177" CHECKSUMTYPE="MD5" SIZE="84197">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="b753622db5b33b24fc7b048b2d79287f" CHECKSUMTYPE="MD5" SIZE="82508">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00056_0.xml"/>
+      </file>
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="6f40ff5c5f81807b32a1d383be7e66c7" CHECKSUMTYPE="MD5" SIZE="79546">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00056_1.xml"/>
+      </file>
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="4b18f2b55d681874de9e91a46461c007" CHECKSUMTYPE="MD5" SIZE="82083">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="d4eaa888d161313469e0522ff1658030" CHECKSUMTYPE="MD5" SIZE="80087">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="e6b6e9dbff935f4ab421c55cd63a043e" CHECKSUMTYPE="MD5" SIZE="79065">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00058_0.xml"/>
+      </file>
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="d8f1b294cfe474db2b0416fc93213363" CHECKSUMTYPE="MD5" SIZE="86841">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00058_1.xml"/>
+      </file>
+      <file ID="alto_00059_0" MIMETYPE="text/xml" CHECKSUM="84d6c87b2a85273f30064565b250079d" CHECKSUMTYPE="MD5" SIZE="87347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00059_0.xml"/>
+      </file>
+      <file ID="alto_00059_1" MIMETYPE="text/xml" CHECKSUM="1b7e957f753e72f899fa5bc03c9ee7ae" CHECKSUMTYPE="MD5" SIZE="84490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00059_1.xml"/>
+      </file>
+      <file ID="alto_00060_0" MIMETYPE="text/xml" CHECKSUM="5570f76df15a633e3576e8f6d08eb654" CHECKSUMTYPE="MD5" SIZE="86729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00060_0.xml"/>
+      </file>
+      <file ID="alto_00060_1" MIMETYPE="text/xml" CHECKSUM="71a6ff75150eb18c50986850c9daea3b" CHECKSUMTYPE="MD5" SIZE="85432">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00060_1.xml"/>
+      </file>
+      <file ID="alto_00061_0" MIMETYPE="text/xml" CHECKSUM="e80ba61c832d4e01292b93bcd1bd84af" CHECKSUMTYPE="MD5" SIZE="84635">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00061_0.xml"/>
+      </file>
+      <file ID="alto_00061_1" MIMETYPE="text/xml" CHECKSUM="4dd171a46eaa3ef6afbc4db3f6c379e9" CHECKSUMTYPE="MD5" SIZE="86943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00061_1.xml"/>
+      </file>
+      <file ID="alto_00062_0" MIMETYPE="text/xml" CHECKSUM="5c28195b11f0e2ee9b638998eb4554b1" CHECKSUMTYPE="MD5" SIZE="83939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00062_0.xml"/>
+      </file>
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="3d5adb867f61f931058c31266baed609" CHECKSUMTYPE="MD5" SIZE="82802">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="4be362a2d9d057eb8d58f6cc0f5aef73" CHECKSUMTYPE="MD5" SIZE="80711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="a1e519c8fd9e2270174056a31cfd52a9" CHECKSUMTYPE="MD5" SIZE="83552">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00063_1.xml"/>
+      </file>
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="507c4361f3d8e91c8f0a89e0e1a60ffd" CHECKSUMTYPE="MD5" SIZE="86576">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="b99f9e2d01387c40b29507e30698039f" CHECKSUMTYPE="MD5" SIZE="86657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="6d122e126f08349c00931f8004d17ae4" CHECKSUMTYPE="MD5" SIZE="85662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="1dbc2ec32924116f5f655895464a685a" CHECKSUMTYPE="MD5" SIZE="83256">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00065_1.xml"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml" CHECKSUM="3b2d635f759b7064e53918aea534cc12" CHECKSUMTYPE="MD5" SIZE="85822">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00066_0.xml"/>
+      </file>
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="ce9d3c7e0a0b72d60a0a1dee77a177ff" CHECKSUMTYPE="MD5" SIZE="90443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00066_1.xml"/>
+      </file>
+      <file ID="alto_00067_0" MIMETYPE="text/xml" CHECKSUM="def595627a6306ce11e2551388a43471" CHECKSUMTYPE="MD5" SIZE="86979">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00067_0.xml"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="637c2902fdbe4e5074c6bbc6a6fdbb5a" CHECKSUMTYPE="MD5" SIZE="69790">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00067_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="116" firstpage="80">
+              <docketnumber id="b98-9" pgmap="98">Gen. No. 14,087.</docketnumber>
+              <parties id="b98-8" pgmap="98">William J. Kelly et al., Appellants, v. Ezra C. Fahrney et al., Appellees.</parties>
+              <decisiondate id="AA6" pgmap="99">Opinion filed December 4, 1908.</decisiondate>
+              <attorneys id="b112-8" pgmap="112">Church, McMurdy &amp; Sheehan and Ernest Dale Owen, for appellants.</attorneys>
+              <attorneys id="b112-9" pgmap="112">Vatt, &amp; Pain, John E. Seinwerth and Henry C. Noyes, for appellees.</attorneys>
+              <summary id="b99-9" pgmap="99">Bill for accounting. Appeal from the Circuit Court of Cook county; the Hon. Thomas 6. Windbs, Judge, presiding. Heard in the Branch Appellate Court at the October term, 1907.</summary>
+              <disposition id="A3N" pgmap="99">Affirmed.</disposition>
+              <headnotes id="b98-10" pgmap="98(42) 99(44)">1. Corporations—status and duties of officers and directors. The officers and directors of a private corporation are in a fiduciary relation to the corporation and to the stockholders; their duty under the principles of equity is to serve their trust beneficiaries honestly, faithfully and without negligence, they may not avail themselves of their position for their own gain, profit or advantage when to do so involves negligence of duty, loss of their service or other loss, injury, detriment or disadvantage to the beneficiaries of their trust.</headnotes>
+              <headnotes id="b99-4" pgmap="99">2. Corporations—duties of stockholders with respect to each other. As between one stockholder and another there is also a fiduciary relation and a duty to act honestly and in good faith, so far as the exercise of their powers within the corporation is con­cerned.</headnotes>
+              <headnotes id="b99-5" pgmap="99">3. Corporations—what not duty of stockholder. There is no duty imposed by law upon a stockholder to use his own individual pecuniary means to assist a corporation in its money difficulties or by use of such means to shield it from financial destruction.</headnotes>
+              <headnotes id="b99-6" pgmap="99">4. Corporations-—what not breach of duty as stockholder. No effort by a stockholder with a view merely to collect the money due him from the company by means or according to methods provided by law can be regarded as a breach of any fiduciary relation.</headnotes>
+              <headnotes id="b99-7" pgmap="99">5. Masters in chancery—effect of findings of fact. The office of master in chancery is clerical and the duties of a master in chancery are ministerial; the findings of fact by a master in chancery do not conclude and cannot by order of a chancellor be made to conclude either such chancellor or a court of review.</headnotes>
+              <headnotes id="b99-8" pgmap="99">6. Evidence—effect of judicial record. In a collateral proceed­ing the findings of a judicial record cannot be contradicted by parol.</headnotes>
+              <p id="b99-10" pgmap="99(112) 100(29)">Statement by the Court. September 24,1901, Will­iam J. Kelly, John Kelly, Dan H. Ball, Esther Marion, David B. Coulter, Willard H. Edwards and Ernest Dale Owen, as stockholders in the White Cliffs Port­land Cement &amp; Chalk Company of Arkansas, on be­half of themselves and all other stockholders elect­ing to join, filed their bill in the Circuit Court of Cook county. They made parties defendant Peter Fahr­ney, Ezra C. Fahrney, William H. Fahrney, Guardian Trust Company, a corporation, J. De Goeijen, Mc-­Dougal Hawkes, John W. Bead and the above men­tioned White Cliffs Company, an Arkansas corporation. Ezra C. and William H. are sons of Peter Fahrney. Only the Fahrneys and the White Cliffs Company were served. No one hnt the Fahrneys made defense and the bill was heard as to them and the corporation only.</p>
+              <p id="b100-5" pgmap="100">By an amendment to the bill E. H. Towar became a party complainant. During the pendency of the cause John Kelly and Dr. Peter Fahrney died. William Kelly, administrator of the estate of John Kelly, was substituted for John Kelly, and J. H. Fahrney, E. H. Fahrney, E. C. Fahrney and. W. H. Fahrney, execu­tors of the last will and testament of Peter Fahrney, were.substituted for Peter Fahrney, and thus the cause proceeded.</p>
+              <p id="b100-6" pgmap="100">Marriage of Esther Marion and change of her name to Esther Marion Hay was suggested of record.</p>
+              <p id="b100-7" pgmap="100">The prayer of the bill is, “That an account may be taken under the direction of this court of the amount of stock owned by each of your orators or any other complainant jointly herein, if any, and of the value thereof. And that the defendants may each and every one of them be decreed to pay your orators, and such other complainants, if any, whatever sum shall ap­pear to be due from each of them upon the taking of such an account, together with the costs of this pro­ceeding,” and for general relief.</p>
+              <p id="b100-8" pgmap="100(126) 101(27)">The theory of the bill is that the Fahrneys wrecked the White Cliffs Company or participated in the wreck­ing thereof; and that they did so either while in re­lation to complainants as officers of the corporation, while co-operating with others in a majority combi­nation of stockholders, or while combining with officers and a majority combination. Peter Fahrney never was an officer of the corporation and never held any. stock therein of record. He did hold bonds of the corporation, and whether he was a stockholder not of record is a question. The motive suggested for the wrecking is that the Fahrneys desired to possess them­selves of the assets of the corporation. As a matter of fact, undisputed by evidence, when the corporation finally did fail the Fahrneys obtained none of the as­sets of the corporation except in that they obtained payment of the bonds thereof which they held.</p>
+              <p id="b101-4" pgmap="101">The hill is designed to show a relation of trust and confidence (with which relation courts of equity are peculiarly concerned) between these complainants and the defendants; to state the particular facts from which arise the specific duties and obligations now in­volved, and to point out the breaches or violations of fiduciary duty and obligation of which complaint is made. The allegations of the bill and amendments are, in substance:</p>
+              <p id="b101-5" pgmap="101">That the complainants owned stock of the White Cliffs Company as follows: William Kelly 300 shares, John Kelly 4,198 shares, Dan H. Ball 600 shares, Esther Marion 300 shares, David B. Coulter 13,500 shares, Willard H. Edwards 67 shares, Ernest Dale Owen 833 shares and E. H. To war 100 shares, which holdings amounted to 19,898 shares out of a total of 40,000 shares; that De Goeijen “is the owner or represents as agent and trustee the owners of” 20,100 shares and John W. Bead is the owner of 2 shares; that the corporation’s capital stock is $1,000,000, divided into 40,000 shares at $25 each.</p>
+              <p id="b101-6" pgmap="101">That the Company was the owner of 3,000 acres of land in Arkansas, in part heavily timbered, through which runs Little Biver, which is at times navigable; that upon this land there is a large and valuable white chalk deposit of 900 acres and adjoining the chalk a deposit of a particular kind of clay which mixed with the chalk, makes the highest grade of Portland Cement, and that upon the property there is a cement manu­facturing plant, saw-mill and other valuable improve­ments.</p>
+              <p id="b101-7" pgmap="101(46) 102(363) 103(362) 104(350) 105(368) 106(363) 107(354) 108(369) 109(299)">That on December 31, 1895, the company, for the erection of its plant, issued $125,000 of bonds secured by trust deed conveying all its property to the Title Guarantee and Trust Company of Chicago; that the bonds bore interest at 6% per annum, payable on the first day of January and of July each year, and upon six months default in the payment of interest the bonds might all be declared due; that Ezra C. Fahrney acted for himself and as agent of his father Peter Fahrney, duly authorized, in all affairs concerning the company; that Peter and Ezra C. Fahrney first bought $100,000 of these bonds and the proceeds were devoted toward the erection of the company’s plant; that with the con­currence and largely upon the suggestion of Ezra C. Fahrney the company then determined to make the plant more expensive than at first contemplated, and, more money being therefore required “it was agreed and con­tracted between the said Ezra C. Fahrney and the said William J. Kelly,” then president of the company, “that the said Fahrney should loan to the company” an ad­ditional sum of $20,000 “and would take the $25,000 of bonds remaining unsold, and certain other choses in action, as collateral security therefor”, and would make an additional loan of $75,000 upon the company’s note to mature concurrently with the bonds; that in consideration of this agreement Kelly agreed to and did give said Fahrney a bonus of $25,000 of the cap­ital stock of the company and Ezra 0. Fahrney ad­vanced the $20,000, received the bonds and collateral and also the $25,000 of stock; that relying upon these promises of the Fahrneys, “your orators the said Kelly expended the said sum” of $20,000 for the com­pany and created an indebtedness of the company of more than $30,000 for machinery, labor, etc.; that the company then had no means with which to com­plete its plant and the interest due January 1, 1897, on the Fahrney bonds was unpaid, “all of which was expected to be paid” out of the promised $75,000; that at this time-Ezra 0. Fahrney was vice president, di­rector and a stockholder of the company, was well aware of its financial affairs and straits and that un­less the company could procure cash its property would be sold to satisfy its indebtedness, but when Kelly came to him in Chicago for the $75,000 he refused to make such loan; that Ezra C. Fahrney so refused “for the purpose of destroying the said company and to procure the sale of the property thereof on execu­tion or under foreclosure of the said mortgage; that the said Peter Fahrney conspired with the said Ezra C. Fahrney to do such fraudulent and unlawful acts,” it being the sole purpose and intent “to take advan­tage of the financial situation of the company by re­fusing to fulfill such contract, to wreck and destroy the- company so that they might have the same for their own exclusive and selfish purposes as against your orators”—the said Fahrneys intending to obtain all its property for themselves; that said Peter and Ezra C. Fahrney then gave notice and took the pre­liminary steps to take advantage of the default in in­terest upon the bonds with the view of declaring the principal due and payable in order to carry out ‘ ‘ their fraudulent designs, as aforesaid”; that Kelly then en­deavored to procure other money with which to finish and operate the company’s plant and pay the inter­est on its bonds, but Ezra C. and Peter Fahrney “then took affirmative and positive means to prevent the said Kelly from consummating his negotiations * * * all for the purpose of wrecking the said company, as aforesaid, for their own purposes, and to get the prop­erty thereof to themselves”, yet Kelly succeeded in procuring a temporary loan from one William Eden-­born for one year on a second mortgage; that when Peter and Ezra C. Fahrney discovered this they sent their agent to Kelly, proposing that he, before its consummation, break his agreement with Edenborn and permit them to make the loan on the same terms, but this Kelly refused and then the Fahrneys, failing in this, “approached the said Edenborn and proposed to bim that he should join them, the said Fahrneys, in taking steps to wreck the said property, and pro­posed to him that they conspire together to that end, so that they might have all the property themselves as against the just rights of your orators, who were at that time stockholders in said company,” hut Eden-­born refused; that by the refusal of the Fahrneys to make the $75,000 loan a delay was occasioned which accumulated interest, taxes and other expenses, so that it became necessary to raise more money than would otherwise have been necessary; that Kelly negotiated in eastern states and elsewhere for a permanent loan to complete and operate the plant, to pay the Eden-­born temporary loan of $50,000, as well as other ex­penses and interest on the Fahrney bonds; that Kelly obtained subscriptions to a large amount for another bond issue to be made by the company; that among others who so subscribed were George E. Bartol and J. Be Goeijen; that Bartol sent and also himself went to the company’s plant at White Cliffs, Arkansas, to inspect the company’s property and “made certain arrangements and proposed to carry out certain plans agreed upon between him and the said Kelly”; and subsequently, he himself, his attorney and several busi­ness associates, “went to White Cliffs for the pur­pose of carrying out and completing the arrangement so made, as aforesaid, with the said Kelly”; that during the negotiations with Bartol- and while he was on his way to the White Cliffs the “Fahrneys sought and had a private interview with the said Bartol in the city of Chicago, and that he there made false and malicious representations against the said Kellys to the said Bartol and very derogatory to them as busi­ness men and managers of said property, and proposed to the said Bartol that he should somehow manage to get control of the said property, and that they would then turn the Kellys out and make a combination be­tween themselves for the purpose of getting the en­tire property to their own personal and selfish pur­poses, and against the rights and interests of your orators”; that when Bartol reached White Cliffs he refused to carry out his previously made arrangements and insisted upon such modifications as would give him full control of the property pursuant to the sug­gestions made to him by the Fahrneys, and when the Kellys would not accede he refused to furnish any money to put the company in proper condition to con­duct its business; that at that time Ezra C. Fahrney came to White Cliffs with several of his associates and he “openly announced and declared that the Kellys had not yet got any money for the said White Cliffs Company and he proposed to see that they should not”, and, assisted by his associates, he had interviews with Bartol and his attorney, whereupon Bartol without any “reasonable excuse” or “real reason”, but as a pretense and excuse “falsely pretending that cer­tain misrepresentations had been made to him, which, in fact, had not been so made”, refused to carry out his arrangements with the Kellys and left; that Bar­tol had gone so far in his negotiations as to make the company a temporary loan of $10,000; that at this time the financial condition of the company was desperate, the Edenborn $50,000 mortgage was about due, the in­terest due January 1, 1898, on the Fahrney bonds was still due and in default, the point of time, July 1, 1898, when the principal of those bonds could be declared due and payable, was within about eight weeks, the company had other debts which under the Arkansas law were a lien on part of its property, and “it had no means whatever with which to proceed to carry on its business”; that ten thousand dollars had been paid on the Fahrney bonds, leaving $115,000 unpaid; that then an agreement was made with Be G-oeijen for an issue by the company of its consolidated bonds for a sum of $250,000 of which it was proposed that $115,000 be set aside to pay the Fahrney first lien bonds when due, and that the remaining '$135,000 be sold and the proceeds used in payment of the Eden-­born mortgage, finishing and operating the plant and paying other debts of the company; that taking ad­vantage of the desperate financial condition of the com­pany Be Goeijen demanded of the Kellys that of their own personal stock in the company they, as a bonus, assign to him $502,500, that is, a controlling intrest; that the Kellys of their own stock gave De Goeijen $502,500 and he then purchased $108,000 of the con­solidated bonds, leaving $27,000 of those bonds with the Guardian Trust Company to be used for raising more money if the $108,000 should be found insufficient for the purposes of the company; that as part of the arrangement with De Goeijen it was agreed that the “Kellys were to have and retain the active manage­ment of the said business”; that during Kelly’s ne­gotiations for money to pay the Edenborn mortgage and other purposes Ezra C. Fahrney pretending to become friendly with the Kellys and to desire to as­sist them in raising money for the company, agreed with William Kelly that he would give $110,000 of his, Ezra C. Fahrney’s stock, “as a part of the stock bonus proposed to be offered by the said Kelly” in order to dispose of the consolidated bonds, that is, upon the agreement that if Kelly raised $100,000 of money or more he, Ezra C., would assign to Kelly such $110,000 of stock, but that, “further to embarrass the said Kelly and said company, and in furtherance of the schemes and plans attempted to be carried out” by Ezra C. and Peter Fahrney, and without any reason or excuse, Ezra C. Fahrney refused to carry out his agreement; that the interest due on the Fahrney bonds, as well as other obligations of the company, were paid out of the $108,000 and the plant completed and put in successful operation and cement made and the busi­ness promised the greatest prosperity; that by hav­ing the necessary means to run it and judicious man­agement the plant could have been made to earn a good profit but the $108,000 was insufficient to carry the plant to the point of being self-supporting while the $135,000 “requested by the Kellys” would have been amply sufficient; that the $108,000 having been ex­pended it was, “on the first day of October follow­ing,” necessary that an additional $12,000 should be raised to put the company on a profit basis; that De Goeijen lived in Amsterdam, Holland, and lie “pro­cured” the election of John Scott as president and Mc-­Dougal Hawkes as a director, both of New York, "Will­iam J. Kelly “being made” secretary and John Kelly remaining treasurer; that soon after the purchase of the bonds and the procuring of a controlling interest De Goeijen, notwithstanding his agreement “that the Kellys should be and remain in the active manage­ment of the said White Cliffs Company”, began in various ways to interfere with the same to the det­riment of the company, and sent men to be put on the pay-roll of the company who, although employed, were of no use whatever to the company; that secret corre­spondence and communications were begun by the Fahr­neys with De Goeijen, “the purport of which was never revealed to the said Kelly”, and by such correspond­ence and communications and certain interviews be­tween representatives of De Goeijen and the Fahrneys ‘ ‘ a conspiracy and plan was entered into to destroy the holdings of the minority stockholders”, to cause de­fault in-the interest due on the Fahrney and the De Goeijen bonds, to prevent the Kellys from procuring financial assistance or making financial arrangements in any quarter so as to keep the works operating, and, in every way within their power, the Fahrneys and De Goeijen sought to destroy the corporation for their own selfish and personal purposes and "to force its property to a sale in order to purchase it, and thus to defraud the minority stockholders and take from them their holdings; that they so unlawfully conspired together, although Hawkes was a director, Ezra 0. Fahrney (representing himself and Peter Fahrney) was vice-president and a director, and the said De Goeijen either owned or was the agent and trustee of a majority of the stock; that the interest on the Fahr­ney bonds due July 1, 1898, remained in default and “about this time” the $108,000 had been expended for the company and it required about $12,000 to put the business on a paying basis and to pay the interest in default and, furthermore, a semi-annual interest install­ment on the $108,000 of the consolidated bond issue was coming due and, under the terms of the trust deed securing the bonds, the principal could be de­clared due, after three months’ default; that, for the purpose of raising the money necessary to pay the in­terest due and to become due on November 1 and money necessary to carry on the company’s business, William J. Kelly, with the consent of John 'Scott, the presi­dent, arranged with one Sam Lazarus of St. Louis for a loan of $12,000 to be secured by the hypothecation of the $27,000 of consolidated bonds held on deposit by the Guardian Trust Company, and to carry out this arrangement a directors’ meeting held in New York on October 24,1899, authorized the loan by a vote of all the directors present except Hawkes, who voted against it; that De Goeijen, with the aid of Hawkes and the co­operation of the president and the Trust Company, pre­vented the making of the proposed loan; that this action of De Goeijen was “in furtherance of the design and arrangement and conspiracy which had been formed by him and the said Fahrneys ’ ’ to prevent payment of interest “with a view of declaring the whole of the bonded indebtedness due and immediately payable and of foreclosing the. mortgage securing the same, and to wreck the said company and to destroy the holdings of the minority stockholders to the exclusive benefit of the said De Goeijen and the said Fahrneys”; that at the time of making the arrangement for the loan of $12,000 the company had on hand a large amount of manufactured cement but it required to be aged and seasoned in the bins for about ninety days before it would be marketable, and the company was then manu­facturing cement at the rate of about 300 barrels per day, so that the company had resources wherefrom to realize money for the payment of such loan and the said $27,000 of the company’s bonds would in nowise have been in danger of being lost to the company by being hypothecated; that by these acts of De Goeijen, Scott and Hawkes, in violation of their trust and duty, the company, in November 1899, was left wholly with­out means to carry on its business or to pay its debts, and a large amount of labor and other claims having accumulated against the company, payment whereof was imperatively required, the company was “in a critical and desperate” financial condition; that Kelly, to obtain cash, was obliged to and did sell the cement on hand in its green and unmarketable condition, but only procured sufficient means to pay labor claims and such debts as it was imminently necessary to pay in order to keep the works from being shut down; that Kelly, knowing the Fahrneys were only waiting to de­clare their bonds due and to foreclose, that De Goeijen was actively and affirmatively taldng steps to prevent the company from obtaining means “to save its life,” that the interest on the De Goeijen bonds due Novem­ber 1 was due and unpaid and that upon three months ’ default the principal of those bonds would be declared due and that mortgage foreclosed,, he, Kelly, within a few weeks of January 1, negotiated a lease of the company’s property which lease was authorized by a majority of the stock represented at a legal meeting of the stockholders and was executed December 16, 1899; that the company’s fixed charges were then about $15,000 per year and the rental provided for in the lease was $20,000 per year, in addition to certain bene­fits and improvements for the company’s advantage, and the lessee also at once furnished the money to pay the Fahrney and De Goeijen past-due interest; that when the lease was made it had become a question be­tween making the lease and the destruction of the com­pany.</p>
+              <p id="b109-4" pgmap="109(56) 110(195)">That when the Fahrneys and McDougal Hawkes dis­covered that provisions had been made for the payment of the interest on the company’s bonds they “made spe­cial and definite arrangements” “to take such imme­diate action as would wreck the said "White Cliffs Com­pany for the benefit of the said Fahrneys and the said De Goeijen, against the interests of yonr orators”; that “pursuant to such unlawful conspiracy and plan” they procured the Guardian' Trust Company to join them and “enter into said unlawful and fraudulent conspiracy with them for the purpose of bringing about the destruction” of the company; that in pursuance of this unlawful conspiracy two suits in chancery were begun against the company, the bills being drafted and filed at the same time; that one of the suits was by the Trust Company, in which De Goeijen was a large stock­holder, brought in the United States Circuit Court for the Western District of Arkansas, to foreclose the De Goeijen mortgage, although the mortgage was not then due and no right existed to institute the proceeding, and the other suit was filed in the same court by Will­iam H. Fahrney, De Goeijen and others* as stock­holders, to set aside the aforesaid lease; that upon al­legations in both bills which were false and an impo­sition upon the court a receiver was appointed of the property of the company,- at once and without notice to the company or anyone interested in preventing a receivership.</p>
+              <p id="b110-5" pgmap="110(148) 111(76)">That a few days “thereafter”, at the regular an­nual meeting of the company, a new board of directors was elected at the instance of De Goeijen and the Fahrneys, without reference to the interests of the company; that Ezra C. Fahrney was then elected a director again, Hawkes was elected president of the company, the Kellys were removed from their posi­tions as secretary and treasurer, and the attorneys of the company, who had “attempted to procure the discharge of the said receiver, and tried to make a defense to their foreclosure proceedings”, were dis­missed; that the attorney for the receiver, who was attorney for De Goeijen and the Fahrneys “in their interests personally” in the litigation, was made at­torney for the company; that the appointment of a receiver was entirely unnecessary and unjustifiable and was one of the steps taken by De Goeijen, the Fahrneys and the Trust Company in furtherance of their fraudulent purpose to wreck the company “and obtain it for themselves”, and the receiver continued in charge for more than eighteen months; that soon after the suits were begun De Goeijen and the Fahr­neys, by the payment of a large sum of money and threats of destructive litigation against Lazarus, pro­cured his consent and had a decree entered for a re­scission of the lease.</p>
+              <p id="b111-4" pgmap="111(261) 112(19)">That in the meantime, during the litigation, inter­est had again become due on the Fahrney bonds and the time had ensued when the Fahrneys were entitled to, and they did, declare the whole of the $115,000 due and payable; that by arrangement between the Trust Company, De Goeijen and the Fahrneys and with the assistance of the aforesaid attorney for the re­ceiver, a cross-bill was filed for the foreclosure of the Fahrney mortgage, a decree of foreclos­ure rendered ordering a sale of the property if the debt was not paid within thirty days, and on August 3, 1901, a sale was held and the property “bought in for and on behalf of the said De Goeijen and the said Fahrneys”, whereby the complainants have been deprived of their holdings in the company and their stock has become worthless; that “from” the annual stockholders’ meeting in February, 1900, E. C. Fahrney, De Goeijen’s representatives and the Fahrneys have held various directors’ and stockhold­ers ’ meetings at which they have openly and uniformly declared the intention of destroying the company by foreclosure of their mortgages and the use of their majority of the stock and “have arranged and con­cocted a plan” for reorganization “by which they will divide” the company’s property among themselves according to certain terms agreed upon; that John W. Bead, formerly a stockholder and officer, acted with and assisted De Goeijen and the Fahrneys in their wrecking of the company, and that it would be useless and unavailing to make any demand upon the officers of the company, who are defendants, to bring this suit, and therefore complainants, as stockholders, have brought this suit.</p>
+              <p id="b112-5" pgmap="112">Such, as appears above, are the allegations of the bill in substance. The Fahrneys by an answer and an amended answer denied the material allegations of the bill and set up, as showing a former adjudication, the pleadings of the Kellys and proceedings in a certain cause in the Federal Court in Arkansas. After a replication had been filed the cause was, on April 19, 1902, referred to a master in chancery, to take proof and report the same “with his opinion on the law and the evidence”. On March 27, 1907, the master filed a report favorable to the complainants. Exceptions to this report were heard by the chan­cellor and he entered a decree dismissing the bill for want of equity. The decree contains findings of fact, but almost exclusively by reference to the master’s report and the exceptions thereto, and the findings are not intelligible except by reference to papers out­side of the decree, for instance: “The exception to finding 66 of the Master, so far as the same has rela­tion to the Master’s prophecy, is sustained. But as to the remainder of the Master’s finding 66, it is or­dered the exception thereto be overruled”.</p>
+              <p id="b112-6" pgmap="112">“The court finds that finding 93 of the Master’s re­port is not a finding of fact, except * * * , in so far as it is a finding of fact the court cannot find but the Master may be right”. The decree is in that respect peculiar and without precedent in its form, and we do not approve of the form. An appeal from the decree was prayed, allowed and subsequently per­fected to this court.</p>
+              <opinion type="majority">
+                <author id="b113-3" pgmap="113">Mr. Justice Chytraus</author>
+                <p id="Akl" pgmap="113">delivered the opinion of the court.</p>
+                <p id="b113-4" pgmap="113">That the officers and directors of a private corpora­tion are in a fiduciary relation to the corporation and to the stockholders is elementary. Their duty, under the principles of equity, is to serve their trust bene­ficiaries honestly, faithfully and without negligence. They may not avail themselves of their position for their own gain, profit or advantage when to do so involves negligence of duty, loss of their service or other loss, injury, detriment or disadvantage to the beneficiaries of their trust. It is fundamental in the law of corporations that the majority of the stock­holders shall control the policy of the corporation and regulate and govern the lawful exercise of its powers and conduct of its business. "Wheeler v. Pullman, 143 Ill. 197, 207. But as between one stockholder and another there is also a fiduciary relation and a duty to act honestly and in good faith, so far as the exer­cise of their powers within the corporation is con­cerned. In the common enterprise they may not form combinations among themselves to crush the pecu­niarily weaker by the force of overwhelming financial power. Through the community of interest a relation has arisen and exists, affording opportunities of wrongdoing that otherwise would not exist. A ma­jority combination may protect its own financial in­terests, but it may not exercise its powers for its own sole benefit at the expense of the minority nor de­signedly so conduct the corporation’s affairs as im­mediately or ultimately pecuniarily to benefit some stockholders at the unequal and, therefore, unfair and inequitable pecuniary loss on the part of others. Equity will not tolerate a majority combination in a joint financial undertaking to perpetrate a wrong and injustice upon the minority, where the combination is made possible merely by the nature of the relation. There is in such joint financial venture a limited fiduciary relation between the parties thereto. .</p>
+                <p id="b114-4" pgmap="114">Yet, while such are the duties and obligations of officers, directors and stockholders, there is no duty on their part to use individual pecuniary means to assist the corporation in its money difficulties or by use of such means to shield it from financial destruc­tion.</p>
+                <p id="b114-5" pgmap="114">The principles above referred to have been an­nounced frequently and under various circumstances: See Chicago Hansom Cab Co. v. Yerkes, 141 Ill. 320, 334 et seq.; Bixler v. Summerfield, 195 Ill. 147, 150; Hoffman v. Reichert, 147 Ill. 274, 279; Bruschke v. N. Chicago, etc., 145 Ill. 433, 445; Green v. Hedenberg, 159 Ill. 489, 493; Farwell v. Great Western Tel. Co., 161 Ill. 522, 606; Adams v. Burke, 201 Ill. 395; Brown v. De Young, 167 Ill. 549.</p>
+                <p id="b114-6" pgmap="114">In Ervin v. Oregon Ry. &amp; Nav. Co., 27 Fed. Rep. 625, 630, there was a controversy where a majority combination exercised its powers wholly according to the forms of the law, and yet a court of equity in­tervened to prevent injustice to the minority. Speak­ing of the majority, who were defendants, the court said:</p>
+                <p id="b114-7" pgmap="114">“Plainly, the defendants have assumed to exercise a power belonging to the majority in order to secure personal profit for themselves without regard-to the interests of the minority. They repudiate the' sug­gestion of. fraud, and plant themselves upon their right as a majority to control the corporate interests according to their discretion. They err if they sup­pose that a court of equity will tolerate a discretion which does not consult the interests of the minority.”</p>
+                <p id="b114-8" pgmap="114">And at p. 631, the court quotes Justice Blackburn in Taylor v. Chichester Ry. Co., L- R. 2 Exch., 356, as follows:</p>
+                <p id="b114-9" pgmap="114(42) 115(14)">“As the shareholders are, in substance, partners in a trading corporation, the management of which is intrusted to the body corporate, a trust is, by impli­cation, created in favor of the shareholders that the corporation will manage the corporate affairs, and apply the, corporate funds, for the purpose of carry­ing out the original speculation.”</p>
+                <p id="b115-4" pgmap="115">And then continues:</p>
+                <p id="b115-5" pgmap="115">“When a number of stockholders combine to con­stitute themselves a majority in order to control the corporation as they see fit, they become for all prac­tical purposes the corporation itself, and assume the trust relation occupied by the corporation towards its stockholders. Although stockholders are not part­ners, nor strictly tenants in common, they are the beneficial joint owners of the corporate property, having an interest and power of legal control in exact proportion to their respective amounts of stock. The corporation itself holds its property as a trust fund for the stockholders who have a joint interest in all its property and effects, and the relation between it and its several members is, for all practical purposes, that of trustee and cestui que trust”.</p>
+                <p id="b115-6" pgmap="115">We concur in these expressions as being equitable principles controlling stockholders in the exercise of their powers, as such, within the corporation.</p>
+                <p id="b115-7" pgmap="115">In Farmers’ L. &amp; T. Co. v. N. Y., etc. R. Co., 150 N. Y. 410, at page 430, the following quotation is held to be the law:</p>
+                <p id="b115-8" pgmap="115">“The law requires of the majority of the stock­holders the utmost good faith in their control and management of the corporation as regards the minor­ity, and in this respect the majority stand in much the same attitude towards the minority that the directors sustain towards all the stockholders”.</p>
+                <p id="b115-9" pgmap="115">Indeed, the foregoing legal propositions are not very seriously controverted by the defendants in the case at bar.</p>
+                <p id="b115-10" pgmap="115">We are convinced that- under the circumstances herein a demand that the corporation bring this suit would have been useless.</p>
+                <p id="b115-11" pgmap="115(30) 116(207)">Counsel for appellants in their brief say “the find­ings of the master sustained by the court will be ac­cepted by this court”, and they then proceed to as­sume such findings “as established facts of the case”. The doctrine counsel seek to invoke, as to the conclu­siveness of the master’s findings when confirmed by the chancellor, is, in reality, the common law doctrine of res adjudicata, for there is no applicable statutory enactment. Counsel, in their brief, continuously refer us to these findings, in diregard of the abstract and the record.' This plan of argument and presentation of the case has vastly increased the labor of this court. Conceiving, however, our duty in the adminis­tration of justice to be of a higher order than that of mere moderators between counsel for contesting par­ties, one or the other of whom may to a greater or less extent labor under a misapprehension as to prac­tice or procedure, we have gone back of these findings into the abstract and, at times, into the record, in order to ascertain the facts. Counsel’s duty is to aid and assist the court; but when there is a misappre­hension by counsel, either in matters of procedure or in matters of substantive law, we do not consider that in order to save ourselves labor, we may remain indifferent whether the result in the cause be justice or injustice.</p>
+                <p id="b116-5" pgmap="116">Masters, in the proper exercise of their function, are exceedingly helpful to the chancellor. Under the law we are not, however, permitted to give any ad­judicative effectiveness to their conclusions or their reports. The chancellor has no right to do so. He cannot, to any extent, delegate to the master his (the chancellor’s) duty to exercise and rely wholly upon his own judgment. The function of the master is to perform clerical and ministerial duties in the progress of a case. Ennesser v. Hudek, 169 Ill. 494; Hards v. Burton, 79 Ill. 504; De Leuw v. Neely, 71 Ill. 473.</p>
+                <p id="b116-6" pgmap="116">The findings of a master on questions of fact must not be given the consideration and weight by a chan­cellor that the verdict of a jury is entitled to receive from the presiding judge in a common law case. Lar­son v. Glos, 235 Ill. 584.</p>
+                <p id="b117-3" pgmap="117">A chancellor cannot, either upon his own motion or upon the request of a party, abdicate his function to determine, by his own judgment entirely, the contro­versy presented and devolve that duty upon one of his officers. Without consent of the parties it is not com­petent for the chancellor to refer the entire decision of a case to a master, for it is not within the gen­eral province of that officer to pass upon the issues in an equity case. Kimberly v. Arms, 129 U. S. 512; Garinger v. Palmer; 126 Fed. 906. The law does not even contemplate the preparation by the master of an opinion on the law in the case, and for a chancellor to allow a master to charge costs for writing such an opinion, stating his reasons and quoting author­ities, is contrary to law. Manowski v. Stephan, 233 Ill. 409.</p>
+                <p id="b117-4" pgmap="117">Appellants’ counsel contend in their brief, in effect, for power of decision in the master which would be of adjudicative effectiveness, i. e.: for power of de­cision in him to such an extent that his findings, when confirmed by the chancellor, would be res adjudicata and conclusive. They say: when the chancellor’s con­clusions upon the facts are strengthened and rein­forced by the master’s findings, then those conclu­sions are conclusive on tins court. They, however, in their reply brief, rather recede somewhat from this position. The law is that the master is not a judicial officer and hence he cannot, to any extent or in any degree, exercise power determinative upon the rights of the parties, i. e.: he may not exercise judicial power. Neither can the chancellor confer adjudicative power of decision upon him. Cowan v. Kane, 211 Ill. 572, 575; Hards v. Burton, 79 Ill. 504, 509; Ennesser v. Hudek, 169 Ill. 494; De Leuw v. Neely, 71 Ill. 473.</p>
+                <p id="b117-5" pgmap="117(44) 118(158)">Indeed, the contention for power of 'decision in mas­ters to any extent adjudicatory in its effectiveness is based upon a misconception of our judicial institu­tions and the source of judicial power. Adjudication, exertion of judicial power, is an exercise of the sover­eign power of the state—the governmental power. A determination arrived at in the exercise of judicial power, when rightfully exercised, is res adjudicada, i. e., conclusive. The doctrine of estoppel in pais is another doctrine of conclusiveness, hut it rests upon other principles and is not applicable here. It has long since been held in this state that power of de­cision of adjudicatory effectiveness or conclusiveness comes only through the constitution from the people, and cannot otherwise be obtained, even by consent of the parties immediately concerned. The exercise of such power by a master or anyone not of the judicial branch of government is not permitted, and a law granting such power to any person or body other than as designated in the constitution is unconstitutional. Hall v. Marks, 34 Ill. 358; Hoagland v. Creed, 81 Ill. 506; People v. Chase, 165 Ill. 527; Hards v. Burton, 79 Ill. 504; People v. Altgeld, 43 App. 460.</p>
+                <p id="b118-5" pgmap="118">The exercise of the judicial power consists in ascer­taining the facts, in determining what the law is, and what law. i e., legal principle or statutory enactment, is applicable to the particular facts, and in then ap­plying the law to the facts. The conclusions upon the law and the facts and the application of the law to the facts by the master can in no degree be regarded as of adjudicatory or conclusive effectiveness until fully ex­amined and passed upon by the chancellor, and then the conclusions if approved become the conclusions of the chancellor and his decree may be reviewed accord­ing to law.</p>
+                <p id="b118-6" pgmap="118">We come, then, to the facts. We find that the evi­dence neither sustains the allegations of the bill charging or suggesting fraud nor does it show that either Peter, Ezra C. or William H. Fahrney in any wise committed any fraud upon the complainants or either of them. The evidence proves no breach or violation of any fiduciary duty or obligation arising, out of the relations that existed.</p>
+                <p id="b118-7" pgmap="118(8) 119(295)">The evidence shows: That in 1892, William and John Kelly discovered a deposit of chalk and, adjoin­ing it, a clay deposit, on Little River, in a part of Ar­kansas which some witness characterizes as a “howl­ing wilderness”. The chalk deposit was not unusual in Arkansas and Texas but complainants claimed for their discovery a superiority in quality, which super­iority is disputed. By several purchases and options the Kellys secured about 3,000 acres of land at a cost of about $40,000. In extent the chalk deposit was about 900 acres and the clay deposit about 600 acres. De­cember 16, 1893, the Kellys and one Metesser or­ganized the White Cliffs Portland Cement and Chalk Company, with capital stock as stated heretofore. William Kelly subscribed for all the stock except four shares, and of these four John subscribed for two and and Metesser for two. Metesser was elected presi­dent, William Kelly secretary and John Kelly treas­urer. The stock was divided into 8,000 shares of preferred stock, which remained in the treasury of the company, and 32,000 shares of common which went to the Kellys and Metesser. The preferred was subse­quently converted into common so that all the stock was placed on a level. The land went to the company for the 32,000 shares of stock. Whether the land was all paid for by Kelly is not made clear and does not seem to be material, for it has been all paid for at some time. William J. Kelly testifies that he had spent $15,000 in preliminary work. At the annual meeting, on Fébruary 4, 1895, David B. Coulter, from whom considerable of the land had been bought and who had not been fully paid when the Fahrneys were first approached, was substituted for Metesser as di­rector.</p>
+                <p id="b119-4" pgmap="119(61) 120(331)">In the fall of 1895 William J. Kelly came to Chi­cago with a prospectus, reports of analyses by chem­ists, samples of chalk, plans for the erection of a plant for the manufacture of cement from the chalk and clay, a statement of the company’s offer for the sale of a bond issue of $125,000 at eighty cents on the dollar with an amount of stock, as a bonus, equal to the amount of bonds taken, etc. The proposed plant was estimated to cost fifty to sixty thousand dollars so that about forty thousand dollars would be left for working capital. It was stated in the statement that the works would have a capacity of 500 barrels per day. One John W.- Bead, with whom Kelly had a previous acquaintance, was a bookkeeper with the Dr. Peter Fahrney Sons Company. Bead interested himself in Kelly’s matter and introduced Kelly to Ezra C. Fahrney and some of his friends and associates; of the latter A. 0. Cooper and John E. Scully became interested. Kelly had a subscription list to be signed by subscribers for the bond issue and he obtained some subscriptions of $5,000 each, among them being E. C. Fahrney’s subscription for that amount; but these subscriptions were all dropped. Early in De­cember, 1895, Kelly, Ezra C. Fahrney, Cooper and Scully went to White Cliffs and looked over the ground. The nearest post-office to White Cliffs was Johnston, five or six miles away, where there were a small general store and two or three huts. While in Arkansas they stopped at the house of David B. Coulter, who is now one of the complainants. Meet­ings of the directors and stockholders were held in Texarkana on December 16, 1895, and a bond issue of $125,000 was there authorized, to he secured by a trust deed on all the company’s property. Accordingly bonds were issued of $1,000 each, dated December 31, 1895, and bearing interest at 6% per annum, pay­able half-yearly on the first days of January and of July in each year, and a trust deed to the Title Guar­antee and Trust Company of Chicago, to secure those bonds, was executed and recorded. The trust deed contained a provision that, if default in interest con­tinued for six months after demand, the principal should become due and payable.</p>
+                <p id="b120-5" pgmap="120(18) 121(230)">Upon the return of the Fahrney party to Chicago E. C. Fahrney took $25,000 of the company’s bonds, which were paid for by Peter Fahrney’s check dated December 27, 1895, to the order of Ezra C. and by the latter indorsed to the company. This check was paid through the Chicago Clearing House on January 3, 1896. About the same time Kelly succeeded in obtaining for the company $25,000 more from North &amp; Taylor by the sale of $5,000 and the hypothecation of $50,000 of the bonds to them. North &amp; Taylor was a private banking firm which shortly thereafter failed and all its bonds came to the Fahrneys later. As part of the bargain for the sale of the $25,000 of bonds to Ezra C. Fahrney he was given the $200,000 of treasury stock, some of which he distributed among his friends. Kelly, of his stock, gave to John W. Bead $50,000 and to Ernest Dale Owen, his lawyer, $25,000. A stockholders’ meeting was held in Chicago on December 30, 1895, at which the board of directors of the company was increased from three to five, and to make up the number Ezra C. Fahrney and John W. Bead were elected directors. According to the by-laws the company’s annual meet­ings were held on the first Monday in February each year. February 3, 1896, William J. Kelly was elected president, E. C. Fahrney vice-president, John Kelly secretary and treasurer, and John W. Bead assistant secretary and treasurer.</p>
+                <p id="b121-4" pgmap="121">About April 7, 1896, Kelly, as president of the com­pany, arranged with Peter and Ezra C. Fahrney to take the remaining bonds, amounting to $45,000. Stock of an equal amount went with these bonds and by August 11,1896, these had all been paid for by checks issued from time to time. Another $25,000 of the bonds was turned over to E. C. Fahrney in August, 1896, to secure him for an advance of $20,000 on August 20, 1896. The company’s note, payable in one year, was given him to evidence this advance. This $25,000 of bonds was part of the $50,000 deposited with North &amp; Taylor as collateral.</p>
+                <p id="b121-5" pgmap="121(8) 122(356) 123(216)">By means of negotiations between William J. Kelly and E. C. Fahrney, during November and December, 1896, as his checks show, Peter Fahrney purchased $25,000 more of the bonds of the company. These were the last bonds of the company that the Fahrneys obtained and the bond holdings of the Fahrneys thus amounted to $120,000 out of the $125,000 issue. There were some transactions between Kelly or the company and the Fahrneys respecting smaller amounts, but they are not' material. In connection with this last $25,000 of bonds complainants make what they evi­dently regard as one of the most serious of their charges of breach of fiduciary duty and obligation against the Fahrneys. Kelly has even brought a per­sonal suit in connection therewith, wherein he has been defeated. Kelly testifies that the arrangement for the sale of this $25,000 of bonds was made with Ezra C. Fahrney and that, as part of the transaction, Fahrney was given $25,000 of stock by him, Kelly, per­sonally, and he, Fahrney, promised to make the company a loan of $75,000 for ten years on its unsecured note for that period, and that subsequently, when it came to the point of making that loan, Fahrney refused to make it. Kelly states that Fahrney told liini he could not procure the money from his father except upon conditions he did not think Kelly would accept. Fahr­ney denies making any such promise. Kelly also says that, upon Fahrney’s assurance, “we naturally built a very much larger plant than we would have done if we had figured on a small amount of money”, and that Fahrney participated in the plans for a larger plant. • We believe that on account of his hopeful and san­guine, if not visionary, temperament, Kelly possibly exaggerated some casual remarks by Fahrney, to the effect that he would endeavor to raise that amount, or see that it was raised, for the company, into a prom­ise to loan it. Kelly’s several statements of what Ezra C. Fahrney said on the subject and not consist­ent. Considering all the circumstances we do not believe any promise was made to make any such loan. It does not even appear that Ezra C. Fahrney was at that time personally able to make any such loan or that Kelly had any information upon which he sup­posed or whereupon he was justified in supposing that Ezra C. Fahrney had the ability to make a loan of that amount. At all events, taking either Kelly’s or Fahrney’s view, there is nothing in this incident upon which fraud or breach of any trust duty or obliga­tion can be predicated, be the incident considered alone or in connection with other facts in the case. Fur­thermore, there is no evidence tending to show that Peter Fahrney or William H. Fahrney authorized such promise by Ezra C. Fahrney or was in anywise connected therewith. Were there a breach of fiduciary duty, we could not assume or presume fraudulent par­ticipation on their part. Kelly places the occurrences in connection with this promise and refusal to carry it out in December, 1896, and January, February and March, 1897. The charge in the bill of complaint that the Fahrneys, in respect to the making of this promise and the refusal to carry it out, were actuated by the motive or purpose of securing the property of the company for themselves is not sustained by the evi­dence.</p>
+                <p id="b123-4" pgmap="123(128) 124(15)">At the regular annual meeting of the stockholders of the company, held at White Cliffs, Arkansas, February 1, 1897, William J. Kelly, Ezra C. Fahrney, W. H. Fahrney, David B. Coulter and John Kelly were elected directors. The Fahrneys with some of their friends were then present. Shortly before there had been a public exhibition of starting the machinery and starting the company for business; but this starting was only a pretense, for the company’s plant was in an unfinished condition and required more money for its completion before cement could be manufactured. At this time the company was in financial distress and apparently continued so until its activity termi­nated by the foreclosure of its property on August 3, 1901. The Fahrneys wisely, as the evidence shows and as they certainly rightfully might, refused to put any more money into the company.</p>
+                <p id="b124-5" pgmap="124">In April or May of 1897, Kelly while endeavoring to raise money for the necessities of the company when Fahrney refused to provide money therefor, told Fahrney: “I have got to have this money and you had better put this money in. You have got big in­terests here at stake; if you don’t, I will get some­body else”. After that Kelly (without the Fahrneys knowing whom he was negotiating with) procured William Edenborn, president of the American Steel and Wire Company, to furnish money for the com­pany. Kelly endeavored to get $75,000 from Eden-­born, but he would only loan $50,000. The loan was made by Edenborn upon a note and second mortgage dated May 21, 1897, running for one year. As part of the terms for making the loan Edenborn required $300,000 of the company’s stock absolutely and $300,-­000 as collateral security, and that he should he president of the company. E. C. Fahrney had pre­viously loaned Kelly $2,000 upon a judgment note and advanced the company $5,500 for machinery upon its note. On May 19, 1897, learning of the negotiations with Edenborn, Fahrney put his $2,000 note into judgment. He also insisted that the $5,500 note should be included in the Edenborn mortgage, which was ac­ceded to. A directors’ meeting was held on May 21, 1897, at which Coulter resigned and Edenborn was put in his place. Edenborn was elected president, Will­iam J. Kelly was made secretary and John Kelly re­mained treasurer. The Edenborn mortgage was then authorized.</p>
+                <p id="b124-6" pgmap="124">The evidence in the record does not sustain the al­legation of the bill that the Fahrneys approached Edenborn with a proposition that he join them in a conspiracy to wreck the company so they might ob­tain all the property of the company for themselves.</p>
+                <p id="b124-7" pgmap="124(18) 125(49)">The money obtained from Edenborn was used to pay past interest due on the Fahrney bonds and in discharge of other indebtedness of the company; and $18,000 or $19,000 remaining was expended in im­provements or enlargement of the plant. But this additional money did not place the company upon a dividend-paying basis and it continued in financial distress. The interest days came around with regu­larity.</p>
+                <p id="b125-4" pgmap="125">The vague charges in the bill of fiduciary miscon­duct on the part of the Fahrneys in connection with one Bartol are unfounded. It is true, however, as charged, that in 1897 the financial condition of the company was desperate. Edenborn became anxious to get his money back and to get out of the company.</p>
+                <p id="b125-5" pgmap="125">In the early part of 1898 the company concluded to make an issue of $250,000, of what was called “con­solidated bonds”. Kelly testified that at this period he and his friends “had control of the Board of Di­rectors”. Mr. Kelly negotiated with one DeGoeijen, a Hollander, and induced him to take $108,000 of these bonds. As part of this transaction, consummated July 25, 1898, De Goeijen required and obtained from Mr. Kelly a bonus of $502,500 of the company’s stock. Of the remainder of this consolidated bond issue suffi­cient was reserved—about $115,000—to take up the Fahrney bonds when due, and $27,000 was put up in trust with the Guardian Trust Company of Kansas City under some arrangement between Kelly and De Goeijen. It was also a condition of the arrangement with De Goeijen that the “Kellys were to have and retain the active management” of the company’s busi­ness.</p>
+                <p id="b125-6" pgmap="125(73) 126(17)">The stockholders’ meeting of 1898 was, for want of a quorum, not held in February, but was held April 30 of that year, at White Cliffs. The consolidated bonds and form of mortgage were at that meeting ap­proved. The board of directors was then changed from five to seven and Edenborn, E. C. Fahrney, Will­iam J. Kelly, John Kelly, C. P. Murray, Edgar Drain and Coulter were elected directors. Edenborn, Fahr­ney and William J. Kelly continued in their respect­ive offices of president, vice-president, secretary and treasurer.</p>
+                <p id="b126-5" pgmap="126">The charge in 'the bill against E. C. Fahrney that he, on December 26, 1897, had agreed with Kelly to give him $110,000 of the Fahrney stock if he, Kelly, succeeded in obtaining $100,000 for the company on the consolidated bonds, is denied by Fahrney and is an absolutely immaterial matter, except that it explains Kelly’s conduct in instituting certain lawsuits against Fahrney in Arkansas. Through connivance between William J. Kelly, Owen, Coulter and Jones, who was the company’s local attorney, an attachment suit was brought in Arkansas by Coulter, upon a note he held against Kelly for $10,000. Substantially all the Fahr­ney stock in the company was then levied upon in order, as substantially conceded, to get it into hands friendly to the Kellys. The ground for levying on the Fahrney stock for Kelly’s debt was that when Kelly transferred the stock to the Fahrneys there had been a failure to comply with some registering requirement of the Arkansas statute. Kelly had stock which was not levied upon.</p>
+                <p id="b126-6" pgmap="126">This Coulter attachment of the Fahrney stock was not a fraud. But a court of equity, guided by con­science, does not regard the taking of one person’s property to pay another’s debt, or an effort to coerce one person to pay the debt of another, as commend­able. If Coulter had included in his levy all the Kelly stock, he would have occupied a better position before a court of equity. As it is, he was evidently combin­ing with Kelly against the Fahrneys rather than merely attempting to collect a debt justly due him.</p>
+                <p id="b126-7" pgmap="126(57) 127(345)">At this time E. C. Fahrney was in Arkansas to at­tend the directors’ meeting held April 30, 1898, and immediately after the meeting he was served with process in the attachment suit and in three suits then instituted by Kelly. One was a suit for damages for not making the $75,000 loan, another was an action at law to recover damages for refusal to deliver the $110,000 of the company’s stock to Kelly, and the third was a bill to compel specific performance of the agreement to deliver to Kelly the $110,000 of stock. Thereafter the relations between the Fahrneys and the Kellys were not friendly. All the E. C. Fahrney stock was sold in the Coulter attachment suit and liti­gation in respect thereto followed. Fahrney returned to Chicago early in May and Ernest Dale Owen took occasion to call upon him. Owen then informed Fahr­ney that his stock had been attached, that for some technical legal reason the Fahrney bonds were worth­less, and said: “They (the Kellys) have got you tied up in such a manner you can’t move a hand. The best thing you can do is to settle and settle at once.” Apparently what was desired of the Fahrneys was that they should give up their stock to the Kellys. A letter written by Kelly to John W. Bead, dated August 4, 1898, also indicates this. E. C. Fahrney attended no meeting of the company after April 30, 1898, until February 5,1900. Kelly, by extremely unwise conduct, detrimental to the welfare of the company, had com­pelled the Fahrneys to believe that their interests as bondholders were at stake, and that they must fight for their rights as bondholders—and this while he was in control. The Fahrneys, after this, took no part in the management of the corporation during a long in­terval of time, perhaps a year and a half or more. The arrangement with De Goeijen was made by Kelly and he and De Goeijen thereafter controlled the ma­jority of the stock. For a long time after De G-oeijen became interested the Fahrneys knew nothing of him or his interest in the company. Nor did they have any communication with him or come in contact with him until December 26, 1899. On that date McDougal Hawkes, who represented De Goeijen, telegraphed the Fahrneys from New York, asking for a meeting in Chicago.</p>
+                <p id="b127-4" pgmap="127(10) 128(188)">In the meantime there had been some change in the directorate by Owen, Scott, Vaughan and Hawkes hav­ing been elected in the places of Coulter, Drain, Mur­ray and Edenborn. John Scott had also become presi­dent in place of Edenborn. These changes were made by the Kellys and the De Goeijen interests. Out of the $108,000, Edenborn had been paid but the Fahr­ney’s $5,500 note was not paid. The remainder of the $108,000 had been expended under the Kelly regime, and Kelly was short of money again. He endeav­ored to raise $12,000 by hypothecation of the $27,000 of bonds placed with the Guardian Trust Company, but was prevented by DeGoeijen. The Fahrneys had no connection with his being so prevented, and it does not appear that they even knew of the fact. True it is, as alleged in the bill, that during this interval when the Fahrneys took no part, the affairs of the company got into “a critical and desperate” financial condi­tion, but this was under Kelly’s management and in nowise was it brought about by the breach of any trust, duty or obligation on the part of any of the Fahrneys.</p>
+                <p id="b128-5" pgmap="128(166) 129(156)">The Kelly-Fahrney litigation continued during the latter part of 1898, during 1899, and even thereafter. Kelly, it seems, ultimately failed in his suits. Fore­closure proceedings were instituted July 13, 1897, by W. H. Fahrney in a state court in Arkansas upon the Fahrney $5,500 note, secured by the same mortgage which secured the Edenborn $50,000 note. This suit was prosecuted for some time, and in January 1900 was transferred to the United States Circuit Court and consolidated with the De Goeijen foreclosure suit, to which we shall refer presently. In the Coulter at­tachment suit, no defense was made and the Fahr­ney stock levied upon was sold at a sheriff’s sale Au­gust 28, 1898. Mr. Coulter bought it in. Upon a bill filed by Fahrney in the United States Circuit Court this sale of the stock was set aside on May 21, 1900, and a re-sale ordered. A re-sale was made by the sheriff on August 11, 1900, and at this sale Coulter again bought in the stock. With reference to these sales of the Fahrney stock the appellants insist that, “The sale having been made to Coulter in August, 1898, confirmed by the state court in that month, the title to this stock in Coulter was complete and effect­ual from that day.” We are inclined to agree with that contention. And if the contention is correct the stockholder relation between the Fahrneys and the other stockholders as well as between the Fahrneys and the corporation itself, then terminated. If that be so, then the fiduciary relation arising out of the holding of stock with its duties and obligations toward other stockholders terminated on August 28, 1898. We have already seen that there was no breach of any such duty or obligation before that point of time. At all events the relation terminated by the re-sale of the stock and purchase thereof by Coulter on August 11, 1900.</p>
+                <p id="b129-4" pgmap="129">But whatever the date of severance of the relation of the Fahrneys to the company as stockholders, by the act of complainant Coulter, we do not find that the evidence in this record justifies a decree against the Fahrneys for breach of any duty or obligation arising from their relation as stockholders or officers of the company. It must at all times be borne in mind that the Fahrneys had a first lien upon the company’s property for a sum of about $115,000 cash put into the company. As holders of this first lien they had •certain paramount rights which all the stockholders and officers were, at the time the money was advanced, very willing to acknowledge and which they have ever since been in duty bound to acknowledge and concede, both at law and according to the principles of equity. No effort by the Fahrneys with a view merely to collect the money due them from the company, by means or according to methods provided by law, can be re­garded as a breach of any fiduciary relation.</p>
+                <p id="b129-5" pgmap="129(16) 130(56)">During the interval that the Fahrneys were not actively participating in the management of the com­pany’s affairs, De Goeijen evidently became desirous of withdrawing. In September 1899 he gave Kelly an option on the DeGoeijen interests at principal and five per centum per annum interest. If the Kellys were unable to avail themselves of the option by Jan­uary 6,1900, they were to withdraw from the manage­ment of the property.</p>
+                <p id="b130-5" pgmap="130">During this interval Kelly also brought about a leasing of the entire plant and property of the com­pany. The Kellys with their adherents, held stock­holders’ and directors’ meetings on December 9 and 16, 1899, at which neither the De Goeijen nor the Fahrney interests were present. There is some con­tention as to the notices for these meetings, but cer­tainly Scott, the president, was notified, yet he was not present. At these meetings Coulter voted the Fahrney stock which he had purchased at the sheriff’s sale. But in view of subsequent events precisely what took place at these meetings is not now very material. However, a lease of all the company’s property to the Arkansas Portland Cement Company was consid­ered and authorized. The lease bears date December 16, 1899, and the lessee company was organized on that date with a paid in capital of $40,000 to take that lease. On the part of the White Cliffs Company it is executed by W. J. Kelly, president, and attested by John Kelly. The term of the lease is five years from December 16, 1897, with a renewal option for five years more. The rental specified is $20,000 per year. There is a controversy as to the amount of the company’s fixed charges per annum. The com­plainants claim $15,000 per year and the defendants considerable more. There was no provision made for the pending $5,500 forclosure.</p>
+                <p id="b130-6" pgmap="130(45) 131(40)">It is more than probable that Hawkes, who repre­sented De Goeijen, heard of the making of this lease immediately, and that such information induced him to send the telegram of December 26, 1899, already spoken of, and the De Goeijen and the Fahrney inter­ests were "brought in touch with each other. Previ­ously there had been no concert of action between them, but from this time on they acted in conjunction, until the Fahrneys received back the money they had loaned the company.</p>
+                <p id="b131-4" pgmap="131">Acting in concert they filed two bills in equity in the Federal court in Kansas. One of these bills, en­titled Cooper v. "White Cliffs Company, was to set aside the above mentioned lease made by the company to the Arkansas Portland Cement Company as fraud­ulent. The other bill nominally entitled Guardian Trust Company v. White Cliffs, etc., Company, was filed on behalf of the De Goeijen interests, to fore­close the mortgage securing the consolidated bonds of which De Goeijen held $108,000. These bills were filed January 6, 1900. The lease controversy, so far as it concerned the Arkansas Portland Cement Company, was settled with that company by the De Goeijen and the Fahrney interests and the Cooper bill was dis­missed in a very short time. It appears from the evi­dence that in the settlement the Arkansas Cement Company was repaid a few thousand dollars that it had laid out or expended for the "White Cliffs Com­pany. In the foreclosure suit there was a sharp con­troversy.</p>
+                <p id="b131-5" pgmap="131(134) 132(372) 133(35)">W. J. Kelly and Ernest Dale Owen, complainants, testify herein that Mr. Owen and his local associates, Jones &amp; Hudgins, were not permitted to make a de­fense for the White Cliffs Company in this foreclosure suit. The record thereof is against them. So far as the present suit is concerned,, it is only necessary to ascertain whether fraud in the making of the above mentioned lease and the right to bring the suit for foreclosure at the time it was brought, were in issue. It appears from the record that on February 3, 1900, an answer to this foreclosure bill on behalf of the White Cliffs Company was filed by Jones &amp; Hudgins and Ernest Dale Owen as its solicitors. This answer was sworn to by W. J. Kelly. Allegations appear in the bill charging fraud in the making of the lease. In this answer the validity of the lease is asserted, the allegations of its fraudulent nature denied and asser­tions made tending to show its bona fides and the absence of all fraud in connection therewith. The answer also denies that there was any interest due upon the $108,000 of bonds which alone could author­ize the filing of the bill. Ernest Dale Owen in his tes­timony herein admits that he was permitted to appear in the suit and make arguments and that he filed a brief therein. A decree of foreclosure was rendered May 17, 1901, and therein it appears that it was ren­dered upon argument of counsel including “Paul Jones and E. D. Owen representing the defendants." The decree provides for the payment of costs includ­ing “the allowance heretofore made to Messrs. Jones and Owen by the court as counsel for the defendant", which counsel fee, it appears, was $2,000. In view of these facts no amount of assertions by Mr. Owen and Mr. Kelly of the discharge of Jones and Owen as at­torneys for the company would establish as a fact that Jones and Owen did not appear and make a de­fense for the company upon these questions of validity of the lease and the existence of a right to foreclose. Furthermore, Mr. Owen does not particularize and specify as to what he did in court at all the various times he attended in the matter of the foreclosure after his discharge as attorney for the company. He seeks to evade inquiry into that subject by stating his con­clusion that he was refused a hearing. Evidently there was a real litigation, a real defense and a real contest upon the two defenses above referred to. The decree entered May 17, 1901, held the lease fraudulent in law and invalid and interest on the De Goeijen bonds past due when the bill was filed. It is a well-established principle of law that counsel, as well as the parties, are conclusively bound by the decree of the court. In Guardian Trust Company v. White Cliffs Portland Cement &amp; Chalk Company et al., 109 Fed. Rep. 523, appear the grounds upon which the lease was set aside and the right to file the bill was held to exist. We do not, however, regard that case or opinion as being in evidence herein.</p>
+                <p id="b133-4" pgmap="133">As between the complainants herein and the Fahr­neys the lease must be regarded as fraudulent and conclusively so. Therefore, all the concert of action between the Fahrneys and the De Goeijens with a view to having it set aside was perfectly proper and lawful; although such concert of action may appear as' a com­bination against the complainants and may, to them, appear as against the interests of the company.</p>
+                <p id="b133-5" pgmap="133">It is perfectly apparent why the Fahrneys acted in concert with the De Gloeijens. The Fahrneys had prior and superior liens and they wanted their money back and not the property.</p>
+                <p id="b133-6" pgmap="133">At first, January 2, 1900, a reorganization scheme was considered and a reorganization agreement made. The evidence shows that this scheme and agreement were not acted upon. Dr. Peter Fahrney would not have been very wise if he had entered into that scheme. He had the prior liens and he wanted his money, why should he join in reorganization? At all events he did not. To the extent of bringing about a forclosure sale of the property so that he would get his money through the De Gloeijen interest, he did join with the De G-oei­jen interests. For that purpose he had an equitable and lawful right to do so. To obtain for the Fahrneys any more, or any interest in the property after the sale, they would have had no equitable or legal right to join with De Goeijen. The complainants have ab­solutely and totally failed to connect the Fahrneys, who are the only defendants before the court, with the property of the company after the sale. The evi­dence is convincing to the contrary. Complainants are shooting far wide of the mark when they argue: “What we complain of is not as to who got the property, or what became of it, but that we are deprived of it and the value of our stock destroyed.”</p>
+                <p id="b134-4" pgmap="134">February 5, 1901, a bill of foreclosure was filed on behalf of the Fahrneys to foreclose on their bonds. That bill is entitled Title Guarantee &amp; Trust Company v. White Cliffs Company. The suit was consolidated with the Guardian Trust Company’s bill foreclosing the De Goeijen bonds. Under the decree entered in the consolidated suit on May 17, 1901, the property of the company was sold on August 3, 1901. At that sale the Fahrneys bid $150,000, supposedly sufficient to cover their liens. A representative of the De Goeijens bid $160,000 and the property was struck off to him. On August 20, 1901, the sale was confirmed by the court. The Fahrneys obtained a return of the money they had loaned the company. Under the law of Arkansas it appears there is no period of redemp­tion.</p>
+                <p id="b134-5" pgmap="134">We find in this record no evidence of breach of fiduciary duty or obligation on the part of the Fahr­neys. The facts in this case required a decree of dis­missal for want of equity.</p>
+                <p id="b134-6" pgmap="134">The decree of the chancellor is affirmed.</p>
+                <p id="b134-7" pgmap="134">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="98" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.3" BETYPE="IDREF" FILEID="alto_00049_1"/>
+              <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.2" BETYPE="IDREF" FILEID="alto_00050_0"/>
+              <area BEGIN="BL_99.4" BETYPE="IDREF" FILEID="alto_00050_0"/>
+              <area BEGIN="BL_99.15" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.3" BETYPE="IDREF" FILEID="alto_00050_1"/>
+              <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+              <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.3" BETYPE="IDREF" FILEID="alto_00051_1"/>
+              <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+              <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.3" BETYPE="IDREF" FILEID="alto_00052_1"/>
+              <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.2" BETYPE="IDREF" FILEID="alto_00053_0"/>
+              <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="88" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.3" BETYPE="IDREF" FILEID="alto_00053_1"/>
+              <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.2" BETYPE="IDREF" FILEID="alto_00054_0"/>
+              <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="108" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.3" BETYPE="IDREF" FILEID="alto_00054_1"/>
+              <area BEGIN="BL_108.4" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.2" BETYPE="IDREF" FILEID="alto_00055_0"/>
+              <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.3" BETYPE="IDREF" FILEID="alto_00055_1"/>
+              <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.2" BETYPE="IDREF" FILEID="alto_00056_0"/>
+              <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="112" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.3" BETYPE="IDREF" FILEID="alto_00056_1"/>
+              <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="113" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.2" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.1" BETYPE="IDREF" FILEID="alto_00057_0"/>
+              <area BEGIN="BL_113.3" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="114" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.2" BETYPE="IDREF" FILEID="alto_00057_1"/>
+              <area BEGIN="BL_114.3" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.2" BETYPE="IDREF" FILEID="alto_00058_0"/>
+              <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+              <area BEGIN="BL_115.13" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="116" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.2" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.3" BETYPE="IDREF" FILEID="alto_00058_1"/>
+              <area BEGIN="BL_116.4" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="117" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00059_0"/>
+        <fptr FILEID="jp2_00059_0"/>
+        <fptr FILEID="alto_00059_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.2" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.1" BETYPE="IDREF" FILEID="alto_00059_0"/>
+              <area BEGIN="BL_117.3" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="118" ORDERLABEL="100" TYPE="page">
+        <fptr FILEID="tiff_00059_1"/>
+        <fptr FILEID="jp2_00059_1"/>
+        <fptr FILEID="alto_00059_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_118.2" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_118.3" BETYPE="IDREF" FILEID="alto_00059_1"/>
+              <area BEGIN="BL_118.4" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="119" ORDERLABEL="101" TYPE="page">
+        <fptr FILEID="tiff_00060_0"/>
+        <fptr FILEID="jp2_00060_0"/>
+        <fptr FILEID="alto_00060_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.3" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_119.2" BETYPE="IDREF" FILEID="alto_00060_0"/>
+              <area BEGIN="BL_119.4" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="120" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00060_1"/>
+        <fptr FILEID="jp2_00060_1"/>
+        <fptr FILEID="alto_00060_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.2" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.3" BETYPE="IDREF" FILEID="alto_00060_1"/>
+              <area BEGIN="BL_120.4" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="121" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00061_0"/>
+        <fptr FILEID="jp2_00061_0"/>
+        <fptr FILEID="alto_00061_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.3" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.2" BETYPE="IDREF" FILEID="alto_00061_0"/>
+              <area BEGIN="BL_121.4" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="122" ORDERLABEL="104" TYPE="page">
+        <fptr FILEID="tiff_00061_1"/>
+        <fptr FILEID="jp2_00061_1"/>
+        <fptr FILEID="alto_00061_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.2" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.3" BETYPE="IDREF" FILEID="alto_00061_1"/>
+              <area BEGIN="BL_122.4" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="123" ORDERLABEL="105" TYPE="page">
+        <fptr FILEID="tiff_00062_0"/>
+        <fptr FILEID="jp2_00062_0"/>
+        <fptr FILEID="alto_00062_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.3" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.2" BETYPE="IDREF" FILEID="alto_00062_0"/>
+              <area BEGIN="BL_123.4" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="124" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.2" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.3" BETYPE="IDREF" FILEID="alto_00062_1"/>
+              <area BEGIN="BL_124.4" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.3" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+              <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.3" BETYPE="IDREF" FILEID="alto_00063_1"/>
+              <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="127" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.2" BETYPE="IDREF" FILEID="alto_00064_0"/>
+              <area BEGIN="BL_127.4" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.2" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.3" BETYPE="IDREF" FILEID="alto_00064_1"/>
+              <area BEGIN="BL_128.4" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.2" BETYPE="IDREF" FILEID="alto_00065_0"/>
+              <area BEGIN="BL_129.4" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.3" BETYPE="IDREF" FILEID="alto_00065_1"/>
+              <area BEGIN="BL_130.4" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jp2_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.2" BETYPE="IDREF" FILEID="alto_00066_0"/>
+              <area BEGIN="BL_131.4" BETYPE="IDREF" FILEID="alto_00066_0"/>
+              <area BEGIN="BL_131.7" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="132" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.2" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+              <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="133" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jp2_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.2" BETYPE="IDREF" FILEID="alto_00067_0"/>
+              <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+              <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.6" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b119-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_119.5" BETYPE="IDREF" FILEID="alto_00060_0"/>
+            <area BEGIN="BL_120.1" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.14" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.5" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.12" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.11" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            <area BEGIN="BL_111.1" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.7" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.8" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            <area BEGIN="BL_103.1" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            <area BEGIN="BL_108.1" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3N" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.12" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.6" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            <area BEGIN="BL_118.1" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.5" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.10" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.9" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.8" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.7" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.6" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.8" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            <area BEGIN="BL_101.1" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.4" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.7" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.6" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            <area BEGIN="BL_122.1" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            <area BEGIN="BL_123.1" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.7" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.7" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            <area BEGIN="BL_119.1" BETYPE="IDREF" FILEID="alto_00060_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.6" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_133.1" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.5" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            <area BEGIN="BL_131.1" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akl" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.5" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_113.6" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.5" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.7" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.8" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.5" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.7" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.5" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.6" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.6" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.5" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.7" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.10" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.11" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.9" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.4" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.5" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_112.1" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.5" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_121.1" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.8" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.8" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.9" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            <area BEGIN="BL_115.1" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.5" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.6" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.7" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_125.1" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.13" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.5" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.6" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

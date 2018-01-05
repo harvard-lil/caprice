@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0022" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Reinisch v. Chicago &amp; Northwestern Railway Co.">John Joseph Reinisch et al., Appellants, v. Chicago &amp; Northwestern Railway Company, Appellee</name>
+          <docketnumber>Gen. No. 14,071</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 199</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="2ab89f3b8fee60eae68af90d74a9e5c4" CHECKSUMTYPE="MD5" SIZE="38514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="cda846eac80e18679efe952107f438a9" CHECKSUMTYPE="MD5" SIZE="53284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="3ddcaf395d68ddc6174ab2bdedab4fda" CHECKSUMTYPE="MD5" SIZE="43994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00110_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="905cbfe5c0e2f55c14fe83d47a343f8d" CHECKSUMTYPE="MD5" SIZE="2352884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="d1badfb40e34bff171757d8078b577fd" CHECKSUMTYPE="MD5" SIZE="2449962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="9bf73e2038a52fd97e90c98895748cbf" CHECKSUMTYPE="MD5" SIZE="2408871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00110_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="058472b1e2ff04c153b05bc965e93e35" CHECKSUMTYPE="MD5" SIZE="68932">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="9e6537d9d1ea3c78086ddb78a3738651" CHECKSUMTYPE="MD5" SIZE="86334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="bf815910512f229870515914f67057d0" CHECKSUMTYPE="MD5" SIZE="70819">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00110_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0022" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="201" firstpage="199">
+              <docketnumber id="A98" pgmap="217">Gen. No. 14,071.</docketnumber>
+              <parties id="ASd" pgmap="217">John Joseph Reinisch et al., Appellants, v. Chicago &amp; Northwestern Railway Company, Appellee.</parties>
+              <decisiondate id="ACp" pgmap="217">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="Aqe" pgmap="217">J. Henry Kraft, for appellants.</attorneys>
+              <attorneys id="ABi" pgmap="217">S. A. Lynde, for appellee.</attorneys>
+              <summary id="AWY" pgmap="217">Bill in equity. Appeal from the Circuit Court of Cook county; the Hon. Lockwood Honore, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AxB" pgmap="217">Affirmed.</disposition>
+              <headnotes id="AFJ" pgmap="217">This case is controlled by the decisions in C., B. &amp; Q. R. R. Co. v. W. C. St. R. R. Co., 156 Ill. 255; Pennsylvania Co. v. City of Chi­cago, 181 Ill. 297; Doane v. Lake St. E. R. R. Co., 165 Ill. 510; and People v. General Elec. Ry. Co., 172 Ill. 129.</headnotes>
+              <opinion type="majority">
+                <author id="Ayj" pgmap="217">Mr. Justice Brown</author>
+                <p id="ALp" pgmap="217">delivered the opinion of the court.</p>
+                <p id="ABI7" pgmap="217(20) 218(294)">This is an. appeal from a decretal order of a chan­cellor in the Circuit Court dismissing, for want of equity, on general demurrer a bill in equity, which is thus described in his argument by the counsel for com­plainants below and the appellants here. The bill he says sets forth: First, that the complainants are abut­ting and adjacent property owners on and are directly interested in Brand street in the city of Chicago; sec­ond, that except for the nuisance about to be committed by occupation of said street "for railroad purposes, said street is one of the public highways of the city; third, that the Chicago &amp; Northwestern Railway Company is about to obstruct said street with a railroad track, and is about to take possession of said street; fourth, that said Chicago &amp; Northwestern Railway Company pretends to do so under an ordinance passed by the city council of Chicago; fifth, that no attempt has been made to comply with the statute in such case made and provided in reference to frontage consent; sixth, that no petition or frontage consent has ever been signed by the abutting property owners or filed with said city council; seventh, that the said common council of Chi­cago, in violation of the law, granted permission to lay down the track and to commit the nuisance; eighth, that abutting property owners protested both to the committee having the matter in charge, and to the city council, but without avail; ninth, that the railroad track creates a nuisance upon West Fullerton avenue, which is the intersecting street with Brand street, for the reason that said railroad track or switch track crosses Fullerton avenue at a sharp incline from the Fullerton avenue bridge; and tenth, that the attempt by the Chicago &amp; Northwestern Railway Company would cause irreparable injury and damage to the abutting property owners.</p>
+                <p id="b218-5" pgmap="218">The prayer is for a permanent injunction against the proposed action of the defendant.</p>
+                <p id="b218-6" pgmap="218(40) 219(178)">The theory of this bill and its prayer are so in­consistent with the law of this State as it has been declared in C., B. &amp; Q. Railroad Company v. West Chicago Street Railroad Company, 156 Ill. 255, and Pennsylvania Company v. City of Chicago, 181 Ill. 297, and especially and elaborately in Doane v. Lake Street Elevated Railroad Company, 165 Ill. 510, and The People v. The General Electric Railway Company, 172 Ill. 129, with all which cases counsel is undoubtedly familiar, that no explanation of the appeal to this court is possible save that it is a necessary stepping stone to an opportunity to urge on the Supreme Court a reversal or overruling of their formerly announced doctrine. When the Doane case supra (which the ap­pellants’ counsel calls “a judical announcement nulli­fying a wholesome statute”—meaning thereby the frontage consent statute on which he relies) was in this court, there was a dissent by one member of the court, which dissent was based on the “Frontage Act”, and its supposed effect on the right of an abutting property owner in a case like this. But the dissenting-­judge declared that he should bow to the decision of the Supreme Court when made and meanwhile to the opin­ion of the majority of this court.</p>
+                <p id="b219-4" pgmap="219">It is hardly reasonable to expect us now to overrule or disregard the deliberate decisions of the Supreme Court.</p>
+                <p id="b219-5" pgmap="219">The decree of the Circuit Court is affirmed.</p>
+                <p id="b219-6" pgmap="219">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="217" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.2" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.3" BETYPE="IDREF" FILEID="alto_00109_1"/>
+              <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.2" BETYPE="IDREF" FILEID="alto_00110_0"/>
+              <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABi" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.16" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxB" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.12" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-4" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABI7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.20" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayj" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.17" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.6" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASd" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.7" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWY" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.10" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.11" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.7" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACp" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.13" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.14" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFJ" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.9" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqe" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.15" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALp" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.18" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.19" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A98" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.8" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

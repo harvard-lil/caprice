@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0082" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="People v. Crowe">People, etc., for use of Levi W. Sholtey, Appellant, v. Thomas Crowe et al., Appellees</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 450</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00234_1" MIMETYPE="image/tiff" CHECKSUM="3c8a2c0f9622df7ed2eec16e8fa293d7" CHECKSUMTYPE="MD5" SIZE="51064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00234_1.tif"/>
+      </file>
+      <file ID="tiff_00235_0" MIMETYPE="image/tiff" CHECKSUM="ba65c4781ad908160374c5d513eb54f6" CHECKSUMTYPE="MD5" SIZE="48050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_0.tif"/>
+      </file>
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="c5209e5a6c40340759245fd3dfdf9d3e" CHECKSUMTYPE="MD5" SIZE="45992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00234_1" MIMETYPE="image/jp2" CHECKSUM="dbc42c3b721a0421c20dae50a9e34e3f" CHECKSUMTYPE="MD5" SIZE="2377713">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00234_1.jp2"/>
+      </file>
+      <file ID="jp2_00235_0" MIMETYPE="image/jp2" CHECKSUM="3fcdbb922fb219f68455b9838da61b91" CHECKSUMTYPE="MD5" SIZE="2456742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_0.jp2"/>
+      </file>
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="1456493e9afd877791bf01ae7ae3ee4c" CHECKSUMTYPE="MD5" SIZE="2401076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00235_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00234_1" MIMETYPE="text/xml" CHECKSUM="f27bfee10b6dddc6a2e8ba8a06708a49" CHECKSUMTYPE="MD5" SIZE="83834">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00234_1.xml"/>
+      </file>
+      <file ID="alto_00235_0" MIMETYPE="text/xml" CHECKSUM="90f11212c7c513913534fef23d735540" CHECKSUMTYPE="MD5" SIZE="80934">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00235_0.xml"/>
+      </file>
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="899201001856ca0e0f99c5c8f5988c69" CHECKSUMTYPE="MD5" SIZE="79583">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00235_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0082" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="452" firstpage="450">
+              <parties id="b468-7" pgmap="468">People, etc., for use of Levi W. Sholtey, Appellant, v. Thomas Crowe et al., Appellees.</parties>
+              <decisiondate id="A9U" pgmap="469">Opinion filed No­vember 17, 1908.</decisiondate>
+              <attorneys id="b469-6" pgmap="469">Charles M. Peirce and Schneider &amp; Schneider, for appellant.</attorneys>
+              <attorneys id="b469-7" pgmap="469">Sigmund Livingston, Cloud &amp; Thompson and Frank Lindley, for appellees.</attorneys>
+              <summary id="b469-5" pgmap="469">Trial of right of property. Appeal from the Circuit Court of Ford county; the Hon. George W. Patton, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AnW" pgmap="469">Affirmed.</disposition>
+              <headnotes id="b468-9" pgmap="468(52) 469(18)">Damages—when allegation of special, essential. The rule is that whenever the damages sustained have not necessarily accrued from the act complained of, and consequently are not implied by law, then in order to prevent surprise of the defendant which might otherwise ensue on the trial, the plaintiff must in general state the particular damage which he has sustained, or he will not he per­mitted to give evidence of it.</headnotes>
+              <opinion type="majority">
+                <author id="b469-8" pgmap="469">Mr. Presiding Justice Puterbaugh</author>
+                <p id="A8q" pgmap="469">delivered the opinion of the court.</p>
+                <p id="b469-9" pgmap="469">Upon the reversal of a former judgment in this cause and the remandment of the same to the Circuit Court (130 Ill. App. 349), the cause was submitted to another jury upon the issues whether there was any record of the supposed judgment of the County Court in the pro­ceedings for the trial of the rights of property, and whether the property taken by Crowe was that of Otto and Mary Taylor or of Sholtey. Both issues were established in favor of appellant. At the close of all the evidence the court instructed the jury to find the issues in favor of the plaintiff and assess his damages at one cent. Upon a verdict so returned, judgment was rendered in debt for the penalty of the bond and for one cent damages.</p>
+                <p id="b469-10" pgmap="469(104) 470(149)">The chief controversy upon the trial was as to the amount of damages to which Sholtey was entitled under the pleadings. After he had proved the taking of the property, appellees, in mitigation of damages, proved that the same had been returned to the possession of Sholtey. Sholtey then offered to prove in rebuttal that in order to procure said return of the property he had been compelled to pay a large sum of money for travel­ing and other expenses, court costs and attorney’s fees; but- the court held such evidence improper under the pleadings. He then sought further to prove the fair cash value of the property at the time it was levied upon, and that when returned it had materially de­preciated in value. This, too, the court held improper, for the same reason. We are of opinion that the ruling of the court was proper. If Sholtey desired to recover special damages he should have claimed the same in his declaration. The rule is that whenever the damages sustained have not necessarily accrued from the act complained of, and consequently are not implied by law, then in order to prevent surprise of the defendant which might otherwise ensue on the trial, the plaintiff must in general state the particular damage which he has sustained, or he will not be permitted to give evi­dence of it. 1 Chit. Pl., 397. It follows that there being no proof of other than nominal damages the court properly instructed the verdict returned.</p>
+                <p id="b470-5" pgmap="470">Various other reasons are assigned for reversal, none of which we deem meritorious. The judgment of the Circuit Court was warranted and will therefore be af­firmed.</p>
+                <p id="b470-6" pgmap="470">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="468" ORDERLABEL="450" TYPE="page">
+        <fptr FILEID="tiff_00234_1"/>
+        <fptr FILEID="jp2_00234_1"/>
+        <fptr FILEID="alto_00234_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.2" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_468.3" BETYPE="IDREF" FILEID="alto_00234_1"/>
+              <area BEGIN="BL_468.4" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="469" ORDERLABEL="451" TYPE="page">
+        <fptr FILEID="tiff_00235_0"/>
+        <fptr FILEID="jp2_00235_0"/>
+        <fptr FILEID="alto_00235_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.3" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_469.2" BETYPE="IDREF" FILEID="alto_00235_0"/>
+              <area BEGIN="BL_469.4" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="470" ORDERLABEL="452" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.2" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.3" BETYPE="IDREF" FILEID="alto_00235_1"/>
+              <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8q" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.13" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_469.14" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.8" BETYPE="IDREF" FILEID="alto_00234_1"/>
+            <area BEGIN="BL_469.1" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.5" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b468-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_468.7" BETYPE="IDREF" FILEID="alto_00234_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.6" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9U" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.8" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_469.9" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnW" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.7" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-10" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.16" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_470.1" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-7" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.11" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-6" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.10" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-5" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.5" BETYPE="IDREF" FILEID="alto_00235_0"/>
+            <area BEGIN="BL_469.6" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-9" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.15" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b469-8" BETYPE="IDREF" FILEID="casebody_0082"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_469.12" BETYPE="IDREF" FILEID="alto_00235_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

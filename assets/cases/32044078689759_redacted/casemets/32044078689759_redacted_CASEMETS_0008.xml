@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0008" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Favar v. Riverview Park">Marguerite Favar, Appellee, v. Riverview Park, Ap­pellant</name>
+          <docketnumber>Gen. No. 13,969</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 86</citation>
+          <decisiondate>1908-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="06357dde082b2aaacf44e228123fa5d2" CHECKSUMTYPE="MD5" SIZE="45326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="4da695ffd8ce27370c819a06dbff76d1" CHECKSUMTYPE="MD5" SIZE="48206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="01e717e112be9362f25271c7ada6579d" CHECKSUMTYPE="MD5" SIZE="52948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="3e78bd235219ce5414974739f56789e6" CHECKSUMTYPE="MD5" SIZE="52784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="922b6086fbf4af171e8ceec135375168" CHECKSUMTYPE="MD5" SIZE="50502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="61e753d1fcbea514219a47331f63d8bc" CHECKSUMTYPE="MD5" SIZE="50242">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="ab894a7d86b4d5d357d320a29b589e9d" CHECKSUMTYPE="MD5" SIZE="2279885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="0d39fdb567e93015961521f9c9fde78e" CHECKSUMTYPE="MD5" SIZE="2356843">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="db0ab7b3d47e9e66fd886afe99625ea1" CHECKSUMTYPE="MD5" SIZE="2342652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="bedbdd86fd85254f118fde8a2a206c10" CHECKSUMTYPE="MD5" SIZE="2406503">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="1d7fea42a2a195d8c9ac265eeafeee70" CHECKSUMTYPE="MD5" SIZE="2325675">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="83a99608ee520b81b1288d3ab34155ce" CHECKSUMTYPE="MD5" SIZE="2368719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="ab07157a11393e0be378cff7417ceb9c" CHECKSUMTYPE="MD5" SIZE="74014">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="f7ba2832baafbad16439ff717fde50b1" CHECKSUMTYPE="MD5" SIZE="90398">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="37e04208c261d44a6653ac41ed9f2812" CHECKSUMTYPE="MD5" SIZE="85490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="e962b2e21f68bdc54f4131988e6b2eac" CHECKSUMTYPE="MD5" SIZE="83656">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="915b8c78574ab87af8d53f1e6d4e7033" CHECKSUMTYPE="MD5" SIZE="85361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="cbdb73e433acb570e8f5fbf26fb276c1" CHECKSUMTYPE="MD5" SIZE="81820">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0008" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="91" firstpage="86">
+              <docketnumber pgmap="102" id="b102-8">Gen. No. 13,969.</docketnumber>
+              <parties pgmap="102" id="b102-7">Marguerite Favar, Appellee, v. Riverview Park, Ap­pellant.</parties>
+              <decisiondate pgmap="103" id="Az9">Opinion filed October 8, 1908.</decisiondate>
+              <otherdate pgmap="103" id="A6M">Heard in this court at the October term, 1907.</otherdate>
+              <attorneys pgmap="103" id="b103-6">Joseph H. Fitch, for appellant.</attorneys>
+              <attorneys pgmap="103" id="b103-7">Edward R. Litzinger, for appellee.</attorneys>
+              <summary pgmap="103" id="b103-5">Assumpsit. Appeal from the County Court of Cook county; the Hon. Wm L. DeWodp, Judge, presiding.</summary>
+              <disposition pgmap="103" id="Aj4">Reversed and remanded.</disposition>
+              <headnotes pgmap="102" id="b102-9">1. Damages—what evidence not competent to establish. Evi­dence of the value of an amusement park "privilege” estimated by-­guessing at or stipulating upon future uncertain profits, is incom­petent. Elements or facts which support the estimate must be given in order to render it competent.</headnotes>
+              <headnotes pgmap="103" id="b103-3">2. Damages—when loss of future profits should not he awarded. Loss of future profits of a purely speculative nature cannot properly be included in an award of damages.</headnotes>
+              <headnotes pgmap="103" id="b103-4">3. Mbastjbe op damages—in action for failure to give possession of leased premises. The measure of damages for failure to give possession of leased premises is the difference between the actual rental value and the rent reserved to be paid by the lease. The same rule applies to a farm, a dwelling house, a hotel or business prem­ises. The rule is varied in the case of an established business, in which case the measure of damages would be the difference between the rent and the value of the lessee’s business, which would neces­sarily include an allowance for profits.</headnotes>
+              <opinion type="majority">
+                <author pgmap="103" id="b103-8">Mr. Justice Holdom</author>
+                <p pgmap="103" id="ASN">delivered the opinion of the court.</p>
+                <p pgmap="103" id="b103-9">The conclusion reached by the court necessitates a new trial of the cause; consequently the questions of fact involved rest for their solution with the jury be­fore whom the cause may be next tried, or the judge of the County Court, if a trial by jury should be waived. We shall therefore only refer to such portions of the evidence as from its nature involve questions of law.</p>
+                <p pgmap="103" id="b103-10">The basis of this action is the non-performance upon the part of appellant of its undertaking in the follow­ing writing;</p>
+                <blockquote pgmap="103" id="b103-11">'‘ Chicago, June 18, 1906.</blockquote>
+                <blockquote pgmap="103(77) 104(51)" id="b103-12">The privilege for the season of 1906 is granted to Marguerite Favar of St. Augustine, Florida, now of Chicago, to install at her own expense the Princess Corena Show with an appropriate wood front and tent back on the South Pike line next east of Photograph G-allery, and to include the vacant space in the rear of the place hereby granted and in the rear of the present booth space reserved to the occupants of said booths between the Photograph Gallery and Bratwurst Res­taurant, providing the sum of one hundred dollars, $100, is paid before possession is taken, and thereafter 25 per cent of the gross receipts, the usual salary of cashier to be selected by the Park company and elec­tricity at cost to the Park.</blockquote>
+                <blockquote pgmap="104" id="b104-5">(’Signed) Wm. M. Johxsox, Secretary.”</blockquote>
+                <p pgmap="104" id="b104-6">On the day of the date of this writing the U. S. Tent &amp; Awning Company sent its check for account of ap­pellee for $100 to appellant, which was afterwards re­turned when appellant discovered that it was unable to deliver to appellee the plot of ground in the writing mentioned. This $100 was paid, it is contended, not for the contract, or as rent, or as a consideration for the making of the contract by appellant, but for the pur­pose, as appellant contends, and the proof indicates, to compensate the then occupant of the plot for removing therefrom Ms unprofitable paraphernalia, termed a “Razzle Dazzle,” so that appellee might instal thereon her contemplated “Princess Corena” show.</p>
+                <p pgmap="104(171) 105(22)" id="b104-7">Appellant did not comply with the terms of its con­tract for the reason, so it claims, that it could not pro­cure the removal of the so-called “Razzle Dazzle.” Appellee commenced this suit m an effort to recover damages which she claims she suffered consequent upon appellant’s failure to carry out its part of said contract. Appellee contends that the writmg in ques­tion is a “privilege,” and proceeded to prove damages upon the theory of the value of such privilege; while appellant contends that the writing is in the nature of a lease of the plot of ground therein described, and that the percentage of receipts fixed as compensation for its use is rent therefor, and that damages for a breach must be measured upon the principles applicable to a failure to give possession under a covenant so to do usually found in leases of realty. We do not regard it as necessarily affecting the rights of the parties or our decision of the controversy, whichever of these two methods are adopted in admeasuring the damages to be awarded, for under either theory the measure of damages must be the samé.</p>
+                <p pgmap="105(319) 106(128)" id="b105-4">Following the delivery of the contract appellee caused to be ordered material consisting of canvas and lumber sufficient to construct a tent 28x50 with wooden flooring, stage, etc., to cost $1,065, and enough canvas was cut the evening of the same day from which the tent could be constructed. Notwithstanding appellant notified appellee that possession of the land could not be given, work was continued on tent construction for two days, and then it appears from appellee’s proof, the canvas was thrown “on the scrap pile;” but why this canvas should have been discarded in view of the fact that two days subsequent to its abandonment ap­pellee secured a similar plot of land at San Souci Park in which she installed a canvas tent of nearly the same dimensions and constructed of the same kind of canvas in shape and color, the evidence does not disclose. Ap­pellee engaged for the show contemplated to be given on appellant’s premises four young women performers at a weekly salary of $20 each, but these engagements were canceled without expense or other loss to appel­lee. .Appellee also bought 2,000 descriptive posters costing $20. It may be assumed that the cost of these posters was a loss to appellee. The amount of recov­ery, however, was predicated upon the value of the con­tract as a “privilege” and for profits estimated that appellee would have received had appellant let her into possession of the plot of land set out in the contract. Appellee testified that the value of the “privilege” was. $800. Her testimony was purely conjectural and not supported by any fact from which the jury could com­pute the amount of damages actually sustained. Her testimony on this point was her conclusion only. On objection the same was properly stricken from the rec­ord. Appellee’s witness Schwartz testified that the “privilege” was worth $2,000, but failed to state any fact or element from which, his conclusion as to value could be verified. He thought it was worth that amount, but his estimate was purely- speculative. Ap­pellant’s motion to exclude Schwartz’s testimony from the record should have been allowed, and in failing to do so the court committed reversible error. The in­struction given to the jury as to the measure of dam­ages was erroneous. The business intended to be conducted by appellee was a new venture and the prof­its, if any, which might be realized uncertain and purely speculative. In this situation appellee cannot recover on account of expected profits, as there is nothing tangible in the evidence to prove that a profit would have been made. Hair v. Barnes, 26 Ill. App. 580.</p>
+                <p pgmap="106" id="b106-5">The measure of damages for failure to .give posses­sion of leased premises is the difference between the actual rental value and the rent reserved to be paid by the lease. The same rule applies to a farm, a dwelling house, a hotel or business premises. The rule is varied in the case of an established business, in which case the measure of damages would be the dif­ference between the rent and the value of the lessee’s business, which would necessarily include an allow­ance for profits. Hexter v. Knox, 63 N. Y. 561; Papo­sky v. Munkwitz, 68 Mo. 322.</p>
+                <p pgmap="106" id="b106-6">But if the business were a new one, there could be no recovery for profits, and in that case the measure of damages would be restricted to those recoverable under the rule first recited. The profits which appel­lee might have made had she installed her show in appellant’s park are purely speculative. The rule for assessment of damages is thus stated in 1 Suther­land on Damages, p. 111:</p>
+                <blockquote pgmap="106(48) 107(63)" id="b106-7">“The cardinal rule in relation to the damages to be compensated on the breach of a contract that the plaintiff must establish the quantum of his loss by evidence from which the jury will be able to establish the extent of his injury, will exclude all such elements of injury as- are incapable of being ascertained by the usual rules of evidence to a reasonable degree of cer­tainty. Instances of such uncertain damages are prof­its expected from a whaling voyage, and the gains which depend in a great measure upon chance; they are too purely speculative to be capable of entering into compensation for non-performance of a con­tract.”</blockquote>
+                <p pgmap="107" id="b107-4">The profits to be made from a show of the character of the one appellee intended to exhibit in appellant’s park are just as uncertain as those to be expected from a whaling voyage, for both depend very largely for their success upon the weather being fair or foul. As said in Lewis v. Atlas Co., 61 Mo. 534: “In fact, the success of such enterprise depends on so many contingencies that we can conceive of no means of making the necessary proof on which to found a ver­dict. No rule for such ascertainment can be predi­cated. Past success in similar enterprises will not do. Conditions may not always remain the same.” This reasoning applies with equal force to appellee’s claim for anticipated profits as well as her attempt to fix upon a value of the contract as a “privilege.”</p>
+                <p pgmap="107" id="b107-5">Appellee is entitled, in no event, to recover more than the actual damages sustained by her by reason of appellant’s breach of its contract with her, if it shall be found to have been guilty of a breach thereof, and such damage must be proven with a reasonable degree of certainty and devoid of all speculative fea­tures and free from conjecture.</p>
+                <p pgmap="107" id="b107-6">We think the instruction asked by appellant should have been given, as it contains all the essential ele­ments of damage which appellee is in any event enti­tled to recover. Its refusal was error prejudicial to appellant.</p>
+                <p pgmap="107" id="b107-7">The judgment of the County Court is reversed and the cause remanded for a new trial conformable to the views here expressed.</p>
+                <p pgmap="107" id="b107-8">jReversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="102" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.3" BETYPE="IDREF" FILEID="alto_00051_1"/>
+              <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.1" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+              <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="88" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.3" BETYPE="IDREF" FILEID="alto_00052_1"/>
+              <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.2" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+              <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.3" BETYPE="IDREF" FILEID="alto_00053_1"/>
+              <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.2" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+              <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.8" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.7" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.9" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.18" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.15" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-3" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.10" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.14" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.13" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-12" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.21" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.20" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.19" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.8" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.11" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.12" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.7" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.9" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.6" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.7" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASN" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.16" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.17" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6M" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

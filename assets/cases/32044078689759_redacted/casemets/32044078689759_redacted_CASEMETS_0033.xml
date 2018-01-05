@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689759_0033" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Hedenberg v. Nash">J. C. Hedenberg, Appellant, v. Nora Nash, Appellee</name>
+          <docketnumber>Gen. No. 5,048</docketnumber>
+          <citation category="official" type="bluebook">144 Ill. App. 252</citation>
+          <decisiondate>1908-10-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T04:13:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-24T11:20:59Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160203-116</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="44738adb35749aaee3bbdc873ba3defb" CHECKSUMTYPE="MD5" SIZE="41950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="da6ff4627caceafc2b270cebf9d2beb1" CHECKSUMTYPE="MD5" SIZE="53584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="4c00e51a9740adac0a324c6492e5e67c" CHECKSUMTYPE="MD5" SIZE="52342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="3d35ec1c8319d4d12c6e0149163666b3" CHECKSUMTYPE="MD5" SIZE="46700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="fe6304fe705c24f998630f88170d7ec2" CHECKSUMTYPE="MD5" SIZE="2283387">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="978d02f828b3754800f2a190b03d6ebd" CHECKSUMTYPE="MD5" SIZE="2409662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="2aa2bd023e09595b4e8322301925ff31" CHECKSUMTYPE="MD5" SIZE="2372030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00135_1.jp2"/>
+      </file>
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="9b868c4bb9aa42f32a2d02bb52b909a8" CHECKSUMTYPE="MD5" SIZE="2355440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689759_00136_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="352ded09408dab882d8661a9a6324b93" CHECKSUMTYPE="MD5" SIZE="77093">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="12c4c629c7fe326b88a11edbee041264" CHECKSUMTYPE="MD5" SIZE="84091">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="93e5832c446e0a2a023010cc039524b6" CHECKSUMTYPE="MD5" SIZE="89086">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00135_1.xml"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="712be25a9b9e6980914ad5d8f482a3e2" CHECKSUMTYPE="MD5" SIZE="79269">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689759_redacted_ALTO_00136_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="255" firstpage="252">
+              <docketnumber pgmap="268" id="b268-5">Gen. No. 5,048.</docketnumber>
+              <parties pgmap="268" id="b268-4">J. C. Hedenberg, Appellant, v. Nora Nash, Appellee.</parties>
+              <decisiondate pgmap="268" id="AnG">Opinion filed October 14, 1908.</decisiondate>
+              <otherdate pgmap="268" id="A6n">Heard in this court at the April term, 1908.</otherdate>
+              <attorneys pgmap="268" id="b268-9">W. T. Smith and Robinson &amp; Lewis, for appellant.</attorneys>
+              <attorneys pgmap="268" id="b268-10">Eugene W. Welch, for appellee.</attorneys>
+              <summary pgmap="268" id="b268-8">Action on the case. Appeal from the Circuit Court of Knox county; the Hon. Robert J. Grier, Judge, presiding.</summary>
+              <disposition pgmap="268" id="Aeg">Affirmed.</disposition>
+              <headnotes pgmap="268" id="b268-6">1. Evidence—what essential to admission of secondary. In order to let in secondary evidence of the contents of a written instru­ment, the person in whose possession it was last traced, must be produced, unless shown to be impossible, in which case, search among his papers must be proved if that can be done.</headnotes>
+              <headnotes pgmap="268" id="b268-7">2. Libel—when published article not competent. A newspaper containing an alleged libelous article is not competent against an individual not connected with the paper which caused the pub­lication of such article if the same was set up from the manu­script copy prepared by such individual, unless the non-production of such manuscript copy is duly accounted for.</headnotes>
+              <opinion type="majority">
+                <author pgmap="268" id="b268-11">Mr. Justice Willis</author>
+                <p pgmap="268" id="Arq">delivered the opinion of the court.</p>
+                <p pgmap="268" id="b268-12">This was an action on the case by appellant, J. 0. Hedenberg, against appellee, Nora'Nash, to recover damages for causing the publication of an alleged libelous article in a Galesburg newspaper. On the trial at the close of appellant’s testimony in chief, the court, on the motion of appellee, instructed the jury to return a verdict of not guilty, and such a verdict was returned, on which judgment was entered. From this judgment Hedenberg appealed.</p>
+                <p pgmap="268(43) 269(39)" id="b268-13">The declaration contained one count and alleged that appellee caused to be published on August 29, 30 and 31, 1907, in the Daily Republican Register, a newspa­per published in Galesburg, Illinois, having a circula­tion of five thousand copies, the following item:—■ “Renters—J. C. Hedenberg vacated 214 South street owing $40.00 rent. He denied it and showed forged receipts to the constable. He now resides on Garfield avenue.” The declaration averred the same was a false, scandalous and defamatory article, etc.</p>
+                <p pgmap="269" id="b269-5">To the declaration appellee interposed the plea of not guilty, and a plea of justification. Appellant re­plied to the plea of justification, and issues were joined. On the trial the original manuscript of the alleged libelous article was not produced, but appel­lant proved the publication in the Galesburg Daily Register of the articles set out in the declaration, and the circulation of the paper on the days mentioned; that appellee brought the article to the office of such newspaper, and paid for its publication, and that ap­pellee had admitted that she had caused such an ar­ticle to be published. He then offered in evidence the published article counted on in the declaration, to which appellee objected. The court sustained the ob­jection on the ground that the proper foundation had not been laid for the introduction of secondary evi­dence. Appellant made several further attempts to lay the necessary foundation for the admission of the published article, but the court, on appellee’s objec­tion, refused to admit it; thereupon appellant rested, and on the motion of appellee, the court directed the jury to return a verdict of not guilty.</p>
+                <p pgmap="269" id="b269-6">The only question in this case for our consideration is, whether or not the court erred in refusing to admit the published article in evidence. Counsel for appel­lant urges that it should have been admitted because the evidence shows that the original manuscript of the article could not be found, and that the admission of appellee in regard to it made the published article admissible in the absence of the original manuscript.</p>
+                <p pgmap="269(38) 270(17)" id="b269-7">The rule is, “In order to let in secondary evidence of the contents of a written instrument, the person in whose possession it was last traced, must be produced, unless shown to be impossible, in which case, search among his papers must be proved if that can be done.” Prussing v. Jackson, 208 Ill. 85.</p>
+                <p pgmap="270" id="b270-5">The record discloses that one. Bobbins, connected with the paper, testified that it was customary, when notices for publication came in, to take them to the composer’s room, and put them on the copy hook, to be set up on a type-setting machine; that ordinarily the original would be kept until the following night, and then thrown into the waste paper basket. He could not, however, say what was done with the manuscript of this particular article. One Custer, another em­ploye of the paper, testified that he had charge of the circulation of the newspaper, and that it was custom­ary to place the copy on the hook, from which it was taken by the men in the composing room and set in type. It was preserved until the next day to see if there were any objections. If there were none from any of the advertisers, it was destroyed, thrown in to the waste-paper basket and hauled away. He said he looked in the safe, through his files and in the place where they kept copies and letters or copies of let­ters, but was unable to find it. His testimony does not show what was done with this particular manuscript, as to whether there was any objection in this case or whether this copy took the course he testified was the rule. Neither the manager of the composing room, nor any of the compositors were called and inquired of if they knew what was done with the copy after it was set in type. This evidence was insufficient to show appellant’s inability to produce the original manu­script.</p>
+                <p pgmap="270(78) 271(14)" id="b270-6">Prom this evidence, it is shown that the original manuscript was last in the possession of the employes of the composing room, that is of the one who took it from the copy hook to set it in type, and that person was not called, nor was it shown to be impossible to call him or the other compositors. The evidence was not sufficient to show appellant’s inability to produce the original manuscript and thus lay the foundation for the admission of secondary evidence of the con­tents of the published article.</p>
+                <p pgmap="271" id="b271-5">Counsel for appellant urge that the published arti­cle should have been admitted for the reason that ap­pellant proved appellee’s admission that she prepared the article and sent it to the newspaper, and that after it was printed, her attention was called to it, it being read to her, and that she said that she had taken it to the office and had it printed. This question is no longer an open one in this state as will be seen from the opinion in the case of Trussing v. Jackson, supra, where the authorities are reviewed. A further dis­cussion of the law on that point in this case is there­fore unnecessary, and we will content ourselves by quoting from that case the following: “To hold the testimony of the plaintiff that the defendant said to or in the hearing of such plaintiff that a writing ma­terial to be produced in evidence • contained certain statements to be sufficient to deprive the defendant of the right to be judged by the writing itself, is to abrogate in its entirety the rule that the contents of a written instrument cannot be proved by parol in the absence of proof accounting for and excusing the non-­production of the writing.” This, in our opinion, fully answers appellant’s contention.</p>
+                <p pgmap="271" id="b271-6">There being no evidence before the jury upon which they could find a verdict, there was no error in the court directing them to return a verdict in favor of appellee. The judgment is therefore affirmed.</p>
+                <p pgmap="271" id="b271-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="268" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.2" BETYPE="IDREF" FILEID="alto_00134_1"/>
+              <area BEGIN="BL_268.3" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="253" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+              <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="254" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.2" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.3" BETYPE="IDREF" FILEID="alto_00135_1"/>
+              <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.2" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+              <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.15" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.8" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.9" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.7" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.6" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6n" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.10" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.11" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeg" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.12" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnG" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.13" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.14" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.17" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.16" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-13" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.21" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_269.1" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.20" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.7" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arq" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.18" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.19" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            <area BEGIN="BL_271.1" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

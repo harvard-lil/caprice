@@ -1,0 +1,748 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0017" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Ludwig v. James A. Brady Foundry Co.">John E. Ludwig, Appellee, v. James A. Brady Foundry Company, Appellant</name>
+          <docketnumber>Gen. No. 14,072</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 144</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="53ea0844162a855cd947fb41f140429d" CHECKSUMTYPE="MD5" SIZE="42176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="de3974ff2ba4a83060ad8bf43c813ca2" CHECKSUMTYPE="MD5" SIZE="46190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="b86361b11f2fcbae914d929be686b6ff" CHECKSUMTYPE="MD5" SIZE="54564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="82f52e0b2c4542d0199cf0751c3a813f" CHECKSUMTYPE="MD5" SIZE="53466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="1c450385a55347ef480466c621d822e8" CHECKSUMTYPE="MD5" SIZE="55284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00083_1.tif"/>
+      </file>
+      <file ID="tiff_00084_0" MIMETYPE="image/tiff" CHECKSUM="61e738010e994068cfc00bd1842ef718" CHECKSUMTYPE="MD5" SIZE="56194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_0.tif"/>
+      </file>
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="3f5b234ea4c41c1f153f5599bb891da3" CHECKSUMTYPE="MD5" SIZE="45190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="cb7ff3bcf55e08056fd36cf0bc803b26" CHECKSUMTYPE="MD5" SIZE="2330442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="61e14b37107962c389b154b7c4cfd39b" CHECKSUMTYPE="MD5" SIZE="2421553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="793677f4a033206169127ef289fa7284" CHECKSUMTYPE="MD5" SIZE="2419235">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="6aef0f46f7ca93d5e44003d843e3053b" CHECKSUMTYPE="MD5" SIZE="2469781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="ff23614559403a08d90485db222b3188" CHECKSUMTYPE="MD5" SIZE="2449142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00083_1.jp2"/>
+      </file>
+      <file ID="jp2_00084_0" MIMETYPE="image/jp2" CHECKSUM="64f1dcf4fdd03cc92023fd7ff8344a29" CHECKSUMTYPE="MD5" SIZE="2513184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_0.jp2"/>
+      </file>
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="70f48d1dcbbb1a274b909c4c6414fb64" CHECKSUMTYPE="MD5" SIZE="2362975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00084_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="595df531e334c555257382ee69ed079e" CHECKSUMTYPE="MD5" SIZE="73578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="5d6d7bffb20f7ee6fedda7e5cc0948fa" CHECKSUMTYPE="MD5" SIZE="78186">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="f01c55e055e22761c2a194fb89559b0f" CHECKSUMTYPE="MD5" SIZE="85191">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="a3ff7893c06362a882b1d5ee3511cf8b" CHECKSUMTYPE="MD5" SIZE="91010">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="7ddc886d1edbc6038b50cffbdafa57dc" CHECKSUMTYPE="MD5" SIZE="86134">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00083_1.xml"/>
+      </file>
+      <file ID="alto_00084_0" MIMETYPE="text/xml" CHECKSUM="c9aa26037b9f9b39d21b807b06a95f32" CHECKSUMTYPE="MD5" SIZE="94675">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00084_0.xml"/>
+      </file>
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="b9a1a823eb03d1925c08d1e0ebfe56ff" CHECKSUMTYPE="MD5" SIZE="79936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00084_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="150" firstpage="144">
+              <docketnumber id="b162-5" pgmap="162">Gen. No. 14,072.</docketnumber>
+              <parties id="b162-4" pgmap="162">John E. Ludwig, Appellee, v. James A. Brady Foundry Company, Appellant.</parties>
+              <decisiondate id="ABC" pgmap="162">Opinion filed December 7, 1908.</decisiondate>
+              <attorneys id="b162-8" pgmap="162">Ashcraft &amp; Ashcraft, for appellant; E. M. Ash­craft, of counsel.</attorneys>
+              <attorneys id="b162-9" pgmap="162">Walter J. Miller, for appellee.</attorneys>
+              <summary id="b162-7" pgmap="162">Trespass on the case. Appeal from the Superior Court of Cook county; the Hon. Ben M. Smith, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="AAH" pgmap="162">Reversed and remanded.</disposition>
+              <headnotes id="b162-6" pgmap="162">Verdict—when set aside as against the evidence. It is the duty of the Appellate Court to set aside a verdict which is manifestly against the weight of the evidence regardless of the motive which may have influenced the jury in rendering it.</headnotes>
+              <opinion type="majority">
+                <author id="b162-10" pgmap="162">Mr. Presiding Justice Adams</author>
+                <p id="Ajj" pgmap="162">delivered the opinion of the court.</p>
+                <p id="b162-11" pgmap="162">The declaration in this case consists of three counts, the third of which is only necessary to be considered, and which is as follows :</p>
+                <p id="b162-12" pgmap="162(136) 163(81)">“Third Count. Whereas, on the 2nd day of May, 1904, by an agreement in writing attached and marked Exhibit ‘A', and a verbal modification of this agree­ment, that if the plaintiff would introduce the defend­ant to certain persons and corporations, and the work of such persons or corporations was obtained, the de­fendant would pay the plaintiff the commissions indi­cated in agreement Exhibit ‘A’, and pursuant to said undertaking, the plaintiff began to solicit work for the defendant and to look after the work so solicited, so long as the same was to the mutual advantage of the plaintiff and defendant, and until he was requested by defendant to discontinue to look after said work, and defendant accepted said work and performed the same; and there became due plaintiff from defendant, as com­missions on account of the agreement and modification thereof, for services rendered by plaintiff for the de­fendant, large sums of money, to-wit, $3,500, and being so indebted, the defendant, in consideration thereof, then and there promised the plaintiff to pay him the said sums of money at his request; yet the defendant, though requested, has not paid the same, nor any part thereof, to the plaintiff, but neglects and refuses to do so, to the damage of the plaintiff”, etc.</p>
+                <p id="b163-4" pgmap="163">Exhibit A referred to in the count is as follows:</p>
+                <p id="b163-5" pgmap="163">“Chicago, May 2, 1904.</p>
+                <p id="b163-6" pgmap="163">Me. John E. Ludwig,</p>
+                <p id="b163-7" pgmap="163">Dear Sir: We agree to pay you a commission of 5% to solicit work for our Foundry.</p>
+                <p id="b163-8" pgmap="163">All accounts so solicited subject to our approval. We will defray all expense incurred in the delivery of the castings.</p>
+                <p id="b163-9" pgmap="163">Settlements of your commissions to be made with itemized statement, not later than the 15th of each fol­lowing month.</p>
+                <p id="b163-10" pgmap="163">This agreement to hold good on all orders so solicited by you, whether we do the work continuously or not, so long as you look after the customers to the mutual advantage of us both. ^ Tours very truly,</p>
+                <p id="b163-11" pgmap="163">Jas. A. Brady Fdry. Co.,</p>
+                <p id="b163-12" pgmap="163">per G. S. Burtis, Treas.</p>
+                <p id="b163-13" pgmap="163">Above accepted.</p>
+                <p id="b163-14" pgmap="163">John E. Ludwig,</p>
+                <p id="b163-15" pgmap="163">443 La Salle Ave.,</p>
+                <p id="b163-16" pgmap="163">Ch’go, Ill.”</p>
+                <p id="b163-17" pgmap="163">The defendant pleaded the general issue. The jury found for the plaintiff and assessed his damages at the sum of $1,076.10, from which the plaintiff remitted $13. The defendant moved for a new trial and in arrest of judgment, which motions the court overruled and ren­dered judgment for $1,063.10.</p>
+                <p id="b163-18" pgmap="163(32) 164(14)">Defendant’s counsel contend that the third count does not aver compliance with the alleged modified agreement; and that even though such compliance had been averred, the evidence would not sustain the decla­ration; and that the verdict is contrary to the manifest weight of the evidence.</p>
+                <p id="b164-5" pgmap="164">Plaintiff’s counsel, in his argument, says, in sub­stance, that Exhibit A was put in evidence for the pur­pose of fixing the basis of compensation of the plaintiff, under the special contract, and that the action was not brought on Exhibit A. We concur in this view. But, in the third count, after averring the modification to have been “that if the plaintiff would introduce the defendant to certain persons and corporations, and the work of such persons or corporations was obtained, the defendant would pay the plaintiff the commissions in­dicated in agreement Exhibit A”, it is not averred that the plaintiff introduced the defendant to any person or corporation. The cause, however, was tried on the theory that proof of such introduction by the plaintiff is necessary to a recovery; and counsel for plaintiff substantially admits this, saying: “A special contract with regard to the work of the Morgan-Gardner Elec­tric Co. was made between Ludwig and the James A. Brady Foundry Company, four or six days after the making of the general agreement, by which he was to get commission upon all the work done by the James A. Brady Foundry Company for the Morgan-Gardner Electric Company, upon the condition that he would introduce Mr. Meehan, superintendent of the James A. Brady Foundry Company, to the person in the Mor­gan-Gardner Company who signed contracts”.</p>
+                <p id="b164-6" pgmap="164">A stipulation between the parties, read in evidence, contains the following: “It is hereby stipulated that the sole controversy in this cause is as to whether or not the plaintiff is entitled to receive from the defend­ant commission for work done by the defendant for the Morgan-Gardner Electric Co.; that the amount of work done for the Morgan-Gardner Electric Co. to the time of the institution of this action was $20,752.85”, etc.</p>
+                <p id="b164-7" pgmap="164(27) 165(259)">It was incumbent on the plaintiff to prove what the contract was. He testified that Robert Burtis, defend­ants secretary and general manager, said to him: “If you will get the work, John Meehan will go out there any time that you want him to, and if you get the work he will pay you your regular commission”. Asked by the court to repeat the answer, he said: “He says, ‘John will go out there at any time you want; John Meehan will go out there any time you want him to, to help you with the work, and if we get this work we will pay you your regular commission’.” John Meehan was defendant’s superintendent. Plaintiff testified that the foregoing was said by Bnrtis in Meehan’s presence. On cross-examination of plaintiff, he testi­fied that, in the first conversation he had with Mr. Bnrtis about the work of the Electric Co., Meehan be­ing present, Burtis asked plaintiff abont introducing them to the man with the Electric Co., who signed con­tracts. He was then asked this question: “And which one of them was it that you say told you if you would introduce them over there to the man who signed the contracts, and they got the contract, that they would pay you your commission on it ? ” A. “ That was Mr. Burtis”. Then followed a series of questions as to whether either Mr. Burtis or Mr. Meehan said this, which the witness, by his answers, evidently sought to evade, until finally yielding to persistent cross-exam­ination, he said that the introducing Mr. Meehan to the man who signed the contracts was his own suggestion, when he was questioned and answered thus:</p>
+                <p id="b165-4" pgmap="165">“Q. Well, did either of them say that, or words to that effect, that if you would introduce them over there to the man that signed the contracts, and they got the contract, you would get the commission?</p>
+                <p id="b165-5" pgmap="165">A. Not that I remember of”.</p>
+                <p id="b165-6" pgmap="165(67) 166(35)">The witness admits that he did not know, person­ally, any one connected with the Morgan-Gardner Elec­tric Co., and he testified that, by appointment made with Mr. Burtis, he went with Meehan to the office of the Electric Company, presented to Mr. Ryan, secre­tary and general manager of that company, Mr. Mee­han’s card, as if it were his own, and said to Mr. Ryan that Mr. Meehan was the superintendent of the foundry. In other words,*, that he, a person utterly un­known to Mr. Ryan, assumed to be a Mr. Meehan and introduced another Meehan to Mr. Ryan.</p>
+                <p id="b166-5" pgmap="166(312) 167(387) 168(43)">Mr. Mighell, general superintendent and purchasing-­agent of the Morgan-Gardner Electric Company, was called as a witness for plaintiff, and testified that, some days before Ludwig called at the office of the company, he had determined to buy the goods wanted from the defendant; that he had looked up different foundries and would contract with the defendant; also that he, witness, found about the Brady Foundry Co. through the superintendent of the Davis &amp; Ludwig Co. No other witness was called by the plaintiff. Mr. Ryan testified that he first met plaintiff in his office, but didn’t remember whether Mr. Meehan was present, and can’t remember plaintiff introducing him to Mr. Mee­han. He further testified that, before the contract with defendant was made, he had instructed Mr. Mighell to look up several foundries and report to him, which Mr. Mighell did, and selected defendant’s foundry. Mr. Burtis testified that nothing was ever said in his pres­ence, by plaintiff or any one, about plaintiff going to the Electric Co. to solicit business, and that he, witness, was never present at any conversation when it was proposed or talked of, that Ludwig' would introduce witness, Meehan, or any one, to the person at the Mor­gan-Gfardner Electric Co.’s plant who was authorized to sign contracts, and that he, witness, never said to plaintiff, in presence of Mr. Meehan, or at any time, that, if witness or the defendant succeeded in obtaining a contract from the Electric Co., plaintiff would be en­titled to a commission; also that witness never, until the commencement of this suit, heard of any appoint­ment for Mr. Meehan to meet Mr. Ryan. This witness denies, positively, every material part testified to by the plaintiff. Mr. Meehan testified that he had no conversation with plaintiff, prior to obtaining the contract with the Electric Co., and heard none, about plaintiff introducing him to any one of the Electric Co.’s plant; that he, witness, had been at that plant from twelve to fifteen times before he was there with plaintiff, soliciting work, and had seen Mr. Mighell there. In reference to going to the Electric Co.’s plant with plaintiff, Mr. Meehan testified, in substance, that one morning, between 9 and 10 o’clock, plaintiff came to defendant’s foundry with some patterns, and asked witness if he had time to go with him to Nicely Broth­ers, when witness said if he would wait a little he would go, and between ten and eleven o’clock they started for Nicely Brothers’ place, and on their route they came to the Electric Co.’s plant, when witness said, “I guess I will run over here for a few minutes”, and plaintiff said,. “All right, I will go with you”, and when they started to go in there, plaintiff ran up the steps ahead of witness, and as they were going into the door, plaint­iff turned and asked witness for a card, and witness held out to him a package of his cards, which plaintiff took, and rushed in ahead of him; that witness was going to see Mr. Mighell about the work, but plaintiff said, “Wait a minute”, and went into Mr. Ryan’s office, leaving witness in a little reception room. After a minute or two plaintiff motioned witness to come in, and said to Mr. Ryan, “This is Mr. Meehan, superin­tendent of the James A. Brady Foundry Co.”, and Mr. Ryan said that he was too busy, that they would have to excuse him, and referred them to Mr. Mighell, say­ing, “He looks after the buying of castings”, and when they were leaving Mr. Ryan looked at the card and remarked, “You are both Meehans”, and when they were outside, on their way to Nicely Brothers, witness said to plaintiff, “You didn’t know Ryan”, and plaint­iff said, “No, I didn’t know him”, when witness said, “You had a lot of gall to go in there and give him one of my cards and then introduce me”. Witness further testified that, up to the time that plaintiff asked him to go with him to Nicely Brothers there never had been any conversation between them, or between plaintiff or any one else, in witness’ presence, about going with plaintiff to the Electric Co.; that witness had never heard of any such arrangement. We think it unneces­sary to refer further to the evidence, all of which we have carefully read and considered.</p>
+                <p id="b168-5" pgmap="168">We think the verdict manifestly contrary to the pre­ponderance of the evidence. Counsel for the defend­ant is apparently conscious of this, in contending that even though the verdict is against the weight of the evidence, it cannot be set aside unless it is apparent that the jury were actuated by passion or prejudice. Even, if this were the law, it would not help the plaintiff, be­cause, assuming that the jury were men of ordinary intelligence, and that they did not misconceive the evi­dence, which, in view of their verdict, it is difficult to believe, they must have been moved by passion, preju­dice or other improper motive. But such is not the law. It is the duty of this court to set aside a verdict which is manifestly against the weight of the evidence, regardless of the motive which may have influenced the jury in rendering it. C. &amp; A. R. R. Co. v. Heinrich, 157 Ill. 388, 394; C. &amp; E. R. R. Co. v. Meech, 163 ib. 305, 308.</p>
+                <p id="b168-6" pgmap="168">We think that defendant’s refused instruction 1 should have been given. Scanlan v. Chicago Union Trac. Co., 127 Ill. App. 406, 412, and cases cited.</p>
+                <p id="b168-7" pgmap="168">The judgment will be reversed and the cause will be remanded.</p>
+                <p id="b168-8" pgmap="168">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="162" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+              <area BEGIN="BL_162.3" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.2" BETYPE="IDREF" FILEID="alto_00082_0"/>
+              <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+              <area BEGIN="BL_163.20" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+              <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.2" BETYPE="IDREF" FILEID="alto_00083_0"/>
+              <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="148" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.3" BETYPE="IDREF" FILEID="alto_00083_1"/>
+              <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="167" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00084_0"/>
+        <fptr FILEID="jp2_00084_0"/>
+        <fptr FILEID="alto_00084_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.3" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.2" BETYPE="IDREF" FILEID="alto_00084_0"/>
+              <area BEGIN="BL_167.4" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="168" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.2" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.3" BETYPE="IDREF" FILEID="alto_00084_1"/>
+              <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.13" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-13" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.14" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.11" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.12" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAH" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.9" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-17" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.18" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-14" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.15" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-15" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.16" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABC" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.10" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_162.11" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.9" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.10" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.7" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-16" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.17" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajj" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.15" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_162.16" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.8" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_162.8" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            <area BEGIN="BL_167.1" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_168.1" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.7" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.13" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.12" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.6" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.17" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.14" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.18" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.5" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.8" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.7" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-18" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.19" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

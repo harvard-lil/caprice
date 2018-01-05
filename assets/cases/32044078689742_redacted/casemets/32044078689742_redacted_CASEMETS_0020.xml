@@ -1,0 +1,829 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0020" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Robinson &amp; Co. v. Marr">Robinson &amp; Company, Appellant, v. Andrew Marr, Defendant, and Clay-Robinson &amp; Company, Garnishees, Appellees</name>
+          <docketnumber>Gen. No. 14,055</docketnumber>
+          <citation category="official" type="bluebook">145 Ill. App. 178</citation>
+          <decisiondate>1908-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00098_1" MIMETYPE="image/tiff" CHECKSUM="6ee51d92a8ece4f6682ff71a2f29a82e" CHECKSUMTYPE="MD5" SIZE="37426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00098_1.tif"/>
+      </file>
+      <file ID="tiff_00099_0" MIMETYPE="image/tiff" CHECKSUM="b4fb6c05e39054e44e4e9b9681df24bc" CHECKSUMTYPE="MD5" SIZE="53784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00099_0.tif"/>
+      </file>
+      <file ID="tiff_00099_1" MIMETYPE="image/tiff" CHECKSUM="c7bc279c0b6bd8dbba63334716b84e7a" CHECKSUMTYPE="MD5" SIZE="53752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00099_1.tif"/>
+      </file>
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="1d21dce656e19b1ce38e022328aacb90" CHECKSUMTYPE="MD5" SIZE="51106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="52ca4e7433b11bc0cd67043b1360c531" CHECKSUMTYPE="MD5" SIZE="54876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="009bae4ff94edaf4c2e0ebf45073d830" CHECKSUMTYPE="MD5" SIZE="53990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="3f01e57d34796ff2d85cb2515b38ecf4" CHECKSUMTYPE="MD5" SIZE="51462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="92ff56306224f52442b401c412bd06be" CHECKSUMTYPE="MD5" SIZE="53024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="cf291e78dbfdf072e4dfba33a920b610" CHECKSUMTYPE="MD5" SIZE="51760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00102_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00098_1" MIMETYPE="image/jp2" CHECKSUM="6ef3804cf464772c510a03b7d3973cc1" CHECKSUMTYPE="MD5" SIZE="2286093">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00098_1.jp2"/>
+      </file>
+      <file ID="jp2_00099_0" MIMETYPE="image/jp2" CHECKSUM="f4af444e1f45d380b5776b7e084430bb" CHECKSUMTYPE="MD5" SIZE="2487263">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00099_0.jp2"/>
+      </file>
+      <file ID="jp2_00099_1" MIMETYPE="image/jp2" CHECKSUM="27e54a0e2c5f84eab89a4bc2af27ccb7" CHECKSUMTYPE="MD5" SIZE="2453511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00099_1.jp2"/>
+      </file>
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="78f89d9ee2e9c0303ccf1ba4810a8933" CHECKSUMTYPE="MD5" SIZE="2484181">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="1c6542fe1f17b68e77ac5657b2e882cc" CHECKSUMTYPE="MD5" SIZE="2447822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="2f43a5c347a119330497ef36b14d140e" CHECKSUMTYPE="MD5" SIZE="2470129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="b6b0e9546f9efc2bcaaed1e1a040eb3e" CHECKSUMTYPE="MD5" SIZE="2438781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="c085c39c6cdb4716f83a4310da09264b" CHECKSUMTYPE="MD5" SIZE="2483769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="7392d61ad3b0763a16bd927a134bfc0e" CHECKSUMTYPE="MD5" SIZE="2413682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00102_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00098_1" MIMETYPE="text/xml" CHECKSUM="9b97a87c073cfd72fbeffa442cc57d26" CHECKSUMTYPE="MD5" SIZE="67475">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00098_1.xml"/>
+      </file>
+      <file ID="alto_00099_0" MIMETYPE="text/xml" CHECKSUM="2835333fa9badc320c4173f9bbff7e43" CHECKSUMTYPE="MD5" SIZE="88453">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00099_0.xml"/>
+      </file>
+      <file ID="alto_00099_1" MIMETYPE="text/xml" CHECKSUM="5c695fbb48fb381a7a2fad91e5767e88" CHECKSUMTYPE="MD5" SIZE="86839">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00099_1.xml"/>
+      </file>
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="0b788b1fc56855299a5a215dcf4c91fa" CHECKSUMTYPE="MD5" SIZE="82392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="90817393d4e85c784780e99df960fdc1" CHECKSUMTYPE="MD5" SIZE="86782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="2597eb5f0461441472e3ece389a5a6b3" CHECKSUMTYPE="MD5" SIZE="86802">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="7041f2026d3c868c66afc630fbaf63aa" CHECKSUMTYPE="MD5" SIZE="85683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="25671e4845128ffb6c01c095ae057711" CHECKSUMTYPE="MD5" SIZE="87526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="de5918dae5b138ffe10d55019cc40088" CHECKSUMTYPE="MD5" SIZE="85441">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00102_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="186" firstpage="178">
+              <docketnumber id="b196-9" pgmap="196">Gen. No. 14,055.</docketnumber>
+              <parties id="b196-7" pgmap="196">Robinson &amp; Company, Appellant, v. Andrew Marr, De­fendant, and Clay-Robinson &amp; Company, Garnishees, Appellees.</parties>
+              <decisiondate id="AcC" pgmap="196">Opinion filed December 7, 1908.</decisiondate>
+              <otherdate id="A_n" pgmap="196">Rehearing denied December 21, 1908.</otherdate>
+              <attorneys id="b196-14" pgmap="196">Alder, Latham &amp; Young, for appellant.</attorneys>
+              <attorneys id="b196-15" pgmap="196">George V. McIntyre, for appellees.</attorneys>
+              <summary id="b196-13" pgmap="196">Attachment. Appeal from the Circuit Court of Cook county; the Hon. Charles M. Walker, Judge, presiding. Heard in this court at the October term, 1907.</summary>
+              <disposition id="Ac" pgmap="196">Reversed and remanded.</disposition>
+              <headnotes id="b196-10" pgmap="196">1. Appeals and errors—what questions not subject to review. Questions directly concerning only a party not joined in the appeal, will not be considered on review.</headnotes>
+              <headnotes id="b196-11" pgmap="196">2. Publication—when service by, confers jurisdiction. Service by publication undertaken two years after the return of the attach­ment writ, will confer jurisdiction if such service is otherwise regular.</headnotes>
+              <headnotes id="b196-12" pgmap="196">3. Attachments—when error to quash. An attachment in aid should not be quashed and the garnishees discharged on the ground that the publication undertaken did not confer jurisdiction where the defendant has appeared in person and submitted himself to the juris­diction of the court.</headnotes>
+              <opinion type="majority">
+                <author id="b196-16" pgmap="196">Mr. Justice Brown</author>
+                <p id="AcS" pgmap="196">delivered the opinion of the court.</p>
+                <p id="b196-17" pgmap="196(12) 197(107)">On June 14, 1898, one C. C. Binkley began a suit in debt on an Illinois judgment against Andrew Marr, who resided in Iowa. The summons which was issued was returned not found, but on the same date, June 14, 1898, the plaintiff Binkley filed an affidavit and bond for an attachment in aid on account of the non-­residence of the defendant Marr, and secured an at­tachment, writ, in which “John Clay, Jr., Charles O. Robinson and Wm. H. Forest, partners doing busi­ness as Clay, Robinson &amp; Co.”, were named as garni­shees. The writ was served immediately on Clay, Bobinson &amp; Co., and interrogatories to them were filed in the suit on July 2, 1898.</p>
+                <p id="b197-4" pgmap="197">An answer to these interrogatories by Clay, Robin­son &amp; Co. was filed July 25, 1898, and a replication to or traverse of that answer was filed by the plaintiff on March 29, 1900. On September 13, 1902, the issues of law and fact raised by this answer and traverse were submitted by stipulation between the plaintiff and garnishees, on an agreed statement of facts, to the Circuit Court sitting without a jury. These issues related to the steps taken by the garnishees to remit the proceeds of the sale of certain cattle to Andrew Marr on the day of the garnishment, June 14, 1898. The issues were found by the Circuit Court for the garnishees and the garnishees discharged. The plaint­iff appealed to the Appellate Court and on March 1, 1904, the Branch Appellate Court of this District made a decision reversing the judgment of the Circuit Court and remanding the cause to that court. The facts alluded to concerning the remittance of the funds in question will be found in the opinion handed down by the court, which is reported in 112 Ill. App. 332.</p>
+                <p id="b197-5" pgmap="197">The conclusion of the opinion is: “Therefore the finding and judgment of the Circuit Court should have been against and not in favor of the garnishees. The judgment will be reversed, but as the record contains no evidence upon which we can here enter a judgment against Marr, the cause must be remanded. ’ ’</p>
+                <p id="b197-7" pgmap="197(9) 198(92)">The cause was redocketed in the Circuit Court April 9, 1904. The garnishees moved for leave to file an additional answer, which was granted them. On May 14, 1904, they filed such an answer, setting up an entirely different defense, namely, that the funds for which it was sought to hold them accountable never belonged to Andrew Marr, but to the First State Bank of Corwith, Iowa, and to Mary E. Marr, who received them; also that any claim that Binkley, the plaintiff, might have had had been waived and released by his actions in certain bankruptcy proceedings of Andrew Marr.</p>
+                <p id="b198-4" pgmap="198">The plaintiffs on June 2, 1904, moved to strike the additional answer of the garnishees from the files, and this motion was denied. June 29, 1904, the plaintiff filed exceptions to that part of the additional answer of the garnishees which set up the foreclosure, release or estoppel of the plaintiff by his action in the bank­ruptcy proceedings against Marr.</p>
+                <p id="b198-5" pgmap="198(198) 199(20)">July 13, 1905, the Circuit Court sustained these ex­ceptions and struck out this portion of the additional answer of the garnishees. The other portion of the additional answer, alleging that the funds sought to be recovered by the plaintiffs from the garnishees be­longed to Mary E. Marr and that she received them, is left standing undisposed of. But on May 6, 1907, an order appears in the transcript of record giving to “the defendant”, on motion of the “defendant’s at­torney”, leave “to file pleas herein instanter”. Whether this was a mistaken entry or not, it was ap­parently in pursuance of it that the garnishees, by their attorney, filed on the same day a document which is in the transcript of record denominated as “plea”, and purports to show to the court “further reason why the action against them herein should be dismissed”. The “plea” alleges that there is no such record as the judgment sued on, and that the issue to be tried herein on the answer of the garnishees is, whether the prop­erty sold by the garnishees on June 14, 1898, belonged to Mary E. Marr or to the defendant, Andrew Marr, and that this issue had been adjudicated in favor of Mary E. Marr in the bankruptcy proceedings against Andrew Marr.</p>
+                <p id="b199-4" pgmap="199">May 10, 1907, the plaintiff filed exceptions to this “additional answer of the garnishees, termed a plea”, as he denominated it, and moved to strike it from the files.</p>
+                <p id="b199-5" pgmap="199">These exceptions and this motion have never been disposed of except as the discharge of the garnishees hereinafter described disposed of everything in the cause.</p>
+                <p id="b199-6" pgmap="199">In July, 1904, on motion of the plaintiff, the papers in the cause had been amended by the addition of the words “for use of Robinson &amp; Co., a corporation”, immediately after the name of the plaintiff, so that in all cases the plaintiff was named as “C. C. Binkley for the use of Robinson &amp; Co., a corporation”. On June 25, 1907, the plaintiffs’ attorneys suggested the death of the nominal plaintiff, C. C. Binkley, which was entered of record, and the cause ordered to pro­ceed in the name of Robinson &amp; Company, a corpora­tion, as nominal as well as beneficial plaintiff.</p>
+                <p id="b199-7" pgmap="199(152) 200(94)">During the time that the cause had been pending in the Circuit Court after its remandment by the Appel­late Court, various pleadings and orders had grown out of an order of the court entered in June, 1904, on Mary E. Marr and the First State Bank of Corwith to intervene and set up such rights as they might claim. Mary E. Marr was dead and her estate had been fully administered and Andrew Marr, the defend­ant in this suit, filed on September 19, 1904, what he termed “a special interplea” “for the special purpose of showing the rights which Mary E. Marr had to the fund in controversy.” It is entitled “C. C. Binkley v. Andrew Marr, Defendant, Clay, Robinson '&amp; Co., Garnishee”, and begins, “Comes now the defendant, Andrew Marr, for the special purpose” as above stated. It is signed simply “Andrew Marr”. The subsequent pleadings—consisting of demurrers, repli­cations and exceptions and the motions and orders to which this “special interplea” of Andrew Marr gave rise—need not be detailed herein, for as we view the questions submitted to us, they are of no importance in this appeal; the only significance of the “interplea” in this appeal being in the questions which its filing raises—whether Andrew Marr has not by it so ap­peared in this case as to give the Circuit Court juris­diction of him personally as defendant and of any pos­sible effects of his in the hands of garnishees.</p>
+                <p id="b200-5" pgmap="200">On June 25, 1907, also, the following orders were entered by the court: The ad damnum was increased from $1,200 to $2,000 in the præcipe, summons, decla­ration and all subsequent pleadings. A motion of the plaintiff for the default of the defendant, Andrew Marr, and for personal judgment against him for the amount stated in the affidavit for attachment with interest was denied; a motion of the garnishees, Clay, Robinson &amp; Company, for an order to quash the writ of attachment and discharge the garnishees was granted; and thereupon an order was entered dis­charging said garnishees, and giving them a judgment for costs against the plaintiff.</p>
+                <p id="b200-6" pgmap="200">The bill of exceptions shows that on the motion which was denied, for judgment against the defendant, the plaintiff offered in evidence a transcript of a judg­ment against the defendant in Ogle county, Illinois, as described in the declaration, and offered to show that Robinson &amp; Co., the plaintiff, was, when the judgment was entered and still is, the owner of the same.</p>
+                <p id="b200-7" pgmap="200(84) 201(42)">It also shows that after this motion of the plaintiff was denied, the garnishees, Clay Robinson &amp; Co., moved for a quashing of the writ of attachment and their discharge, and that on that motion the counsel for the garnishees “offered in evidence and called the attention of the court to the præcipe, summons, affida­vit for attachment and attachment writ, all of which were dated and issued on June 14, 1898, and offered the return of the attachment writ made on July 18, 1898, and then offered the certificate of publication and the certificate of mailing notice to the defendant, Andrew Marr, dated July 25, 1900, and July 30, 1900, respectively, which was the only evidence submitted or offered upon the hearing of said motion”.</p>
+                <p id="b201-4" pgmap="201">From the judgment quashing the writ of attach­ment, discharging the garnishees and decreeing costs against the plaintiff in favor of the garnishees, the plaintiff appealed to this court, perfecting its appeal by executing and filing an appeal bond to the garni­shees as obligees, reciting the judgment appealed from as “a judgment against the above bounden Robinson &amp; Co. for costs of suit and a judgment discharging” the garnishees. This is the appeal before us.</p>
+                <p id="b201-5" pgmap="201">Although two of the four assignments of error de­clare that the Circuit Court erred in denying the mo­tion of the plaintiff for a personal judgment against the defendant, Andrew Marr, and in denying a mo­tion of the plaintiff for a judgment in attachment against the defendant, Andrew Marr, we do not think that we can pass on these alleged errors or the action of the Circuit Court thereon. Andrew Marr is not a party to this appeal and is not in this court, nor is the appeal from any judgment in his favor.</p>
+                <p id="b201-6" pgmap="201">As we regard the judgment quashing the writ of attachment and discharging the garnishees as errone­ous for the reasons hereinafter stated, we shall re­verse it, but again, as when the judgment in favor of the garnishees was reversed by the Branch Appellate Court, the cause must be remanded.</p>
+                <p id="b201-7" pgmap="201">The only ground on which the writ of attachment was quashed and the garnishees discharged, was that on the face of the record, the court had lost jurisdic­tion of the cause long before the trial of the issues between the garnishees and the plaintiff which re­sulted in the appeal to this court in 1902.</p>
+                <p id="b201-8" pgmap="201(31) 202(13)">The reason given is that the writ of attachment in aid was sued out and returned served on the garnish­ees in June, 1898, and no publication of it was made or notice of it sent to the defendant, Andrew Marr, until July, 1900.</p>
+                <p id="b202-5" pgmap="202">It is conceded that there is no specific statutory limit for the time of publication and notice. The stat­ute concerning original attachments merely provides that no default or proceeding shall be taken against any defendant not served with summons, unless he shall appear, until the expiration of ten days after the last publication, and that if for want of due publica­tion of service the cause shall be continued, the same proceedings shall be had at a subsequent term of the court as might have been had at the term to which the writ is returnable.</p>
+                <p id="b202-6" pgmap="202">The statute concerning publication in the case of attachments in aid is: “Upon the return of attach­ments issued in aid of actions pending, unless it shall appear that the defendant or defendants have been served with process in the original cause, notice of the pendency of the suit and of the issue and levy of the attachment, shall be given as is required in cases of original attachment, and such notification shall be sufficient to entitle the plaintiff to judgment and the right to proceed thereon against the property and es­tate attached and against garnishees in the same man­ner and with like effects as if the suit had been com­menced by attachment”.</p>
+                <p id="b202-7" pgmap="202">It is, however, contended by the appellees that the decisions of this court in Parker v. Scheller, 60 Ill. App. 621, and Britton v. Gregg, 96 Ill. App. 29, so construe this statute as to show that “Upon the return of attachments issued in aid” means within a reason­able time thereafter, and that two years is an unrea­sonable time, and that the delay in publication and notice for that length of time in the present case, lost for the court all jurisdiction of everybody and every­thing in the cause.</p>
+                <p id="b202-8" pgmap="202(28) 203(113)">Each of the cases in question was a case in which default judgments were entered against the original defendant and the appeal was by him. In Parker v. Scheller, the notice was sent to a place of residence which had been indicated by an affidavit filed nearly three years before. In such a case the notice, the ob­ject of which was to inform the defendant of the pend-­ency of the suit, might well fail to reach him. It presumably did do so in Parker v. Scheller, since he made default, but afterward appeared and appealed. In the case at bar the notice was sent to an address declared unqualifiedly to be the then residence of the defendant, by an affidavit of an agent of the plaintiff made and filed five days before the notice was sent in July, 1900.</p>
+                <p id="b203-4" pgmap="203">This differentiates the two cases very materially, especially as subsequent proceedings show that in whatever capacity Andrew Marr appeared in the cause at bar in 1904, he had notice of it and of what was going on in it, and no default had been taken against him before he had such notice.</p>
+                <p id="b203-5" pgmap="203">In Britton v. Gregg, 96 Ill. App. 29, it does appear that the notice was sent to the place, which by an affi­davit filed about a month before, had been stated to be the place of residence of the defendant “when last heard from”, and of it the court says: “The filing of the affidavit of non-residence of Serra V. Gallivan stating her then place of residence and the mailing of the copy of publication to her, more than two years after the return of the attachment writ, was ineffect­ive as to her”, citing Parker v. Scheller, 60 Ill. App. 621.</p>
+                <p id="b203-6" pgmap="203(88) 204(66)">But the primary cause for the reversal of the de­fault judgment is given in the opinion of Mr. Justice Shepard as defects in essential particulars of the original affidavit for attachment, and even if we felt obliged and inclined, on this entirely subsidiary point, to follow the decision and opinion in Britton v. Gregg, it would certainly be very questionable whether this alleged defect in .“jurisdiction”, which existed against the defendant in 1900 and 1902, was in that sense “jurisdictional” so far as the garnishees were con­cerned, that after defending issues concerning their liability on the merits sucessfully in the Circuit Court, following an appeal to this court, and again contesting them unsuccessfully, then on remandment to the Cir­cuit Court raising new issues on the merits—which are undetermined at present—these garnishees can have the whole attachment proceedings quashed as void on account of it. Our opinion is that it would not.</p>
+                <p id="b204-5" pgmap="204">But at all events, whatever would have been their rights in this regard, on June 25, 1907, when this judgment was entered discharging them, if the de­fendant Marr had, up to that time, never appeared in the cause, nor shown that he had notice of it and opportunity to defend it, we cannot hold that there was any lack of jurisdiction over the garnishees, or over any effects or money of the defendant in their hands at that time. The defendant, against whom no judgment and not even a default had been taken (thus entirely distinguishing the case from Baldwin v. Fer­guson, 35 Ill. App. 394), had appeared in the cause. He called the paper he filed an “interplea”, and he recited in it that he came into the cause for a ‘ ‘ special purpose”. But he came into it, made himself a party to it, called himself in the paper he filed “the defend­ant” and, what was more important and to the pur­pose, was the defendant. If he had chosen to plead to the merits of the cause, he would undoubtedly, on a proper showing or terms, have been allowed to. But his appearance, such as it was, and in the manner that it was made, was quite sufficient to prevent such a consummation of this case in favor of the garnishees as occurred. Nicholes v. The People, 165 Ill. 502. They should not have been discharged, nor should the writ have been quashed for want of jurisdiction, and the judgment will be reversed and the cause remanded for further proceedings and determinations not in­consistent with this opinion.</p>
+                <p id="b204-6" pgmap="204">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="196" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00098_1"/>
+        <fptr FILEID="jp2_00098_1"/>
+        <fptr FILEID="alto_00098_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.2" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.3" BETYPE="IDREF" FILEID="alto_00098_1"/>
+              <area BEGIN="BL_196.4" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="197" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00099_0"/>
+        <fptr FILEID="jp2_00099_0"/>
+        <fptr FILEID="alto_00099_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.3" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.2" BETYPE="IDREF" FILEID="alto_00099_0"/>
+              <area BEGIN="BL_197.4" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="198" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00099_1"/>
+        <fptr FILEID="jp2_00099_1"/>
+        <fptr FILEID="alto_00099_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.2" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_198.3" BETYPE="IDREF" FILEID="alto_00099_1"/>
+              <area BEGIN="BL_198.4" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="199" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+              <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.2" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.3" BETYPE="IDREF" FILEID="alto_00100_1"/>
+              <area BEGIN="BL_200.4" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.2" BETYPE="IDREF" FILEID="alto_00101_0"/>
+              <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.3" BETYPE="IDREF" FILEID="alto_00101_1"/>
+              <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.2" BETYPE="IDREF" FILEID="alto_00102_0"/>
+              <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.2" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.3" BETYPE="IDREF" FILEID="alto_00102_1"/>
+              <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.5" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.5" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.8" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.7" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.6" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.5" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-16" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.20" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-17" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.23" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_197.1" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-14" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.18" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-15" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.19" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.11" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-13" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.12" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_196.13" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.9" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.10" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.7" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcC" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.15" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_196.16" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.7" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.8" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_203.1" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.6" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ac" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.14" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcS" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.21" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_196.22" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.5" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b198-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_198.6" BETYPE="IDREF" FILEID="alto_00099_1"/>
+            <area BEGIN="BL_199.1" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_n" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.17" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.5" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.7" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            <area BEGIN="BL_198.1" BETYPE="IDREF" FILEID="alto_00099_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.8" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0105" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Shoot v. Cleveland, Cincinnati, Chicago &amp; St. Louis Railroad">Clarence Shoot, Administrator, Appellee, v. Cleveland, Cincinnati, Chicago &amp; St. Louis Railroad Company, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 532</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00275_1" MIMETYPE="image/tiff" CHECKSUM="be5a32a333801ccac5d7d3eea32f460f" CHECKSUMTYPE="MD5" SIZE="38166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00275_1.tif"/>
+      </file>
+      <file ID="tiff_00276_0" MIMETYPE="image/tiff" CHECKSUM="017214d2a83e83d46997a519cab7eae1" CHECKSUMTYPE="MD5" SIZE="51534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00276_0.tif"/>
+      </file>
+      <file ID="tiff_00276_1" MIMETYPE="image/tiff" CHECKSUM="f863396e5fc72063df7c058d7e4073b6" CHECKSUMTYPE="MD5" SIZE="51794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00276_1.tif"/>
+      </file>
+      <file ID="tiff_00277_0" MIMETYPE="image/tiff" CHECKSUM="5edd0dc3a47c3ee13b9be81b29f7ce79" CHECKSUMTYPE="MD5" SIZE="55122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_0.tif"/>
+      </file>
+      <file ID="tiff_00277_1" MIMETYPE="image/tiff" CHECKSUM="0019d65c2974eacce87cf33a73da976c" CHECKSUMTYPE="MD5" SIZE="36668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00275_1" MIMETYPE="image/jp2" CHECKSUM="91f50e7fd9da503943339bbe60a6c42d" CHECKSUMTYPE="MD5" SIZE="2308996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00275_1.jp2"/>
+      </file>
+      <file ID="jp2_00276_0" MIMETYPE="image/jp2" CHECKSUM="615818053455e84b67e65d76329c6481" CHECKSUMTYPE="MD5" SIZE="2464390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00276_0.jp2"/>
+      </file>
+      <file ID="jp2_00276_1" MIMETYPE="image/jp2" CHECKSUM="9573c85b7bf0d29354a0e7db65416a6f" CHECKSUMTYPE="MD5" SIZE="2396540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00276_1.jp2"/>
+      </file>
+      <file ID="jp2_00277_0" MIMETYPE="image/jp2" CHECKSUM="ddd47fe1ae428f18f4d30207eb19ea97" CHECKSUMTYPE="MD5" SIZE="2429259">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_0.jp2"/>
+      </file>
+      <file ID="jp2_00277_1" MIMETYPE="image/jp2" CHECKSUM="69f890917cbcef5d9234a65a7883290b" CHECKSUMTYPE="MD5" SIZE="2290852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00277_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00275_1" MIMETYPE="text/xml" CHECKSUM="576fbe5b6d4bc5502edd1325c1a89096" CHECKSUMTYPE="MD5" SIZE="74837">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00275_1.xml"/>
+      </file>
+      <file ID="alto_00276_0" MIMETYPE="text/xml" CHECKSUM="5e09284d92ad86f63ec3c12de0214ef3" CHECKSUMTYPE="MD5" SIZE="84989">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00276_0.xml"/>
+      </file>
+      <file ID="alto_00276_1" MIMETYPE="text/xml" CHECKSUM="706b2139de23c87d93b6e62ba3684931" CHECKSUMTYPE="MD5" SIZE="89181">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00276_1.xml"/>
+      </file>
+      <file ID="alto_00277_0" MIMETYPE="text/xml" CHECKSUM="11e028898596edfb0fddc11c7165d129" CHECKSUMTYPE="MD5" SIZE="87657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00277_0.xml"/>
+      </file>
+      <file ID="alto_00277_1" MIMETYPE="text/xml" CHECKSUM="aa58db97ffc8203bd44dcdbc5395b2e5" CHECKSUMTYPE="MD5" SIZE="64831">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00277_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0105" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="536" firstpage="532">
+              <parties id="b550-6" pgmap="550">Clarence Shoot, Administrator, Appellee, v. Cleveland, Cincinnati, Chicago &amp; St. Louis Railroad Company, Appellant.</parties>
+              <decisiondate id="AC" pgmap="550">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b550-10" pgmap="550">George B. Gillespie, for appellant; L. J. Hackney, Hamlin, Gillespie &amp; Fitzgerald, and Andrews &amp; . Vause, of counsel.</attorneys>
+              <attorneys id="b550-11" pgmap="550">A. C. Anderson, for appellee.</attorneys>
+              <summary id="b550-9" pgmap="550">Trespass on the case. Appeal from the Circuit Court of Coles county; the Hon. James W. Craig, Judge, presiding. Heard in this court at the May term, 1908.</summary>
+              <disposition id="AX-" pgmap="550">Affirmed.</disposition>
+              <headnotes id="b550-7" pgmap="550">1. Common carriers—when liable for delays in transportation. In the absence of a special contract on the part of the carrier to deliver within a specified time, mere delay in transportation does not create a liability, but when the delay is beyond the time usually required to transport the shipment, the burden is cast upon the carrier to explain such delay and that it did not result from negli­gence.</headnotes>
+              <headnotes id="b550-8" pgmap="550">2. Common carriers—burden to show knowledge by shipper of restrictive conditions of contract signed by him. The burden is upon the carrier to show knowledge of and assent by the shipper to restrictive provisions contained in the contract signed by him and the fact that the shipper in making and presenting his claim for damages to the carrier complied with the provisions of such contract in that respect, is not conclusive evidence of his knowl­edge of and assent to the terms of such contract when he signed the same.</headnotes>
+              <opinion type="majority">
+                <author id="b551-4" pgmap="551">Mr. Justice Baume</author>
+                <p id="ACG" pgmap="551">delivered the opinion of the court.</p>
+                <p id="b551-5" pgmap="551">This is a suit originally instituted by appellee’s in­testate, T. T. Shoot, against appellant to recover dam­ages alleged to have accrued by reason of the failure of appellant to carry and deliver thirty-five head of cattle within a reasonable time after the shipment of said cattle from Charleston to Chicago. A judgment recovered by plaintiff on the first trial was reversed upon appeal to this court and the cause remanded for another trial. C., C., C. &amp; St. L. Ry. Co. v. Shoot, 130 Ill. App. 139. Thereafter the plaintiff died and upon suggestion of his death, his administrator, Clarence Shoot, was substituted as party plaintiff. Upon the next trial there was a verdict and judgment against defendant for $210.82, from which judgment this fur­ther appeal is prosecuted.</p>
+                <p id="b551-6" pgmap="551">The evidence tends to show that on Tuesday Janu­ary 19, 1904, in pursuance of a previous arrangement entered into between Shoot and the local agent of ap­pellant at Charleston, Shoot drove his cattle to the local yards at Charleston for shipment to Chicago upon a freight train of appellant, scheduled to leave Charleston at 1:15 p. m.; that the usual shipping route for live stock from Charleston to Chicago was by way of Mattoon, from which latter place to Chicago, the Illinois Central R. R. Co. acted as the connecting carrier of appellant; that the freight train of appel­lant did not arrive at Charleston until 11:30 p. m., and that in consequence of the delay in leaving Charleston and the subsequent delay in carrying the cattle from Mattoon to Chicago the cattle did not arrive at their destination in Chicago until about 12 o’clock noon on Thursday, January 21st. The time consumed in transporting the cattle from Charleston to Chicago was so greatly in excess of the time ordi­narily required for like shipments that the burden was cast upon appellant to show that the delay was without its fault and, therefore, not unreasonable.</p>
+                <p id="b552-4" pgmap="552">In. the absence of a special contract on the part of the carrier to deliver within a specified time, mere delay in transportation does not create a liability, but when the delay is beyond the time usually required to transport the shipment, the burden is cast upon the carrier to explain such delay and that it did not result from negligence. St. L. N. B. T. Ry. Co. v. Tassey, 122 III. App. 339; Adams Ex. Co. v. Bratton, 106 Ill. App. 563; W. St. L. &amp; P. Ry. Co. v. McCasland, 11 Ill. App. 491.</p>
+                <p id="b552-5" pgmap="552">The obvious reason for this trial is that the facts re­lating to the situation and the circumstances attend­ing the delay are peculiarly within the knowledge of the carrier and not readily ascertainable by the ship­per.</p>
+                <p id="b552-6" pgmap="552(224) 553(13)">As to the cause of the delay in transporting the cat­tle from Mattoon to Chicago appellant offered no ex­planation or excuse whatever. In an effort to explain the delay in the arrival of its freight train at Charles­ton appellant offered some evidence to the effect that one of its engines, which was hauling a passenger train, gave out en route because of leaky flues; that the freight train in question was side-tracked, the engine detached therefrom and attached to the passen­ger train, which was then hauled to its destination; that thereafter, the freight engine was re-attached to the freight train and the run of that train was then re­sumed. The evidence so offered by appellant consisted entirely of the conclusion of witnesses that the failure of the passenger engine could not be foreseen or an­ticipated, and that no engine, other than the freight engine, was available for the purpose of hauling the passenger train. No fact was stated which tended to show that appellant had exercised ordinary care in the inspection and operation of its passenger engine or that it was not guilty of negligence in the premises, and no offer of such proof was made by appellant. There is no competent evidence in the record in sup­port of appellant’s contention that the delay in the ar­rival of the freight train at Charleston was not due to its negligence.</p>
+                <p id="b553-4" pgmap="553">Previous to the shipment of the cattle by him Shoot signed what is known as a limited liability live-stock contract, which provided among other things that ap­pellant should not be liable for any loss or damage on account of delay in shipment of the cattle beyond the actual expense of feeding and caring for them during the delay. The burden was upon appellant to show that Shoot had knowledge of and assented to the re­strictive provisions of the contract signed by him. C., C., C. &amp; St. L. Ry. Co. v. Shoot, supra. The evidence bearing upon this question of fact was conflicting and we are not prepared to say that the verdict of the jury upon the issue was against a clear preponderance of such evidence. The fact that Shoot, in making and presenting his claim for damages, complied with the provisions of the contract in that respect is not con­clusive evidence of his knowledge of and assent to the terms of such contract when he signed the same.</p>
+                <p id="b553-5" pgmap="553">It is urged that the court, over the objection of ap­pellant, improperly permitted Shoot to testify that another freight train passed through Charleston bound for Mattoon while he was waiting for the local freight train which was to carry his stock. It is a sufficient answer to this contention to say that the evidence was admitted upon the direct examination of the witness without objection, and that counsel for appellant cross-examined the witness with reference thereto at length without offering any suggestion as to the im­propriety of such line of examination.</p>
+                <p id="b553-6" pgmap="553">Shoot paid a charge of $49.75 for feeding and caring for the cattle in the stock yards at Chicago, and appel­lee introduced evidence tending. to show that such charge was reasonable. Manifestly, the cattle could not have been kept there without incurring some ex­pense in that respect and there was no error in admit­ting evidence of such payment by Shoot and that the charge made therefor was reasonable.</p>
+                <p id="b554-4" pgmap="554">As appellant neither introduced nor offered any competent evidence tending to show that the delay in the transportation of the cattle was not due to its negligence or the negligence of its connecting carrier, the court did not err in modifying and giving the first and second instructions tendered by appellee. The only issue of fact remaining in the case other than the amount of damages sustained by him, was whether or not Shoot had knowledge of and assented to the terms of the shipping contract.</p>
+                <p id="b554-5" pgmap="554">We perceive no substantial error in the record and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b554-6" pgmap="554">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="550" ORDERLABEL="532" TYPE="page">
+        <fptr FILEID="tiff_00275_1"/>
+        <fptr FILEID="jp2_00275_1"/>
+        <fptr FILEID="alto_00275_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_550.2" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_550.3" BETYPE="IDREF" FILEID="alto_00275_1"/>
+              <area BEGIN="BL_550.4" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="551" ORDERLABEL="533" TYPE="page">
+        <fptr FILEID="tiff_00276_0"/>
+        <fptr FILEID="jp2_00276_0"/>
+        <fptr FILEID="alto_00276_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_551.2" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_551.1" BETYPE="IDREF" FILEID="alto_00276_0"/>
+              <area BEGIN="BL_551.3" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="552" ORDERLABEL="534" TYPE="page">
+        <fptr FILEID="tiff_00276_1"/>
+        <fptr FILEID="jp2_00276_1"/>
+        <fptr FILEID="alto_00276_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_552.1" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_552.2" BETYPE="IDREF" FILEID="alto_00276_1"/>
+              <area BEGIN="BL_552.3" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="553" ORDERLABEL="535" TYPE="page">
+        <fptr FILEID="tiff_00277_0"/>
+        <fptr FILEID="jp2_00277_0"/>
+        <fptr FILEID="alto_00277_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_553.3" BETYPE="IDREF" FILEID="alto_00277_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_553.2" BETYPE="IDREF" FILEID="alto_00277_0"/>
+              <area BEGIN="BL_553.4" BETYPE="IDREF" FILEID="alto_00277_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="554" ORDERLABEL="536" TYPE="page">
+        <fptr FILEID="tiff_00277_1"/>
+        <fptr FILEID="jp2_00277_1"/>
+        <fptr FILEID="alto_00277_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.1" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_554.2" BETYPE="IDREF" FILEID="alto_00277_1"/>
+              <area BEGIN="BL_554.3" BETYPE="IDREF" FILEID="alto_00277_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.7" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACG" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.5" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            <area BEGIN="BL_551.6" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.8" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-4" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.4" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-5" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.5" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.6" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            <area BEGIN="BL_553.1" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.8" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-5" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.6" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-4" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.5" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX-" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.12" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b553-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_553.7" BETYPE="IDREF" FILEID="alto_00277_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.13" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            <area BEGIN="BL_550.14" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-5" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.7" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-4" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.4" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-5" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.5" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.9" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-4" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.4" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b554-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_554.6" BETYPE="IDREF" FILEID="alto_00277_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-9" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.10" BETYPE="IDREF" FILEID="alto_00275_1"/>
+            <area BEGIN="BL_550.11" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-10" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.15" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b550-11" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_550.16" BETYPE="IDREF" FILEID="alto_00275_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

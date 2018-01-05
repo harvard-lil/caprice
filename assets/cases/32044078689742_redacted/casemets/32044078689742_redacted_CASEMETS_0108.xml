@@ -1,0 +1,647 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044078689742_0108" publicationstatus="published">
+          <court abbreviation="Ill. App. Ct." jurisdiction="Illinois">Illinois Appellate Court</court>
+          <name abbreviation="Reavely v. Harris">Mary Reavely, Appellee, v. Clara Harris, Appellant</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">145 Ill. App. 545</citation>
+          <decisiondate>1908-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>1970-01-01T00:00:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-03-15T03:56:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-03-23T01:48:42Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20160223-118</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00282_0" MIMETYPE="image/tiff" CHECKSUM="e959acf6cb22dc550bfabeb22395b732" CHECKSUMTYPE="MD5" SIZE="44352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_0.tif"/>
+      </file>
+      <file ID="tiff_00282_1" MIMETYPE="image/tiff" CHECKSUM="b818518e307ed9a52317b90facb64ca2" CHECKSUMTYPE="MD5" SIZE="47776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_1.tif"/>
+      </file>
+      <file ID="tiff_00283_0" MIMETYPE="image/tiff" CHECKSUM="acd58a375b59c05a0c63866ea6169db2" CHECKSUMTYPE="MD5" SIZE="52802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00283_0.tif"/>
+      </file>
+      <file ID="tiff_00283_1" MIMETYPE="image/tiff" CHECKSUM="71732a060a2bfef7fc07aa8d8b07298c" CHECKSUMTYPE="MD5" SIZE="51778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00283_1.tif"/>
+      </file>
+      <file ID="tiff_00284_0" MIMETYPE="image/tiff" CHECKSUM="4ec51ff7d6ea68a899f3ffed6aa8f7c0" CHECKSUMTYPE="MD5" SIZE="53698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00284_0.tif"/>
+      </file>
+      <file ID="tiff_00284_1" MIMETYPE="image/tiff" CHECKSUM="90ef1e7853add92eafd32906ce4d5493" CHECKSUMTYPE="MD5" SIZE="50454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00284_1.tif"/>
+      </file>
+      <file ID="tiff_00285_0" MIMETYPE="image/tiff" CHECKSUM="f39f697104f3e9c543594f821727af4a" CHECKSUMTYPE="MD5" SIZE="37584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00285_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00282_0" MIMETYPE="image/jp2" CHECKSUM="936c4be702ecc74c2250f62c6e65da90" CHECKSUMTYPE="MD5" SIZE="2389211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_0.jp2"/>
+      </file>
+      <file ID="jp2_00282_1" MIMETYPE="image/jp2" CHECKSUM="157f54e191654f0ffa57f229cb5412bb" CHECKSUMTYPE="MD5" SIZE="2376596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00282_1.jp2"/>
+      </file>
+      <file ID="jp2_00283_0" MIMETYPE="image/jp2" CHECKSUM="cb74bd7f925219c38336a93ccde6aa72" CHECKSUMTYPE="MD5" SIZE="2457282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00283_0.jp2"/>
+      </file>
+      <file ID="jp2_00283_1" MIMETYPE="image/jp2" CHECKSUM="5e10e7a8759363a202dad247bf4070cf" CHECKSUMTYPE="MD5" SIZE="2401252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00283_1.jp2"/>
+      </file>
+      <file ID="jp2_00284_0" MIMETYPE="image/jp2" CHECKSUM="7501674b00d8b5725c939658e1f10212" CHECKSUMTYPE="MD5" SIZE="2465079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00284_0.jp2"/>
+      </file>
+      <file ID="jp2_00284_1" MIMETYPE="image/jp2" CHECKSUM="e9931594b94cfc62f422fa421d149f1f" CHECKSUMTYPE="MD5" SIZE="2403150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00284_1.jp2"/>
+      </file>
+      <file ID="jp2_00285_0" MIMETYPE="image/jp2" CHECKSUM="304b508c31586e62342e880b9e361fa2" CHECKSUMTYPE="MD5" SIZE="2341553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044078689742_00285_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00282_0" MIMETYPE="text/xml" CHECKSUM="3a4acf38ae16bd1fd0f1d6bef23e7109" CHECKSUMTYPE="MD5" SIZE="78849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00282_0.xml"/>
+      </file>
+      <file ID="alto_00282_1" MIMETYPE="text/xml" CHECKSUM="c0124a9d74632a4d2bf9ca6ed0f29b2d" CHECKSUMTYPE="MD5" SIZE="87534">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00282_1.xml"/>
+      </file>
+      <file ID="alto_00283_0" MIMETYPE="text/xml" CHECKSUM="197f8081943c36e5736e87f5e20e1c5f" CHECKSUMTYPE="MD5" SIZE="83856">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00283_0.xml"/>
+      </file>
+      <file ID="alto_00283_1" MIMETYPE="text/xml" CHECKSUM="3e7685999a8cebb110db99c418b83845" CHECKSUMTYPE="MD5" SIZE="83567">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00283_1.xml"/>
+      </file>
+      <file ID="alto_00284_0" MIMETYPE="text/xml" CHECKSUM="32992d68723bf7cb5cf8e36024f6a0b8" CHECKSUMTYPE="MD5" SIZE="87381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00284_0.xml"/>
+      </file>
+      <file ID="alto_00284_1" MIMETYPE="text/xml" CHECKSUM="573feefbbe6977ea0f2685ae31d3887a" CHECKSUMTYPE="MD5" SIZE="78363">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00284_1.xml"/>
+      </file>
+      <file ID="alto_00285_0" MIMETYPE="text/xml" CHECKSUM="e18b24433c79b0cdd0b7e34d4f864022" CHECKSUMTYPE="MD5" SIZE="72870">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044078689742_redacted_ALTO_00285_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0108" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="551" firstpage="545">
+              <parties id="b563-8" pgmap="563">Mary Reavely, Appellee, v. Clara Harris, Appellant.</parties>
+              <decisiondate id="ASLA" pgmap="564">Opinion filed November 17, 1908.</decisiondate>
+              <attorneys id="b564-11" pgmap="564">John C. Snigg, John Gr. Fbiedmeyer and C. F. Mor­timer, for appellant.</attorneys>
+              <attorneys id="b564-12" pgmap="564">S. H. Cummins and Stevens &amp; Stevens, for appellee.</attorneys>
+              <summary id="b564-10" pgmap="564">Action in case. Appeal from the Circuit Court of Sangamon county; the Hon. James A. Creighton, Judge, presiding. Heard in this court at the November term, 1907.</summary>
+              <disposition id="AqE" pgmap="564">Affirmed.</disposition>
+              <headnotes id="b563-9" pgmap="563">1. Evidence—when not competent to corroborate witness. A wit­ness who has made contradictory statements may rarely he sup­ported by the introduction oí evidence that at other times and places he has made consistent statements.</headnotes>
+              <headnotes id="b563-10" pgmap="563(41) 564(9)">2. Evidence—when objection to lack of foundation for telephone conversations comes too late. The laying of the foundation for the introduction of telephone conversations is waived by a failure to object thereto in the trial court and by the complaining party having introduced like conversations without laying a foundation therefor.</headnotes>
+              <headnotes id="b564-5" pgmap="564">3. Witnesses—when may he permittéd to testify notwithstand­ing they have remained in the court room during the-trial contrary to order of court. It is within the discretion of the court to permit such a witness to testify.</headnotes>
+              <headnotes id="b564-6" pgmap="564">4. Witnesses-—when attorney justified in testifying. An attor­ney is justified in taking the stand in an emergency to prevent a possible miscarriage of justice and to meet a false aspersion cast upon his professional character.</headnotes>
+              <headnotes id="b564-7" pgmap="564">5. Instructions—-when action of court in refusing waived. The action of the court in refusing a peremptory instruction is waived by the defendant thereafter introducing evidence upon his own behalf.</headnotes>
+              <headnotes id="b564-8" pgmap="564">6. Pleading—when declaration in action for alienation of af­fections sufficiently avers marriage. Held, that the allegations of the declaration in this case sufficiently averred the existence of the marriage relation between the plaintiff and her husband whose af­fections it was alleged had been alienated; likewise that such dec­laration sufficiently averred that prior to the acts of the defendant complained of plaintiff had the affections of her husband.</headnotes>
+              <headnotes id="b564-9" pgmap="564">7. Pleading—when declaration charging alienation of affections sufficient. In an action for alienation of affections the pleader is not required specifically to aver the means used by the defendant to effect the wrongful alienation but an averment of the ultimate fact is sufficient.</headnotes>
+              <opinion type="majority">
+                <author id="b564-13" pgmap="564">Mr. Justice Baume</author>
+                <p id="AZj" pgmap="564">delivered the opinion of the court.</p>
+                <p id="b564-14" pgmap="564(53) 565(76)">The defendant, Clara Harris, prosecutes this appeal to reverse a judgment against her for $5,000, rendered upon a verdict for that amount in an action by the plaintiff, Mary Reavely, to recover damages for crim­inal conversation and for alienating the affections of her husband, John S. Reavely. It is urged that the trial court erred in the following particulars: First, in refusing to admit competent evidence offered on behalf of defendant; second, in admitting incompetent evidence offered on behalf of plaintiff; third, in refus­ing to give the peremptory instruction offered by de­fendant at the close of plaintiff’s evidence; fourth, in ruling upon the instructions, and, fifth, in overruling the motion for a new trial upon the ground that the verdict was not supported by the evidence.</p>
+                <p id="b565-4" pgmap="565">There was evidence tending to show that the wit­ness, Bose Link, called on behalf of defendant, had made contradictory statements relative to certain transactions involved in the case, and defendant for the purpose, as it is claimed, of corroborating said witness, sought to show that the witness had upon a prior occasion made statements consistent with her testimony upon the trial. Evidence of this character and for the purpose indicated is rarely admissible (Chicago City Ry. Co. v. Matthieson, 212 Ill. 292), but the record discloses that the purpose was not made known to the court, even after inquiry, and it did not appear what the alleged consistent statements were or when they were made. There was no error in sustain­ing plaintiff’s objection to the evidence as offered.</p>
+                <p id="b565-5" pgmap="565(137) 566(30)">For the purpose of contradicting the witness Bose Link, as to the matter of a conversation between her and one of the attorneys for the plaintiff, the latter deemed it necessary to take the stand and testify to his version of the conversation. The court had or­dered that all of the witnesses for the respective par­ties be excluded from the court room until called for examination, and it was objected that as the said attor­ney had been present during the trial he should not be permitted to testify. The enforcement of the rule was within the discretion of the trial court, and the exer­cise of that discretion in such case is not open to re­view. Notwithstanding his relation as attorney in the case, we think, the witness, in view of the emergency and in order to prevent a possible miscarriage of jus­tice and to meet a false aspersion cast upon Ms pro­fessional character, was justified in testifying in the case.</p>
+                <p id="b566-5" pgmap="566">It is argued that the court erred in admitting in evi­dence conversations over the telephone, without requir­ing sufficient foundation to be laid as to the identity of the parties involved. Evidence of this character was introduced indiscriminately by both parties with­out any objection by either, and the competency of such evidence cannot be challenged for the first time in this court. For the same reason defendant is pre­cluded from raising any question as to the competency of the evidence of plaintiff and her daughter detailing the substance of conversations between plaintiff and her husband.</p>
+                <p id="b566-6" pgmap="566">Defendant, after her request that a peremptory in­struction be given at the close of plaintiff’s evidence was denied, introduced evidence in support of her de­fense, and did not renew her request for a peremptory instruction at the close of all the evidence.</p>
+                <p id="b566-7" pgmap="566">In this state of the record this court is not called upon to consider and determine the propriety of the action of the trial court in refusing the peremptory instruction offered at the close of plaintiff’s evidence. P., C., C. &amp; St. L. Ry. Co. v. Hewitt, 202 Ill. 28; Union Trac. Co. v. O’Donnell, 211 Ill. 349; Streator Ind. Tel. Co. v. Cont. Tel. Con. Co., 217 Ill. 577.</p>
+                <p id="b566-8" pgmap="566">It is insisted that the first, second, third and seventh instructions given to the jury at the instance of plaint­iff are erroneous because they refer to the second count of the declaration, which it is contended does not contain the necessary allegations that plaintiff was married to John S. Reavely and had the affections of her said husband, and does not set out the particular acts and conduct employed by defendant to influence the alienation of the affections of plaintiff’s husband. The allegations of the second count of the declaration in the respects mentioned, are as follows:</p>
+                <p id="b567-4" pgmap="567">“For that, whereas, the defendant contriving and wickedly intending to injure the plaintiff, and to de­prive her of the society and assistance of John S. Reavely, the husband of the plaintiff, on to-wit, the 1st day of August, A. D. 1906, and on divers other days between that time and the commencement of this suit, in the county of Sangamon and state of Illinois, did wilfully and maliciously destroy and alienate from the plaintiff the affections then and there had by the said John S. Reavely, then and there the husband of the said Mary Reavely, for' the said Mary Reavely, the said Mary Reavely in no wise consenting thereto, by means whereof the plaintiff has from thence hith­erto wholly lost and been deprived of the society, af­fections, assistance and comfort of the said John S. Reavely, her said husband, in her domestic affairs, which the plaintiff during all of said time ought to have had, to the damage of the plaintiff,” etc.</p>
+                <p id="b567-5" pgmap="567">These allegations of the declaration sufficiently aver the existence of the marriage relation between plaint­iff and John S. Reavely, and that plaintiff had the affections of her husband. The rule of pleading appli­cable in such cases seems to be that the pleader need not specifically aver the means used by the defendant to effect the wrongful alienation of the affections of the plaintiff’s husband or wife, but that an averment of the ultimate fact is sufficient. Williams v. Williams, 20 Col. 51; Wales v. Miner, 89 Ind. 118. To aver the specific acts, conduct and means employed by the de­fendant to effect the ultimate purpose, would be to plead the evidence in the case. Defendant, however, is in no position to criticise the declaration or the instructions in the respects mentioned because the first instruction given at her request authorized a ver­dict for the plaintiff upon proof of the allegations of the declaration.</p>
+                <p id="b567-6" pgmap="567(34) 568(158)">It is next urged that the court erred in improperly modifying certain instructions asked on behalf of defendant. The modifications in the main consisted in striking out of the instructions as offered the re­quirement that plaintiff, in order to recover must show by a preponderance of the evidence that the de­fendant by her wilful and malicious acts and conduct caused the wrong complained of, and inserting in lieu thereof the requirement that plaintiff, in order to recover, must show by a preponderance of the evi­dence that the defendant alienated the affections of plaintiff’s husband in manner and form as charged in the second count of the declaration. The insistence, that such modification of the instructions eliminated the requirement that the conduct of the defendant in that regard must have been wilful and malicious, con­ceding that to be necessary is without merit, because, as we have heretofore shown, the second count of the declaration contains the express averment that de­fendant did wilfully and maliciously alienate from the plaintiff the affections of her husband. The modifica­tion, therefore, did not affect any substantial change in the instructions as offered.</p>
+                <p id="b568-5" pgmap="568">The defendant is a confessed prostitute and keeper of a house of assignation. That she successfully prac­ticed every art and allurement known to a woman of her character to induce the husband of plaintiff to unfaithfulness and the abandonment of plaintiff, is fully established by the evidence. The evidence also tends to show that the conduct of the defendant in that regard was persisted in wilfully and maliciously. That she had threatened to separate the plaintiff and her husband or die in the attempt.</p>
+                <p id="b568-6" pgmap="568">Some evidence was introduced by defendant tending to show that plaintiff was a frequent visitor at the house of defendant for the purpose of illicit inter­course, but a careful examination of the testimony bearing upon that question, as it appears in the record, convinces us that it is a mere tissue of fabrications. Neither the motion for a new trial nor the assignment of errors challenges the amount of the verdict as being excessive.</p>
+                <p id="b569-4" pgmap="569">There is no error in the record prejudicial to appel­lant and the judgment of the Circuit Court will be affirmed.</p>
+                <p id="b569-5" pgmap="569">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="563" ORDERLABEL="545" TYPE="page">
+        <fptr FILEID="tiff_00282_0"/>
+        <fptr FILEID="jp2_00282_0"/>
+        <fptr FILEID="alto_00282_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.3" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_563.2" BETYPE="IDREF" FILEID="alto_00282_0"/>
+              <area BEGIN="BL_563.4" BETYPE="IDREF" FILEID="alto_00282_0"/>
+              <area BEGIN="BL_563.11" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="564" ORDERLABEL="546" TYPE="page">
+        <fptr FILEID="tiff_00282_1"/>
+        <fptr FILEID="jp2_00282_1"/>
+        <fptr FILEID="alto_00282_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_564.2" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_564.3" BETYPE="IDREF" FILEID="alto_00282_1"/>
+              <area BEGIN="BL_564.4" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="565" ORDERLABEL="547" TYPE="page">
+        <fptr FILEID="tiff_00283_0"/>
+        <fptr FILEID="jp2_00283_0"/>
+        <fptr FILEID="alto_00283_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_565.3" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_565.2" BETYPE="IDREF" FILEID="alto_00283_0"/>
+              <area BEGIN="BL_565.4" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="566" ORDERLABEL="548" TYPE="page">
+        <fptr FILEID="tiff_00283_1"/>
+        <fptr FILEID="jp2_00283_1"/>
+        <fptr FILEID="alto_00283_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_566.2" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_566.3" BETYPE="IDREF" FILEID="alto_00283_1"/>
+              <area BEGIN="BL_566.4" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="567" ORDERLABEL="549" TYPE="page">
+        <fptr FILEID="tiff_00284_0"/>
+        <fptr FILEID="jp2_00284_0"/>
+        <fptr FILEID="alto_00284_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_567.2" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_567.1" BETYPE="IDREF" FILEID="alto_00284_0"/>
+              <area BEGIN="BL_567.3" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="568" ORDERLABEL="550" TYPE="page">
+        <fptr FILEID="tiff_00284_1"/>
+        <fptr FILEID="jp2_00284_1"/>
+        <fptr FILEID="alto_00284_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_568.2" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_568.3" BETYPE="IDREF" FILEID="alto_00284_1"/>
+              <area BEGIN="BL_568.4" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="569" ORDERLABEL="551" TYPE="page">
+        <fptr FILEID="tiff_00285_0"/>
+        <fptr FILEID="jp2_00285_0"/>
+        <fptr FILEID="alto_00285_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_569.2" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            </seq>
+          </fptr>
+        </div>
+        <div TYPE="pagematter">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_569.1" BETYPE="IDREF" FILEID="alto_00285_0"/>
+              <area BEGIN="BL_569.3" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-4" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.5" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZj" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.18" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_564.19" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.8" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.9" BETYPE="IDREF" FILEID="alto_00282_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.5" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b565-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_565.6" BETYPE="IDREF" FILEID="alto_00283_0"/>
+            <area BEGIN="BL_566.1" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b563-10" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_563.10" BETYPE="IDREF" FILEID="alto_00282_0"/>
+            <area BEGIN="BL_564.1" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASLA" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.13" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_564.14" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqE" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.12" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-13" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.17" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-12" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.16" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-11" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.15" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-10" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.10" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_564.11" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.5" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-14" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.20" BETYPE="IDREF" FILEID="alto_00282_1"/>
+            <area BEGIN="BL_565.1" BETYPE="IDREF" FILEID="alto_00283_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.9" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.8" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-4" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.4" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.8" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.6" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_568.1" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.5" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-4" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.4" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-7" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.7" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.6" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-7" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.7" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.6" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b564-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_564.5" BETYPE="IDREF" FILEID="alto_00282_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-5" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.5" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-6" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.6" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>
