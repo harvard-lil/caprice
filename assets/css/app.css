@@ -43,8 +43,9 @@ p.casebody {
 }
 */
 
-section.case_page {
+div.case_page {
 	border: thin solid #CCC;
+	background-image: url('../images/page_bg.png');
 }
 
 #case_display {

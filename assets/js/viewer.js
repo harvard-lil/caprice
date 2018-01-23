@@ -84,6 +84,7 @@ function loadContent() {
  */
 
 function get_case(case_id) {
+  setStatus('loading');
   // /xml/barcode/casenumber returns case_xml
   let case_parts = case_id.split("_")
   fetch("/xml/" + case_parts[0] + "/" + case_parts[1]).then(response => response.text())
@@ -104,8 +105,10 @@ function get_case(case_id) {
         let page_width = Math.round(container_width * 0.9)
         let left_pixel_offset = Math.round(document.getElementById("case_body").getBoundingClientRect().left + (container_width * 0.05))
 
-        //Here we loop through each case page in order
+
         let case_body_element = document.getElementById("case_body")
+        //Here we loop through each case page in order
+
         case_pages.forEach(function(case_page) {
           /* Create the pages, set the ID to the .tif file name so 
            * process_case_body() can find them and fill them in.
@@ -114,14 +117,6 @@ function get_case(case_id) {
           //actually fetch the page
           fetch("/xml/" + case_page.barcode.replace(/_/g, "/"))
           .then(response => { 
-              let page_element = document.createElement("section");
-              page_element.id = case_page.barcode + ".tif"
-              page_element.style.zIndex = "-1"
-              page_element.classList.add('case_page')
-              page_element.appendChild(document.createTextNode(case_page.barcode))
-              case_body_element.appendChild(page_element)
-              console.log("created " + case_page.barcode + ".tif")
-
               return response.text()
             })
           .then(case_page_response => {
@@ -131,7 +126,9 @@ function get_case(case_id) {
           })
         })
 
-     })
+     }).then(function() {
+        setStatus("loaded");
+      })
      .catch(error => {
         setStatus(error);
      });
@@ -279,11 +276,11 @@ function process_case_body(page_xml, top_pixel_offset, page_width, left_pixel_of
     page_element.style.position = "absolute";
     page_element.style.width = page_width + "px";
     page_element.style.height = page_height + "px";
-    page_element.style.top = top_pixel_offset + "px";
+    //page_element.style.top = ((page_height + 20) * (page_element.getAttribute("data-order") - 1))+ "px";
     page_element.style.left = left_pixel_offset + "px";
 
   }
-
+  rearrange_pages();
   return top_pixel_offset + page_height + 20
 }
 
@@ -308,7 +305,30 @@ function process_case_xml(case_xml) {
   let docket_number_value = oDOM.getElementsByTagNameNS(ns_case, "docketnumber")[0].textContent;
   let decision_date_value = oDOM.getElementsByTagNameNS(ns_case, "decisiondate")[0].textContent;
   let citation_list = oDOM.getElementsByTagNameNS(ns_case, "citation")
+  let files = oDOM.getElementsByTagNameNS(ns_mets, "fileGrp")
   
+
+  let pagecounter = 0;
+  let case_body_element = document.getElementById("case_body");
+  for (let file_group of files) {
+    if (file_group.getAttribute("USE") == 'tiff') {
+      for (let entry of file_group.childNodes) {
+        for (let file of entry.childNodes) {
+          if (!file.tagName)
+            continue;
+
+          let pathname = file.getAttribute("xlink:href").split("/");
+          let filename = pathname[pathname.length - 1];
+          let page_element = document.createElement("div");
+          page_element.id = filename
+          page_element.setAttribute("data-order", ++pagecounter);
+          page_element.classList.add('case_page')
+          case_body_element.appendChild(page_element)
+        }
+      }
+    }
+  }
+
   let court_name_element = document.getElementById("court_name")
   let case_abbreviation_element = document.getElementById("case_abbreviation")
   let case_name_element = document.getElementById("case_name")
@@ -335,6 +355,7 @@ function process_case_xml(case_xml) {
  * This just clears out existing data and preps it for new content
  */
 function setStatus(status) {
+  console.log(status);
   if (status == "loading") {
     destroy_chat()
 
@@ -373,6 +394,32 @@ function setStatus(status) {
 function jsUcfirst(string) 
 {
     return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function rearrange_pages() {
+    let mdbox = document.getElementById("casemetadata");
+    let pages = document.getElementsByClassName("case_page");
+    for (let page_element of pages) {
+      let order = page_element.getAttribute('data-order');
+      let previous_in_order = order - 1;
+      let top_value;
+      let previous_selector = "div[data-order=\"" + previous_in_order + "\"]";
+      if (order == 1) {
+        top_value = mdbox.getBoundingClientRect().bottom + 20
+      } else {
+        top_value = document.querySelector(previous_selector).getBoundingClientRect().bottom + 20;
+      }
+      page_element.style.top = top_value + "px";
+    }
+
+    /*
+    page_element.style.position = "absolute";
+    page_element.style.width = page_width + "px";
+    page_element.style.height = page_height + "px";
+    page_element.style.top = ((page_height + 20) * (page_element.getAttribute("data-order") - 1))+ "px";
+    page_element.style.left = left_pixel_offset + "px";
+    */
+  //let order = page_element.getAttribute('data-order');
 }
 
 loadContent()

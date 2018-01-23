@@ -40,6 +40,21 @@ defmodule CapriceWeb.CaselawController do
     |> send_resp(200, page_record.orig_xml)
   end
 
+  def page_html(conn,  %{"barcode" => barcode, "leaf_no" => leaf_no, "page_side" => page_side}) do
+    barcode = barcode <> "_" <> String.pad_leading(leaf_no, 5, "0") <> "_" <> page_side
+    page_record = get_page_xml_by_barcode!(barcode)
+    if page_record == nil do
+      conn
+      |> send_resp(404, "page not found")
+      |> halt()
+    end
+    conn
+    |> put_resp_header("content-type", "application/xml")
+    |> send_resp(200, page_record.orig_xml)
+  end
+
+
+
   def case_pages(conn,  %{"barcode" => barcode, "case_no" => case_no}) do
     case_id = barcode <> "_" <> String.pad_leading(case_no, 4, "0")
     case_record = get_case_with_pages_by_caseid!(case_id)
